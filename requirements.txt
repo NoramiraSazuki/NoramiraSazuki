@@ -1,0 +1,10 @@
+# Local PDF OCR / metadata extraction pipeline (Python 3.12)
+# System tools (installed via Homebrew, not pip): tesseract 5.5.3, tesseract-lang,
+# ghostscript 10.08.0, ocrmypdf 17.13.0
+pypdf==6.20.1
+pandas==3.0.6
+openpyxl==3.1.5
+python-dateutil==2.9.0.post0
+
+# Used only by tests/make_synthetic_pdfs.py to generate made-up test PDFs
+reportlab==5.0.1

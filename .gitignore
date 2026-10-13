@@ -2,5 +2,15 @@
 07_DulangOSS2026_Desktop/
 SeismicReportPDF/
 
+# PDF pipeline outputs — contain extracted (confidential) data
+output/
+logs/
+tmp/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
 # macOS
 .DS_Store

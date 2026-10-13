@@ -1,0 +1,50 @@
+{
+  "_comment": "Editable extraction rules. All matching is local and deterministic. Add your own companies, fields and well prefixes here.",
+
+  "cover_pages": 3,
+  "date_dayfirst": true,
+
+  "title_keywords": [
+    "REPORT", "SURVEY", "PROCESSING", "REPROCESSING", "INTERPRETATION", "ACQUISITION",
+    "FINAL", "COMPLETION", "EVALUATION", "STUDY", "ANALYSIS", "PROGRAMME", "PROGRAM",
+    "LAPORAN", "KAJIAN"
+  ],
+
+  "known_companies": [
+    "PETRONAS", "PETRONAS Carigali", "ExxonMobil", "Esso", "Shell", "Sarawak Shell",
+    "Schlumberger", "SLB", "Western Geophysical", "WesternGeco", "CGG", "Veritas",
+    "PGS", "Halliburton", "Baker Hughes", "Fugro", "Geco-Prakla", "Core Laboratories"
+  ],
+
+  "company_suffix_regex": "\\b(?:[A-Z][\\w&.'-]*\\s+){0,5}(?:Sdn\\.?\\s*Bhd\\.?|Berhad|Bhd\\.?|Inc\\.?|Ltd\\.?|Limited|Corporation|Corp\\.?|Company|Co\\.\\s*Ltd\\.?|LLC|plc|PLC|S\\.A\\.|B\\.V\\.|GmbH|AG)",
+
+  "contractor_labels": [
+    "Prepared by", "Submitted by", "Compiled by", "Processed by", "Acquired by",
+    "Interpreted by", "Authored by", "Author", "Contractor", "Service Company", "Disediakan oleh"
+  ],
+
+  "operator_labels": [
+    "Prepared for", "Submitted to", "Client", "Operator", "Customer", "For", "Disediakan untuk"
+  ],
+
+  "date_labels": ["Report Date", "Date of Report", "Date", "Issued", "Issue Date", "Tarikh"],
+
+  "known_fields": ["Dulang"],
+
+  "field_stopwords": [
+    "Oil", "Gas", "Magnetic", "Far", "Near", "Wave", "Electric", "Gravity", "Velocity", "Sound",
+    "Pressure", "Stress", "Data", "The", "This", "Each", "Every", "Offshore", "Onshore", "Mature",
+    "Producing", "Marginal", "Green", "Brown", "Name", "Free", "Full", "Total", "Whole", "Open", "Main"
+  ],
+
+  "well_prefixes": ["Dulang", "DL", "DUL"],
+
+  "well_label_regex": "\\b(?:Well(?:\\s*Name)?|Wells|Telaga)\\s*[:#]\\s*([A-Z][A-Za-z0-9 ./-]{1,40})",
+
+  "extra_well_regexes": [],
+
+  "_well_exclude_comment": "Matched well names that also match one of these are dropped, e.g. 'Dulang 3D' (a survey, not a well).",
+  "well_exclude_regexes": ["(?i)^\\S+ ?[234]D$"],
+
+  "well_stopwords": ["Page", "Figure", "Fig", "Table", "Plate", "Section", "Appendix", "Enclosure", "Line", "Volume", "Vol"]
+}
