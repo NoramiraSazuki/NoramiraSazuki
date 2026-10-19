@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="pilot-token" content="{{TOKEN}}">
+<title>Amira PDF Pilot</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<header>
+  <h1>Amira PDF Pilot <span class="muted">local only</span></h1>
+  <nav>
+    <button data-tab="catalogue" class="tab active">Catalogue</button>
+    <button data-tab="jobs" class="tab">Jobs</button>
+    <button data-tab="review" class="tab">Review</button>
+  </nav>
+  <div id="status" class="statusbar"></div>
+  <button id="shutdown" class="danger small" title="Stop the app; unfinished work resumes on next start">Shut down</button>
+</header>
+
+<main>
+<section id="tab-catalogue" class="panel">
+  <div class="toolbar">
+    <input id="search" type="search" placeholder="Search file name, title or folder…">
+    <select id="filter-status">
+      <option value="">All resolve statuses</option>
+      <option>OK</option><option>MISSING</option><option>AMBIGUOUS</option>
+      <option>OUTSIDE_SOURCE</option><option>BAD_PATH</option><option>PREFIX_MISMATCH</option>
+    </select>
+    <button id="reload-inv">Reload inventory</button>
+    <span id="inv-report" class="muted"></span>
+  </div>
+  <details id="unlisted-box" class="hidden"><summary>Files on disk not in the inventory</summary><ul id="unlisted"></ul></details>
+  <div class="tablewrap">
+  <table id="docs">
+    <thead><tr>
+      <th><input type="checkbox" id="select-all" title="Select all shown"></th>
+      <th data-sort="inv_row_id">#</th>
+      <th data-sort="file_name">File name</th>
+      <th data-sort="title" title="From the mapping workbook (DIRt), not extracted from the PDF">Title</th>
+      <th data-sort="folder">Folder</th>
+      <th data-sort="inv_pages" class="num">Pages (inv.)</th>
+      <th data-sort="inv_size" class="num">Size MB</th>
+      <th data-sort="resolve_status">Resolve</th>
+      <th data-sort="inv_duplicate_group">Dup. group</th>
+      <th data-sort="last_status">App status</th>
+      <th>Pages to process</th>
+    </tr></thead>
+    <tbody></tbody>
+  </table>
+  </div>
+  <div class="startbox">
+    <fieldset id="modes"><legend>Extraction mode</legend></fieldset>
+    <div>
+      <p id="sel-summary" class="muted">Nothing selected.</p>
+      <button id="start" class="primary" disabled>Queue extraction job</button>
+      <p class="muted small">Page numbers are the PDF's own page numbers (1 = first page). Leave blank for all pages.
+        Jobs run one at a time in the background; closing the browser does not stop them.</p>
+    </div>
+  </div>
+</section>
+
+<section id="tab-jobs" class="panel hidden">
+  <div id="jobs-list"></div>
+</section>
+
+<section id="tab-review" class="panel hidden">
+  <div class="toolbar">
+    <select id="rv-doc"><option value="">Choose a processed document…</option></select>
+    <button id="rv-prev">◀</button>
+    <input id="rv-page" type="number" min="1" value="1" class="narrow">
+    <span id="rv-of" class="muted"></span>
+    <button id="rv-next">▶</button>
+    <label class="small"><input type="checkbox" id="rv-only-processed" checked> step through processed pages only</label>
+  </div>
+  <div class="review">
+    <div class="pageimg"><img id="rv-img" alt="Rendered original page"><p id="rv-img-msg" class="muted"></p></div>
+    <div class="pagedata">
+      <div id="rv-route"></div>
+      <div id="rv-results"></div>
+      <div class="box">
+        <h3>Retry this page with another method</h3>
+        <select id="rv-method"></select>
+        <input id="rv-range" placeholder="pages, e.g. 12-15 (blank = this page)" class="medium">
+        <button id="rv-retry">Queue retry</button>
+        <p class="muted small">Your choice is recorded as an override and kept in history. Earlier results are not deleted.</p>
+      </div>
+      <div class="box">
+        <h3>Human review <span class="muted small">(separate from processing and automatic checks)</span></h3>
+        <div id="rv-review-state" class="small"></div>
+        <label><input type="radio" name="rv-status" value="approved"> Approved as extracted</label>
+        <label><input type="radio" name="rv-status" value="corrected"> Corrected</label>
+        <label><input type="radio" name="rv-status" value="rejected"> Rejected / unusable</label>
+        <label><input type="radio" name="rv-status" value="unreviewed"> Reset to unreviewed</label>
+        <textarea id="rv-corrected" rows="8" placeholder="Corrected text (only used when 'Corrected' is chosen). The original extraction is kept unchanged."></textarea>
+        <input id="rv-note" placeholder="Note (optional)">
+        <button id="rv-save">Save review (new revision)</button>
+        <details><summary>Review history</summary><ol id="rv-history" class="small"></ol></details>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+<div id="toast" class="toast hidden"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

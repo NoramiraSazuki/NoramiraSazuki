@@ -13,6 +13,7 @@ from __future__ import annotations
 import argparse
 import logging
 import os
+import re
 import shutil
 import sys
 import time
@@ -21,16 +22,19 @@ from pathlib import Path
 
 from . import WORKSPACE
 from .config import DEFAULT_CONFIG, Rules, load_rules
-from .export import EVIDENCE_COLUMNS, RESULT_COLUMNS, CsvWriter, write_xlsx
-from .extract import PageText, PdfReadError, extract_page_texts, open_reader, read_metadata
-from .fields import FIELD_NAMES, extract_fields
+from .export import CsvWriter, write_xlsx
+from .extract import (PageText, PdfReadError, encryption_type, extract_page_texts, open_reader,
+                      read_metadata)
+from .fields import Evidence, Extraction, extract_fields
 from .ocr import OcrError, ocr_available, run_ocr
 from .safety import FileSnapshot, SafetyError, check_write_location, create_new_dir
+from .schema import (CANDIDATE, CONFIG, EVIDENCE_COLUMNS, EXCLUDED, FILESYSTEM, MANUAL, MANUAL_COLUMNS,
+                     NEVER_EXPORTED, NEVER_FILLED, NOT_ENCRYPTED, NOT_FOUND, PDF_METADATA, PDF_STRUCTURE,
+                     REFERENCE_DATA, REFERENCE_DATA_COLUMNS, RESULT_COLUMNS, confidence)
+from .sections import filter_references
 
 log = logging.getLogger("pdf_pipeline")
-
-# Fields whose absence makes a result PARTIAL (Field/Well names are often legitimately absent).
-CORE_FIELDS = ["Report Title", "Company on Cover", "Report Date"]
+STATUS = "EXTRACTION STATUS"
 
 
 def find_pdfs(source: Path, recursive: bool) -> list[Path]:
@@ -45,9 +49,60 @@ def find_pdfs(source: Path, recursive: bool) -> list[Path]:
     )
 
 
+def _evidence_row(file_name: str, e: Evidence) -> dict:
+    return {
+        "File Name": file_name, "Attribute": e.attribute, "Value": e.value,
+        "Source Page(s)": "; ".join(map(str, e.pages)), "Source": e.source,
+        "Extraction Method": e.method, "Validation Status": e.validation, "Context": e.snippet,
+        "Confidence": confidence(e.validation),
+    }
+
+
+def _empty_column_evidence(row: dict, ex: Extraction) -> None:
+    """Give every results column at least one evidence row, explaining why an empty cell is empty."""
+    exported = {e.attribute for e in ex.evidence if not e.validation.startswith(CANDIDATE)}
+    for col in RESULT_COLUMNS:
+        if col == STATUS or row[col] not in ("", None) or col in exported:
+            continue
+        if col in NEVER_FILLED:
+            status, why = NEVER_EXPORTED, "secrets are never extracted or exported"
+        elif col == "DECRYPTION_TYPE":
+            status, why = NOT_ENCRYPTED, "PDF has no /Encrypt dictionary"
+        elif col in REFERENCE_DATA_COLUMNS:
+            status, why = REFERENCE_DATA, "needs classification_rules in dictionaries.json"
+        elif col in MANUAL_COLUMNS:
+            status, why = MANUAL, "set in the data system or constant_columns"
+        else:
+            has_candidate = any(e.attribute == col for e in ex.evidence)
+            status = NOT_FOUND
+            why = "only uncertain candidates found (see CANDIDATE rows)" if has_candidate else "no reliable evidence"
+        ex.evidence.append(Evidence(col, "", [], "", why, status))
+
+
+def _fill_row(row: dict, ex: Extraction) -> None:
+    for col in RESULT_COLUMNS:
+        if ex.get(col) and not row[col]:
+            row[col] = "; ".join(ex.get(col))
+    for attr in ("Top Depth", "Base Depth"):
+        depths = ex.depths[attr]
+        row[attr] = "; ".join(d.value for d in depths)
+        # UOM list stays aligned with the depth list; left empty when no unit was written.
+        row[f"{attr} UOM"] = "; ".join(d.uom for d in depths) if any(d.uom for d in depths) else ""
+
+
 def process_pdf(path: Path, rules: Rules, args, tmp_root: Path) -> tuple[dict, list[dict]]:
     row = {c: "" for c in RESULT_COLUMNS}
-    row["File Name"] = path.name
+    st = path.stat()
+    row.update({
+        "File Name": path.name,
+        "ORIGINAL_FILE_NAME": path.name,  # as found in the source folder (the pipeline never renames)
+        "File Size": st.st_size,
+        "DIGITAL_SIZE_UOM": "B",
+        "File Format": path.suffix.lstrip(".").upper(),
+    })
+    ex = Extraction()
+    for attr in ("File Name", "ORIGINAL_FILE_NAME", "File Size", "DIGITAL_SIZE_UOM", "File Format"):
+        ex.evidence.append(Evidence(attr, str(row[attr]), [], "filesystem", "file system attribute", FILESYSTEM))
     notes: list[str] = []
     before = FileSnapshot.of(path)
     work_dir = tmp_root / f"{time.monotonic_ns()}"
@@ -55,12 +110,11 @@ def process_pdf(path: Path, rules: Rules, args, tmp_root: Path) -> tuple[dict, l
     try:
         with open(path, "rb") as fh:  # read-only
             reader = open_reader(fh)
+            row["DECRYPTION_TYPE"] = encryption_type(reader)
             meta = read_metadata(reader)
             texts, failed_pages = extract_page_texts(reader)
         total = len(texts)
-        row["Total Pages"] = total
-        row["PDF Author"] = meta.author
-        row["PDF Creation Date"] = meta.creation_date
+        row["PAGE_COUNT"] = total
         pages = [PageText(i, t, "text") for i, t in enumerate(texts, start=1)]
         if failed_pages:
             notes.append(f"text error on {len(failed_pages)} page(s)")
@@ -83,48 +137,70 @@ def process_pdf(path: Path, rules: Rules, args, tmp_root: Path) -> tuple[dict, l
         elif need_ocr:
             notes.append(f"{len(need_ocr)}/{total} pages without text (OCR off)")
 
-        ex = extract_fields(pages, rules)
-        for name in FIELD_NAMES:
-            row[name] = "; ".join(ex.values[name])
-
-        missing = [f for f in CORE_FIELDS if not ex.values[f]]
-        if not any(p.text.strip() for p in pages):
-            status = "NO TEXT"
-        elif missing:
-            status = "PARTIAL"
-            notes.append("missing: " + ", ".join(missing))
-        else:
-            status = "OK"
-        evidence = [
-            {
-                "File Name": path.name, "Field": e.field, "Value": e.value,
-                "Page(s)": "; ".join(map(str, e.pages)), "Source": e.source,
-                "Rule": e.rule, "Context": e.snippet,
-            }
-            for e in ex.evidence
-        ]
+        # Bibliography/citation text describes other publications: hide it from extraction.
+        filtered = filter_references(pages, rules)
+        doc = extract_fields(filtered.pages, rules, path.name, meta.title)
+        doc.evidence[:0] = ex.evidence  # filesystem rows first
+        ex = doc
+        for sec in filtered.sections:
+            ex.evidence.append(Evidence("Excluded Section", sec.heading, sec.pages, "text",
+                                        f"reference section ({sec.lines} lines ignored)", EXCLUDED))
+        if filtered.citation_lines:
+            ex.evidence.append(Evidence("Excluded Citation Lines", str(sum(filtered.citation_lines.values())),
+                                        sorted(filtered.citation_lines), "text",
+                                        "citation-style lines outside reference sections", EXCLUDED))
+        _fill_row(row, ex)
+        ex.evidence.append(Evidence("PAGE_COUNT", str(total), [], "pdf_structure", "pypdf page count",
+                                    PDF_STRUCTURE))
+        if row["DECRYPTION_TYPE"]:
+            ex.evidence.append(Evidence("DECRYPTION_TYPE", row["DECRYPTION_TYPE"], [], "pdf_structure",
+                                        "/Encrypt dictionary (algorithm only)", PDF_STRUCTURE))
+        # Embedded metadata: reference only, never copied into document columns.
         for label, value in (("PDF Title", meta.title), ("PDF Author", meta.author),
                              ("PDF Creator", meta.creator), ("PDF Producer", meta.producer),
                              ("PDF Creation Date", meta.creation_date)):
             if value:
-                evidence.append({"File Name": path.name, "Field": label, "Value": value,
-                                 "Page(s)": "", "Source": "pdf_metadata", "Rule": "embedded metadata",
-                                 "Context": ""})
+                ex.evidence.append(Evidence(label, value, [], "pdf_metadata", "embedded metadata", PDF_METADATA))
+        review = ex.review + ex.flag_multiple()
+        if not any(p.text.strip() for p in pages):
+            status = "NO TEXT"
+        else:
+            status = "OK"
     except (PdfReadError, OcrError) as exc:
-        status, evidence = "FAILED", []
+        status = "FAILED"
         notes.append(str(exc))
+        if isinstance(exc, PdfReadError) and exc.encryption:
+            row["DECRYPTION_TYPE"] = exc.encryption
+        review = []
     except Exception as exc:  # keep the batch going; details go to the log file only
-        status, evidence = "FAILED", []
+        status = "FAILED"
         notes.append(f"{type(exc).__name__}: {str(exc)[:150]}")
         log.debug("Unexpected error for %s", path.name, exc_info=True)
+        review = []
     finally:
         if not args.keep_temp:
             shutil.rmtree(work_dir, ignore_errors=True)
 
+    if status != "FAILED":
+        for col, value in rules.constant_columns.items():
+            if not row[col]:
+                row[col] = value
+                ex.evidence.append(Evidence(col, value, [], "config", "constant_columns", CONFIG))
+        missing = [c for c in rules.required_columns if row[c] in ("", None)]
+        if missing and status == "OK":
+            status = "PARTIAL"
+        if missing:
+            notes.append("missing: " + ", ".join(missing))
+        if review:
+            notes.append("review: " + "; ".join(review))
+    for col in NEVER_FILLED:
+        row[col] = ""  # secrets are never exported
+
     if FileSnapshot.of(path) != before:
         notes.append("WARNING: source file size/mtime changed during run (not by this script)")
-    row["Extraction Status"] = " | ".join([status] + notes)
-    return row, evidence
+    row[STATUS] = " | ".join([status] + notes)
+    _empty_column_evidence(row, ex)
+    return row, [_evidence_row(path.name, e) for e in ex.evidence]
 
 
 def setup_logging(log_file: Path, quiet: bool) -> None:
@@ -137,6 +213,12 @@ def setup_logging(log_file: Path, quiet: bool) -> None:
     fh.setLevel(logging.DEBUG)
     fh.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
     log.addHandler(fh)
+    # pypdf's own warnings (e.g. "invalid pdf header") go to the log file, not the terminal.
+    pypdf_log = logging.getLogger("pypdf")
+    for handler in list(pypdf_log.handlers):
+        pypdf_log.removeHandler(handler)
+    pypdf_log.addHandler(fh)
+    pypdf_log.propagate = False
     ch = logging.StreamHandler(sys.stdout)
     ch.setLevel(logging.WARNING if quiet else logging.INFO)
     ch.setFormatter(logging.Formatter("%(message)s"))
@@ -168,6 +250,12 @@ def main(argv=None) -> int:
     if not source.exists():
         print(f"Source not found: {source}", file=sys.stderr)
         return 2
+    # Load rules before creating any folders, so a config error leaves nothing behind.
+    try:
+        rules = load_rules(args.config.expanduser())
+    except (OSError, ValueError, KeyError, re.error) as exc:
+        print(f"Config error: {exc}", file=sys.stderr)
+        return 2
 
     stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     out_dir = (args.output_dir or WORKSPACE / "output" / f"run_{stamp}").resolve()
@@ -184,7 +272,6 @@ def main(argv=None) -> int:
     tmp_root.mkdir(parents=True, exist_ok=True)
     setup_logging(log_file, args.quiet)
 
-    rules = load_rules(args.config)
     pdfs = find_pdfs(source, args.recursive)
     if args.ocr != "off" and not ocr_available():
         log.warning("OCR tools not found; scanned pages will have no text")
@@ -199,11 +286,11 @@ def main(argv=None) -> int:
             results.write(row)
             for e in ev:
                 evidence.write(e)
-            status = row["Extraction Status"].split(" | ")[0]
+            status = row[STATUS].split(" | ")[0]
             counts[status] = counts.get(status, 0) + 1
             # Log file name + status only; never extracted text.
             log.info("[%d/%d] %-8s %s (%.1fs)", i, len(pdfs), status, pdf.name, time.time() - t0)
-            log.debug("Status detail for %s: %s", pdf.name, row["Extraction Status"])
+            log.debug("Status detail for %s: %s", pdf.name, row[STATUS])
 
     if args.xlsx:
         write_xlsx(out_dir / "results.csv", out_dir / "results.xlsx")

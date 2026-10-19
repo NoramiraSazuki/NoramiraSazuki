@@ -5,22 +5,6 @@ from __future__ import annotations
 import csv
 from pathlib import Path
 
-RESULT_COLUMNS = [
-    "File Name",
-    "Report Title",
-    "Company on Cover",
-    "Created By (Contractor)",
-    "Created For (Operator)",
-    "Report Date",
-    "Total Pages",
-    "Field Name(s)",
-    "Well Name(s)",
-    "PDF Author",
-    "PDF Creation Date",
-    "Extraction Status",
-]
-
-EVIDENCE_COLUMNS = ["File Name", "Field", "Value", "Page(s)", "Source", "Rule", "Context"]
 
 
 class CsvWriter:

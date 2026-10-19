@@ -88,6 +88,96 @@ def make_scanned(path: Path) -> None:
     c.save()
 
 
+def make_completion_report(path: Path) -> None:
+    c = canvas.Canvas(str(path), pagesize=A4)
+    _text_page(c, [
+        "WELL COMPLETION REPORT",
+        "ZORVEX B-5",
+        "Prepared for: Acme Exploration Sdn Bhd",
+        "Prepared by: Fictional Drilling Services Sdn Bhd",
+        "Report Date: 20 August 1998",
+        "Transmittal Date: 25/08/1998",
+    ], size=14)
+    _text_page(c, [
+        "Well Name: Zorvex B-5     UWI: ZX-000-B5-0001",
+        "Spud Date: 03 June 1998     Completion Date: 1998-07-30",
+        "Top Depth: 1,250.5 m MD",
+        "Base Depth (ft TVD): 8200",
+        "Sampling Interval: 0.1524 m",
+        "Model: ZX Static Model v2",
+    ])
+    _text_page(c, [
+        "Operations summary: the well was re-entered.",
+        "Spud Date: 05 June 1998",
+    ])
+    c.save()
+
+
+def make_log_header(path: Path) -> None:
+    c = canvas.Canvas(str(path), pagesize=A4)
+    _text_page(c, [
+        "COMPOSITE LOG",
+        "Company: Acme Exploration Sdn Bhd",
+        "Logging Company: Fictional Wireline Ltd",
+        "Log Title: Gamma Ray - Resistivity",
+        "Run No: 2     Trip Date: 11-Sep-1998",
+        "Logged Interval: 1200 - 2450 m MDRT",
+        "Scale: 1:200 and 1:500",
+        "Well: Zorvex-7",
+    ])
+    c.save()
+
+
+ARTICLE_TITLE = "Borehole Logging Report from the Quillon Deep Drilling Project: Temperature Profiles"
+
+
+def make_journal_article(path: Path) -> None:
+    """Mimics a published borehole paper: title over 2 lines, publication dates, and a bibliography
+    whose entries contain depths, a 'model:', a field phrase and a well name that must all be ignored."""
+    c = canvas.Canvas(str(path), pagesize=A4)
+    c.setTitle(ARTICLE_TITLE)
+    _text_page(c, [
+        "Journal of Synthetic Geoscience 12 (1999) 101-115",
+        "Borehole Logging Report from the Quillon Deep",
+        "Drilling Project: Temperature Profiles",
+        "A. Fictional, B. Imaginary",
+        "Received 12 March 1998; accepted 2 October 1998",
+        "Abstract",
+        "Temperature logs were acquired in the Quillon Deep Borehole.",
+        "Tests were run at the Quillon Field Laboratory and relate to Earth's Thermal Field.",
+    ])
+    _text_page(c, [
+        "2. Logging Programme",
+        "Logged Interval: 1500 - 9000 m MD",
+        "Data were sampled every 0.1524 m (Fictional et al., 1995).",
+        "the top depth: 77 m was not reached in this sentence.",
+    ])
+    _text_page(c, [
+        "References",
+        "Fictional, A., Imaginary, B., 1995. The Geobattery model: a synthetic view. J. Synth. Geophys. 100, 1-20.",
+        "Other, C., Writer, D., 1996. Logged Interval: 200 - 400 m in the Quillon Field. Proc. Synth. 5, 7-9.",
+        "Writer, D., 1997. Top Depth: 50 m at well Zorvex-9. Bull. Synth. 3, 1-2.",
+        "Model: Reference Model 7",
+        "Appendix A",
+        "Model: Thermal Model ZT-1",
+    ])
+    c.save()
+
+
+def make_encrypted(path: Path) -> None:
+    """Owner-password protected (opens without a password, like many scanned reports)."""
+    from reportlab.lib.pdfencrypt import StandardEncryption
+
+    enc = StandardEncryption("", ownerPassword=SYNTHETIC_OWNER_PASSWORD, canPrint=1, strength=128)
+    c = canvas.Canvas(str(path), pagesize=A4, encrypt=enc)
+    _text_page(c, ["SEISMIC SURVEY REPORT", "Prepared for: Acme Exploration Sdn Bhd", "Date: 01 May 2003"])
+    c.save()
+
+
+# Made-up test value; tests assert it never appears in any output file.
+SYNTHETIC_OWNER_PASSWORD = "SyntheticOwnerSecret123"
+
+
 def make_no_fields(path: Path) -> None:
     c = canvas.Canvas(str(path), pagesize=A4)
     _text_page(c, ["Meeting notes, nothing structured on this page."])
@@ -100,6 +190,10 @@ def main(out_dir: Path) -> list[Path]:
         "searchable_report.pdf": make_searchable,
         "scanned_report.pdf": make_scanned,
         "no_fields.pdf": make_no_fields,
+        "completion_report.pdf": make_completion_report,
+        "log_header.pdf": make_log_header,
+        "encrypted_report.pdf": make_encrypted,
+        "journal_article.pdf": make_journal_article,
     }
     for name, maker in files.items():
         maker(out_dir / name)

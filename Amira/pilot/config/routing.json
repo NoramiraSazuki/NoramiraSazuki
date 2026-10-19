@@ -1,0 +1,23 @@
+{
+  "_comment": [
+    "Page routing rules. The first rule whose conditions all hold chooses the method; otherwise 'default'.",
+    "Conditions: <metric>_lt, _le, _gt, _ge. Metrics: chars, text_area, image_area, image_count,",
+    "garbage_ratio, rotation, size_vs_a4. Areas are fractions of the page (0-1).",
+    "Change 'version' whenever you change rules, so new decisions are stored separately."
+  ],
+  "version": "1",
+  "default": "textlayer",
+  "rules": [
+    {"name": "no usable text layer", "when": {"chars_lt": 20}, "method": "tesseract"},
+    {"name": "garbled text layer (unmapped glyphs)", "when": {"garbage_ratio_gt": 0.3, "chars_ge": 20},
+     "method": "tesseract"},
+    {"name": "image covers most of the page with little text over it",
+     "when": {"image_area_gt": 0.5, "text_area_lt": 0.1}, "method": "tesseract"}
+  ],
+  "flags": [
+    {"name": "large page / foldout", "when": {"size_vs_a4_gt": 1.8}},
+    {"name": "rotated page", "when": {"rotation_gt": 0}},
+    {"name": "image-dominant page (figure, map, seismic section or scan)", "when": {"image_area_gt": 0.5}},
+    {"name": "mixed: digital text over a large image", "when": {"image_area_gt": 0.3, "chars_ge": 20}}
+  ]
+}

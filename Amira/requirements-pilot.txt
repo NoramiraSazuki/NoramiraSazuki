@@ -1,0 +1,8 @@
+# Local browser pilot (in addition to ../requirements.txt). Installed into ../.venv on 2026-10-19.
+#   ../.venv/bin/pip install -r requirements-pilot.txt
+# ~25 MB in total; all MIT / BSD / Apache-2.0. Downloads happen only at install time.
+fastapi==0.146.0        # web API (pulls starlette, pydantic, anyio and opentelemetry-api - the no-op API only;
+                        # no telemetry SDK or exporter is installed, so nothing is sent anywhere)
+uvicorn==0.54.0         # local web server, bound to 127.0.0.1
+pypdfium2==5.14.0       # page text with positions, image coverage, single-page rendering (bundles PDFium)
+httpx==0.28.1           # tests only (FastAPI TestClient)

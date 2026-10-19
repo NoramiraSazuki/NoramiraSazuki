@@ -12,7 +12,9 @@ log = logging.getLogger(__name__)
 
 
 class PdfReadError(RuntimeError):
-    pass
+    def __init__(self, message: str, encryption: str = ""):
+        super().__init__(message)
+        self.encryption = encryption
 
 
 @dataclass
@@ -31,15 +33,49 @@ class PdfMetadata:
     creation_date: str = ""
 
 
+def encryption_type(reader: PdfReader) -> str:
+    """Describe the PDF's encryption scheme, e.g. 'Standard AES-128'. '' when not encrypted.
+
+    Only the algorithm is read from the /Encrypt dictionary; passwords and keys are
+    never read, derived, or returned.
+    """
+    try:
+        enc = reader.trailer.get("/Encrypt")
+        if enc is None:
+            return ""
+        enc = enc.get_object()
+        handler = str(enc.get("/Filter", "")).lstrip("/")
+        v, length = int(enc.get("/V", 0)), int(enc.get("/Length", 40))
+        if v in (4, 5):
+            cfm = ""
+            filters = enc.get("/CF")
+            if filters is not None:
+                std = filters.get_object().get(str(enc.get("/StmF", "/StdCF")))
+                cfm = str(std.get_object().get("/CFM", "")).lstrip("/") if std is not None else ""
+            algo = {"AESV2": "AES-128", "AESV3": "AES-256", "V2": f"RC4-{length}"}.get(cfm, cfm or f"V{v}")
+        elif v == 1:
+            algo = "RC4-40"
+        elif v == 2:
+            algo = f"RC4-{length}"
+        else:
+            algo = f"V{v}"
+        return f"{handler} {algo}".strip()
+    except Exception:
+        return "Encrypted (type unreadable)"
+
+
 def open_reader(stream) -> PdfReader:
+    """Open a PDF. Encrypted files are opened only if they need no password (owner-protected)."""
     reader = PdfReader(stream, strict=False)
     if reader.is_encrypted:
+        enc = encryption_type(reader)
         try:
             ok = reader.decrypt("")
         except Exception as exc:  # pypdf raises various types for unsupported crypto
-            raise PdfReadError(f"Encrypted PDF could not be opened: {type(exc).__name__}") from exc
+            raise PdfReadError(f"Encrypted PDF could not be opened: {type(exc).__name__}: {str(exc)[:120]}",
+                               enc) from exc
         if not ok:
-            raise PdfReadError("Encrypted PDF requires a password")
+            raise PdfReadError("Encrypted PDF requires a password (not attempted)", enc)
     return reader
 
 
