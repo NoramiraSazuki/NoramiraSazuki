@@ -19,7 +19,7 @@ REPO_DIR = Path(__file__).resolve().parent.parent.parent  # .../NoramiraSazuki (
 DEFAULT_DATA_ROOT = Path.home() / "AmiraPilotData"
 
 DEFAULT_TOML = """\
-# Amira PDF pilot settings. Edit, save, then restart the app.
+# Dulang PDF Extraction settings. Edit, save, then restart the app.
 # Runtime data (database, page results, previews, exports, logs) is kept under data_root,
 # which must be OUTSIDE the git repository.
 

@@ -19,7 +19,7 @@ Everything runs **on your Mac**. Nothing is uploaded, and the original PDFs are 
 7. [Safety and privacy](#7-safety-and-privacy)
 8. [Troubleshooting](#8-troubleshooting)
 9. [For maintainers](#9-for-maintainers)
-10. [Local browser app (pilot)](#10-local-browser-app-pilot)
+10. [Dulang PDF Extraction (local browser app)](#10-dulang-pdf-extraction-local-browser-app)
 
 ---
 
@@ -345,7 +345,7 @@ check every column, and delete the test files afterwards. They never touch real 
 
 ---
 
-## 10. Local browser app (pilot)
+## 10. Dulang PDF Extraction (local browser app)
 
 A local web app for choosing documents (or page ranges) from the inventory, extracting text page by page
 in the background, reviewing each page next to the original, and exporting the results. The command-line

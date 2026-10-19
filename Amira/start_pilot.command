@@ -1,5 +1,5 @@
 #!/bin/zsh
-# Start the Amira PDF pilot (local only). Double-click in Finder, or run ./start_pilot.command
+# Start Dulang PDF Extraction (local only). Double-click in Finder, or run ./start_pilot.command
 # Keeps the Mac awake while running (caffeinate -i). Stop with Ctrl+C or the "Shut down" button.
 cd "$(dirname "$0")" || exit 1
 PY="../.venv/bin/python"

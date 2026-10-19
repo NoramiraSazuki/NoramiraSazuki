@@ -111,7 +111,7 @@ def main(argv=None) -> int:
                                            access_log=False, server_header=False))
     worker.start()
     url = f"http://127.0.0.1:{s.port}/"
-    print(f"\nAmira PDF pilot running at {url}\nData folder: {s.data_root}\n"
+    print(f"\nDulang PDF Extraction running at {url}\nData folder: {s.data_root}\n"
           "Keep this window open. Stop with Ctrl+C (work resumes next start).\n")
     if not args.no_browser:
         threading.Timer(1.0, lambda: webbrowser.open(url)).start()
