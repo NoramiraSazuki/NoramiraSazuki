@@ -25,7 +25,8 @@ DEFAULT_TOML = """\
 
 [paths]
 data_root = "{data_root}"
-inventory_workbook = "{repo}/07_DulangOSS2026_Github/Dulang_OSS_All_Batches_File_Inventory.xlsx"
+# Workbooks are supplied by the data owner; keep them in <data_root>/workbooks (outside the code folder).
+inventory_workbook = "{data_root}/workbooks/Dulang_OSS_All_Batches_File_Inventory.xlsx"
 source_root = "/Volumes/homes/public/DulangOSS"   # all batch folders (20260925, 20261006, ...)
 
 [inventory]
@@ -37,7 +38,7 @@ extensions = ["pdf"]
 
 [titles]
 # Catalogue titles from a mapping workbook (read-only), joined by relative path in the location column.
-title_workbook = "/Users/noramirasazuki/Library/CloudStorage/OneDrive-MRCHURROSF&BSDN.BHD/Working/08_STE/07_DulangOSS2026/02_Data Mapping/Dulang_DIRt_v1.xlsx"
+title_workbook = "{data_root}/workbooks/Dulang_DIRt_v1.xlsx"   # optional; titles stay blank without it
 title_sheet = "*"            # "*" = every sheet that has the location column
 title_column = "H"
 title_location_header = "File Location"
@@ -106,6 +107,11 @@ class Settings:
         return self.data_root / "cache" / "previews"
 
     @property
+    def workbooks_dir(self) -> Path:
+        """Where the owner-supplied workbooks are kept (outside the code folder)."""
+        return self.data_root / "workbooks"
+
+    @property
     def exports_dir(self) -> Path:
         return self.data_root / "exports"
 
@@ -133,8 +139,8 @@ class Settings:
             raise ValueError("data_root must not be inside the source PDF folder")
 
     def ensure_dirs(self) -> None:
-        for d in (self.data_root, self.results_dir, self.tmp_dir, self.preview_dir, self.exports_dir,
-                  self.logs_dir):
+        for d in (self.data_root, self.workbooks_dir, self.results_dir, self.tmp_dir, self.preview_dir,
+                  self.exports_dir, self.logs_dir):
             d.mkdir(parents=True, exist_ok=True)
 
     def public_dict(self) -> dict:

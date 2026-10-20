@@ -36,16 +36,34 @@ All processing happens on your Mac. Documents are never uploaded to any website,
 - **At least 20 GB of free disk space.** Jobs pause automatically if free space drops below 15 GB.
 - An internet connection **only during installation**. Processing works offline, but needs access to the NAS.
 
-### Access
-You need your own access to all three of these:
+### Access and files
+You need these three things:
 
-| What | Why | Example location |
+| What | Why | Where it must be |
 |---|---|---|
 | **The Dulang NAS share**, mounted in Finder | The PDFs are read from here (read-only) | `/Volumes/homes/public/DulangOSS` |
-| **The file inventory workbook** | The list of files the catalogue shows | `Dulang_OSS_All_Batches_File_Inventory.xlsx` |
-| **The DIRt mapping workbook** (optional) | Fills the **Title** column (column H of each sheet) | `Dulang_DIRt_v1.xlsx` |
+| **The file inventory workbook** (required) | The list of files the catalogue shows | `/Users/<your-username>/AmiraPilotData/workbooks/Dulang_OSS_All_Batches_File_Inventory.xlsx` |
+| **The DIRt mapping workbook** (optional) | Fills the **Title** column (column H of each sheet) | `/Users/<your-username>/AmiraPilotData/workbooks/Dulang_DIRt_v1.xlsx` |
 
-The workbooks are **not** included in the GitHub repository, because they are confidential. Ask the data owner for access.
+**The data owner will supply both workbooks.** They are confidential, so they are **not** in the GitHub
+repository. When you receive them:
+
+1. Put both files in this folder, keeping **exactly** these file names:
+   ```
+   /Users/<your-username>/AmiraPilotData/workbooks/
+   ```
+   Replace `<your-username>` with your Mac user name. To see it, run `whoami` in Terminal. For example, if
+   `whoami` prints `aisyah`, the folder is `/Users/aisyah/AmiraPilotData/workbooks/`.
+2. The app creates this folder on its first start. To create it yourself beforehand, run:
+   ```bash
+   mkdir -p ~/AmiraPilotData/workbooks
+   open ~/AmiraPilotData/workbooks      # opens the folder in Finder so you can drag the files in
+   ```
+3. **Do not** put the workbooks inside the code folder (`~/Documents/GitHub/NoramiraSazuki`). Files there
+   could be committed to GitHub by mistake. `~/AmiraPilotData` is outside the code folder, so this cannot happen.
+
+If the owner sends an updated workbook later, replace the file in the same folder (same name), then click
+**Reload inventory** in the app.
 
 ### Software
 | Software | Purpose | Approx. size |
@@ -110,21 +128,25 @@ Start the app once (see [section 4](#4-starting-and-stopping)). On the first sta
 ~/AmiraPilotData/settings.toml
 ```
 
-**Open it in TextEdit or VS Code and fix the paths for your Mac.** The file is created with the original
-author's paths, which will not exist on your Mac. Change these lines:
+**If you put the workbooks in `~/AmiraPilotData/workbooks/` with their original names (see
+[section 1](#access-and-files)) and the NAS is mounted at `/Volumes/homes/public/DulangOSS`, you don't need
+to change anything.** The new settings file already points there:
 
 ```toml
 [paths]
-inventory_workbook = "/path/to/your/Dulang_OSS_All_Batches_File_Inventory.xlsx"
+inventory_workbook = "/Users/<your-username>/AmiraPilotData/workbooks/Dulang_OSS_All_Batches_File_Inventory.xlsx"
 source_root = "/Volumes/homes/public/DulangOSS"
 
 [titles]
-title_workbook = "/path/to/your/Dulang_DIRt_v1.xlsx"   # leave as is if you don't have it; titles stay blank
+title_workbook = "/Users/<your-username>/AmiraPilotData/workbooks/Dulang_DIRt_v1.xlsx"
 ```
 
-> **Tip:** to get a file's full path, select it in Finder, hold **Option**, then right-click and choose **Copy "…" as Pathname**.
+Only edit these lines (in TextEdit or VS Code) if your files have different names or your NAS is mounted
+somewhere else. Then save and restart the app.
 
-Save the file, then restart the app. You can leave the other settings as they are. The most useful ones are:
+> **Tip:** to copy a file's full path, select it in Finder, hold **Option**, right-click, and choose **Copy "…" as Pathname**.
+
+You can leave the other settings as they are. The most useful ones are:
 
 | Setting | Default | Meaning |
 |---|---|---|
@@ -225,6 +247,7 @@ Everything the app creates is stored **outside the code folder**, in:
 ```
 ~/AmiraPilotData/
 ├── settings.toml     your settings
+├── workbooks/        the inventory and DIRt workbooks supplied by the owner
 ├── pilot.sqlite3     catalogue, jobs, reviews
 ├── results/          extracted text, one file per page and method
 ├── cache/previews/   page images for the Review tab
@@ -234,7 +257,8 @@ Everything the app creates is stored **outside the code folder**, in:
 └── tmp/              temporary OCR images (deleted after each page)
 ```
 
-The **inventory workbook, the DIRt workbook and the PDFs are only read, never changed.**
+The **inventory workbook, the DIRt workbook and the PDFs are only read, never changed.** Back up
+`~/AmiraPilotData` if you want to keep your reviews and results.
 
 ---
 
@@ -258,9 +282,9 @@ The **inventory workbook, the DIRt workbook and the PDFs are only read, never ch
 | `Python environment not found` when starting | Repeat [installation step 4](#2-one-time-installation) |
 | `Port 8765 is in use` | The app is already running. Open http://127.0.0.1:8765/, or stop the other copy |
 | **NAS – Not connected** | Mount the NAS in Finder (Go → Connect to Server…), then wait a few seconds |
-| Catalogue is empty or says "Inventory not loaded" | Check `inventory_workbook` in `settings.toml` points to the real file, then click **Reload inventory** |
+| Catalogue is empty or says "Inventory not loaded" | Check that `Dulang_OSS_All_Batches_File_Inventory.xlsx` is in `~/AmiraPilotData/workbooks/` with exactly that name, then click **Reload inventory** |
 | Many files show **FOLDER_UNREADABLE** | The NAS was slow or did not answer. Click **Reload inventory** later. Files already confirmed keep their OK status |
-| Titles are all blank | Check `title_workbook` in `settings.toml`. Only rows with column H filled get a title |
+| Titles are all blank | Check that `Dulang_DIRt_v1.xlsx` is in `~/AmiraPilotData/workbooks/`. Only rows with column H filled get a title |
 | A job says **waiting_for_source** | The NAS dropped. It continues automatically when the NAS is back |
 | A job paused with "free disk space below min_free_gb" | Free some disk space, then click **Resume** |
 | The app stops responding | Press Ctrl+C in Terminal and start it again. Finished pages are kept |
