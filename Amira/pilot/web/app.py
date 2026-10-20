@@ -12,36 +12,76 @@ import secrets
 import shutil
 import threading
 import time
-from concurrent.futures import ThreadPoolExecutor
-from concurrent.futures import TimeoutError as FutTimeout
 from pathlib import Path
 
 from fastapi import Body, FastAPI, HTTPException, Request
-from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, PlainTextResponse
+from fastapi.responses import FileResponse, HTMLResponse, JSONResponse, PlainTextResponse, Response
 
-from .. import inventory, jobs, routing, store, titles
+from .. import catalogue, inventory, jobs, routing, store
 from ..engines import MODES, build_engines
-from ..exports import export_job
+from ..exports import DOWNLOAD_FORMATS, export_job, page_selection, render_download, zip_export
 from ..identity import stat_source
 from ..logutil import sanitize
 from ..pages import PageSpecError, parse_page_spec
 from ..pdfio import open_pdf, render_page
 
 STATIC = Path(__file__).resolve().parent / "static"
-_render_lock = threading.Lock()  # pdfium is not thread-safe
-_io_pool = ThreadPoolExecutor(max_workers=2)
+_render_lock = threading.Lock()  # pdfium is not thread-safe; released by the render thread itself
 
 
 def _with_timeout(fn, seconds: float, default):
-    """Filesystem checks on a dropped NAS can hang; never let them block the UI."""
-    fut = _io_pool.submit(fn)
-    try:
-        return fut.result(timeout=seconds)
-    except (FutTimeout, OSError):
+    """Run ``fn`` in its own daemon thread and wait at most ``seconds``.
+
+    A dropped SMB/NAS share can make file calls wait indefinitely. A fresh thread per call means
+    a stuck call never blocks later ones (a shared pool would fill up with stuck threads), and
+    the web request always gets an answer.
+    """
+    box: dict = {}
+
+    def run():
+        try:
+            box["value"] = fn()
+        except Exception as exc:  # noqa: BLE001 - reported to the caller below
+            box["error"] = exc
+
+    t = threading.Thread(target=run, daemon=True)
+    t.start()
+    t.join(seconds)
+    if t.is_alive() or isinstance(box.get("error"), OSError):
         return default
+    if "error" in box:
+        raise box["error"]
+    return box.get("value", default)
 
 
-def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None) -> FastAPI:
+class SourceMonitor:
+    """Checks the source folder in the background; requests read the last result and never wait."""
+
+    def __init__(self, probe, interval: float = 10.0, timeout: float = 15.0):  # the NAS can take 3-10 s to answer
+        self.probe, self.interval, self.timeout = probe, interval, timeout
+        self.available = False
+        self.checked = 0.0
+        self._stop = threading.Event()
+
+    def check_now(self) -> bool:
+        self.available = bool(_with_timeout(self.probe, self.timeout, False))
+        self.checked = time.time()
+        return self.available
+
+    def start(self) -> "SourceMonitor":
+        def loop():
+            while not self._stop.is_set():
+                self.check_now()
+                self._stop.wait(self.interval)
+        threading.Thread(target=loop, daemon=True).start()
+        return self
+
+    def stop(self) -> None:
+        self._stop.set()
+
+
+def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None, source_probe=None,
+               nas_timeout: float = 10.0) -> FastAPI:
     settings.ensure_dirs()
     app = FastAPI(docs_url=None, redoc_url=None, openapi_url=None)
     token = secrets.token_urlsafe(24)
@@ -50,6 +90,8 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
     engines = build_engines(settings)
     rules = routing.load_rules(routing.DEFAULT_RULES, set(engines))
     local = threading.local()
+    monitor = SourceMonitor(source_probe or settings.source_root.is_dir).start()
+    app.state.source_monitor = monitor
 
     def db():
         if not hasattr(local, "con"):
@@ -74,13 +116,14 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
                             else str(exc))
 
     # ------------------------------------------------------------ pages
+    # async: served on the event loop, so it works even if worker threads are busy
     @app.get("/", response_class=HTMLResponse)
-    def index():
+    async def index():
         html = (STATIC / "index.html").read_text(encoding="utf-8")
         return html.replace("{{TOKEN}}", token)
 
     @app.get("/static/{name}")
-    def static(name: str):
+    async def static(name: str):
         path = (STATIC / name).resolve()
         if path.parent != STATIC or not path.is_file():
             raise HTTPException(404)
@@ -96,9 +139,10 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
         return {
             "worker_alive": time.time() - hb < 15, "worker_activity": activity,
             "disk_free_gb": round(free_gb, 1), "min_free_gb": settings.min_free_gb,
-            "source_available": _with_timeout(settings.source_root.is_dir, 3, False),
+            "source_available": monitor.available, "source_checked": monitor.checked,
             "source_root": str(settings.source_root), "data_root": str(settings.data_root),
             "inventory_loaded": store.meta_get(con, "inventory_loaded"),
+            "scan": catalogue.scan_state(con), "large_job_pages": settings.large_job_pages,
             "modes": MODES, "methods": {n: e.label for n, e in engines.items()},
             "routing_version": rules.version,
         }
@@ -106,14 +150,10 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
     # ------------------------------------------------------------ catalogue
     @app.post("/api/inventory/reload")
     def reload_inventory():
-        try:
-            inv = _with_timeout(lambda: inventory.load(settings), 120, None)
-        except inventory.InventoryError as exc:
-            err(exc)
-        if inv is None:
-            raise HTTPException(504, "inventory or source folder did not respond in time")
-        store.upsert_documents(db(), inv, _with_timeout(lambda: titles.load(settings), 120, None))
-        return inventory_report()
+        """Starts a background refresh (listing the NAS can take minutes); progress is in /api/state."""
+        started = catalogue.start_background(settings)
+        return JSONResponse({"started": started, "message": "Catalogue refresh started." if started
+                             else "A catalogue refresh is already running."}, status_code=202)
 
     @app.get("/api/inventory/report")
     def inventory_report():
@@ -127,12 +167,13 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
                 "titles": json.loads(store.meta_get(con, "titles_report", "{}") or "{}"),
                 "with_title": con.execute("SELECT COUNT(*) FROM documents WHERE in_inventory=1 AND title IS NOT NULL")
                 .fetchone()[0],
-                "source_available": store.meta_get(con, "source_available") == "1"}
+                "source_available": store.meta_get(con, "source_available") == "1",
+                "folders": json.loads(store.meta_get(con, "folders", "[]") or "[]")}
 
     @app.get("/api/documents")
     def documents():
         rows = db().execute(
-            """SELECT d.id, d.rel_path, d.file_name, d.title, d.resolve_status, d.note, d.inv_row_id, d.inv_pages, d.inv_size,
+            """SELECT d.id, d.rel_path, d.file_name, d.title, d.title_source, d.resolve_status, d.note, d.inv_row_id, d.inv_pages, d.inv_size,
                       d.inv_ingest_status, d.inv_duplicate_group, d.inv_copies, s.page_count, s.sha256 IS NOT NULL
                       AS processed_before,
                       (SELECT i.status FROM job_items i WHERE i.doc_id=d.id ORDER BY i.id DESC LIMIT 1) AS last_status,
@@ -146,10 +187,15 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
     def create_job(payload: dict = Body(...)):
         try:
             sel = [(int(i["doc_id"]), str(i.get("pages") or "all")) for i in payload.get("items", [])]
+            pages, unknown = jobs.estimate_pages(db(), sel)
+            if pages > settings.large_job_pages and not payload.get("confirm_large"):
+                return JSONResponse(status_code=409, content={
+                    "detail": "large job: confirmation required", "pages": pages, "unknown_page_counts": unknown,
+                    "threshold": settings.large_job_pages})
             job_id = jobs.create_job(db(), sel, payload.get("mode", "text_metadata"))
         except (jobs.JobError, KeyError, ValueError, TypeError) as exc:
             err(exc)
-        return {"job_id": job_id}
+        return {"job_id": job_id, "pages": pages}
 
     @app.get("/api/jobs")
     def list_jobs():
@@ -175,6 +221,8 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
                 jobs.cancel(con, job_id)
             elif action == "retry":
                 return {"requeued": jobs.retry(con, job_id)}
+            elif action == "download":
+                return download_job(job_id)  # defined below; registered after this generic route
             elif action == "export":
                 return {"export_dir": str(export_job(con, settings, job_id, engines, rules.version))}
             else:
@@ -205,6 +253,40 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
         return "\n".join(lines)
 
     # ------------------------------------------------------------ review
+    def _attachment(name: str) -> dict:
+        from urllib.parse import quote
+
+        ascii_name = "".join(c if c.isalnum() or c in "._-" else "_" for c in name)
+        return {"Content-Disposition": f"attachment; filename=\"{ascii_name}\"; filename*=UTF-8''{quote(name)}"}
+
+    @app.post("/api/docs/{doc_id}/download")
+    def download_pages(doc_id: int, payload: dict = Body(...)):
+        """Extracted text of selected original pages as TXT / CSV / JSON (built from stored results)."""
+        fmt = str(payload.get("format", "txt")).lower()
+        if fmt not in DOWNLOAD_FORMATS:
+            raise HTTPException(400, f"format must be one of {', '.join(DOWNLOAD_FORMATS)}")
+        spec = str(payload.get("pages") or "all")
+        try:
+            doc, sel = page_selection(db(), doc_id, spec, engines, rules.version)
+        except (ValueError, PageSpecError) as exc:
+            err(exc)
+        stem = doc["file_name"].rsplit(".", 1)[0]
+        label = "all" if spec.strip().lower() == "all" else spec.replace(",", "_").replace(" ", "")
+        return Response(render_download(doc, sel, fmt), media_type=DOWNLOAD_FORMATS[fmt],
+                        headers=_attachment(f"{stem}_pages_{label}.{fmt}"))
+
+    @app.post("/api/jobs/{job_id}/download")
+    def download_job(job_id: int):
+        """Fresh export of the job (text, metadata, Excel, JSON) as one .zip file."""
+        if db().execute("SELECT 1 FROM jobs WHERE id=?", (job_id,)).fetchone() is None:
+            raise HTTPException(404, "no such job")
+        try:
+            folder = export_job(db(), settings, job_id, engines, rules.version)
+            z = zip_export(folder)
+        except (OSError, ValueError) as exc:
+            err(exc)
+        return FileResponse(z, media_type="application/zip", headers=_attachment(z.name))
+
     @app.get("/api/docs/{doc_id}/pages/{page_no}")
     def page(doc_id: int, page_no: int):
         try:
@@ -224,19 +306,30 @@ def create_app(settings, allowed_hosts: set[str] | None = None, on_shutdown=None
         cache = settings.preview_dir / row["sha256"] / f"p{page_no:06d}_{settings.preview_dpi}.png"
         if not cache.is_file():
             path = Path(row["resolved_path"])
-            st = _with_timeout(lambda: stat_source(path), 5, None)
+            st = _with_timeout(lambda: stat_source(path), min(5.0, nas_timeout), None)
             if st is None:
                 raise HTTPException(503, "source PDF not reachable (NAS?)")
             if (st.st_size, st.st_mtime_ns) != (row["size"], row["mtime_ns"]):
                 raise HTTPException(409, "source PDF changed since it was processed; re-run the job")
-            with _render_lock:
-                pdf = open_pdf(path)
+            if not _render_lock.acquire(timeout=nas_timeout):
+                raise HTTPException(503, "another page is still rendering (NAS slow?); try again shortly")
+
+            def render():
                 try:
-                    pg = pdf[page_no - 1]
-                    img, _ = render_page(pg, settings.preview_dpi, 12)
-                    pg.close()
+                    pdf = open_pdf(path)
+                    try:
+                        pg = pdf[page_no - 1]
+                        image, _ = render_page(pg, settings.preview_dpi, 12)
+                        pg.close()
+                        return image
+                    finally:
+                        pdf.close()
                 finally:
-                    pdf.close()
+                    _render_lock.release()  # released when the render really ends, even after a timeout
+
+            img = _with_timeout(render, nas_timeout, None)
+            if img is None:
+                raise HTTPException(503, "source PDF not reachable in time (NAS?)")
             cache.parent.mkdir(parents=True, exist_ok=True)
             tmp = cache.with_suffix(".tmp")
             img.save(tmp, format="PNG")

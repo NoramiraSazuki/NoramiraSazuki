@@ -46,6 +46,26 @@ def create_job(con, selections: list[tuple[int, str]], mode: str = "text_metadat
     return job_id
 
 
+def estimate_pages(con, selections: list[tuple[int, str]]) -> tuple[int, int]:
+    """Pages a job would cover: (total, documents whose page count is unknown and counted as 0)."""
+    total = unknown = 0
+    for doc_id, spec in selections:
+        spec = (spec or "all").strip() or "all"
+        if spec.lower() != "all":
+            try:
+                total += len(parse_page_spec(spec))
+            except PageSpecError:
+                pass  # create_job reports the error
+            continue
+        row = con.execute("""SELECT COALESCE(s.page_count, d.inv_pages) n FROM documents d
+                             LEFT JOIN sources s ON s.doc_id=d.id WHERE d.id=?""", (doc_id,)).fetchone()
+        if row is None or row["n"] is None:
+            unknown += 1
+        else:
+            total += row["n"]
+    return total, unknown
+
+
 def _status(con, job_id: int) -> str:
     row = con.execute("SELECT status FROM jobs WHERE id=?", (job_id,)).fetchone()
     if row is None:

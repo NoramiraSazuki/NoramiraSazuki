@@ -43,7 +43,7 @@ td input.pages { width: 120px; }
 .badge { display: inline-block; padding: 0 6px; border-radius: 9px; font-size: 11px; border: 1px solid currentColor; }
 .b-OK, .b-done { color: var(--ok); }
 .b-MISSING, .b-AMBIGUOUS, .b-OUTSIDE_SOURCE, .b-BAD_PATH, .b-PREFIX_MISMATCH, .b-failed { color: var(--bad); }
-.b-done_with_errors, .b-paused, .b-waiting_for_source, .b-cancelled { color: var(--warn); }
+.b-FOLDER_UNREADABLE, .b-done_with_errors, .b-paused, .b-waiting_for_source, .b-cancelled { color: var(--warn); }
 .b-running, .b-queued { color: var(--accent); }
 .startbox { display: flex; gap: 24px; flex-wrap: wrap; margin-top: 12px; }
 fieldset { border: 1px solid var(--line); border-radius: 6px; min-width: 320px; }
@@ -65,3 +65,31 @@ pre.text { white-space: pre-wrap; word-break: break-word; max-height: 40vh; over
 .flag { color: var(--warn); font-size: 12px; }
 .toast { position: fixed; bottom: 16px; right: 16px; background: var(--fg); color: var(--bg); padding: 8px 12px;
          border-radius: 6px; max-width: 480px; z-index: 5; }
+
+/* folder tree (Finder-like list view) */
+table.tree td.tree-name { white-space: nowrap; }
+table.tree td.tree-name.folder { cursor: pointer; font-weight: 500; }
+table.tree .caret { display: inline-block; width: 14px; color: var(--muted); }
+table.tree .icon { margin-right: 6px; }
+table.tree tr.folder-row td { background: color-mix(in srgb, var(--line) 25%, transparent); }
+table.tree tr.folder-row.sel td { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+table.tree tr.more td { border-bottom: none; }
+#sel-summary.flag { font-weight: 600; }
+table.tree tr.context-row td { background: var(--bg); border-bottom: 1px dashed var(--line); }
+.pager { margin: 8px 0; }
+.b-NOT_CHECKED { color: var(--muted); }
+
+/* Frozen layout: header + catalogue controls stay put; only the catalogue rows scroll. */
+html, body { height: 100%; }
+body { display: flex; flex-direction: column; height: 100vh; overflow: hidden; }
+header { position: static; flex: none; }
+main { flex: 1; min-height: 0; overflow: auto; }
+#tab-catalogue:not(.hidden) { display: flex; flex-direction: column; height: 100%; min-height: 0; }
+#tab-catalogue > * { flex: none; }
+#tab-catalogue > .tablewrap { flex: 1 1 auto; min-height: 120px; max-height: none; overflow: auto; }
+#docs thead th { position: sticky; top: 0; z-index: 2; box-shadow: 0 1px 0 var(--line); }
+.startbar { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 10px 0 0; }
+.startbar #sel-summary { flex: 1; }
+.statusbar { font-size: 13px; }
+.statusbar .nas { font-weight: 600; }
+.summary-warn { color: var(--bad); }

@@ -38,13 +38,21 @@ def sha(path: Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def make_env(base: Path, **processing) -> Path:
-    """Settings + source folder + data root, all inside a temp folder."""
-    (base / "src").mkdir(parents=True, exist_ok=True)
+SEISMIC_ONLY = {"filter_column": "Sub-folder", "filter_value": "Seismic Report", "path_prefix": PREFIX}
+
+
+def make_env(base: Path, inventory_cfg: dict | None = SEISMIC_ONLY, source: Path | None = None, **processing) -> Path:
+    """Settings + source folder + data root, all inside a temp folder.
+
+    Default: the original single-folder setup (Seismic Report). ``inventory_cfg=None`` = all batches.
+    """
+    src = source or base / "src"
+    src.mkdir(parents=True, exist_ok=True)
     proc = {"batch_pages": 3, "ocr_dpi": 200, "min_free_gb": 0, "ocr_page_timeout": 120, **processing}
+    inv = "".join(f"{k} = {json.dumps(v)}\n" for k, v in (inventory_cfg or {}).items())
     toml = (f'[paths]\ndata_root = "{base / "data"}"\ninventory_workbook = "{base / "inv.xlsx"}"\n'
-            f'source_root = "{base / "src"}"\n[titles]\ntitle_workbook = "{base / "dirt.xlsx"}"\n[processing]\n'
-            + "".join(f"{k} = {json.dumps(v)}\n" for k, v in proc.items()))
+            f'source_root = "{src}"\n[inventory]\n{inv}[titles]\ntitle_workbook = "{base / "dirt.xlsx"}"\n'
+            f'[processing]\n' + "".join(f"{k} = {json.dumps(v)}\n" for k, v in proc.items()))
     p = base / "settings.toml"
     p.write_text(toml, encoding="utf-8")
     return p
@@ -211,6 +219,261 @@ class TitleTest(Base):
                          "Synthetic Survey Report A")
         Path(self.s.title_workbook).unlink()
         self.assertIn("not found", titles.load(self.s).error)
+
+
+class AllBatchesTest(unittest.TestCase):
+    """Whole share: every PDF in every batch folder, folder tree incl. empty folders."""
+
+    def setUp(self):
+        self.base = Path(tempfile.mkdtemp(prefix="pilot_test_"))
+        self.share = self.base / "DulangOSS"
+        self.seis = self.share / "20260925/DOCUMENTS/Seismic Report"
+        (self.seis / "BOTTOM_HOLE_PRESSURE_SURVEY").mkdir(parents=True)
+        (self.share / "20260925/CHECKSHOT").mkdir(parents=True)               # no PDFs: still shown
+        (self.share / "20261016/DULANG_WELLS/Well_History").mkdir(parents=True)
+        syn.make_text(self.seis / "s1.pdf", pages=2)
+        syn.make_text(self.seis / "BOTTOM_HOLE_PRESSURE_SURVEY" / "b1.pdf", pages=1)
+        syn.make_text(self.share / "20261016/DULANG_WELLS/Well_History/w1.pdf", pages=3)
+        (self.share / "20260925/CHECKSHOT/data.las").write_text("~synthetic")
+        self.rows = [
+            {"File Name": "s1.pdf", "#": 1, "Sub-folder": "Seismic Report", "File Path": PREFIX + "s1.pdf", "Total Pages": 2},
+            {"File Name": "b1.pdf", "#": 2, "Sub-folder": "Seismic Report",
+             "File Path": PREFIX + "BOTTOM_HOLE_PRESSURE_SURVEY/b1.pdf", "Total Pages": 1},
+            {"File Name": "w1.pdf", "#": 3, "Sub-folder": "Well_History",
+             "File Path": "20261016/DULANG_WELLS/Well_History/w1.pdf", "Total Pages": 3},
+            {"File Name": "m.pdf", "#": 4, "Sub-folder": "01 WIR", "File Path": "20261015/MBAL/01 WIR/m.pdf",
+             "Total Pages": 5},
+            {"File Name": "data.las", "#": 5, "Sub-folder": "CHECKSHOT", "File Path": "20260925/CHECKSHOT/data.las"},
+        ]
+
+    def tearDown(self):
+        shutil.rmtree(self.base, ignore_errors=True)
+
+    def settings(self, seismic_only: bool):
+        if seismic_only:
+            return load_settings(make_env(self.base, source=self.seis))
+        return load_settings(make_env(self.base, inventory_cfg=None, source=self.share))
+
+    def test_all_batches_and_folders(self):
+        s = self.settings(False)
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        from pilot import catalogue
+
+        state = catalogue.refresh(s)
+        self.assertEqual(state["documents"], 4, "PDF rows only, from every batch")
+        con = store.connect(s.db_path)
+        got = {r["rel_path"]: r["resolve_status"] for r in con.execute("SELECT rel_path, resolve_status FROM documents")}
+        self.assertEqual(got, {"20260925/DOCUMENTS/Seismic Report/s1.pdf": "OK",
+                               "20260925/DOCUMENTS/Seismic Report/BOTTOM_HOLE_PRESSURE_SURVEY/b1.pdf": "OK",
+                               "20261016/DULANG_WELLS/Well_History/w1.pdf": "OK",
+                               "20261015/MBAL/01 WIR/m.pdf": "MISSING"})
+        folders = json.loads(store.meta_get(con, "folders"))
+        for f in ("20260925", "20260925/CHECKSHOT", "20260925/DOCUMENTS/Seismic Report/BOTTOM_HOLE_PRESSURE_SURVEY",
+                  "20261015/MBAL/01 WIR"):  # empty folder, nested folder, inventory-only folder
+            self.assertIn(f, folders)
+
+    def test_widening_scope_keeps_history(self):
+        s1 = self.settings(True)
+        syn.make_inventory(s1.inventory_workbook, self.rows)
+        from pilot import catalogue
+
+        catalogue.refresh(s1)
+        con = store.connect(s1.db_path)
+        did = con.execute("SELECT id FROM documents WHERE rel_path='s1.pdf'").fetchone()[0]
+        job = jobs.create_job(con, [(did, "all")])
+        w = Worker(s1)
+        w.run_once()
+        v = jobs.page_view(con, did, 1, w.engines, w.rules.version)
+        jobs.add_review(con, v["sha256"], 1, None, "approved")
+        s2 = self.settings(False)  # same data root, whole share
+        state = catalogue.refresh(s2)
+        self.assertEqual(state["rekeyed"], 2)
+        row = con.execute("SELECT id, rel_path FROM documents WHERE id=?", (did,)).fetchone()
+        self.assertEqual(row["rel_path"], "20260925/DOCUMENTS/Seismic Report/s1.pdf")
+        self.assertEqual(con.execute("SELECT COUNT(*) FROM documents WHERE resolved_path=?",
+                                     (str(self.seis / "s1.pdf"),)).fetchone()[0], 1, "no duplicate document")
+        self.assertEqual(jobs.job_summary(con, job)["items"][0]["doc_id"], did)
+        w2 = Worker(s2)
+        v2 = jobs.page_view(con, did, 1, w2.engines, w2.rules.version)
+        self.assertEqual(v2["review"]["status"], "approved", "review history still attached")
+        self.assertEqual(len(list((s2.data_root / "backups").glob("*.sqlite3"))), 1, "database backed up first")
+
+    def test_nas_offline_keeps_catalogue(self):
+        s = self.settings(False)
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        from pilot import catalogue
+
+        catalogue.refresh(s)
+        self.share.rename(self.base / "offline")
+        state = catalogue.refresh(s)
+        self.assertIn("NOT CHECKED", state["error"])
+        con = store.connect(s.db_path)
+        self.assertEqual(con.execute("SELECT COUNT(*) FROM documents WHERE resolve_status='OK'").fetchone()[0], 3)
+
+    def test_inventory_first_then_progressive_check(self):
+        from pilot import catalogue
+        from pilot import inventory as inv_mod
+
+        s = self.settings(False)
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        con = store.init_db(s.db_path)
+        store.meta_set(con, "scan_state", json.dumps({"running": True}))  # app closed mid-scan last time
+        seen = {}
+        real_check = inv_mod.check_on_disk
+
+        def spy(rows, source_root, extensions, progress, folder_timeout, on_checked):
+            # before any NAS listing, every inventory PDF is already in the catalogue as NOT_CHECKED
+            seen["before"] = {r[0]: r[1] for r in con.execute("SELECT rel_path, resolve_status FROM documents")}
+            seen["groups"] = []
+
+            def counting(batch):
+                seen["groups"].append(len(batch))
+                on_checked(batch)
+            return real_check(rows, source_root, extensions, progress, folder_timeout, counting, flush_seconds=0)
+
+        with mock.patch.object(catalogue.inventory, "check_on_disk", spy):
+            state = catalogue.refresh(s)
+        self.assertEqual(set(seen["before"].values()), {"NOT_CHECKED"})
+        self.assertEqual(len(seen["before"]), 4)
+        self.assertGreater(len(seen["groups"]), 1, "statuses are written folder by folder, not only at the end")
+        self.assertTrue(state["previous_interrupted"])
+        self.assertEqual(state["checked"], 4)
+        got = {r[0]: r[1] for r in con.execute("SELECT rel_path, resolve_status FROM documents")}
+        self.assertEqual(sorted(got.values()), ["MISSING", "OK", "OK", "OK"])
+        self.assertIn("20260925/CHECKSHOT", json.loads(store.meta_get(con, "folders")))
+
+    def test_incomplete_listing_is_not_reported_missing(self):
+        """The NAS sometimes omits entries from a listing; a second direct look-up must catch that."""
+        from pilot import inventory as inv_mod
+
+        s = self.settings(False)
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        real = inv_mod._scandir_retry
+        calls = {"n": 0}
+
+        def partial(d, attempts=3, pause=1.0, timeout=60.0):
+            entries = real(d, attempts, 0, timeout)
+            if str(d) == str(self.share) and calls["n"] == 0:  # first root listing hides two batch folders
+                calls["n"] += 1
+                return [e for e in entries if e[0] not in ("20260925", "20261016")]
+            return entries
+
+        with mock.patch.object(inv_mod, "_scandir_retry", partial):
+            res = inv_mod.resolve(self.rows, self.share, "")
+        st = {r.rel_path: r.resolve_status for r in res.rows if r.rel_path.endswith(".pdf")}
+        self.assertEqual(st["20260925/DOCUMENTS/Seismic Report/s1.pdf"], "OK")
+        self.assertEqual(st["20261016/DULANG_WELLS/Well_History/w1.pdf"], "OK")
+        self.assertEqual(st["20261015/MBAL/01 WIR/m.pdf"], "MISSING")
+        m = next(r for r in res.rows if r.rel_path.endswith("m.pdf"))
+        self.assertIn("confirmed by a second look-up", m.note)
+
+    def test_unreadable_folder_is_reported_not_missing(self):
+        from pilot import catalogue
+        from pilot import inventory as inv_mod
+
+        s = self.settings(False)
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        catalogue.refresh(s)
+        real = inv_mod._scandir_retry
+
+        def flaky(d, attempts=3, pause=1.0, timeout=60.0):  # the Seismic Report folder keeps failing
+            if str(d).endswith("Seismic Report"):
+                raise OSError(60, "Operation timed out")
+            return real(d, attempts, 0, timeout)
+
+        with mock.patch.object(inv_mod, "_scandir_retry", flaky):
+            state = catalogue.refresh(s)
+        self.assertEqual(state["failed_folders"], 1)
+        self.assertIn("could not be listed", state["error"])
+        con = store.connect(s.db_path)
+        st = {r[0]: (r[1], r[2]) for r in con.execute("SELECT rel_path, resolve_status, note FROM documents")}
+        self.assertEqual(st["20260925/DOCUMENTS/Seismic Report/s1.pdf"][0], "OK", "earlier match kept")
+        self.assertIn("previous match kept", st["20260925/DOCUMENTS/Seismic Report/s1.pdf"][1])
+        # first-ever scan with a failing folder: FOLDER_UNREADABLE, never MISSING
+        shutil.rmtree(s.data_root)
+        s.ensure_dirs()
+        with mock.patch.object(inv_mod, "_scandir_retry", flaky):
+            catalogue.refresh(s)
+        con = store.connect(s.db_path)
+        self.assertEqual(con.execute("SELECT resolve_status FROM documents WHERE rel_path=?",
+                                     ("20260925/DOCUMENTS/Seismic Report/s1.pdf",)).fetchone()[0], "FOLDER_UNREADABLE")
+
+    def test_stalled_folder_listing_is_skipped(self):
+        from pilot import inventory as inv_mod
+
+        real_scandir = os.scandir
+        release = __import__("threading").Event()
+
+        def stalling(d):  # this folder never answers (like a stalled SMB request)
+            if str(d).endswith("Well_History"):
+                release.wait(30)
+            return real_scandir(d)
+
+        try:
+            with mock.patch.object(inv_mod.os, "scandir", stalling):
+                t0 = time.time()
+                idx = inv_mod._disk_index(self.share, folder_timeout=0.3)
+            self.assertLess(time.time() - t0, 10, "scan does not wait for the stalled folder")
+            self.assertEqual(idx.failed, ["20261016/DULANG_WELLS/Well_History"])
+            self.assertIn("20260925/DOCUMENTS/Seismic Report/s1.pdf", idx.files, "other folders still scanned")
+        finally:
+            release.set()
+
+    def test_titles_from_all_sheets(self):
+        from openpyxl import Workbook
+
+        from pilot import titles
+
+        s = self.settings(False)
+        wb = Workbook()
+        wb.active.title = "Read Me"
+        for name, rows in (("DOC-Seismic Report", [(PREFIX + "s1.pdf", "Seismic Title"),
+                                                   (PREFIX + "BOTTOM_HOLE_PRESSURE_SURVEY/b1.pdf", None)]),
+                           ("DOC-Well Report", [("20261016/DULANG_WELLS/Well_History/w1.pdf", "Well Title"),
+                                                (PREFIX + "s1.pdf", "Listed twice")])):
+            ws = wb.create_sheet(name)
+            ws.append(["header block"]); ws.append([]); ws.append([]); ws.append([])
+            ws.append(["#", "*File Name*", "", "", "*Title*", "", "", "Data Status", "File Location"])
+            for loc, title in rows:
+                ws.append([1, "x", None, None, "CODE", None, None, title, "oss://synthetic-bucket/" + loc])
+        wb.save(s.title_workbook)
+        t = titles.load(s)
+        self.assertEqual(t.sheets, ["DOC-Seismic Report", "DOC-Well Report"])
+        self.assertEqual(t.titles, {"20261016/DULANG_WELLS/Well_History/w1.pdf": "Well Title"},
+                         "path listed in two sheets gets no title; blank stays blank")
+        self.assertEqual(t.sources["20261016/DULANG_WELLS/Well_History/w1.pdf"], "DOC-Well Report")
+        self.assertEqual(t.duplicates, [PREFIX + "s1.pdf"])
+
+    def test_large_job_needs_confirmation(self):
+        from fastapi.testclient import TestClient
+
+        from pilot import catalogue
+        from pilot.web.app import create_app
+
+        s = self.settings(False)
+        s.large_job_pages = 4
+        syn.make_inventory(s.inventory_workbook, self.rows)
+        catalogue.refresh(s)
+        app = create_app(s, allowed_hosts={"testserver"})
+        c = TestClient(app)
+        h = {"X-Pilot-Token": app.state.token}
+        con = store.connect(s.db_path)
+        ids = [r[0] for r in con.execute("SELECT id FROM documents WHERE resolve_status='OK' ORDER BY id")]
+        items = [{"doc_id": i} for i in ids]  # 2 + 1 + 3 = 6 pages > 4
+        r = c.post("/api/jobs", json={"items": items, "mode": "text_metadata"}, headers=h)
+        self.assertEqual(r.status_code, 409)
+        self.assertEqual(r.json()["pages"], 6)
+        self.assertEqual(c.post("/api/jobs", json={"items": items[:1], "mode": "text_metadata"}, headers=h)
+                         .status_code, 200, "small job needs no confirmation")
+        r = c.post("/api/jobs", json={"items": items, "mode": "text_metadata", "confirm_large": True}, headers=h)
+        self.assertEqual(r.status_code, 200)
+        rr = c.post("/api/inventory/reload", headers=h)
+        self.assertEqual(rr.status_code, 202)
+        for _ in range(300):  # let the background refresh finish before the next test starts one
+            if not catalogue._lock.locked():
+                break
+            time.sleep(0.1)
+        app.state.source_monitor.stop()
 
 
 class PageSpecTest(unittest.TestCase):
@@ -595,6 +858,93 @@ class WebTest(Base):
         self.assertNotIn(str(self.base), report)
         exp = c.post(f"/api/jobs/{job}/export", headers=h).json()["export_dir"]
         self.assertTrue((Path(exp) / "results.xlsx").is_file())
+
+    def test_downloads(self):
+        import io
+        import zipfile
+
+        from fastapi.testclient import TestClient
+
+        from pilot.web.app import create_app
+
+        syn.make_mixed(self.src / "mixed.pdf")
+        con = self.catalogue({"mixed.pdf": None})
+        did = self.doc_id(con, "mixed.pdf")
+        job = jobs.create_job(con, [(did, "1-3")])
+        w = self.worker()
+        w.run_once()
+        v = jobs.page_view(con, did, 1, w.engines, w.rules.version)
+        jobs.add_review(con, v["sha256"], 1, None, "corrected", "Corrected cover text")
+        app = create_app(self.s, allowed_hosts={"testserver"})
+        c = TestClient(app)
+        h = {"X-Pilot-Token": app.state.token}
+        try:
+            self.assertEqual(c.post(f"/api/docs/{did}/download", json={"format": "txt"}).status_code, 403, "token")
+            r = c.post(f"/api/docs/{did}/download", json={"format": "txt", "pages": "1-2,5"}, headers=h)
+            self.assertEqual(r.status_code, 200)
+            self.assertIn('filename="mixed_pages_1-2_5.txt"', r.headers["content-disposition"])
+            txt = r.text
+            self.assertIn("===== Page 1 (method=textlayer; status=ok; review=corrected)", txt)
+            self.assertIn("Corrected cover text", txt)
+            self.assertIn("SCANNED PAGE TWO", txt)
+            self.assertIn("===== Page 5", txt)
+            self.assertIn("(not processed)", txt, "unprocessed pages are marked, not invented")
+            rows = list(csv.DictReader(io.StringIO(c.post(f"/api/docs/{did}/download", headers=h,
+                                                          json={"format": "csv", "pages": "1-2"}).content.decode("utf-8-sig"))))
+            self.assertEqual([r["Page"] for r in rows], ["1", "2"])
+            self.assertIn("FINAL SEISMIC PROCESSING REPORT", rows[0]["Original Text"], "original kept beside correction")
+            self.assertEqual(rows[0]["Corrected Text"], "Corrected cover text")
+            js = c.post(f"/api/docs/{did}/download", json={"format": "json", "pages": "3"}, headers=h).json()
+            self.assertEqual(js["pages"][0]["method"], "tesseract")
+            self.assertEqual(c.post(f"/api/docs/{did}/download", json={"format": "xml"}, headers=h).status_code, 400)
+            self.assertEqual(c.post(f"/api/docs/{did}/download", json={"format": "txt", "pages": "99"}, headers=h)
+                             .status_code, 400)
+            z = c.post(f"/api/jobs/{job}/download", headers=h)
+            self.assertEqual(z.headers["content-type"], "application/zip")
+            names = zipfile.ZipFile(io.BytesIO(z.content)).namelist()
+            self.assertTrue(any(n.endswith("/manifest.json") for n in names))
+            self.assertTrue(any(n.endswith(f"/doc{did}/text.txt") for n in names))
+        finally:
+            app.state.source_monitor.stop()
+
+    def test_hung_nas_does_not_freeze_the_app(self):
+        """A share that never answers: every request must still return quickly."""
+        from fastapi.testclient import TestClient
+
+        from pilot.web import app as webapp
+
+        syn.make_text(self.src / "t.pdf", pages=2)
+        con = self.catalogue({"t.pdf": None})
+        did = self.doc_id(con, "t.pdf")
+        jobs.create_job(con, [(did, "all")])
+        self.worker().run_once()
+        release = __import__("threading").Event()
+        hang = lambda *a, **k: release.wait(60)  # noqa: E731 - simulates an unresponsive NAS
+        app = webapp.create_app(self.s, allowed_hosts={"testserver"}, source_probe=hang, nas_timeout=1.0)
+        c = TestClient(app)
+        try:
+            t0 = time.time()
+            self.assertEqual(c.get("/").status_code, 200)
+            self.assertFalse(c.get("/api/state").json()["source_available"])
+            self.assertLess(time.time() - t0, 2, "page and status answer without waiting for the NAS")
+            with mock.patch.object(webapp, "stat_source", hang):
+                t0 = time.time()
+                for _ in range(3):  # repeated previews must not pile up
+                    self.assertEqual(c.get(f"/api/docs/{did}/pages/1/image").status_code, 503)
+                self.assertLess(time.time() - t0, 6)
+            with mock.patch.object(webapp, "open_pdf", hang):  # NAS stalls during rendering
+                r = c.get(f"/api/docs/{did}/pages/2/image")
+                self.assertEqual(r.status_code, 503)
+                r = c.get(f"/api/docs/{did}/pages/2/image")  # render still stuck -> quick 503, not a freeze
+                self.assertEqual(r.status_code, 503)
+            release.set()  # NAS answers again
+            time.sleep(0.2)
+            app.state.source_monitor.probe = lambda: True
+            self.assertTrue(app.state.source_monitor.check_now())
+            self.assertEqual(c.get(f"/api/docs/{did}/pages/2/image").status_code, 200, "recovers by itself")
+        finally:
+            release.set()
+            app.state.source_monitor.stop()
 
     def test_no_telemetry_sdk_installed(self):
         import importlib.util

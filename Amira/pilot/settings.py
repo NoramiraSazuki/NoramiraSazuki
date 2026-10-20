@@ -26,18 +26,19 @@ DEFAULT_TOML = """\
 [paths]
 data_root = "{data_root}"
 inventory_workbook = "{repo}/07_DulangOSS2026_Github/Dulang_OSS_All_Batches_File_Inventory.xlsx"
-source_root = "/Volumes/homes/public/DulangOSS/20260925/DOCUMENTS/Seismic Report"
+source_root = "/Volumes/homes/public/DulangOSS"   # all batch folders (20260925, 20261006, ...)
 
 [inventory]
 sheet = "File Inventory"
-filter_column = "Sub-folder"
-filter_value = "Seismic Report"
-path_prefix = "20260925/DOCUMENTS/Seismic Report/"
+filter_column = ""           # e.g. "Sub-folder" to limit the catalogue to one folder ...
+filter_value = ""            # ... e.g. "Seismic Report"
+path_prefix = ""             # inventory File Path is relative to source_root (starts with the batch folder)
+extensions = ["pdf"]
 
 [titles]
 # Catalogue titles from a mapping workbook (read-only), joined by relative path in the location column.
 title_workbook = "/Users/noramirasazuki/Library/CloudStorage/OneDrive-MRCHURROSF&BSDN.BHD/Working/08_STE/07_DulangOSS2026/02_Data Mapping/Dulang_DIRt_v1.xlsx"
-title_sheet = "DOC-Seismic Report"
+title_sheet = "*"            # "*" = every sheet that has the location column
 title_column = "H"
 title_location_header = "File Location"
 
@@ -48,6 +49,8 @@ ocr_dpi = 300                # OCR render resolution (reduced automatically for 
 max_render_megapixels = 40   # cap for any single rendered page image
 ocr_page_timeout = 180       # seconds per page before OCR is abandoned for that page
 min_free_gb = 15             # jobs pause when free disk space drops below this
+large_job_pages = 1000       # jobs above this many pages need a second confirmation
+scan_folder_timeout = 60     # seconds before a stalled NAS folder listing is skipped and reported
 temp_retention = "delete_after_page"   # or "keep_days:3" to keep OCR images for troubleshooting
 preview_dpi = 110            # review-view page images
 preview_cache_days = 7       # rendered previews older than this are deleted at start-up
@@ -63,11 +66,14 @@ class Settings:
     inventory_workbook: Path
     source_root: Path
     sheet: str = "File Inventory"
-    filter_column: str = "Sub-folder"
-    filter_value: str = "Seismic Report"
-    path_prefix: str = "20260925/DOCUMENTS/Seismic Report/"
+    filter_column: str = ""
+    filter_value: str = ""
+    path_prefix: str = ""
+    extensions: list = field(default_factory=lambda: ["pdf"])
+    large_job_pages: int = 1000
+    scan_folder_timeout: float = 60
     title_workbook: str = "/Users/noramirasazuki/Library/CloudStorage/OneDrive-MRCHURROSF&BSDN.BHD/Working/08_STE/07_DulangOSS2026/02_Data Mapping/Dulang_DIRt_v1.xlsx"
-    title_sheet: str = "DOC-Seismic Report"
+    title_sheet: str = "*"
     title_column: str = "H"
     title_location_header: str = "File Location"
     batch_pages: int = 20

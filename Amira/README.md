@@ -374,15 +374,18 @@ The inventory workbook and the PDFs are only read, never changed.
 
 ### Workflow
 
-1. **Catalogue:** documents come from the `File Inventory` sheet, filtered to `Sub-folder = Seismic Report`.
-   Inventory paths are mapped to the NAS folder. Rows that cannot be matched exactly are shown as
-   MISSING / AMBIGUOUS / OUTSIDE_SOURCE and cannot be selected. Files on disk that the inventory does
-   not list are shown separately.
-   The **Title** column comes from column H of sheet `DOC-Seismic Report` in `Dulang_DIRt_v1.xlsx`
-   (set under `[titles]` in `settings.toml`). Rows are matched by the path in its `File Location`
-   column, not by file name. Blank cells stay blank, and a path listed twice gets no title. This title is
-   catalogue information from that workbook, not text extracted from the PDF. Exports show it as
-   "Catalogue Title".
+1. **Catalogue:** every PDF in the `File Inventory` sheet, across all batch folders (`20260925`, `20261006`, …),
+   shown as a folder tree like Finder. The batch folders form the top level, and empty folders are shown too.
+   Use the **Batch** dropdown to show one batch. The tree is split into pages (100 rows by default, or 50/200/500),
+   with First/Prev/Next/Last and "go to page" controls. Ticking a folder selects every PDF inside it, and the header
+   checkbox selects every PDF that matches the current filter, on all pages.
+   - On start, the catalogue is filled from the inventory within seconds. Files show **NOT_CHECKED** until the
+     NAS check (in the background, shown in the status bar) confirms them, folder by folder. Only confirmed (OK) files can be processed.
+   - Files the NAS check can't find are **MISSING**. If a folder can't be listed (NAS stalled), its files are
+     **FOLDER_UNREADABLE** and keep any earlier match. Use **Reload inventory** to check again.
+   - The **Title** column comes from column H of every DIRt sheet that has a `File Location` column, matched by
+     path, not file name. Blank stays blank. This title comes from the workbook, not from the PDF.
+   - Jobs above **1,000 pages** need a second click to confirm.
 2. Select documents, optionally type page ranges (`1-20, 45`, using the PDF's own page numbers),
    choose a mode, and click **Queue extraction job**. Modes that are not implemented yet are greyed out.
 3. **Jobs:** shows progress, pages reused, failed pages and the ETA. You can **Pause**, **Resume**,
@@ -391,6 +394,11 @@ The inventory workbook and the PDFs are only read, never changed.
    its evidence, and the automatic checks. You can retry a page with another method, and mark it
    approved / corrected / rejected. Corrections are saved as new revisions, and the original
    extraction is never changed.
+5. **Download:** in **Review**, choose a page range (blank = current page, `all` = whole document) and
+   download it as **Text (.txt)**, **Pages table (.csv)** (one row per page, keeping both the original and
+   the corrected text) or **Full detail (.json)**. In **Jobs**, **Download results (.zip)** bundles the whole
+   job export. Downloads land in your Downloads folder and contain confidential text. Table
+   extraction is not implemented yet, so the "Tables" download is disabled.
 
 ### How pages are routed
 

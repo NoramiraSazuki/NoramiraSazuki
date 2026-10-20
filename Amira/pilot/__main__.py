@@ -19,7 +19,7 @@ import time
 import webbrowser
 from pathlib import Path
 
-from . import inventory, store, titles
+from . import catalogue, store
 from .logutil import sanitize, setup
 from .settings import load_settings
 
@@ -87,13 +87,8 @@ def main(argv=None) -> int:
               file=sys.stderr)
         return 1
 
-    con = store.init_db(s.db_path)
-    try:
-        store.upsert_documents(con, inventory.load(s), titles.load(s))
-        log.info("inventory loaded")
-    except Exception as exc:  # the UI can still start; reload from the Catalogue tab
-        log.warning("inventory not loaded: %s", sanitize(exc))
-    con.close()
+    store.init_db(s.db_path).close()
+
 
     import uvicorn
 
@@ -110,6 +105,7 @@ def main(argv=None) -> int:
     server = uvicorn.Server(uvicorn.Config(app, host="127.0.0.1", port=s.port, log_level="warning",
                                            access_log=False, server_header=False))
     worker.start()
+    catalogue.start_background(s)  # NAS listing can take minutes; the UI shows progress
     url = f"http://127.0.0.1:{s.port}/"
     print(f"\nDulang PDF Extraction running at {url}\nData folder: {s.data_root}\n"
           "Keep this window open. Stop with Ctrl+C (work resumes next start).\n")

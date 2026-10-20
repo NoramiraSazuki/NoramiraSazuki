@@ -22,26 +22,32 @@
 <main>
 <section id="tab-catalogue" class="panel">
   <div class="toolbar">
+    <select id="filter-batch" title="Batch folder"><option value="">All batches</option></select>
     <input id="search" type="search" placeholder="Search file name, title or folder…">
     <select id="filter-status">
       <option value="">All resolve statuses</option>
       <option>OK</option><option>MISSING</option><option>AMBIGUOUS</option>
-      <option>OUTSIDE_SOURCE</option><option>BAD_PATH</option><option>PREFIX_MISMATCH</option>
+      <option>OUTSIDE_SOURCE</option><option>BAD_PATH</option><option>PREFIX_MISMATCH</option><option>FOLDER_UNREADABLE</option><option>NOT_CHECKED</option>
     </select>
     <button id="reload-inv">Reload inventory</button>
     <span id="inv-report" class="muted"></span>
   </div>
-  <details id="unlisted-box" class="hidden"><summary>Files on disk not in the inventory</summary><ul id="unlisted"></ul></details>
+  <div class="toolbar small">
+    <button id="expand-all" class="small">Expand all</button>
+    <button id="collapse-all" class="small">Collapse all</button>
+    <button id="clear-sel" class="small">Clear selection</button>
+    <span class="muted">Tick a folder to select every PDF inside it. Titles come from the DIRt workbook (column H), not from the PDF.</span>
+  </div>
+  <details id="unlisted-box" class="hidden"><summary>PDFs on disk not in the inventory (<span id="unlisted-count"></span>)</summary><ul id="unlisted"></ul></details>
+  <div class="pager toolbar"></div>
   <div class="tablewrap">
-  <table id="docs">
+  <table id="docs" class="tree">
     <thead><tr>
-      <th><input type="checkbox" id="select-all" title="Select all shown"></th>
-      <th data-sort="inv_row_id">#</th>
-      <th data-sort="file_name">File name</th>
+      <th><input type="checkbox" id="select-all" title="Select all PDFs matching the current batch/search/status filter (every page, not only this one)"></th>
+      <th data-sort="name">Name</th>
       <th data-sort="title" title="From the mapping workbook (DIRt), not extracted from the PDF">Title</th>
-      <th data-sort="folder">Folder</th>
       <th data-sort="inv_pages" class="num">Pages (inv.)</th>
-      <th data-sort="inv_size" class="num">Size MB</th>
+      <th data-sort="inv_size" class="num">Size</th>
       <th data-sort="resolve_status">Resolve</th>
       <th data-sort="inv_duplicate_group">Dup. group</th>
       <th data-sort="last_status">App status</th>
@@ -50,14 +56,11 @@
     <tbody></tbody>
   </table>
   </div>
-  <div class="startbox">
-    <fieldset id="modes"><legend>Extraction mode</legend></fieldset>
-    <div>
-      <p id="sel-summary" class="muted">Nothing selected.</p>
-      <button id="start" class="primary" disabled>Queue extraction job</button>
-      <p class="muted small">Page numbers are the PDF's own page numbers (1 = first page). Leave blank for all pages.
-        Jobs run one at a time in the background; closing the browser does not stop them.</p>
-    </div>
+  <div class="startbar">
+    <label class="small">Extraction mode <select id="mode"></select></label>
+    <span id="sel-summary" class="muted">Nothing selected.</span>
+    <button id="start" class="primary" disabled>Queue extraction job</button>
+    <span class="muted small" title="Page numbers are the PDF's own page numbers (1 = first page). Leave blank for all pages. Jobs run one at a time in the background; closing the browser does not stop them.">ⓘ</span>
   </div>
 </section>
 
@@ -79,6 +82,17 @@
     <div class="pagedata">
       <div id="rv-route"></div>
       <div id="rv-results"></div>
+      <div class="box">
+        <h3>Download extracted pages</h3>
+        <input id="dl-range" placeholder="pages, e.g. 1-20 (blank = this page, 'all' = whole document)" class="medium">
+        <button id="dl-txt">Text (.txt)</button>
+        <button id="dl-csv">Pages table (.csv)</button>
+        <button id="dl-json">Full detail (.json)</button>
+        <button disabled title="Table extraction is not implemented yet (Stage 3)">Tables (.csv) — not yet implemented</button>
+        <p class="muted small">Built from the stored results; nothing is re-processed. Corrected text is used where a reviewer
+          supplied it (the CSV/JSON also keep the original). The files are saved to your Downloads folder and contain
+          confidential document text.</p>
+      </div>
       <div class="box">
         <h3>Retry this page with another method</h3>
         <select id="rv-method"></select>

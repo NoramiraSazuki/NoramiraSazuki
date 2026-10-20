@@ -138,3 +138,67 @@ def export_job(con, settings, job_id: int, engines: dict, routing_version: str,
     with open(out / "manifest.json", "x", encoding="utf-8") as fh:
         json.dump(manifest, fh, ensure_ascii=False, indent=2)
     return out
+
+
+# ---------------------------------------------------------------- browser downloads
+
+DOWNLOAD_FORMATS = {"txt": "text/plain; charset=utf-8", "csv": "text/csv; charset=utf-8",
+                    "json": "application/json"}
+PAGE_CSV_COLUMNS = ["File Name", "Relative Path", "Page", "Status", "Method", "Review Status",
+                    "Original Text", "Corrected Text", "Validation Flags"]
+
+
+def page_selection(con, doc_id: int, spec: str, engines: dict, routing_version: str):
+    """(document info, selected pages) for original page numbers in ``spec`` ('all' = whole document)."""
+    row = con.execute("""SELECT d.id, d.rel_path, d.file_name, d.title, s.sha256, s.page_count FROM documents d
+                         JOIN sources s ON s.doc_id=d.id WHERE d.id=?""", (doc_id,)).fetchone()
+    if row is None or not row["sha256"]:
+        raise ValueError("document has not been processed yet")
+    pages = parse_page_spec(spec or "all", row["page_count"])
+    doc = dict(row)
+    return doc, [derive.select_page(con, row["sha256"], p, engines, routing_version) for p in pages]
+
+
+def render_download(doc: dict, sel: list, fmt: str) -> bytes:
+    """Selected text per page; the original extraction and any human correction are both kept."""
+    if fmt == "txt":
+        out = [f"# {doc['rel_path']}" + (f"\n# Title (DIRt): {doc['title']}" if doc.get("title") else ""),
+               "# Extracted text. Processing success is not verified accuracy; see review status per page."]
+        for sp in sel:
+            tag = f"method={sp.method or '-'}; status={sp.status}; review={sp.review_status}"
+            body = sp.best_text if sp.status == "ok" or sp.corrected_text else "(not processed)"
+            out.append(f"\n===== Page {sp.page_no} ({tag}) =====\n{body}")
+        return ("\n".join(out) + "\n").encode("utf-8")
+    if fmt == "csv":
+        import csv
+        import io
+
+        buf = io.StringIO()
+        w = csv.DictWriter(buf, fieldnames=PAGE_CSV_COLUMNS)
+        w.writeheader()
+        for sp in sel:
+            w.writerow({"File Name": doc["file_name"], "Relative Path": doc["rel_path"], "Page": sp.page_no,
+                        "Status": sp.status, "Method": sp.method or "", "Review Status": sp.review_status,
+                        "Original Text": sp.text, "Corrected Text": sp.corrected_text or "",
+                        "Validation Flags": "; ".join(sp.flags)})
+        return buf.getvalue().encode("utf-8-sig")  # BOM so Excel reads UTF-8 correctly
+    if fmt == "json":
+        return json.dumps({"document": doc, "caveat": CAVEAT, "pages": [{
+            "page_no": sp.page_no, "status": sp.status, "method": sp.method, "auto_method": sp.auto_method,
+            "override": sp.override, "original_text": sp.text, "review_status": sp.review_status,
+            "corrected_text": sp.corrected_text, "validation_flags": sp.flags, "warnings": sp.warnings,
+            "reading_order": sp.reading_order, "bbox_space": sp.bbox_space, "blocks": sp.blocks}
+            for sp in sel]}, ensure_ascii=False, indent=1).encode("utf-8")
+    raise ValueError(f"unknown format '{fmt}'")
+
+
+def zip_export(folder: Path) -> Path:
+    """Zip an export folder next to it (new file; never overwrites)."""
+    import zipfile
+
+    target = folder.with_suffix(".zip")
+    with zipfile.ZipFile(target, "x", compression=zipfile.ZIP_DEFLATED) as z:
+        for f in sorted(folder.rglob("*")):
+            if f.is_file():
+                z.write(f, f"{folder.name}/{f.relative_to(folder).as_posix()}")
+    return target
