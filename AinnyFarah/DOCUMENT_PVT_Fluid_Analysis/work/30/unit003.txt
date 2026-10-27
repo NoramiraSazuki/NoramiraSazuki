@@ -1,0 +1,16 @@
+HYDROCARBON ANALYSIS OF RESERVOIR FLUID SAMPLE
+Mol | Weight | Density | API @60°F | Mol Weight
+Component | % | % | Mol Percent
+Hydrogen Sulfide | 0 | 0
+Carbon Dioxide | 28.87 | 9.54
+Nitrogen | 0.07 | 0.02
+Methane | 14.62 | 1.76
+Ethane | 1.81 | 0.41
+Propane | 1.42 | 0.47
+Iso-Butane | 0.48 | 0.21
+N-Butane | 0.33 | 0.14
+Iso-Pentane | 0.1 1 | 0.06
+N-Pentane | 0.44 | 0.24
+Hexanes | 0.36 | 0.23
+Heptanes plus | 51.49 | 86.92 | 0.8336 | 38.1 | 225
+--- OCR ---

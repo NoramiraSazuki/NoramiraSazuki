@@ -1,0 +1,16 @@
+Summary of Retrograde Liquid Curve Data (RLC) at 133°F
+Pressure | Retrograde Liquid
+(psig) | Volume %
+(1)
+1220.0 | Dew point pressure | 0.0
+1100.0 | *trace
+1000.0 | *trace
+900.0 | *trace
+800.0 | *trace
+700.0 | *trace
+600.0 | *trace
+Notes
+*There was evidence of liquid drop out present below the saturation pressure (Psat). However the liquid drop
+out level was insignificant & unable to be quantified
+(1) Liquid volume as a percentage of the sample volume at dew point pressure
+--- OCR ---

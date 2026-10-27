@@ -1,0 +1,64 @@
+HYDROCARBON ANALYSIS OF ADJUSTED RESERVOIR FLUID
+<w:tab w:pos="6682" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="4940" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="125829397" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="page"><wp:posOffset>1960880</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>139700</wp:posOffset></wp:positionV><wp:extent cx="725170" cy="173990"/><wp:wrapSquare wrapText="right"/><wp:docPr id="46" name="Shape 46"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="725170" cy="173990"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:u w:val="single"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Component
+Component
+<w:tab w:pos="3753" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="460" w:line="240" w:lineRule="auto"/><w:ind w:left="1780" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:u w:val="single"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Percent<w:t>Percent
+Hydrogen Sulfide
+0.00
+0.00
+Carbon Dioxide
+28.04
+8.82
+Nitrogen
+0.49
+0.10
+Methane
+12.78
+1.47
+Ethane
+1.47
+0.31
+Propane
+0.98
+0.31
+Iso-Butane
+0.59
+0.24
+N-Butane
+0.55
+0.23
+Iso-Pentane
+0.42
+0.21
+N-Pentane
+0.34
+0.18
+Hexanes
+0.89
+0.54
+Heptanes Plus
+53.45
+87.59
+Total
+100.00 100.00
+Properties of Undecanes Plus
+<w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="right"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:u w:val="single"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>38.3
+0.8325
+229
+38.3
+0.8325
+229
+<w:pgSz w:w="11900" w:h="16840"/><w:pgMar w:top="2949" w:left="1485" w:right="437" w:bottom="2809" w:header="0" w:footer="2381" w:gutter="0"/><w:cols w:space="720"/><w:noEndnote/><w:rtlGutter w:val="0"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t xml:space="preserve">* This fluid has a bubble point pressure of 1668 Psig at 200’F, which is equal to the gas-oil contact pressure at 200°F
+VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE
+<w:tab w:pos="373" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="125829401" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="page"><wp:posOffset>5748020</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>12700</wp:posOffset></wp:positionV><wp:extent cx="1017905" cy="789305"/><wp:wrapSquare wrapText="left"/><wp:docPr id="50" name="Shape 50"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="1017905" cy="789305"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="260" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>200’F
+200&quot;F
+Vol/Vol/PSIG
+200’F
+200&quot;F
+Vol/Vol/PSIG
+<w:tab w:pos="378" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Specific volume at saturation pressure: ft3/lb = 0.02136
+<w:tab w:pos="387" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="460" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Compressibility of saturated oil @ reservoir temperature
+<w:tab w:pos="3648" w:val="right"/><w:tab w:pos="3883" w:val="right"/><w:tab w:pos="4473" w:val="right"/><w:tab w:pos="5121" w:val="right"/><w:tab w:pos="5356" w:val="right"/><w:tab w:pos="6182" w:val="right"/><w:tab w:pos="6417" w:val="right"/><w:tab w:pos="6901" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="220" w:line="240" w:lineRule="auto"/><w:ind w:left="1820" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> TOC \o &quot;1-5&quot; \h \z </w:instrText><w:fldChar w:fldCharType="separate"/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>From 5000<w:t>PSIG<w:t>to<w:t>4000<w:t>PSIG<w:t>=<w:t>8.52<w:t>X<w:t>10~6
+<w:tab w:pos="3648" w:val="right"/><w:tab w:pos="3883" w:val="right"/><w:tab w:pos="4473" w:val="right"/><w:tab w:pos="5121" w:val="right"/><w:tab w:pos="5356" w:val="right"/><w:tab w:pos="6182" w:val="right"/><w:tab w:pos="6417" w:val="right"/><w:tab w:pos="6901" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="220" w:line="240" w:lineRule="auto"/><w:ind w:left="1820" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>From 4000<w:t>PSIG<w:t>to<w:t>3000<w:t>PSIG<w:t>=<w:t>9.53<w:t>X<w:t xml:space="preserve">10 6
+<w:tab w:pos="3648" w:val="right"/><w:tab w:pos="3883" w:val="right"/><w:tab w:pos="4473" w:val="right"/><w:tab w:pos="5121" w:val="right"/><w:tab w:pos="5356" w:val="right"/><w:tab w:pos="6182" w:val="right"/><w:tab w:pos="6417" w:val="right"/><w:tab w:pos="6901" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="220" w:line="240" w:lineRule="auto"/><w:ind w:left="1820" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Fr.om 3000<w:t>PSIG<w:t>to<w:t>1900<w:t>PSIG<w:t>=<w:t>10.81<w:t>X<w:t>10~6
+<w:tab w:pos="3648" w:val="right"/><w:tab w:pos="3883" w:val="right"/><w:tab w:pos="4473" w:val="right"/><w:tab w:pos="5121" w:val="right"/><w:tab w:pos="5356" w:val="right"/><w:tab w:pos="6182" w:val="right"/><w:tab w:pos="6417" w:val="right"/><w:tab w:pos="6901" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="220" w:line="240" w:lineRule="auto"/><w:ind w:left="1820" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>From 1900<w:t>PSIG<w:t>to<w:t>1668<w:t>PSIG<w:t>=<w:t>11.94<w:t>X<w:t>10“6
+--- OCR ---

@@ -1,0 +1,19 @@
+Hydrocarbon Analyses of Single-Stage Separator Gas Sample
+180 PSIG 140°F | 100 PSIG 130°F
+Component | Mol Percent | GPM | Mol Percent | GPM
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 57.73 | 66.21
+N2 Nitrogen | 0.47 | 0.07
+C1 Methane | 38.91 | 29.4
+C2 Ethane | 1.98 | 0.529 | 2.87 | 0.767
+C3 Propane | 0.57 | 0.157 | 0.88 | 0.242
+iC4 i-Butane | 0.14 | 0.046 | 0.23 | 0.075
+nC4 n-Butane | 0.09 | 0.028 | 0.17 | 0.054
+iC5 i-Pentane | 0.04 | 0.015 | 0.06 | 0.022
+nC5 n-Pentane | 0.02 | 0.007 | 0.03 | 0.011
+C6 Hexanes | 0.02 | 0.008 | 0.03 | 0.012
+C7+ Heptanes Plus | 0.03 | 0.014 | 0.05 | 0.023
+Gas Gravity (air= 1.000) | 1.14 | 1.232
+Gross heating value (BTU per cubic foor of dry gas at 14.73 psia and 60°F
+456 | 392
+--- OCR ---

@@ -1,0 +1,18 @@
+TABLE 28
+RECOMBINATION OF SEPARATOR SAMPLES
+SEPARATOR LIQUID SAMPLE - CYLINDER NO- 1116/509
+SEPARATOR GAS SAMPLE CYLINDER NO- A 4343
+I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+G.O.R | 67 | Std cu ft/bb
+Shrinkage factor | 0.941 | Std bbl/bb
+Liberated gas gravity | 1.521 | (Air = 1)
+Stock Tank oil gravity | 0.843 | 60/60 F
+II. CORRECTION OF GAS OIL RATIO
+Field G.O.R | 295 | Std cu ft/bb
+Separator gas gravity (from chromatographic analysis)
+G lab | 1.22 | (Air = 1)
+Compressibility factor z at separator conditions
+Z lab | 0.979
+III. PHYSICAL RECOMBINATION
+Surface samples were physically recombined in the ratio of 292 standard cubic feet of separator gas per barrel of separator liquid
+--- OCR ---

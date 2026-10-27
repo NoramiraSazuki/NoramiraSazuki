@@ -1,0 +1,53 @@
+Compositional Analysis of Stock Tank Oil from D26S | Chromatographic Profile of Stock Tank Oil from D26S
+Component | Mol % | Weight % | Sample Information
+Sampling Date | 15 Feb 2011
+Methane | 0.001 | 0.0 | Sampling Time | 13:00 hrs
+Ethane | 0.001 | 0.0 | Sampling Location | Dulang D26S
+Propane | 0.007 | 0.001 | Sample Number | D26S.01
+i-Butane | 0.013 | 0.003 | Sampling Conditions
+n-Butane | 0.015 | 0.003 | Our Lab Identification | 18662.0
+neo-Pentane | 0.003 | 0.001
+i-Pentane | 0.032 | 0.008 | Whole Sample Properties | Mole | Density
+n-Pentane | 0.035 | 0.009 | Weight | @ 60oF
+Hexanes | 0.402 | 0.122 | (g.mol-1) | (g.cm-3)
+M-C-Pentane | 0.088 | 0.026 | Measured Properties | 297.01 | 0.8507
+Benzene | 0.061 | 0.017 | Calculated Properties | 283.9 | 0.8676
+Cyclohexane | 0.067 | 0.02
+Heptanes | 0.515 | 0.182 | Calculated | Mol % | Weight % | Mole | Density
+M-C-Hexane | 0.178 | 0.061 | Subtotal | Weight | @ 60oF
+Toluene | 0.225 | 0.073 | Properties | (g.mol-1) | (g.cm-3)
+Octanes | 1.419 | 0.571 | Heptanes | 0.731 | 0.245 | 95.0 | 0.7119
+E-Benzene | 0.042 | 0.016 | Octanes | 1.822 | 0.705 | 109.9 | 0.7262
+M/P-Xylene | 0.268 | 0.1 | Nonanes | 2.627 | 1.151 | 124.4 | 0.7403
+O-Xylene | 0.147 | 0.055 | Decanes | 2.586 | 1.255 | 137.8 | 0.7557
+Nonanes | 2.17 | 0.98
+T-M-Benzene | 0.525 | 0.222 | Calculated | Mol % | Weight % | Mole | Density
+Decanes | 2.061 | 1.033 | Residue | Weight | @ 60oF
+Undecanes | 2.455 | 1.271 | Properties | (g.mol-1) | (g.cm-3)
+Dodecanes | 2.836 | 1.609 | Pentanes Plus | 99.963 | 99.993 | 284.0 | 0.8676
+Tridecanes | 4.319 | 2.663 | Heptanes Plus | 99.491 | 99.853 | 284.9 | 0.868
+Tetradecanes | 4.57 | 3.058 | Dodecanes Plus | 89.27 | 95.226 | 302.8 | 0.8745
+Pentadecanes | 6.27 | 4.55 | Pentadecanes Plus | 77.545 | 87.896 | 321.8 | 0.88
+Hexadecanes | 5.489 | 4.292 | Eicosanes Plus | 48.488 | 63.798 | 373.5 | 0.8936
+Heptadecanes | 5.185 | 4.329 | Triacontanes Plus | 12.439 | 21.631 | 493.7 | 0.9186
+Octadecanes | 6.964 | 6.157 | Hexatriacontanes Plus | 3.598 | 7.858 | 619.9 | 0.9369
+Nonadecanes | 5.149 | 4.77
+Eicosanes | 4.455 | 4.316 | Notes
+Heneicosanes | 4.375 | 4.485 | (1) 0.00 means less than 0.005
+Docosanes | 4.143 | 4.452 | (2) Calculated properties derived from Katz & Firoozabadi data
+Tricosanes | 3.91 | 4.38 | (3) See Appendix 1 for Component properties
+Tetracosanes | 3.837 | 4.474
+Pentacosanes | 3.547 | 4.311
+Hexacosanes | 3.232 | 4.088
+Heptacosanes | 3.11 | 4.097
+Octacosanes | 2.815 | 3.847
+Nonacosanes | 2.625 | 3.717
+Triacontanes | 2.288 | 3.353
+Hentriacontanes | 1.998 | 3.026
+Dotriacontanes | 1.514 | 2.368
+Tritriacontanes | 1.364 | 2.2
+Tetratriacontanes | 0.917 | 1.525
+Pentatriacontanes | 0.76 | 1.301
+Hexatriacontanes plus | 3.598 | 7.858
+Totals | 100.0 | 99.99999999999999
+--- OCR ---

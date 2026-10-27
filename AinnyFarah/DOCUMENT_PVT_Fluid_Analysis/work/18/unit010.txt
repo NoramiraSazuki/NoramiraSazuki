@@ -1,0 +1,72 @@
+<w:rtlGutter w:val="0"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="0" distB="0" distL="16510" distR="5786755" simplePos="0" relativeHeight="125829417" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="column"><wp:posOffset>16510</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>3212465</wp:posOffset></wp:positionV><wp:extent cx="158750" cy="1715770"/><wp:wrapTopAndBottom/><wp:docPr id="158" name="Shape 158"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="158750" cy="1715770"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>SOLUTION GOR. SCF/STB
+SOLUTION GOR. SCF/STB
+0
+0
+250
+250
+500
+500
+<w:tab w:pos="1085" w:val="left"/><w:tab w:pos="2227" w:val="left"/><w:tab w:pos="3350" w:val="left"/><w:tab w:pos="4474" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>750<w:t>1000<w:t>1250<w:t>1500<w:t>1750
+<w:tab w:pos="1085" w:val="left"/><w:tab w:pos="2227" w:val="left"/><w:tab w:pos="3350" w:val="left"/><w:tab w:pos="4474" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>750<w:t>1000<w:t>1250<w:t>1500<w:t>1750
+<w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>SOLUTION GOH, SCF/ST0
+SOLUTION GOH, SCF/ST0
+ADJUSTMENT OF GAS 1N SOLUTION CURVE TO
+SEP. PRESS. OF 50 PSIG AND TEMPERATURE OF 112*F
+ADJUSTMENT OF GAS 1N SOLUTION CURVE TO
+SEP. PRESS. OF 50 PSIG AND TEMPERATURE OF 112*F
+RELATIVE OIL VOLUME DURING DIFFERENTIAL VAPORIZATION
+<w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>RELATIVE OIL VOLUME, V/Vr
+<w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>RELATIVE OIL VOLUME. V/Vst
+RELATIVE OIL VOLUME. V/Vst
+PRESSURE, PSIG
+PRESSURE, PSIG
+<w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>RELATIVE OIL VOLUME, V/Vst
+RELATIVE OIL VOLUME, V/Vst
+PRESSURE, PSIG
+PRESSURE, PSIG
+<w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>RELATIVE OIL VOLUME. V/Vst
+RELATIVE OIL VOLUME. V/Vst
+ADJUSTMENT OF RELATIVE OIL VOLUME CURVE TO
+ADJUSTMENT OF RELATIVE OIL VOLUME CURVE TO
+SEP. PRESS. OF 150 PSIG AND TEMPERATURE OF lLp’F
+SEP. PRESS. OF 150 PSIG AND TEMPERATURE OF lLp’F
+<w:rtlGutter w:val="0"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>PRESSURE, PSIG
+VISCOSITY OF RESERVOIR FLUID AT 200*F
+<w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>VISCOSITY, CENTIPOISE
+CALCULATED GAS VISCOSITY AT 200*F
+0.017
+<w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>VISCOSITY. CENTIPOISE
+0.016
+0.015
+0.014
+0.013
+0.012
+0.011
+0.010
+PRESSURE. PSIG
+GAS OIL RATIO vs SEPARATOR PRESSURE
+<w:rPr><w:sz w:val="18"/><w:szCs w:val="18"/></w:rPr></w:pPr><w:r><w:rPr><w:b w:val="0"/><w:bCs w:val="0"/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="18"/><w:szCs w:val="18"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>GAS OIL RATIO, SCF/STB
+ADDENDUM
+Of Mt
+Rqotettoam
+TMtMt
+7 NOVEMBER IS 91
+OPERATION MANAGER
+CORE LABORATORIES (M) SDN. EHD. LOT 10B, JLN 51A/223
+46100 PETALXNG JAYA
+SELANGOR, DARUL EHSAN
+(ATTN : TONY KENHAXRD)
+Dear Sir
+RCT ■ -WELL B-12 SAMPLE FOR PVT ANALYSIS
+Ref ar Ln g to the above matter, please proceed with the quality check on Dulang B-12 sample liquid and gas sample, WIB-7417, WIB-7989, 1209A, and 12L6A respectively
+The fluid samples quality check are as follows
+<w:tab w:pos="733" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="740" w:right="0" w:hanging="540"/><w:jc w:val="left"/><w:rPr><w:sz w:val="20"/><w:szCs w:val="20"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="20"/><w:szCs w:val="20"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Determine the single phase opening pressures of the gas - samples at approximately the separator temperature
+(44.6°C) to see if any leakage occured during samples transportation
+<w:tab w:pos="733" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="200" w:line="240" w:lineRule="auto"/><w:ind w:left="740" w:right="0" w:hanging="540"/><w:jc w:val="left"/><w:rPr><w:sz w:val="20"/><w:szCs w:val="20"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="20"/><w:szCs w:val="20"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Determine the bubble-point pressure of the separator Liquid samples at separator temperature
+Please forward the result of the quality cheek to Head Reservoir Engineering, Petronas Carigali Kuala Lumpur for further instruction
+Thank you
+Yours faithfully
+/mOHD KHALID EMBONG
+FOR MANAGER
+PETROLEUM ENGINEERING DEPARTMENT
+--- OCR ---

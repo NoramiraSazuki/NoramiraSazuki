@@ -1,0 +1,21 @@
+Page | 26
+File | SFL 86026/86027
+Well | Dulang 5 TEST 2
+COMPOSITIONAL ANALYSES OF ATMOSPHERIC PRESSURE SEPARATOR TEST GAS SAMPLE
+COMPONENT | MOL % | GPM
+H2S Hydrogen Sulphide | 0
+CO2 Carbon Dioxide | 58.9
+N2 Nitrogen | 0.3
+C1 Methane | 31.38
+C2 Ethane | 3.07 | 0.821
+C3 Propane | 1.61 | 0.444
+iC4 i-Butane | 0.69 | 0.226
+nC4 n-Butane | 0.58 | 0.183
+iC5 i-Pentane | 0.38 | 0.139
+nC5 n-Pentane | 0.25 | 0.091
+C6 Hexanes | 0.49 | 0.19
+C7 Heptanes Plus | 2.35 | 1.039
+99.99999999999997 | 3.133
+Calculated Gas gravity (air = 1.000) | 1.267
+Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F) | 634
+--- OCR ---

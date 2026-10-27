@@ -1,0 +1,25 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit (as printed / hand-corrected)
+107,,Well,DULANG-7,
+107,,Test,#2 (E-6),
+107,,Date,04/12/90,
+107,1,Interval,1236 - 42 m; 1234 - 43 m,
+107,2,Produced fluid,OIL; GAS; WATER.,
+107,3,Cumulative production,53.8,STB (MMSCF crossed out)
+107,4,Average rate,150.2 (LAST 4.8 Hrs),STB/D (MMSCF/D crossed out)
+107,5,Length of flow period,7 hrs. 10 mins (MAJOR FLOW),"hr, min"
+107,6,Choke,32,64ths
+107,7,Gravity of oil or condensate,38.4 (γg = 1.110),°API @ 60°F
+107,8,GOR or Condensate - Gas Ratio,"23,479","SCF/STB, STB/MMSCF"
+107,9,Water cut,2,%
+107,10,Chlorides,SAMPLE TOO SMALL TO MEASURE,ppm
+107,11,H2S,0,"%, ppm"
+107,12,CO2,60 - 68,%
+107,13,Average flowing wellhead pressure,900,psig
+107,14,Average flowing wellhead temperature,74,°F
+107,15,Wellhead pressure at end of buildup,- (NO BUILDUP WAS RUN DUE TO POTENTIAL NEED FOR LONG PERIOD.),psi
+107,16,Initial reservoir pressure,1700.1 @ 1234.7 m,psia @ m (ft crossed out)
+107,17,Final flowing pressure,1167.0 @ 1230 m (1170.5 @ 1234.7 m) (0.23 psi/ft),psia @ m (ft crossed out)
+107,18,Productivity index,0.28,STB/D/psi
+107,19,Maximum bottom-hole temperature,193.3 @ 1230 m,°F @ m (ft crossed out)
+107,20,Samples taken,"1 - 628 ml PRESSURIZED OIL, 2 - 10 l PRESSURIZED GAS; 5 - 1 GALLON ATMOSPHERIC OIL; 2 - 300 ml GEOCHEM GAS & 2 - 4 LITRE WATER.",
+107,21,Remarks,DARK BROWN WAX + CRUDE: POUR POINT 81 °F (OFF GASLINE). NOTE: - THE ADDITIONAL PERFORATION INTERVAL WAS INTENTIONALLY PERFORATED NEAR OR WITHIN THE GAS ZONE TO HELP BRING THE WELL ON. - NO BUILDUP WAS RUN. ESTIMATED AVERAGE K = 141.2 q μ B ln(re/rw) / h (ΔP) = 141.2 x 150.2 x 0.52 x 1.27 x 8 / (5/0.3048)(1700.1 - 1170.5) = 12.9 ≈ 13 md (h = 5 m),

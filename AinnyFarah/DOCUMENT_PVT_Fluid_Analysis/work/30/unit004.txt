@@ -1,0 +1,25 @@
+PRESSURE-VOLUME RELATION AT 203°F
+Pressure | Relative Volume
+PSIG | Volume (1)
+5000 | 0.9665
+4000 | 0.9747
+3000 | 0.9843
+1900 | 0.9962
+1800 | 0.9975
+1700 | 0.9987
+1600 | 0.9999
+1593 | Bubble Point Pressure | 1
+1575 | 1.0055
+1555 | 1.0121
+1520 | 1.024
+1425 | 1.06
+1296 | 1.1202
+1120 | 1.2287
+946 | 1.3768
+825 | 1.5433
+713 | 1.7371
+622 | 1.9554
+550 | 2.1736
+440 | 2.6592
+1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+--- OCR ---

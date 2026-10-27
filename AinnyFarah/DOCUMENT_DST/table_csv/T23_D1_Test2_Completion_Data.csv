@@ -1,0 +1,36 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit
+84,,Well,DULANG 7,
+84,,Test,2,
+84,,Date,APRIL 11/12 1990,
+84,,Company Supervisor,GEORGE SHARKEY / WAN GHAZALI,
+84,,Test Engineer,GT WULF / RETNA T.,
+84,1,Interval,1236 - 1242 M (REPERFORATE/ADD PERFORATIONS: 1234 - 1243 M),
+84,2,Well loading fluid,DIESEL / AIR (SWAB TO 470 m),
+84,3,Approximate Differential (pf-pw),750 (FIRST PERFORATION),psi
+84,4,Type of perforating gun,SCHLUMBERGER ENERJET,
+84,5,Perforation density,6,spf
+84,6,Mud weight,9.5 BRINE,ppg
+84,7,Cl- of filtrate,200.000,mg/L (ppm crossed out)
+84,8,Cl- of mud filtrate at time of drilling,92000,mg/L (ppm crossed out)
+84,9,Casing - Size,7,in.
+84,9,Casing - Weight,23,lb/ft
+84,9,Casing - Grade,N-80,
+84,9,Casing - Capacity,0.0394,bbl/ft
+84,9,Casing - Shoe,1565,m (ft crossed out)
+84,10,Liner,(crossed out - not applicable),
+84,11,Tubing - Size,3 1/2,in.
+84,11,Tubing - Inside Diameter,2.992,in.
+84,11,Tubing - Weight,9.3,lb/ft
+84,11,Tubing - Grade,N-80,
+84,11,Tubing - Capacity,0.0087,bbl/ft
+84,11,Tubing - Connections,EUE,
+84,11,Tubing - Burst pressure,8640,psi
+84,12,Plugged back total depth,1340,m (ft crossed out)
+84,13,Depth of packer,1200,m (ft crossed out)
+84,14,Tubing volume,34,bbl
+84,15,Volume between packer and lowest perforation,5,bbl
+84,16,Rathole volume,13,bbl
+84,17,Depth of tailpipe,1203,m (ft crossed out)
+84,18,Location of pressure gauges - depth / gauge number (1),1230 / CRG,m (ft crossed out)
+84,18,Location of pressure gauges - depth / gauge number (2),1231.8 / AMERADA,m (ft crossed out)
+84,19,Initial WHP before well open,0,

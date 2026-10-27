@@ -1,0 +1,60 @@
+24.0
+Compositional Analysis of Stocktank Oil to C36+
+Separator Test Data | Compositional Analysis of Separator Test Gases to C12+ | Compositional Analysis of Stocktank Oil to C36+
+Component | Mole % | Weight %
+Gas-Oil | Gas-Oil | Oil | Formation | Separation | Gas Gravity | Sample I.D | CO2 | Carbon Dioxide | 0.0 | 0.0 | Calculated Residue Properties
+Pressure | Temperature | Ratio | Ratio | Density | Volume | Volume | of flashed gas | N2 | Nitrogen | 0.0 | 0.0
+(psig) | (°F) | Rsfb | (g cm-3) | Factor | Factor | (Air = 1.000) | Test Stage | 1.0 | 2.0 | 3.0 | 5.0 | C1 | Methane | 0.01 | 0.0 | C7+ | Mole% | 97.59000000000005
+(1) | (2) | Bofb (3) | (4) | Stage Pressure (psig) | 144.0 | 41.0 | 5.0 | 0.0 | C2 | Ethane | 0.06 | 0.01 | Molecular Weight (g mol-1) | 192.0905446884279
+C3 | Propane | 0.31 | 0.07 | Density at 60°F (g cm-3) | 0.8266
+1100.0 | 206.0 | 0.7492 | 1.1953738696852807 | Saturation Pressure | Component (Mole%) | iC4 | i-Butane | 0.21 | 0.06
+nC4 | n-Butane | 0.25 | 0.08 | C12+ | Mole% | 63.93
+144.0 | 115.0 | 234.0 | 241.0 | 0.8101 | 1.0315155098747828 | 1.2888351869307313 | CO2 | Carbon Dioxide | 72.2705 | 77.405 | 80.68700000000001 | 79.501 | C5 | Neo-Pentane | 0.0 | 0.0 | Molecular Weight (g mol-1) | 227.60099056718852
+41.0 | 138.0 | 44.0 | 45.0 | 0.8033 | 1.0231498039161477 | 1.3940467022988265 | N2 | Nitrogen | 0.24 | 0.13 | 0.08 | 0.06 | iC5 | i-Pentane | 0.31 | 0.12 | Density at 60°F (g cm-3) | 0.8439
+5.0 | 135.0 | 20.0 | 20.0 | 0.8054 | 1.012229993864117 | 1.5329377559335138 | C1 | Methane | 23.96 | 14.97 | 6.49 | 4.07 | nC5 | n-Pentane | 0.28 | 0.11
+0.0 | 60.0 | 1.0 | 1.0 | 0.815 | 1.0 | 1.5997641934771059 | C2 | Ethane | 1.92 | 3.2 | 3.39 | 3.53 | C6 | Hexanes | 0.98 | 0.45 | C20+ | Mole% | 11.43
+(API = 41.9°) | C3 | Propane | 0.76 | 1.77 | 2.45 | 2.69 | M-C-Pentane | 0.36 | 0.16 | Molecular Weight (g mol-1) | 358.9242072692152
+iC4 | i-Butane | 0.2 | 0.55 | 1.28 | 2.22 | Benzene | 0.42 | 0.17 | Density at 60°F (g cm-3) | 0.8896
+_______ | nC4 | n-Butane | 0.15 | 0.41 | 1.22 | 1.75 | Cyclohexane | 0.45 | 0.2
+Totsl Rsfb | 307.0 | C5 | Neo-Pentane | 0.0 | 0.0 | 0.0 | 0.01 | C7 | Heptanes | 1.6 | 0.85 | C36+ | Mole % | 0.65
+iC5 | i-Pentane | 0.07 | 0.2 | 0.68 | 0.84 | M-C-Hexane | 1.67 | 0.87 | Molecular Weight (g mol-1) | 589.9
+nC5 | n-Pentane | 0.05 | 0.14 | 0.5 | 0.6 | Toluene | 1.98 | 0.96 | Density at 60°F (g cm-3) | 0.9329
+C6 | Hexanes | 0.06 | 0.2 | 0.58 | 0.7 | C8 | Octanes | 2.2 | 1.33
+M-C-Pentane | 0.01 | 0.04 | 0.14 | 0.21 | E-Benzene | 0.3 | 0.17 | Calculated Whole Sample Properties
+Benzene | 0.02 | 0.04 | 0.12 | 0.15 | M/P-Xylene | 3.37 | 1.89
+Cyclohexane | 0.01 | 0.04 | 0.12 | 0.21 | O-Xylene | 0.76 | 0.43 | Average mole weight (g mol-1) | 189.1517493003914
+C7 | Heptanes | 0.03 | 0.11 | 0.2 | 0.39 | C9 | Nonanes | 4.45 | 3.02 | Density at 60°F (g cm-3) [Measured] | 0.815
+M-C-Hexane | 0.03 | 0.08 | 0.25 | 0.36 | 1,2,4-TMB | 1.6 | 1.01 | API | 41.94835030066312
+Toluene | 0.03 | 0.07 | 0.26 | 0.35 | C10 | Decanes | 6.25 | 4.7
+C8 | Octanes | 0.03 | 0.07 | 0.078 | 0.099 | C11 | Undecanes | 8.25 | 6.41
+E-Benzene | 0.0 | 0.0 | 0.0 | 0.0 | C12 | Dodecanes | 9.06 | 7.71
+M/P-Xylene | 0.02 | 0.04 | 0.15 | 0.2 | C13 | Tridecanes | 10.97 | 10.14
+O-Xylene | 0.01 | 0.06 | 0.15 | 0.2 | C14 | Tetradecanes | 8.63 | 8.67
+C9 | Nonanes | 0.1 | 0.44 | 1.13 | 1.8 | C15 | Pentadecanes | 8.44 | 9.2
+1,2,4-TMB | 0.0 | 0.0 | 0.0 | 0.0 | C16 | Hexadecanes | 5.0 | 5.87
+C10 | Decanes | 0.0195 | 0.02 | 0.025 | 0.03 | C17 | Heptadecanes | 3.92 | 4.91
+C11 | Undecanes | 0.01 | 0.015 | 0.02 | 0.03 | C18 | Octadecanes | 4.33 | 5.74
+C12+ | Dodecanes plus | 0.0 | 0.0 | 0.0 | 0.0 | C19 | Nonadecanes | 2.15 | 3.0
+_____ | _____ | _____ | _____ | C20 | Eicosanes | 1.53 | 2.23
+Totals | 100.0 | 100.0 | 100.0 | 100.0 | C21 | Heneicosanes | 1.28 | 1.96
+C22 | Docosanes | 1.09 | 1.75
+Calculated Gas Properties | C23 | Tricosanes | 0.95 | 1.6
+C24 | Tetracosanes | 0.87 | 1.52
+Gas Gravity | 1.2888351869307313 | 1.3940467022988265 | 1.5329377559335138 | 1.5997641934771059 | C25 | Pentacosanes | 0.78 | 1.43
+(Air = 1.000) | C26 | Hexacosanes | 0.7 | 1.32
+C27 | Heptacosanes | 0.65 | 1.29
+C28 | Octacosanes | 0.58 | 1.19
+Note: 0.00 means less than 0.005 | C29 | Nonacosanes | 0.56 | 1.19
+C30 | Triacontanes | 0.49 | 1.07
+C31 | Hentriacontanes | 0.45 | 1.03
+C32 | Dotriacontanes | 0.31 | 0.72
+C33 | Tritriacontanes | 0.26 | 0.64
+C34 | Tetratriacontanes | 0.16 | 0.4
+C35 | Pentatriacontanes | 0.12 | 0.31
+C36+ | Hexatriacontanes plus | 0.65 | 2.04
+_____ | _____
+(1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature | Totals | 100.0 | 100.0
+(2) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank oil at 60°F
+(3) Volume of saturated oil at 1100 psig and 206°F per volume of stocktank oil at 60°F | Note: 0.00 means less than 0.005
+(4) Volume of oil at indicated pressure and temperature per volume of stocktank oil at 60°F
+--- OCR ---

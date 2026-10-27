@@ -1,0 +1,10 @@
+Volumetric Data of Reservoir Fluid Sample
+1. Saturation pressure (bubble-point pressure) | 1982 PSIG @ 224°F
+2.Specific volume at saturation pressure: ft 2/lb | 0.02103 @ 224°F
+3. Thermal expension of saturated oil @ 5000 PSIG = | V @ 224° | = 1.000
+V @ 224°
+4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI
+From | 5000 | PSIG to | 4000 | PSIG = | 8.59 x 10-6
+From | 4000 | PSIG to | 3000 | PSIG = | 9.33 x 10-6
+From | 3000 | PSIG to | 1982 | PSIG = | 10.42 x 10-6
+--- OCR ---

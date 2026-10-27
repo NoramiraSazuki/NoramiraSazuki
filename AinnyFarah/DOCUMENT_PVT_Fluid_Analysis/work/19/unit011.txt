@@ -1,0 +1,23 @@
+Page | 11 of 33
+Report Date | 1992-04-30 00:00:00
+Report No | MFL 91184
+Well | DULANG-B12
+Cylinder No | 1209-A & WIB-7417
+Dep. Conditions | 450 PSIG @ 200°F | 220 PSIG @ 200°F | 105 PSIG @ 200°F | 0 PSIG @ 200°F | 220*F
+Component | Mol Percent | GPM | Mol Percent | GPM | Mol Percent | GPM | Mol Percent | GPM
+H2S Hydrogen Sulphide | 0 | 0 | 0 | 0
+CO2 Carbon Dioxide | 64.82 | 69.1 | 71.26 | 68.79
+N2 Nitrogen | 1.01 | 0.52 | 0.32 | 0.1
+C1 Methane | 28.79 | 22.44 | 16.71 | 5.48
+C2 Ethane | 2.88 | 0.77 | 3.94 | 1.054 | 5.19 | 1.388 | 6.61 | 1.768
+C3 Propane | 1.25 | 0.344 | 2 | 0.551 | 3.18 | 0.876 | 7.21 | 1.987
+iC4 i-Butane | 0.36 | 0.118 | 0.61 | 0.2 | 1.03 | 0.337 | 4.42 | 1.446
+nC4 n-Butane | 0.27 | 0.085 | 0.47 | 0.148 | 0.79 | 0.249 | 3.11 | 0.981
+iC5 i-Pentane | 0.13 | 0.048 | 0.22 | 0.08 | 0.38 | 0.139 | 0.99 | 0.362
+nC5 n-Pentane | 0.08 | 0.029 | 0.14 | 0.051 | 0.25 | 0.091 | 0.75 | 0.272
+C6 Hexanes | 0.12 | 0.047 | 0.19 | 0.074 | 0.33 | 0.128 | 1.01 | 0.392
+C7 Heptanes Plus | 0.29 | 0.128 | 0.37 | 0.164 | 0.56 | 0.248 | 1.53 | 0.677
+Total | 100 | 1.569 | 100 | 2.322 | 100 | 3.456 | 100 | 7.885
+Gas gravity (air=l.000) | 1.235 | 1.3 | 1.362 | 1.533
+Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F) | 425 | 427 | 473 | 803
+--- OCR ---

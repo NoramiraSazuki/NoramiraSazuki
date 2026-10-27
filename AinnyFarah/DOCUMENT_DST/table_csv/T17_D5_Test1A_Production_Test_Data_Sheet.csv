@@ -1,0 +1,138 @@
+﻿Source Page,Sheet Date (as written),1 DATE TIME,2 REMARKS,3 WELLHEAD PRESSURE PSIG/PSI,4 WELLHEAD TEMPERATURE °F,5 BOTTOMHOLE (CASING) PRESSURE PSIA,6 CHOKE 64TH,7 CUMULATIVE PRODUCTION OIL STB,8 CUMULATIVE PRODUCTION WATER (LOAD) BBLS,9 CUMULATIVE PRODUCTION GAS MSCF,10 RATES OIL STB/D,11 RATES WATER B/D,12 RATES GAS MSCF/D,13 GOR OR CONDENSATE GAS RATIO,14 GRAVITY OIL °API @ 60°,15 GRAVITY GAS AIR = 1
+62,9/4/90,1400,R.I.H. GUN,725,74,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+62,9/4/90,1440,"OPEN WELL ON 1/2"" ADJ TO BURNER",723,74,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+62,9/4/90,1445,,300,73,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+62,9/4/90,1450,,320,73,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+62,9/4/90,1455,,347,74,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+62,9/4/90,1458,SHUT IN WELL AT CHOKE MANIFOLD,350,74,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+62,9/4/90,1459,PERFORATE 1348.5 - 1387m,385,74,NO GAUGES AT BOTTOM (vertical note spanning rows),APPROX. PRESSURE DRAWDOWN ≈ 500 PSI (note written across cols 6-13),,,,,,,,,
+62,9/4/90,1500,"OPEN WELL ON 1/2 /10"" ADJ AT CHOKE MANIFOLD.",410,75,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+62,9/4/90,1505,SURGE PERF. DEBRIS,387,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+62,9/4/90,1509,SHUT IN WELL AT CHOKE MANIFOLD,390,75,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+62,9/4/90,1510,,419,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1515,,575,75,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+63,9/4/90,1520,,570,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1525,POOH GUN,,,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1530,,625,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1545,,650,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1556,CLOSE MASTER VALVE. LUBRICATOR AND REMOVE GUN (written across cols 2-9); OPEN C/M TO BLEED OFF,,,NO GAUGES AT BOTTOM (vertical note spanning rows),,,,,,,,,,
+63,9/4/90,1630,RIG UP AGAIN,,,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+63,9/4/90,1640,CLOSE C/M. OPEN MASTER VALVE,0,,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1645,R.I.H. GUN,690,,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1700,,695,,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1715,,697,,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+63,9/4/90,1725,"OPEN WELL ON 1/2"" ADJ TO BURNER",697,74,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+63,9/4/90,1726,,450,74,↓,↓,,,,,,,,,
+64,9/4/90,1727,,420,73,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+64,9/4/90,1728,,390,73,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1729,,370,73,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1730,,370,73,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1731,,365,74,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1732,,355,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1733,,345,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1734,,345,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1735,,340,75,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1740,,337,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+64,9/4/90,1742,SHUT IN WELL AT C/M,350,76,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+64,9/4/90,1743,PERFORATE 1372.5→75.5 m,360,76,APPROX. PRESSURE DROWDOWN ≈ 500 PSI. (note written across cols 5-12),,,,,,,,,,
+64,9/4/90,1744,"OPEN WELL AT C K MAN 1/2"" ADJ TO SURGE PERF. DEBRIS",375,76,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+64,9/4/90,1745,,385,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1746,,390,76,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+65,09/4/90,1747,,410,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1748,,410,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1749,,405,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1750,,390,77,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1751,,395,77,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1752,,395,77,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1753,,397,77,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1754,SHUT IN WELL AT CK MAN,387,77,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+65,09/4/90,1800,POOH W/ PERF GUN,487,77,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+65,09/4/90,1830,GUN AT SURFACE BLEED OFF LUBRICATOR,595,72,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+65,09/4/90,1841,OPEN WELL AT CHOKE MANIFOLD TO BURNER,600,72,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+65,09/4/90,,,560,72,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+65,09/4/90,1842,TO CLEAN UP WELL PRIOR TO RUNNING PLT.,480,72,↓,↓,,,,,,,,,
+66,9/4/90,1843,,460,74,NO GAUGES AT BOTTOM (vertical note spanning rows),32A,,,,,,,,,
+66,9/4/90,1844,,440,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1845,,420,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1846,,420,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1847,,390,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1848,,383,76,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1849,,380,78,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1850,,370,78,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1900,,437,78,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+66,9/4/90,1905,"SWITCH FLOW TO 32/64"" FIXED - ADJ CHOKE",440,78,NO GAUGES AT BOTTOM (vertical note spanning rows),32P,,,,,,,,,
+66,9/4/90,1910,PLUGGED W/ PERFORATE DEBRIS,430,78,NO GAUGES AT BOTTOM (vertical note spanning rows),,,,,,,,,,
+66,9/4/90,,(CONTINUE PAGE 6 - D-5),,,NO GAUGES AT BOTTOM (vertical note spanning rows),,,,,,,,,,
+67,9/4/90,1915,,400,78,NO GAUGES AT BOTTOM (vertical note spanning rows),32P,,,,,,,,,
+67,9/4/90,1920,,385,79,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,1925,,395,82,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,1930,,405,80,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,1940,CLOSE CHOKE MANIFOLD,395,80,NO GAUGES AT BOTTOM (vertical note spanning rows),0,,,,,,,,,
+67,9/4/90,1945,CLOSE MASTER VALVE BLEED OFF LUBRICATOR,487,80,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2015,OPEN MASTER VALVE RUN IN HOLE W/ PLT,600,74,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2020,,609,74,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2025,,610,74,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2030,,617,72,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2045,,618,72,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2100,START PLT CALIBRATION,626,70,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2115,(MAKING PASSES WITH,632,70,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+67,9/4/90,2130,WELL SHUT-IN),640,70,NO GAUGES AT BOTTOM (vertical note spanning rows),↓,,,,,,,,,
+68,9/4/90,2145,,642,68,↓,0,,,,,,,,,
+68,9/4/90,2200,FINISH PLT CALIBRATION,648,68,↓,↓,,,,,,,,,
+68,9/4/90,2210,POSITION H.P. AT 1415 m,649,68,↓,↓,,,,,,,,,
+68,9/4/90,2215,"OPEN WELL ON 1/2"" ADJUSTABLE CHOKE TO BURNER",652,68,CANNOT ACQUIRE BHP (vertical note spanning rows),32A,,,,,,,,,
+68,9/4/90,2216,(WAIT FOR GOOD STABILIZED RATE BEFORE COM. SPINNER SURVEY),360,64,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,,,,,,,,,
+68,9/4/90,2217,,420,72,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,,,,,,,,,
+68,9/4/90,2218,,400,72,↓,↓,,,,,,,,,
+68,9/4/90,2219,,400,74,↓,↓,,,,,,,,,
+68,9/4/90,2220,"SWITCH FLOW TO 1/2"" FIXED CHOKE TO BURNER",395,74,↓,32P,,,,,,,,,
+68,9/4/90,2225,,373,76,↓,↓,,,,,,,,,
+68,9/4/90,2230,,402,76,↓,↓,,,,,,,,,
+69,9/4/90,2235,,405,76,↓,32P,,,,,,,,,
+69,9/4/90,2240,BSW = 0 (TRACES OF SAND); H2S = 0 PPM,412,76,↓,↓,,,,,,,,,
+69,9/4/90,2245,BSW = 0%,415,76,↓,↓,,,,,,,37.6,,
+69,9/4/90,2250,,410,80,↓,↓,,,,,,,,,
+69,9/4/90,2255,,407,80,↓,↓,,,,,,,,,
+69,9/4/90,2300,PASS FLOW THRU SEPARATOR; BSW = 1%,405,82,↓,↓,,,,,,,,,
+69,9/4/90,2315,,413,82,↓,↓,(INITIAL VOLUME) (note written across cols 7-9),,,,,,,,
+69,9/4/90,2330,COMMENCE ACQUISITION OF BHP,417,82,,↓,0,0,0,-,,-,-,38.2,1.004
+69,9/4/90,2345,,416,84,1601,↓,14.49,,4.90,1370.9,,470.7,343,38.2,1.004
+69,9/4/90,2400,,422,84,1599,↓,23.8,,9.82,1378.6,,471.6,342,37.4,1.005
+69,10/4/90,0015,— 10/4/90 —,419,84,1596,↓,43.0,,14.72,1360.2,,470.7,346,37.4,1.005
+69,10/4/90,0030,,423,84,1592,32P,57.1,,19.60,1354.56,,468.12,345,37.4,1.005
+70,10/4/90,0045,,440,88,1589,32P,71.4,,24.87,1368.0,,506.29,370,37.4,1.005
+70,10/4/90,0100,,432,88,1587,↓,85.0,,30.08,1306.6,,500.1,383,37.4,1.006
+70,10/4/90,0115,POSITION H.P. AT 1360 m (E-26),429,86,,↓,99.1,,34.92,1351.7,,464.9,344,37.4,1.006
+70,10/4/90,0130,,428,86,1530,↓,113.3,,39.31,1367.0,,468.8,343,37.4,1.006
+70,10/4/90,0145,,428,86,1527,↓,127.4,,44.68,1352.6,,467.94,345,37.4,1.006
+70,10/4/90,0200,"COMMENCE SPINNER SURVEY, STOP BHP ACQUISITION",428,86,1528,↓,141.5,,49.52,1350.7,,464.3,344,37.6,1.005
+70,10/4/90,0215,EVIDENCE OF MINUTE AMOUNT OF WATER (FROM CONDENSATION IN GAS LINE),428,88,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,155.5,,54.35,1347.8,,464.3,344,37.6,1.005
+70,10/4/90,0230,,428,88,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,169.5,,59.15,1345.2,,460.3,342,37.6,1.005
+70,10/4/90,0245,,428,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,183.6,,63.98,1347.84,,464.27,344,37.6,1.005
+70,10/4/90,0300,,428,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,197.6,,68.81,1347.84,,463.39,344,37.6,1.005
+71,10/4/90,0315,,419,90,CANNOT ACQUIRE BHP (vertical note spanning rows),32P,211.2,,72.85,1307.52,,387.67,296,37.6,1.006
+71,10/4/90,0330,,435,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,225.2,,77.55,1339.2,,451.83,337,37.0,1.006
+71,10/4/90,0345,,437,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,239.7,,82.27,1395.84,,452.69,324,37.0,1.006
+71,10/4/90,0400,,437,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,253.9,,86.76,1359.36,,431.41,317,37.0,1.006
+71,10/4/90,0415,"EST. CONTRIBUTIONS: 75% FROM E-34/36, 0% FROM E-27, 25% FROM E-26",434,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,268.1,,91.53,1366.08,,457.56,335,37.0,1.006
+71,10/4/90,0430,,440,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,282.9,,96.54,1419.84,,481.16,339,36.6,1.006
+71,10/4/90,0445,,432,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,297.3,,101.3,1383.36,,457.9,330,36.6,1.006
+71,10/4/90,0500,,430,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,311.5,,106.1,1364.16,,463.34,340,36.6,1.006
+71,10/4/90,0515,,400,90,CANNOT ACQUIRE BHP (vertical note spanning rows),↓,325.5,,110.37,1342.08,,455.18,339,36.6,1.006
+71,10/4/90,0530,POSITION HP AT 1415 m (E-34/36),445,90,-,32P,340.9,,116.0,1481.28,,496.26,335,37.2,1.005
+71,10/4/90,0545,,435,90,1579,↓,355.1,,121.0,1363.36,,476.52,344,37.2,1.005
+71,10/4/90,,(CONTINUE 11 D-5),,,,↓,,,,,,,,,
+72,10-4-90,0551,"INCREASE CHOKE TO 1"" TO EVAL. WELL POTENTIAL (H.O)",435,100,1578,64A,360.8,,123.0,1363 *,,477 *,,,
+72,10-4-90,0600,"CHANGE ORIFICE TO 1.250""",230,105,1329,↓,380.5,,129.4,3150 *,,1030 *,,,
+72,10-4-90,0615,,197,110,1272,↓,413.3,,140.2,3150 *,,1030 *,,,
+72,10-4-90,0630,,198,110,1270,↓,446.5,1.3,150.9,3183.36,,1030.25,324,37.2,1.005
+72,10-4-90,0645,,199,110,1262,↓,479.8,,161.7,3198.72,,1033.04,323,37.2,1.005
+72,10-4-90,0700,,200,114,1262,↓,514.3,2.7,172.3,3313.92,,1025.08,309,36.4,1.006
+72,10-4-90,0715,,197,112,1261,↓,547.0,4.0,183.0,3137.28,,1025.08,327,36.4,1.006
+72,10-4-90,0730,BSW = 2% (TRACE OF SAND),197,112,1259,64A,579.8,5.3,193.8,3145.9,,1033.5,329,36.4,1.006
+72,10-4-90,0737,"SWITCH TO 1"" FIXED",,,,64P,,,,3150 *,,1034 *,329,,
+72,10-4-90,0745,,,,1274,↓,612.6,,204.6,3150 *,,1034 *,329,,
+72,10-4-90,0800,,214,114,1275,↓,641.9,6.5,214.9,2817.6,,987.84,351,36.4,1.006
+72,10-4-90,0830,BHT 222.6 °F,215,114,1267.3,↓,704.1,7.8,235.4,2984.64,,987.84,331,36.4,1.006
+72,10-4-90,0835,SHUT IN WELL & TERMINATE TEST.,-,-,-,↓,-,-,-,-,,-,-,-,-
+72,10-4-90,,,,,,,↓,q̄ = 3091 STBPD - AVE OVER 2 hrs; GOR AVE: 328 SCF/STB (OVER 2 hrs) (notes written across cols 7-13),,,,,,,

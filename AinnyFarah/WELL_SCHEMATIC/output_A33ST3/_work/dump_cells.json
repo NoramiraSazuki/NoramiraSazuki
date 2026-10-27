@@ -1,0 +1,4318 @@
+{
+ "sheets": [
+  {
+   "title": "XX2R&",
+   "visibility": 2,
+   "cells": [],
+   "merged": []
+  },
+  {
+   "title": "SCHEM-1",
+   "visibility": 0,
+   "cells": [
+    {
+     "ref": "B2",
+     "value": "DULANG A33-ST3",
+     "ctype": 1
+    },
+    {
+     "ref": "B4",
+     "value": "Well ID / SLOT NO : Dulang A33ST2 WI",
+     "ctype": 1
+    },
+    {
+     "ref": "I4",
+     "value": "CASING & TUBING SCHEME",
+     "ctype": 1
+    },
+    {
+     "ref": "P4",
+     "value": "#",
+     "ctype": 1
+    },
+    {
+     "ref": "Q4",
+     "value": "GRADE",
+     "ctype": 1
+    },
+    {
+     "ref": "R4",
+     "value": "THREAD",
+     "ctype": 1
+    },
+    {
+     "ref": "S4",
+     "value": "DEPTH (m-MDDF)",
+     "ctype": 1
+    },
+    {
+     "ref": "B5",
+     "value": "Field / Platform : Dulang A",
+     "ctype": 1
+    },
+    {
+     "ref": "S5",
+     "value": "TOP",
+     "ctype": 1
+    },
+    {
+     "ref": "T5",
+     "value": "BOTTOM",
+     "ctype": 1
+    },
+    {
+     "ref": "AD5",
+     "value": " ",
+     "ctype": 1
+    },
+    {
+     "ref": "B6",
+     "value": "Rig Name: Sapura Berani ",
+     "ctype": 1
+    },
+    {
+     "ref": "I6",
+     "value": "26\" Conductor (Existing)",
+     "ctype": 1
+    },
+    {
+     "ref": "P6",
+     "value": 202.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q6",
+     "value": "A-36",
+     "ctype": 1
+    },
+    {
+     "ref": "R6",
+     "value": "Welded",
+     "ctype": 1
+    },
+    {
+     "ref": "S6",
+     "value": "Surface",
+     "ctype": 1
+    },
+    {
+     "ref": "T6",
+     "value": 181.46,
+     "ctype": 2
+    },
+    {
+     "ref": "B7",
+     "value": "Injection Rate:2500 blpd",
+     "ctype": 1
+    },
+    {
+     "ref": "I7",
+     "value": "16\" Casing (Existing)",
+     "ctype": 1
+    },
+    {
+     "ref": "P7",
+     "value": 75.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q7",
+     "value": "J-55",
+     "ctype": 1
+    },
+    {
+     "ref": "R7",
+     "value": "BTC",
+     "ctype": 1
+    },
+    {
+     "ref": "S7",
+     "value": "Surface",
+     "ctype": 1
+    },
+    {
+     "ref": "T7",
+     "value": 188.46,
+     "ctype": 2
+    },
+    {
+     "ref": "B8",
+     "value": "Surface Injection Pressure: 1200psi",
+     "ctype": 1
+    },
+    {
+     "ref": "I8",
+     "value": "13-3/8\" Casing (Existing)",
+     "ctype": 1
+    },
+    {
+     "ref": "P8",
+     "value": 54.5,
+     "ctype": 2
+    },
+    {
+     "ref": "Q8",
+     "value": "K-55",
+     "ctype": 1
+    },
+    {
+     "ref": "R8",
+     "value": "BTC",
+     "ctype": 1
+    },
+    {
+     "ref": "S8",
+     "value": "Surface",
+     "ctype": 1
+    },
+    {
+     "ref": "T8",
+     "value": 443.26,
+     "ctype": 2
+    },
+    {
+     "ref": "B9",
+     "value": "Drill floor height: 30.1m-AMSL",
+     "ctype": 1
+    },
+    {
+     "ref": "I9",
+     "value": "9-5/8\" Casing (Existing)",
+     "ctype": 1
+    },
+    {
+     "ref": "P9",
+     "value": 43.5,
+     "ctype": 2
+    },
+    {
+     "ref": "Q9",
+     "value": "L-80",
+     "ctype": 1
+    },
+    {
+     "ref": "R9",
+     "value": "BTC",
+     "ctype": 1
+    },
+    {
+     "ref": "S9",
+     "value": "Surface",
+     "ctype": 1
+    },
+    {
+     "ref": "T9",
+     "value": 1355.46,
+     "ctype": 2
+    },
+    {
+     "ref": "B10",
+     "value": "Completion Date : 3rd April 2020",
+     "ctype": 1
+    },
+    {
+     "ref": "I10",
+     "value": "7\" Liner",
+     "ctype": 1
+    },
+    {
+     "ref": "P10",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "Q10",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "R10",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "S10",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "T10",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "B11",
+     "value": "Maximum Deviation: 58deg @ 1,800m MDDF",
+     "ctype": 1
+    },
+    {
+     "ref": "I11",
+     "value": "Tubing 3-1/2\" GRE lined",
+     "ctype": 1
+    },
+    {
+     "ref": "P11",
+     "value": 9.2,
+     "ctype": 2
+    },
+    {
+     "ref": "Q11",
+     "value": "L80",
+     "ctype": 1
+    },
+    {
+     "ref": "R11",
+     "value": "JFEFOX",
+     "ctype": 1
+    },
+    {
+     "ref": "B12",
+     "value": "Wellhead : Surface Unihead, Solar Alert, Surface, Standard, Single",
+     "ctype": 1
+    },
+    {
+     "ref": "I12",
+     "value": "Tubing 3-1/2\" - Below 7\" AHC",
+     "ctype": 1
+    },
+    {
+     "ref": "P12",
+     "value": 9.2,
+     "ctype": 2
+    },
+    {
+     "ref": "Q12",
+     "value": "15CR-125",
+     "ctype": 1
+    },
+    {
+     "ref": "R12",
+     "value": "JFE BEAR",
+     "ctype": 1
+    },
+    {
+     "ref": "B13",
+     "value": "X-Mas Tree : Solar Alert  5,000 psi",
+     "ctype": 1
+    },
+    {
+     "ref": "I13",
+     "value": "Completion Fluid : 8.5 ppg NaCl filtered to 30 NTU",
+     "ctype": 1
+    },
+    {
+     "ref": "B14",
+     "value": "Completion Brine: 8.5ppg NaCl",
+     "ctype": 1
+    },
+    {
+     "ref": "I14",
+     "value": "Packer Fluid: 8.5 ppg NaCl with 2% Corrosion Inhibitor + 2% Oxygen Scavenger + 0.2% Biocide",
+     "ctype": 1
+    },
+    {
+     "ref": "F15",
+     "value": "DEPTH",
+     "ctype": 1
+    },
+    {
+     "ref": "L15",
+     "value": "DEPTH",
+     "ctype": 1
+    },
+    {
+     "ref": "M15",
+     "value": "LENGTH",
+     "ctype": 1
+    },
+    {
+     "ref": "N15",
+     "value": "ANGLE",
+     "ctype": 1
+    },
+    {
+     "ref": "O15",
+     "value": " COMPLETION EQUIPMENT",
+     "ctype": 1
+    },
+    {
+     "ref": "S15",
+     "value": "MIN ID",
+     "ctype": 1
+    },
+    {
+     "ref": "T15",
+     "value": "MAX OD",
+     "ctype": 1
+    },
+    {
+     "ref": "F16",
+     "value": "m-MDDF",
+     "ctype": 1
+    },
+    {
+     "ref": "L16",
+     "value": "m-MDDF",
+     "ctype": 1
+    },
+    {
+     "ref": "M16",
+     "value": "m",
+     "ctype": 1
+    },
+    {
+     "ref": "N16",
+     "value": "( ° )",
+     "ctype": 1
+    },
+    {
+     "ref": "S16",
+     "value": "IN",
+     "ctype": 1
+    },
+    {
+     "ref": "T16",
+     "value": "IN",
+     "ctype": 1
+    },
+    {
+     "ref": "K17",
+     "value": 15.8,
+     "ctype": 2
+    },
+    {
+     "ref": "M17",
+     "value": 15.8,
+     "ctype": 2
+    },
+    {
+     "ref": "O17",
+     "value": "ELEVATION (DF to THF)",
+     "ctype": 1
+    },
+    {
+     "ref": "M18",
+     "value": 1.52,
+     "ctype": 2
+    },
+    {
+     "ref": "O18",
+     "value": "TUBING HANGER Bear (BOX Down)",
+     "ctype": 1
+    },
+    {
+     "ref": "S18",
+     "value": 2.992,
+     "ctype": 2
+    },
+    {
+     "ref": "T18",
+     "value": "TBC",
+     "ctype": 1
+    },
+    {
+     "ref": "M19",
+     "value": 0.46,
+     "ctype": 2
+    },
+    {
+     "ref": "O19",
+     "value": "XOVER 3-1/2\" BEAR Pin x FOX DTP (BOX)",
+     "ctype": 1
+    },
+    {
+     "ref": "S19",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T19",
+     "value": 3.833,
+     "ctype": 2
+    },
+    {
+     "ref": "M20",
+     "value": 3.65742151782993,
+     "ctype": 2
+    },
+    {
+     "ref": "O20",
+     "value": "12 FT 3-1/2\" GRE Lined Fox (Pin x Pin) Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S20",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T20",
+     "value": 3.5,
+     "ctype": 2
+    },
+    {
+     "ref": "M23",
+     "value": 1.8288,
+     "ctype": 2
+    },
+    {
+     "ref": "O23",
+     "value": "6 FT 3-1/2\" GRE Lined Fox (Box x Pin) Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S23",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T23",
+     "value": 3.878,
+     "ctype": 2
+    },
+    {
+     "ref": "M24",
+     "value": 0.91,
+     "ctype": 2
+    },
+    {
+     "ref": "O24",
+     "value": "OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80]",
+     "ctype": 1
+    },
+    {
+     "ref": "S24",
+     "value": 2.357,
+     "ctype": 2
+    },
+    {
+     "ref": "T24",
+     "value": 3.833,
+     "ctype": 2
+    },
+    {
+     "ref": "K25",
+     "value": 254.61,
+     "ctype": 2
+    },
+    {
+     "ref": "M25",
+     "value": 1.35,
+     "ctype": 2
+    },
+    {
+     "ref": "O25",
+     "value": "TRSV, 2-7/8 6.4PPF JFEBEAR BXP",
+     "ctype": 1
+    },
+    {
+     "ref": "S25",
+     "value": 2.312,
+     "ctype": 2
+    },
+    {
+     "ref": "T25",
+     "value": 4.609,
+     "ctype": 2
+    },
+    {
+     "ref": "M26",
+     "value": 0.91,
+     "ctype": 2
+    },
+    {
+     "ref": "O26",
+     "value": "OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX",
+     "ctype": 1
+    },
+    {
+     "ref": "S26",
+     "value": 2.357,
+     "ctype": 2
+    },
+    {
+     "ref": "T26",
+     "value": 3.833,
+     "ctype": 2
+    },
+    {
+     "ref": "M27",
+     "value": 1.2191405059433098,
+     "ctype": 2
+    },
+    {
+     "ref": "O27",
+     "value": "4 FT 3-1/2\" GRE Lined Fox (Pin x Pin) Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S27",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T27",
+     "value": 3.5,
+     "ctype": 2
+    },
+    {
+     "ref": "B40",
+     "value": "7\"Liner (TOL)",
+     "ctype": 1
+    },
+    {
+     "ref": "F40",
+     "value": 902.73,
+     "ctype": 2
+    },
+    {
+     "ref": "O48",
+     "value": "TUBING 3-1/2\" 9.2#, FOX GRE, R2",
+     "ctype": 1
+    },
+    {
+     "ref": "M50",
+     "value": 1.83,
+     "ctype": 2
+    },
+    {
+     "ref": "O50",
+     "value": "6 FT 3-1/2\" GRE Lined Fox (B x P) Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S50",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T50",
+     "value": 3.878,
+     "ctype": 2
+    },
+    {
+     "ref": "M51",
+     "value": 0.5,
+     "ctype": 2
+    },
+    {
+     "ref": "O51",
+     "value": "Crossover - 3-1/2\" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI",
+     "ctype": 1
+    },
+    {
+     "ref": "S51",
+     "value": 2.545,
+     "ctype": 2
+    },
+    {
+     "ref": "T51",
+     "value": 3.893,
+     "ctype": 2
+    },
+    {
+     "ref": "K52",
+     "value": 1800.21,
+     "ctype": 2
+    },
+    {
+     "ref": "M52",
+     "value": 2.44,
+     "ctype": 2
+    },
+    {
+     "ref": "N52",
+     "value": 58.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O52",
+     "value": "7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR PIN",
+     "ctype": 1
+    },
+    {
+     "ref": "S52",
+     "value": 2.885,
+     "ctype": 2
+    },
+    {
+     "ref": "T52",
+     "value": 5.909,
+     "ctype": 2
+    },
+    {
+     "ref": "M53",
+     "value": 1.524,
+     "ctype": 2
+    },
+    {
+     "ref": "O53",
+     "value": "5 FT 3 1/2\" 9.2# JFE BEAR B x P, 25Cr Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S53",
+     "value": 2.992,
+     "ctype": 2
+    },
+    {
+     "ref": "T53",
+     "value": 3.5,
+     "ctype": 2
+    },
+    {
+     "ref": "M54",
+     "value": 0.5,
+     "ctype": 2
+    },
+    {
+     "ref": "O54",
+     "value": "Crossover - 3-1/2\"  BEAR (B) x 2-7/8\" Bear (P), 25CR-80KSI",
+     "ctype": 1
+    },
+    {
+     "ref": "S54",
+     "value": 2.441,
+     "ctype": 2
+    },
+    {
+     "ref": "T54",
+     "value": 3.833,
+     "ctype": 2
+    },
+    {
+     "ref": "K55",
+     "value": 1803.95,
+     "ctype": 2
+    },
+    {
+     "ref": "M55",
+     "value": 0.42,
+     "ctype": 2
+    },
+    {
+     "ref": "O55",
+     "value": "OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1 ",
+     "ctype": 1
+    },
+    {
+     "ref": "S55",
+     "value": 2.205,
+     "ctype": 2
+    },
+    {
+     "ref": "T55",
+     "value": 3.385,
+     "ctype": 2
+    },
+    {
+     "ref": "M56",
+     "value": 0.5,
+     "ctype": 2
+    },
+    {
+     "ref": "O56",
+     "value": "Crossover - 2-7/8\" Bear (B) X 3-1/2\" Bear (P), 25CR-80KSI",
+     "ctype": 1
+    },
+    {
+     "ref": "S56",
+     "value": 2.441,
+     "ctype": 2
+    },
+    {
+     "ref": "T56",
+     "value": 3.833,
+     "ctype": 2
+    },
+    {
+     "ref": "M57",
+     "value": 1.829,
+     "ctype": 2
+    },
+    {
+     "ref": "O57",
+     "value": "6 FT 3 1/2\" 9.2# JFE BEAR B x P, 15Cr-125ksi Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "S57",
+     "value": 2.963,
+     "ctype": 2
+    },
+    {
+     "ref": "T57",
+     "value": 3.883,
+     "ctype": 2
+    },
+    {
+     "ref": "O59",
+     "value": "TUBING 3-1/2\" 9.2#, UHP 15Cr-125, JFE BEAR, R3",
+     "ctype": 1
+    },
+    {
+     "ref": "K61",
+     "value": 1836.02,
+     "ctype": 2
+    },
+    {
+     "ref": "O61",
+     "value": "3-1/2\" Muleshoe Guide / Drop Sub",
+     "ctype": 1
+    },
+    {
+     "ref": "S61",
+     "value": 2.9,
+     "ctype": 2
+    },
+    {
+     "ref": "T61",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O62",
+     "value": "ITCP Assembly",
+     "ctype": 1
+    },
+    {
+     "ref": "B63",
+     "value": "E34A",
+     "ctype": 1
+    },
+    {
+     "ref": "B64",
+     "value": "1,363.62-1,368.75m TVD",
+     "ctype": 1
+    },
+    {
+     "ref": "B65",
+     "value": "1,846-1,856m MDDF",
+     "ctype": 1
+    },
+    {
+     "ref": "B66",
+     "value": "Reservoir Pressure: 1,503 psi, 93deg C",
+     "ctype": 1
+    },
+    {
+     "ref": "B67",
+     "value": 6.47,
+     "ctype": 2
+    },
+    {
+     "ref": "B74",
+     "value": "PBTD",
+     "ctype": 1
+    },
+    {
+     "ref": "F74",
+     "value": 1903.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B75",
+     "value": "TD",
+     "ctype": 1
+    },
+    {
+     "ref": "F75",
+     "value": 1944.6,
+     "ctype": 2
+    },
+    {
+     "ref": "O75",
+     "value": "Prepared by : Pravin Nair (Aug 2023)",
+     "ctype": 1
+    }
+   ],
+   "merged": [
+    "B66:E66",
+    "O38:R38",
+    "O36:R36",
+    "K61:L61",
+    "K60:L60",
+    "K59:L59",
+    "K52:L52",
+    "K51:L51",
+    "K54:L54",
+    "K55:L55",
+    "O19:R19",
+    "K62:L62",
+    "K63:L63",
+    "O64:R64",
+    "O37:R37",
+    "B2:S3",
+    "K49:L49",
+    "K46:L46",
+    "K47:L47",
+    "K53:L53",
+    "K58:L58",
+    "K48:L48",
+    "K64:L64",
+    "K65:L65",
+    "K66:L66",
+    "K67:L67",
+    "K44:L44",
+    "K45:L45",
+    "K33:L33",
+    "K34:L34",
+    "K30:L30",
+    "K31:L31",
+    "K32:L32",
+    "K23:L23",
+    "K24:L24",
+    "K25:L25",
+    "K26:L26",
+    "K27:L27",
+    "K28:L28",
+    "K17:L17",
+    "K18:L18",
+    "K19:L19",
+    "K20:L20",
+    "K21:L21",
+    "K22:L22",
+    "B32:E32",
+    "B57:E57",
+    "B59:E59",
+    "B76:E76",
+    "B72:E72",
+    "B68:E68",
+    "B71:E71",
+    "B73:E73",
+    "B74:E74",
+    "B51:E51",
+    "I10:O10",
+    "I11:O11",
+    "B46:E46",
+    "O59:T59",
+    "B44:E44",
+    "I12:O12",
+    "B52:E52",
+    "B43:E43",
+    "B42:E42",
+    "B49:E49",
+    "I9:O9",
+    "I4:O5",
+    "P4:P5",
+    "Q4:Q5",
+    "R4:R5",
+    "I7:O7",
+    "I8:O8",
+    "B31:E31",
+    "O15:R16",
+    "S4:T4",
+    "B15:E16",
+    "O23:R23",
+    "O24:R24",
+    "B18:E18",
+    "B19:E19",
+    "B20:E20",
+    "I6:O6",
+    "O29:R29",
+    "B27:E27",
+    "B28:E28",
+    "B29:E29",
+    "K29:L29",
+    "B30:E30",
+    "B22:E22",
+    "B23:E23",
+    "B24:E24",
+    "B25:E25",
+    "B26:E26",
+    "B17:E17",
+    "B21:E21",
+    "B33:E33",
+    "B34:E34",
+    "B35:E35",
+    "B36:E36",
+    "B37:E37",
+    "B38:E38",
+    "B50:E50",
+    "B65:E65",
+    "B39:E39",
+    "B40:E40",
+    "B41:E41",
+    "B47:E47",
+    "B45:E45",
+    "B60:E60",
+    "B62:E62",
+    "B48:E48",
+    "B63:E63",
+    "B64:E64",
+    "O63:R63",
+    "B67:E67",
+    "B54:E54",
+    "B55:E55",
+    "B56:E56",
+    "B61:E61",
+    "O57:R57",
+    "O65:R65",
+    "O52:R52",
+    "O48:T48",
+    "O55:R55",
+    "O54:R54",
+    "O56:R56",
+    "O53:R53",
+    "O51:R51",
+    "O50:R50"
+   ]
+  },
+  {
+   "title": "Sheet1",
+   "visibility": 0,
+   "cells": [],
+   "merged": []
+  },
+  {
+   "title": "OCTG",
+   "visibility": 0,
+   "cells": [
+    {
+     "ref": "C1",
+     "value": "A23 , OP2",
+     "ctype": 1
+    },
+    {
+     "ref": "B2",
+     "value": "Tubing (2-3/8\" to 4-1/2\" or at times could be 5-1/2\" or 7\")",
+     "ctype": 1
+    },
+    {
+     "ref": "C2",
+     "value": "PRF Quantity",
+     "ctype": 1
+    },
+    {
+     "ref": "B3",
+     "value": "3-1/2\" 9.2# L80 GRE LINED, FOX, R2",
+     "ctype": 1
+    },
+    {
+     "ref": "C3",
+     "value": 220.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D3",
+     "value": "Primary: SMF/KSB/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B4",
+     "value": "3-1/2\" 9.2# L80 GRE LINED, FOX, R2",
+     "ctype": 1
+    },
+    {
+     "ref": "C4",
+     "value": 103.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D4",
+     "value": "B/U Plan:SMF/KSB/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B5",
+     "value": "3-1/2\", 9.2#, UHP 15Cr-125 JFE BEAR , R3",
+     "ctype": 1
+    },
+    {
+     "ref": "C5",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D5",
+     "value": "Order New MITA\n(GP/LOG-MD/NAA/0419/128",
+     "ctype": 1
+    },
+    {
+     "ref": "B7",
+     "value": "Pup Joint for Spacing (P x B)",
+     "ctype": 1
+    },
+    {
+     "ref": "B9",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 2FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C9",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B10",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C10",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B11",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C11",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B12",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C12",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B13",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C13",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B14",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C14",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B15",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C15",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B16",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C16",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B17",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C17",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B19",
+     "value": "Corossion bearing, CBR",
+     "ctype": 1
+    },
+    {
+     "ref": "C19",
+     "value": 400.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D19",
+     "value": "Primary + back Up\nSMF/KSB19/07-099",
+     "ctype": 1
+    },
+    {
+     "ref": "B21",
+     "value": "Crossover - Water Bushing",
+     "ctype": 1
+    },
+    {
+     "ref": "B22",
+     "value": "3-1/2\" 9.2# FOX Pin x NC50/Specific DP TBC by rig (B)",
+     "ctype": 1
+    },
+    {
+     "ref": "C22",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D22",
+     "value": "OMS Manufacture",
+     "ctype": 1
+    },
+    {
+     "ref": "B24",
+     "value": "Lifting Sub (Transferring tubing across High Line for TADU Operations)",
+     "ctype": 1
+    },
+    {
+     "ref": "B25",
+     "value": "3-1/2\" 9.6# FOX BOX AISI 41XX ",
+     "ctype": 1
+    },
+    {
+     "ref": "C25",
+     "value": 30.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D25",
+     "value": "transferred from labuan, Good VTI\nSMF/LSB/19-119",
+     "ctype": 1
+    },
+    {
+     "ref": "B27",
+     "value": "Landing String",
+     "ctype": 1
+    },
+    {
+     "ref": "B29",
+     "value": "OTHER RELATED ACCESSORIES OR MATERIALS\n",
+     "ctype": 1
+    },
+    {
+     "ref": "C29",
+     "value": "QUANTITY REQUIRED (JTS/PCS)",
+     "ctype": 1
+    }
+   ],
+   "merged": [
+    "C1:D1"
+   ]
+  },
+  {
+   "title": "OCTG Movement",
+   "visibility": 0,
+   "cells": [
+    {
+     "ref": "C2",
+     "value": "OCTG at KSB",
+     "ctype": 1
+    },
+    {
+     "ref": "E2",
+     "value": "Surplus",
+     "ctype": 1
+    },
+    {
+     "ref": "F2",
+     "value": "SMF for Dulang",
+     "ctype": 1
+    },
+    {
+     "ref": "G2",
+     "value": "QTY to Inspect @DS7",
+     "ctype": 1
+    },
+    {
+     "ref": "H2",
+     "value": "Good Result",
+     "ctype": 1
+    },
+    {
+     "ref": "I2",
+     "value": "Difference post Inspection",
+     "ctype": 1
+    },
+    {
+     "ref": "H3",
+     "value": "From DS7",
+     "ctype": 1
+    },
+    {
+     "ref": "C4",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE R2",
+     "ctype": 1
+    },
+    {
+     "ref": "E4",
+     "value": 353.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F4",
+     "value": 220.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G4",
+     "value": 250.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H4",
+     "value": 220.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I4",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B5",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C5",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E5",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F5",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G5",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H5",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I5",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B6",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C6",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E6",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F6",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G6",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H6",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I6",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B7",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C7",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E7",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F7",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G7",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H7",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I7",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B8",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C8",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E8",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F8",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G8",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H8",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I8",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B9",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C9",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E9",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F9",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G9",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H9",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I9",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B10",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C10",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E10",
+     "value": 25.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F10",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G10",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H10",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I10",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B11",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C11",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E11",
+     "value": 13.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F11",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G11",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H11",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I11",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B12",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C12",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E12",
+     "value": 13.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F12",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G12",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H12",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I12",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B13",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C13",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E13",
+     "value": 25.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F13",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G13",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H13",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I13",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B14",
+     "value": 10.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C14",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E14",
+     "value": 13.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F14",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G14",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H14",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I14",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "A17",
+     "value": "Space Out",
+     "ctype": 1
+    },
+    {
+     "ref": "B17",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C17",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D17",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E17",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F17",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I17",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J17",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B18",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C18",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "D18",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E18",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F18",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G18",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H18",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I18",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J18",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B20",
+     "value": "2FT",
+     "ctype": 1
+    },
+    {
+     "ref": "C20",
+     "value": "4 FT (PxP)",
+     "ctype": 1
+    },
+    {
+     "ref": "D20",
+     "value": "4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E20",
+     "value": "6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "F20",
+     "value": "8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "G20",
+     "value": "10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "H20",
+     "value": "12 FT (PxP)",
+     "ctype": 1
+    },
+    {
+     "ref": "I20",
+     "value": "12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "J20",
+     "value": "15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "B26",
+     "value": "GRE Lining @ Batam",
+     "ctype": 1
+    },
+    {
+     "ref": "C27",
+     "value": "OCTG at KSB",
+     "ctype": 1
+    },
+    {
+     "ref": "D27",
+     "value": "Required GRE",
+     "ctype": 1
+    },
+    {
+     "ref": "E27",
+     "value": "Good Post GRE",
+     "ctype": 1
+    },
+    {
+     "ref": "F27",
+     "value": "Required GRE",
+     "ctype": 1
+    },
+    {
+     "ref": "G27",
+     "value": "Good Result",
+     "ctype": 1
+    },
+    {
+     "ref": "H27",
+     "value": "Manufacture from Non GRE- GOOD VTI",
+     "ctype": 1
+    },
+    {
+     "ref": "I27",
+     "value": "LEFT Non GRE- GOOD VTI",
+     "ctype": 1
+    },
+    {
+     "ref": "J27",
+     "value": "Lining at Batam",
+     "ctype": 1
+    },
+    {
+     "ref": "G28",
+     "value": "NON GRE From DS7",
+     "ctype": 1
+    },
+    {
+     "ref": "B29",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C29",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 3FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C30",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B31",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C31",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D31",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E31",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F31",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G31",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I31",
+     "value": 11.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J31",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B32",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C32",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D32",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E32",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G32",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I32",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B33",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C33",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D33",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F33",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G33",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I33",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J33",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B34",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C34",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D34",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E34",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F34",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G34",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I34",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J34",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B35",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C35",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G35",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I35",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B36",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C36",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "F36",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B37",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C37",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "F37",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G37",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H37",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I37",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B38",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C38",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "F38",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G38",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H38",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I38",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B39",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C39",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "F39",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G39",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H39",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I39",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B40",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C40",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D40",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F40",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H40",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J40",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B41",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C41",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D41",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F41",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H41",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J41",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C45",
+     "value": "OCTG at KSB",
+     "ctype": 1
+    },
+    {
+     "ref": "D45",
+     "value": "Required GRE Pup for Dulang",
+     "ctype": 1
+    },
+    {
+     "ref": "E45",
+     "value": "Good GRE Post DS 7 Inspection DS7 JOB Order:DS7K/JO/04-19/002",
+     "ctype": 1
+    },
+    {
+     "ref": "F45",
+     "value": "Insufficient Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "G45",
+     "value": "Pups to Do lining",
+     "ctype": 1
+    },
+    {
+     "ref": "H45",
+     "value": "Lining at Batam",
+     "ctype": 1
+    },
+    {
+     "ref": "G46",
+     "value": "from PCSB",
+     "ctype": 1
+    },
+    {
+     "ref": "B47",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C47",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 3FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B48",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C48",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D48",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F48",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H48",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B49",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C49",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D49",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E49",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F49",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G49",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H49",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B50",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C50",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D50",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E50",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F50",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G50",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B51",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C51",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D51",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F51",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G51",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H51",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B52",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C52",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D52",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E52",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F52",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G52",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H52",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B53",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C53",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D53",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E53",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F53",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G53",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B54",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C54",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D54",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F54",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H54",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B55",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C55",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D55",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F55",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H55",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E56",
+     "value": "Refer RO: 3620449344",
+     "ctype": 1
+    },
+    {
+     "ref": "E57",
+     "value": "DS7 JOB Order:",
+     "ctype": 1
+    },
+    {
+     "ref": "E58",
+     "value": "DS7K/JO/04-19/002",
+     "ctype": 1
+    },
+    {
+     "ref": "B60",
+     "value": "LINING AT Batam",
+     "ctype": 1
+    },
+    {
+     "ref": "C61",
+     "value": "OCTG at KSB",
+     "ctype": 1
+    },
+    {
+     "ref": "D61",
+     "value": "Pup for Lining",
+     "ctype": 1
+    },
+    {
+     "ref": "E61",
+     "value": "Pups to manufacture @OMS",
+     "ctype": 1
+    },
+    {
+     "ref": "F61",
+     "value": "To be provided by PCSB from good VTI @DS7",
+     "ctype": 1
+    },
+    {
+     "ref": "B63",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C63",
+     "value": "3-1/2” 9.2ppf L80 FOX, 3FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D63",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E63",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B64",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C64",
+     "value": "3-1/2” 9.2ppf L80 FOX, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D64",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E64",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B65",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C65",
+     "value": "3-1/2” 9.2ppf L80 FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D65",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F65",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B66",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C66",
+     "value": "3-1/2” 9.2ppf L80  FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D66",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F66",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B67",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C67",
+     "value": "3-1/2” 9.2ppf L80 FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D67",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F67",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B68",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C68",
+     "value": "3-1/2” 9.2ppf L80 J FOX PIN x PIN, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D68",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E68",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B69",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C69",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D69",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E69",
+     "value": 2.0,
+     "ctype": 2
+    }
+   ],
+   "merged": [
+    "B60:F60",
+    "B61:B62",
+    "D61:D62",
+    "E61:E62",
+    "F61:F62",
+    "J27:J28",
+    "B45:B46",
+    "C45:C46",
+    "D45:D46",
+    "E45:E46",
+    "H45:H46",
+    "D27:D28",
+    "H27:H28",
+    "I27:I28",
+    "C9:D9",
+    "C10:D10",
+    "C11:D11",
+    "C12:D12",
+    "C13:D13",
+    "B27:B28",
+    "C27:C28",
+    "E27:E28",
+    "B26:F26",
+    "F27:F28",
+    "F45:F46",
+    "C5:D5",
+    "C6:D6",
+    "C7:D7",
+    "C8:D8",
+    "G2:G3",
+    "C14:D14",
+    "I2:I3",
+    "B2:B3",
+    "C2:C3",
+    "E2:E3",
+    "F2:F3",
+    "C4:D4"
+   ]
+  },
+  {
+   "title": "Summary OCTG Movement",
+   "visibility": 0,
+   "cells": [
+    {
+     "ref": "C2",
+     "value": "OCTG at KSB",
+     "ctype": 1
+    },
+    {
+     "ref": "D2",
+     "value": "Surplus",
+     "ctype": 1
+    },
+    {
+     "ref": "E2",
+     "value": "Lining at Batam",
+     "ctype": 1
+    },
+    {
+     "ref": "F2",
+     "value": "For side track (from bokor)",
+     "ctype": 1
+    },
+    {
+     "ref": "G2",
+     "value": "Hanger (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "H2",
+     "value": "Hanger (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "I2",
+     "value": "TRSV (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "J2",
+     "value": "TRSV (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "M2",
+     "value": "7\" Packer (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "N2",
+     "value": "7\" Packer (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "O2",
+     "value": "Balance",
+     "ctype": 1
+    },
+    {
+     "ref": "P2",
+     "value": "Initial Quantity",
+     "ctype": 1
+    },
+    {
+     "ref": "Q2",
+     "value": "Unit Price",
+     "ctype": 1
+    },
+    {
+     "ref": "R2",
+     "value": "Extended Price",
+     "ctype": 1
+    },
+    {
+     "ref": "B3",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C3",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE R2",
+     "ctype": 1
+    },
+    {
+     "ref": "D3",
+     "value": 220.0,
+     "ctype": 2
+    },
+    {
+     "ref": "F3",
+     "value": 103.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O3",
+     "value": 323.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P3",
+     "value": 323.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q3",
+     "value": 1664.02,
+     "ctype": 2
+    },
+    {
+     "ref": "R3",
+     "value": 537478.46,
+     "ctype": 2
+    },
+    {
+     "ref": "T3",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B4",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C4",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D4",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E4",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I4",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J4",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "M4",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "N4",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O4",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P4",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q4",
+     "value": 246.57,
+     "ctype": 2
+    },
+    {
+     "ref": "R4",
+     "value": 986.28,
+     "ctype": 2
+    },
+    {
+     "ref": "T4",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B5",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C5",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D5",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O5",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P5",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q5",
+     "value": 273.61,
+     "ctype": 2
+    },
+    {
+     "ref": "R5",
+     "value": 273.61,
+     "ctype": 2
+    },
+    {
+     "ref": "T5",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B6",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C6",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E6",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O6",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P6",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q6",
+     "value": 300.69,
+     "ctype": 2
+    },
+    {
+     "ref": "R6",
+     "value": 601.38,
+     "ctype": 2
+    },
+    {
+     "ref": "T6",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B7",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C7",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D7",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "E7",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O7",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P7",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q7",
+     "value": 544.85,
+     "ctype": 2
+    },
+    {
+     "ref": "R7",
+     "value": 1634.5500000000002,
+     "ctype": 2
+    },
+    {
+     "ref": "T7",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B8",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C8",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D8",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O8",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P8",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q8",
+     "value": 634.25,
+     "ctype": 2
+    },
+    {
+     "ref": "R8",
+     "value": 634.25,
+     "ctype": 2
+    },
+    {
+     "ref": "T8",
+     "value": "SMF/KSB19/03-044",
+     "ctype": 1
+    },
+    {
+     "ref": "B9",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C9",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 3FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E9",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O9",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P9",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R9",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B10",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C10",
+     "value": "3-1/2” 9.2ppf L80 FOX GRE, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E10",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O10",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P10",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R10",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B11",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C11",
+     "value": "3-1/2” 9.2ppf L80 J FOX GRE PIN x PIN, 4FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E11",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I11",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J11",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O11",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P11",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R11",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B12",
+     "value": 10.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C12",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX GRE PIN x PIN, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "E12",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G12",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H12",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O12",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P12",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R12",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B13",
+     "value": 11.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C13",
+     "value": "Corrosion barrier ring",
+     "ctype": 1
+    },
+    {
+     "ref": "D13",
+     "value": 400.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O13",
+     "value": 400.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P13",
+     "value": 400.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q13",
+     "value": 89.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R13",
+     "value": 35600.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T13",
+     "value": "SMF/KSB19/07-099",
+     "ctype": 1
+    },
+    {
+     "ref": "B14",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C14",
+     "value": "15CR-125 R3",
+     "ctype": 1
+    },
+    {
+     "ref": "O14",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P14",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q14",
+     "value": 2750.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R14",
+     "value": 13750.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T14",
+     "value": "GRP",
+     "ctype": 1
+    },
+    {
+     "ref": "B15",
+     "value": 17.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C15",
+     "value": "Lifting Nubbing & water bushing",
+     "ctype": 1
+    },
+    {
+     "ref": "O15",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P15",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q15",
+     "value": 7427.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R15",
+     "value": 7427.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T15",
+     "value": "MSRF Dulang - 015",
+     "ctype": 1
+    },
+    {
+     "ref": "R16",
+     "value": 598385.53,
+     "ctype": 2
+    },
+    {
+     "ref": "B18",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C18",
+     "value": "Shipment (GRE @ Lining)",
+     "ctype": 1
+    },
+    {
+     "ref": "P18",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q18",
+     "value": 5190.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R18",
+     "value": 5190.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T18",
+     "value": "MSRF Dulang - 010 + MSRF Dulang - 016",
+     "ctype": 1
+    },
+    {
+     "ref": "B19",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C19",
+     "value": "GRE lining services",
+     "ctype": 1
+    },
+    {
+     "ref": "P19",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q19",
+     "value": 5981.18,
+     "ctype": 2
+    },
+    {
+     "ref": "R19",
+     "value": 5981.18,
+     "ctype": 2
+    },
+    {
+     "ref": "T19",
+     "value": "MSRF Dulang - 012",
+     "ctype": 1
+    },
+    {
+     "ref": "B20",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C20",
+     "value": "Cut & Rethread Cost",
+     "ctype": 1
+    },
+    {
+     "ref": "P20",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q20",
+     "value": 3327.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R20",
+     "value": 3327.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T20",
+     "value": "MSRF Dulang - 006",
+     "ctype": 1
+    },
+    {
+     "ref": "B21",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C21",
+     "value": "Inspection GRE & RW",
+     "ctype": 1
+    },
+    {
+     "ref": "P21",
+     "value": 35.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q21",
+     "value": 120.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R21",
+     "value": 4200.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T21",
+     "value": "MSRF Dulang - 005",
+     "ctype": 1
+    },
+    {
+     "ref": "B22",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C22",
+     "value": "VTI FOR GRE Tubing and Pups",
+     "ctype": 1
+    },
+    {
+     "ref": "P22",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q22",
+     "value": 1970.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R22",
+     "value": 1970.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T22",
+     "value": "MSRF Dulang - 002",
+     "ctype": 1
+    },
+    {
+     "ref": "R23",
+     "value": 20668.18,
+     "ctype": 2
+    },
+    {
+     "ref": "C24",
+     "value": "Completion Equipment",
+     "ctype": 1
+    },
+    {
+     "ref": "D26",
+     "value": "New Order",
+     "ctype": 1
+    },
+    {
+     "ref": "G26",
+     "value": "Hanger (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "H26",
+     "value": "Hanger (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "I26",
+     "value": "TRSV (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "J26",
+     "value": "TRSV (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "K26",
+     "value": "9-5/8\" Packer (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "L26",
+     "value": "9-5/8\" Packer (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "M26",
+     "value": "7\" Packer (Primary)",
+     "ctype": 1
+    },
+    {
+     "ref": "N26",
+     "value": "7\" Packer (Back-up)",
+     "ctype": 1
+    },
+    {
+     "ref": "O26",
+     "value": "Balance",
+     "ctype": 1
+    },
+    {
+     "ref": "P26",
+     "value": "Initial Quantity",
+     "ctype": 1
+    },
+    {
+     "ref": "Q26",
+     "value": "Unit Price",
+     "ctype": 1
+    },
+    {
+     "ref": "R26",
+     "value": "Extended Price",
+     "ctype": 1
+    },
+    {
+     "ref": "B27",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C27",
+     "value": "HYDRAULIC CONTROL LINE",
+     "ctype": 1
+    },
+    {
+     "ref": "D27",
+     "value": 1000.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O27",
+     "value": 1000.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P27",
+     "value": 1000.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q27",
+     "value": 7.8,
+     "ctype": 2
+    },
+    {
+     "ref": "R27",
+     "value": 7800.0,
+     "ctype": 2
+    },
+    {
+     "ref": "T27",
+     "value": "MSRF Dulang - 029",
+     "ctype": 1
+    },
+    {
+     "ref": "B28",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C28",
+     "value": "Crossover 25CR80",
+     "ctype": 1
+    },
+    {
+     "ref": "D28",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "G28",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "H28",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "K28",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "M28",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "N28",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O28",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P28",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q28",
+     "value": 4268.17,
+     "ctype": 2
+    },
+    {
+     "ref": "R28",
+     "value": 51218.04,
+     "ctype": 2
+    },
+    {
+     "ref": "B29",
+     "value": 3.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C29",
+     "value": "25CR Flow Coupling",
+     "ctype": 1
+    },
+    {
+     "ref": "D29",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J29",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O29",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P29",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q29",
+     "value": 3269.21,
+     "ctype": 2
+    },
+    {
+     "ref": "R29",
+     "value": 13076.84,
+     "ctype": 2
+    },
+    {
+     "ref": "B30",
+     "value": 4.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C30",
+     "value": "2-7/8 TRIMAXX",
+     "ctype": 1
+    },
+    {
+     "ref": "D30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "I30",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "J30",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O30",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P30",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q30",
+     "value": 28762.8,
+     "ctype": 2
+    },
+    {
+     "ref": "R30",
+     "value": 57525.6,
+     "ctype": 2
+    },
+    {
+     "ref": "B31",
+     "value": 5.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C31",
+     "value": "9-5/8\" x 3-1/2\" Blue pack Packer",
+     "ctype": 1
+    },
+    {
+     "ref": "D31",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "K31",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O31",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P31",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q31",
+     "value": 35082.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R31",
+     "value": 35082.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B32",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C32",
+     "value": "Landing Nipple,Selective 2.313 OSX",
+     "ctype": 1
+    },
+    {
+     "ref": "D32",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "K32",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O32",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P32",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q32",
+     "value": 3127.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R32",
+     "value": 3127.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B33",
+     "value": 7.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C33",
+     "value": "7\" x 3-1/2\" Blue pack Packer",
+     "ctype": 1
+    },
+    {
+     "ref": "D33",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "M33",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "N33",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O33",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P33",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q33",
+     "value": 65610.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R33",
+     "value": 131220.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B34",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C34",
+     "value": "3-1/2\" Pup Joint 25CR 5FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D34",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "M34",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "N34",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O34",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P34",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q34",
+     "value": 8799.18,
+     "ctype": 2
+    },
+    {
+     "ref": "R34",
+     "value": 17598.36,
+     "ctype": 2
+    },
+    {
+     "ref": "B35",
+     "value": 9.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C35",
+     "value": "Landing Nipple,NO GO 2.313 OSX",
+     "ctype": 1
+    },
+    {
+     "ref": "D35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "M35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "N35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O35",
+     "value": -1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P35",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q35",
+     "value": 3127.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R35",
+     "value": 3127.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B36",
+     "value": 10.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C36",
+     "value": "Pump Out.P + Wireline Entry Guide",
+     "ctype": 1
+    },
+    {
+     "ref": "D36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P36",
+     "value": 1.0,
+     "ctype": 2
+    },
+    {
+     "ref": "Q36",
+     "value": 2983.9700000000003,
+     "ctype": 2
+    },
+    {
+     "ref": "R36",
+     "value": 2983.9700000000003,
+     "ctype": 2
+    },
+    {
+     "ref": "Q37",
+     "value": "Grand Total: ",
+     "ctype": 1
+    },
+    {
+     "ref": "R37",
+     "value": 322758.80999999994,
+     "ctype": 2
+    },
+    {
+     "ref": "C39",
+     "value": "Note: Back-up 9 5/8\" packer from Halliburton",
+     "ctype": 1
+    },
+    {
+     "ref": "C41",
+     "value": "For cut & rethread + lining @ batam",
+     "ctype": 1
+    },
+    {
+     "ref": "B43",
+     "value": 11.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C43",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 6FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D43",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O43",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P43",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R43",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B44",
+     "value": 12.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C44",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 8FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D44",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O44",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P44",
+     "value": 6.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R44",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B45",
+     "value": 13.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C45",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 10FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D45",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O45",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P45",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R45",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B46",
+     "value": 14.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C46",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 12FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D46",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O46",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P46",
+     "value": 8.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R46",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "B47",
+     "value": 15.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C47",
+     "value": "3-1/2” 9.2ppf L80 JFE FOX, 15FT",
+     "ctype": 1
+    },
+    {
+     "ref": "D47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "O47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "P47",
+     "value": 2.0,
+     "ctype": 2
+    },
+    {
+     "ref": "R47",
+     "value": 0.0,
+     "ctype": 2
+    },
+    {
+     "ref": "C48",
+     "value": "Note:",
+     "ctype": 1
+    },
+    {
+     "ref": "D48",
+     "value": "Need to cut and rethread 15CR-125 R3 tubing to 4ea 6ft pup joints for 7\" packer assembly",
+     "ctype": 1
+    }
+   ],
+   "merged": [
+    "T27:T36"
+   ]
+  },
+  {
+   "title": "   ",
+   "visibility": 0,
+   "cells": [
+    {
+     "ref": "H2",
+     "value": "SINGLE HANGER",
+     "ctype": 1
+    },
+    {
+     "ref": "D3",
+     "value": "Permanent Packer (No Tail-Pipe)",
+     "ctype": 1
+    },
+    {
+     "ref": "H5",
+     "value": "DUAL HANGER",
+     "ctype": 1
+    },
+    {
+     "ref": "H8",
+     "value": "PERFORATION HOLE",
+     "ctype": 1
+    },
+    {
+     "ref": "H11",
+     "value": "CASING SHOE",
+     "ctype": 1
+    },
+    {
+     "ref": "D12",
+     "value": "TR-SCSSSV & FLOW COUPLING",
+     "ctype": 1
+    },
+    {
+     "ref": "H14",
+     "value": "CEMENT",
+     "ctype": 1
+    },
+    {
+     "ref": "D18",
+     "value": "NO GO-NIPPLE",
+     "ctype": 1
+    },
+    {
+     "ref": "H21",
+     "value": "DUAL TO SINGLE",
+     "ctype": 1
+    },
+    {
+     "ref": "D22",
+     "value": "LANDING-NIPPLE",
+     "ctype": 1
+    },
+    {
+     "ref": "D26",
+     "value": "BLAST JOINT",
+     "ctype": 1
+    },
+    {
+     "ref": "H28",
+     "value": "FLOW COUPLING",
+     "ctype": 1
+    },
+    {
+     "ref": "D31",
+     "value": "SLIDING SIDE DOOR",
+     "ctype": 1
+    },
+    {
+     "ref": "H33",
+     "value": "TRAVEL JOINT",
+     "ctype": 1
+    },
+    {
+     "ref": "D37",
+     "value": "TUBING",
+     "ctype": 1
+    },
+    {
+     "ref": "H39",
+     "value": "TELESCOPIC SWIVEL JOINT",
+     "ctype": 1
+    },
+    {
+     "ref": "D42",
+     "value": "DUAL PACKER",
+     "ctype": 1
+    },
+    {
+     "ref": "H45",
+     "value": "PERFORATED PUP JOINT",
+     "ctype": 1
+    },
+    {
+     "ref": "D47",
+     "value": "POP ASSEMBLY",
+     "ctype": 1
+    },
+    {
+     "ref": "D51",
+     "value": "CATCHER SUB",
+     "ctype": 1
+    },
+    {
+     "ref": "H52",
+     "value": "BHR (SINGLE HYD PACKER)",
+     "ctype": 1
+    },
+    {
+     "ref": "D55",
+     "value": "POP & CONICAL NOSE",
+     "ctype": 1
+    },
+    {
+     "ref": "H57",
+     "value": "GAS LIFT VALVE",
+     "ctype": 1
+    },
+    {
+     "ref": "D62",
+     "value": "LINER LAP",
+     "ctype": 1
+    },
+    {
+     "ref": "H63",
+     "value": "PERF/ SLOTTED LINER",
+     "ctype": 1
+    }
+   ],
+   "merged": []
+  }
+ ]
+}

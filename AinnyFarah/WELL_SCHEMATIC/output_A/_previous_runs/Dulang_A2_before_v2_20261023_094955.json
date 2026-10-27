@@ -1,0 +1,332 @@
+{
+  "wellInfo": {
+    "completionDate": "6 MARCH 1991",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "Dulang_A2",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a2-01",
+      "type": "packer",
+      "name": "PACKER",
+      "topMd": 2424,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'PACKER' @ 2424 (read identically in OCR passes bc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-02",
+      "type": "scssv",
+      "name": "SCSSV",
+      "topMd": 143.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.912,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SCSSV' is not literally a template type; nearest 'SCSSV'",
+      "source": "PDF page 3: 'SCSSV' @ 143.7 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-03",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 182.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 3: 'NIPPLE' @ 182.7 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-04",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 207,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 3: 'NIPPLE' @ 207 (read identically in OCR passes bc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-05",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 668.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.471,
+      "source": "PDF page 3: 'SPM' @ 668.3 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-06",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1183.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'SPM' @ 1183.6 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-07",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1470.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'SPM' @ 1470.0 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-08",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1173.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'SPM' @ 1173.8 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-09",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1692.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.571,
+      "source": "PDF page 3: 'SPM' @ 1692.6 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-10",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1470.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.571,
+      "source": "PDF page 3: 'SPM' @ 1470.4 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-11",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1709.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "source": "PDF page 3: 'SPM' @ 1709.4 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-12",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1613.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "source": "PDF page 3: 'SPM' @ 1613.6 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-13",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1981.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 3: 'SSD' @ 1981.6 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-14",
+      "type": "mule-shoe",
+      "name": "ENTRY GUIDE",
+      "topMd": 1990.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'ENTRY GUIDE' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 3: 'ENTRY GUIDE' @ 1990.9 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-15",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 1970.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 3: 'NIPPLE' @ 1970.0 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-16",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1962.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 3: 'SSD' @ 1962.6 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-17",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 2003.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 3: 'NIPPLE' @ 2003.2 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-18",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 2008.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 3: 'CENTRALIZER' @ 2008.8 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-19",
+      "type": "seal-assembly",
+      "name": "SEAL ASSY",
+      "topMd": 2008.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'SEAL ASSY' @ 2008.3 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-20",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 2008.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3: 'PKR' @ 2008.9 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-21",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 2013.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'WEG' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 3: 'WEG' @ 2013.2 (read identically in OCR passes bc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a2-perf-e2",
+      "type": "perforation",
+      "name": "E2",
+      "topMd": 1906.4,
+      "bottomMd": 1910.4,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E2",
+      "source": "PDF page 3: zone 'E2' interval 1906.4 - 1910.4 (OCR passes abc; units as printed)"
+    },
+    {
+      "id": "dulang_a2-perf-e7",
+      "type": "perforation",
+      "name": "E7",
+      "topMd": 1931,
+      "bottomMd": 1944,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E7",
+      "source": "PDF page 3: zone 'E7' interval 1931 - 1944 (OCR passes abc; units as printed)"
+    },
+    {
+      "id": "dulang_a2-perf-e12-13",
+      "type": "perforation",
+      "name": "E12/13",
+      "topMd": 1990,
+      "bottomMd": 1995,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E12/13",
+      "source": "PDF page 3: zone 'E12/13' interval 1990 - 1995 (OCR passes abc; units as printed)"
+    },
+    {
+      "id": "dulang_a2-perf-e14",
+      "type": "perforation",
+      "name": "E14",
+      "topMd": 2015,
+      "bottomMd": 2025,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E14",
+      "source": "PDF page 3: zone 'E14' interval 2015 - 2025 (OCR passes abc; units as printed)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

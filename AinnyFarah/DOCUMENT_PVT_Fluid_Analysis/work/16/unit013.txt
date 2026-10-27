@@ -1,0 +1,57 @@
+Compositional Analysis of Recombined Reservoir Fluid Sample to C36+ | Compositional Analysis of Flashed Gas to C12+ | Compositional Analysis of Flashed Liquid to C36+ | Chromatographic Profile of Flashed Liquid
+(based on Flash Gas and Flash Liquid composition from Reservoir Fluid Sample and Laboratory Volumetrics)
+Component | Mole % | Weight % | Sample Information | Component | Mol % | Weight % | Sample Information
+Component | Mol % | Weight % | Sample Information | Sampling Date | Sampling Date
+Sampling Date | CO2 | Carbon Dioxide | 70.908 | 78.31899999999999 | Sampling Time | Methane | 0.005 | 0.0 | Sampling Time
+CO2 | Carbon Dioxide | 26.105 | 8.481 | Sampling Time | N2 | Nitrogen | 0.132 | 0.093 | Sampling Location | B21-L | Ethane | 0.015 | 0.002 | Sampling Location | B21-L
+N2 | Nitrogen | 0.049 | 0.01 | Sampling Location | B21-L | C1 | Methane | 20.534 | 8.267 | Sample Description | Flashed Gas | Propane | 0.053 | 0.012 | Cylinder Number | TS 100002
+C1 | Methane | 7.559 | 0.895 | Sample Description | Recombined Reservoir Fluid | C2 | Ethane | 2.206 | 1.665 | Cylinder Number | TS 100002 | i-Butane | 0.06 | 0.018 | Sampling Conditions
+C2 | Ethane | 0.82 | 0.182 | Cylinder Number | TS 100002 | C3 | Propane | 1.466 | 1.622 | Sampling Conditions | n-Butane | 0.086 | 0.026 | Our Lab Identification | 20495a
+C3 | Propane | 0.572 | 0.186 | Sampling Conditions | iC4 | i-Butane | 0.627 | 0.914 | neo-Pentane | 0.001 | 0.001
+iC4 | i-Butane | 0.268 | 0.115 | Our Lab Identification | 4773.0 | nC4 | n-Butane | 0.562 | 0.82 | Additional Sample Information | i-Pentane | 0.16 | 0.06 | Whole Sample Properties | Mole | Density
+nC4 | n-Butane | 0.261 | 0.112 | C5 | Neo-Pentane | 0.005 | 0.009 | Opening Pressure | psig | n-Pentane | 0.161 | 0.061 | Weight | @ 60oF
+C5 | Neo-Pentane | 0.004 | 0.002 | Calculated Whole Sample Properties | iC5 | i-Pentane | 0.409 | 0.741 | Opening Temperature | °F | Hexanes | 0.744 | 0.335 | (g.mol-1) | (g.cm-3)
+iC5 | i-Pentane | 0.251 | 0.134 | Average Molecular Weight (g/mole) | 135.45766992294466 | nC5 | n-Pentane | 0.308 | 0.557 | Total Air Content | Mole% | M-C-Pentane | 0.292 | 0.129 | Measured Properties | 194.9 | 0.8194
+nC5 | n-Pentane | 0.215 | 0.115 | Density @ 60oF (g/mL) | 0.8075 | C6 | Hexanes | 0.61 | 1.301 | Our Lab Identification | 20494.0 | Benzene | 0.351 | 0.143 | Calculated Properties | 191.1 | 0.8254
+C6 | Hexanes | 0.691 | 0.44 | Gas Oil Ratio (scf/bbl) @ 14.73 psia & 60°F | 329.1709531004936 | M-C-Pentane | 0.145 | 0.306 | Cyclohexane | 0.392 | 0.173
+M-C-Pentane | 0.238 | 0.148 | Gas Oil Ratio (Sm3/m3) @ 14.73 psia & 60°F | 58.62767661106643 | Benzene | 0.152 | 0.299 | Notes | Heptanes | 1.437 | 0.753 | Calculated | Mol % | Weight % | Mole | Density
+Benzene | 0.277 | 0.16 | CGR (bbl/MMscf) @ 14.73 psia & 60°F | 3037.935123317843 | Cyclohexane | 0.142 | 0.3 | 0.00 means less than 0.005 | M-C-Hexane | 1.581 | 0.812 | Subtotal | Weight | @ 60oF
+Cyclohexane | 0.301 | 0.187 | Gas Mole Fraction | 0.3665 | C7 | Heptanes | 0.405 | 1.015 | Toluene | 1.854 | 0.894 | Properties | (g.mol-1) | (g.cm-3)
+C7 | Heptanes | 1.056 | 0.781 | Liquid Mole Fraction | 0.6335 | M-C-Hexane | 0.304 | 0.75 | See Appendix 1 for Component Properties | Octanes | 2.063 | 1.233 | Heptanes | 2.472 | 1.198 | 92.6 | 0.7262
+M-C-Hexane | 1.111 | 0.805 | Toluene | 0.302 | 0.698 | E-Benzene | 0.29 | 0.161 | Octanes | 5.498 | 2.939 | 102.2 | 0.7697
+Toluene | 1.283 | 0.873 | Measured Flashed Liquid Properties | C8 | Octanes | 0.30900000000000005 | 0.879 | M/P-Xylene | 3.305 | 1.836 | Nonanes | 8.87 | 5.451 | 117.4 | 0.7805
+C8 | Octanes | 1.417 | 1.195 | Molecular Weight (g/mol) | 194.9 | E-Benzene | 0.016 | 0.043 | O-Xylene | 0.75 | 0.417 | Decanes | 8.062 | 5.807 | 137.6 | 0.7565
+E-Benzene | 0.189 | 0.148 | Density @ 60oF (g/mL) | 0.8194 | M/P-Xylene | 0.168 | 0.448 | Nonanes | 4.525 | 3.037
+M/P-Xylene | 2.151 | 1.686 | API Gravity @ 60oF | 41.0 | O-Xylene | 0.027 | 0.071 | T-M-Benzene | 1.693 | 1.065 | Calculated | Mol % | Weight % | Mole | Density
+O-Xylene | 0.484 | 0.38 | C9 | Nonanes | 0.163 | 0.524 | Decanes | 6.369 | 4.742 | Residue | Weight | @ 60oF
+C9 | Nonanes | 2.92 | 2.765 | Calculated | Mol % | Weight % | Mole | Density | C10 | Decanes | 0.068 | 0.228 | Undecanes | 8.454 | 6.502 | Properties | (g.mol-1) | (g.cm-3)
+1,2,4-TMB | 1.07 | 0.95 | Subtotal | Weight | @ 60oF | C11 | Undecanes | 0.009 | 0.034 | Dodecanes | 9.295 | 7.83 | Pentanes Plus | 99.781 | 99.942 | 191.4 | 0.8256
+C10 | Decanes | 4.049 | 4.253 | Properties | (g.mol-1) | (g.mL) | C12+ | Dodecanes Plus | 0.023 | 0.097 | Tridecanes | 11.233 | 10.283 | Heptanes Plus | 98.715 | 99.485 | 192.6 | 0.8266
+C11 | Undecanes | 5.346 | 5.802 | Heptanes | 1.872 | 1.276 | 92.31188741963598 | 0.7279674676801187 | Tetradecanes | 8.918 | 8.865 | Dodecanes Plus | 65.359 | 77.588 | 226.9 | 0.8435
+C12 | Dodecanes | 5.879 | 6.988 | Octanes | 3.811 | 2.873 | 102.11598731906408 | 0.7699510544990625 | Totals | 100.0 | 100.0 | Pentadecanes | 8.647 | 9.32 | Pentadecanes Plus | 35.913 | 50.61 | 269.3 | 0.8617
+C13 | Tridecanes | 7.101 | 9.171 | Nonanes | 5.744 | 4.979 | 117.39956684418058 | 0.780700049255389 | Hexadecanes | 5.108 | 5.934 | Eicosanes Plus | 11.595 | 21.638 | 356.6 | 0.889
+C14 | Tetradecanes | 5.636 | 7.905 | Decanes | 5.119 | 5.203 | 137.66179905120353 | 0.7564299370999865 | Calculated Residue Properties | Mole % | Weight % | Mole | Density | Heptadecanes | 3.988 | 4.945 | Triacontanes Plus | 2.397 | 5.953 | 474.7 | 0.915
+C15 | Pentadecanes | 5.465 | 8.311 | Weight | at 60oF | Octadecanes | 4.37 | 5.739 | Hexatriacontanes Plus | 0.542 | 1.678 | 591.3 | 0.9331
+C16 | Hexadecanes | 3.229 | 5.291 | Calculated | Mol % | Weight % | Mole | Density | (g.mol-1) | (g.cm-3) | Nonadecanes | 2.205 | 3.034
+C17 | Heptadecanes | 2.52 | 4.41 | Residue | Weight | @ 60oF | C7+ | Heptanes plus | 2.232999999999999 | 5.691999999999999 | 101.55264358667007 | 0.769107543839738 | Eicosanes | 1.578 | 2.271 | Notes
+C18 | Octadecanes | 2.762 | 5.118 | Properties | (g.mol-1) | (g.mL) | C8+ | Octanes plus | 1.3889999999999998 | 3.7720000000000002 | 108.2729089942588 | 0.7800517421158019 | Heneicosanes | 1.298 | 1.976 | (1) 0.00 means less than 0.005
+C19 | Nonadecanes | 1.393 | 2.705 | Pentanes Plus | 64.366 | 90.019 | 189.43755461927668 | 0.8244316960872118 | C10+ | Decanes plus | 0.1 | 0.359 | 142.82371019984583 | 0.7861404075950237 | Docosanes | 1.105 | 1.764 | (2) Calculated properties derived from Katz & Firoozabadi data
+C20 | Eicosanes | 0.998 | 2.025 | Heptanes Plus | 63.205 | 89.328 | 191.43842131050516 | 0.826151360663853 | C12+ | Dodecanes plus | 0.023 | 0.097 | 167.02368145298666 | 0.8049217488827041 | Tricosanes | 0.972 | 1.618 | (3) See Appendix 1 for Component properties
+C21 | Heneicosanes | 0.82 | 1.762 | Dodecanes Plus | 41.313 | 69.195 | 226.87886179488015 | 0.8435146431058439 | Tetracosanes | 0.893 | 1.546
+C22 | Docosanes | 0.699 | 1.573 | Pentadecanes Plus | 22.697 | 45.131 | 269.33130752492184 | 0.8617466665686483 | Calculated Whole Gas Properties | Pentacosanes | 0.796 | 1.438
+C23 | Tricosanes | 0.615 | 1.443 | Eicosanes Plus | 7.328 | 19.296 | 356.6405131549502 | 0.8889709289073189 | Real Relative Density | 1.3849 | (Air=1 @ 14.73 psia and 60°F) | Hexacosanes | 0.719 | 1.35
+C24 | Tetracosanes | 0.564 | 1.379 | Triacontanes Plus | 1.514 | 5.309 | 474.65956516200896 | 0.9149624586713735 | Heptacosanes | 0.669 | 1.309
+C25 | Pentacosanes | 0.503 | 1.282 | Hexatriacontanes Plus | 0.343 | 1.496 | 591.3 | 0.9331 | Whole Sample Mole Weight | 39.85 | g.mol-1 | Octacosanes | 0.594 | 1.205
+C26 | Hexacosanes | 0.454 | 1.204 | Nonacosanes | 0.574 | 1.208
+C27 | Heptacosanes | 0.423 | 1.167 | Notes | Gas Density | 1.6979 | kg.m-3 @ 15°C | Triacontanes | 0.498 | 1.084
+C28 | Octacosanes | 0.375 | 1.075 | (1) 0.00 means less than 0.005 | Hentriacontanes | 0.466 | 1.048
+C29 | Nonacosanes | 0.363 | 1.077 | (2) Calculated properties derived from Katz & Firoozabadi data | Calorific Value | 18.87 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C) | Dotriacontanes | 0.315 | 0.733
+C30 | Triacontanes | 0.315 | 0.967 | (3) See Appendix 1 for Component properties | Tritriacontanes | 0.273 | 0.653
+C31 | Hentriacontanes | 0.294 | 0.935 | (4) Compositional balanced to extrapolated / calculated properties | Calorific Value | 17.28 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C) | Tetratriacontanes | 0.176 | 0.435
+C32 | Dotriacontanes | 0.199 | 0.654 | (5) Molecular Weight for Flashed Liquid corrected for benzene content | Pentatriacontanes | 0.127 | 0.322
+C33 | Tritriacontanes | 0.172 | 0.582 | (6) Flash conditions : 14.73 psia & 120°F | Hexatriacontanes plus | 0.542 | 1.678
+C34 | Tetratriacontanes | 0.111 | 0.388
+C35 | Pentatriacontanes | 0.08 | 0.287 | Totals | 100.00000000000001 | 100.00000000000001
+C36+ | Hexatriacontanes Plus | 0.343 | 1.496
+Totals | 100.0 | 100.0
+--- OCR ---

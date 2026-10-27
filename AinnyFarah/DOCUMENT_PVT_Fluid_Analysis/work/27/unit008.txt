@@ -1,0 +1,13 @@
+Multi-Stage Separator tests of Reservoir Fluid Sample
+Separator Pressure PSIG | Temp °F | Gas/Oil Ratio (1) | Gas/Oil Ratio (2) | Tank Oil Gravity ° API @ 60°F | Formation Volume Factor (3) | Separation Volume Factor (4) | Gas Gravity
+300 | 140 | 302 | 330 | 1.092 | 1.140*
+to
+100 | 130 | 41 | 44 | 1.036 | 1.232*
+to
+0 | 120 | 40 | 41 | 36.1 | 1.246 | 1.027 | 1.375
+* these gas was collected and analysed by chromatography
+(1) Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature
+(2) Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F
+(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F
+(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+--- OCR ---

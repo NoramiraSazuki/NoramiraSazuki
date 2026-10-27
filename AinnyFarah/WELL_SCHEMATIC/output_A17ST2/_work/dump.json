@@ -1,0 +1,6715 @@
+{
+ "file": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/WELL_SCHEMATIC/output_A17ST2/_work/src/Dulang A17ST2 Well Schematic updated .xlsx",
+ "sheets": [
+  {
+   "title": "OP5 single A17 DIAL eSTMZ FID",
+   "state": "visible",
+   "dims": "A1:AH125",
+   "merged": [
+    "S72:T72",
+    "D45:E45",
+    "Z66:AA66",
+    "B18:O18",
+    "K99:L99",
+    "B73:I73",
+    "V15:W15",
+    "U87:Y87",
+    "S19:T19",
+    "G9:I9",
+    "U24:Y24",
+    "U89:Y89",
+    "S83:T83",
+    "B74:I74",
+    "K101:L101",
+    "S20:T20",
+    "U82:Y82",
+    "S85:T85",
+    "B76:I76",
+    "S22:T22",
+    "V8:W8",
+    "Z41:AA41",
+    "U77:Y77",
+    "V10:W10",
+    "Z43:AA43",
+    "K106:L106",
+    "U37:Y37",
+    "Z68:AA68",
+    "S40:T40",
+    "H109:I109",
+    "U72:Y72",
+    "Z67:AA67",
+    "B11:E11",
+    "K107:L107",
+    "F33:I33",
+    "Z69:AA69",
+    "U88:Y88",
+    "U26:Y26",
+    "F28:I28",
+    "S91:T91",
+    "U90:Y90",
+    "S93:T93",
+    "U65:Y65",
+    "K29:L29",
+    "G15:O15",
+    "B77:I77",
+    "S122:T122",
+    "U25:Y25",
+    "S101:T101",
+    "S28:T28",
+    "K31:L31",
+    "U19:Y20",
+    "Z82:AA82",
+    "B28:C28",
+    "D28:E28",
+    "F50:I50",
+    "B30:C30",
+    "D30:E30",
+    "F19:I20",
+    "S104:T104",
+    "B95:I95",
+    "S54:T54",
+    "S106:T106",
+    "U78:Y78",
+    "G10:O10",
+    "S56:T56",
+    "Z77:AA77",
+    "U80:Y80",
+    "K110:L110",
+    "U96:Y96",
+    "AE10:AG10",
+    "Z72:AA72",
+    "B23:C23",
+    "S34:T34",
+    "U106:Y106",
+    "U33:Y33",
+    "U93:Y93",
+    "S36:T36",
+    "Z88:AA88",
+    "S29:T29",
+    "S94:T94",
+    "Z19:AA19",
+    "Z90:AA90",
+    "S44:T44",
+    "S31:T31",
+    "S62:T62",
+    "Z85:AA85",
+    "U86:Y86",
+    "U61:Y61",
+    "S120:T120",
+    "U104:Y104",
+    "K50:L50",
+    "F22:I23",
+    "S107:T107",
+    "Z37:AA37",
+    "Z38:AA38",
+    "H65:I65",
+    "Z13:AA13",
+    "Z63:AA63",
+    "Z15:AA15",
+    "B32:C32",
+    "Z80:AA80",
+    "U35:Y35",
+    "S75:T75",
+    "K78:L78",
+    "U34:Y34",
+    "S110:T110",
+    "D19:E19",
+    "U99:Y99",
+    "Z27:AA27",
+    "S52:T52",
+    "K55:L55",
+    "U36:Y36",
+    "U30:Y30",
+    "S39:T39",
+    "K79:L79",
+    "S70:T70",
+    "U101:Y101",
+    "Z91:AA91",
+    "Z25:AA25",
+    "Z22:AA22",
+    "Z93:AA93",
+    "F34:I34",
+    "U47:V47",
+    "F30:I30",
+    "U62:Y62",
+    "U54:Y54",
+    "U64:Y64",
+    "D38:E38",
+    "S123:T123",
+    "Z59:AA59",
+    "B3:AB3",
+    "S50:T50",
+    "Z46:AA46",
+    "Z40:AA40",
+    "Z104:AA104",
+    "Z54:AA54",
+    "B5:AB6",
+    "U45:V45",
+    "Z81:AA81",
+    "P8:T8",
+    "U100:Y100",
+    "U75:Y75",
+    "S78:T78",
+    "U102:Y102",
+    "S80:T80",
+    "F36:I36",
+    "U39:Y39",
+    "H86:I86",
+    "Z34:AA34",
+    "Z28:AA28",
+    "B45:C45",
+    "Z36:AA36",
+    "Z30:AA30",
+    "B9:E9",
+    "K34:L34",
+    "Z61:AA61",
+    "K36:L36",
+    "P9:T9",
+    "U70:Y70",
+    "S66:T66",
+    "D41:E41",
+    "Z62:AA62",
+    "Z56:AA56",
+    "S68:T68",
+    "Z64:AA64",
+    "S84:T84",
+    "F32:I32",
+    "U83:Y83",
+    "S79:T79",
+    "U85:Y85",
+    "K87:L87",
+    "Z9:AA9",
+    "S21:T21",
+    "S81:T81",
+    "Z11:AA11",
+    "Z100:AA100",
+    "Z75:AA75",
+    "Z50:AA50",
+    "K90:L90",
+    "Z102:AA102",
+    "Z52:AA52",
+    "Z39:AA39",
+    "S99:T99",
+    "U71:Y71",
+    "S92:T92",
+    "S30:T30",
+    "U73:Y73",
+    "S76:T76",
+    "Z65:AA65",
+    "U84:Y84",
+    "K32:L32",
+    "S23:T23",
+    "K96:L96",
+    "S87:T87",
+    "G16:O16",
+    "Z12:AA12",
+    "U22:Y23",
+    "B29:C29",
+    "Z83:AA83",
+    "U21:Y21",
+    "Z14:AA14",
+    "F45:I45",
+    "D39:E39",
+    "Z60:AA60",
+    "G11:O11",
+    "Z103:AA103",
+    "M111:R111",
+    "Z78:AA78",
+    "G8:I8",
+    "U79:Y79",
+    "S100:T100",
+    "B91:I91",
+    "U81:Y81",
+    "S115:T115",
+    "S42:T42",
+    "S102:T102",
+    "V13:W13",
+    "U74:Y74",
+    "B93:I93",
+    "S77:T77",
+    "K109:L109",
+    "Z71:AA71",
+    "K46:L46",
+    "K40:L40",
+    "Z58:AA58",
+    "B44:C44",
+    "Z8:AA8",
+    "AE11:AG11",
+    "Z73:AA73",
+    "B19:C19",
+    "U28:Y28",
+    "U92:Y92",
+    "Z20:AA20",
+    "B20:C20",
+    "U29:Y29",
+    "S88:T88",
+    "U94:Y94",
+    "Z84:AA84",
+    "U31:Y31",
+    "S90:T90",
+    "Z86:AA86",
+    "S27:T27",
+    "S121:T121",
+    "U105:Y105",
+    "Z33:AA33",
+    "F51:I51",
+    "U42:Y42",
+    "Z79:AA79",
+    "B92:I92",
+    "Z35:AA35",
+    "Z10:AA10",
+    "F38:I38",
+    "Z99:AA99",
+    "B94:I94",
+    "Z74:AA74",
+    "D20:E20",
+    "Z101:AA101",
+    "Z76:AA76",
+    "B22:C22",
+    "D22:E22",
+    "S96:T96",
+    "S71:T71",
+    "S111:T111",
+    "U95:Y95",
+    "S98:T98",
+    "S73:T73",
+    "F29:I29",
+    "U32:Y32",
+    "U97:Y97",
+    "Z92:AA92",
+    "B38:C38",
+    "M112:R112",
+    "Z29:AA29",
+    "Z23:AA23",
+    "Z94:AA94",
+    "Z87:AA87",
+    "B33:C33",
+    "S124:T124",
+    "D33:E33",
+    "Z24:AA24",
+    "U63:Y63",
+    "B41:C41",
+    "Z89:AA89",
+    "B35:C35",
+    "D35:E35",
+    "Z105:AA105",
+    "B75:I75",
+    "S59:T59",
+    "D34:E34",
+    "S46:T46",
+    "U27:Y27",
+    "S48:T48",
+    "AE13:AG13",
+    "K72:L72",
+    "F44:I44",
+    "V9:W9",
+    "AE15:AG15",
+    "U56:V56",
+    "U103:Y103",
+    "V11:W11",
+    "B7:AB7",
+    "D29:E29",
+    "U38:Y38",
+    "S114:T114",
+    "D23:E23",
+    "U98:Y98",
+    "K19:L19",
+    "Z31:AA31",
+    "U40:Y40",
+    "Z95:AA95",
+    "B2:AB2",
+    "U49:V49",
+    "Z32:AA32",
+    "Z26:AA26",
+    "Z97:AA97",
+    "S117:T117",
+    "S67:T67",
+    "U66:Y66",
+    "S69:T69",
+    "Z42:AA42",
+    "Z44:AA44",
+    "S64:T64",
+    "V12:W12",
+    "K108:L108",
+    "V14:W14",
+    "Z70:AA70",
+    "B39:C39",
+    "K20:L20",
+    "S82:T82",
+    "D32:E32",
+    "U41:Y41",
+    "K84:L84",
+    "Z96:AA96",
+    "F40:I40",
+    "U43:Y43",
+    "K86:L86",
+    "Z98:AA98",
+    "Z48:AA48",
+    "U52:V52",
+    "B84:I84",
+    "B8:E8",
+    "S108:T108",
+    "F35:I35",
+    "K38:L38",
+    "B50:C50",
+    "D50:E50",
+    "B10:E10",
+    "D44:E44"
+   ],
+   "cells": [
+    {
+     "ref": "B2",
+     "value": "WELL NAME: DULANG A17-ST2 OP5"
+    },
+    {
+     "ref": "B3",
+     "value": "LOCATION / SLOT: DULANG A / 06"
+    },
+    {
+     "ref": "B5",
+     "value": "FINAL COMPLETION SCHEMATIC"
+    },
+    {
+     "ref": "B8",
+     "value": "DATE OF COMPLETION"
+    },
+    {
+     "ref": "F8",
+     "value": ":"
+    },
+    {
+     "ref": "G8",
+     "value": "2020-05-30T00:00:00"
+    },
+    {
+     "ref": "V8",
+     "value": "SIZE"
+    },
+    {
+     "ref": "X8",
+     "value": "WEIGHT"
+    },
+    {
+     "ref": "Y8",
+     "value": "GRADE"
+    },
+    {
+     "ref": "Z8",
+     "value": "THREAD"
+    },
+    {
+     "ref": "AB8",
+     "value": "DEPTH"
+    },
+    {
+     "ref": "B9",
+     "value": "RIG"
+    },
+    {
+     "ref": "F9",
+     "value": ":"
+    },
+    {
+     "ref": "G9",
+     "value": "SAPURA BERANI"
+    },
+    {
+     "ref": "P9",
+     "value": "CONDUCTOR (EXISTING)"
+    },
+    {
+     "ref": "U9",
+     "value": ":"
+    },
+    {
+     "ref": "V9",
+     "value": "26\""
+    },
+    {
+     "ref": "X9",
+     "value": 202
+    },
+    {
+     "ref": "Y9",
+     "value": "A-36"
+    },
+    {
+     "ref": "Z9",
+     "value": "WELDED"
+    },
+    {
+     "ref": "AB9",
+     "value": "182 m MDDF"
+    },
+    {
+     "ref": "B10",
+     "value": "TD"
+    },
+    {
+     "ref": "F10",
+     "value": ":"
+    },
+    {
+     "ref": "G10",
+     "value": 2283,
+     "formula": "=K110"
+    },
+    {
+     "ref": "P10",
+     "value": "INT. CASING (EXISTING)"
+    },
+    {
+     "ref": "U10",
+     "value": ":"
+    },
+    {
+     "ref": "V10",
+     "value": "13-3/8\""
+    },
+    {
+     "ref": "X10",
+     "value": "54.5 PPF"
+    },
+    {
+     "ref": "Y10",
+     "value": "K-55"
+    },
+    {
+     "ref": "Z10",
+     "value": "BTC"
+    },
+    {
+     "ref": "AB10",
+     "value": "421 m MDDF"
+    },
+    {
+     "ref": "B11",
+     "value": "PBTD"
+    },
+    {
+     "ref": "F11",
+     "value": ":"
+    },
+    {
+     "ref": "G11",
+     "value": 2241,
+     "formula": "=K108"
+    },
+    {
+     "ref": "P11",
+     "value": "CASING (EXISTING)"
+    },
+    {
+     "ref": "V11",
+     "value": "9-5/8\""
+    },
+    {
+     "ref": "X11",
+     "value": "43.5 PPF"
+    },
+    {
+     "ref": "Y11",
+     "value": "L-80"
+    },
+    {
+     "ref": "Z11",
+     "value": "BTC"
+    },
+    {
+     "ref": "AB11",
+     "value": "1,513 m MDDF"
+    },
+    {
+     "ref": "B12",
+     "value": "MAXIMUM DEVIATION"
+    },
+    {
+     "ref": "F12",
+     "value": ":"
+    },
+    {
+     "ref": "G12",
+     "value": 80.3,
+     "formula": "=MAX(J24:J142)"
+    },
+    {
+     "ref": "B13",
+     "value": "WATER DEPTH"
+    },
+    {
+     "ref": "F13",
+     "value": ":"
+    },
+    {
+     "ref": "G13",
+     "value": "77 m"
+    },
+    {
+     "ref": "P13",
+     "value": "LINER"
+    },
+    {
+     "ref": "U13",
+     "value": ":"
+    },
+    {
+     "ref": "V13",
+     "value": "7\" "
+    },
+    {
+     "ref": "X13",
+     "value": "29  PPF"
+    },
+    {
+     "ref": "Y13",
+     "value": "L-80"
+    },
+    {
+     "ref": "Z13",
+     "value": "VAM TOP/BEAR"
+    },
+    {
+     "ref": "AB13",
+     "value": 2283,
+     "formula": "=K110"
+    },
+    {
+     "ref": "B14",
+     "value": "DRILL FLOOR HEIGHT"
+    },
+    {
+     "ref": "F14",
+     "value": ":"
+    },
+    {
+     "ref": "G14",
+     "value": "33 m-AMSL"
+    },
+    {
+     "ref": "P14",
+     "value": "TUBING "
+    },
+    {
+     "ref": "U14",
+     "value": ":"
+    },
+    {
+     "ref": "V14",
+     "value": "3-1/2\""
+    },
+    {
+     "ref": "X14",
+     "value": "9.2 PPF"
+    },
+    {
+     "ref": "Y14",
+     "value": "HP2-13CR-95"
+    },
+    {
+     "ref": "Z14",
+     "value": "JFEBEAR"
+    },
+    {
+     "ref": "AB14",
+     "value": 250.738,
+     "formula": "=S30"
+    },
+    {
+     "ref": "B15",
+     "value": "WELL HEAD"
+    },
+    {
+     "ref": "F15",
+     "value": ":"
+    },
+    {
+     "ref": "G15",
+     "value": "SOLAR ALERT"
+    },
+    {
+     "ref": "V15",
+     "value": "3-1/2\""
+    },
+    {
+     "ref": "X15",
+     "value": "9.2 PPF"
+    },
+    {
+     "ref": "Y15",
+     "value": "13CR-L80"
+    },
+    {
+     "ref": "Z15",
+     "value": "JFEBEAR"
+    },
+    {
+     "ref": "AB15",
+     "value": 1660,
+     "formula": "=ROUNDUP(S71-S30,0)"
+    },
+    {
+     "ref": "P16",
+     "value": "COMPLETION FLUID"
+    },
+    {
+     "ref": "U16",
+     "value": ":"
+    },
+    {
+     "ref": "V16",
+     "value": "8.5 PPG NaCl (+ 3% KCl) filtered to 30 NTU"
+    },
+    {
+     "ref": "P17",
+     "value": "PACKER FLUID"
+    },
+    {
+     "ref": "U17",
+     "value": ":"
+    },
+    {
+     "ref": "V17",
+     "value": "8.5 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER "
+    },
+    {
+     "ref": "B18",
+     "value": "Note: All depths are in meter from RKB to top of equipment."
+    },
+    {
+     "ref": "V18",
+     "value": "+ 2% CORROSION INHIBITOR)"
+    },
+    {
+     "ref": "B19",
+     "value": "MAX OD"
+    },
+    {
+     "ref": "D19",
+     "value": "MIN ID"
+    },
+    {
+     "ref": "F19",
+     "value": "EQUIPMENT"
+    },
+    {
+     "ref": "J19",
+     "value": "Deviation"
+    },
+    {
+     "ref": "K19",
+     "value": "DEPTH"
+    },
+    {
+     "ref": "S19",
+     "value": "DEPTH"
+    },
+    {
+     "ref": "U19",
+     "value": "EQUIPMENT"
+    },
+    {
+     "ref": "Z19",
+     "value": "MIN ID"
+    },
+    {
+     "ref": "AB19",
+     "value": "MAX OD"
+    },
+    {
+     "ref": "B20",
+     "value": "IN"
+    },
+    {
+     "ref": "D20",
+     "value": "IN"
+    },
+    {
+     "ref": "J20",
+     "value": "Degree"
+    },
+    {
+     "ref": "K20",
+     "value": "m-MDDF"
+    },
+    {
+     "ref": "S20",
+     "value": "m-MDDF"
+    },
+    {
+     "ref": "Z20",
+     "value": "IN"
+    },
+    {
+     "ref": "AB20",
+     "value": "IN"
+    },
+    {
+     "ref": "U21",
+     "value": "3-1/2\" SINGLE STRING TUBING HANGER"
+    },
+    {
+     "ref": "U25",
+     "value": "From Tubing Hanger to TRSV"
+    },
+    {
+     "ref": "U26",
+     "value": "3-1/2\", 9.2#, HP2-13CR-95, JFE Bear"
+    },
+    {
+     "ref": "F28",
+     "value": "Tie Back 7\" Liner"
+    },
+    {
+     "ref": "U29",
+     "value": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80"
+    },
+    {
+     "ref": "Z29",
+     "value": 2.88
+    },
+    {
+     "ref": "AB29",
+     "value": 4.141
+    },
+    {
+     "ref": "S30",
+     "value": 250.738
+    },
+    {
+     "ref": "U30",
+     "value": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80"
+    },
+    {
+     "ref": "Z30",
+     "value": 2.812
+    },
+    {
+     "ref": "AB30",
+     "value": 5
+    },
+    {
+     "ref": "U31",
+     "value": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT 13CR-L80"
+    },
+    {
+     "ref": "Z31",
+     "value": 2.88
+    },
+    {
+     "ref": "AB31",
+     "value": 4.141
+    },
+    {
+     "ref": "F34",
+     "value": " TOL (7\" LINER)"
+    },
+    {
+     "ref": "K34",
+     "value": 450
+    },
+    {
+     "ref": "S42",
+     "value": 829.588
+    },
+    {
+     "ref": "U42",
+     "value": "3-1/2\" SPM (GLV  : Dummy - Change out made on 20.10.2021)"
+    },
+    {
+     "ref": "Z42",
+     "value": 2.9
+    },
+    {
+     "ref": "AB42",
+     "value": 5.23
+    },
+    {
+     "ref": "S44",
+     "value": 1169.029
+    },
+    {
+     "ref": "U44",
+     "value": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)"
+    },
+    {
+     "ref": "Z44",
+     "value": 2.963
+    },
+    {
+     "ref": "AB44",
+     "value": 5.15
+    },
+    {
+     "ref": "U45",
+     "value": "2026-05-02T00:00:00"
+    },
+    {
+     "ref": "S46",
+     "value": 1191.982
+    },
+    {
+     "ref": "U46",
+     "value": "3-1/2\" SPM (GLV: 8/64\" PTRO: 1045 psi SN: PMA-DUL- IPO-0005) "
+    },
+    {
+     "ref": "Z46",
+     "value": 2.9
+    },
+    {
+     "ref": "AB46",
+     "value": 5.23
+    },
+    {
+     "ref": "U47",
+     "value": "2026-05-14T00:00:00"
+    },
+    {
+     "ref": "S48",
+     "value": 1810.45
+    },
+    {
+     "ref": "U48",
+     "value": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)"
+    },
+    {
+     "ref": "Z48",
+     "value": 2.963
+    },
+    {
+     "ref": "AB48",
+     "value": 5.15
+    },
+    {
+     "ref": "U49",
+     "value": "2026-05-02T00:00:00"
+    },
+    {
+     "ref": "S50",
+     "value": 1832.781
+    },
+    {
+     "ref": "U50",
+     "value": "3-1/2\" SPM (GLV: Empty - recovered DV but "
+    },
+    {
+     "ref": "Z50",
+     "value": 2.9
+    },
+    {
+     "ref": "AB50",
+     "value": 5.23
+    },
+    {
+     "ref": "U51",
+     "value": "NOT ABLE to set GLOV 10/64\"  due to low RW - high angle)"
+    },
+    {
+     "ref": "U52",
+     "value": "2026-05-14T00:00:00"
+    },
+    {
+     "ref": "U54",
+     "value": "Run MLT from HUD at 1830m-MDTHF"
+    },
+    {
+     "ref": "U55",
+     "value": "Small leak (from SPM#3) observed by MLT Condition#2 run "
+    },
+    {
+     "ref": "U56",
+     "value": "2026-05-01T00:00:00"
+    },
+    {
+     "ref": "S59",
+     "value": 1853.118
+    },
+    {
+     "ref": "U59",
+     "value": "7 X 3-1/2 AHR PACKER, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80"
+    },
+    {
+     "ref": "Z59",
+     "value": 2.897
+    },
+    {
+     "ref": "AB59",
+     "value": 6
+    },
+    {
+     "ref": "S62",
+     "value": 1873.214
+    },
+    {
+     "ref": "U62",
+     "value": "LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80"
+    },
+    {
+     "ref": "Z62",
+     "value": 2.813
+    },
+    {
+     "ref": "AB62",
+     "value": 4.04
+    },
+    {
+     "ref": "S67",
+     "value": 1911.049
+    },
+    {
+     "ref": "U67",
+     "value": "NO-GO LOCATOR, 3-1/2 9.2# JFEBEAR B X VAMTOP SC80 P, 13CR-L80"
+    },
+    {
+     "ref": "Z67",
+     "value": 3.05
+    },
+    {
+     "ref": "AB67",
+     "value": 4.798
+    },
+    {
+     "ref": "S68",
+     "value": 1911.54
+    },
+    {
+     "ref": "U68",
+     "value": "SELF ALIGN MULE SHOE, 3-1/2 9.2# VAMTOP SC80 PIN, 13CR-L80"
+    },
+    {
+     "ref": "Z68",
+     "value": 3.05
+    },
+    {
+     "ref": "AB68",
+     "value": 3.86
+    },
+    {
+     "ref": "S71",
+     "value": 1909.947
+    },
+    {
+     "ref": "U71",
+     "value": "VCH PACKER, 7\" 26 - 29#, 13CR-L80, HNBR, 10KSI RATING"
+    },
+    {
+     "ref": "Z71",
+     "value": 3.88
+    },
+    {
+     "ref": "AB71",
+     "value": 6.015
+    },
+    {
+     "ref": "K72",
+     "value": 1934.429
+    },
+    {
+     "ref": "B73",
+     "value": "E22A"
+    },
+    {
+     "ref": "S73",
+     "value": 1921.164
+    },
+    {
+     "ref": "U73",
+     "value": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING"
+    },
+    {
+     "ref": "Z73",
+     "value": 2.75
+    },
+    {
+     "ref": "AB73",
+     "value": 5.735
+    },
+    {
+     "ref": "B74",
+     "value": "1302.63 - 1303.81 m TVD"
+    },
+    {
+     "ref": "B75",
+     "value": "1944 - 1951 m MDDF (7 m)"
+    },
+    {
+     "ref": "J75",
+     "value": 80.3
+    },
+    {
+     "ref": "S75",
+     "value": 1937.236
+    },
+    {
+     "ref": "U75",
+     "value": "TOP JOINT PG WRAP MODULAR SCREEN"
+    },
+    {
+     "ref": "Z75",
+     "value": 2.918
+    },
+    {
+     "ref": "AB75",
+     "value": 4.301
+    },
+    {
+     "ref": "B76",
+     "value": 5.011413608720319,
+     "formula": "=1115.9/(0.0521*1302.63*3.281)"
+    },
+    {
+     "ref": "B77",
+     "value": "1115.30 psi, 177.8 deg F"
+    },
+    {
+     "ref": "S77",
+     "value": 1946.339
+    },
+    {
+     "ref": "U77",
+     "value": "PRODUCTION JOINT PG WRAP MODULAR SCREEN"
+    },
+    {
+     "ref": "Z77",
+     "value": 2.918
+    },
+    {
+     "ref": "AB77",
+     "value": 4.301
+    },
+    {
+     "ref": "K78",
+     "value": 1961.783
+    },
+    {
+     "ref": "S79",
+     "value": 1955.444
+    },
+    {
+     "ref": "U79",
+     "value": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR"
+    },
+    {
+     "ref": "Z79",
+     "value": 2.87
+    },
+    {
+     "ref": "AB79",
+     "value": 5.05
+    },
+    {
+     "ref": "S83",
+     "value": 1956.854
+    },
+    {
+     "ref": "U83",
+     "value": "TNT PERMA-SERIES® ISOLATION PACKER, 13CR FLOW-WET, HNBR, 7KSI RATING"
+    },
+    {
+     "ref": "Z83",
+     "value": 3.875
+    },
+    {
+     "ref": "AB83",
+     "value": 5.875
+    },
+    {
+     "ref": "B84",
+     "value": "Distance 30 m"
+    },
+    {
+     "ref": "S88",
+     "value": 1965.973
+    },
+    {
+     "ref": "U88",
+     "value": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING"
+    },
+    {
+     "ref": "Z88",
+     "value": 2.75
+    },
+    {
+     "ref": "AB88",
+     "value": 5.735
+    },
+    {
+     "ref": "K90",
+     "value": 1978.395
+    },
+    {
+     "ref": "S90",
+     "value": 1971.765
+    },
+    {
+     "ref": "U90",
+     "value": "TOP JOINT PG WRAP MODULAR SCREEN"
+    },
+    {
+     "ref": "Z90",
+     "value": 2.918
+    },
+    {
+     "ref": "AB90",
+     "value": 4.301
+    },
+    {
+     "ref": "B91",
+     "value": "E22B"
+    },
+    {
+     "ref": "B92",
+     "value": "1308.89 - 1310.17 m TVD"
+    },
+    {
+     "ref": "S92",
+     "value": 1980.868
+    },
+    {
+     "ref": "U92",
+     "value": "PRODUCTION JOINT PG WRAP MODULAR SCREEN"
+    },
+    {
+     "ref": "Z92",
+     "value": 2.918
+    },
+    {
+     "ref": "AB92",
+     "value": 4.301
+    },
+    {
+     "ref": "B93",
+     "value": "1981 - 1988 m MDDF (7 m)"
+    },
+    {
+     "ref": "J93",
+     "value": 80.1
+    },
+    {
+     "ref": "B94",
+     "value": 4.87079330254112,
+     "formula": "=1089.8/(0.0521*1308.89*3.281)"
+    },
+    {
+     "ref": "S94",
+     "value": 1989.971
+    },
+    {
+     "ref": "U94",
+     "value": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR"
+    },
+    {
+     "ref": "Z94",
+     "value": 2.87
+    },
+    {
+     "ref": "AB94",
+     "value": 5.05
+    },
+    {
+     "ref": "B95",
+     "value": "1089.80 psi, 177.8 deg F"
+    },
+    {
+     "ref": "K96",
+     "value": 2015.815
+    },
+    {
+     "ref": "S98",
+     "value": 1992.621
+    },
+    {
+     "ref": "U98",
+     "value": "SUMP SEAL ASSEMBLY, For 3.88\" Bore Packer, 13CR, HNBR"
+    },
+    {
+     "ref": "Z98",
+     "value": 2.75
+    },
+    {
+     "ref": "AB98",
+     "value": 5.613
+    },
+    {
+     "ref": "S99",
+     "value": 1992
+    },
+    {
+     "ref": "U99",
+     "value": "AWV SUMP PACKER , 7 \" 26 - 32#, 13CR-80, HNBR, 10KSI RATING"
+    },
+    {
+     "ref": "Z99",
+     "value": 3.88
+    },
+    {
+     "ref": "AB99",
+     "value": 5.875
+    },
+    {
+     "ref": "I108",
+     "value": "PBTD"
+    },
+    {
+     "ref": "K108",
+     "value": 2241
+    },
+    {
+     "ref": "H109",
+     "value": "7\" LINER SHOE"
+    },
+    {
+     "ref": "J109",
+     "value": 58
+    },
+    {
+     "ref": "I110",
+     "value": "TD"
+    },
+    {
+     "ref": "K110",
+     "value": 2283
+    },
+    {
+     "ref": "U110",
+     "value": "Designed by: Mahirah/Hidayah "
+    },
+    {
+     "ref": "Z110",
+     "value": "(Completion Engineer)"
+    },
+    {
+     "ref": "V111",
+     "value": "             Jagaan"
+    },
+    {
+     "ref": "Z111",
+     "value": "(Production Technologist)"
+    },
+    {
+     "ref": "U112",
+     "value": "Date: 3rd June 2020"
+    },
+    {
+     "ref": "Z112",
+     "value": "Rev: Draft"
+    },
+    {
+     "ref": "I125",
+     "value": " "
+    }
+   ],
+   "comments": []
+  }
+ ],
+ "media": [
+  "xl/media/image2.png",
+  "xl/media/image3.emf",
+  "xl/media/image1.emf"
+ ],
+ "drawings": {
+  "xl/drawings/drawing1.xml": [
+   {
+    "kind": "sp",
+    "name": "Rectangle 416",
+    "hidden": false,
+    "from": "P83",
+    "to": "P91",
+    "off_emu": [
+     7495834,
+     15366043
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 416",
+    "hidden": false,
+    "from": "O83",
+    "to": "O91",
+    "off_emu": [
+     6921500,
+     15364225
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 743",
+    "hidden": false,
+    "from": "N80",
+    "to": "Q99",
+    "off_emu": [
+     8535287,
+     11335359
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5",
+    "hidden": false,
+    "from": "N80",
+    "to": "Q99",
+    "off_emu": [
+     9329533,
+     11341540
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 18",
+    "hidden": false,
+    "from": "Q21",
+    "to": "Q109",
+    "off_emu": [
+     7906054,
+     3509131
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 18",
+    "hidden": false,
+    "from": "N21",
+    "to": "N109",
+    "off_emu": [
+     6587371,
+     3483731
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 12",
+    "hidden": false,
+    "from": "O67",
+    "to": "P69",
+    "off_emu": [
+     7064829,
+     13705114
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 13",
+    "hidden": false,
+    "from": "O67",
+    "to": "P69",
+    "off_emu": [
+     7064829,
+     13705114
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 14",
+    "hidden": false,
+    "from": "O67",
+    "to": "P69",
+    "off_emu": [
+     7625194,
+     13705114
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 362",
+    "hidden": false,
+    "from": "AB207",
+    "to": "AB223",
+    "off_emu": [
+     14859000,
+     34544000
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 273",
+    "hidden": false,
+    "from": "N19",
+    "to": "N40",
+    "off_emu": [
+     6904567,
+     3079750
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 361",
+    "hidden": false,
+    "from": "N19",
+    "to": "N40",
+    "off_emu": [
+     6684436,
+     6477008
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 21",
+    "hidden": false,
+    "from": "N108",
+    "to": "Q109",
+    "off_emu": [
+     6639719,
+     19980671
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 33",
+    "hidden": false,
+    "from": "O21",
+    "to": "P59",
+    "off_emu": [
+     7073900,
+     3572932
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 160",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     144,
+     37
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 162",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     165,
+     220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 163",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     165,
+     224
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 164",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     167,
+     214
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 165",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     165,
+     247
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 166",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     165,
+     251
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 167",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     167,
+     252
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 169",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 170",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 172",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 173",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 176",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 177",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 179",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 180",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 182",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 183",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 186",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 187",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 189",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 190",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 192",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     236
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 193",
+    "hidden": false,
+    "from": "O22",
+    "to": "P33",
+    "off_emu": [
+     157,
+     328
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 360",
+    "hidden": false,
+    "from": "Q108",
+    "to": "Q109",
+    "off_emu": [
+     7900988,
+     21364972
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 361",
+    "hidden": false,
+    "from": "N108",
+    "to": "N109",
+    "off_emu": [
+     6370636,
+     21367750
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 194",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     6429872,
+     11320115
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 195",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     6962715,
+     11320110
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 743",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     6223677,
+     11279715
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     7087620,
+     11279713
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5430",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     670
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5431",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5432",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1516,
+     867
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5433",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     833
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5434",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     801
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5435",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     767
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5436",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     699
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5437",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     733
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5438",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     825
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5439",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     796
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5440",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     768
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5441",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     740
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5442",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     711
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5443",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     693
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5444",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     851
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5445",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     682
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5476",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5477",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1386,
+     297
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5478",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5479",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5492",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1430,
+     302
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5493",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5494",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5495",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1528,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5497",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5499",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1516,
+     411
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5500",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     537
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5501",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     569
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5502",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     603
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5503",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     671
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5504",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     637
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5505",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     535
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5506",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5507",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     592
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5508",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     620
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5509",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     649
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5510",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5511",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     526
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5512",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     509
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5513",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     505
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5430",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     670
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5431",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5432",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1516,
+     867
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5433",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     833
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5434",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     801
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5435",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     767
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5436",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     699
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5437",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     733
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5438",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     825
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5439",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     796
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5440",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     768
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5441",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     740
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5442",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     711
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5443",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     693
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5444",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     851
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5445",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     682
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5476",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5478",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5479",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5493",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5494",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5495",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1564,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5499",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1516,
+     411
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5500",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     537
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5501",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     569
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5502",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     603
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5503",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     671
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5504",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     637
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5505",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     535
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5506",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5507",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     592
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5508",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     620
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5509",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     649
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5510",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5511",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     526
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5512",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1522,
+     509
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5513",
+    "hidden": false,
+    "from": "N70",
+    "to": "Q83",
+    "off_emu": [
+     1544,
+     505
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 33",
+    "hidden": false,
+    "from": "O58",
+    "to": "P70",
+    "off_emu": [
+     7099300,
+     10458450
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "pic",
+    "name": "Picture 3071",
+    "hidden": false,
+    "from": "O69",
+    "to": "P70",
+    "off_emu": [
+     7074512,
+     12675509
+    ],
+    "text": [],
+    "embed": "rId1"
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5430",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     670
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5431",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5432",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1516,
+     867
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5433",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     833
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5434",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     801
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5435",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     767
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5436",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     699
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5437",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     733
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5438",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     825
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5439",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     796
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5440",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     768
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5441",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     740
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5442",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     711
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5443",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     693
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5444",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     851
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5445",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     682
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5482",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5483",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1432,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5499",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1516,
+     411
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5500",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     537
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5501",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     569
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5502",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     603
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5503",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     671
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5504",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     637
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5505",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     535
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5506",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5507",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     592
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5508",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     620
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5509",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     649
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5510",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5511",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     526
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5512",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     509
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5513",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     567
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5430",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     670
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5431",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5432",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1516,
+     867
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5433",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     833
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5434",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     801
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5435",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     767
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5436",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     699
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5437",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     733
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5438",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     825
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5439",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     796
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5440",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     768
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5441",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     740
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5442",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     711
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5443",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     693
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5444",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     851
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5445",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     744
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5478",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5482",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5499",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1516,
+     411
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5500",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     537
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5501",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     569
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5502",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     603
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5503",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     671
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 5504",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     637
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5505",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     535
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5506",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5507",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     592
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5508",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     620
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5509",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     649
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5510",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     679
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5511",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     526
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 5512",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1522,
+     509
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 5513",
+    "hidden": false,
+    "from": "O85",
+    "to": "P97",
+    "off_emu": [
+     1544,
+     567
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 277",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     243
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 278",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     205
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 279",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     216
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 280",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 281",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     297
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 282",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 283",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 284",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     163
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 285",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1450,
+     184
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 286",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 287",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 288",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     214
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 289",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 290",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     231
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 291",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     224
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 292",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     233
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 293",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     250
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 294",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     266
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 295",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     286
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 296",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     302
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 297",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 298",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 299",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1528,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 300",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     226
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 301",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 394",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     243
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 395",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     205
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 396",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     216
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 397",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 398",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     297
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 399",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 400",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 401",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     163
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 402",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1450,
+     184
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 403",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 404",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 405",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     214
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 406",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 407",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     231
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 408",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     224
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 409",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     233
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 410",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     250
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 411",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1388,
+     266
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 412",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     286
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 413",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     302
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 414",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 415",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 416",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1528,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 417",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     226
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 418",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 419",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1432,
+     218
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 420",
+    "hidden": false,
+    "from": "N82",
+    "to": "Q84",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "cxnSp",
+    "name": "Straight Connector 329",
+    "hidden": false,
+    "from": "P21",
+    "to": "P48",
+    "off_emu": [
+     7724406,
+     3521031
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 277",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     243
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 278",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     205
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 279",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     216
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 280",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 281",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     297
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 282",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 283",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 284",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     163
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 285",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1450,
+     184
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 286",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 287",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 288",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     214
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 289",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 290",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     231
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 291",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     224
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 292",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     233
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 293",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     250
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 294",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     266
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 295",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     286
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 296",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     302
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 297",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 298",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 299",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1528,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 300",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     226
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 301",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 394",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     243
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 395",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     205
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 396",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     216
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 397",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     288
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 398",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     297
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 399",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1560,
+     315
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 400",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1431,
+     314
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 401",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     163
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 402",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1450,
+     184
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 403",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1562,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 404",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     178
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 405",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     214
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 406",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 407",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     231
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 408",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     224
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 409",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     233
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 410",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     250
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 411",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1388,
+     266
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 412",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     286
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 413",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     302
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 414",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     290
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 415",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1386,
+     305
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 416",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1528,
+     333
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 417",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     226
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 418",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 419",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1432,
+     218
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 420",
+    "hidden": false,
+    "from": "N67",
+    "to": "Q72",
+    "off_emu": [
+     1430,
+     296
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 534",
+    "hidden": false,
+    "from": "O67",
+    "to": "P68",
+    "off_emu": [
+     7368831,
+     11950700
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 534",
+    "hidden": false,
+    "from": "O67",
+    "to": "P68",
+    "off_emu": [
+     6983942,
+     11931650
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 196",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     67,
+     345
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 197",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     67,
+     345
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 198",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     67,
+     404
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 199",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     106,
+     345
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 200",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     102,
+     345
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 201",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     102,
+     380
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 202",
+    "hidden": false,
+    "from": "O62",
+    "to": "P63",
+    "off_emu": [
+     67,
+     339
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 19",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     908,
+     17
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 20",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     54
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 21",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     75
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 22",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     96
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 23",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     115
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 24",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     17
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 25",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     30
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 26",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     44
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 19",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     908,
+     17
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 20",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     54
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 21",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     75
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 22",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     96
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 23",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     910,
+     115
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 24",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     17
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 25",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     30
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 26",
+    "hidden": false,
+    "from": "N34",
+    "to": "Q36",
+    "off_emu": [
+     907,
+     44
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 273",
+    "hidden": false,
+    "from": "Q19",
+    "to": "Q40",
+    "off_emu": [
+     6904567,
+     3079750
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 361",
+    "hidden": false,
+    "from": "Q19",
+    "to": "Q40",
+    "off_emu": [
+     6695019,
+     6466425
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 246",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     700,
+     26
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 247",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     700,
+     48
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 248",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     708,
+     212
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 249",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     704,
+     201
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     704,
+     57
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 251",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     754,
+     130
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 252",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     754,
+     135
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 253",
+    "hidden": false,
+    "from": "O41",
+    "to": "P43",
+    "off_emu": [
+     754,
+     140
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 246",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     700,
+     26
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 247",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     700,
+     48
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 248",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     708,
+     212
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 249",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     704,
+     201
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     704,
+     57
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 251",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     754,
+     130
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 252",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     754,
+     135
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 253",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     754,
+     140
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     9728200,
+     8255001
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 566",
+    "hidden": false,
+    "from": "O43",
+    "to": "P45",
+    "off_emu": [
+     7365747,
+     8407400
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 188",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     518,
+     98
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 189",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     518,
+     62
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 190",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     518,
+     91
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 191",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     519,
+     81
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 192",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     518,
+     69
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 193",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     526,
+     104
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 194",
+    "hidden": false,
+    "from": "N19",
+    "to": "Q22",
+    "off_emu": [
+     559,
+     62
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "pic",
+    "name": "Picture 57",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     3817,
+     5220
+    ],
+    "text": [],
+    "embed": "rId2"
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 59",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     421,
+     602
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 60",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     429,
+     602
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 62",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     902,
+     1095
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 63",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     957,
+     1095
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 64",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     987,
+     1095
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 65",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     425,
+     612
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 67",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     726,
+     1276
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 68",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     683,
+     1276
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 69",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     667,
+     1276
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 70",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     658,
+     1276
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 75",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     7722,
+     8964
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 72",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     103,
+     232
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 73",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     103,
+     258
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 74",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     103,
+     284
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 76",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     5400,
+     4320
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 77",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     6546,
+     4320
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 78",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     5338,
+     11175
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 79",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     6484,
+     11175
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 82",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     3812,
+     7124
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 84",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     6480,
+     5220
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 82",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     11275868,
+     18870468
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 82",
+    "hidden": false,
+    "from": "N58",
+    "to": "Q61",
+    "off_emu": [
+     11275868,
+     19232418
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "pic",
+    "name": "Picture 503",
+    "hidden": false,
+    "from": "N97",
+    "to": "Q101",
+    "off_emu": [
+     6361770,
+     17980478
+    ],
+    "text": [],
+    "embed": "rId3"
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 4",
+    "hidden": false,
+    "from": "Q74",
+    "to": "Q77",
+    "off_emu": [
+     7920,
+     6124
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5",
+    "hidden": false,
+    "from": "Q74",
+    "to": "Q77",
+    "off_emu": [
+     7920,
+     6480
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 6",
+    "hidden": false,
+    "from": "Q74",
+    "to": "Q77",
+    "off_emu": [
+     7920,
+     6844
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 7",
+    "hidden": false,
+    "from": "Q74",
+    "to": "Q77",
+    "off_emu": [
+     7920,
+     7204
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 8",
+    "hidden": false,
+    "from": "Q74",
+    "to": "Q77",
+    "off_emu": [
+     7920,
+     7564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 4",
+    "hidden": false,
+    "from": "N74",
+    "to": "N77",
+    "off_emu": [
+     7920,
+     6124
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5",
+    "hidden": false,
+    "from": "N74",
+    "to": "N77",
+    "off_emu": [
+     7920,
+     6480
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 6",
+    "hidden": false,
+    "from": "N74",
+    "to": "N77",
+    "off_emu": [
+     7920,
+     6844
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 7",
+    "hidden": false,
+    "from": "N74",
+    "to": "N77",
+    "off_emu": [
+     7920,
+     7204
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 8",
+    "hidden": false,
+    "from": "N74",
+    "to": "N77",
+    "off_emu": [
+     7920,
+     7564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 4",
+    "hidden": false,
+    "from": "Q91",
+    "to": "Q95",
+    "off_emu": [
+     7920,
+     6124
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5",
+    "hidden": false,
+    "from": "Q91",
+    "to": "Q95",
+    "off_emu": [
+     7920,
+     6480
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 6",
+    "hidden": false,
+    "from": "Q91",
+    "to": "Q95",
+    "off_emu": [
+     7920,
+     6844
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 7",
+    "hidden": false,
+    "from": "Q91",
+    "to": "Q95",
+    "off_emu": [
+     7920,
+     7204
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 8",
+    "hidden": false,
+    "from": "Q91",
+    "to": "Q95",
+    "off_emu": [
+     7920,
+     7564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 4",
+    "hidden": false,
+    "from": "N91",
+    "to": "N95",
+    "off_emu": [
+     7920,
+     6124
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 5",
+    "hidden": false,
+    "from": "N91",
+    "to": "N95",
+    "off_emu": [
+     7920,
+     6480
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 6",
+    "hidden": false,
+    "from": "N91",
+    "to": "N95",
+    "off_emu": [
+     7920,
+     6844
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 7",
+    "hidden": false,
+    "from": "N91",
+    "to": "N95",
+    "off_emu": [
+     7920,
+     7204
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 8",
+    "hidden": false,
+    "from": "N91",
+    "to": "N95",
+    "off_emu": [
+     7920,
+     7564
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 246",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     700,
+     26
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 247",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     700,
+     48
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 248",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     708,
+     212
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 249",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     704,
+     201
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     704,
+     57
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 251",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     754,
+     130
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 252",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     754,
+     135
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 253",
+    "hidden": false,
+    "from": "O45",
+    "to": "P47",
+    "off_emu": [
+     754,
+     140
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 246",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     700,
+     26
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 247",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     700,
+     48
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 248",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     708,
+     212
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 249",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     704,
+     201
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     704,
+     57
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 251",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     754,
+     130
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 252",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     754,
+     135
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 253",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     754,
+     140
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     9728200,
+     8255001
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Line 566",
+    "hidden": false,
+    "from": "O48",
+    "to": "P49",
+    "off_emu": [
+     7365747,
+     8407400
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 246",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     700,
+     26
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 247",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     700,
+     48
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Rectangle 248",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     708,
+     212
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 249",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     704,
+     201
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "Freeform 250",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     704,
+     57
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 251",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     754,
+     130
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 252",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     754,
+     135
+    ],
+    "text": [],
+    "embed": null
+   },
+   {
+    "kind": "sp",
+    "name": "AutoShape 253",
+    "hidden": false,
+    "from": "O49",
+    "to": "P51",
+    "off_emu": [
+     754,
+     140
+    ],
+    "text": [],
+    "embed": null
+   }
+  ]
+ },
+ "drawing_rels": {
+  "xl/drawings/_rels/drawing1.xml.rels": {
+   "rId3": "../media/image3.emf",
+   "rId2": "../media/image2.png",
+   "rId1": "../media/image1.emf"
+  }
+ }
+}

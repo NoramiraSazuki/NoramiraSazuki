@@ -1,0 +1,368 @@
+Starting processing with 10 workers concurrently
+    1 redoing OCR
+    1 page is facing ⇧, confidence 0.06 - no change
+    2 page is facing ⇧, confidence 2.51 - no change
+    3 page is facing ⇧, confidence 7.08 - no change
+    4 page is facing ⇧, confidence 16.47 - rotation appears correct
+    5 page is facing ⇧, confidence 17.27 - rotation appears correct
+    6 page is facing ⇧, confidence 19.49 - rotation appears correct
+    7 page is facing ⇧, confidence 17.32 - rotation appears correct
+    8 page is facing ⇧, confidence 17.54 - rotation appears correct
+    9 page is facing ⇧, confidence 16.93 - rotation appears correct
+   10 page is facing ⇧, confidence 13.87 - no change
+    3 [tesseract] lots of diacritics - possibly poor OCR
+   11 page is facing ⇧, confidence 13.05 - no change
+   12 with existing rotation ⇨, page is facing ⇧, confidence 10.17 - no change
+   13 with existing rotation ⇨, page is facing ⇧, confidence 1.74 - no change
+   14 page is facing ⇧, confidence 2.78 - no change
+   17 page is facing ⇧, confidence 10.04 - no change
+   15 with existing rotation ⇨, page is facing ⇧, confidence 6.13 - no change
+   16 page is facing ⇧, confidence 4.60 - no change
+   18 page is facing ⇧, confidence 8.68 - no change
+   19 page is facing ⇧, confidence 11.60 - no change
+   20 page is facing ⇧, confidence 10.45 - no change
+   21 page is facing ⇧, confidence 11.95 - no change
+   22 page is facing ⇧, confidence 4.75 - no change
+   23 with existing rotation ⇨, page is facing ⇧, confidence 2.09 - no change
+   24 page is facing ⇧, confidence 4.89 - no change
+   25 with existing rotation ⇨, page is facing ⇧, confidence 2.09 - no change
+   26 with existing rotation ⇨, page is facing ⇧, confidence 5.46 - no change
+   20 [tesseract] lots of diacritics - possibly poor OCR
+   21 [tesseract] lots of diacritics - possibly poor OCR
+   18 [tesseract] lots of diacritics - possibly poor OCR
+   27 page is facing ⇧, confidence 3.38 - no change
+   29 page is facing ⇧, confidence 3.50 - no change
+   28 with existing rotation ⇨, page is facing ⇧, confidence 2.92 - no change
+   31 page is facing ⇧, confidence 8.01 - no change
+   30 with existing rotation ⇨, page is facing ⇧, confidence 3.46 - no change
+   32 page is facing ⇧, confidence 9.60 - no change
+   33 page is facing ⇧, confidence 6.49 - no change
+   34 with existing rotation ⇨, page is facing ⇧, confidence 6.90 - no change
+   35 with existing rotation ⇨, page is facing ⇧, confidence 2.17 - no change
+   36 with existing rotation ⇨, page is facing ⇧, confidence 4.52 - no change
+   31 [tesseract] lots of diacritics - possibly poor OCR
+   37 with existing rotation ⇨, page is facing ⇧, confidence 3.88 - no change
+   38 with existing rotation ⇨, page is facing ⇧, confidence 7.23 - no change
+   39 page is facing ⇧, confidence 1.46 - no change
+   40 page is facing ⇧, confidence 4.47 - no change
+   41 page is facing ⇧, confidence 3.72 - no change
+   42 with existing rotation ⇨, page is facing ⇧, confidence 3.79 - no change
+   43 with existing rotation ⇨, page is facing ⇧, confidence 2.73 - no change
+   44 with existing rotation ⇨, page is facing ⇧, confidence 2.98 - no change
+   45 with existing rotation ⇨, page is facing ⇧, confidence 3.75 - no change
+   46 with existing rotation ⇨, page is facing ⇧, confidence 3.91 - no change
+   47 with existing rotation ⇨, page is facing ⇧, confidence 7.21 - no change
+   48 page is facing ⇧, confidence 5.32 - no change
+   45 [tesseract] lots of diacritics - possibly poor OCR
+   49 page is facing ⇧, confidence 4.65 - no change
+   50 page is facing ⇧, confidence 2.98 - no change
+   51 with existing rotation ⇨, page is facing ⇧, confidence 1.22 - no change
+   52 page is facing ⇧, confidence 1.74 - no change
+   53 with existing rotation ⇨, page is facing ⇧, confidence 3.38 - no change
+   54 with existing rotation ⇨, page is facing ⇧, confidence 4.99 - no change
+   55 page is facing ⇧, confidence 7.31 - no change
+   56 page is facing ⇧, confidence 4.25 - no change
+   57 page is facing ⇧, confidence 2.12 - no change
+   58 page is facing ⇧, confidence 2.84 - no change
+   59 page is facing ⇧, confidence 1.52 - no change
+   60 page is facing ⇧, confidence 2.35 - no change
+   63 page is facing ⇩, confidence 1.10 - confidence too low to rotate
+   61 page is facing ⇧, confidence 1.34 - no change
+   64 page is facing ⇩, confidence 1.78 - confidence too low to rotate
+   62 page is facing ⇩, confidence 2.13 - confidence too low to rotate
+   65 page is facing ⇧, confidence 2.28 - no change
+   66 page is facing ⇧, confidence 1.07 - no change
+   67 page is facing ⇩, confidence 1.40 - confidence too low to rotate
+   68 page is facing ⇧, confidence 0.04 - no change
+   69 page is facing ⇩, confidence 2.05 - confidence too low to rotate
+   62 [tesseract] lots of diacritics - possibly poor OCR
+   70 page is facing ⇩, confidence 4.05 - confidence too low to rotate
+   71 page is facing ⇩, confidence 2.45 - confidence too low to rotate
+   72 page is facing ⇩, confidence 4.23 - confidence too low to rotate
+   73 page is facing ⇩, confidence 3.33 - confidence too low to rotate
+   74 page is facing ⇩, confidence 1.47 - confidence too low to rotate
+   75 page is facing ⇩, confidence 1.22 - confidence too low to rotate
+   76 page is facing ⇩, confidence 2.14 - confidence too low to rotate
+   77 page is facing ⇩, confidence 1.15 - confidence too low to rotate
+   78 page is facing ⇩, confidence 2.67 - confidence too low to rotate
+   79 page is facing ⇩, confidence 1.04 - confidence too low to rotate
+   80 page is facing ⇩, confidence 1.05 - confidence too low to rotate
+   81 page is facing ⇩, confidence 0.78 - confidence too low to rotate
+   82 page is facing ⇩, confidence 3.33 - confidence too low to rotate
+   83 page is facing ⇩, confidence 1.67 - confidence too low to rotate
+   84 page is facing ⇩, confidence 7.42 - confidence too low to rotate
+   85 page is facing ⇩, confidence 2.34 - confidence too low to rotate
+   86 page is facing ⇧, confidence 8.58 - no change
+   87 page is facing ⇧, confidence 7.62 - no change
+   88 page is facing ⇧, confidence 12.27 - no change
+   89 page is facing ⇧, confidence 7.51 - no change
+   90 with existing rotation ⇨, page is facing ⇧, confidence 8.53 - no change
+   87 [tesseract] lots of diacritics - possibly poor OCR
+   86 [tesseract] lots of diacritics - possibly poor OCR
+   91 page is facing ⇧, confidence 3.23 - no change
+   92 page is facing ⇧, confidence 4.60 - no change
+   93 with existing rotation ⇨, page is facing ⇧, confidence 5.77 - no change
+   94 page is facing ⇦, confidence 2.13 - confidence too low to rotate
+   95 with existing rotation ⇨, page is facing ⇧, confidence 1.39 - no change
+   96 with existing rotation ⇨, page is facing ⇧, confidence 5.41 - no change
+   97 page is facing ⇧, confidence 5.05 - no change
+   98 page is facing ⇧, confidence 3.85 - no change
+   99 with existing rotation ⇨, page is facing ⇧, confidence 6.78 - no change
+  100 with existing rotation ⇨, page is facing ⇧, confidence 7.89 - no change
+  101 with existing rotation ⇨, page is facing ⇧, confidence 4.18 - no change
+  102 with existing rotation ⇨, page is facing ⇧, confidence 0.81 - no change
+  103 with existing rotation ⇨, page is facing ⇧, confidence 7.35 - no change
+  104 with existing rotation ⇨, page is facing ⇧, confidence 5.39 - no change
+  105 with existing rotation ⇨, page is facing ⇧, confidence 3.02 - no change
+  106 with existing rotation ⇨, page is facing ⇧, confidence 4.14 - no change
+  107 page is facing ⇧, confidence 2.51 - no change
+  108 page is facing ⇧, confidence 1.53 - no change
+  109 page is facing ⇧, confidence 8.22 - no change
+  110 page is facing ⇧, confidence 1.56 - no change
+  111 with existing rotation ⇨, page is facing ⇧, confidence 2.77 - no change
+  112 with existing rotation ⇨, page is facing ⇧, confidence 6.35 - no change
+  113 with existing rotation ⇨, page is facing ⇧, confidence 4.46 - no change
+  114 with existing rotation ⇨, page is facing ⇧, confidence 5.13 - no change
+  115 page is facing ⇩, confidence 1.24 - confidence too low to rotate
+  116 page is facing ⇩, confidence 1.27 - confidence too low to rotate
+  117 page is facing ⇧, confidence 0.61 - no change
+  118 page is facing ⇧, confidence 4.36 - no change
+  119 page is facing ⇩, confidence 0.82 - confidence too low to rotate
+  120 page is facing ⇧, confidence 1.14 - no change
+  121 page is facing ⇧, confidence 2.55 - no change
+  122 page is facing ⇧, confidence 1.54 - no change
+  123 page is facing ⇧, confidence 2.59 - no change
+  124 page is facing ⇩, confidence 0.61 - confidence too low to rotate
+  125 page is facing ⇧, confidence 1.42 - no change
+  127 page is facing ⇧, confidence 3.05 - no change
+  126 page is facing ⇧, confidence 3.17 - no change
+  128 page is facing ⇧, confidence 3.21 - no change
+  129 page is facing ⇧, confidence 0.29 - no change
+  130 page is facing ⇧, confidence 1.04 - no change
+  131 page is facing ⇧, confidence 0.08 - no change
+  132 page is facing ⇧, confidence 2.82 - no change
+  133 page is facing ⇧, confidence 2.89 - no change
+  134 page is facing ⇧, confidence 2.40 - no change
+  135 page is facing ⇧, confidence 3.50 - no change
+  136 page is facing ⇧, confidence 7.81 - no change
+  137 page is facing ⇧, confidence 4.37 - no change
+  138 page is facing ⇧, confidence 7.08 - no change
+  139 page is facing ⇧, confidence 4.63 - no change
+  135 [tesseract] lots of diacritics - possibly poor OCR
+  140 page is facing ⇧, confidence 3.53 - no change
+  141 with existing rotation ⇨, page is facing ⇧, confidence 3.03 - no change
+  139 [tesseract] lots of diacritics - possibly poor OCR
+  142 with existing rotation ⇨, page is facing ⇧, confidence 4.23 - no change
+  137 [tesseract] lots of diacritics - possibly poor OCR
+  143 with existing rotation ⇨, page is facing ⇧, confidence 4.89 - no change
+  144 page is facing ⇧, confidence 4.86 - no change
+  145 with existing rotation ⇨, page is facing ⇧, confidence 1.03 - no change
+  140 [tesseract] lots of diacritics - possibly poor OCR
+  146 with existing rotation ⇨, page is facing ⇧, confidence 3.58 - no change
+  147 page is facing ⇧, confidence 4.71 - no change
+  148 with existing rotation ⇨, page is facing ⇧, confidence 4.94 - no change
+  149 with existing rotation ⇨, page is facing ⇧, confidence 5.72 - no change
+  150 page is facing ⇧, confidence 3.41 - no change
+  151 page is facing ⇧, confidence 0.29 - no change
+  152 with existing rotation ⇨, page is facing ⇧, confidence 5.05 - no change
+  153 page is facing ⇧, confidence 0.67 - no change
+  154 page is facing ⇩, confidence 4.27 - confidence too low to rotate
+  155 page is facing ⇩, confidence 2.15 - confidence too low to rotate
+  156 page is facing ⇩, confidence 0.27 - confidence too low to rotate
+  157 page is facing ⇩, confidence 0.60 - confidence too low to rotate
+  158 page is facing ⇧, confidence 0.02 - no change
+  159 page is facing ⇧, confidence 3.29 - no change
+  163 page is facing ⇧, confidence 2.73 - no change
+  160 page is facing ⇧, confidence 5.01 - no change
+  164 page is facing ⇧, confidence 8.85 - no change
+  161 page is facing ⇧, confidence 10.75 - no change
+  165 page is facing ⇧, confidence 17.89 - rotation appears correct
+  162 page is facing ⇧, confidence 9.85 - no change
+  158 [tesseract] lots of diacritics - possibly poor OCR
+  166 page is facing ⇧, confidence 14.87 - rotation appears correct
+  167 page is facing ⇧, confidence 19.39 - rotation appears correct
+  168 page is facing ⇧, confidence 16.07 - rotation appears correct
+  169 page is facing ⇧, confidence 16.09 - rotation appears correct
+  170 page is facing ⇧, confidence 16.30 - rotation appears correct
+  161 [tesseract] lots of diacritics - possibly poor OCR
+  171 page is facing ⇧, confidence 15.65 - rotation appears correct
+  160 [tesseract] lots of diacritics - possibly poor OCR
+  172 page is facing ⇧, confidence 14.97 - rotation appears correct
+  173 page is facing ⇧, confidence 5.72 - no change
+  174 page is facing ⇧, confidence 2.75 - no change
+  175 page is facing ⇧, confidence 7.94 - no change
+  176 page is facing ⇧, confidence 7.79 - no change
+  177 page is facing ⇧, confidence 8.77 - no change
+  178 page is facing ⇧, confidence 11.33 - no change
+  179 page is facing ⇧, confidence 9.74 - no change
+  180 page is facing ⇧, confidence 4.21 - no change
+  181 page is facing ⇧, confidence 3.64 - no change
+  183 page is facing ⇧, confidence 3.93 - no change
+  182 page is facing ⇧, confidence 3.08 - no change
+  184 with existing rotation ⇨, page is facing ⇧, confidence 3.92 - no change
+  175 [tesseract] lots of diacritics - possibly poor OCR
+  177 [tesseract] lots of diacritics - possibly poor OCR
+  185 page is facing ⇧, confidence 4.43 - no change
+  178 [tesseract] lots of diacritics - possibly poor OCR
+  186 with existing rotation ⇨, page is facing ⇧, confidence 2.25 - no change
+  187 page is facing ⇧, confidence 3.64 - no change
+  188 page is facing ⇧, confidence 5.07 - no change
+  189 with existing rotation ⇨, page is facing ⇧, confidence 1.75 - no change
+  190 page is facing ⇧, confidence 5.02 - no change
+  192 page is facing ⇧, confidence 7.81 - no change
+  191 with existing rotation ⇨, page is facing ⇧, confidence 3.33 - no change
+  193 page is facing ⇧, confidence 9.00 - no change
+  194 page is facing ⇧, confidence 7.22 - no change
+  195 page is facing ⇧, confidence 10.73 - no change
+  196 page is facing ⇧, confidence 8.37 - no change
+  197 page is facing ⇧, confidence 10.99 - no change
+  198 with existing rotation ⇨, page is facing ⇧, confidence 5.69 - no change
+  199 with existing rotation ⇨, page is facing ⇧, confidence 5.37 - no change
+  200 with existing rotation ⇨, page is facing ⇧, confidence 1.76 - no change
+  201 with existing rotation ⇨, page is facing ⇧, confidence 2.00 - no change
+  202 with existing rotation ⇨, page is facing ⇧, confidence 6.40 - no change
+  203 with existing rotation ⇨, page is facing ⇧, confidence 4.88 - no change
+  204 page is facing ⇧, confidence 3.52 - no change
+  205 page is facing ⇧, confidence 3.78 - no change
+  206 with existing rotation ⇨, page is facing ⇧, confidence 5.57 - no change
+  207 with existing rotation ⇨, page is facing ⇧, confidence 3.99 - no change
+  208 with existing rotation ⇨, page is facing ⇧, confidence 5.00 - no change
+  209 page is facing ⇧, confidence 4.79 - no change
+  210 with existing rotation ⇨, page is facing ⇧, confidence 4.07 - no change
+  211 with existing rotation ⇨, page is facing ⇧, confidence 5.99 - no change
+  212 page is facing ⇧, confidence 8.39 - no change
+  213 with existing rotation ⇨, page is facing ⇧, confidence 6.42 - no change
+  214 page is facing ⇧, confidence 1.41 - no change
+  209 [tesseract] lots of diacritics - possibly poor OCR
+  215 with existing rotation ⇨, page is facing ⇧, confidence 2.94 - no change
+  216 page is facing ⇧, confidence 3.20 - no change
+  217 with existing rotation ⇨, page is facing ⇧, confidence 5.58 - no change
+  218 with existing rotation ⇨, page is facing ⇧, confidence 5.16 - no change
+  219 with existing rotation ⇨, page is facing ⇧, confidence 7.08 - no change
+  220 page is facing ⇧, confidence 4.74 - no change
+  221 with existing rotation ⇨, page is facing ⇧, confidence 2.21 - no change
+  222 page is facing ⇧, confidence 4.31 - no change
+  223 page is facing ⇧, confidence 1.56 - no change
+  224 page is facing ⇧, confidence 2.45 - no change
+  225 page is facing ⇩, confidence 1.72 - confidence too low to rotate
+  227 page is facing ⇩, confidence 0.48 - confidence too low to rotate
+  226 page is facing ⇩, confidence 2.45 - confidence too low to rotate
+  228 page is facing ⇩, confidence 1.87 - confidence too low to rotate
+  229 page is facing ⇧, confidence 0.38 - no change
+  230 page is facing ⇩, confidence 0.85 - confidence too low to rotate
+  226 [tesseract] lots of diacritics - possibly poor OCR
+  231 page is facing ⇩, confidence 2.04 - confidence too low to rotate
+  232 page is facing ⇧, confidence 0.45 - no change
+  233 page is facing ⇩, confidence 2.80 - confidence too low to rotate
+  234 page is facing ⇩, confidence 5.26 - confidence too low to rotate
+  235 page is facing ⇩, confidence 3.76 - confidence too low to rotate
+  236 page is facing ⇩, confidence 4.64 - confidence too low to rotate
+  237 page is facing ⇩, confidence 3.87 - confidence too low to rotate
+  238 page is facing ⇩, confidence 2.02 - confidence too low to rotate
+  239 page is facing ⇩, confidence 3.74 - confidence too low to rotate
+  240 page is facing ⇩, confidence 3.55 - confidence too low to rotate
+  241 page is facing ⇩, confidence 0.43 - confidence too low to rotate
+  242 page is facing ⇩, confidence 3.75 - confidence too low to rotate
+  244 page is facing ⇧, confidence 0.02 - no change
+  243 page is facing ⇩, confidence 1.25 - confidence too low to rotate
+  245 page is facing ⇧, confidence 0.49 - no change
+  246 page is facing ⇩, confidence 2.86 - confidence too low to rotate
+  247 page is facing ⇩, confidence 4.99 - confidence too low to rotate
+  248 page is facing ⇩, confidence 5.50 - confidence too low to rotate
+  249 page is facing ⇧, confidence 0.59 - no change
+  250 page is facing ⇧, confidence 4.97 - no change
+  251 page is facing ⇧, confidence 9.21 - no change
+  252 page is facing ⇧, confidence 12.07 - no change
+  253 page is facing ⇧, confidence 10.06 - no change
+  251 [tesseract] lots of diacritics - possibly poor OCR
+  254 with existing rotation ⇨, page is facing ⇧, confidence 10.94 - no change
+  255 page is facing ⇧, confidence 3.62 - no change
+  256 page is facing ⇧, confidence 6.18 - no change
+  257 page is facing ⇧, confidence 2.93 - no change
+  258 with existing rotation ⇨, page is facing ⇧, confidence 6.29 - no change
+  259 with existing rotation ⇨, page is facing ⇧, confidence 2.18 - no change
+  260 with existing rotation ⇨, page is facing ⇧, confidence 5.71 - no change
+  261 with existing rotation ⇨, page is facing ⇧, confidence 5.18 - no change
+  262 page is facing ⇧, confidence 2.64 - no change
+  263 page is facing ⇧, confidence 8.90 - no change
+  264 page is facing ⇧, confidence 6.08 - no change
+  265 with existing rotation ⇨, page is facing ⇧, confidence 6.89 - no change
+  266 page is facing ⇧, confidence 1.62 - no change
+  267 page is facing ⇧, confidence 7.39 - no change
+  268 with existing rotation ⇨, page is facing ⇧, confidence 3.60 - no change
+  269 page is facing ⇧, confidence 3.46 - no change
+  270 with existing rotation ⇨, page is facing ⇩, confidence 0.58 - confidence too low to rotate
+  271 page is facing ⇧, confidence 4.02 - no change
+  272 page is facing ⇧, confidence 1.24 - no change
+  273 page is facing ⇧, confidence 6.26 - no change
+  267 [tesseract] lots of diacritics - possibly poor OCR
+  274 page is facing ⇧, confidence 1.30 - no change
+  275 page is facing ⇧, confidence 2.59 - no change
+  276 with existing rotation ⇨, page is facing ⇧, confidence 7.23 - no change
+  277 with existing rotation ⇨, page is facing ⇧, confidence 6.70 - no change
+  278 with existing rotation ⇨, page is facing ⇧, confidence 4.28 - no change
+  279 page is facing ⇧, confidence 2.22 - no change
+  280 page is facing ⇩, confidence 1.75 - confidence too low to rotate
+  281 page is facing ⇩, confidence 0.79 - confidence too low to rotate
+  282 page is facing ⇧, confidence 5.79 - no change
+  283 page is facing ⇩, confidence 4.24 - confidence too low to rotate
+  284 page is facing ⇩, confidence 0.12 - confidence too low to rotate
+  285 page is facing ⇧, confidence 1.94 - no change
+  286 page is facing ⇧, confidence 0.13 - no change
+  287 page is facing ⇧, confidence 0.62 - no change
+  288 page is facing ⇩, confidence 1.10 - confidence too low to rotate
+  289 page is facing ⇧, confidence 4.19 - no change
+  290 page is facing ⇧, confidence 0.28 - no change
+  291 page is facing ⇧, confidence 3.28 - no change
+  292 page is facing ⇧, confidence 4.74 - no change
+  293 page is facing ⇧, confidence 1.94 - no change
+  294 page is facing ⇧, confidence 2.19 - no change
+  295 page is facing ⇧, confidence 0.65 - no change
+  296 page is facing ⇧, confidence 0.81 - no change
+  298 page is facing ⇧, confidence 1.41 - no change
+  297 page is facing ⇧, confidence 0.63 - no change
+  299 page is facing ⇧, confidence 6.07 - no change
+  300 page is facing ⇧, confidence 8.80 - no change
+  301 page is facing ⇧, confidence 4.54 - no change
+  302 with existing rotation ⇨, page is facing ⇧, confidence 5.66 - no change
+  303 with existing rotation ⇨, page is facing ⇧, confidence 1.11 - no change
+  304 page is facing ⇧, confidence 2.82 - no change
+  305 with existing rotation ⇨, page is facing ⇧, confidence 2.74 - no change
+  299 [tesseract] lots of diacritics - possibly poor OCR
+  306 with existing rotation ⇨, page is facing ⇧, confidence 5.14 - no change
+  301 [tesseract] lots of diacritics - possibly poor OCR
+  307 with existing rotation ⇨, page is facing ⇧, confidence 3.90 - no change
+  308 with existing rotation ⇨, page is facing ⇧, confidence 3.37 - no change
+  309 with existing rotation ⇨, page is facing ⇧, confidence 1.02 - no change
+  310 with existing rotation ⇨, page is facing ⇧, confidence 1.88 - no change
+  311 with existing rotation ⇨, page is facing ⇧, confidence 5.88 - no change
+  312 with existing rotation ⇨, page is facing ⇧, confidence 2.24 - no change
+  313 with existing rotation ⇨, page is facing ⇧, confidence 4.55 - no change
+  314 page is facing ⇧, confidence 5.64 - no change
+  315 with existing rotation ⇨, page is facing ⇩, confidence 1.18 - confidence too low to rotate
+  316 page is facing ⇧, confidence 4.05 - no change
+  317 page is facing ⇩, confidence 0.94 - confidence too low to rotate
+  318 page is facing ⇩, confidence 5.37 - confidence too low to rotate
+  319 page is facing ⇩, confidence 3.19 - confidence too low to rotate
+  320 page is facing ⇧, confidence 1.27 - no change
+  321 page is facing ⇧, confidence 0.97 - no change
+  323 page is facing ⇧, confidence 3.34 - no change
+  322 page is facing ⇩, confidence 1.21 - confidence too low to rotate
+  324 page is facing ⇧, confidence 2.94 - no change
+  325 page is facing ⇧, confidence 6.88 - no change
+  326 page is facing ⇧, confidence 7.99 - no change
+  323 [tesseract] lots of diacritics - possibly poor OCR
+  322 [tesseract] lots of diacritics - possibly poor OCR
+  325 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 326 pages with HocrParser
+Postprocessing...
+Set the Print flag on 21 annotations, as PDF/A requires
+Speculative PDF/A-2b conversion was not used: it contains 2 construct(s) pikepdf's validator does not check, so it could not be confirmed as PDF/A; using Ghostscript
+1 font is not embedded in the input file (Helvetica-Condensed-Black). PDF/A requires embedded fonts, so Ghostscript will substitute other fonts, which may change the appearance and size of the file. Use `--output-type pdf` to keep the fonts unchanged.
+Ghostscript substituted fonts without the style of the original, so the output loses that styling: Helvetica-Condensed-Black (replaced by NimbusSans-Regular, bold lost), Helvetica-Condensed-Black (replaced by NimbusSans-Regular, bold lost). Use `--output-type pdf` to keep the original fonts, or embed the fonts in the input file.
+Auto mode: produced PDF/A via Ghostscript
+The input's creation date has no time zone; assumed the local time zone (UTC+08:00). If the document was created elsewhere, run with the TZ environment variable set to that zone, e.g. TZ=Europe/Berlin.
+Image optimization did not improve the file - optimizations will not be used
+Image optimization ratio: 1.00 savings: -0.5%
+Total file size ratio: 0.91 savings: -9.7%
+Output file is a PDF/A-2b (auto mode achieved PDF/A)

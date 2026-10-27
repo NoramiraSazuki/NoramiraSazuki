@@ -1,0 +1,39 @@
+﻿Source Page,Section,Parameter,Value,Unit
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,Intercept,1993.261,
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,Slope,-36.755,
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,Start of line,"(0.0000 , 0.0000)",
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,End of line,"(0.0000 , 0.0000)",
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,Coefficient of determination,0.0000,
+16,RESULTS FROM HORNER ANALYSIS using Real time - Line,Number of points,0,
+16,RESULTS FROM HORNER ANALYSIS using Real time,Pressure at dt = 1 hour,1949.947,psia
+16,RESULTS FROM HORNER ANALYSIS using Real time,Extrapolated pressure,1993.261,psia
+16,RESULTS FROM HORNER ANALYSIS using Real time,Permeability-thickness (kh),1975.068,md.ft
+16,RESULTS FROM HORNER ANALYSIS using Real time,Effective permeability to oil (Ko),52.809,md
+16,RESULTS FROM HORNER ANALYSIS using Real time,Total skin factor (S),6.289,
+16,RESULTS FROM HORNER ANALYSIS using Real time,dP skin (constant rate),200.733,psi
+16,RESULTS FROM HORNER ANALYSIS using Real time,Radius of investigation,668.965,ft
+16,TEST PARAMETERS (Test type - Constant rate buildup),Flow rate at surface (q),763.200,STB/day
+16,TEST PARAMETERS (Test type - Constant rate buildup),Pressure prior to shut-in (p(dt=0)),1546.900,psia
+16,TEST PARAMETERS (Test type - Constant rate buildup),Equivalent production time (Tp),14.090,hr
+16,TEST PARAMETERS (Test type - Constant rate buildup),Time when dt=0,0.0000,hr
+16,RESERVOIR CONSTANTS,Formation thickness (h),37.400,ft
+16,RESERVOIR CONSTANTS,Average formation porosity (0),0.2310,
+16,RESERVOIR CONSTANTS,Well radius (rw),0.3540,ft
+16,RESERVOIR CONSTANTS,Water saturation (Sw),0.5220,
+16,RESERVOIR CONSTANTS,Gas saturation (Sg),0.0000,
+16,PRODUCED FLUID PROPERTIES,Oil gravity,39.200,API
+16,PRODUCED FLUID PROPERTIES,Gas gravity,1.014,sp grav
+16,PRODUCED FLUID PROPERTIES,Gas-oil ratio,437.000,scf/STB
+16,PRODUCED FLUID PROPERTIES,Produced WOR,0.0000,
+16,PRODUCED FLUID PROPERTIES,Water salinity,10000.000,ppm
+16,PRODUCED FLUID PROPERTIES - FVF (V/V),OIL - Bo,1.300,RB/STB
+16,PRODUCED FLUID PROPERTIES - FVF (V/V),WATER - Bw,1.000,RB/STB
+16,PRODUCED FLUID PROPERTIES - FVF (V/V),GAS - Bg,3.00E-03,ft3/scf
+16,PRODUCED FLUID PROPERTIES - VISCOSITY,OIL - Uo,0.4500,cp
+16,PRODUCED FLUID PROPERTIES - VISCOSITY,WATER - Uw,0.3000,cp
+16,PRODUCED FLUID PROPERTIES - VISCOSITY,GAS - Ug,0.0200,cp
+16,PRODUCED FLUID PROPERTIES - COMPRESSIBILITY,OIL - Co,3.50E-06,psi-1
+16,PRODUCED FLUID PROPERTIES - COMPRESSIBILITY,WATER - Cw,3.50E-06,psi-1
+16,PRODUCED FLUID PROPERTIES - COMPRESSIBILITY,GAS - Cg,0.0200,psi-1
+16,PRODUCED FLUID PROPERTIES - COMPRESSIBILITY,ROCK - Cf,3.50E-06,psi-1
+16,PRODUCED FLUID PROPERTIES - COMPRESSIBILITY,TOTAL - Ct,7.00E-06,psi-1

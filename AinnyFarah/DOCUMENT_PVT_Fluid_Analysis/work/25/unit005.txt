@@ -1,0 +1,12 @@
+Pressure-Volume Relation at 224°F
+Pressure, PSIG | Relative Volume (1)
+2500 | 0.9956
+2400 | 0.9967
+2300 | 0.9978
+2200 | 0.9989
+2154 | 1
+2145 | 1.0021
+2132 | 1.0043
+2118 | 1.0063
+(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+--- OCR ---

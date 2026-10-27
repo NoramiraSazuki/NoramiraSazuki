@@ -1,0 +1,27 @@
+HYDROCARBON ANALYSES OF SEPARATOR GAS
+Separator Gas
+Component | Mol Percent | GPM
+Hydrogen Sulfide | 0
+Carbon Dioxide | 66.98
+Nitrogen | 0.51
+Methane | 30.11
+Ethane | 1.21 | 0.324
+Propane | 0.54 | 0.149
+Iso-Butane | 0.16 | 0.052
+N-Butane | 0.12 | 0.038
+Iso-Pentane | 0.06 | 0.022
+N-Pentane | 0.03 | 0.011
+Hexanes | 0.03 | 0.014
+Heptanes | 0.03 | 0.014
+Octanes | 0.22 | 0.1
+Nonanes | Trace | 0
+Decanes | Trace | 0
+Undecanes plus | 0 | 0
+100 | 0.724
+Properties of Heptanes plus
+Molecular weight | 103(assumed)
+Calculated separator gas gravity (air = 1.000) = 1.274
+Calculated gross heating value for separator gas = 332 BTU
+per cubic foot of dry gas at 14.73 psia and 60°F
+Primary separator gas collected @ 295 psig and 62°F
+--- OCR ---

@@ -1,0 +1,48 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "Dulang_A29",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a29-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 172,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 26: 'FLOW COUPLING' @ 172 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a29-02",
+      "type": "packer",
+      "name": "PACKER",
+      "topMd": 58,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 26: 'PACKER' @ 58 (read identically in OCR passes ab; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

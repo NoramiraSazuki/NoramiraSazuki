@@ -1,0 +1,20 @@
+2.0
+Summary of Validation Data
+Separator Gas
+Free
+Sample | Original | Transferred into | Separator | Laboratory opening | Liquid | Air
+Number | Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | Temp | Drained | Content
+(psig) | (°F) | (psig) | (°F) | (cm3) | (Mole%)
+A25.02 | 2942.0 | TS 75402 | 180.0 | 104.0 | 215.0 | 124.0 | 0.0 | 0.008
+A25.04 | 2729.0 | TS 74906 | 180.0 | 104.0 | 212.0 | 124.0 | 0.0 | 0.054
+Separator Liquid
+Laboratory | Total water
+Sample | Original | Transferred into | Separator | Bubble point | recovered | Sample
+Number | Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | Temp | from sample | Volume
+(psig) | (°F) | (psig) | (°F) | side (cm3) | (cm3)
+A25.01 | 819088.0 | TS 93705 | 180.0 | 104.0 | *5570 | 104.0 | 5.0 | 50.0
+A25.03 | 820016.0 | TS 5002 | 180.0 | 104.0 | 110.0 | 104.0 | 5.0 | 500.0
+Notes
+*The saturation pressure for separator liquid sample from Cyl# 819088 was found to be higher than the reported
+separator pressure. Sample requested to be disposed by PCSB representative without further analysis
+--- OCR ---

@@ -1,0 +1,96 @@
+﻿CSV File,Source Page,Row Key,Column,Value As Read,Issue
+T01_Table1_Production_Test_Summary.csv,14,1A (b),ZONE / INTERVAL,(High Rate test),Printed once spanning ZONE and INTERVAL columns; repeated in both cells
+T01_Table1_Production_Test_Summary.csv,14,1A (b),AVG RATE,3091 @ 69/64,Choke printed as 69/64; narrative (p.7) says 1-inch choke (=64/64). Value kept as printed - verify
+T02_Table2_Production_Test_Sample_Summary.csv,15,TEST 1,ATMOSPHERIC - OIL (600 CC) BOTTLE,-489098; - 8554,Printed as '-489098' over '- 8554'; leading dashes may be list marks or a number range - meaning unclear
+T02_Table2_Production_Test_Sample_Summary.csv,15,TEST 1,PRESSURIZED - GAS (20 LTR) BOTTLE,15835 H; 15834 H; 15839 H; 68746 H,Printed with braces pairing 15835/15834 and 15839/68746; grouping not preserved in CSV
+T02_Table2_Production_Test_Sample_Summary.csv,15,TEST 1A / TEST 2A,multiple,NONE TAKEN,Printed once as an arrow spanning several columns; repeated into each spanned cell
+T02_Table2_Production_Test_Sample_Summary.csv,15,TEST 2,ATMOSPHERIC - OIL (600 CC) BOTTLE,8488N361,Typed as shown; character after 8488 could be N or H - verify
+T07_D1_Test1_Completion_Data.csv,25,Date,Value,APRIL. 8. 1990,Handwritten day digit unclear (8 assumed from shape); verify
+T07_D1_Test1_Completion_Data.csv,25,2,Well loading fluid,NACL (BRINE),Handwriting; second letters could read 'NALL' - verify
+T07_D1_Test1_Completion_Data.csv,25,4,Type of perforating gun,SCHLUMBERGER ENERGET,Handwritten as shown; may be intended 'ENERJET' - not corrected
+T07_D1_Test1_Completion_Data.csv,25,9 / 13,Casing Shoe / Depth of packer,1565 / 1342,Pre-printed unit is (ft) and was not changed on the form; values look like metres - kept as printed
+T07_D1_Test1_Completion_Data.csv,25,17,Depth of tailpipe,1345,Handwritten middle digits faint - verify
+T08_D1A_Test1_Perforation_WHP_Record.csv,26,row 4,Time (Local),5.54,Handwritten last digit looks like 9 ('5.59'); 5.54 assumed from minute-by-minute sequence 5.51-5.56 - verify
+T08_D1A_Test1_Perforation_WHP_Record.csv,26,5.59,WHP (PSIG),150,Handwritten '1 50' with a gap; out of trend (100 before / 105 after) - could be 105 - verify
+T08_D1A_Test1_Perforation_WHP_Record.csv,26,5.59,WHP (PSIG),150,Cross-check: D-5 data sheet p.27 records 100 psig at 5:59 and 105 at 6:00
+T09_D5_Test1_Production_Test_Data_Sheet.csv,31,12:30,WELLHEAD PRESSURE PSIG,457,Handwritten middle digit could be 5 or 8 (457/487) - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,31,10:45,CHOKE 64TH,32A,Handwritten '32A' while D-12 printout shows choke changed to 64/64 at 10:40 - kept as written
+T09_D5_Test1_Production_Test_Data_Sheet.csv,31,11:10,REMARKS,"DREASE CHK TO 1/2"" A.",Spelled as written (likely 'DECREASE')
+T09_D5_Test1_Production_Test_Data_Sheet.csv,32,1530,RATES OIL STB/D,267.8,First digit overwritten/unclear (could be 367.8) - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,32,1600,RATES OIL STB/D,382.1,Third digit unclear ('38? 1') - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,32,1600,CUM OIL STB,131.6,Last digit partly cut by cell line - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,33,1700,RATES OIL STB/D,911.52 (?),Writer marked the value with '(?)' on the original sheet
+T09_D5_Test1_Production_Test_Data_Sheet.csv,33,1830,GOR,392,Last digit faint - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,34,2200,CHOKE 64TH,221,Handwritten; could be a scribbled '24P' (rows above/below are 24P) - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,34,after 0200,GAS MSCF/D,q̄ = 333.6 Mscf/d,Small faint handwritten note; digits uncertain
+T09_D5_Test1_Production_Test_Data_Sheet.csv,35,0206,WELLHEAD PRESSURE PSI,510,Handwritten middle digit looks like 1 or 7 (510/570); 510 fits sequence - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,35,0207,CASING PRESSURE PSI (BHP),1712,Handwriting resembles 1772; D-12 printout gives 1711.87 at 02:07 so 1712 used - verify
+T09_D5_Test1_Production_Test_Data_Sheet.csv,37,1000,CASING PRESSURE PSI (BHP),1978,Last digit could read 2 or 8; D-12 printout gives 1978.10 at 10:00 - verify
+T10_D7_Test1_Oil_Rate_Calculations.csv,40,01:30,METER READING BBLS,2206.5,Lower than previous reading 2216.8 although cumulative; second digit may be 3 (2236.5?) - verify
+T11_D8_Test1_Gas_Rate_Calculations.csv,41,20:30,REMARKS SG,1.014,Overwritten by the 'D-8' page stamp - partly obscured
+T13_D10_Test1_Gas_Sample_Field_Analysis.csv,44,all rows,6 iC4 / 6 nC4,(various),iC4 and nC4 are written very small in a hand-split cell; digits less certain than other columns - verify against original
+T14_D11_Test1_Wellbore_Gradient_Data.csv,45,header,BOTTOM-HOLE TEMPERATURE,222.8 °F,Faint handwriting - verify
+T14_D11_Test1_Wellbore_Gradient_Data.csv,45,10:30,PRESSURE (psi),1971.97,Last digit unclear (7 or 9); D-12 shows 1971.97 at 10:30
+T15_D13_Test1_Production_Test_Summary.csv,59,16,Initial reservoir pressure,1992.3 @ 1420 (1999.4 psia @ 1427.0 m),Bracketed hand note faint; Table 1 (p.14) gives Pi 1999.6 @ 1426.2 m - verify '1999.4' / '1427.0'
+T15_D13_Test1_Production_Test_Summary.csv,59,Date,Value,04/09/90,Written as 04/09/90 (MM/DD/YY = April 9 1990) - format as written
+T16_D15_Test1_Separator_Sample_Data.csv,60,Container No.,Liquid Sample No. 2,8554-OSBAN45,Handwriting unclear after '8554-'; Table 2 lists '- 8554' only - verify
+T16_D15_Test1_Separator_Sample_Data.csv,60,Container No.,Gas Sample No. 1 / 2,S6-15835H; S6-15834H / S6-15839H; S6-68746H,Final characters unclear ('4' vs 'H'); read with reference to Table 2 (15835 H / 15834 H / 15839 H / 68746 H) - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,62,header,PERFORATIONS,1384.5-1387 m / 1325.0-1330 m,Second interval as written on sheets (clearest on p.63) differs from Table 1 / narrative (1372.5-1375.5 m) - kept as written
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,62,1459,REMARKS,PERFORATE 1348.5 - 1387m,Written '1348.5' (digits possibly transposed from 1384.5) - kept as written
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,62,1500,REMARKS,"OPEN WELL ON 1/2 /10"" ADJ",Choke fraction written as '1/2' over '10' - unclear
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,68,2145,WELLHEAD PRESSURE PSI,642,Last digit unclear (642/643) - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,69,2330,REMARKS,COMMENCE ACQUISITION OF BHP,Written 'BHD' on sheet; read as BHP
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,69,0015,RATES OIL STB/D,1360.2,Cramped (could be 1360.32 as on D-7 p.73) - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,70,0115-0300,WELLHEAD PRESSURE PSI,429 / 428,Written '4?8' with cramped middle digit; read as 428/429 - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,70,0145,CUM OIL STB,127.4,First digit cramped ('1?7.4') - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,71,0345,GOR,324,Handwritten '3?4' - verify
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,71,header,GAS MSCF / GAS MSCF/D,(header),Column headers annotated by hand (possibly 'K' prefix / unit change); unclear
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,71,0400 / 0430,RATES OIL STB/D,1359.36 / 1419.84,Second digit cramped on D-5; values confirmed from D-7 oil rate sheet p.74
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,72,after 0835,GOR AVE,328 SCF/STB,Written '- 328' (dash before value); Table 1 gives GOR 328 for Test 1A(b)
+T17_D5_Test1A_Production_Test_Data_Sheet.csv,72,0551,REMARKS,EVAL. WELL POTENTIAL (H.O),Bracketed text unclear ('(H.O)' / '(H2O)')
+T19_D8_Test1A_Gas_Rate_Calculations.csv,76,00:15-02:45,Sheet Date,9-APRIL-90,Rows after 24:00 are on 10 April but sheet header says 9-APRIL-90 (kept as written)
+T19_D8_Test1A_Gas_Rate_Calculations.csv,76,02:30,REMARKS SG,1.005,Overwritten by 'D-8' page stamp - partly obscured
+T20_D9_Test1A_Liquid_Sample_Field_Analysis.csv,80,05:30,SHAKE OUT OIL,0,Written '0' in OIL column (previous sheet shows 100) - kept as written
+T20_D9_Test1A_Liquid_Sample_Field_Analysis.csv,80,08:30,pH,7.2 (WATER 8.4 ppg),Bracketed note small; '8.4' and unit 'ppg' uncertain
+T22_D13_Test1A_Production_Test_Summary.csv,82,21,Remarks (permeability calcs),(handwritten formulas),Small cramped handwriting; individual factors (e.g. 1.28 vs 1.26; 1.5 / 3 / 11 thickness; 1945 vs 1545) uncertain - verify against original
+T23_D1_Test2_Completion_Data.csv,84,11,Tubing - Inside Diameter,2.992,Handwriting overwritten ('2.99?') - read as 2.992 as on Test 1 form
+T24_D1A_Test2_Perforation.csv,85,11,Remarks,(as transcribed),Faint handwriting; words 'RESPONSE' / 'CUSHION' read from context - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,87,2204 / 2205,DATE TIME,2204 / 2205,Time digits faint at left edge; inferred from sequence
+T25_D5_Test2_Production_Test_Data_Sheet.csv,88,all rows,DATE TIME,2210-2400,Time column very faint on scan; times confirmed by matching casing-pressure values to D-12 printout (11-APR-90 22:10-24:00)
+T25_D5_Test2_Production_Test_Data_Sheet.csv,89,0015,CASING PRESSURE PSI,1552.5,Handwritten '155?.5' (third digit unclear); D-12 printout gives 1549.96 at 00:15 - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,89,0102 / 0130 / 0302-0310,DATE TIME,(as transcribed),Time column very faint; minutes partly inferred from sequence - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,90,0500,CASING PRESSURE PSI,1722.4,Written '17224' without visible decimal point; D-12 gives 1722.37 at 05:00
+T25_D5_Test2_Production_Test_Data_Sheet.csv,90,0315,WELLHEAD PRESSURE PSI,25,First digit unclear (25 / 35)
+T25_D5_Test2_Production_Test_Data_Sheet.csv,91,0520,CASING PRESSURE PSI,1641.0,Handwritten '16?1.0' (could read 1691.0); D-12 gives 1640.95 at 05:20
+T25_D5_Test2_Production_Test_Data_Sheet.csv,92,0650 / 0651 / 0652 / 0701,CASING PRESSURE PSI,1735.0 / 1708.0 / 1732.9 / 1504,Kept as written but differ from D-12 printout (1732.93 / 1706.92 / 1671.59 / 1449.29) - possible recording lag or misread
+T25_D5_Test2_Production_Test_Data_Sheet.csv,92,0703,CASING PRESSURE PSI,1386.4,Third digit overwritten ('138?.4'); D-12 gives 1386.43
+T25_D5_Test2_Production_Test_Data_Sheet.csv,93,0717,CASING PRESSURE PSI,1318.4,Possibly '1384' digits transposed; D-12 printout gives 1384.40 at 07:17 - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,93,footnote,*,AN ESTIMATE BASED ON STEADY STATE FLOW AND 7.6 md,Very faint; '7.6 md' uncertain
+T25_D5_Test2_Production_Test_Data_Sheet.csv,94,0745,CASING PRESSURE PSI,1646.8,First digits overwritten; D-12 gives 1646.82 at 07:45
+T25_D5_Test2_Production_Test_Data_Sheet.csv,94,0846,CASING PRESSURE PSI,1157.5,Kept as written; D-12 gives 1354.20 at 08:46 (1157.5 may belong to a later reading) - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,94,0930,GAS MSCF/D,3507.6,Column header has a hand-written 'K' - unit may be MSCF/D or SCF/D; GOR 21010 suggests gas rate value is consistent with 167 STB/D x 21010 = 3509 MSCF/D
+T25_D5_Test2_Production_Test_Data_Sheet.csv,95,1130 / 1200,GOR,22925 / 14693,Handwritten; 14693 is out of trend (others 20890-29770) - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,95,1000,WELLHEAD PRESSURE PSI,879,First digits overwritten - verify
+T25_D5_Test2_Production_Test_Data_Sheet.csv,95,1200,GOR,14693,D-7 oil rate sheet (p.96) gives GOR 21478 at 12:00 - D-5 value likely mis-written or misread
+T26_D7_Test2_Oil_Rate_Calculations.csv,96,1300,Δ BBLS,* 3.107,Asterisk refers to footnote; footnote first number written '2.376' (or '3.376') - verify
+T27_D8_Test2_Gas_Rate_Calculations.csv,97,11:00,9 SUPERCOMPRESSIBILITY Fpv,1.042,Out of sequence with neighbours (1.0229 / 1.0254) - possibly '1.0242'; kept as written
+T28_D9_Test2_Liquid_Sample_Field_Analysis.csv,98,water sample row,10 T (°F),8.8 (written outside table edge),Value written past right edge of form (cut off); meaning unclear - possibly water density (ppg) as on Test 1A sheet
+T29_D10_Test2_Gas_Sample_Field_Analysis.csv,99,12:00,3 C1,"73,216",First digit overwritten ('7' over another digit) - verify
+T30_D13_Test2_Production_Test_Summary.csv,107,15 / 21,Remarks,NO BUILDUP WAS RUN,Handwriting reads 'NO BUILDING WAS RUN'; interpreted as 'BUILDUP'
+T30_D13_Test2_Production_Test_Summary.csv,107,21,Estimated average K formula,(as transcribed),Formula factors partly cut at page edge (e.g. 0.52 / 1.27 / 1170.5) - verify
+T31_D15_Test2_Separator_Sample_Data.csv,108,Gas Rate,Liquid/Gas Sample No. 1,3.45406,Written as 3.45406 although unit is MSCF/D (D-8 gives ~3454 Mcf/D) - likely MMSCF/D; kept as written
+T31_D15_Test2_Separator_Sample_Data.csv,108,header,Initial Reservoir Pressure,1700.1,Written '1?00.1' (first digits overwritten); D-13 p.107 gives 1700.1
+T32_D5_Test2A_Production_Test_Data_Sheet.csv,110,1740,WELLHEAD PRESSURE PSI,1365,Faint; could be 1365 or 1355 - verify
+T32_D5_Test2A_Production_Test_Data_Sheet.csv,111,1845,REMARKS / CHOKE,"DECREASE CHOKE TO 1/2"" ADJ / 48A",Remark says 1/2 in (=32/64) but choke column written 48A; remark word may be 'INCREASE' - kept as written
+T32_D5_Test2A_Production_Test_Data_Sheet.csv,114,header note,REMARKS,q (E-6; K = 7.4 md; Pwf = 1048 psi) = 18 BPD,Very small handwriting - verify
+T32_D5_Test2A_Production_Test_Data_Sheet.csv,114,0300,GOR,7426,Overwritten ('7?26') - verify
+T32_D5_Test2A_Production_Test_Data_Sheet.csv,116,0630,(whole row),separate sheet,Page 116 is a separate one-row sheet repeating the 0630 shut-in with different cum. oil (261.1 vs 255.3 on p.115) and no water/gas cum. Both rows kept; not merged - verify which is final
+T33_D7_Test2A_Oil_Rate_Calculations.csv,117,(0015),DATE TIME,(0015),Time cell blank on original (row follows '13/04/90' line); 0015 inferred from 15-min Δ time and D-5 p.114
+T33_D7_Test2A_Oil_Rate_Calculations.csv,117,2345 / 2400,METER READING BBLS,2745.57 / 2755.41,Middle digits faint; consistent with Δ BBLS - verify
+T33_D7_Test2A_Oil_Rate_Calculations.csv,118,header,Sheet Date (as written),13-4-90,Header date written very faintly ('1?-4-9?') - read as 13-4-90 from sequence
+T34_D8_Test2A_Gas_Rate_Calculations.csv,119,0230 / 0300,REMARKS SG,1.100,Overwritten by 'D-8' page stamp / cut at page bottom - partly obscured
+T34_D8_Test2A_Gas_Rate_Calculations.csv,119,0300,(whole row),as transcribed,Last row partly cut at page bottom - verify
+T35_D9_Test2A_Liquid_Sample_Field_Analysis.csv,121,00:15,3 SHAKE OUT OIL,97,Handwritten '9?' (97 assumed with 3% water) - verify
+T36_D10_Test2A_Gas_Sample_Field_Analysis.csv,122,19:00,3 C2,"7,775",Second digit faint - verify
+T37_D13_Test2A_Production_Test_Summary.csv,123,21,Remarks (PLT split),31.2% / 68.8% / 239.0 / 526.9 / 1835.5,Small handwriting; second percentage digit unclear (68.8 inferred so total = 100%) - verify
+T37_D13_Test2A_Production_Test_Summary.csv,123,17,Final flowing pressure,1040 @ 1245,Written '104?' - last digit unclear (1040/1042)

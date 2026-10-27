@@ -1,0 +1,73 @@
+For Internal Use - For Internal Distribution Only
+Latest Update: Sep 2023 by Pravin Nair                           |        |                                                       F B _ S3
+VELL DULANG A-14
+COMPLETION SCHEMATIC
+WELL ID                                          : DULANG A-14                                      CASING                                       :       SIZE [WEIGHT           GRADE DEPTH (m]
+LOCATION                                 > DULANG                                                                                   >| ise" | e786 | K-66 || 8H
+RIG                                          > GAIT3                                                                                           13a" | 64.800 | K-56 || 1202
+X-MAS TREE                               :  IKS/TIX, DUAL, 5M                                                                             95/e" | #440 °° &2| N-BO | | 2528
+PACKER FLUID                            : 9.3 ppg 15% NaCl, 0.2% Biocide, 2% Ox
+2% Corrosion Inhibitor.                       TUBING                                   : 2-7/8" 6.4 PPF 13Cr FOX
+PBTD                                     : 2967.4 m-mdthf
+RTE to TUBING HANGER             : 414.52m
+MAXIMUM DEVIATION                : 68DEG
+DATE OF COMPLETION                  :         47-Aug-10
+HOTE: All depths in ft-MDTHF to top o
+CL
+— | -            DEPTH
+—————             m MD THF
+— Th   |
+Status        SHORT STRING           MIN IN (in)            em                    [=      =                          COMPLETION LONG STRING     MIN ID (INCH)        STATUS
+2-7/8" TRSSV            2.313                142.05                | ea tg                   153.97         2-7/8" TRSSV                         2.313
+a     —
+=     |
+|              Ht
+|              |
+|
+7” i                   4211.44            2-7/8" X- Nipple                   2.313
+2-7/8" X- Nipple            2.313                                             =      rT      |
+im eee
+————              4225.61         9-5/8" BHD Dual Hyd. Pac           2.38
+2-7/8" XN-NIPPLE                 2.25                   4228.63                   |       -     i.                        4310.95          2-7/8" XN-NIPPLE                         2.25
+men
+2-7/8" POP ASY           2.275               1229.73                     i      i      |             1312.05        2-7/8" Mule Shoe                     2.444
+2-7/8" Perforated Pup Joint       2.444               4230.01                |      =                             1312.25        EOT
+2-7/8" Bull plug               -                   1231.26                      Tl
+9-5/8" VTA Packer          5.00                1323.64              ——              =
+=       1354-1360
+SCREEN           8.25                           Ey          od                                  B-SAND
+9-5/8" AWD Permanent             5.00                1363.1                —              —
+SUMP PACKER                                                                   |                       |
+|
+TQC: 2284m-MDTHF |
+CEMENT RETAINER                                 2299.0                                       |
+cE Li
+GUIB UNI-XXVII              2.441                2306.0                 |
+DUAL HYD PKR                                                                            _
+;        LL]
+D' NO-GO NIPPLE                                                                nz                    2315.8            WPB-2DE' SSD                  2.312
+at)
+—_— =
+WIL ENTRY GUIDE                                                             | ~ =                     2317.5
+~~   /        |                                   BLAST JOINT                    2.441
+E-7                                               LS          zZ                      2362.5
+2332-2357                           By
+)                       |
+|       |
+/
+H
+          1                        2341.4             WP1' NIPPLE                    2.312
+             2375.9             CENTRALIZER                   2.441
+                                  2378.1          LOC. SEAL ASSY                2.441
+GUIB MAGNUM              4.000                2378.9                                        |
+HT PERM. PKR                                                                            — |             2381.0           SEAL BORE EXT                 4.000
+=           |
+|          rl                      2380.6           D' NO-GO NIPPLE                 2.250
+SAND : E-12/13                                                   L       (=              2391.3                   WEG                         2.441
+248.7-2486.9 m-MDTHF                                        =      —
+TD @ 2537.9m-MDTHF
+LAST ENTRY                : 19 Jun 2016
+Open                                                                                                                             TYPE OF JOB               > A-14S : MIT
+UPDATED BY               : Wong Kian Wai
+DATE                          :4 Feb 2018
+Jan/2013

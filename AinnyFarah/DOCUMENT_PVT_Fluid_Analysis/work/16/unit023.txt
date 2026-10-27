@@ -1,0 +1,43 @@
+page19
+12.0 | 9.0 | 9.0 | 9.0 | 6.0 | 3.0
+Data Used in Gas Compositional Calculations | Data Used in Liquid Compositional Calculations
+Component | Mole Weight | Density | Component | Mole Weight | Density | Component | Mole Weight | Density | Component | Mole Weight | Density
+(g mol-1) | (g cm-3 at 60°F) | (g mol-1) | (g cm-3 at 60°F) | (g mol-1) | (g cm-3 at 60°F) | (g mol-1) | (g cm-3 at 60°F)
+Hydrogen | * | 2.0159 | N/A | 33DMC5 | * | 100.2 | 0.69541368516585 | Hydrogen | * | 2.016 | N/A | Undecanes | *** | 147.0 | 0.789
+Oxygen/(Argon) | ** | 31.999 | 1.1409739546443 | Cyclohexane | * | 84.16 | 0.78272751375872 | Hyd. sulphide | ** | 34.08 | 0.80064 | Dodecanes | *** | 161.0 | 0.8
+Nitrogen (Corrected) | ** | 28.013 | 0.8086019778383 | 2MC6/23DMC5 | * | 100.2 | 0.69166738245163 | Carbon Dioxide | ** | 44.01 | 0.8172 | Tridecanes | *** | 175.0 | 0.811
+Methane | ** | 16.043 | 0.29970421713799 | 11DMCYC5/3MC6 | * | 99.195 | 0.72528420547394 | Nitrogen | ** | 28.0134 | 0.8086 | Tetradecanes | *** | 190.0 | 0.8220000000000001
+Carbon Dioxide | ** | 44.01 | 0.81720348887016 | t13DMCYC5 | * | 98.19 | 0.75275709204492 | Methane | ** | 16.043 | 0.2997 | Pentadecanes | *** | 206.0 | 0.8320000000000001
+Ethane | ** | 30.07 | 0.35583881700794 | c13DMCYC5/3EC5 | * | 99.195 | 0.72618331812535 | Ethane | ** | 30.07 | 0.35584 | Hexadecanes | *** | 222.0 | 0.839
+Hydrogen Sulphide | ** | 34.08 | 0.800639835803 | t12DMCYC5 | * | 98.19 | 0.75535452859345 | Propane | ** | 44.097 | 0.50648 | Heptadecanes | *** | 237.0 | 0.847
+Propane | ** | 44.097 | 0.50648014668206 | Heptanes (nC7) | * | 100.2 | 0.6875 | i-Butane | ** | 58.123 | 0.56231 | Octadecanes | *** | 251.0 | 0.852
+i-Butane | ** | 58.123 | 0.5623050521943 | 22DMC6 | * | 114.23 | 0.69940974139436 | n-Butane | ** | 58.123 | 0.58343 | Nonadecanes | *** | 263.0 | 0.857
+n-Butane | ** | 58.123 | 0.5834441896431 | MCYC6 | * | 98.19 | 0.77403609146172 | i-Pentane | ** | 72.15 | 0.6238 | Eicosanes | *** | 275.0 | 0.862
+Neo-Pentane | * | 72.15 | 0.59681099772745 | ECYC5 | * | 98.19 | 0.77043964085606 | n-Pentane | ** | 72.15 | 0.63049 | Heneicosanes | *** | 291.0 | 0.867
+i-Pentane | ** | 72.150 | 0.62379436741044 | 223TMC5/24&25DMC6 | * | 114.23 | 0.70603653463997 | Hexanes | ** | 86.177 | 0.6634 | Docosanes | *** | 305.0 | 0.872
+n-Pentane | ** | 72.150 | 0.63045779117148 | ctc124TMCYC5 | * | 112.21 | 0.75105876814781 | Me-cyclo-pentane | * | 84.16 | 0.7533 | Tricosanes | *** | 318.0 | 0.877
+22DMC4 | * | 86.18 | 0.65285568633226 | ctc123TMCYC5 | * | 112.21 | 0.75735255670771 | Benzene | * | 78.11 | 0.882 | Tetracosanes | *** | 331.0 | 0.881
+23DMC4/CYC5 | * | 78.16 | 0.71294638186843 | Toluene | * | 92.14 | 0.87343799014582 | Cyclo-hexane | * | 84.16 | 0.7827 | Pentacosanes | *** | 345.0 | 0.885
+2MC5 | * | 86.18 | 0.6571514467779 | Octanes (nC8) | * | 114.23 | 0.70630293838853 | Heptanes | ** | 100.204 | 0.6874 | Hexacosanes | *** | 359.0 | 0.889
+3MC5 | * | 86.18 | 0.66824050281201 | E-Benzene | * | 106.17 | 0.87353789155153 | Me-cyclo-hexane | * | 98.19 | 0.774 | Heptacosanes | *** | 374.0 | 0.893
+Hexanes (nC6) | * | 86.18 | 0.66314553112066 | M/P-Xylene | * | 106.17 | 0.86714420158592 | Toluene | * | 92.14 | 0.8734 | Octacosanes | *** | 388.0 | 0.896
+22DMC5 | * | 100.20 | 0.68142748836608 | O-Xylene | * | 106.17 | 0.88402753915136 | Octanes | ** | 114.231 | 0.7061 | Nonacosanes | *** | 402.0 | 0.899
+M-C-Pentane | * | 84.16 | 0.75325659907349 | Nonanes (nC9) | * | 128.26 | 0.72118824783972 | Ethyl-benzene | * | 106.17 | 0.8735 | Triacontanes | *** | 416.0 | 0.902
+24DMC5 | * | 100.20 | 0.67573310824046 | Decanes | *** | 134.0 | 0.778 | Meta/Para-xylene | * | 106.17 | 0.8671 | Hentriacontanes | *** | 430.0 | 0.906
+223TMC4 | * | 100.20 | 0.69471437532586 | Undecanes | *** | 147.0 | 0.789 | Ortho-xylene | * | 106.17 | 0.884 | Dotriacontanes | *** | 444.0 | 0.909
+Benzene | * | 78.11 | 0.88202951103711 | Dodecanes | *** | 161.0 | 0.8 | Nonanes | ** | 128.258 | 0.7212 | Tritriacontanes | *** | 458.0 | 0.912
+1-2-4-T-M-benzene | * | 120.19 | 0.8797 | Tetratriacontanes | *** | 472.0 | 0.914
+Decanes | ** | 142.285 | 0.7334 | Pentatriacontanes | *** | 486.0 | 0.917
+Data Source Refs
+* ASTM Data Series Publication DS 4B (1991) - Physical Constants of Hydrocarbon and Non-Hydrocarbon | Data Source Refs
+Compounds
+* ASTM Data Series Publication DS 4B (1991) - Physical Constants of Hydrocarbon and Non-Hydrocarbon
+** GPA Table of Physical Constants of Paraffin Hydrocarbons and Other Components of Natural Gas | Compounds
+GPA 2145-96
+** GPA Table of Physical Constants of Paraffin Hydrocarbons and Other Components of Natural Gas
+*** Journal of Petroleum Technology, Nov 1978, Pages 1649-1655 | GPA 2145-96
+Predicting Phase Behaviour of Condensate/Crude Oil Systems Using Methane Interaction Coefficients
+D.L. Katz & A. Firoozabadi | *** Journal of Petroleum Technology, Nov 1978, Pages 1649-1655
+Predicting Phase Behaviour of Condensate/Crude Oil Systems Using Methane Interaction Coefficients
+D.L. Katz & A. Firoozabadi
+--- OCR ---

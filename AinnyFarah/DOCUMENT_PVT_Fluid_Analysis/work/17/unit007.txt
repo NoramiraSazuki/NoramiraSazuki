@@ -1,0 +1,10 @@
+Summary of Validation Data
+Original | Sampling | Sample | Reservoir Conditions | Lab Opening Data | Mud | Sample
+Cylinder | Depth | Nature | Pressure | Temp | Pressure | Temp | Recovered | Volume
+Number | (m MD) | (psig) | (°F) | (psig) | (°F) | (cm3) | (cm3)
+2853-S1-F | 1850.0 | BHS Water | 1174.0 | 170.6 | 2200.0 | 70.0 | 0.0 | 480.0
+5099-S1-F | 1850.0 | BHS Water | 1174.0 | 170.6 | 2000.0 | 70.0 | 0.0 | 400.0
+Notes
+Samples were flashed to atmospheric conditions
+The flashed gas was subjected to compositional analysis while the flashed water was subjected to water analysis
+--- OCR ---

@@ -1,0 +1,8 @@
+﻿Source Page,TIME,DEPTH (m) (ft crossed out),PRESSURE (psi),GRADIENT (psi/ft) - written between this reading and the next,REMARKS
+45,09:58,1420,1978.13,0.25 (?),
+45,10:17,1425,1982.16,0.31,
+45,10:30,1415,1971.97,0.31,
+45,10:41,1405,1961.68,0.31,
+45,10:56,1395,1951.56,0.22,
+45,11:10,1385,1941.08,,
+45,,,,Average = 0.31 psi/ft,

@@ -1,0 +1,43 @@
+Page | 19 of 44
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+1. RESERVOIR AND WELL CHARACTERISTICS
+Producing Zone | 1252-1260M
+Static pressure | 1777 psig at 1229M
+Bottom hole temperature | 203 °F at 1229M
+Tubing diameter | 3 1/2” DRILL PIPE
+Casing size | 9 5/8"
+Casing shoe | 1376M
+2. SAMPLING CONDITIONS
+A) SURFACE SAMPLE (S)
+Date | 1983-01-07 00:00:00
+Choke | N/A
+Flowing bottom hole pressure | N/A
+Well head pressure | N/A
+Separator pressure | N/A
+well head temperature | N/A
+Separator temperature | N/A
+Gas rate (Separator) | N/A
+Stock tank temperature | N/A
+Compressibility factor | N/A
+Gas gravity | N/A
+Liquid rate (Separator) | N/A
+GLR | N/A
+Sample (s) received | N/A
+B) BOTTOM HOLE SAMPLE(S)
+Date | 1983-01-07 00:00:00
+Choke | 1/2" ADJ
+Sample (s) received | Sampler PLO 20524/189
+SAMPLE(S) VALIDITY
+BOTTOM HOLE SAMPLE (S)
+1) Sample Bottle No 20524/189
+Bubble point pressure determination at 203°F is 1768 psig
+Opening pressure | 890 | psig
+Temperature | 30 | °C
+Water content | NIL
+--- OCR ---

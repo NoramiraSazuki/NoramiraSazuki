@@ -1,0 +1,592 @@
+{
+  "wellInfo": {
+    "completionDate": "2020-03-17",
+    "completionFluid": "8.5 PPG NaCl filtered to 30 NTU",
+    "completionType": "Dual string",
+    "groundElevation": null,
+    "kbElevation": 108.268,
+    "maxDeviation": "44.69 deg",
+    "name": "Dulang_A23ST2",
+    "packerFluid": "8.5 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)",
+    "rig": "SAPURA BERANI",
+    "surfaceCasing": "-",
+    "totalDepth": 5479.003,
+    "trajectoryType": "Deviated",
+    "tubing": "3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR; 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR",
+    "wellhead": "SOLAR ALERT"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "conductor",
+      "type": "casing",
+      "name": "CONDUCTOR",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 26,
+      "innerDiameter": null,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name P9; outerDiameter V9 '26\" DP'; depth AB9 'xx m MDDF' is a placeholder -> not mapped"
+    },
+    {
+      "id": "int-casing",
+      "type": "casing",
+      "name": "INT. CASING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 13.375,
+      "innerDiameter": null,
+      "weight": 68.0,
+      "grade": "N-80",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name P11; outerDiameter V11 '13-3/8\"'; weight X11; grade Y11; depth AB11 'xx m MDDF' placeholder -> not mapped"
+    },
+    {
+      "id": "casing",
+      "type": "casing",
+      "name": "CASING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 9.625,
+      "innerDiameter": null,
+      "weight": 47.0,
+      "grade": "L-80",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name P12; outerDiameter V12 '9-5/8\"'; weight X12; grade Y12; depth AB12 'xx m MDDF' placeholder -> not mapped"
+    },
+    {
+      "id": "liner",
+      "type": "liner",
+      "name": "LINER",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.5,
+      "innerDiameter": null,
+      "weight": 17.0,
+      "grade": "L-80",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name P13; outerDiameter V13 '5-1/2\"'; weight X13; grade Y13; AB13 is a length (=ROUNDUP(S127-S85,0)), not a depth -> depths not mapped"
+    },
+    {
+      "id": "short-tubing-upper",
+      "type": "short-string",
+      "name": "3-1/2\", 9.2#, HP2-13CR-95, JFE Bear",
+      "topMd": null,
+      "bottomMd": 805.774,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "grade": "HP2-13CR-95",
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "bottomMd DERIVED: label F27 'From Tubing Hanger to TRSV'; short-string TRSV at K32",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F26; bottomMd K32=245.6 m MDDF; outerDiameter V14 '3-1/2\"'; weight X14; grade Y14; short string (columns B/D/F/K); header row 14 (applies to both strings); top (hanger) not printed"
+    },
+    {
+      "id": "short-tubing-lower",
+      "type": "short-string",
+      "name": "3-1/2\" 9.2 PPF HP2 13Cr95 JFE BEAR",
+      "topMd": 805.774,
+      "bottomMd": 4491.765,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "topMd DERIVED: header AB15 formula =ROUNDUP((K73-K32)+(S119-S30),0): short tubing from K32 (TRSV); bottomMd DERIVED: same AB15 formula: to K73 (label F73 'EOT')",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F34; topMd K32=245.6 m MDDF; bottomMd K73=1369.09 m MDDF; outerDiameter V15 '3-1/2\"'; weight X15; short string (columns B/D/F/K); header row 15; grade NOT mapped: header Y15 '13CR-L80' conflicts with diagram label 'HP2 13Cr95'"
+    },
+    {
+      "id": "long-tubing-upper",
+      "type": "long-string",
+      "name": "3-1/2\", 9.2#, HP2-13CR-95, JFE Bear",
+      "topMd": null,
+      "bottomMd": 764.797,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "grade": "HP2-13CR-95",
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "bottomMd DERIVED: label U27 'From Tubing Hanger to TRSV'; long-string TRSV at S30",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U26; bottomMd S30=233.11 m MDDF; outerDiameter V14 '3-1/2\"'; weight X14; grade Y14; long string (columns U/S/Z/AB); header row 14; top (hanger) not printed"
+    },
+    {
+      "id": "long-tubing-lower",
+      "type": "long-string",
+      "name": "3-1/2\" 9.2 PPF HP2 13Cr95 JFE BEAR",
+      "topMd": 764.797,
+      "bottomMd": 4993.11,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "topMd DERIVED: header AB15 formula: long tubing from S30 (TRSV); bottomMd DERIVED: same AB15 formula: to S119 (SELF ALIGNING MULE SHOE)",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U32; topMd S30=233.11 m MDDF; bottomMd S119=1521.9 m MDDF; outerDiameter V15 '3-1/2\"'; weight X15; long string (columns U/S/Z/AB); header row 15; grade NOT mapped: header Y15 '13CR-L80' conflicts with diagram label 'HP2 13Cr95'"
+    },
+    {
+      "id": "short-flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F31; outerDiameter B31; innerDiameter D31; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-trsv",
+      "type": "trsv",
+      "name": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80",
+      "topMd": 805.774,
+      "bottomMd": null,
+      "outerDiameter": 5.03,
+      "innerDiameter": 2.813,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F32; topMd K32=245.6 m MDDF; outerDiameter B32; innerDiameter D32; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F33; outerDiameter B33; innerDiameter D33; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM (Dummy)",
+      "topMd": 2208.038,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F40; topMd K40=673.01 m MDDF; outerDiameter B40; innerDiameter D40; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM (Dummy)",
+      "topMd": 3202.264,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F43; topMd K43=976.05 m MDDF; outerDiameter B43; innerDiameter D43; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM (Dummy)",
+      "topMd": 3972.244,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F46; topMd K46=1210.74 m MDDF; outerDiameter B46; innerDiameter D46; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-spm-4",
+      "type": "spm",
+      "name": "3-1/2\" SPM (Dummy)",
+      "topMd": 4382.644,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F49; topMd K49=1335.83 m MDDF; outerDiameter B49; innerDiameter D49; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-sliding-sleeve",
+      "type": "sliding-sleeve",
+      "name": "SLIDING SLEEVE DOOR, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4421.522,
+      "bottomMd": null,
+      "outerDiameter": 4.545,
+      "innerDiameter": 2.813,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F54; topMd K54=1347.68 m MDDF; outerDiameter B54; innerDiameter D54; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-landing-nipple",
+      "type": "landing-nipple",
+      "name": "LANDING NIPPLE, 2.750 OSN,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4481.66,
+      "bottomMd": null,
+      "outerDiameter": 4.0,
+      "innerDiameter": 2.64,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F67; topMd K67=1366.01 m MDDF; outerDiameter B67; innerDiameter D67; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-pump-out-plug",
+      "type": "mechanical-plug",
+      "name": "PUMP OUT PLUG, PE-635, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4486.844,
+      "bottomMd": null,
+      "outerDiameter": 4.545,
+      "innerDiameter": 1.485,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: pump-out plug (plug removed by pressure) -> Mechanical Plug is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F69; topMd K69=1367.59 m MDDF; outerDiameter B69; innerDiameter D69; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-perforated-pup",
+      "type": "pup-joint",
+      "name": "PERFORATED PUP",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.903,
+      "innerDiameter": 2.953,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: perforated pup -> Pup Joint (a pup joint with holes)",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F70; outerDiameter B70; innerDiameter D70; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "short-eot",
+      "type": "eot",
+      "name": "EOT",
+      "topMd": 4491.765,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name F73; topMd K73=1369.09 m MDDF; short string (columns B/D/F/K)"
+    },
+    {
+      "id": "dual-packer",
+      "type": "packer",
+      "name": "9-5/8\" X 3-1/2\" DUAL STRING, OSD-1, FEED THROUGH PACKER",
+      "topMd": 4468.57,
+      "bottomMd": null,
+      "outerDiameter": 8.5,
+      "innerDiameter": 2.93,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U60; topMd S60=1362.02 m MDDF; outerDiameter AB60; innerDiameter Z60; dual-string packer ('DUAL STRING' in name), values in the long-string columns"
+    },
+    {
+      "id": "long-flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U29; outerDiameter AB29; innerDiameter Z29; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-trsv",
+      "type": "trsv",
+      "name": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80",
+      "topMd": 764.797,
+      "bottomMd": null,
+      "outerDiameter": 5.03,
+      "innerDiameter": 2.813,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U30; topMd S30=233.11 m MDDF; outerDiameter AB30; innerDiameter Z30; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "3-1/2\" FLOW COUPLING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U31; outerDiameter AB31; innerDiameter Z31; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV  : PPO 10/64\" ) - 1st",
+      "topMd": 2164.862,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U39; topMd S39=659.85 m MDDF; outerDiameter AB39; innerDiameter Z39; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLOV : PPO10/64\") - 2nd",
+      "topMd": 3163.976,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U42; topMd S42=964.38 m MDDF; outerDiameter AB42; innerDiameter Z42; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLOV : PPO 10/64\") - 3rd",
+      "topMd": 3931.398,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U45; topMd S45=1198.29 m MDDF; outerDiameter AB45; innerDiameter Z45; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-spm-4",
+      "type": "spm",
+      "name": "3-1/2\" SPM (ORIFICE : 12/64) -4th",
+      "topMd": 4343.471,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U48; topMd S48=1323.89 m MDDF; outerDiameter AB48; innerDiameter Z48; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-sliding-sleeve",
+      "type": "sliding-sleeve",
+      "name": "SLIDING SLEEVE DOOR, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4518.307,
+      "bottomMd": null,
+      "outerDiameter": 4.545,
+      "innerDiameter": 2.813,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U80; topMd S80=1377.18 m MDDF; outerDiameter AB80; innerDiameter Z80; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "gp-packer",
+      "type": "packer",
+      "name": "9 5/8\" VGH VERSA-TRIEVE GP PACKER",
+      "topMd": 4550.525,
+      "bottomMd": null,
+      "outerDiameter": 8.45,
+      "innerDiameter": 6.0,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U85; topMd S85=1387.0 m MDDF; outerDiameter AB85; innerDiameter Z85; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "mcs-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "MCS CLOSING SLEEVE, 13CR-L80",
+      "topMd": 4571.227,
+      "bottomMd": null,
+      "outerDiameter": 7.28,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: closing sleeve (shifts to open/close ports) -> Sliding Sleeve is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U86; topMd S86=1393.31 m MDDF; outerDiameter AB86; innerDiameter Z86; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "sealbore-extension-1",
+      "type": "pbr",
+      "name": "SEALBORE EXTENSION, 13CR-L80 (0.65 m length)",
+      "topMd": 4572.9,
+      "bottomMd": null,
+      "outerDiameter": 6.02,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: sealbore extension (polished seal bore) -> PBR is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U87; topMd S87=1393.82 m MDDF; outerDiameter AB87; innerDiameter Z87; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "screen-1",
+      "type": "screen",
+      "name": "5-1/2\" WIRE-WRAP SCREENS",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 8.25,
+      "innerDiameter": 4.818,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U95; outerDiameter AB95; innerDiameter Z95; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "isolation-packer-1",
+      "type": "packer",
+      "name": "9-5/8 ISOLATION PACKER 13CR-L80",
+      "topMd": 4675.525,
+      "bottomMd": null,
+      "outerDiameter": 8.45,
+      "innerDiameter": 4.75,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U102; topMd S102=1425.1 m MDDF; outerDiameter AB102; innerDiameter Z102; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "mcs-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "MCS CLOSING SLEEVE, 13CR-L80",
+      "topMd": 4684.482,
+      "bottomMd": null,
+      "outerDiameter": 7.28,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: closing sleeve (shifts to open/close ports) -> Sliding Sleeve is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U103; topMd S103=1427.83 m MDDF; outerDiameter AB103; innerDiameter Z103; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "sealbore-extension-2",
+      "type": "pbr",
+      "name": "SEALBORE EXTENSION, 13CR-L80 (0.65 m length)",
+      "topMd": 4682.874,
+      "bottomMd": null,
+      "outerDiameter": 6.02,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: sealbore extension (polished seal bore) -> PBR is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U104; topMd S104=1427.34 m MDDF; outerDiameter AB104; innerDiameter Z104; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "isolation-packer-2",
+      "type": "packer",
+      "name": "9-5/8 ISOLATION PACKER 13CR-L80",
+      "topMd": 4897.867,
+      "bottomMd": null,
+      "outerDiameter": 8.45,
+      "innerDiameter": 4.75,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U111; topMd S111=1492.87 m MDDF; outerDiameter AB111; innerDiameter Z111; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "mcs-sleeve-3",
+      "type": "sliding-sleeve",
+      "name": "MCS CLOSING SLEEVE, 13CR-L80",
+      "topMd": 4906.791,
+      "bottomMd": null,
+      "outerDiameter": 7.28,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: closing sleeve (shifts to open/close ports) -> Sliding Sleeve is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U112; topMd S112=1495.59 m MDDF; outerDiameter AB112; innerDiameter Z112; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "sealbore-extension-3",
+      "type": "pbr",
+      "name": "SEALBORE EXTENSION, 13CR-L80 (0.65 m length)",
+      "topMd": 4908.465,
+      "bottomMd": null,
+      "outerDiameter": 6.02,
+      "innerDiameter": 4.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: sealbore extension (polished seal bore) -> PBR is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U113; topMd S113=1496.1 m MDDF; outerDiameter AB113; innerDiameter Z113; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-seal-assembly",
+      "type": "seal-assembly",
+      "name": "SEAL ASSEMBLY, 4.750\", 3-1/2 9.2# JFEBEAR B X P, 13CR-L80 (5ea)",
+      "topMd": 4907.579,
+      "bottomMd": null,
+      "outerDiameter": 4.71,
+      "innerDiameter": 2.953,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U115; topMd S115=1495.83 m MDDF; outerDiameter AB115; innerDiameter Z115; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-landing-nipple",
+      "type": "landing-nipple",
+      "name": "LANDING NIPPLE, 2.750 OSN,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4968.012,
+      "bottomMd": null,
+      "outerDiameter": 4.0,
+      "innerDiameter": 2.64,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U116; topMd S116=1514.25 m MDDF; outerDiameter AB116; innerDiameter Z116; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-pump-out-plug",
+      "type": "mechanical-plug",
+      "name": "PUMP OUT PLUG, PE-635, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4979.199,
+      "bottomMd": null,
+      "outerDiameter": 4.545,
+      "innerDiameter": 1.485,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: pump-out plug (plug removed by pressure) -> Mechanical Plug is the closest type",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U117; topMd S117=1517.66 m MDDF; outerDiameter AB117; innerDiameter Z117; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-perforated-pup",
+      "type": "pup-joint",
+      "name": "PERFORATED PUP",
+      "topMd": 4980.085,
+      "bottomMd": null,
+      "outerDiameter": 3.903,
+      "innerDiameter": 2.953,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: perforated pup -> Pup Joint (a pup joint with holes)",
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U118; topMd S118=1517.93 m MDDF; outerDiameter AB118; innerDiameter Z118; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "long-mule-shoe",
+      "type": "mule-shoe",
+      "name": "SELF ALIGNING MULE SHOE, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 4993.11,
+      "bottomMd": null,
+      "outerDiameter": 3.97,
+      "innerDiameter": 2.94,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U119; topMd S119=1521.9 m MDDF; outerDiameter AB119; innerDiameter Z119; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "screen-2",
+      "type": "screen",
+      "name": "5-1/2\" WIRE-WRAP SCREENS",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 8.25,
+      "innerDiameter": 4.818,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U121; outerDiameter AB121; innerDiameter Z121; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "collet-seal-assembly",
+      "type": "seal-assembly",
+      "name": "COLLET SEAL ASSEMBLY",
+      "topMd": 5019.718,
+      "bottomMd": null,
+      "outerDiameter": 6.6,
+      "innerDiameter": 4.818,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U127; topMd S127=1530.01 m MDDF; outerDiameter AB127; innerDiameter Z127; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "awg-sump-packer",
+      "type": "packer",
+      "name": "AWG SUMP PACKER",
+      "topMd": 5013.123,
+      "bottomMd": null,
+      "outerDiameter": 8.22,
+      "innerDiameter": 6.0,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name U129; topMd S129=1528.0 m MDDF; outerDiameter AB129; innerDiameter Z129; long string (columns U/S/Z/AB)"
+    },
+    {
+      "id": "pbtd",
+      "type": "pbtd",
+      "name": "PBTD",
+      "topMd": 5393.701,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "Dulang A23ST2 Well Schematic.xlsx > sheet 'OP2 dual A23St1 STMZ E51  FID' > name I137; topMd K137=1644.0 m MDDF"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

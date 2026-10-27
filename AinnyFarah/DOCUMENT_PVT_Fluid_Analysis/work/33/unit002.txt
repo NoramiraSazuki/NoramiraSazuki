@@ -1,0 +1,17 @@
+SUMMARY OF SAMPLESRECEIVED IN LABORATORY
+Separator Gas
+Separator Conditions | Laboratory Opening Conditions
+Cylinder No | Pressure | Temperature | Pressure | Temperature
+PSIG | °F | PSIG | °F
+A 12128 | 165 | 101 | 152 | 70
+A 12274 | 165 | 100 | 160 | 70
+A 12102 | 165 | 100 | 165 | 105
+Separator Liquid
+Cylinder No | Separator Conditions | Laboratory Bubble Point Pressure
+Pressure | Temperature | Pressure | Temperature
+PSIG | °F | PSIG | °F
+22478-107 | 165 | 101 | 160 | 100
+20524-192 | 165 | 100 | 160 | 99
+*15821/62 | 165 | 100 | 160 | 100
+*Used for subsequent analysis
+--- OCR ---

@@ -1,0 +1,68 @@
+For Internal Use - For Internal Distribution Only
+
+Latest Update: MAR 2023 by Pravin Nair                                                                               FB —SE2
+
+A-12ST1 WELL COMPLETION DIAGRAM
+SELECTIVE SINGLE OIL PRODUCER
+
+Well No. : A-12ST1                                                   Date                          : 22 January 2002
+Location : Dul-A                                       All Depth in           : m-MDDF
+Wellhead: Cooper Cameron, 3-1/8",3000 psi             RKB-THF                    :11.635m
+Tubing : 2 7/8", 6.4ppf, L-80, Vam Ace                 Max Deviation          : 73.88 @ 1567 m-MDDF
+SINGLE STRING                            DEPTH) MIN
+(m)
+mddf
+                       FLOW COUPLING
+2.31" Insert Valve @ TRSV.           oe                   TR-SC-SSSV                                     150       2.312 |4.720
+Flapper lock open Oct 2023                                  FLOW COUPLING
+CAMCO WP-1 NIPPLE                       302 | 2.312 |3.700
+SPM #4                                             675        2.397 |4.730
+
+(W / IPO 8/64 - 800 PS!)
+
+Leak @ 1412m MDDF (MIT Nov 23)
+
+SPM # 3
+(W/ IPO 12/64 - 835 PSI)
+
+415 | 2.397 |4.730
+
+7" TOL                                            1733
+9-5/8 Casing Shoe                          1957
+SPM #2                                            2136       2.397 |4.730
+(W/ IPO 16/64 - 875 PSI)
+SPM # 1
+(W/ GLOV 16/64)                              2579       2.397 |4.730
+
+e y   Apr 2023 — 2.25” LIB impression                                      SSD # 3                                                 2587        2.31 2   3.700
+r       of suspected parted tubing stop                                 7" HYD PKR #2                                   2600
+sleeve @ 2611m WLTHF                       :
+Open                                 2607 | 2.312 |3.700
+2 7/8" BLAST JOINT
+(2609 - 2621)
+CAMCO WP-1 NIPPLE                        2622 | 2312 13.700
+7" HYD PKR # 1                              2627
+HYDRO TRIP SUB                               2631 | 2.420 |3.650
+SSD #1            )                                 2635 | 2.312 |3.700
+2 7/8" BLAST JOINT
+(2637 - 2664)                                     2666
+CAMCO WP-1 NIPPLE                                       2.312 |3.700
+LOCATOR SEAL ASSEMBLY
+7" PERM PKR                               2670
+D-NO GO NIPPLE (opened)
+PERFORATED PUP                               2673 | 2.250 |3.250
+CONICAL SHOE
+
+OPEN N £32 (2710.0- bho  i
+£96 (2776.0- 27    » S
+
+/          a
+
+2678 | 2.400 |3.200
+
+Coilflate set at 2759m MDDF to isolate E36. Cement
+
+pumped. TOC tagged at 2749m MDDF with CTU (Jul 2011)
+
+WO 7" Liner Shoo          3043
+

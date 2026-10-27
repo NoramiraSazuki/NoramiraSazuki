@@ -1,0 +1,39 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "Dulang_A4",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": 2139.9,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a4-perf-e14",
+      "type": "perforation",
+      "name": "E14",
+      "topMd": 1933,
+      "bottomMd": 1954,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E14",
+      "source": "PDF page 2: zone 'E14' interval 1933 - 1954 (OCR passes abc; units as printed)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

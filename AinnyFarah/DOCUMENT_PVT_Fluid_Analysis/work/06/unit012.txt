@@ -1,0 +1,28 @@
+TABLE 17
+FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS
+CYLINDER | 80291/242 and 80291/5
+G.O.R | 393 St cu ft/bbl
+GRAVITY | 0.8505 at 60 / 60 F
+TABLE 18
+BUBBLE POINT PRESSURE DETERMINATION AT 200°F
+Recombined surface sample
+Separator liquid sample | 1116/508
+Separator gas sample | A4343
+Pressure (psig) | Pump reading (cm3)
+6000 | 393.92
+5000 | 392.4
+4080 | 390.91
+3508 | 389.92
+3034 | 389.06
+2544 | 388.12
+2052 | 387.1
+1600 | 386.11
+Pb = 1420 | 385.69
+1393 | 384.9
+1387 | 384.6
+1385 | 384.3
+1380 | 383.6
+1367 | 382.7
+1332 | 380.35
+This sample has been used for complete PVT study
+--- OCR ---

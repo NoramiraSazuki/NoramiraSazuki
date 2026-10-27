@@ -1,0 +1,350 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "8.6 ppg FILTERED SEAWATER WITH 3% KCI",
+    "completionType": "SINGLE STRING SELECTIVE OIL PRODUCER",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "Dulang_A1",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a1-01",
+      "type": "casing",
+      "name": "CASING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 7,
+      "innerDiameter": null,
+      "grade": "N-80",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); casing table: size '7', grade 'N-80', thread 'BUTTRESS'; weight illegible (not written); word 'CASING' confirmed case-insensitively only (letter case not verifiable); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-02",
+      "type": "tubing",
+      "name": "TUBING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); tubing table row: size, weight, grade and thread not read consistently (e.g. 276\"/278\"/27e\", AMS-28/AMS 28) — not written; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-03",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth readings conflict (446.6 x2, 146.6, 148.6; 446.6 is out of sequence before 150.6) — not written; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-04",
+      "type": "scssv",
+      "name": "CAMCO TRM-4A TRSCSSV",
+      "topMd": 150.6,
+      "bottomMd": null,
+      "outerDiameter": 4.7,
+      "innerDiameter": 2.313,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: TRSCSSV -> scssv",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-05",
+      "type": "nipple (x)",
+      "name": "Cam X- NIPPLE",
+      "topMd": 302.7,
+      "bottomMd": null,
+      "outerDiameter": 3.5,
+      "innerDiameter": 2.313,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-06",
+      "type": "spm",
+      "name": "SPM (w/ BK1 8/64, Ptro 815 psi)",
+      "topMd": 490.9,
+      "bottomMd": null,
+      "outerDiameter": 4.7,
+      "innerDiameter": 2.41,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); text box on this row: 'SPM ( Dummy valve) August 2024'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-07",
+      "type": "spm",
+      "name": "SPM (w/ dummy)",
+      "topMd": 653.4,
+      "bottomMd": null,
+      "outerDiameter": 4.7,
+      "innerDiameter": 2.41,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth digits '653 4' in 2 variants and '653.4' in 1 (decimal point lost); text box on this row: 'SPM ( Dummy valve) August 2024'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-08",
+      "type": "spm",
+      "name": "SPM (w/ BK1 12/64, Ptro 875 psi)",
+      "topMd": 824.7,
+      "bottomMd": null,
+      "outerDiameter": 4.7,
+      "innerDiameter": 2.41,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); label read 'Ptro' x3 / 'Piro' x2; text box on this row: 'SPM ( Dummy valve) August 2024'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-09",
+      "type": "spm",
+      "name": "SPM (w/ BK1 12/64, Ptro 900 psi)",
+      "topMd": 1119.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); OD/ID not read on this row; text box on this row: 'SPM ( Dummy valve) August 2024'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-10",
+      "type": "spm",
+      "name": "SPM (w/ GLOV 16/64)",
+      "topMd": 1348.1,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); OD/ID not read on this row; text box on this row: 'SPM ( GLOV 10/64) August 2024'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-11",
+      "type": "nipple (x)",
+      "name": "X- NIPPLE",
+      "topMd": 1378.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-12",
+      "type": "packer",
+      "name": "7\" x 4.5\" x 3.88\" BWD GP Packer",
+      "topMd": 1384.1,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth read 1384.1 x2, 1284.1 x1, 1304.1 x1 — 1384.1 written (2 identical readings, in sequence); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-13",
+      "type": "sliding-sleeve",
+      "name": "SLIMLINE SSD (3",
+      "topMd": 1408.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: SSD -> sliding-sleeve",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); full label read as 'SLIMLINE SSD (3,22” OD) X-PROFILE' x3 / '(3.22\" OO)' x2 / '(3.22\" OD)' x1 — OD digits not confirmed, name kept to the confirmed part; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-14",
+      "type": "pup-joint",
+      "name": "4 1/2\" BLANK PIPE",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: blank pipe -> pup-joint",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); no depth printed; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-15",
+      "type": "screen",
+      "name": "4\" W.W.SCREEN",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); no depth printed; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-16",
+      "type": "seal-assembly",
+      "name": "4.5\" COLLET SEAL ASSY.",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); no depth printed; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-17",
+      "type": "packer",
+      "name": "7\" x 4.5\" x 3.88\" BWD Sump Packer",
+      "topMd": 1435.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-18",
+      "type": "sliding-sleeve",
+      "name": "SLIMLINE SSD (3.22” OD) X-PROFILE",
+      "topMd": 1451.7,
+      "bottomMd": null,
+      "outerDiameter": 3.22,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: SSD -> sliding-sleeve",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); OD 3.22 as printed in the label; text box: '2.31” PXX plug set at SSD#2 (Sep 2018)'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-19",
+      "type": "blast-joint",
+      "name": "BLAST JOINT (1457.8 - 1485.8 m)",
+      "topMd": 1457.8,
+      "bottomMd": 1485.8,
+      "outerDiameter": 3.2,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); '(MAX OD 3.20\")'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-20",
+      "type": "packer",
+      "name": "7\" x 4.5\" x 3.88\" BWD Sump Packer",
+      "topMd": 1533.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-21",
+      "type": "nipple (no-go)",
+      "name": "NOGO NIPPLE",
+      "topMd": 1540.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-22",
+      "type": "mule-shoe",
+      "name": "CONICAL",
+      "topMd": 1541.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: conical -> mule-shoe",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-23",
+      "type": "pbtd",
+      "name": "PBTD @ 1602 M",
+      "topMd": 1602,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-24",
+      "type": "perforation",
+      "name": "E14 (OIL PRODUCER)",
+      "topMd": 1415,
+      "bottomMd": 1424,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E14",
+      "interval": "1415 - 1424",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); status on schematic image: 'CLOSE'; text box over it: 'OPEN' / 'Sep 2018'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-25",
+      "type": "perforation",
+      "name": "E23 Lower (OIL PRODUCER)",
+      "topMd": 1485.0,
+      "bottomMd": 1492.5,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E23 Lower",
+      "interval": "1485.0 - 1492.5",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); status on schematic image: 'OPEN'; text boxes over it: 'CLOSED' / 'Sep 2018' and 'E22'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-26",
+      "type": "perforation",
+      "name": "E36 (OIL PRODUCER)",
+      "topMd": 1557.0,
+      "bottomMd": 1568.0,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E36",
+      "interval": "1557.0 - 1568.0",
+      "source": "PDF p.1 schematic image (local OCR, >=2 identical variants); status on schematic image: 'OPEN'; text box over it: 'CLOSED' / 'Sep 2018'; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-27",
+      "type": "mechanical-plug",
+      "name": "2.31” PXX plug set at SSD#2 (Sep 2018)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: PXX plug -> mechanical-plug",
+      "source": "PDF p.1 typed text box (exact text layer); typed text box; no depth number printed; depth units as printed (m MDRKB unless stated)"
+    },
+    {
+      "id": "dulang_a1-28",
+      "type": "packer",
+      "name": "Baker tubing packoff (635 – 641m WLTHF)",
+      "topMd": 635,
+      "bottomMd": 641,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label is not literally a template type: tubing packoff -> packer",
+      "source": "PDF p.1 typed text box (exact text layer); typed text box; depths are WLTHF as printed; depth units as printed (m MDRKB unless stated)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

@@ -1,0 +1,271 @@
+TABLE OF CONTENTS
+Page
+Cover letter
+Summary of PVT Data 1 Well Characteristics 2 Preliminary Quality Checks 3 Hydrocarbon Analyses of Separator Products
+and Calculated Well Stream 4 Partial Pressure Volume Relations of Recombined Reservoir Fluid 5 Hydrocarbon Analysis of Adjusted Reservoir Fluid 6 Volumetric Data 7 Pressure Volume Relations 8 Differential Vaporization 9 Hydrocarbon Analyses of Gas from Depletion
+Stages of Differential Vaporization 10-11 Hydrocarbon Analysis of Residual Oil from Differential Vaporization 12 Viscosity Data 13 Single-Stage Separator Tests 14 Hydrocarbon Analyses of Gas from Pressure Stage of Single Stage
+Separator Test 15 Hydrocarbon Analysis of Stock Tank Oil from Single Stage Separator test 16 Nomenclature and Equations to Adjust Differential
+Vaporization Data to Surface Conditions 17
+<w:rtlGutter w:val="0"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="125829381" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="page"><wp:posOffset>6480810</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>139700</wp:posOffset></wp:positionV><wp:extent cx="399415" cy="164465"/><wp:wrapSquare wrapText="left"/><wp:docPr id="17" name="Shape 17"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="399415" cy="164465"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>18-19
+18-19
+TABLE OF CONTENTS
+Page GRAPHS
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:fldChar w:fldCharType="begin"/><w:instrText xml:space="preserve"> TOC \o &quot;1-5&quot; \h \z </w:instrText><w:fldChar w:fldCharType="separate"/></w:r><w:hyperlink w:anchor="bookmark8" w:tooltip="Current Document"><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Compressibility of Saturated Oil<w:t>20
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Gas in Solution<w:t>21
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Adjustment of Gas in Solution<w:t>22-25
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Relative Oil Volume<w:t>26
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Adjustment of Relative Oil Volume<w:t>27-30
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:hyperlink w:anchor="bookmark14" w:tooltip="Current Document"><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Viscosity of Reservoir Fluid<w:t>31
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Gas Viscosity<w:t>32
+<w:tab w:pos="9980" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="240"/><w:ind w:left="0" w:right="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Separator Test .<w:t>33
+ADDENDUM
+<w:p><w:pPr><w:pStyle w:val="Style27"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="226" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/><w:rPr><w:sz w:val="16"/><w:szCs w:val="16"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="16"/><w:szCs w:val="16"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t xml:space="preserve">Western Atlas International
+Western Atlas International
+CORE LABORATORIES
+CORE LABORATORIES
+April 15, 1992
+PETRONAS CARIGALI SDN BHD
+Wisma Peladang
+Jal an Bukit Bintang
+Peti Surat 12407
+50775 Kuala Lumpur
+ATTENTION: EN. MOHD KHALID EMBONG
+<w:tab w:pos="1318" w:val="right"/><w:tab w:pos="1465" w:val="left"/><w:tab w:pos="3965" w:val="right"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Subject<w:t>:<w:t>Reservoir Fluid<w:t>Study
+<w:tab w:pos="1318" w:val="right"/><w:tab w:pos="1470" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Well<w:t>:<w:t>Dulang B-12
+<w:tab w:pos="1318" w:val="right"/><w:tab w:pos="1455" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="480" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>File<w:t>:<w:t>MFL 91184
+Gentlemen
+Surface samples were collected from the subject well Dulang B-12 and were forwarded to our laboratory for use in a reservoir fluid study. Presented in the following report are the results of the study as requested by Petronas Carigali Sdn Bhd
+Upon arrival in the laboratory, the following preliminary quality checks were performed on the samples. The opening pressure of the separator gas cylinder was determined at separator temperature. The bubble point pressure of the separator liquids were determined at separator temperature, based on these results the more representative samples were chosen for analyses
+The composition of the separator gas was analysed through heptanes plus by gas chromatography, the separator gas was also analysed for oxygen, this quality check is performed to determine whether the gas sample was contaminated with air. The composition of the liquid was analysed to heptanes plus by flash/chromatographic technique, the measured physical properties of the heptanes plus together with the compositional data of the separator samples and calculated well stream are reported on page four
+The separator gas from Cylinder No 1209-A and liquid from Cylinder No WIB-7417 were then physically recombined to the producing gas-liquid ratio of 240 standard cubic feet of separator gas per barrel of separator liquid at 112&quot;F and a portion of the reservoir fluid was charged to a high pressure visual cell preheated to the reservoir temperature of 200’F. The fluid was then subjected to a constant composition expansion at 200°F during which the fluid was measured to have a bubble point pressure of 1367 psig which is lower than the reported reservoir pressure of 1727 psig at reservoir temperature of 200‘F. This data was reported to a representative of Petronas Carigali Sdn Bhd., who requested us to adjust the recombined reservoir fluid so that it has a Bubble point pressure equal to the gas-oil contact pressure at reservoir temperature
+Core Laboratories Malaysia Sdn. Shd
+<w:pgSz w:w="11900" w:h="16840"/><w:pgMar w:top="637" w:left="1320" w:right="1118" w:bottom="637" w:header="0" w:footer="3" w:gutter="0"/><w:cols w:space="720"/><w:noEndnote/><w:rtlGutter w:val="0"/><w:docGrid w:linePitch="360"/></w:sectPr></w:pPr><w:r><w:rPr><w:b/><w:bCs/><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:sz w:val="11"/><w:szCs w:val="11"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>t.ot 1OB Jalan 51A/223, 46100 Petaling Jaya. Selangor. Malaysia. Tel. No: (03) 7576030, Fax No; (03) 7577894, Tlx No: CORMAL MA 36439
+Page 2
+April 15, 1992
+PETRONAS CARIGALI SDN BHD ATTENTION: EN. MOHD KHALID EMBONG
+The Partial pressure volume relations measurements of the recombined reservoir fluid can be found on page five
+The recombined reservoir fluid was then charged into a high pressure visual cell and then gas is added to increase the reservoir fluid bubble point pressure to the gas-oil contact pressure of 1668 psig at 200‘F. This adjusted reservoir fluid was used for subsequent analyses
+The composition of the adjusted reservoir fluid was then analysed to heptanes plus by flash/chromatographic technique, the measured physical properties of heptanes plus together with the compositional analyses are reported on page six
+A known volume of the adjusted reservoir fluid was charged to a high pressure visual cell and then thermally expanded to the reservoir temperature of 200’F. The sample was observed while constant composition expansion pressure-volume relations were being performed. During these tests, the fluid was found to exhibit a bubble-point pressure of 1668 psig which confirm that the reservoir fluid was adjusted correctly. The volumetric data and pressure volume relation measurements of the reservoir fluid can be found on page seven and eight respectively
+Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The fluid evolved a total of 410 cubic feet of gas at 14.73 psia and 60’F per barrel of residual oil at 60’F. The associated relative oil volume factor was 1.249 barrels of saturated fluid per barrel of residual oil. The oil densities and composition of the evolved gases were measured at each point during the differential pressure depletion also compositional analysis was performed on the residual oil and this data is included in the summary of the differential depletion data on page nine, the compositional of the evolved gases and residual oil is reported on pages ten to eleven
+The gas in solution and oil relative volume data obtained from the differential pressure depletion study has been adjusted to separator conditions, this data is tabulated on pages eighteen and nineteen and graphically presented on pages twenty two to twenty five and twenty seven to thirty
+The viscosity of the reservoir fluid was measured over a wide range of pressures at 200’F in a rolling ball viscosimeter. The viscosity of ,the fluid was found to vary from a minimum of 0.635 centipoises at the bubble point pressure of 1668 psig to a maximum of 1.290 centipoises at atmospheric pressure. The results of the viscosity measurements together with the calculated gas viscosity are tabulated on page thirteen
+Page 3
+April 15, 1992
+PETRONAS CARIGALI SDN BHD ATTENTION: EN. MOHD KHALID EMBONG
+The reservoir fluid was subjected to a series of single-stage separator test at 112°F to determine the effect of separator pressure on stock tank oil gravity, formation volume factor and gas-oil ratio. The results of the single-stage separator test are presented on page fourteen
+The evolved gas from the pressure stages of separation from the single stage separator test were collected in the laboratory and analysed through heptanes plus by gas chromatography, the composition of the separator gases to heptanes plus are tabulated on pages fifteen
+The stock tank liquid obtained from the single stage separator tests were analysed to heptanes plus and are reported on pages sixteen
+Field data provided to us has been included in the addendum
+We wish to thank Petronas Carigali Sdn Bhd., for this opportunity to be of service. Pleas? do not hesitate to contact us should you require further information
+Yours faithfully
+CORE LABORATORIES
+A DIVISION OF WESTERN ATLAS INTERNATIONAL INC
+CHRIS KANNAPIRAN
+Supervisor
+Reservoir Fluid Analysis Services
+MFL9U84 .pcsb
+enc: 3 copies
+Page 1
+of 33
+File MFL
+91184
+Company: Petronas Carigali Sdn Bhd Well : Dulang B-12
+SUMMARY OF PVT DATA
+Reservoir Conditions
+Gas-Oil Contact Pressure
+1668
+PSIG
+Reservoir Temperature
+200
+’F
+Volumetric Data
+Bubble point pressure at
+200’F =
+1668
+PSIG
+Compressibility of Reservoir Fluid
+at 200’F
+Vol/V
+ol/PSI
+from
+1900
+PSIG t
+o 1668
+PSIG = 11.94 x 10&apos;6
+Pressure Volume Relations
+Relative Volume at Reservoir Pressure of 1668 PSIG = 1.0000
+Differential Vaporization Data
+Rsdb: Solution Gas/Oil ratio at 1668 psig and 200*F = 410 standard cubic feet of gas at 14.73 psia and 60*F per barrel of residual oil at 60’F
+Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60&quot;F
+Density of reservoir fluid at 1669 psig and 200*F = 0.7498 gm/cc
+Viscosity Data of Reservoir Fluid at 2OQ*F
+<w:tab w:pos="373" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="both"/></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="125829387" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="page"><wp:posOffset>4752340</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>12700</wp:posOffset></wp:positionV><wp:extent cx="1292225" cy="326390"/><wp:wrapSquare wrapText="left"/><wp:docPr id="28" name="Shape 28"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="1292225" cy="326390"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:u w:val="single"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>0.635 centipoise
+1.290 centipoise
+0.635 centipoise
+1.290 centipoise
+<w:tab w:pos="382" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="460" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="both"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Viscosity of Res. Fluid at Atm. pressure =
+Separator Test Data
+Tank Oil Gravity
+Separator Conditions
+Bofb(l)
+Rsfbl21
+&quot;API at 60&quot;F
+400 psig 0 112’F
+1.237
+396
+40.4
+250 psig @ 112’F
+1.235
+391
+&lt; 40.6
+150 psig 0 112’F
+1.233
+388
+40.8
+50 psig 0 112’F
+1.236
+391
+40.6
+(1) Formation Volume
+Factor, barrels
+of oil at
+1669 psig feet and 200’F per
+barrel of stock tank oil at 60’F
+(2) Total Solution Gas/Oil Ratio,total standard cubic feet of gas at 14.73 psia and 60’F per barrel of stock tank oil at 60’F
+<w:tbl><w:tblPr><w:tblOverlap w:val="never"/><w:jc w:val="left"/><w:tblLayout w:type="fixed"/></w:tblPr><w:tblGrid><w:gridCol w:w="2501"/><w:gridCol w:w="1426"/></w:tblGrid><w:tr><w:trPr><w:tblHeader/><w:trHeight w:val="226" w:hRule="exact"/></w:trPr><w:tc><w:tcPr><w:gridSpan w:val="2"/><w:tcBorders></w:tcBorders><w:shd w:val="clear" w:color="auto" w:fill="FFFFFF"/><w:vAlign w:val="bottom"/></w:tcPr><w:p><w:pPr><w:pStyle w:val="Style6"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>21 SEPTEMBER 1991
+*
+PSIG
+*
+°F
+*
+PSIG
+112.3
+’F
+257
+PSIG
+112
+’F
+WIB-7417
+1209-A
+18:00 - 20:30
+Hours
+196420
+MSCF/DAY
+14.73
+PSIA
+60
+•F
+*
+1.179
+*
+817.7
+BBLS/DAY
+240
+SCF/BBL
+Corelab
+21 SEPTEMBER 1991
+*
+PSIG
+*
+°F
+*
+PSIG
+112.3
+’F
+257
+PSIG
+112
+’F
+WIB-7417
+1209-A
+18:00 - 20:30
+Hours
+196420
+MSCF/DAY
+14.73
+PSIA
+60
+•F
+*
+1.179
+*
+817.7
+BBLS/DAY
+240
+SCF/BBL
+Corelab
+FORMATION CHARACTERISTICS
+Formation Name
+*
+LOWE R- D
+Date First Well Completed
+*
+19
+Original Reservoir Pressure
+*
+PSIG @
+FT
+Original Produced Gas-Oil Ratio
+*
+SCF/Bbl
+Production Rate
+*
+Bbls/Day
+Separator Press &amp; Temp
+* 25
+1 PSIG @
+HZ ’F
+Liquid Gravity at 60*F
+*
+’API
+Datum
+*
+2/q 27. z
+FT Subsea
+WELL
+CHARACTERISTICS
+Elevation
+*
+FT
+Total Depth
+*
+FT
+Producing Interval
+*
+FT RKB
+Tubing Size and Depth
+*
+In to *
+MMSCF/Day
+Last Reservoir Pressure
+1727
+PSIG @ *
+FT
+Date
+*
+19
+Reservoir Temperature
+200
+•F
+FT
+Status of Well
+*
+Pressure Gauge
+*
+SAMPLING CONDITIONS
+Date Sampled
+Flowing Tubing Pressure
+Flowing Bottom Hole Pressure
+Wellhead Pressure
+Wellhead Temperature
+Primary Separator Pressure
+Primary Separator Temperature Liquid Sample Cylinder No. Gas Sample Cylinder No
+Time Sampled Primary Sep Gas Prod Rate
+Pressure Base
+Temperature Base Compressibility Factor (Fpv) Gas Gravity (Laboratory) Gas Gravity Factor (Fg)
+Sep. Liquid Production at 112°F
+Primary Sep. Gas/Separator Liquid Ratio Sampled by
+REMARKS: *This data was not forwarded to us
+Sampling data forwarded to us is included in the addendum
+--- OCR ---

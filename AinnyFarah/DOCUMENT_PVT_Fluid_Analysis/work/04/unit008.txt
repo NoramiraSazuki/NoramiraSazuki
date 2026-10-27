@@ -1,0 +1,18 @@
+TABLE 7
+DEW POINT PRESSURE DETERMINATION AND CONSTANT MASS STUDY AT 198 °F
+Pressure | Relative Volume | Compressibility factor
+(psig) | V/VPb | z = PV/Nrt
+4000 | 0.4365 | 0.772
+3500 | 0.4847 | 0.751
+3000 | 0.5576 | 0.741
+2500 | 0.673 | 0.746
+2000 | 0.8738 | 0.776
+Pi- 1782 | 1 | 0.792
+1500 | 1.2236 | O.817
+1000 | 1.945 | 0.87
+450 | 4.5497 | 0.932
+NOTA
+Too difficult to obtain a dew point
+After awaiting 4 hours, we never saw a retrograde liquid deposit
+Relative volume was obtainered per rapport at the static pressure
+--- OCR ---

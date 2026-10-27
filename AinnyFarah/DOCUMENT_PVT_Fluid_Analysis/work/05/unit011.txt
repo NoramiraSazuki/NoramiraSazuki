@@ -1,0 +1,26 @@
+Page | 25 of 44
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+BUBBLE POINT PRESSURE DETERMINATION AT 203°F
+Separator Liquid Sample : 1116/592
+Separator Gas Sample : A9127
+Pressure (psig) | Pump reading (cm3)
+6000 | 194.2
+5000 | 192.62
+4000 | 190.96
+3446 | 189.9
+3050 | 189.11
+Pb= | 2780 | 188.6
+2748 | 187.87
+2710 | 187.41
+2683 | 186.97
+2650 | 186.29
+2597 | 185.4
+2546 | 184.24
+*This sample has been used for complete PVT Study
+--- OCR ---

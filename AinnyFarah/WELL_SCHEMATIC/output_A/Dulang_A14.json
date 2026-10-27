@@ -1,0 +1,128 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "68DEG",
+    "name": "Dulang_A14",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": 2537.9,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a14-01",
+      "type": "pbtd",
+      "name": "PBTD",
+      "topMd": 2967.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 11: 'PBTD' @ 2967.4 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-02",
+      "type": "mule-shoe",
+      "name": "ENTRY GUIDE",
+      "topMd": 2317.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'ENTRY GUIDE' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 11: 'ENTRY GUIDE' @ 2317.5 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-03",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 2341.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 11: 'NIPPLE' @ 2341.4 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-04",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 2375.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 11: 'CENTRALIZER' @ 2375.9 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-05",
+      "type": "seal-assembly",
+      "name": "SEAL ASSY",
+      "topMd": 2378.1,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "source": "PDF page 11: 'SEAL ASSY' @ 2378.1 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-06",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 2381.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "source": "PDF page 11: 'PKR' @ 2381.0 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-07",
+      "type": "nipple (no-go)",
+      "name": "NO-GO NIPPLE",
+      "topMd": 2380.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.25,
+      "source": "PDF page 11: 'NO-GO NIPPLE' @ 2380.6 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a14-08",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 2391.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'WEG' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 11: 'WEG' @ 2391.3 (read identically in OCR passes ac; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

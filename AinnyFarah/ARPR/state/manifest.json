@@ -1,0 +1,243 @@
+{
+  "ARPR 1.1.2020.pdf": {
+    "sha256": "57836255066962177215695a7a2ee3fee74a79aebc6f29ede1de3dd32f851d26",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2020.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 35,
+      "text_pages": 35,
+      "ocr_full": 0,
+      "ocr_regions": 1,
+      "tables": 21,
+      "tables_multi_page": 1,
+      "figures": 39,
+      "figures_in_table_sheets": 0,
+      "review": 56,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 3,
+        "OCR of an image region gave very low confidence (mean 33, 150 fragments) \u2014 likely a photo/graphic": 1,
+        "Uncertain table\u2013figure relationship": 6,
+        "Uncertain table structure": 2,
+        "Uncertain OCR text": 44
+      },
+      "parts": [],
+      "mupdf_warnings": 0,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {},
+      "seconds": 5.5
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2021.pdf": {
+    "sha256": "a68795b384e76d7c97c657fe1c55b4e2a534edb64ffa5b0739b91fd73e1cdaab",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2021.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 77,
+      "text_pages": 77,
+      "ocr_full": 0,
+      "ocr_regions": 14,
+      "tables": 45,
+      "tables_multi_page": 1,
+      "figures": 70,
+      "figures_in_table_sheets": 0,
+      "review": 1223,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 14,
+        "Uncertain table\u2013figure relationship": 13,
+        "Uncertain table structure": 15,
+        "Uncertain OCR text": 1180,
+        "Possible omission (numbers)": 1
+      },
+      "parts": [],
+      "mupdf_warnings": 0,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {
+        "36": 3
+      },
+      "seconds": 21.7
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2022.pdf": {
+    "sha256": "fb147fc985c83240ffcc83a4e7f158369d5c3bc4168409668b9f9d01abd8c87f",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2022.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 91,
+      "text_pages": 61,
+      "ocr_full": 30,
+      "ocr_regions": 5,
+      "tables": 0,
+      "tables_multi_page": 0,
+      "figures": 61,
+      "figures_in_table_sheets": 0,
+      "review": 403,
+      "review_by_issue": {
+        "OCR working copy rotated 90\u00b0 (orientation detected).": 15,
+        "Scanned page: tables and figures inside the scan are not reconstructed": 30,
+        "OCR of an image region gave very low confidence (mean 30, 218 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 36, 53 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 34, 170 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR working copy rotated 180\u00b0 (orientation detected).": 1,
+        "OCR of an image region gave very low confidence (mean 19, 137 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 37, 84 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 39, 66 fragments) \u2014 likely a photo/graphic": 1,
+        "Uncertain OCR text": 351
+      },
+      "parts": [],
+      "mupdf_warnings": 0,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {},
+      "seconds": 86.2
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2023.pdf": {
+    "sha256": "599658f41ddcc6f96939f3c089783f1fa69dc0d20c6015383ae45f17dde76d42",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2023.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 140,
+      "text_pages": 140,
+      "ocr_full": 0,
+      "ocr_regions": 9,
+      "tables": 108,
+      "tables_multi_page": 1,
+      "figures": 130,
+      "figures_in_table_sheets": 0,
+      "review": 509,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 17,
+        "OCR of an image region gave very low confidence (mean 26, 58 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 34, 167 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 32, 274 fragments) \u2014 likely a photo/graphic": 1,
+        "Uncertain table\u2013figure relationship": 53,
+        "Uncertain table structure": 19,
+        "Uncertain OCR text": 408,
+        "Possible omission (numbers)": 9
+      },
+      "parts": [],
+      "mupdf_warnings": 0,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {
+        "5": 1,
+        "47": 1,
+        "50": 10,
+        "74": 1,
+        "75": 6,
+        "76": 8,
+        "106": 13,
+        "107": 13,
+        "118": 1
+      },
+      "seconds": 31.6
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2024.pdf": {
+    "sha256": "cc58828de56159210c70e6d3ac424a97bdfbddf8a2a8a673c8941d672a14e6cf",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2024.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 74,
+      "text_pages": 54,
+      "ocr_full": 20,
+      "ocr_regions": 10,
+      "tables": 40,
+      "tables_multi_page": 0,
+      "figures": 67,
+      "figures_in_table_sheets": 0,
+      "review": 318,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 7,
+        "Scanned page: tables and figures inside the scan are not reconstructed": 20,
+        "Scanned page produced little or no OCR text \u2014 possible missing content": 3,
+        "OCR of an image region gave very low confidence (mean 34, 102 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR of an image region gave very low confidence (mean 32, 64 fragments) \u2014 likely a photo/graphic": 1,
+        "OCR working copy rotated 90\u00b0 (orientation detected).": 1,
+        "Uncertain table\u2013figure relationship": 15,
+        "Uncertain table structure": 2,
+        "Uncertain OCR text": 266,
+        "Possible omission (numbers)": 2
+      },
+      "parts": [],
+      "mupdf_warnings": 1,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {
+        "22": 5,
+        "24": 4
+      },
+      "seconds": 52.9
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2025 YEAR Presentation Pack_Dulang - for AOF.pdf": {
+    "sha256": "f5709ebb9694b5781cb2bdaa5b7fd4ac9b97f85e2257ab5f3b4d898d488be5f8",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2025 YEAR Presentation Pack_Dulang - for AOF.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 63,
+      "text_pages": 51,
+      "ocr_full": 12,
+      "ocr_regions": 17,
+      "tables": 13,
+      "tables_multi_page": 0,
+      "figures": 43,
+      "figures_in_table_sheets": 0,
+      "review": 479,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 5,
+        "Scanned page: tables and figures inside the scan are not reconstructed": 12,
+        "OCR of an image region gave very low confidence (mean 38, 169 fragments) \u2014 likely a photo/graphic": 1,
+        "Scanned page produced little or no OCR text \u2014 possible missing content": 3,
+        "Uncertain table\u2013figure relationship": 8,
+        "Uncertain OCR text": 440,
+        "No content detected": 10
+      },
+      "parts": [],
+      "mupdf_warnings": 339,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {},
+      "seconds": 44.0
+    },
+    "validation": "ok"
+  },
+  "ARPR 1.1.2025.pdf": {
+    "sha256": "2293854bd5feeba3e36995b5fc5c6637898a0b4a2ce64c3242f56d76c2ec331c",
+    "status": "ok",
+    "output": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/ARPR/output/ARPR 1.1.2025.xlsx",
+    "version": "1.2",
+    "stats": {
+      "pages": 93,
+      "text_pages": 68,
+      "ocr_full": 25,
+      "ocr_regions": 26,
+      "tables": 23,
+      "tables_multi_page": 0,
+      "figures": 70,
+      "figures_in_table_sheets": 0,
+      "review": 649,
+      "review_by_issue": {
+        "Page has a full-page image behind native text": 11,
+        "Scanned page: tables and figures inside the scan are not reconstructed": 25,
+        "OCR of an image region gave very low confidence (mean 38, 169 fragments) \u2014 likely a photo/graphic": 1,
+        "Scanned page produced little or no OCR text \u2014 possible missing content": 1,
+        "Uncertain table\u2013figure relationship": 14,
+        "Uncertain OCR text": 597
+      },
+      "parts": [],
+      "mupdf_warnings": 101,
+      "validation_problems": [],
+      "pages_with_numbers_not_found_in_output": {},
+      "seconds": 83.6
+    },
+    "validation": "ok"
+  }
+}

@@ -1,0 +1,16 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit
+85,,Well,DULANG 7,
+85,,Test,2,
+85,,Perforation,1236 - 42 m,
+85,,Date,04/11/90,
+85,1,Geologist(s),-,
+85,2,Test Engineer(s),GARY WULF / RETNA. T,
+85,3,Service Company/Engineer,SCHLUMBERGER / FLOPETROL,
+85,4,Distance between CCL and top of gun,1.4,m (ft crossed out)
+85,5,Number of Runs,1,
+85,6,Wellhead pressure bled down to zero before perforating?,Yes (ticked); SWABBED 13.4 BBLS TO INCREASE DD TO 750 PSI,
+85,7,Wellhead pressure before perforating,0,psig
+85,8,Time of perforation,(blank),local time
+85,9,Pressure vs time record (two Time/WHP tables),Time column blank; WHP written as 0 with a vertical ditto line down to 0 in both tables,PSIG
+85,10,Other perforating runs (Time / Run / Interval / WHP),(blank),
+85,11,Remarks,ALL SHOTS FIRED. NO PRESSURE RESPONSE AT WELLHEAD DUE TO 470 m AIR CUSHION ABOVE DIESEL CUSHION. ABOVE DATA IS FOR FIRST PERFORATION. SECOND GUN WAS FOR INTERVAL 1234 - 1243 m,

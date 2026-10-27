@@ -1,0 +1,22 @@
+CORE LABORATORIES MALAYSIA SDN BHD PROCESS CONTROL
+Revision: 003 | Date: 22 January 2007 | Authorisation: Fadli Ramli
+Form: Sample Information
+Company | PETRONAS Carigali Sdn Bhd | Date Received | 22 Feb 2012
+Well | B21L | Received By | Azman
+Field | n/a | Airway Bil No | D/O No: 134484
+Rig | n/a | Job Number | MFL20120023
+Sample | Cylinder / Bottle | Sep. Pressure | Depth
+No | vol (cc) | type | No | type | cover | plug | capacity | P (psig) | T ( deg F) | (m MD) | Remarks
+01 | 600.0 | SEP OIL | 816104.0 | LEUTERT | Y | Y | 700CC | 195.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:10:10 hrs
+02 | 20l | SEP GAS | 2385.0 | LUXFER | Y | Y | 20L | 195.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:10:10 hrs
+03 | 600.0 | SEP OIL | 813785.0 | LEUTERT | Y | Y | 700CC | 191.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:10:50 hrs
+04 | 20l | SEP GAS | 2374.0 | LUXFER | Y | Y | 20L | 191.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:10:50 hrs
+05 | 600.0 | SEP OIL | 813711.0 | LEUTERT | Y | Y | 700CC | 188.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:11:25 hrs
+06 | 20l | SEP GAS | 2153.0 | LUXFER | Y | Y | 20L | 188.27 | 124.0 | n/a | Sampling date:28th Jan 2012
+Sampling time:11:25 hrs
+--- OCR ---

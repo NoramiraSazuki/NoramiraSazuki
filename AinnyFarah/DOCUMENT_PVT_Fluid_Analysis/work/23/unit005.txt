@@ -1,0 +1,18 @@
+DIFFERENTIAL VAPORIZATION AT 218 °F
+Pressure (psig) | Solution Gas-Oil Ratio (Rs) | Relative Oil Volume (Vro) | Relative Total Volume (Vrt) | Oil Density (g cm-3) | Deviation Factor / Gas Compress Factor (Z) | Gas Formation Volume Factor (Bg) | Incremental Gas Gravity (Air = 1.000)
+1825 | 381 | 1.232 | 1.232 | 0.7686
+1550 | 328 | 1.212 | 1.311 | 0.7709 | 0.863 | 0.01054 | 1.117
+1300 | 280 | 1.193 | 1.422 | 0.773 | 0.876 | 0.1272 | 1.127
+1050 | 227 | 1.173 | 1.61 | 0.7753 | 0.893 | 0.01602 | 1.14
+800 | 176 | 1.153 | 1.933 | 0.7776 | 0.912 | 0.02137 | 1.166
+550 | 126 | 1.132 | 2.569 | 0.78 | 0.936 | 0.03164 | 1.207
+300 | 73 | 1.11 | 4.317 | 0.7827 | 0.964 | 0.05846 | 1.265
+125 | 36 | 1.093 | 9.351 | 0.7848 | 0.985 | 0.13439 | 1.362
+0 | 0 | 1.075 | 0.7862 | 1.627
+1.000 @ 60 F
+Gravity of residual oil = 35.8 °API @ 60 F
+1. Cubic feet of gas at 14.65 psia and 60°F. per barrel of residual oil at 60°F
+2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F
+3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+4. Cubic feet of gas at indicated pressure and temperature per cubic foot at 14.65 psia and 60°F
+--- OCR ---

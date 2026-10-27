@@ -1,0 +1,162 @@
+HYDROCARBON ANALYSES OF SEPARATOR PRODUCTSAND CALCULATED WELL STREAM
+Component
+Separator Liquid Mol %
+Separator Gas
+Well Mol %
+Stream* Wt%
+Mol %
+GPM
+Hydrogen Sulfide
+0.00
+0.00
+0.00
+0.00
+Carbon Dioxide
+9.52
+59.72
+24.79
+7.22
+Nitrogen
+0.04
+0.94
+0.31
+0.06
+Methane
+2.28
+34.32
+12.03
+1.28
+Ethane
+0.51
+2.72
+0.727
+1.18
+0.23
+Propane
+0.42
+0.97
+0.267
+0.59
+0.17
+Iso-Butane
+0.47
+0.47
+0.154
+0.47
+0.18
+N-Butane
+0.42
+0.37
+0.117
+0.40
+0.15
+Iso-Pentane
+0.46
+0.24
+0.088
+0.39
+0.19
+N-Pentane
+0.38
+0.14
+0.051
+0.31
+0.15
+Hexanes
+0.83
+0.08
+0.031
+0.60
+0.33
+Heptanes plus
+84.67
+0.03
+0.013
+58.93
+90.04
+Total
+100.00
+100.00
+1.448
+100.00
+100.00
+Properties of Heptanes plus
+<w:tab w:pos="3053" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><mc:AlternateContent><mc:Choice Requires="wps"><w:drawing><wp:anchor distT="155575" distB="0" distL="114300" distR="894715" simplePos="0" relativeHeight="125829391" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1"><wp:simplePos x="0" y="0"/><wp:positionH relativeFrom="page"><wp:posOffset>4432300</wp:posOffset></wp:positionH><wp:positionV relativeFrom="paragraph"><wp:posOffset>295275</wp:posOffset></wp:positionV><wp:extent cx="1005840" cy="179705"/><wp:wrapSquare wrapText="left"/><wp:docPr id="32" name="Shape 32"/><a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"><a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"><wps:wsp><wps:cNvSpPr txBox="1"/><wps:spPr><a:xfrm><a:ext cx="1005840" cy="179705"/></a:xfrm><a:prstGeom prst="rect"/><a:noFill/></wps:spPr><wps:txbx><w:txbxContent><w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>103 (assumed)
+103 (assumed)
+0.835
+231
+0.835
+231
+Density, gm/cc at 60’F 0.8351
+<w:tab w:pos="3259" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="240" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Molecular Weight</w:r><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:u w:val="single"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>231
+Calculated separator gas gravity (air = 1.000) = 1.179 Calculated gross heating value for separator gas = 468 (BTU per cubic foot of dry gas @ 14.73 psia and 60’F)
+<w:tab w:pos="4147" w:val="left"/></w:tabs><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Primary separator gas collected<w:t xml:space="preserve">0 257 psig and 112°F
+Primary separator liquid collected @ 257 psig and 112*F
+Primary Separator Gas/Separator Liquid Ratio 240 SCF/Bbl @ 112°F
+* Bubble point pressure of this recombined fluid was measured to be 1367 Psig at 200’1 which is lower than the reported reservoir pressure of 1727 Psig at 200’F
+PARTIAL PRESSURE-VOLUME RELATIONS OF RESERVOIR FLUID AT 2OO*F(Constant Composition Expansion)
+<w:p><w:pPr><w:pStyle w:val="Style18"/><w:keepNext w:val="0"/><w:keepLines w:val="0"/><w:widowControl w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:bidi w:val="0"/><w:spacing w:before="0" w:after="0" w:line="240" w:lineRule="auto"/><w:ind w:left="0" w:right="0" w:firstLine="0"/><w:jc w:val="left"/></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:spacing w:val="0"/><w:w w:val="100"/><w:position w:val="0"/><w:shd w:val="clear" w:color="auto" w:fill="auto"/><w:lang w:val="en-US" w:eastAsia="en-US" w:bidi="en-US"/></w:rPr><w:t>Pressure
+PSIG
+Pressure
+PSIG
+Volume (1)
+5000
+0.9675
+4500
+0.9713
+4000
+0.9752
+3500
+0.9794
+3000
+0.9838
+2500
+0.9884
+2000
+0.9934
+1900
+0.9944
+1800
+0.9954
+1727
+Reservoir Pressure
+0.9962
+1600
+0.9975
+1500
+0.9986
+1400
+0.9997
+1367
+Bubble Point Press
+1.0000
+1358
+1.0030
+1350
+1.0057
+1345
+1.0074
+1322
+1.0155
+1270
+1.0353
+1190
+1.0705
+1112
+1.1113
+1013
+1.1748
+904
+1.2653
+810
+1.3674
+715
+1.5029
+635
+1.6533
+560
+1.8378
+493
+2.0545
+(1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+--- OCR ---

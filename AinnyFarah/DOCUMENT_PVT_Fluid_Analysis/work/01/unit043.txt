@@ -1,0 +1,13 @@
+TABLE 41
+SEPARATION TEST OF RESERVOIR FLUID
+Separator | GAS OIL RATIO (1) | OIL VOLUME FACTOR (2) | Separator liq. Density | Shrinkage factor (3) | STO Gravity
+Pressure (psig) | Temp. (F) | SEP | TANK | TOTAL | (bbl/Std bbl)
+200 | 100 | 300 | 64 | 364 | 1.232 | 0.792 | 0.923 | 0.842
+150 | 100 | 315 | 49 | 364 | 1.233 | 0.799 | 0.935 | 0.842
+100 | 100 | 335 | 37 | 372 | 1.238 | 0.809 | 0.948 | 0.844
+50 | 100 | 365 | 20 | 385 | 1.24 | 0.819 | 0.968 | 0.844
+0 | 100 | 404 | 404 | 1.256 | 0.846
+1 | Gas volume at standard conditions per volume of stock tank oil at 60°F
+2 | Volume of reservoir fluid at saturation pressure ner volume of stock tank oil at 60°F
+3 | Volume of stock tank oil at 60°F per volume of separator liquid at separator conditions
+--- OCR ---

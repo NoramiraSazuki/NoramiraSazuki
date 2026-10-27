@@ -1,0 +1,36 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit
+25,,Well,DULANG #7,
+25,,Test,1,
+25,,Date,APRIL. 8. 1990,
+25,,Company Supervisor,GEORGE SHARKEY / WAN GHAZALI,
+25,,Test Engineer,MILES PEROYEA / RETNA .T,
+25,1,Interval,1425m - 1430m,
+25,2,Well loading fluid,NACL (BRINE),
+25,3,Approximate Differential (pf-pw),320,psi
+25,4,Type of perforating gun,SCHLUMBERGER ENERGET,
+25,5,Perforation density,6,spf
+25,6,Mud weight,9.5,ppg
+25,7,Cl- of filtrate,200.000,mg/L (ppm crossed out)
+25,8,Cl- of mud filtrate at time of drilling,"92,000",mg/L (ppm crossed out)
+25,9,Casing - Size,7,in.
+25,9,Casing - Weight,23,lb/ft
+25,9,Casing - Grade,N-80,
+25,9,Casing - Capacity,0.0394,bbl/ft
+25,9,Casing - Shoe,1565,ft (as printed)
+25,10,Liner,(crossed out - not applicable),
+25,11,Tubing - Size,3 1/2,in.
+25,11,Tubing - Inside Diameter,2.992,in.
+25,11,Tubing - Weight,9.3,lb/ft
+25,11,Tubing - Grade,N-80,
+25,11,Tubing - Capacity,0.0087,bbl/ft
+25,11,Tubing - Connections,EUE,
+25,11,Tubing - Burst pressure,8640,psi
+25,12,Plugged back total depth,1538,m (ft crossed out)
+25,13,Depth of packer,1342,ft (as printed)
+25,14,Tubing volume,38.21,bbl
+25,15,Volume between packer and lowest perforation,11.4,bbl
+25,16,Rathole volume,17.45,bbl
+25,17,Depth of tailpipe,1345,m (ft crossed out)
+25,18,Location of pressure gauges - depth / gauge number (1),1420 / CRG,m (ft crossed out)
+25,18,Location of pressure gauges - depth / gauge number (2),(blank) / AMERADA,ft
+25,19,Initial WHP before well open,165,psig

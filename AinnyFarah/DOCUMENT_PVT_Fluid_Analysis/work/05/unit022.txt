@@ -1,0 +1,36 @@
+Page | 43 of 59
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab | BOTTOM HOLE SAMPLE | CYLINDER | 2052/189
+Company | from Flopetrol Samples
+MOLECULAR COMPOSITION OF RESERVOIR FLUID
+Stock Tank Liquid | Evolved Gas | Recombined Separator Liquid)
+(mole %) | (mole %) | (mole %)
+H2S Hydrogen Sulphide | 0 | Traces | Traces
+CO2 Carbon Dioxide | 0 | 73.6 | 36.85
+N2 Nitrogen | 0 | 0 | 0
+C1 Methane | 0 | 13.82 | 6.92
+C2 Ethane | 0 | 4.07 | 2.04
+C3 Propane | 0.14 | 3.16 | 1.65
+iC4 i-Butane | 0.06 | 1.18 | 0.62
+nC4 n-Butane | 0.11 | 1.01 | 0.56
+iC5 i-Pentane | 0.22 | 0.58 | 0.4
+nC5 n-Pentane | 0.2 | 0.44 | 0.32
+C6 Hexanes | 0.78 | 0.69 | 0.74
+C7 Heptanes Plus | 1.94 | 1.02 | 1.48
+C8 Octanes | 4.5 | 0.43 | 2.46
+C9 Nonanes | 4.63 | 0 | 2.3
+C10 Decanes | 4.57 | 0 | 2.28
+C11 Undecanes | 4.1 | 0 | 2.05
+C12 Dodecanes Plus | 78.75 | 0 | 39.32
+TOTAL | 100 | 99.99999999999999 | 99.99
+Molecular weight | 255.4 | 41.343 | 143.2
+Gravity | 0.85 | (60/60 °F) | 1.427 | (Air=1)
+Molar ratio | 49.93 | 50.07 | 100
+Mass ratio | 86.03 | 13.97 | 100
+Molecular weight of Dodecanes plus in STO | 290
+Gravity of Dodecanes plus in STO | 0.855 | (60/60 °F)
+--- OCR ---

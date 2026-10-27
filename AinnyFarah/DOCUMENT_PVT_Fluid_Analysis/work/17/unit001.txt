@@ -1,0 +1,91 @@
+Help Menu (with hyperlinks) | Notes by dmain@corelab.co.uk on the Visual Basic Macros
+Add Section to Final Report | Add Section to Final Report | Disclaimer
+The analyses, opinions or interpretations in this report are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or representations as to the productivity, proper operation or profitability of any oil, gas or any other mineral well formation in connection with which such report is used or relied upon
+Page Setup | This will create report sections consisting of a Section Leader Worksheet …. named A, B …..etc. and
+followed by the worksheet containing the section data pages; selected either from the 'report_templates'
+Black Fonts | directory or a 'Final Report Page' from a calculation worksheet. These will be inserted before the 'Back'
+worksheet
+Print All Pages | The analyses, opinions or interpretations in this report are based on observations and material supplied by the client
+1 | You are prompted to enter the section letter e.g.. 'd' and descriptive text e.g.. 'constant composition | to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions
+Generate PDF Report | expansion data'. In this example worksheet D will be created containing the entered text shown as follows | expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but
+Section D - Constant Composition Expansion Data | Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or
+Manual Addition of Report Pages | (note that entered text is automatically capitalised - if you do not want each letter capitalised - edit later) | representations as to the productivity, proper operation or profitability of any oil, gas or any other mineral well formation
+Enter Header Details Here | in connection with which such report is used or relied upon
+Installing a Macro in Another Workbook | 2 | Next you are prompted to browse and select a filename which will contain the data pages in a worksheet
+Analyses Type | Water Analysis | named 'Final Report Page'. If you choose a workbook which does not have a 'Final Report Page' worksheet
+Company Name | PETRONAS Carigali Sdn. Bhd | Report Page Defaults | then an error message will be generated (calculation worksheets and templates have a 'Final Report Page')
+Well Name | DLD-32L
+Job Number | MFL 20130041 | 3 | Next you are prompted to enter a sheet name to rename the imported 'Final Report Page'
+Enter Left Footer Details Here | 4.0 | Finally the letter entered in item 1. Above will be used to set up the page numbers …..D.1, D.2 ….etc
+Main Footer | Petroleum Services Division | Note that worksheets can be renamed, moved later see 'Manual Addition of Report Pages' below
+Sub Footer 1 | Core Laboratories Malaysia Sdn. Bhd
+Sub Footer 2 | Page Setup
+This will setup headers and footers on all pages in the workbook except for the worksheets named 'Front'
+Enter Company Address Details Here (for Front page 2 below) | and 'Letter'. It is possible that printing these pages on a variety of different printers may require minor editing
+to be carried out on the macro for the page formatting to appear correctly. In addition different versions of
+Water Analysis | Address 1 | No. 17, Jalan Jurutera U1/23, Section U1, HICOM - Glenmarie Industrial Park, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia | Excel may create different formatting. These macros were developed for use in Excel 97. (revised in Excel 2000)
+Address 2 | Tel : +(603) 5031 0088 Fax : +(603) 5031 1122 Email : Corelab.Malaysia@corelab.com Web : http://www.corelab.com
+for | Note that prior to using the macro
+PETRONAS Carigali Sdn. Bhd | 1 | The Header Details need to be entered in the box to the left under the buttons. The cells containing these
+items have been named 'company_name', 'well_name' and 'job_number', 'main_footer', 'sub_footer_1' , 'sub_footer_2'
+DLD-32L | The macro looks for these range names in a worksheet named 'Front' to collect the header data
+MFL 20130041 | 2 | The Print_Areas need to have been setup previously in each worksheet
+3 | The bottom right hand page numbers A.1, A.2 etc. need to be setup either manually or see item 3 of
+'Add Section to Final Report' above Pressing the 'Page Setup' button will not disturb these settings
+Black Fonts
+Prepared by: Azhar Mohd Noor | Will convert, on all pages, characters to black for a uniform appearance if required
+Date : May 2013
+Revision: 000
+Print All Pages
+Does what it says with the pages which have been set up. But see the comment above under 'Page Setup'
+The analyses, opinions or interpretations in this report are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or representations as to the productivity, proper operation or profitability of any oil, gas or any other mineral well formation in connection with which such report is used or relied upon
+Delete Introduced Range Names
+Will do what it says to tidy up the workbook and remove these names which are no longer relevant. It will not remove
+the range names which are essential for 'Page Setup' (see above)
+Petroleum Services Division
+Core Laboratories Malaysia Sdn. Bhd
+No. 17, Jalan Jurutera U1/23, Section U1, HICOM - Glenmarie Industrial Park, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia | Generate PDF Report
+Tel : +(603) 5031 0088 Fax : +(603) 5031 1122 Email : Corelab.Malaysia@corelab.com Web : http://www.corelab.com
+This will create a single PDF file which will recreate the report. Note that some PC or network systems
+may require changes to be made to this macro for it to work correctly. The file will be created in the
+C:\temp\' folder
+Manual Addition of Report Pages
+1 | Right Click on the name (at the bottom) of the worksheet to be added and select Move or Copy
+2 | Then select the workbook to move (or copy) from the drop down menu To book
+3 | Next select the location from the list Before sheet
+4 | Finally check the box Create a copy or not as required
+Installing a Macro in Another Workbook
+1 | Should you prefer to create the report first and then add the macros, then proceed as follows
+2 | On the Excel menu lick Tools then Macro then Visual Basic Editor
+From the Visual Basic menu select View Project Explorer you will see VBA Project (your workbook name)
+and VBA Project (master_report_2003.xls)
+3 | Click + opposite Modules for each to view the modules attached to each file; your workbook may or
+may not already have modules. Note that you will need the macro password (from your supervisor)
+to do this
+The master_report_2003.xls project has five Modules ; 'Add_Pages', 'Auto_PDF_Print'
+'Page_Setup_All_Pages' and 'Remove_Names' as described above
+4 | Drag the required Module across to your workbook project and drop it into the Modules folder, if there is
+one, otherwise into the Microsoft Excel Objects folder
+5 | Return to master_report_2003.xls in Excel and right mouse button click on the appropriate button required
+to activate the macro. Select Copy and then paste it into the front page worksheet of your workbook
+(for the 'Page_Setup_All_Pages' macro this worksheet must be named 'Front' or the macro will not work)
+6 | Right mouse button click on the newly pasted button and select Assign Macro, Macros in This Workbook
+and double click the appropriate macro name
+Report Page Defaults
+The front page, back page and letter page defaults are as in this workbook
+Standard report pages in the calculation workbooks have been set up as follows
+Font Ariel (or Helvetica) - general font size = 9
+Rows 1 to 9 have row height = 13
+Rows 10 to 65 have height = 11.75
+Header on line 8 (except for C36+ first composition page which is on line 6)
+Header format is Ariel 11 Bold Underlined Vertical Alignment Centre
+Two blank rows under each header can be used for sub-headers
+Data tables start on line 11 (except C36+ first composition page - line 9)
+Table headers are coloured light grey (as this line) and are not outlined
+Table subheaders are Ariel 9 Bold on a light grey background
+Footnotes format is Ariel 8 (as are fomulae on first composition page)
+Graph Axes labels format is Ariel 8.5 Bold and scale numbers are 8.5 Regular
+Manually created pages should adhere to the above
+--- OCR ---
+Core Lab
+RESERVOIR OPTIMIZATION

@@ -1,0 +1,20 @@
+COMPANY | IOR
+WELL | DULANG B-21S
+REPORT NO | PRSS-LS-99/1
+QUALITY CHECKS OF SEPARATOR SAMPLES
+Type of sample | SEPARATOR OIL | SEPARATOR GAS
+Cylinder no | TS 24105 | TS 23604 | TS 22011 | TS 22010 | 5167A | 5250A | 5248A | PSV 160862
+Opening pressure at 173.6 °F psig | 30 | 30 | 30 | 50 | 122 | 117 | 123 | 82
+Water recovered cc | NA | NA | NA | NA | 12 | 7 | 26 | 71
+Emulsion/Oil recovered cc | NA | NA | NA | NA | 7 | 4 | 5 | 11
+Approximate sample volume cc | 490 @300 Psig | 490 @300 Psig | 590 @300 Psig | 590 @300 psig | 20000 @122 Psig | 20000 @117 psig | 20000 @123 PSIG | 20000 @82 psig
+Bubble point pressure at 173.6 “F psig | 67 | 66 | 52 | 62 | NA | NA | NA | NA
+Bubble point pressure at 185 °F psig | NA | NA | 63 | NA | NA | NA | NA | NA
+FILTERED SAMPLES (2011)
+Type of sample | SEPARATOR OIL
+Opening pressure at 173.6 °F psig
+Water recovered cc | NA
+Emulsion/oil recovered cc | NA
+Approximate sample volume cc | 500 @ 300 psig
+Bubble point pressure at 173.6 °F psig | 60
+--- OCR ---

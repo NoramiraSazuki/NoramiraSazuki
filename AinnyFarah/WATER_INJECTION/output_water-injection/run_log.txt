@@ -1,0 +1,12 @@
+PASS - Template header A1:M1 unchanged; extra columns after M
+PASS - Rows written = rows extracted (10347)
+PASS - Every written date and value equals the extracted source value
+PASS - Re-read of sources reproduces every raw block (no omissions/changes)
+PASS - Well-level [inj]: sum of final cumulatives = sum of monthly WTRINJ (802,680 bbl)
+PASS - Well-level [B9]: sum of final cumulatives = sum of monthly WTRINJ (802,680 bbl)
+PASS - Well-level [InjDat(ori)]: sum of final cumulatives = sum of monthly WTRINJ (802,680 bbl)
+PASS - All 43 raw blocks labelled (fault block + reservoir)
+PASS - Template unchanged
+PASS - All source workbooks unchanged (sha256 before/after)
+Dulang_Unit_Water_Injection.xlsx Dulang_Unit_Water_Injection_Review.xlsx rows 10347
+{'N1': 1145, 'N2': 1391, 'N3AB': 834, 'N3B': 241, 'N3BDEFSE1': 237, 'N3C': 942, 'N3D': 184, 'S1': 121, 'S1A': 178, 'S1B': 590, 'S1C': 400, 'S1CD': 207, 'S1D': 637, 'S2': 980, 'S3': 544, 'SE1': 1100, 'SE2': 573, '—': 43}

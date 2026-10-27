@@ -1,0 +1,11 @@
+Quick Water Analysis
+Results
+Cylinder No | Depth | Sampling Date & Time | Bicarbonate (HCO3) | Carbon Dioxide CHEMets® | Sulfide CHEMets® | Conductivity (at 25°C) | Resistivity (15.6oC or 60F) | Salinity (at 25°C) | T( °C)* | pH
+(m MD) | mg/L | ppm (mg/L) | ppm (mg/L) S | mS/cm | ohm.m | ppm | pH | T( °C)*
+2853-S1-F | 1850.0 | 17/02/2013 (01:43hrs) | 9666.0 | 70.0 | < 0.1 | 18.12 | 0.687 | 10710.0 | 20.5 | 7.404 | 20.1
+5099-S1-F | 1850.0 | 17/02/2013 (01:43hrs) | 9586.0 | 70.0 | < 0.1 | 18.87 | 0.683 | 10980.0 | 20.2 | 7.038 | 20.5
+Note
+Bottomhole samples were flashed to atmospheric condition at laboratory temperature (i.e 20°C) and pH measurements were performed within one hour of the flash
+Conductivity, Resistivity, Salinity and pH results were measured by Seven Multimeter
+* Observed Temperature
+--- OCR ---

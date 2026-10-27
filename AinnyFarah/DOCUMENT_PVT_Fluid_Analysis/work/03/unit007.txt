@@ -1,0 +1,22 @@
+TABLE 9
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)
+(mole %)
+Components | Cylinder | Cylinder | Cylinder
+5016 | 9076 | 12048
+N2 Nitrogen | 0.11 | 0.12 | 0.1
+CO2 Carbon Dioxide | 73.96 | 73.73 | 73.76
+H2S Hydrogen Sulphide | Traces (0.02ppm) | Traces (0.02ppm) | Traces (0.02ppm)
+C1 Methane | 22.78 | 23.1 | 23.07
+C2 Ethane | 1.56 | 1.56 | 1.59
+C3 Propane | 0.89 | 0.87 | 0.89
+iC4 i-Butane | 0.24 | 0.22 | 0.23
+nC4 n-Butane | 0.17 | 0.15 | 0.15
+iC5 i-Pentane | 0.07 | 0.06 | 0.06
+nC5 n-Pentane | 0.05 | 0.04 | 0.03
+C6 Hexanes | 0.09 | 0.06 | 0.06
+C7+ Heptanes Plus | 0.08 | 0.09 | 0.06
+TOTAL | 99.99999999999999 | 100.00000000000004 | 100.00000000000003
+MOLECULAR WEIGHT | 37.586 | 37.477 | 37.462
+Gravity (Air=1) | 1.297 | 1.293 | 1.293
+Molecular weight of heptanes plus | 109 | 108 | 104.9
+--- OCR ---

@@ -1,0 +1,41 @@
+ged
+Field / Platform : Dulang A CASING & TUBING SCHEME pe | | GRADE | THREAD BOTTOM
+ie Name: Sapura Berani 26" Conductor (Existing | 202 ~«|)—CA8E Welded | Surface 181.46
+jityection Rate:2500 bipd 16" Casing (Existing | 7s | S| BTC Surface | 188.46
+jSurlace injection Pressure: 1200psi 13-3/8" Casing (Existing | 545 0 | KS | BTC S| Surface | 443.26
+{Drill floor height: 30.1m-AMSL 9-5/8" Casing (Existing | 43.5 | keo) | BTC Surface | 1,355.46
+|vompletion Date : 3rd April 2020
+{Maximum Deviation: 58deg @ 1,800m MDDF Tubing 3-1/2" GRE lined | 952 [80 JFEFOX ee
+Wellhead : Surface Unihead, Solar Alert, Surface, Standard, Single Tubing 3-1/2" - Below 7" AHC | 9.2 =| 15CR-125 | JFE BEAR Pe
+|X-Mas Tree Soar iia 000 psi pSSmPRtion Fluid: 4.5 ppg NaCl filtered to|30 NTU |
+ticompletion| Brine: 4aulill act | __ Packer Flug: 8.4 poy NaCl wit] 2% Corrodion Inhibitgr + 2% Oxygen Scavenger + 2% Biocide) | CCCTCMCUdT  TLTLTLTLTLCUdT TT
+Ll DEPTH DEPTH LENGTH ANGLE MIN ID MAX OD
+Da m-MDDF m-MDDF = (°) COMPLETION EQUIPMENT IN IN
+—— 15.80 15.80 ELEVATION (DF to THF)
+— —— 1.52 TUBING HANGER Bear (BOX Down) 2.992 TBC
+0.46 XOVER 3-1/2" BEAR Pin x FOX DTP (BOX) 2.545 3.833
+3.66 12 FT 3-1/2" GRE Lined Fox (Pin x Pin) Pups 2.545 3.500
+1.83 6 FT 3-1/2" GRE Lined Fox (Box x Pin) Pups 2.545 3.878
+0.91 OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CRO[80] 2.357 3.833
+0 254.61 1.35 TRSV, 2-7/8 6.4PPF JFEBEAR BXP 2.312 4.609
+0 0.91 OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX 2.357 3.833
+1.22 4 FT 3-1/2" GRE Lined Fox (Pin x Pin) Pups 2.545 3.500
+0
+nn
+Ly
+=
+7"Liner (TOL) 902.7
+TUBING 3-1/2" 9.2#, FOX GRE, R2
+1.83 6 FT 3-1/2" GRE Lined Fox (B x P) Pups 2.545 3.878
+0.50 Crossover - 3-1/2" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI 2.545 3.893
+1,800.21 2.44 58 lbss 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR 2.885 5.909
+1.52 5 FT 3 1/2" 9.2# JFE BEAR B x P, 25Cr Pups 2.992 3.500
+0.50 Crossover - 3-1/2" BEAR (B) x 2-7/8" Bear (P), 25CR-80KSI 2.441 3.833
+1,803.95 0.42 OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1 2.205 3.385
+0.50 Crossover - 2-7/8" Bear (B) X 3-1/2" Bear (P), 25CR-80KSI 2.441 3.833
+1.83 6 FT 3 1/2" 9.2# JFE BEAR B x P, 15Cr-125ksi Pups 2.963 3.883
+4 Heaeien TUBING 3-1/2" 9.2#, UHP 15Cr-125, JFE BEAR, R3
+1,836.02 3-1/2 le | e / Drop Sub 2.900 4.000
+ITCP i
+PBTD 1,903.00 || I
+TD 1,944.60 Prepared by : Pravin Nair (Aug 2023)

@@ -1,0 +1,40 @@
+0 | 0
+Table of Contents
+Section A - Summary of Analysis Methods | Page
+Summary of Analysis Methods | A.1-A.5
+Section B - Summary of Validation Data
+Reported Well & Sampling Info | B.1
+Summary of Validation Data | B.2-B.3
+Section C - Compositional Analysis Data
+Compositional Analysis of Separator Gas Sample - Cyl# 4878 to C12+ | C.1
+Compositional Analysis of Separator Gas Sample - Cyl# 4179 to C12+ | C.2
+Compositional Analysis of Separator Gas Sample - Cyl# 4186 to C12+ | C.3
+Compositional Analysis of Separator Liquid Sample - Cyl# 819614 to C36+ | C.4-C.7
+Section D - Calculated Wellstream Composition Data
+D.1-D.4
+Calculated Wellstream Composition Data | D.1-D.4
+Section E - Compositional Analysis of Recombined Reservoir Fluid Sample
+E.1-E.4
+Compositional Analysis of Recombined Reservoir Fluid Sample to C36+ | E.1-E.4
+Section F - Constant Composition Expansion (CCE) Data
+F.1-F.2
+Constant Composition Expansion (CCE) at 133°F | F.1
+Section G - Retrograde Liquid Curve (RLC) Data
+G.1
+Retrograde Liquid Curve (RLC) at 133°F | G.1
+G.2
+Section H - Water Analysis Data
+G.3
+Salinity Data by Conductivity Method | H.1
+G.3
+Chloride Content Data by Potentiometric Method | H.1
+G.4
+Water Analysis Data - Stock Tank Sample (sample collected at 18:30 hrs) | H.2-H.3
+G.4
+Water Analysis Data - Stock Tank Sample (sample collected at 18:00 hrs) | H.4-H.5
+Section I - Appendix I
+Data Used in Gas Compositional Calculations | I.1
+Data Used in Liquid Compositional Calculations | I.2
+Section J - Appendix II
+Sample Info
+--- OCR ---

@@ -1,0 +1,10 @@
+ATMOSPHERIC PRESSURE SEPARATOR TEST OF RESERVOIR FLUID SAMPLE
+SEPARATOR PRESSURE | TEMP | GAS/OIL RATIO | TANK OIL GRAVITY | FORMATION VOLUME FACTOR | GAS GRAVITY
+PSIG | F | (1) | API @ 60F | (2)
+5000 | 120
+to
+0 | 140 | 267 | 38 | 1.176 | 1.263
+* This gas was collected and its composition was analysed by gas chromatography
+1. Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60 F. per barrel of oil at indicated pressure and temperature
+2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F
+--- OCR ---

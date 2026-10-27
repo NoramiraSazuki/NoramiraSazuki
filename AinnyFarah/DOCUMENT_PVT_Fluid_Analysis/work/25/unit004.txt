@@ -1,0 +1,15 @@
+Hydrocarbon Anlaysis of Reservoir Fluid Sample
+Component | Mol% | Wt% | Density | °Api @ 60°F | MW
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 25.39 | 8.15
+N2 Nitrogen | 0.23 | 0.05
+C1 Methane | 20.49 | 2.4
+C2 Ethane | 2.11 | 0.46
+C3 Propane | 2.37 | 0.76
+iC4 i-Butane | 0.59 | 0.25
+nC4 n-Butane | 0.58 | 0.25
+iC5 i-Pentane | 0.43 | 0.23
+nC5 n-Pentane | 0.46 | 0.24
+C6 Hexanes | 1.01 | 0.63
+C7+ Heptanes Plus | 46.34 | 86.58 | 0.8562 | 33.6 | 256
+--- OCR ---

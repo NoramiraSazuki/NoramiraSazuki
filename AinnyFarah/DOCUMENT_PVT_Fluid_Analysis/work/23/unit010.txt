@@ -1,0 +1,22 @@
+Page | 11 of 14
+File | SFL 82034
+Well | Dulang 1 TEST 2
+HYDROCARBON ANALYSES OF MULTI STAGE SEPARATOR GAS SAMPLES
+300 PSIG 150°F | 100 PSIG 140°F
+COMPONENT | MOL % | GPM | MOL % | GPM
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 59.11 | 68.06
+N2 Nitrogen | 1.48 | 0.37
+C1 Methane | 36.36 | 26.44
+C2 Ethane | 2.08 | 0.553 | 3.27 | 0.87
+C3 Propane | 0.57 | 0.156 | 1.09 | 0.298
+iC4 i-Butane | 0.15 | 0.049 | 0.29 | 0.094
+nC4 n-Butane | 0.09 | 0.028 | 0.2 | 0.063
+iC5 i-Pentane | 0.05 | 0.0183 | 0.09 | 0.033
+nC5 n-Pentane | 0.02 | 0.007 | 0.05 | 0.018
+C6 Hexanes | 0.05 | 0.02 | 0.09 | 0.037
+C7 Heptanes Plus | 0.04 | 0.018 | 0.05 | 0.023
+99.99999999999999 | 0.8493000000000002 | 100.00000000000001 | 1.4359999999999997
+Gas gravity (air = 1.000) | 1.154 | 1.252
+Gross heating value (BTU per cubic foot of dry gas at 14.65 psia and 60°F) | 432 | 380
+--- OCR ---

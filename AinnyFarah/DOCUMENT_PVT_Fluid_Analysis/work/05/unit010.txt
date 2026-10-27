@@ -1,0 +1,30 @@
+Page | 14 of 44
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+BUBBLE POINT PRESSURE DETERMINATION AT 203°F
+Bottom hole sample (cylinder 20524/189)
+Pressure (psig) | Pump reading (cm3)
+6000 | 200
+5000 | 198.67
+4000 | 197.33
+3000 | 195.81
+2500 | 194.99
+2000 | 194.13
+1777 | 193.8
+Pb= | 1768 | 193.74
+1747 | 192.95
+1712 | 192.06
+1658 | 189.91
+1628 | 188.68
+1597 | 187.24
+1543 | 184.71
+FLASH OF BOTTOM HOLE SAMPLE TO STOCK TANK CONDITIONS
+GOR | 444 | std cu ft/bbl
+Density | 0.8496 | 60/60 °F
+*This sample has been used for complete PVT Study
+--- OCR ---

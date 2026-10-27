@@ -1,0 +1,31 @@
+TABLE 7
+SAMPLING CONDITIONS
+I. RESERVOIR AND WELL CHARACTERISTICS
+Producing zone | 1222-1239M
+Static pressure | 1744 psig at 1202M
+Bottom hole temperature | 200 F
+Tubing diameter | 3 1/2" DRILL PIPE
+Casing size | 9 5/8"
+Casing shoe | 1376M
+II. SAMPLING CONDITIONS
+A) SURFACE SAMPLE(S)
+Date | 1983-09-01 00:00:00
+Choke | 1/2" Since 09hrs50
+Flowing bottom hole pressure | 1462 psig at 1202 M
+Well head pressure | 465 psig
+Separator pressure | 185 psig
+Well head temperature | 120 F
+Separator temperature | 112 F
+Gas rate (Separator.) | 458800 St cu ft/day
+Stock tank temperature | N/A
+Compressibility factor | 0.885
+Gas gravity | 1.320 (Air = 1)
+Liquid rate (Separator) | 1552.8 BOPD
+G.L.R | 295 St cu ft/bbl
+Sample( s) received | gas A 4343
+liq 1116/508 Sampling 9
+B) BOTTOM HOLE SAMPLE (S)
+Date | NA
+Choke | NA
+Sample(s) received | NA
+--- OCR ---

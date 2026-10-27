@@ -1,0 +1,24 @@
+TABLE 38
+DIFFERENTIAL VAPORIZATION OF RESERVOIR FLUID AT 206° F
+Pressure | Oil volume | Solution gas-oil | Gas volume | Reservoir
+(psig) | (bbl/Std bbl) | (Std cu ft/Std bbl) | (cu ft/Std cu ft) | oil density (g/cm3)
+6000 | 1.207 | 0.783
+5500 | 1.211 | 0.779
+5000 | 1.216 | 0.776
+4500 | 1.221 | 0.772
+4000 | 1.226 | 0.769
+3500 | 1.231 | 0.765
+3000 | 1.237 | 0.762
+2495 | 1.243 | 0.758
+2006 | 1.25 | 0.754
+Pi= 1812 | 1.253 | 0.752
+Pb= 1700 | 1.254 | 395 | 0.751
+1388 | 1.23 | 332 | 1.14 x 10-2
+1115 | 1.203 | 269 | 1.45 x 10-2
+836 | 1.176 | 205 | 1.96 x 10-2
+553 | 1.148 | 140 | 3.02 x 10-2
+276 | 1.12 | 73 | 6.10 x 10-2
+0 | 1.07 | 0
+Residual oil gravity | 0.847 | 60/60°F
+35.7 | API
+--- OCR ---

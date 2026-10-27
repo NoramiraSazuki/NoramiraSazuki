@@ -1,0 +1,20 @@
+TABLE 16
+BUBBLE POINT PRESSURE DETERMINATION AT 206°F
+Separator liquid sample ( Cylinder 22478/107)
+Pressure (psig) | Pump reading (cm3)
+6000 | 320
+5000 | 318.79
+4000 | 317.54
+3500 | 316.85
+3000 | 316.12
+2500 | 315.41
+2000 | 314.59
+Pb= 1700 | 314.11
+1694 | 313.69
+1664 | 312.92
+1633 | 311.73
+1593 | 310.21
+1545 | 303.1
+1484 | 305.6
+This sample has been used for comolete PVT study
+--- OCR ---

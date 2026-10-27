@@ -1,0 +1,29 @@
+TABLE 19
+RECEPTION OF SEPARATOR GAS
+CYLINDER | A 12700
+Opening pressure (psig) | 180
+Temperature (C) | 24
+Water Content | NIL
+TABLE 20
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS
+(MOLE PERCENT)
+Components | Cylinder
+12700
+Nitrogen | 0.03
+Carbon Dioxide | 89.09
+H2S Hydrogen Sulphide | Traces
+Methane | 8.06
+Ethane | 1.32
+Propane | 0.71
+Iso-Butane | 0.21
+N-Butane | 0.19
+I-Pentane | 0.08
+N-Pentane | 0.07
+Hexanes | 0.09
+Heptanes Plus | 0.15
+TOTAL | 99.99999999999999
+Molecular Weight | 41.796
+Gravity (Air=1) | 1.442
+Molecular Weight of Heptanes plus | 104.9
+The cylinder 12700 has been used for recombination
+--- OCR ---

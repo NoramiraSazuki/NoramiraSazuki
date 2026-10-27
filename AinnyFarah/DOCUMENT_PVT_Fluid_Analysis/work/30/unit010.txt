@@ -1,0 +1,26 @@
+SINGLE-STAGE
+HYDROCARBON ANALYSES OF SEPARATOR GAS SAMPLES
+Component | 200 PSIG | 100°F | 150 PSIG | 100°F | 100 PSIG | 100°F | 50 PSIG | 100°F
+Mol % | GPM | Mol % | GPM | Mol % | GPM | Mol % | GPM
+Hydrogen Sulfide | 0 | 0 | 0 | 0
+Carbon Dioxide | 60.18 | 60.78 | 61.16 | 61.17
+Nitrogen | 0.25 | 0.23 | 0.22 | 0.2
+Methane | 34.6 | 33.39 | 32.26 | 31.02
+Ethane | 2.91 | 0.767 | 3.1 | 0.829 | 3.29 | 0.88 | 3.44 | 0.92
+Propane | 1.33 | 0.366 | 1.58 | 0.435 | 1.86 | 0.512 | 2.41 | 0.663
+Iso-Butane | 0.33 | 0.108 | 0.41 | 0.134 | 0.52 | 0.17 | 0.79 | 0.258
+N-Butane | 0.22 | 0.069 | 0.28 | 0.088 | 0.37 | 0.117 | 0.52 | 0.164
+Iso-Pentane | 0.07 | 0.026 | 0.1 | 0.037 | 0.14 | 0.051 | 0.19 | 0.07
+N-Pentane | 0.05 | 0.018 | 0.06 | 0.022 | 0.08 | 0.029 | 0.11 | 0.04
+Hexanes | 0.03 | 0.012 | 0.04 | 0.016 | 0.06 | 0.025 | 0.09 | 0.037
+Heptanes Plus | 0.03 | 0.014 | 0.03 | 0.014 | 0.04 | 0.018 | 0.06 | 0.027
+TOTAL = | 100 | 1.38 | 100 | 1.575 | 100 | 1.802 | 100 | 2.179
+Gas Gravity
+(Air = 1.000) | 1.181 | 1.193 | 1.206 | 1.221
+Gross heating value
+(BTU per cubic foot of
+dry gas at 14.73 psia and 60°F ) | 461 | 165 | 475 | 498
+These analyses, opinions or interpretations are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use. this report is made
+The interpretations or opinions expressed represent the best judgement of Core Laboratories. Inc. (all errors and omissions excepted); but Core Laboratories. Inc. and its officers and employees
+assume no responsibility and make no warranty or representations as to the productivity, proper operation, or profitableness of any oil. gas or other mineral well or sand in connection with which such report is used or relied upon
+--- OCR ---

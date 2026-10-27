@@ -1,0 +1,13 @@
+TABLE 4
+RECEPTION OF SEPARATOR GASES
+CYLINDER | CYLINDER | CYLINDER
+A 5939 | A 12629 | A 13506
+Opening Pressure (psig) | 450 | 450 | 450
+Temperature ( F) | 75 | 75 | 75
+Water Content (cm3) | NIL | NIL | NIL
+HEAT CONTENT(BTU/cu ft) | 384. 89 | 385.65 | 389.75
+GPM + (G/CFT) | 0.391 | 0.404 | 0.448
+GPM C4 + (G/CFT) | 0.213 | 0.223 | 0.254
+GPM C5 + (G/CFT) | 0.114 | 0.12 | 0.135
+H2S LESS THAN 0.02 ppm
+--- OCR ---

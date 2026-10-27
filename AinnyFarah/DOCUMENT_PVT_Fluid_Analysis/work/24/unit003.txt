@@ -1,0 +1,34 @@
+Page | 3 of 4
+File | SFL 82035
+Well | Dulang-1
+Test 2
+HYDROCARBON ANALYSIS OF SEPARATOR PRODUCTS AND CALCULATED WELL STREAM
+SEPARATOR LIQUID | SEPARATOR GAS | WELLSTREAM
+COMPONENT | MOL % | MOL % | GPM | MOL %
+H2S Hydrogen Sulphide | 0 | 0 | 0
+CO2 Carbon Dioxide | 12.66 | 58.98 | 31.89
+N2 Nitrogen | 0 | 0.34 | 0.14
+C1 Methane | 3.91 | 37.49 | 17.85
+C2 Ethane | 0.97 | 2.12 | 0.564 | 1.45
+C3 Propane | 0.71 | 0.61 | 0.167 | 0.67
+iC4 i-Butane | 0.36 | 0.16 | 0.052 | 0.28
+nC4 n-Butane | 0.32 | 0.11 | 0.035 | 0.23
+iC5 i-Pentane | 0.27 | 0.05 | 0.018 | 0.18
+nC5 n-Pentane | 0.19 | 0.03 | 0.011 | 0.12
+C6 Hexanes | 0.34 | 0.04 | 0.016 | 0.22
+C7 Heptanes | 0.46 | 0.04 | 0.018 | 0.29
+C8 Octanes | 2.3 | 0.03 | 0.013 | 1.36
+C9 Nonanes | 1.81 | 0 | 0 | 1.06
+C10 Decanes | 1.81 | 0 | 0 | 1.06
+C11+ Undecanes Plus | 73.89 | 0 | 0 | 43.2
+100 | 100.00000000000001 | 0.8940000000000001 | 100
+Properties of Heptanes Plus
+API Gravity @ 60°F | 32
+Density, GM/CC @ 60°F | 0.8645 | 0.8645
+Molecular Weight | 273 | 103 (assumed) | 273
+Calculated separator gas gravity (air = 1.000) | 1.149
+Calculated gross heating value for separator gas per cubic foot of dry gas @ 14.73 psia and 60°F | 447 | BTU
+Primary separator gas collected @ | 265 | psig | and | 134 | °F
+Primary separator liquid collected @ | 265 | psig | and | 148 | °F
+*Primary separator gas/separator oil ratio is 342 SCF/Bbl at 148 °F
+--- OCR ---

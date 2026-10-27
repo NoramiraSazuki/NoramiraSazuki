@@ -1,0 +1,29 @@
+Sample Validity
+BOTTOM HOLE SAMPLE (S)
+1) Sample bottle No 80291 / 242
+Bubble point pressure determination at 206 F is 1500 psig
+TABLE 15
+RECEPTION OF DOWELL SCHLUMBERGER SAMPLER
+TRANSFERED IN BOTTLES | 80291 / 242 and 80291/5
+Opening pressure (psig) | 1200
+Temperature (C) | 90
+Water content (cm3) | 250
+TABLE 16
+BUBBLE POINT PRESSURE DETERMINATION AT 200°F
+Bottom hole sample ( Cylinder 80291/242 )
+Pressure (psig) | Pump reading (cm3)
+6000 | 200
+5000 | 191.65
+4000 | 182.86
+3500 | 177.93
+3000 | 172.86
+2500 | 167.71
+2000 | 162.34
+Pb= 1500 | 156.15
+1482 | 151.38
+1464 | 145.49
+1430 | 134.65
+1399 | 123.16
+1366 | 110.98
+This sample has been used for comolete PVT study
+--- OCR ---

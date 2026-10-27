@@ -1,0 +1,18 @@
+Basic Properties Data for Stock Tank Oil Samples | Wax Appearance Temperature Thermogram
+Parameter | Method | Unit | Analytical Result
+B14.01 | D26S.01
+API Gravity @ 60oF | ASTM D5002 | 37.84 | 34.67
+Specific Gravity @ 60°F | ASTM D5002 | 0.8356 | 0.8516
+Density @ 15oC | ASTM D5002 | g/mL | 0.8352 | 0.8511
+Density @ 60oF | ASTM D5002 | g/mL | 0.8348 | 0.8507
+Gross Calorific Value | ASTM D240 | MJ/kg | 43.685 | 44.325
+Reid Vapor Pressure | ASTM D323 | psi | 0.0 | #
+Pour Point | ASTM D97 | °C | 33.0 | 42.0
+Water Content | ASTM D4928 | Weight % | 0.5047 | 0.1778
+Wax Content | UOP-46 | Weight % | 17.7 | 29.5
+WAT (Wax Appearance Temperature) | DSC | °C | 32.93 | 50.24
+Note
+Analyses were done on decanted crude oil
+# Unable to proceed with Reid Vapor Pressure analysis as Pour Point temperature was observed to be above
+100°F
+--- OCR ---

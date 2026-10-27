@@ -1,0 +1,28 @@
+FLASH SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+Molecular composition
+Components | Stock Tank Liquid | Evolved Gas | Recombined Separator Liquid
+Mol % | Mol % | Mol %
+N2 Nitrogen | 0. 00 | 0. 00 | 0. 00
+CO2 Carbon Dioxide | 0. 00 | 72.7 | 25.56
+H2S Hydrogen Sulphide | Traces (0.02 ppm) | Traces (0.02 ppm)
+C1 Methane | 0 | 13.24 | 4.66
+C2 Ethane | 0 | 2.86 | 1.01
+C3 Propane | 0.05 | 4.02 | 1.45
+iC4 i-Butane | 0.09 | 2.08 | 0.79
+nC4 n-Butane | 0.38 | 1.79 | 0.88
+iC5 i-Pentane | 0.45 | 1.17 | 0.7
+nC5 n-Pentane | 0.62 | 0.79 | 0.68
+C6 Hexanes | 2.79 | 1.04 | 2.17
+C7 Heptanes | 17.59 | 0.12 | 11.44
+C8 Octanes | 22.88 | 0.18 | 14.91
+C9 Nonanes | 17.21 | 0.01 | 11.16
+C10 Decanes | 12.03 | 0 | 7.8
+C11 Undecanes | 6.84 | 0 | 4.43
+C12+ Dodecanes Plus | 19.07 | 0 | 12.36
+TOTAL | 100 | 100.00000000000003 | 99.99999999999999
+Molecular weight | 136.9 | 41.651 | 103. 4
+Gravity | 0.774 60/60 F | 1. 437 (Air = 1)
+Molar ratio | 64.81 | 35. 19 | 100
+Mass ratio | 85.83 | 14.17 | 100
+Molecular weight of Dodecanes plus in STO: 209
+--- OCR ---

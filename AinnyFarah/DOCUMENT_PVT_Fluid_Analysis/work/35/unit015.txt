@@ -1,0 +1,22 @@
+SUMMARY OF ADJUSTED DATA TO SURFACE CONDITIONS OF 205 PSIG AT 160°F TO 0 PSIG AT 140°F
+Pressure (psig) | Solution Gas-Oil Ratio (Rs) (1) | Formation Vol Factor (Bo) (2) | Total Formation Vol Factor (Bt) (3) | Gas Formation Volume Factor Bg (4) | Oil Density @ 211°F (5) | Oil/Gas Viscosity Ratio
+1780* | 313 | 1.186 | 1.186 | 0.7688
+1600 | 313 | 1.189 | 1.189 | 0.7672
+1500 | 313 | 1.19 | 1.19 | 0.7663
+1370** | 313 | 1.192 | 1.192 | 0.7651
+1150 | 261 | 1.171 | 1.306 | 0.00256 | 0.7679 | 56.7
+950 | 214 | 1.152 | 1.463 | 0.00314 | 0.7699 | 64.5
+750 | 168 | 1.135 | 1.722 | 0.00404 | 0.7716 | 73.9
+550 | 122 | 1.117 | 2.181 | 0.00558 | 0.7731 | 85.3
+350 | 76 | 1.099 | 3.193 | 0.00882 | 0.7745 | 99.1
+159 | 28 | 1.078 | 6.464 | 0.01891 | 0.7766 | 115.1
+0 | 0.7788
+gravity of stock tank oil | 38.2 API @ 60F
+*Reported reservoir pressure @ 205°F
+**Bubble point pressure of reservoir fluid @ 205°F
+1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per stock tank barrel @ 60°F)
+2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barrel @ 60°F)
+3) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F
+4) Barrels of gas at indicated pressure and reservoir temperature, 211°F per cubic foot @ 14.73 psia and 60°F
+5) Gm/Cc
+--- OCR ---

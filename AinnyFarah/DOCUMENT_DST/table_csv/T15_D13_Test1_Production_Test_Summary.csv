@@ -1,0 +1,25 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit (as printed / hand-corrected)
+59,,Well,DULANG 7,
+59,,Test,1 (E-34/36),
+59,,Date,04/09/90,
+59,1,Interval,1425 - 30 m,
+59,2,Produced fluid,"OIL, ASSOC GAS",
+59,3,Cumulative production,448.2,STB (MMSCF crossed out)
+59,4,Average rate,763.2,STB/D (MMSCF/D crossed out)
+59,5,Length of flow period,17 hrs 55 min,"hr, min"
+59,6,Choke,24,64ths
+59,7,Gravity of oil or condensate,39.2 (γg = 1.014),°API @ 60°F
+59,8,GOR or Condensate - Gas Ratio,437 (AVERAGE OVER LAST 2 hrs),SCF/STB (STB/MMSCF crossed out)
+59,9,Water cut,0 (NONE),%
+59,10,Chlorides,-,ppm
+59,11,H2S,0,"%, ppm"
+59,12,CO2,55 - 60,%
+59,13,Average flowing wellhead pressure,445,psig
+59,14,Average flowing wellhead temperature,73,°F
+59,15,Wellhead pressure at end of buildup,711,psig
+59,16,Initial reservoir pressure (from Buildup),1992.3 @ 1420 (1999.4 psia @ 1427.0 m),psia @ m (ft crossed out)
+59,17,Final flowing pressure,1546.9 @ 1420,psia @ m (ft crossed out)
+59,18,Productivity index,1.71,STB/D/psi
+59,19,Maximum bottom-hole temperature,222.3 @ 1420 m,°F @ m (ft crossed out)
+59,20,Samples taken,"2 - 628 ml OIL, 4 - 10 LITRE GAS PRESSURIZED, 2 - 300 ml GEOCHEM (GAS), 4 - 1 GALLON OIL ATMOSPHERIC",
+59,21,Remarks,POUR POINT = 90 °F (DARK BROWN COLOR) K = 59.8 md (h = 11 m),

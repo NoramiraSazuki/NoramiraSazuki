@@ -1,0 +1,30 @@
+TABLE 35
+MOLECULAR COMPOSITION OF RESERVOIR FLUID (Mole percent)
+Bottom hole sample 9214/296 - 1116/33 from Dowell Schlumberger Sampler
+COMPONENT | STOCK TANK LIQUID | EVOLVED GAS | RESERVOIR FLUID
+(MOL %) | (MOL %) | (MOL %)
+N2 Nitrogen | 0 | 0.05 | 0.02
+CO2 Carbon Dioxide | 0 | 66.66 | 31.42
+H2S Hydrogen Sulphide | 0 | traces | traces
+C1 Methane | 0 | 10.41 | 4.91
+C2 Ethane | 0 | 2.69 | 1.27
+C3 Propane | 0.04 | 17.42 | 8.23
+iC4 i-Butane | 0.05 | 0.65 | 0.33
+nC4 n-Butane | 0.08 | 0.55 | 0.3
+C5 Neo-Pentane | 0.22 | 0.3 | 0.26
+iC5 i-Pentane | 0.09 | 0.23 | 0.16
+nC5 n-Pentane | 0.21 | 0.34 | 0.27
+C6 Hexanes | 0.79 | 0.34 | 0.58
+C8 Octanes | 3.36 | 0.21 | 1.88
+C9 Nonanes | 4.23 | 0.15 | 2.3
+C10 Decanes | 4.21 | 0 | 2.22
+C11 Undecanes | 3.65 | 0 | 1.93
+C12+ Dodecanes Plus | 83.07 | 0 | 43.91
+TOTAL | 100 | 100 | 100
+Molecular weight | 245 | 41.658 | 149.1
+Gravity | 0.842 60/60°F | 1.437 (Air=1)
+Molar ratio | 52.86 | 47.14 | 100
+Mass ratio | 86.83 | 13.17 | 100
+Molecular weight of Dodecanes plus in STO | 268
+Gravity of Dodecanes plus in STO | 0.848 (60/60°F)
+--- OCR ---

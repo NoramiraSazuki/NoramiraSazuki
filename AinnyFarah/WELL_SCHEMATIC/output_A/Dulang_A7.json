@@ -1,0 +1,73 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "Dulang_A7",
+    "packerFluid": "",
+    "rig": "TIOMAN 1",
+    "surfaceCasing": "",
+    "totalDepth": 1804.0,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a7-01",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 293.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 6: 'NIPPLE' @ 293.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a7-02",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 1695.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 6: 'CENTRALIZER' @ 1695.6 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a7-03",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 1701.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'WEG' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 6: 'WEG' @ 1701.2 (read identically in OCR passes abc; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

@@ -1,0 +1,45 @@
+15
+Compositional Analysis of Flashed Gas from BHS Water Sample to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 17 Feb 2013
+CO2 | Carbon Dioxide | 89.36899999999999 | 95.509 | Sampling Time | 01:43 hrs
+N2 | Nitrogen | 0.276 | 0.188 | Sampling Location | DLD-32L
+C1 | Methane | 9.983 | 3.889 | Sample Description | Flashed Gas
+C2 | Ethane | 0.24 | 0.176 | Cylinder Number | 5099-S1-F
+C3 | Propane | 0.038 | 0.041 | Sampling Conditions
+iC4 | i-Butane | 0.004 | 0.005
+nC4 | n-Butane | 0.003 | 0.005 | Additional Sample Information
+C5 | Neo-Pentane | 0.0 | 0.0 | Opening Pressure | psig
+iC5 | i-Pentane | 0.003 | 0.005 | Opening Temperature | °F
+nC5 | n-Pentane | 0.001 | 0.001 | Total Air Content | Mole%
+C6 | Hexanes | 0.007 | 0.013000000000000001 | Our Lab Identification | 21480.0
+M-C-Pentane | 0.002 | 0.004
+Benzene | 0.029 | 0.055 | Notes
+Cyclohexane | 0.001 | 0.002 | 0.00 means less than 0.005
+C7 | Heptanes | 0.0 | 0.0
+M-C-Hexane | 0.0 | 0.001
+Toluene | 0.029 | 0.065
+C8 | Octanes | 0.0 | 0.0
+E-Benzene | 0.001 | 0.002
+M/P-Xylene | 0.01 | 0.025
+O-Xylene | 0.002 | 0.006
+C9 | Nonanes | 0.0 | 0.0
+C10 | Decanes | 0.001 | 0.005
+C11 | Undecanes | 0.0 | 0.001
+C12+ | Dodecanes Plus | 0.001 | 0.002
+Totals | 100.0 | 100.0
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.076 | 0.168 | 90.26986855238307 | 0.8665079421218996
+C8+ | Octanes plus | 0.044000000000000004 | 0.10700000000000001 | 98.59862631986333 | 0.8652622768963696
+C10+ | Decanes plus | 0.002 | 0.008 | 141.7690643955574 | 0.7850188922922725
+C12+ | Dodecanes plus | 0.001 | 0.002 | 161.0 | 0.8
+Calculated Whole Gas Properties
+Real Relative Density | 1.4294 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 41.18 | g.mol-1
+Gas Density | 1.7508 | kg.m-3 @ 15°C
+Calorific Value | 4.14 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 3.73 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+Gas Water Ratio (GWR) | 48.4 | scf/bbl
+--- OCR ---

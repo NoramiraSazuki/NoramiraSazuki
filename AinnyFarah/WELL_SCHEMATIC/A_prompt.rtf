@@ -1,0 +1,52 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Read only this source PDF:\
+\
+/Volumes/homes/public/DulangOSS/20261016/DULANG_WELLS/Well_Schematic/1. Well Schematic/Dulang A/Dulang A Well Schematic updated rev1.pdf\
+\
+Rules:\
+- Treat the source PDF as strictly read-only. Do not modify, rename, move, overwrite, annotate, or delete it.\
+- Perform OCR and visual verification of every well-schematic page.\
+- Extract data only into the exact schema defined by `well-schematic-template-json`.\
+- Use exact-match extraction only. Do not infer, estimate, normalize, merge, correct, or substitute values from nearby text, other pages, filenames, or external sources.\
+- If a template field is not explicitly present and readable in the PDF for that well, leave it empty using the template\'92s defined empty-value convention.\
+- Keep original units, spelling, casing, dates, and numeric precision exactly as shown in the PDF.\
+- Separate output by well: create exactly one JSON file per well.\
+- Write output files only to the output directory below; do not write beside or inside the source PDF folder.\
+- Report pages where a well name or required value is unreadable; do not guess its data.\
+- Validate every generated JSON file against `well-schematic-template-json` before completing.\
+\
+Output directory:\
+\
+/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/WELL_SCHEMATIC/output_A\
+\
+Well-name standardization:\
+- Use the standardized well name as the JSON filename and as the `well_name` identifier in the JSON.\
+- If supported by `well-schematic-template-json`, preserve the exact PDF label in `source_well_name`.\
+- Format standardized names as `Dulang_A<well-number><suffix>`.\
+- Remove source prefixes and separators such as `DLA-`, `A-`, `DLA #`, spaces, and hyphens.\
+- Remove leading zeros from the numeric portion.\
+- Preserve a suffix only when it is explicitly shown on that well\'92s PDF page, including `ST`, `ST1`, or `ST2`.\
+- Do not invent, add, remove, or alter suffixes.\
+\
+Examples:\
+- `DLA-01` \uc0\u8594  `Dulang_A1`\
+- `A-2` \uc0\u8594  `Dulang_A2`\
+- `A-11ST` \uc0\u8594  `Dulang_A11ST`\
+- `A-12ST1` \uc0\u8594  `Dulang_A12ST1`\
+- `DLA #28` \uc0\u8594  `Dulang_A28`\
+- `A-33ST2` \uc0\u8594  `Dulang_A33ST2`\
+\
+Output filename examples:\
+- `Dulang_A1.json`\
+- `Dulang_A2.json`\
+- `Dulang_A11ST.json`\
+- `Dulang_A12ST1.json`\
+}

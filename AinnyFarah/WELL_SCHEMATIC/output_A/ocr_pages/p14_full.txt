@@ -1,0 +1,86 @@
+For Internal Use - For Internal Distribution Only
+
+DULANG REVISIT I FB — N3B
+
+A-1738T1 WELL COMPLETION DIAGRAM
+
+Well No. :A-17st1 Date : 26 November 2001
+Location - AA All Depth in :im-MDDBF
+
+Wellhead : Cooper Cameron, 3-1/8", 3000 psi. RKB 131.55 m
+
+Tubing : 2 7/8", G.4ppf, L-80, Vam Ace Max Deviation :78 @ 2431 m-MDDF
+
+LONG
+STRING
+
+SHORT
+STRING
+
+[aX] MIN [DEPTH]
+
+set 2.31" PXX Plug @ 145. -
+mMDTHE (6/11/17)
+
+|
+4.600 |2.313
+13.678/2.313
+
+14.615|2.397
+
+|
+pore 2.397
+
+4.615 |2.397
+HUD @ 1392 m-THF 4
+3.678 |2.313|
+
+13.678|2.225
+
+2.875 |2.410 |
+
+—* |
+= 7" BWD PKR 4.5" x 3.88"
+| Bore
+
+= 4" J-55 NU B-P WWS 8 ga __| 1868 3.250 /5.875
+|
+
+|
+
+ea 7" BWD PKR 4.5" x 3.88" 4884 | 2.313/3.220
+F—) Bore |
+| SLIMLINE SSD#1(OPENED) |
+1922 | 3.250]5.875 |
+
+4" P110 NU B-P WWS 8 ga
+
+|
+4-1/2" L-80 LCT B-P Blank | ]
+E12/13 3
+1818.5- 1834.5
+3.25"
+
+Seal Bore Assembly >
+
+hil
+a
+|
+
+Open _
+} __1858.5 - 1886.5 | 7» wo PKR 4.5"x3.88" | 2099 | 2.225|3.200
+3.25" Seal Bore Assembly | Ger $ Bore
+g XN NO-GO (OPENED) 2103 | 2.400)/3.200
+Ss} |PERFORATED PUP |
+ll - CONICAL SHOE
+rT - E40 E
+|Note: open : | 2426 |
+Conical Shoe on Long 2315.5 — 2352.5 | 2454
+String is pinned with 2 |
+pins (+/-1000 psi) and = PBTD
+still not sheared, al ‘Sian . 7" Liner Shoe | |
+LAST ENTRY 76 Nov 2017 -
+TYPE OF JOB : A-17L: To perform set plug
+Open UPDATED BY : Ariff Shazwan
+
+DATE :4 Feb 2018

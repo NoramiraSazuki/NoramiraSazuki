@@ -1,0 +1,17 @@
+SUMMARY AND MAIN RESULTS
+CYLINDER No: 15089/12 (FLO 350)
+The initial reservoir conditions are
+Pi | 1775 | PSIG
+T | 203 | ° F
+Bubble point pressure determined on sample which was selected for complete P.V.T. study is
+Pb | 1660 | PSIG
+T | 203 | ° F
+C | 16.56 x 10-6 psi 1 (1775- 1660 psig)
+Main differential vaporization data at reservoir temperature
+Pi | Pb
+oil volume factor (bbl/Std bbl) | 1. 242 | 1.245
+solution gas-oil ratio (Std cu ft/bbl) | 425 | 425
+reservoir fluid density (g/cm3) | 0.794 | 0.792
+Residual oil gravity | 0.864 60/60 F
+32. 3 API
+--- OCR ---

@@ -1,0 +1,21 @@
+HYDROCARBON ANALYSIS OF SEPARATOR GAS SAMPLES
+COMPONENT | MOL % | GPM
+H2S Hydrogen Sulphide | 0
+CO2 Carbon Dioxide | 59.09
+N2 Nitrogen | 0.59
+C1 Methane | 38.2
+C2 Ethane | 1.28 | 0.34
+C3 Propane | 0.32 | 0.088
+iC4 i-Butane | 0.09 | 0.029
+nC4 n-Butane | 0.07 | 0.022
+iC5 i-Pentane | 0.03 | 0.011
+nC5 n-Pentane | 0.02 | 0.007
+C6 Hexanes | 0.06 | 0.024
+C7 Heptanes | 0.1 | 0.045
+C8 Octanes | 0.1 | 0.045
+C9 Nonanes | 0.04 | 0.018
+C10 Decanes | 0.01 | 0.05
+C11+ Undecanes Plus | TR | 0
+Calculated gas gravity (air = 1.000) | 1.144
+Calculated gross heating value (BTU per cubic foot of dry gas at 14.65 psia and 60°F) | 429
+--- OCR ---

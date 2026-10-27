@@ -1,0 +1,59 @@
+COMPLETION TYPE :
+SINGLE STRING
+
+DULANG
+25-Oct-01
+
+COMPLETED WELL COMPLETION DIAGRAM : DLA-01
+
+DULANG A
+
+WELL : DLA-01 (WORKOVER
+
+| casing [om NBO BUTRESS
+
+ZAINI (P-TECH                                       [| tupinc ave Tt AMS 28 |
+
+SELECTIV
+
+COMPLETION FLUID :
+E OIL PRODUCER                                8.6 ppg FILTERED SEAWATER WITH 3% KCI
+
+SINGLE STRING                                          i                                    COMPLETION EQUIPMENT          DS ka
+
+FLOW COUPLING
+CAMCO TRM-4A TRSCSSV
+
+Carn X- NIPPLE
+
+SPM (w/ BK1 8/64, Ptro 815 psi)
+
+SPM (w/ duinmy)
+
+SPM (w/ BK1 12/64, Ptro 875 psi)
+
+SPM (w/ BK1 12/64, Piro 900 psi)
+
+SPM (wi GLOV 16/64)
+
+X- NIPPLE
+
+x
+@
+41 17" x 4.5" x 3.88" BWD GP Packer
+|_|
+SLIMLINE SSD (3.22" OD) X-PROFILE                                                                    4 1/2" BLANK PIPE
+E14 (OIL PRODUCER)
+Perf Intervals                                                   4” WW. SCREEN
+1415 - 1424
+4.5" COLLET SEAL ASSY.
+7” x 4.5" x 3.88" BWD Sump Packer
+E23 Lower (OIL PRODUCER)                                                         SLIMLINE SSD (3.22” OD) X-PROFILE
+Pert. Intervals                                            Ret                          BLAST JOINT (1457.8 - 1485.8 m)
+1485.0 - 1492 5                                              Bean                           (MAX OD 3.20")
+7" x 4.5" x 3.88" BWD Sump Packer
+}                                                       NOGO NIPPLE
+E36 (OIL PRODUCER)                                           —                             CONICAL
+Perf. Intervals
+1557.0 - 1568.0
+BAT ce: = IPBTD @ 1602 M

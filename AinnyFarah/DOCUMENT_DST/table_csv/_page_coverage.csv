@@ -1,0 +1,124 @@
+﻿Page,Status,CSV file(s) / Description
+1,No table,Cover
+2,No table,Transmittal memo (text)
+3,No table,Title page
+4,No table,Table of contents
+5,No table,Summary (text)
+6,No table,Summary (text)
+7,No table,Discussion (text)
+8,No table,Discussion (text)
+9,No table,Test procedure (text)
+10,No table,Test equipment / discussion (text)
+11,No table,Discussion of results (text)
+12,No table,Discussion of results (text)
+13,No table,Divider: TABLES
+14,Table extracted,T01_Table1_Production_Test_Summary.csv
+15,Table extracted,T02_Table2_Production_Test_Sample_Summary.csv
+16,Table extracted,T03_Table3_Test1_Horner_Analysis.csv
+17,Table extracted,T04_Table4_Test1_Type_Curve_Analysis.csv
+18,No table,Divider: FIGURES
+19,No table,Figure 1: tail pipe assembly sketch
+20,No table,Figure 2: surface equipment layout sketch
+21,No table,Figure 3: bottomhole pressure gauge assembly sketch
+22,No table,Figure 4: Horner plot (chart; header parameters duplicated in Table 3)
+23,No table,Figure 5: type-curve plot (chart; header parameters duplicated in Table 4)
+24,No table,Divider: APPENDIX A
+25,Table extracted,T07_D1_Test1_Completion_Data.csv
+26,Table extracted,T08_D1A_Test1_Perforation_WHP_Record.csv
+27,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+28,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+29,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+30,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+31,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+32,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+33,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+34,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+35,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+36,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+37,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+38,Table extracted,T09_D5_Test1_Production_Test_Data_Sheet.csv
+39,Table extracted,T10_D7_Test1_Oil_Rate_Calculations.csv
+40,Table extracted,T10_D7_Test1_Oil_Rate_Calculations.csv
+41,Table extracted,T11_D8_Test1_Gas_Rate_Calculations.csv
+42,Table extracted,T11_D8_Test1_Gas_Rate_Calculations.csv
+43,Table extracted,T12_D9_Test1_Liquid_Sample_Field_Analysis.csv
+44,Table extracted,T13_D10_Test1_Gas_Sample_Field_Analysis.csv
+45,Table extracted,T14_D11_Test1_Wellbore_Gradient_Data.csv
+46,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+47,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+48,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+49,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+50,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+51,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+52,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+53,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+54,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+55,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+56,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+57,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+58,Table extracted,T05_D12_Test1_CRG_Bottom_Hole_Results.csv
+59,Table extracted,T15_D13_Test1_Production_Test_Summary.csv
+60,Table extracted,T16_D15_Test1_Separator_Sample_Data.csv
+61,No table,Divider: APPENDIX B
+62,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+63,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+64,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+65,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+66,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+67,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+68,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+69,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+70,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+71,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+72,Table extracted,T17_D5_Test1A_Production_Test_Data_Sheet.csv
+73,Table extracted,T18_D7_Test1A_Oil_Rate_Calculations.csv
+74,Table extracted,T18_D7_Test1A_Oil_Rate_Calculations.csv
+75,Table extracted,T18_D7_Test1A_Oil_Rate_Calculations.csv
+76,Table extracted,T19_D8_Test1A_Gas_Rate_Calculations.csv
+77,Table extracted,T19_D8_Test1A_Gas_Rate_Calculations.csv
+78,Table extracted,T19_D8_Test1A_Gas_Rate_Calculations.csv
+79,Table extracted,T20_D9_Test1A_Liquid_Sample_Field_Analysis.csv
+80,Table extracted,T20_D9_Test1A_Liquid_Sample_Field_Analysis.csv
+81,Table extracted,T21_D10_Test1A_Gas_Sample_Field_Analysis.csv
+82,Table extracted,T22_D13_Test1A_Production_Test_Summary.csv
+83,No table,Divider: APPENDIX C
+84,Table extracted,T23_D1_Test2_Completion_Data.csv
+85,Table extracted,T24_D1A_Test2_Perforation.csv
+86,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+87,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+88,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+89,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+90,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+91,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+92,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+93,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+94,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+95,Table extracted,T25_D5_Test2_Production_Test_Data_Sheet.csv
+96,Table extracted,T26_D7_Test2_Oil_Rate_Calculations.csv
+97,Table extracted,T27_D8_Test2_Gas_Rate_Calculations.csv
+98,Table extracted,T28_D9_Test2_Liquid_Sample_Field_Analysis.csv
+99,Table extracted,T29_D10_Test2_Gas_Sample_Field_Analysis.csv
+100,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+101,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+102,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+103,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+104,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+105,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+106,Table extracted,T06_D12_Test2_CRG_Bottom_Hole_Results.csv
+107,Table extracted,T30_D13_Test2_Production_Test_Summary.csv
+108,Table extracted,T31_D15_Test2_Separator_Sample_Data.csv
+109,No table,Divider: APPENDIX D
+110,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+111,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+112,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+113,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+114,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+115,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+116,Table extracted,T32_D5_Test2A_Production_Test_Data_Sheet.csv
+117,Table extracted,T33_D7_Test2A_Oil_Rate_Calculations.csv
+118,Table extracted,T33_D7_Test2A_Oil_Rate_Calculations.csv
+119,Table extracted,T34_D8_Test2A_Gas_Rate_Calculations.csv
+120,Table extracted,T34_D8_Test2A_Gas_Rate_Calculations.csv
+121,Table extracted,T35_D9_Test2A_Liquid_Sample_Field_Analysis.csv
+122,Table extracted,T36_D10_Test2A_Gas_Sample_Field_Analysis.csv
+123,Table extracted,T37_D13_Test2A_Production_Test_Summary.csv

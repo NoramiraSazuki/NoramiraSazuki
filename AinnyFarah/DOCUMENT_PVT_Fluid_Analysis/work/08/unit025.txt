@@ -1,0 +1,39 @@
+API WATER ANALYSIS | API WATER ANALYSIS
+Well | Dulang A-14 (18:00hrs) | Well | Dulang A-14 (18:00hrs)
+Field | Field
+Client Sample Number | Client Sample Number
+Sampled by Client | 18:00hrs | Sampled by Client | 18:00hrs
+Sampled From | Sampled From
+Analysed | Analysed
+Our Sample Number | 20100151.006 | Our Sample Number | 20100151.006
+Appearance before filtration | Hazy colourless water with rusty precipitate at bottom of bottle
+STIFF DIAGRAMS
+Appearance after filtration | Slightly Hazy Colourless Water
+Total dissolved solids (mg.litre-1) | 170520
+Specific gravity at 60°F | 1.1143276416758259
+Determined Resistivity (ohm.metre at 60°F) | 0.06555121293800541
+Hydrogen sulphide | Not Detected
+pH at 20°C | 7.155
+Components | mg.litre-1 | meq.litre-1
+CATIONS
+Sodium | 54490 | 2370
+Potassium | 10140 | 260
+Calcium | 735 | 37
+Magnesium | 1560 | 130
+Barium | < 0.50 | < 0.01
+Strontium | 17 | 0.40
+Total Iron | 580
+Dissolved Iron | < 0.10 | < 0.01
+ANIONS
+Chloride | 98250 | 2770
+Sulphate | 4340 | 90
+Bicarbonate | 990 | 16
+Carbonate | NIL | NIL
+Hydroxide | NIL | NIL
+ADDITIONAL COMPONENTS
+Boron | 5.5
+Aluminium | < 1.0
+Silicon | 3.6
+Phosphorus | < 0.30
+Lithium | 2.1
+--- OCR ---
