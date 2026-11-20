@@ -1,0 +1,32 @@
+== Excel template
+Components 40 Plug_Back_Cement 0 Formations 0 Formation_Tops 3
+PASS - Only the 5 target sheet XML parts changed (README, Component_Types, styles, header notes, other sheets byte-identical)
+PASS - Components dropdowns kept (1 x14 + standard lists)
+PASS - Components: template columns A:AC unchanged, extra columns after AC
+PASS - Components: 40 rows, template example rows removed
+PASS - Every Component_Type is in the Component_Types list
+PASS - Component_IDs unique
+PASS - Components: all written values equal extracted values; every ft depth = m × 3.28084
+PASS - Equipment names identical to source text
+PASS - Well_Info: property labels unchanged; values written
+PASS - Plug_Back_Cement: 0 rows written
+PASS - Formations: 0 rows written
+PASS - Formation_Tops: 3 rows written
+PASS - Sheets with no source data left empty (Cement, Centralizers, Float_Equipment, Surveys, Fluid_Contacts)
+PASS - Source file unchanged
+PASS - Template unchanged
+Dulang_A26ST1_Well_Schematic_Populated.xlsx Dulang_A26ST1_Mapping_Review.xlsx
+== JSON template
+PASS - Valid JSON; top-level sections and order identical to template
+PASS - wellInfo: all template keys present in template order
+PASS - components: 40 records (template samples removed)
+PASS - Every component type is a Component_Types key
+PASS - Component ids unique
+PASS - Every ft depth = m × 3.28084 (3 dp)
+PASS - Component names identical to source cells
+PASS - Values identical to the Excel output (same extraction)
+PASS - Template sample surveys / formationTops removed
+PASS - Source file unchanged
+PASS - JSON template (.rtf) unchanged
+PASS - Excel template unchanged
+Dulang_A26ST1_Well_Schematic.json Dulang_A26ST1_JSON_Mapping_Review.xlsx

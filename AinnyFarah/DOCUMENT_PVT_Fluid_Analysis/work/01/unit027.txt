@@ -1,0 +1,23 @@
+TABLE 25
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS
+(MOLE PERCENT)
+Components | Cylinder
+13479
+Nitrogen | 0
+Carbon Dioxide | 44.35
+H2S Hydrogen Sulphide | traces
+Methane | 47.36
+Ethane | 4.35
+Propane | 2.47
+Iso-Butane | 0.69
+N-Butane | 0.38
+I-Pentane | 0.12
+N-Pentane | 0.08
+Hexanes | 0.08
+Heptanes Plus | 0.12
+TOTAL | 100
+Molecular Weight | 30.476
+Gravity (Air=1) | 1.052
+Molecular Weight of Heptanes plus | 106
+The cylinder 3479 has been used for recombination
+--- OCR ---

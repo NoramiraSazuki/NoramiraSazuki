@@ -1,0 +1,29 @@
+TABLE 21
+RECEPTION OF SEPARATOR GAS
+CYLINDER | A 9015
+Opening pressure (psig) | 180
+Temperature (C) | 22
+Water Content | NIL
+TABLE 22
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS (ES)
+(MOLE PERCENT)
+Components | Cylinder
+9015
+Nitrogen | 0.04
+Carbon Dioxide | 91
+H2S Hydrogen Sulphide | traces
+Methane | 6.61
+Ethane | 1.12
+Propane | 0.62
+Iso-Butane | 0.19
+N-Butane | 0.14
+I-Pentane | 0.06
+N-Pentane | 0.04
+Hexanes | 0.06
+Heptanes Plus | 0.12
+TOTAL | 100.00000000000003
+Molecular Weight | 42.175
+Gravity (Air=1) | 1.455
+Molecular Weight of Heptanes plus | 107.2
+The cylinder 9015 has been used for recombination
+--- OCR ---

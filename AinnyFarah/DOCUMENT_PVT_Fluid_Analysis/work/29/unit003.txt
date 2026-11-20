@@ -1,0 +1,25 @@
+Page | 7 of 17
+Report Date | 1982-12-22 00:00:00
+Report No | SFL 82142
+Well | DULANG 6G-7-1 PVT DST4-2
+Sample Date | 1982-07-05 00:00:00
+Lab Receive Date
+Lab | CORE LABORATORIES
+Company | PETRONAS CARIGALI
+Bottom Hole Sample | CYLINDER | 9024-37
+MOLECULAR COMPOSITION OF RESERVOIR FLUID
+COMPONENT | Mol % | Weight % | Density | °API at 60°F | Molecular Weight
+Gm/Cc at 60°F
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 37.69 | 12.34
+N2 Nitrogen | 0.06 | 0.01
+C1 Methane | 11.64 | 1.39
+C2 Ethane | 1.13 | 0.25
+C3 Propane | 0.79 | 0.26
+iC4 i-Butane | 0.29 | 0.13
+nC4 n-Butane | 0.4 | 0.17
+iC5 i-Pentane | 0.28 | 0.15
+nC5 n-Pentane | 0.15 | 0.08
+C6 Hexanes | 0.35 | 0.22
+C7+ Heptanes Plus | 47.22 | 85 | 0.837 | 37.4 | 213
+--- OCR ---

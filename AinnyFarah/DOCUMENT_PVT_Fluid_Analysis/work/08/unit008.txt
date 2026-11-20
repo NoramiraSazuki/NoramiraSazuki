@@ -1,0 +1,41 @@
+1.0 | 2.0 | 2.0
+Reported Well and Sampling Information
+Separator Gas Cyl# 4878 & Separator Condensate Cyl# 819614 | Summary of Validation Data | Summary of Recombined Reservoir Fluid Sample
+Reservoir and Well Information
+Separator Gas | Recombined Reservoir Fluid Sample
+Field | n/a | Free
+Well | Dulang A-14 | Sample | Original | Transferred into | Separator | *Laboratory opening | Liquid | Air | Sep Liq & | Recomb | Sample | Reservoir Cond | Saturation | Sample
+Number | Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | Temp | Drained | Content | Sep Gas | Cylinder | Nature | Pressure | Temp | Pressure | Temp | Volume
+Location | W. Malaysia | (psig) | (°F) | (psig) | (°F) | (cm3) | (Mole%) | Cyl # | Number | (psig) | (°F) | (psig) | (°F) | (cm3)
+Reservoir Pressure | 1228.3 psig
+Reservoir Temperature | 133°F | ***1.02 | 4878.0 | TS 105102 | 202.27 | 57.0 | 191.0 | 77.9 | 0.0 | 0.024 | 819614 & 4878 | TS 75403 | Gas | 1228.27 | 133.0 | 1220.0 | 133.0 | 250.0
+Installation | n/a | 1.03 | 4179.0 | TS 99604 | 178.27 | 38.0 | 167.0 | 77.9 | 0.0 | 0.005
+Test | n/a
+Perforated Interval | n/a | 1.04 | 4186.0 | TS 94401 | 176.27 | 39.0 | 167.0 | 77.9 | 0.0 | 0.061
+Sampling Information
+Date sampled | 1st August 2010 | Notes
+Time sampled | 19:02 - 19:44 hrs | Recombined reservoir fluid sample was selected for further PVT study
+Sample Type | Separator | Separator Condensate
+Sampling company | Halliburton | Laboratory | Total water
+Sample | Original | Transferred into | Separator | Bubble point | recovered | Sample
+Choke | 48/64" | Number | Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | Temp | from sample | Volume
+Status of well | n/a | (psig) | (°F) | (psig) | (°F) | side (cm3) | (cm3)
+Wellhead pressure | 739.3 psig | ***1.01 | 819614.0 | TS 93304 | 202.27 | 57.0 | **305 | 70.0 | 40.0 | 300.0
+Wellhead temperature | 93°F
+Separator pressure | 202.3 psig
+Separator temperature | 57°F
+Pressure base | n/a
+Temperature base | n/a
+Gas rate | 6.374 MMscf/d | Notes
+Condensate rate (std) | 13.7 bbl/d | * The laboratory opening pressure was taken at ambient laboratory temperature since the reported separator
+Water flowrate | 78 bbl/d | temperature was below the ambient laboratory temperature
+Gas gravity factor | 0.917 | ** The bubble point measurement was performed at ambient laboratory temperature since the reported separator
+Supercompressibility factor | 1.031 | temperature was below the ambient laboratory temperature
+H2S | 0.0 | *** Samples selected for wellstream composition calculation & physical recombination
+CO2 | 0.56
+BS&W | n/a
+Oil S.G (°API) | 50.4
+Comments
+Above data obtained from Surface Sampling Report by Halliburton
+n/a : data not applicable or not reported
+--- OCR ---

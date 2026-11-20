@@ -1,0 +1,8 @@
+QUALITY CHECKS OF SUBSURFACE SAMPLES
+Type of sample | Subsurface fluid
+Cylinder no | 814580 | 813650 | 813651
+Opening pressure at room temperature 20°C ( psig ) | 1710 | 1620 | 2630
+Brine recovered ( cc ) | 620 | 656 | 50
+Approximate sample volume (cc ) | 80 @ 2000 PSIG | 40 @ 1500 PSIG | 600 @ 3000 PSIG
+Dew point pressure at reservoir temperature, 200 °F (psig) | NA | NA | 3850
+--- OCR ---

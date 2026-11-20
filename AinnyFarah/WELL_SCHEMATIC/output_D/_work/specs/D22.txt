@@ -1,0 +1,39 @@
+WELL | D22 | 22 | image58.png | WELL D-22 : SINGLE WAG INJECTOR
+SRC | 22 | image58.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 09 AUGUST 1996
+INFO | rig | TEKNIK BERKAT (TENDER ASSISTED)
+INFO | tubing | 3-1/2" ( 9.2 PPF, N-80, TKC 40-40 )
+INFO | xmas | INGRAM CACTUS, SINGLE 3-1/8" X 11", 5000 PSI
+INFO | packerFluid | 9.3 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 78.3 DEG.@1137.3m-MDTHF
+INFO | completionType | SINGLE WAG INJECTOR
+CASING | 13 3/8" K-55 SURF, 87.5 PPF @ 817.0m-MDDF | 13.375 | 87.5 | K-55 | 817.0 | MDDF
+CASING | 9 - 5/8" N-80 PROD.40 PPF,BUTT. @2399.0m-MDDF | 9.625 | 40 | N-80 | 2399.0 | MDDF
+CASING | 5-1/2" LINER N-80, 17PPF @ 3844.0m-MDDF | 5.5 | 17 | N-80 | 3844.0 | MDDF | 2240.3 | 7"29PPF x 9-5/8" LINER HGR. 2240.3 (diagram, m MDTHF)
+TUBING | 3-1/2" ( 9.2 PPF, N-80, TKC 40-40 ) | 3.5 | 9.2 | N-80 | - |
+ROW | X | FLOW COUPLING | 142.5 |  | 2.992 |  |  |  | p1
+ROW | X | TRDP-4A-LS-RO SCSSV | 143.3 |  | 2.812 |  |  |  | p1
+ROW | X | FLOW COUPLING | 144.7 |  | 2.992 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 286.5 |  | 2.812 |  |  |  | p1
+ROW | X | KBMM-M SPM | 1413.7 |  | 2.920 |  | GLV 8/64" |  | p1
+ROW | X | KBMM-M SPM | 2199.8 |  | 2.920 |  | GLV 12/64" |  | p1
+ROW | X | CSW-ID-T SSD | 2220.5 |  | 2.812 |  |  |  | p1
+ROW | X | TIEBACK PACKER@74.0 DEG. | 2233.3 |  |  |  |  |  | p2
+ROW | X | CHEVRON SEAL TIE BACK PKR. |  |  |  |  |  | no depth printed | p2
+ROW | X | 7"29PPF x 9-5/8" LINER HGR. | 2240.3 |  |  |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 2243.6 |  | 2.750 |  |  |  | p2
+ROW | X | LOCATOR SEAL ASSY. | 2243.6 |  | 2.992 |  |  |  | p2
+ROW | X | SMITH INTERNATIONAL TIE BACK SEAL ASSY. | 2247.2 |  | 2.992 |  |  |  | p2
+ROW | X | END OF TUBING | 2248.6 |  | 2.992 |  |  |  | p2
+SHOE | END OF 9-5/8" CASING SHOE @74.4 DEG. | 2373.3 | MDTHF |  | END OF 9-5/8" CASING SHOE @74.4 DEG. 2373.3 (header 2399.0m-MDDF)
+SHOE | 5-1/2" CSG.SHOE@76.2 DEG. | 3829.3 | MDTHF |  | 5-1/2" CSG.SHOE@76.2 DEG. 3829.3 (header 5-1/2" LINER @ 3844.0m-MDDF)
+ZONE | E-10/11 | 3524.3 | 3535.3 | MDTHF | SAND: E-10/11 3524.3m-3535.3 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 3587.4 | 3671.4 | MDTHF | SAND: E-12/13 3587.4m-3671.4m-MDTHF | p2 | perf
+INT | CSA Plug @ TRSV (Nov 2019) |  |  | 2
+NOTE | picture p2 | WAG APRIL/2011; 25/MAY/2013: Perform tubing clearance & MIT (to confirm); 11/Sept/2013
+NOTE | slide 22 obj #6 | 2” LIB HUD @ 145m MDTHF, suspect flapper jammed closed (Oct 2023)
+ISSUE | Conflict | header vs diagram | 5-1/2" liner: header bottom 3844.0m-MDDF vs diagram '5-1/2" CSG.SHOE' 3829.3 (m MDTHF) — diagram shoe used as liner bottom, header recorded; liner hanger label says '7"29PPF x 9-5/8"' while the header liner is 5-1/2" — both recorded
+ISSUE | Conflict | header vs diagram | 9-5/8" shoe: header 2399.0m-MDDF vs diagram 2373.3 (m MDTHF) — diagram value used, header recorded
+ISSUE | Missing | picture | no PBTD / TD printed on this schematic

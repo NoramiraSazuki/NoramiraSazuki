@@ -1,0 +1,45 @@
+# slide 4 (slides/slide4.xml) hidden=False objects=24
+# notes: '4'
+[sp id=10 'TextBox 9' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE2
+[sp id=21 'Text Box 289' pct=[66.02, 89.66, 96.75, 95.71] hidden=False]
+    LAST ENTRY	: 20 Dec 2017
+    TYPE OF JOB	: A-05 : To perform FGS
+    UPDATED BY	: Ariff Shazwan
+    DATE	: 4 Feb 2018
+[sp id=105 'TextBox 3' pct=[0.0, 0.0, 32.05, 2.52] hidden=False]
+    Latest Update: Jan 2023 by Pravin Nair
+[sp id=18 'TextBox 17' pct=[80.06, 23.35, 92.75, 26.93] hidden=False]
+    FB – S3
+[pic id=4100 'Picture 4' pct=[4.72, 54.74, 98.06, 90.59] hidden=False img=../media/image8.png]
+[pic id=4101 'Picture 5' pct=[4.72, 0.59, 98.06, 58.96] hidden=False img=../media/image9.png]
+[sp id=2 'Rectangle 1' pct=[25.21, 77.08, 32.57, 85.42] hidden=False img=../media/image10.jpeg]
+[sp id=12 'Rectangle 11' pct=[6.45, 79.83, 16.7, 84.0] hidden=False]
+    E34
+    2337.3 – 2346.3
+[sp id=13 'Rectangle 12' pct=[5.69, 60.95, 17.25, 64.06] hidden=False]
+    E23
+    2239.8 – 2250.8
+[sp id=14 'Rectangle 13' pct=[5.79, 70.39, 17.36, 73.49] hidden=False]
+    E23
+    2256.8 – 2274.8
+[sp id=3 'TextBox 2' pct=[-0.89, 61.11, 6.45, 64.14] hidden=False]
+    open
+[sp id=15 'TextBox 14' pct=[-1.11, 71.14, 6.23, 74.17] hidden=False]
+    open
+[sp id=4121 'TextBox 4120' pct=[10.0, 31.02, 23.09, 33.37] hidden=False]
+    2.31” CSA Plug
+[sp id=95 'TextBox 94' pct=[3.7, 55.65, 19.75, 59.35] hidden=False]
+    Stiff MA Plug @ SSD#2 1841m WLTHF
+[sp id=4129 'TextBox 4128' pct=[3.33, 47.69, 20.99, 51.39] hidden=False]
+    Performed packer leak rectification (June 2022) 
+[sp id=61 'TextBox 60' pct=[87.29, 37.24, 95.28, 41.28] hidden=False]
+    DV
+[sp id=4103 'TextBox 4102' pct=[87.29, 39.84, 95.28, 43.88] hidden=False]
+    DV
+[sp id=4104 'TextBox 4103' pct=[87.29, 42.14, 95.28, 46.17] hidden=False]
+    DV
+[sp id=4105 'TextBox 4104' pct=[87.29, 44.11, 95.28, 48.15] hidden=False]
+    DV
+[sp id=17 'Footer Placeholder 16' pct=None hidden=False]
+    Open

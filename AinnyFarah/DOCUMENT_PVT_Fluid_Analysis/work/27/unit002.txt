@@ -1,0 +1,44 @@
+File | SFL82056
+Date Sampled | 1982-10-03 00:00:00
+Formation Characteristic
+Formation Name | E7
+Date First Well Completed
+Original Reservoir Pressure
+Original Produced Gas-011 Ratio
+Production Rate
+Separstar Pressure and Temperature
+Oil Gravity at 60°F
+Datum
+Original Gas Cap
+Well Characteristic
+Elevation
+Total Depth
+Producing Interval
+Tubing Size and Depth | 4744-4760, 4772-4780 FT
+Open Flow Potential
+Productivity Index
+Last Reservoir Pressure | 2027 PSIG @ 4692 FT
+Date
+Reservolr Temperature | 224°F @ 4692 FT
+Status of Well
+Pressure Gauge
+Sampling Condition
+Flowing Tubing Pressure
+Flowing Bottom Hole Pressure
+Primary Separator Pressure | 180 PSIG
+Primary Separator Temperature | 142 (124)°F
+Secondary Separator Pressure
+Secondary Separator Temperature
+Field Stock Tank Liquid Gravity
+Primary Separator gas Production Rate | 563.9 MMSCF/Day
+Pressure Base | 14.73 PSIA
+Temperature Base | 60°F
+Compressibility factor (Fpv) | 1.0174
+Gas Gravity (laboratory) | 1.517
+Gas Gravity Factor (Fg) | 0.9297
+Separator Liquid Production Rate @ 142°F | 1598 BBLS/Day
+Primary Separator/Gas Separator Liquid Ratio | 352.9S CF/Bbl
+or | Bbls/MMSCF
+Sampled by
+Remarks
+--- OCR ---

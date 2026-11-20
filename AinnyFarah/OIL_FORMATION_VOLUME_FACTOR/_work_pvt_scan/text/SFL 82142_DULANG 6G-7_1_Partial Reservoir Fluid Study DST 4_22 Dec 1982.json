@@ -1,0 +1,1392 @@
+[
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B10",
+"how": "cell text",
+"text": "SUMMARY AND MAIN RESULTS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B11",
+"how": "cell text",
+"text": "Bottomhole samples in the following cylinders were delivered to our laboratory: -"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B12",
+"how": "cell text",
+"text": "*Cylinder number 9024-37:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B13",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D13",
+"how": "cell text",
+"text": "psig at 100°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B14",
+"how": "cell text",
+"text": "Water recovered"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D14",
+"how": "cell text",
+"text": "ccs"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B15",
+"how": "cell text",
+"text": "Bubble point"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D15",
+"how": "cell text",
+"text": "psig at 100°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B16",
+"how": "cell text",
+"text": "Approximate sample volume"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D16",
+"how": "cell text",
+"text": "ccs"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B18",
+"how": "cell text",
+"text": "Cylinder number 20475-47"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B19",
+"how": "cell text",
+"text": "Water recovered"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D19",
+"how": "cell text",
+"text": "ccs"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B20",
+"how": "cell text",
+"text": "No sample in this cylinder."
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B22",
+"how": "cell text",
+"text": "*This sample was used for the subsequent analyses"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell B1",
+"how": "cell text",
+"text": "7 of 17"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D10",
+"how": "cell text",
+"text": "Bottom Hole Sample:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell E10",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell F10",
+"how": "cell text",
+"text": "9024-37"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D11",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D13",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell E13",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell F13",
+"how": "cell text",
+"text": "Weight %"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell G13",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell H13",
+"how": "cell text",
+"text": "°API at 60°F"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell I13",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell G14",
+"how": "cell text",
+"text": "Gm/Cc at 60°F"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D15",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D16",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D17",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D18",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D19",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D20",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D21",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D22",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D23",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D24",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D25",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9024-37' cell D26",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell B1",
+"how": "cell text",
+"text": "8 of 17"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell C10",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS AT 196°"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell C12",
+"how": "cell text",
+"text": "Pressure PSIG"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell D12",
+"how": "cell text",
+"text": "Relative Volume (1)"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell E21",
+"how": "cell text",
+"text": "Bubble Point Pressure"
+},
+{
+"where": "sheet 'Relative Volume 9024-37' cell C34",
+"how": "cell text",
+"text": "1) Relative Volume:V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B1",
+"how": "cell text",
+"text": "9 of 17"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C10",
+"how": "cell text",
+"text": "1. Saturation pressure (bubble-point pressure)"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E10",
+"how": "cell text",
+"text": "psig at"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell G10",
+"how": "cell text",
+"text": " °F"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C11",
+"how": "cell text",
+"text": "2. Specific volume at saturation pressure : ft 3/lb"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E11",
+"how": "cell text",
+"text": "at"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell G11",
+"how": "cell text",
+"text": " °F"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C12",
+"how": "cell text",
+"text": "3. Thermal expansion of saturated oil @"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E12",
+"how": "cell text",
+"text": "psig = V@1 196°F/V@ 196 °F = 1.000"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C13",
+"how": "cell text",
+"text": "4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C14",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E14",
+"how": "cell text",
+"text": "PSIG to"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell H14",
+"how": "cell text",
+"text": "PSIG ="
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell I14",
+"how": "cell text",
+"text": "9.18 x 10-6"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C15",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E15",
+"how": "cell text",
+"text": "PSIG to"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell H15",
+"how": "cell text",
+"text": "PSIG ="
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell I15",
+"how": "cell text",
+"text": "9.85 x 10-6"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C16",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E16",
+"how": "cell text",
+"text": "PSIG to"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell H16",
+"how": "cell text",
+"text": "PSIG ="
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell I16",
+"how": "cell text",
+"text": "10.44 x 10-6"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C17",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell E17",
+"how": "cell text",
+"text": "PSIG to"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell H17",
+"how": "cell text",
+"text": "PSIG ="
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell I17",
+"how": "cell text",
+"text": "10.97 x 10-6"
+},
+{
+"where": "sheet 'CCE 196°F' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'CCE 196°F' cell B1",
+"how": "cell text",
+"text": "10 of 17"
+},
+{
+"where": "sheet 'CCE 196°F' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'CCE 196°F' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'CCE 196°F' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'CCE 196°F' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'CCE 196°F' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'CCE 196°F' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'CCE 196°F' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'CCE 196°F' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'CCE 196°F' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'CCE 196°F' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'CCE 196°F' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'CCE 196°F' cell D10",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS AT 196°F"
+},
+{
+"where": "sheet 'CCE 196°F' cell D12",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'CCE 196°F' cell E12",
+"how": "cell text",
+"text": "Relative"
+},
+{
+"where": "sheet 'CCE 196°F' cell F12",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'CCE 196°F' cell D13",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'CCE 196°F' cell E13",
+"how": "cell text",
+"text": "Volume (1)"
+},
+{
+"where": "sheet 'CCE 196°F' cell F13",
+"how": "cell text",
+"text": "Function(2)"
+},
+{
+"where": "sheet 'CCE 196°F' cell F24",
+"how": "cell text",
+"text": "Bubble Point Pressure "
+},
+{
+"where": "sheet 'CCE 196°F' cell D40",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+},
+{
+"where": "sheet 'CCE 196°F' cell D41",
+"how": "cell text",
+"text": "(2) Y Function = (Psat-P)/(Pabs)(V/Vsat-l)"
+},
+{
+"where": "sheet 'DVT 196°F' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'DVT 196°F' cell B1",
+"how": "cell text",
+"text": "11 of 17"
+},
+{
+"where": "sheet 'DVT 196°F' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'DVT 196°F' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'DVT 196°F' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'DVT 196°F' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'DVT 196°F' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'DVT 196°F' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'DVT 196°F' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'DVT 196°F' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'DVT 196°F' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'DVT 196°F' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'DVT 196°F' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'DVT 196°F' cell C10",
+"how": "cell text",
+"text": "Pressure PSIG"
+},
+{
+"where": "sheet 'DVT 196°F' cell D10",
+"how": "cell text",
+"text": "Solution Gas/Oil Ratio(l)"
+},
+{
+"where": "sheet 'DVT 196°F' cell E10",
+"how": "cell text",
+"text": "Relative Oil Volume (2)"
+},
+{
+"where": "sheet 'DVT 196°F' cell F10",
+"how": "cell text",
+"text": "Relative Oil Volume (3)"
+},
+{
+"where": "sheet 'DVT 196°F' cell G10",
+"how": "cell text",
+"text": "Oil Density Gm/ Cc"
+},
+{
+"where": "sheet 'DVT 196°F' cell H10",
+"how": "cell text",
+"text": "Deviation Factor Z"
+},
+{
+"where": "sheet 'DVT 196°F' cell I10",
+"how": "cell text",
+"text": "Gas Formation Volume Factor(4)"
+},
+{
+"where": "sheet 'DVT 196°F' cell J10",
+"how": "cell text",
+"text": "Incremental Gas Gravity"
+},
+{
+"where": "sheet 'DVT 196°F' cell D22",
+"how": "cell text",
+"text": "at 60°F ="
+},
+{
+"where": "sheet 'DVT 196°F' cell C24",
+"how": "cell text",
+"text": "Gravity of residual oil « 38.2 \"API at 60°F"
+},
+{
+"where": "sheet 'DVT 196°F' cell D26",
+"how": "cell text",
+"text": "Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F."
+},
+{
+"where": "sheet 'DVT 196°F' cell D27",
+"how": "cell text",
+"text": "Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F."
+},
+{
+"where": "sheet 'DVT 196°F' cell D28",
+"how": "cell text",
+"text": "Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F."
+},
+{
+"where": "sheet 'DVT 196°F' cell D29",
+"how": "cell text",
+"text": "Cubic feet of gas at indicated pressure and temperature per cubic foot at 14.73 psia and 60°F."
+},
+{
+"where": "sheet 'VISCO 196°F' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell B1",
+"how": "cell text",
+"text": "12 of 17"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'VISCO 196°F' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'VISCO 196°F' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'VISCO 196°F' cell D9",
+"how": "cell text",
+"text": "VISCOSITY OF RESERVOIR FLUID AT 196°F"
+},
+{
+"where": "sheet 'VISCO 196°F' cell E11",
+"how": "cell text",
+"text": "Calculated"
+},
+{
+"where": "sheet 'VISCO 196°F' cell F11",
+"how": "cell text",
+"text": "Oil / Gas"
+},
+{
+"where": "sheet 'VISCO 196°F' cell C12",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'VISCO 196°F' cell D12",
+"how": "cell text",
+"text": "Oil Viscosity"
+},
+{
+"where": "sheet 'VISCO 196°F' cell E12",
+"how": "cell text",
+"text": "Gas Viscosity"
+},
+{
+"where": "sheet 'VISCO 196°F' cell F12",
+"how": "cell text",
+"text": "Viscosity"
+},
+{
+"where": "sheet 'VISCO 196°F' cell C13",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'VISCO 196°F' cell D13",
+"how": "cell text",
+"text": "Centipoise"
+},
+{
+"where": "sheet 'VISCO 196°F' cell E13",
+"how": "cell text",
+"text": "Centipoise"
+},
+{
+"where": "sheet 'VISCO 196°F' cell F13",
+"how": "cell text",
+"text": "Ratio"
+},
+{
+"where": "sheet 'VISCO 196°F' cell C19",
+"how": "cell text",
+"text": "1562 (1)"
+},
+{
+"where": "sheet 'VISCO 196°F' cell C30",
+"how": "cell text",
+"text": "1) Bubble point pressure"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell B1",
+"how": "cell text",
+"text": "13 of 17"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C10",
+"how": "cell text",
+"text": "SINGLE-STAGE SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C11",
+"how": "cell text",
+"text": "Separator Pressure PSIG"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell D11",
+"how": "cell text",
+"text": "Temp °F"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell E11",
+"how": "cell text",
+"text": "Gas/Oil Ratio (1)"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell F11",
+"how": "cell text",
+"text": "Gas/Oil Ratio (2)"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell G11",
+"how": "cell text",
+"text": "Tank Oil Gravity °API @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell H11",
+"how": "cell text",
+"text": "Formation Volume"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell I11",
+"how": "cell text",
+"text": "Separator Volume"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell J11",
+"how": "cell text",
+"text": "Gas Gravity"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell H12",
+"how": "cell text",
+"text": "Factor(3)"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell I12",
+"how": "cell text",
+"text": "Factor(4)"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell J13",
+"how": "cell text",
+"text": "1.281*"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C14",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell J17",
+"how": "cell text",
+"text": "1.286*"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C18",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell J21",
+"how": "cell text",
+"text": "1.291*"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C22",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell J25",
+"how": "cell text",
+"text": "1.298*"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C26",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C29",
+"how": "cell text",
+"text": "*These gases were collected and analysed by chromatography."
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C30",
+"how": "cell text",
+"text": "1)  Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature."
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C31",
+"how": "cell text",
+"text": "2)  Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C32",
+"how": "cell text",
+"text": "3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'SEPARATOR TEST' cell C33",
+"how": "cell text",
+"text": "4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell B1",
+"how": "cell text",
+"text": "13 of 17"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell B3",
+"how": "cell text",
+"text": "SFL 82142"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell B4",
+"how": "cell text",
+"text": "DULANG 6G-7-1 PVT DST4-2"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C10",
+"how": "cell text",
+"text": "SINGLE-STAGE HYDROCARBON ANALYSES OF SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C12",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell D12",
+"how": "cell text",
+"text": "200 PSIG 100°F"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell F12",
+"how": "cell text",
+"text": "150 PSIG 100°F"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell H12",
+"how": "cell text",
+"text": "100 PSIG 100°F"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell J12",
+"how": "cell text",
+"text": "50 PSIG 100°F"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell D13",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell E13",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell F13",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell G13",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell H13",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell I13",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell J13",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell K13",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C14",
+"how": "cell text",
+"text": "Hydrogen Sulfide"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C15",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C16",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C17",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C18",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C19",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C20",
+"how": "cell text",
+"text": "Iso-Butane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C21",
+"how": "cell text",
+"text": "N-Butane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C22",
+"how": "cell text",
+"text": "Iso-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C23",
+"how": "cell text",
+"text": "N-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C24",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C25",
+"how": "cell text",
+"text": "Heptanes plus"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C26",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C28",
+"how": "cell text",
+"text": "Gas gravity (air = 1.000)"
+},
+{
+"where": "sheet 'SEPARATOR TEST CA' cell C30",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F):"
+},
+{
+"where": "picture image1.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\nDST 4\n\nDULANG 6G-7.1\nMALAYSIA\n\nCORE LABORATORIES\n\nPETRONAS CARIGALI SDN. BHD.\n\n"
+},
+{
+"where": "picture image2.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "ECEIVED ade\n2.6 JAN 1984 COL\n\nEXPLORATION DEPT.\n\nRESERVOIR FLUID STUDY\nON WELL 6G-7.1 DST 4\nfor\nPRTRONAS CARIGALI SDN BHD\nMALAYSTA\n\n| PETROLEUM PYGISEERING DEPT. |\n\nReservoir Fluid Division (ORF\n"
+}
+]

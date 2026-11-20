@@ -1,0 +1,37 @@
+WELL | D28 | 28,29 | image71.png (+ slide 29 image72.png, image73.png) | WELL D-28 : SINGLE WAG INJECTOR
+SRC | 28 | image71.png | visual transcription of the picture (x3 upscale; header text very small and blurred), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m-MDTHF')
+INFO | completionDate | July2012
+INFO | rig | KM-1
+INFO | maxDeviation | 72.11DEG @ 1191.08 MD DF / 793.84 TVD DF
+INFO | tubing | 4 1/2" CS L-80 Lined wt GRE wt 25 Cr Completion Accessories RiceWarp Lower Completion
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single H-H Trim Christmas Tree
+INFO | completionFluid | 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | SINGLE WAG INJECTOR (Tubing STRING (WAG Injector))
+CASING | 7" 29 L-80 CS TD | 7 | 29 | L-80 |  | DEPTH column 'TD'
+TUBING | 4 1/2" CS L-80 Lined wt GRE | 4.5 |  | L-80 | - |
+ROW | X | FLOW COUPLING | 149 |  |  |  | Flow Coupling - DDLAA Box - Top X Bottom | MIN ID / MAX OD columns empty | p1
+ROW | X | TRSSSV | 150 |  |  |  |  |  | p1
+ROW | X | FLOW COUPLING | 152 |  |  |  | Flow Coupling - DDLAA Box - Top X Bottom |  | p1
+ROW | X | SSD | 2900 |  |  |  | SSD - DDLAA Box - Top X Bottom |  | p1
+ROW | X | AHC Packer | 2908 |  |  |  | 7" x 4 1/2" AHC Packer DDLAA Box - Top X Bottom |  | p1
+ROW | X | SSD | 2912 |  |  |  | SSD - DDLAA Box - Top X Bottom |  | p2
+ROW | X | AHC Packer | 2957 |  |  |  | 7" x 4 1/2" AHC Packer DDLAA Box - Top X Bottom |  | p2
+ROW | X | Zone Master | 2962 |  |  |  | Zone Master - DDLAA Box - Top X Bottom | slide note: 'ZM#1 sleeve intact (3 blanks) (Sep ’22)' | p2
+ROW | X | AHC Packer | 3015 |  |  |  | 7" x 4 1/2" AHC Packer DDLAA Box - Top X Bottom |  | p2
+ROW | X | Zone Master | 3020 |  |  |  | Zone Master - DDLAA Box - Top X Bottom | slide note: 'ZM#2 sleeve removed (Sep ’22)' | p2
+ROW | X | Bull Plug | 3024 |  |  |  | Bull Plug - DDLAA Box - Top X Bottom | end of the string | p2
+ZONE | E10/11 | 2980 | 3013 | MDTHF | E10/11 2980 - 3013 m-MDTHF | p2 | perf
+ZONE | E12/13 | 3031 | 3054 | MDTHF | E12/13 3031 - 3054 m-MDTHF | p2 | perf
+ZONE | E12/13 | 3058 | 3060 | MDTHF | 3058 - 3060 m-MDTHF | p2 | perf
+ZONE | E14 | 3088 | 3110 | MDTHF | E14 3088 - 3110 m-MDTHF | p2 | perf
+TD | 3340 | MD DF | TD : 3340 M MD DF (small header print; confirmed by slide 29 report "TD @ 3340m MDDF" and casing depth 3340.00)
+NOTE | picture header | PBTD : TBA M MD DF (red); WATER DEPTH : 74.22 Meter; TUBING HANGER : 20 Meter; 'DOULINE 2' / 'Rice Wrap' bands
+NOTE | picture p2 | 31/MAY/2013 gauges: TOP Gauge 4828 Max press. 1688.38 psia, Max Temp. 223.74 Deg F; BOTTOM Gauge 4829 1687.21 psia, 223.94 Deg F; 30/MAY/2013: LIB to HUD depth @ 2984m-MTHF print top of Zone master sleeve; 31/MAY/2013: Conducted MIT (waiting report); 31/MAY/2013: Conducted SGS; 11/Sept/2013
+NOTE | slide 28 | zone labels placed over the picture by later update: 'E12A/12B', 'E13', 'E14B' (Dec 2022) — differ from the picture labels E12/13, E14
+ISSUE | Conflict | slide 28 obj #17 | 'ZM#2 sleeve removed (Sep ’22)' — Zone Master at 3020 kept from the picture with this flag
+ISSUE | Unclear | picture | MIN ID / MAX OD columns are empty for every row
+NOTE | slide 29 image72.png | HALLIBURTON COMPLETION REPORT, WELL: DULANG D28, Date 21/8/2012, 'All Depths Base On RKB': CASING 7" 29ppf L80 VAM TOP 3340.00; TUBING 4 1/2" 12.6ppf L80 FOX DDLAA 3044.65; items 1-20 (RKB): Hanger-Single 13 5/8" X 4 1/2" KFOX 19.20 (ID 3.900 OD 13.470); Flow Coupling 169.61; 3-1/2" TRSV,NE,5.20,2.813,H2S,5K,25CR (SE) 170.42 (2.813/5.200); Flow Coupling 171.91; Flow Coupling 2918.95; 3-1/2" Sliding Side Door XD 2919.77 (2.813/4.550); Flow Coupling 2921.07; 7" AHC Packer (Chemical cut to release) 2927.46 (2.902/5.930); Flow Coupling 2931.59; 3-1/2" Sliding Side Door XD 2932.41; Flow Coupling 2933.71; 7" AHC Packer 2977.03; Flow Coupling 2981.16; PTD Nipple with 2.688 Zone Master 2981.98 (2.688/4.030); Flow Coupling 2982.56; 7" AHC Packer 3035.32; Flow Coupling 3039.47; PTD Nipple with 2.562 Zone Master 3040.30 (2.562/3.893); Flow Coupling 3040.88; Bull Plug 3044.33 (OD 4.916); EOT 3044.65; PBTD : 3132 mMD; TD @ 3340m MDDF; Max Deviation: 70.22deg @838.07m MDDF; PERFORATION INTERVAL: E10-11 : 3000 - 3033m MDDF; E12-13 : 3051 - 3074m MDDF, 3076 - 3080m MDDF; E14 : 3108 - 3130m MDDF; 'Note: Unable to go down beyond 3045m EOT. Decided to space out and land hanger at 3044.65m'
+NOTE | slide 29 image73.png | detailed tally (LONG STRING, METER DEPTH/LENGTH, Part #, ID/OD) of the same completion, DATE 21-Aug-12, PCSB reps NG KOK NAM / MASOUD, Halliburton reps SELLVA / ARDI / VICTOR / AQMAL, P/UP WT 170, S/OFF 145, BLOCK 100
+ISSUE | Conflict | slide 28 vs slide 29 | two revisions of D-28: slide 28 schematic (July2012, depths m-MDTHF, rounded) and slide 29 Halliburton completion report (21-Aug-2012, depths RKB, e.g. SSD 2900 MDTHF vs 2919.77 RKB; zones 2980-3013 MDTHF vs 3000-3033 MDDF) — different datums, not merged; slide 28 mapped, slide 29 recorded in notes

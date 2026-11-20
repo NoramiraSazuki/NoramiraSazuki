@@ -1,0 +1,61 @@
+WELL | D12ST1 | 12 | image33.emf | WELL NAME: D12ST1 (LOCATION / SLOT: PLATFORM DLDP-D / SLOT 8)
+SRC | 12 | image33.emf | EMF native text records (EMR_EXTTEXTOUTW), visual check of the slide render
+DATUM | m THF (column 'DEPTH m INC. THF'; a second column gives m MDDF, kept in notes)
+INFO | completionDate | 24/2/2018
+INFO | rig | T9
+INFO | totalDepth | 2,066 m (datum not printed)
+INFO | maxDeviation | 49.26 deg
+INFO | wellhead | Solar Alert
+INFO | xmas | FF TRIM, 5K, U Rated, PSL-2
+INFO | completionFluid | 8.5 PPG filtered DRILL WATER 10 NTU (0.5% Liquid H2S SCAV + 3% KCL + 0.2% BIOCIDE + 2% LUBRICANT )
+INFO | packerFluid | 8.5 PPG ( 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)
+INFO | tubing | TUBING (ABOVE TRSV) 3-1/2" 9.2 PPF HP1 JFE Bear 201 m; TUBING 3-1/2" 9.2 PPF 13Cr-L80 JFE Bear 1716.44 m (DEPTH-m MDDF)
+INFO | completionType | PROPOSED WELL COMPLETION SCHEMATIC (OIL PRODUCER 2) — 13 Feb 2018
+CASING | CONDUCTOR 26" 202 PPF A36 Welded 185.5 m | 26 | 202 | A36 | 185.5 | MDDF
+CASING | INT. CASING 13-3/8" 54.5 PPF K55 BTC 594 m | 13.375 | 54.5 | K55 | 594 | MDDF
+CASING | CASING/LINER 9-5/8" 47 ppf L80 Vam Top 2062.9 m | 9.625 | 47 | L80 | 2062.9 | MDDF
+TUBING | TUBING (ABOVE TRSV) 3-1/2" 9.2 PPF HP1 JFE Bear | 3.5 | 9.2 | HP1 | - | 201 MDDF
+TUBING | TUBING 3-1/2" 9.2 PPF 13Cr-L80 JFE Bear | 3.5 | 9.2 | 13Cr-L80 | - | 1716.44 MDDF
+ROW | X | TUBING HANGER, FF410SS, 5K, U-RATED, 13-5/8" x 3-3/4" 4SA 2G LH x 3-1/2" 9.2# JFEBEAR | 0.5 |  | 2.950 | 13.470 |  | MDDF 16.4 | y=555
+ROW | X | FLOW COUPLING, 3-1/2", 13CR, JFEBEAR | 188.1 |  | 2.880 | 3.897 |  | MDDF 204.0 | y=680
+ROW | X | SCSSV-TRSV, SELF-EQ, NE, 3-1/2", 13CR, JFEBEAR | 188.9 |  | 2.813 | 5.200 |  | MDDF 204.8; INC 6.8 | y=705
+ROW | X | FLOW COUPLING, 3-1/2", 13CR, JFEBEAR | 190.5 |  | 2.880 | 3.897 |  | MDDF 206.4 | y=730
+ROW | X | SPM, 3-1/2", SFO 1", 13CR JFEBEAR | 641.7 |  | 2.867 | 5.313 | (R-1 10/64 VALVE, Ptro=995 psia) | MDDF 657.6; INC 41.0 | y=830
+ROW | X | SPM, 3-1/2", SFO 1", 13CR JFEBEAR | 1088.5 |  | 2.867 | 5.313 | (R-1 10/64 VALVE, Ptro=945 psia) | MDDF 1104.4; INC 49.3 | y=930
+ROW | X | SPM, 3-1/2", SFO 1", 13CR JFEBEAR | 1424.4 |  | 2.867 | 5.313 | (R-1 12/64 VALVE, Ptro=930 psia) | MDDF 1440.3; INC 49.3 | y=1030
+ROW | X | SPM, 3-1/2", SFO 1", 13CR JFEBEAR | 1570.9 |  | 2.867 | 5.313 | (Orifice) | MDDF 1586.8; INC 49.3 | y=1104
+ROW | X | SSD, 3-1/2", 13CR JFEBEAR | 1603.7 |  | 2.813 | 4.550 |  | MDDF 1619.6; INC 49.4 | y=1205
+ROW | X | AHC PACKER, 9-5/8" X 3-1/2", 13CR JFEBEAR | 1610.8 |  | 2.897 | 8.310 |  | MDDF 1626.7; INC 49.4 | y=1280
+ROW | X | SSD, 3-1/2", 13CR JFEBEAR | 1614.6 |  | 2.813 | 4.550 |  | MDDF 1630.5; INC 49.4 | y=1355
+ROW | Lw | 9-5/8" X  6" QUANTUM PACKER | 1650.5 |  | 6.003 | 8.440 |  | GP ASSEMBLY- ZONE E06; MDDF 1666.4 | y=1528
+ROW | Lw | QUANTUM MAX ENTENSION, FBSD | 1652.1 |  | 6.003 | 8.015 |  | MDDF 1668.0 | y=1554
+ROW | Lw | 9-5/8" KEYED SAFETY SHEAR SUB | 1659.8 |  | 4.950 | 7.390 |  | MDDF 1675.7 | y=1579
+ROW | Lw | 5.5" BLANK PIPE | 1660.9 |  | 4.892 | 8.400 |  | MDDF 1676.8 | y=1604
+ROW | Lw | 5.5" BLANK PIPE, 2 SHUNTS | 1670.0 |  | 4.892 | 8.400 |  | MDDF 1685.9 | y=1629
+ROW | Lw | WIRE WRAP SCREENS 8GA, 2 SHUNTS, 38FT | 1676.2 |  | 4.892 | 8.400 |  | MDDF 1692.1 | y=1654
+ROW | Lw | 9-5/8"x 5.5" MZ ALLFRAC PACKER | 1687.7 |  | 4.753 | 8.624 |  | GP ASSEMBLY - ZONE E11/12A; MDDF 1703.6 | y=1916
+ROW | Lw | 5.5" BLANK PIPE, 2 SHUNTS | 1690.2 |  | 4.892 | 8.400 |  | MDDF 1706.1 | y=1941
+ROW | Lw | 5.5" BLANK PIPE, 2 SHUNTS | 1693.2 |  | 4.892 | 8.400 |  | MDDF 1709.1 | y=1966
+ROW | Lw | WIRE WRAP SCREENS 8GA, 2 SHUNTS, 38FT | 1702.3 |  | 4.892 | 8.400 |  | MDDF 1718.2 | y=1991
+ROW | Lw | 5.5 COLLAR | 1760.0 |  | 3.449 | 6.050 |  | MDDF 1775.9 | y=2016
+ROW | Lw | 3" PBR | 1760.2 |  | 2.992 | 3.750 |  | MDDF 1776.1 | y=2041
+ROW | X | NOGO LOCATOR, 3-1/2", 13CR, JFEBEAR | 1687.3 |  | 2.693 | 4.787 |  | UPPER COMPLETION ASSEMBLY; MDDF 1703.2 | y=2141
+ROW | X | SEAL ASSEMBLY, 4.75", HNBR | 1687.5 |  | 3.655 | 4.736 |  | MDDF 1703.4 | y=2166
+ROW | X | CROSSOVER, STUB ACME X 3-1/2" JFE BEAR | 1688.9 |  | 2.963 | 4.700 |  | MDDF 1704.8 | y=2216
+ROW | X | SSD, 3-1/2", 13CR JFEBEAR | 1694.8 |  | 2.813 | 4.550 |  | MDDF 1710.7 | y=2241
+ROW | X | XN NIPPLE, 3-1/2", 13CR JFE BEAR | 1698.1 |  | 2.690 | 3.898 |  | MDDF 1714.0 | y=2265
+ROW | X | POP ASSY, 3-1/2", 13CR JFEBEAR | 1700.5 |  | 3.000 | 3.920 |  | MDDF 1716.4; end of the tubing string | y=2291
+ROW | Lw | 9-5/8" X 6" OMEGAMATIC PACKER (SUMP) | 1761.1 |  | 2.992 | 8.400 |  | GP ASSEMBLY - ZONE E11/12A; MDDF 1777.0 | y=2492
+ZONE | E-06 | 1694 | 1701 | MDDF | PERFORATION INTERVAL (7" HMX 18 SPF) TOP PERF INTERVAL - 1694 m MDDF / E-06 SAND (THICKNESS - 7.0 meter) / BOTTOM PERF INTERVAL - 1701 m MDDF | y=1820 | perf
+ZONE | E-11 | 1747 | 1757 | MDDF | PERFORATION INTERVAL (7" HMX 18 SPF) TOP PERF INTERVAL - 1747 m MDDF / E-11 SAND (THICKNESS - 10.0 meter) / BOTTOM PERF INTERVAL - 1757 m MDDF | y=2141 | perf
+ZONE | E-12A | 1768 | 1773 | MDDF | PERFORATION INTERVAL (7" HMX 18 SPF) TOP PERF INTERVAL - 1768 m MDDF / E-12A SAND (THICKNESS - 5.0 meter) / BOTTOM PERF INTERVAL - 1773 m MDDF | y=2291 | perf
+PBTD | 2025 | MDDF | PBTD @ 2025 m MDDF (header PBTD : 2,037 m)
+TD | 2066 | MDDF | FTD @ 2066 m MDDF (header TOTAL DEPTH : 2,066 m)
+NOTE | EMF y=629 | table row 'TUBING, 3-1/2" 9.2# JFE BEAR, 13CR95' (no depth) — represented by the TUBING header components
+NOTE | EMF y=1104/2668 | PIP TAG DEPTH @ 1420m MDDF; Dropped TCP gun via Perf Pack
+NOTE | EMF y=1869/2194/2344 | zone pressures: E-06 1700 psi / 213 F; E-11 1550 psi / 214 F; E-12A 1629 psi / 215 F; DISTANCE - 46 m; DISTANCE - 11 m
+NOTE | EMF y=347-398 | TH HEIGHT-MSL : 16.2m; DF HEIGHT-MSL : 32.55m; THF to DF : 15.94 m; WATER DEPTH : 74.22m
+NOTE | EMF y=2842-2893 | Prepared By: M Rizwan Rozlan, Senior Completion Engineer; W Afiq Farhan, Completion Engineer; Date: 13 Feb 2018
+ISSUE | Conflict | EMF y=272/2817 | header PBTD 2,037 m vs footer 'PBTD @ 2025 m MDDF' -> footer (diagram) value used, both recorded
+ISSUE | Conflict | EMF y=2016-2141 | lower-completion '5.5 COLLAR' 1760.0 / '3" PBR' 1760.2 m THF listed between the E11/12A screen (1702.3) and the upper completion (1687.3) — kept as printed
+ISSUE | Unclear | slide 12 | schematic titled 'PROPOSED WELL COMPLETION SCHEMATIC' — treated as the well's schematic; slide picture 'C. Gas Lift Design' (image34.png) and gas-lift markers listed as notes

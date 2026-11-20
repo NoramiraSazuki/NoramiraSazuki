@@ -1,0 +1,289 @@
+C2	'OCTG at KSB'
+D2	'Surplus'
+E2	'Lining at Batam'
+F2	'For side track (from bokor)'
+G2	'Hanger (Primary)'
+H2	'Hanger (Back-up)'
+I2	'TRSV (Primary)'
+J2	'TRSV (Back-up)'
+M2	'7" Packer (Primary)'
+N2	'7" Packer (Back-up)'
+O2	'Balance'
+P2	'Initial Quantity'
+Q2	'Unit Price'
+R2	'Extended Price'
+B3	1.0
+C3	'3-1/2” 9.2ppf L80 FOX GRE R2'
+D3	220.0
+F3	103.0
+O3	323.0
+P3	323.0
+Q3	1664.02
+R3	537478.46
+T3	'SMF/KSB19/03-044'
+B4	2.0
+C4	'3-1/2” 9.2ppf L80 FOX GRE, 6FT'
+D4	3.0
+E4	1.0
+I4	1.0
+J4	1.0
+M4	1.0
+N4	1.0
+O4	0.0
+P4	4.0
+Q4	246.57
+R4	986.28
+T4	'SMF/KSB19/03-044'
+B5	3.0
+C5	'3-1/2” 9.2ppf L80 FOX GRE, 8FT'
+D5	1.0
+O5	1.0
+P5	1.0
+Q5	273.61
+R5	273.61
+T5	'SMF/KSB19/03-044'
+B6	4.0
+C6	'3-1/2” 9.2ppf L80 FOX GRE, 10FT'
+E6	2.0
+O6	2.0
+P6	2.0
+Q6	300.69
+R6	601.38
+T6	'SMF/KSB19/03-044'
+B7	5.0
+C7	'3-1/2” 9.2ppf L80 FOX GRE, 12FT'
+D7	2.0
+E7	1.0
+O7	3.0
+P7	3.0
+Q7	544.85
+R7	1634.5500000000002
+T7	'SMF/KSB19/03-044'
+B8	6.0
+C8	'3-1/2” 9.2ppf L80 FOX GRE, 15FT'
+D8	1.0
+O8	1.0
+P8	1.0
+Q8	634.25
+R8	634.25
+T8	'SMF/KSB19/03-044'
+B9	7.0
+C9	'3-1/2” 9.2ppf L80 FOX GRE, 3FT'
+E9	2.0
+O9	2.0
+P9	2.0
+R9	0.0
+B10	8.0
+C10	'3-1/2” 9.2ppf L80 FOX GRE, 4FT'
+E10	2.0
+O10	2.0
+P10	2.0
+R10	0.0
+B11	9.0
+C11	'3-1/2” 9.2ppf L80 J FOX GRE PIN x PIN, 4FT'
+E11	9.0
+I11	1.0
+J11	1.0
+O11	7.0
+P11	9.0
+R11	0.0
+B12	10.0
+C12	'3-1/2” 9.2ppf L80 JFE FOX GRE PIN x PIN, 12FT'
+E12	2.0
+G12	1.0
+H12	1.0
+O12	0.0
+P12	2.0
+R12	0.0
+B13	11.0
+C13	'Corrosion barrier ring'
+D13	400.0
+O13	400.0
+P13	400.0
+Q13	89.0
+R13	35600.0
+T13	'SMF/KSB19/07-099'
+B14	12.0
+C14	'15CR-125 R3'
+O14	0.0
+P14	5.0
+Q14	2750.0
+R14	13750.0
+T14	'GRP'
+B15	17.0
+C15	'Lifting Nubbing & water bushing'
+O15	0.0
+P15	1.0
+Q15	7427.0
+R15	7427.0
+T15	'MSRF Dulang - 015'
+R16	598385.53
+B18	1.0
+C18	'Shipment (GRE @ Lining)'
+P18	1.0
+Q18	5190.0
+R18	5190.0
+T18	'MSRF Dulang - 010 + MSRF Dulang - 016'
+B19	2.0
+C19	'GRE lining services'
+P19	1.0
+Q19	5981.18
+R19	5981.18
+T19	'MSRF Dulang - 012'
+B20	3.0
+C20	'Cut & Rethread Cost'
+P20	1.0
+Q20	3327.0
+R20	3327.0
+T20	'MSRF Dulang - 006'
+B21	4.0
+C21	'Inspection GRE & RW'
+P21	35.0
+Q21	120.0
+R21	4200.0
+T21	'MSRF Dulang - 005'
+B22	5.0
+C22	'VTI FOR GRE Tubing and Pups'
+P22	1.0
+Q22	1970.0
+R22	1970.0
+T22	'MSRF Dulang - 002'
+R23	20668.18
+C24	'Completion Equipment'
+D26	'New Order'
+G26	'Hanger (Primary)'
+H26	'Hanger (Back-up)'
+I26	'TRSV (Primary)'
+J26	'TRSV (Back-up)'
+K26	'9-5/8" Packer (Primary)'
+L26	'9-5/8" Packer (Back-up)'
+M26	'7" Packer (Primary)'
+N26	'7" Packer (Back-up)'
+O26	'Balance'
+P26	'Initial Quantity'
+Q26	'Unit Price'
+R26	'Extended Price'
+B27	1.0
+C27	'HYDRAULIC CONTROL LINE'
+D27	1000.0
+O27	1000.0
+P27	1000.0
+Q27	7.8
+R27	7800.0
+T27	'MSRF Dulang - 029'
+B28	2.0
+C28	'Crossover 25CR80'
+D28	12.0
+G28	1.0
+H28	1.0
+K28	4.0
+M28	3.0
+N28	3.0
+O28	0.0
+P28	12.0
+Q28	4268.17
+R28	51218.04
+B29	3.0
+C29	'25CR Flow Coupling'
+D29	4.0
+I29	2.0
+J29	2.0
+O29	0.0
+P29	4.0
+Q29	3269.21
+R29	13076.84
+B30	4.0
+C30	'2-7/8 TRIMAXX'
+D30	2.0
+I30	1.0
+J30	1.0
+O30	0.0
+P30	2.0
+Q30	28762.8
+R30	57525.6
+B31	5.0
+C31	'9-5/8" x 3-1/2" Blue pack Packer'
+D31	1.0
+K31	1.0
+O31	0.0
+P31	1.0
+Q31	35082.0
+R31	35082.0
+B32	6.0
+C32	'Landing Nipple,Selective 2.313 OSX'
+D32	1.0
+K32	1.0
+O32	0.0
+P32	1.0
+Q32	3127.0
+R32	3127.0
+B33	7.0
+C33	'7" x 3-1/2" Blue pack Packer'
+D33	2.0
+M33	1.0
+N33	1.0
+O33	0.0
+P33	2.0
+Q33	65610.0
+R33	131220.0
+B34	8.0
+C34	'3-1/2" Pup Joint 25CR 5FT'
+D34	2.0
+M34	1.0
+N34	1.0
+O34	0.0
+P34	2.0
+Q34	8799.18
+R34	17598.36
+B35	9.0
+C35	'Landing Nipple,NO GO 2.313 OSX'
+D35	1.0
+M35	1.0
+N35	1.0
+O35	-1.0
+P35	1.0
+Q35	3127.0
+R35	3127.0
+B36	10.0
+C36	'Pump Out.P + Wireline Entry Guide'
+D36	1.0
+O36	1.0
+P36	1.0
+Q36	2983.9700000000003
+R36	2983.9700000000003
+Q37	'Grand Total: '
+R37	322758.80999999994
+C39	'Note: Back-up 9 5/8" packer from Halliburton'
+C41	'For cut & rethread + lining @ batam'
+B43	11.0
+C43	'3-1/2” 9.2ppf L80 JFE FOX, 6FT'
+D43	12.0
+O43	12.0
+P43	12.0
+R43	0.0
+B44	12.0
+C44	'3-1/2” 9.2ppf L80 JFE FOX, 8FT'
+D44	6.0
+O44	6.0
+P44	6.0
+R44	0.0
+B45	13.0
+C45	'3-1/2” 9.2ppf L80 JFE FOX, 10FT'
+D45	8.0
+O45	8.0
+P45	8.0
+R45	0.0
+B46	14.0
+C46	'3-1/2” 9.2ppf L80 JFE FOX, 12FT'
+D46	8.0
+O46	8.0
+P46	8.0
+R46	0.0
+B47	15.0
+C47	'3-1/2” 9.2ppf L80 JFE FOX, 15FT'
+D47	2.0
+O47	2.0
+P47	2.0
+R47	0.0
+C48	'Note:'
+D48	'Need to cut and rethread 15CR-125 R3 tubing to 4ea 6ft pup joints for 7" packer assembly'

@@ -1,0 +1,6 @@
+# slide 17 (slides/slide17.xml) hidden=False objects=2
+# notes: 'Open\n17'
+[sp id=38914 'Text Box 213' pct=[9.21, 10.56, 91.3, 13.86] hidden=False]
+    WELL C-17 :  P & A
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open

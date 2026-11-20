@@ -1,0 +1,44 @@
+For Internal Use - For Internal Distribution Only
+:                                                              DULANG REVISIT |                                      FB —N3B
+A-17ST1 WELL COMPLETION DIAGRAM
+Well No.          : A-17 st                                                                                                                    Date                                           : 26 November 2001
+Location       7 AA,                                                                                 All Depth in                    : m-MDDBF
+Wellhead §: Cooper Cameron, 3-1/8", 3000 psi.                                          RKB                             :31.55m             -
+Tubing         -2 7/8", 6.4ppf, L-80, Vam Ace                                               Max Deviation                778 @ 2431 m-MDDF
+ MAX| MIN|DEPTH] snort | TI ID | tone            ~ [DEPTH MIN | MAX]
+O.D | I.D | (m)          STRING                |              STRING                     (m) | LD | O.D
+(IN) | {IN)          |                            |                                    |                     (IN) | (IN) |
+          ———          .     —_—      ———$—$————_—_—_                     ————— set 2.31" PXXPlug@145 4d
+|
+|3.678]2.313                                                                                 ,
+sons 2,397                                                                          5
+HUD @ 1392 m-THF 4                                                                           |
+3.678|2.313 |                                                                                                                            D
+13.678 |2.225                                                                                            " No-
+d seat
+meee        |                                                                                                        DTHF.
+2,875 |2.410 ||                                                                                          5SV
+open.
+|                                                                                                       )
+|        |         aie L-80 LCT B-P Blank |]  at  END PKR 4.9" 3.86
+ET    __| |       Bore
+|           open          E12/13        Fi i|) 4"J-55 NU B-P WWS 8 ga _ | 1868 | 3.250/5.875
+|                       |      1818.5 — 1834.5      Co ey an oro ane anan |                _
+|      3.25" Seal Bore Assembly P-@aam>@ *, BWD PKR 4.5" x 3.88     1884 | 2.313]3.220
+|                     Ate" 80 LCT B-P Blank! | Bi) | SLIMLINE SSD#41(OPENED)
+|                      E14             Fills = 4"P140 NU B-P WWS 8 ga| (244 | 9290/9879
+open         1858.5-1886.5 |_| | |           |         -                 99 | 2.225]3.200
+In AEA             |      bo 7" BWD PKR 4.5" x 3.88"      2099 | 2.225)/3.200
+|                      3.25" Seal Bore Assembly | P SPS Bore
+|              |                                      BI     XN NO-GO (OPENED)        2103 | 2.400}3.200
+|                                  es} =|PERFORATED PUP
+|          a YL CONICAL SHOE                                    |
+ Note:                  open                       _                      ri               >                                                    2426                          |
+Conical Shoe on Long           2315.5 — 2352.5        !             |                                         | 2454                     |
+String is pinned with 2                                               |          PTr
+pins (+/-1000 psi) and                                        —       PBTD                                    |
+Het not sheared.          |                              ail RSS m. / Liner Shoe         |
+LAST ENTRY           :6 Nov 2017                  -
+TYPE OF JOB         : A-17L: To perform set plug
+Open                                                                                                             UPDATED BY         : Ariff Shazwan
+DATE                  :4 Feb 2018

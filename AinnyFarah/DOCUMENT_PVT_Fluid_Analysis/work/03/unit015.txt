@@ -1,0 +1,12 @@
+TABLE 16
+SEPARATION TESTS OF RESERVOIR FLUID
+Pressure | Temp | Gas-Oil Ratio | Formation Vol Factor | Density | Shrinkage factor | STO gravity
+(psig) | (F) | Sep | Tank | Total | (2) | (g/cm3) | (3) | (60/60 F)
+200 | 100 | 347 | 74 | 421 | 1.221 | 0. 829 | 0.954 | 0.847
+150 | 100 | 365 | 56 | 421 | 1.221 | 0.83 | 0.961 | 0.847
+100 | 100 | 384 | 37 | 421 | 1.223 | 0.832 | 0.969 | 0.848
+50 | 100 | 405 | 17 | 422 | 1.225 | 0.835 | 0.978 | 0.849
+(1) Gas volume at standard conditions per volume of stock tank oil at 60
+(2) Volume of reservoir fluid at saturation pressure per volume of stock tank oil at 60 F
+(3) Volume of stock tank oil at 60 F per volume of separator liquid at separator conditions
+--- OCR ---

@@ -1,0 +1,15 @@
+# slide 24 (slides/slide24.xml) hidden=False objects=7
+# notes: 'Updated by Pravin 3/7/2022\n\nOpen\n23'
+[pic id=6162434 'Picture 2' pct=[30.53, 3.08, 69.47, 100.0] hidden=False img=../media/image65.png]
+[sp id=5 'Rectangle 4' pct=[30.74, 0.0, 52.07, 2.95] hidden=False]
+    LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR
+[sp id=8 'Rectangle 7' pct=[30.0, 96.23, 46.54, 99.88] hidden=False]
+    Updated on 22nd October by Pravin Nair
+[sp id=13 'Rectangle 12' pct=[16.34, 82.96, 30.64, 88.27] hidden=False]
+    Retrieved Zonemaster #2 @ 2385m to surface in Oct 2022
+[sp id=18 'Rectangle 17' pct=[16.12, 68.57, 30.53, 73.88] hidden=False]
+    Retrieved Zonemaster #1 @ 2333m MDTHF to surface in Oct 2022
+[sp id=7 'TextBox 6' pct=[15.18, 88.85, 34.69, 95.46] hidden=False]
+    DO NOT DELETE REMARK: Zonemasters were retrieved & not set back in well as per SE Aiman post MPLT 2022
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

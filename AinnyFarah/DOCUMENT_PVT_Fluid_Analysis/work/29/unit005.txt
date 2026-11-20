@@ -1,0 +1,17 @@
+Page | 9 of 17
+Report Date | 1982-12-22 00:00:00
+Report No | SFL 82142
+Well | DULANG 6G-7-1 PVT DST4-2
+Sample Date | 1982-07-05 00:00:00
+Lab Receive Date
+Lab | CORE LABORATORIES
+Company | PETRONAS CARIGALI
+1. Saturation pressure (bubble-point pressure) | 1562 | psig at | 196 | °F
+2. Specific volume at saturation pressure : ft 3/lb | 0.02104 | at | 196 | °F
+3. Thermal expansion of saturated oil @ | 5000 | psig = V@1 196°F/V@ 196 °F = 1.000
+4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI
+From | 5000 | PSIG to | 4000 | PSIG = | 9.18 x 10-6
+From | 4000 | PSIG to | 3000 | PSIG = | 9.85 x 10-6
+From | 3000 | PSIG to | 2000 | PSIG = | 10.44 x 10-6
+From | 2000 | PSIG to | 1562 | PSIG = | 10.97 x 10-6
+--- OCR ---

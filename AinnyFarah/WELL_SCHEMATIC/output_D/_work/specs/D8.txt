@@ -1,0 +1,65 @@
+WELL | D8 | 8 | image28.png | WELL D-08 : DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 8 | image28.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 21 DECEMBER1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl BRINE TREATED WITH 30 GALS.KORROGUARD 6500 PER 100 bbls.OF BRINE
+INFO | rte | 14.93 m
+INFO | maxDeviation | 62.5 DEG.@765m MDTHF
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 18 5/8" K-55 COND. 87.5PPF @704 m MDDF | 18.625 | 87.5 | K-55 | 704 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @1424 m MDDF | 13.375 | 54.5 | K-55 | 1424 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ BUTT 2374.0m MDDF | 9.625 | 40 | N-80 | 2374.0 | MDDF
+TUBING | 3-1/2" 9.2 PPF N-80 TKC 40-40 | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3-1/2" 9.2 PPF N-80 TKC 40-40 | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 136.1 |  | 2.992 |  |  |  | p1
+ROW | S | TRDP4A-LS-RO SCSSV | 137.0 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 140.0 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 290.0 |  | 2.812 |  | 31/Dec/2001 |  | p1
+ROW | S | KBMM SPM | 718.6 |  | 2.920 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 1261.5 |  | 2.920 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 1708.6 |  | 2.920 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 2091.4 |  | 2.920 |  | GLOV 8/64" |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 2140.7 |  | 2.812 |  | CLOSED 22/04/2002 | MIN ID printed slightly below the row | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 2157.0 |  | 2.992 |  |  | long side: PKR 3, RELEASE@60000# ABOVE TBG.WT., MIN ID 2.992 | p1
+ROW | S | 'D' NO-GO NIPPLE | 2160.2 |  | 2.750 |  | OPENED 23/Dec/2005 |  | p1
+ROW | S | W/L ENTRY GUIDE | 2160.5 |  | 2.992 |  |  |  | p1
+ROW | S | END OF TBG | 2160.8 |  | 2.992 |  |  |  | p1
+ROW | L | FLOW COUPLING | 145.7 |  | 2.992 |  |  |  | p1
+ROW | L | TRDP4A-LS-RO SCSSV | 146.6 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 147.9 |  | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 299.6 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 766.4 |  | 2.920 |  | DV, 27/Jul/2005 |  | p1
+ROW | L | KBMM SPM | 1337.7 |  | 2.920 |  | DV. 23/Feb/1997 |  | p1
+ROW | L | KBMM SPM | 1746.6 |  | 2.920 |  | GLV, 23/Feb/1997 |  | p1
+ROW | L | KBMM SPM | 1851.7 |  | 2.920 |  | DV |  | p1
+ROW | L | KBMM SPM | 2119.9 |  | 2.920 |  | GLV, 23/Feb/1997 |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2150.4 |  | 2.812 |  | CLOSED 21/04/2002 |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2166.0 |  | 2.812 |  |  |  | p1
+ROW | L | BLAST JOINT | 2168.7 |  | 2.992 |  |  | bottom end of the bracket has no depth | p2
+ROW | L | WP1 NIPPLE | 2180.7 |  | 2.812 |  |  |  | p2
+ROW | L | CAMCO HRP-4-SP SINGLE HYD. PKR | 2184.5 |  | 2.992 |  |  | short-string column; long side PKR 2, RELEASE@40000# ABOVE TBG.WT. | p2
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2186.3 |  | 2.812 |  | CLOSED 08/Jan/2005 |  | p2
+ROW | L | BLAST JOINT | 2187.7 |  | 2.992 |  |  | bottom end of the bracket has no depth | p2
+ROW | L | WP-1 NIPPLE | 2211.8 |  | 2.812 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 2212.5 |  | 2.992 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 2212.8 |  | 2.992 |  | Fish in hole (14ft equipment) 12/1/05 |  | p2
+ROW | L | BAKER 'D-1' PERM PACKER | 2213.8 |  | 2.992 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT | 2214.1 |  | 2.992 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2215.0 |  | 2.750 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 2216.0 |  | 2.992 |  | OPENED 08/Jan/2005 |  | p2
+ROW | L | END OF TUBING | 2216.2 |  |  |  |  |  | p2
+ZONE | E-8 | 2172.0 | 2179.1 | MDTHF | SAND : E-8 2172.0 - 2179.1m-MDTHF | p2 | perf
+ZONE | E-10/11 | 2189.1 | 2211.1 | MDTHF | SAND : E-10/11 2189.1 - 2211.1m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2217.1 | 2227.6 | MDTHF | SAND : E-12/13 2217.1 - 2227.6m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2233.6 | 2238.1 | MDTHF | 2233.6 - 2238.1m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2242.6 | 2251.1 | MDTHF | 2242.6 - 2251.1m-MDTHF | p2 | perf
+PBTD | 2331.1 | MDTHF | PBTD 2331.1m-MDTHF
+TD | 2369.1 | MDTHF | TD@2369.1m MDTHF
+INT | MA Plug set @ WP1 Nipple (Nov 2023) |  |  | 41
+INT | CA Plug set in Aug 2021 |  |  | 46
+NOTE | picture p1 | LIB 2123 m-MDTHF (9/Mar/2011) with LIB photo
+NOTE | picture p2 | 21/March/2011 RIH with 2.78" WL Drift tagged FL@ 900m-MDTHF and "D" n-go@ 2162m-MDTHF
+ISSUE | Conflict | slide 8 | slide status box #44 'CLOSED Aug 2021' over the picture differs from the picture status — listed as note

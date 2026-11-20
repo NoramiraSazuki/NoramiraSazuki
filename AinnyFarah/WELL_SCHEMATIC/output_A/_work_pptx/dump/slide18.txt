@@ -1,0 +1,36 @@
+# slide 18 (slides/slide18.xml) hidden=False objects=22
+# notes: 'Open\n18'
+[pic id=6146 'Picture 2' pct=[3.33, 1.67, 96.67, 57.61] hidden=False img=../media/image40.png]
+[pic id=6147 'Picture 3' pct=[3.33, 57.23, 96.67, 88.54] hidden=False img=../media/image41.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=8 'TextBox 7' pct=[0.08, 65.0, 13.85, 69.38] hidden=False]
+    CLOSED
+    10/MAY/2010
+[sp id=9 'TextBox 8' pct=[81.64, 81.67, 95.42, 86.04] hidden=False]
+    OPEN
+    12/MAY/1992
+[sp id=10 'TextBox 9' pct=[42.58, 23.93, 50.69, 27.29] hidden=False]
+    GIGP
+[sp id=3 'Rectangle 2' pct=[2.2, 46.67, 12.13, 49.79] hidden=False]
+    SSD OPEN (NOV 2015)
+[sp id=22 'Rectangle 21' pct=[53.22, 40.35, 96.33, 41.75] hidden=False]
+    Coil Tubing Parted HUD @ 837 m-mdthf, 2237ft LIH (June 2008) 
+[sp id=26 'Rectangle 25' pct=[-4.85, 32.16, 12.57, 37.21] hidden=False]
+    WFT Packoff: 610m – 616m MDTHF
+    Baker Packoff: 628m – 632m
+[sp id=29 'Text Box 289' pct=[50.31, 88.95, 95.87, 95.01] hidden=False]
+    LAST ENTRY	: 11  Oct 2016
+    TYPE OF JOB	: A-21L : Suspended conduct TBCLR prior SGS
+    UPDATED BY	: Ariff Shazwan
+    DATE	: 4 Feb 2018
+[sp id=31 'Footer Placeholder 30' pct=None hidden=False]
+    Open
+[sp id=14 'TextBox 13' pct=[-10.97, 29.1, 12.69, 32.46] hidden=False]
+    2 suspected leak points @ 612.9m & 631.9m (unknown report)
+[sp id=34 'TextBox 33' pct=[4.07, 50.9, 12.13, 53.09] hidden=False]
+    CLOSED
+[sp id=36 'TextBox 35' pct=[87.55, 27.36, 105.65, 30.73] hidden=False]
+    CSA Plug @ TRSV. Flapper lock open Oct 2018
+[sp id=38 'TextBox 3' pct=[0.0, 0.0, 29.22, 2.36] hidden=False]
+    Latest Update: Dec 2023 by Pravin Nair

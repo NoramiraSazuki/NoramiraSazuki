@@ -1,0 +1,382 @@
+{
+ "slide": 2,
+ "file": "slides/slide2.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n2",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "21",
+   "name": "Group 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 152400,
+   "cx": 6400799,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    1.67,
+    96.67,
+    91.67
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "3074",
+   "name": "Picture 2",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 303904,
+   "y": 152400,
+   "cx": 6325495,
+   "cy": 5760720,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.43,
+    1.67,
+    96.67,
+    64.67
+   ],
+   "image": "../media/image4.png",
+   "crop": {
+    "l": "28483",
+    "t": "9391",
+    "r": "19505",
+    "b": "7389"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "3075",
+   "name": "Picture 3",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 5913120,
+   "cx": 6250193,
+   "cy": 2468880,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    64.67,
+    94.47,
+    91.67
+   ],
+   "image": "../media/image5.png",
+   "crop": {
+    "l": "27864",
+    "t": "49020",
+    "r": "20743",
+    "b": "15315"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    100.52,
+    4.87
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 3167067,
+   "cx": 990600,
+   "cy": 200055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    34.64,
+    100.0,
+    36.82
+   ],
+   "text": "BK2 latch  (Oct/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5866794,
+   "y": 3457578,
+   "cx": 881973,
+   "cy": 200055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.55,
+    37.81,
+    98.41,
+    40.0
+   ],
+   "text": "DV             (Apr/08)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "33",
+   "name": "TextBox 32",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 3309941,
+   "cx": 915635,
+   "cy": 200055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    36.2,
+    98.91,
+    38.39
+   ],
+   "text": "GLV             (Oct/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "34",
+   "name": "TextBox 33",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 3608845,
+   "cx": 894797,
+   "cy": 200055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    39.47,
+    98.6,
+    41.65
+   ],
+   "text": "GLV            (Oct/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Rectangle 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 408081,
+   "y": 5105400,
+   "cx": 1927039,
+   "cy": 504572,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.95,
+    55.83,
+    34.05,
+    61.35
+   ],
+   "text": "E12/13 –  1906- 1916",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Rectangle 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 408081,
+   "y": 7428899,
+   "cx": 1927039,
+   "cy": 343501,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.95,
+    81.24,
+    34.05,
+    85.0
+   ],
+   "text": "E14 –  1933- 1954",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 3593456,
+   "cx": 557959,
+   "cy": 846386,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    39.3,
+    8.14,
+    48.55
+   ],
+   "text": "TOF 1045 mMDTHF\n3/6/2013\n(bottom part of tubing stop)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "19",
+   "name": "Straight Arrow Connector 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 557959,
+   "y": 3593462,
+   "cx": 1880441,
+   "cy": 423187,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    8.14,
+    39.3,
+    35.56,
+    43.93
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5903939,
+   "y": 2816095,
+   "cx": 954061,
+   "cy": 523220,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.09,
+    30.8,
+    100.0,
+    36.52
+   ],
+   "text": "set CS plug at TRDP-4A SCSSV @ 139m-mdthf. \n(13/5/2015)",
+   "geom": "rect",
+   "fill": "FFC000"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4649097,
+   "y": 8316244,
+   "cx": 1904999,
+   "cy": 492443,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.79,
+    90.95,
+    95.57,
+    96.33
+   ],
+   "text": "LAST ENTRY\t: 13 Jun 2015\nTYPE OF JOB\t: A-04L : MPLT\nUPDATED BY\t: Ariff Shazwan\nDATE\t: 22 July 2018",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 58333,
+   "y": 2070301,
+   "cx": 6723888,
+   "cy": 3477875,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.85,
+    22.64,
+    98.9,
+    60.68
+   ],
+   "text": "FOR A04ST1  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Footer Placeholder 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

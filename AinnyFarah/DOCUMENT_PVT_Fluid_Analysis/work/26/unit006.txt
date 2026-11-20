@@ -1,0 +1,20 @@
+Hydrocarbon Anlaysis of Separator Liquid Sample
+Component | Mol% | Wt% | Density | °Api @ 60°F | MW
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 7.48 | 1.4
+N2 Nitrogen | 0.05 | 0.01
+C1 Methane | 2.71 | 0.18
+C2 Ethane | 0.63 | 0.08
+C3 Propane | 0.57 | 0.11
+iC4 i-Butane | 0.3 | 0.07
+nC4 n-Butane | 0.3 | 0.07
+iC5 i-Pentane | 0.26 | 0.08
+nC5 n-Pentane | 0.22 | 0.07
+C6 Hexanes | 0.71 | 0.26 | 0.6662 | 80.7 | 86
+C7 Heptanes | 0.01 | 0 | 0.6838 | 75.3 | 100
+C8 Octanes | 2.28 | 1.04 | 0.7673 | 52.7 | 106
+C9 Nonanes | 2.19 | 1.03 | 0.8003 | 45.1 | 110
+C10 Decanes | 2.29 | 1.23 | 0.8201 | 40.9 | 125
+C11+ Undecanes Plus | 80 | 94.37 | 0.8601 | 32.9 | 275
+100 | 100
+--- OCR ---

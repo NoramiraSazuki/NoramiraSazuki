@@ -1,0 +1,110 @@
+For Internal Use - For Internal Distribution Only
+
+Latest Update: MAR 2023 by Pravin Nair FB — SE2
+
+A-12ST1 WELL COMPLETION DIAGRAM
+SELECTIVE SINGLE OIL PRODUCER
+
+Well No. : A-12ST1 Date : 22 January 2002
+Location : Dul-A All Depth in : m-MDDF
+
+Wellhead: Cooper Cameron, 3-1/8",3000 psi RKB-THF :11.635m
+
+Tubing : 27/8", 6.4ppf, L-80, Vam Ace Max Deviation : 73.88 @ 1567 m-MDDF
+
+SINGLE STRING preies
+m 4 Wf
+
+150 2.312 |4.720
+
+FLOW COUPLING
+TR-SC-SSSV
+
+FLOW COUPLING
+
+2.31" Insert Valve @ TRSV. aa
+Flapper lock open Oct 2023
+
+302 2.312 |3.700
+
+CAMCO WP-1 NIPPLE
+675 2.397 |4.730
+
+SPM #4
+(W / IPO 8/64 - 800 PSI)
+
+Leak @ 1412m MDDF (MIT Nov 23)
+
+SPM #3
+(W/ IPO 12/64 - 835 PSI)
+
+415 | 2.397 |4.730
+
+7" TOL
+9-5/8 Casing Shoe
+SPM #2
+
+(W/ IPO 16/64 - 875 PSI)
+
+SPM # 1
+(W/ GLOV 16/64)
+
+| 4
+Wi) © Apr 2023 — 2.25” LIB impression SSD # 3
+of suspected parted tubing stop 7" HYD PKR #2
+
+sleeve @ 2611m WLTHF
+
+2136 2.397 |4.730
+
+2579 2.397 |4.730
+
+2587 2.312 |3.700
+2600
+
+open 2607 | 2.312 |3.700
+2 7/8" BLAST JOINT
+(2609 - 2621)
+
+2622 | 2.312 |3.700
+2627
+
+2631 | 2.420 |3.650
+2635 | 2.312 |3.700
+
+CAMCO WP-1 NIPPLE
+7" HYD PKR # 1
+HYDRO TRIP SUB
+SSD #1 )
+
+2 7/8" BLAST JOINT
+(2637 - 2664)
+
+CAMCO WP-1 NIPPLE
+LOCATOR SEAL ASSEMBLY
+
+7" PERM PKR
+D-NO GO NIPPLE (opened)
+PERFORATED PUP
+CONICAL SHOE
+
+2666 | 2312 |3.700
+
+2670
+2673 | 2.250 |3.250
+
+2678 | 2.400 {3.200
+
+orn £32 (2710.0 a
+Fas 2776 0-2 Coilflate set at 2759m MDDF to isolate E36. Cement
+Pi 0) pumped. TOC tagged at 2749m MDDF with CTU (Jul 2011)
+
+Open
+
+3017
+
+PBTD
+7" Liner Shoe
+
+SQq
+

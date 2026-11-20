@@ -1,0 +1,129 @@
+Dep. Conditions
+Component
+1450 PSIG@ 200’F Mol
+1200 PSIG0 200‘F
+950 PSIG0 200°F
+700 PSIG@ Mol Percent
+220’F
+GPM
+Mol Percent
+GPM
+Mol Percent
+GPM
+Percent
+GPM
+Hydrogen Sulfide
+0.00
+0.00
+0.00
+0.00
+Carbon Dioxide
+52.04
+54.38
+56.80
+60.14
+Nitrogen
+3.50
+3.01
+2.33
+1.60
+Methane
+41.41
+39.30
+37.14
+33.96
+Ethane
+1.74
+0.465
+1.88
+0.503
+2.10
+0.562
+2.39
+0.639
+Propane
+0.64
+0.176
+0.69
+0.190
+•&apos; 0.79
+0.218
+0.93
+0.256
+Iso-Butane
+0.19
+0.062
+0.20
+0.065
+0.22
+0.072
+0.27
+0.088
+N-Butane
+0.14
+0.044
+0.15 ■
+0.047
+0.17
+0.054
+0.20
+0.063
+Iso-Pentane
+0.07
+0.026
+0.08
+0.029
+0.09
+0.033
+0.10
+0.037
+N-Pentane
+0.05
+0.018
+0.06
+0.022
+0.06
+0.022
+0.07
+0.025
+Hexanes
+0.07
+0.027
+0.08
+0.031
+0.09
+0.035
+0.10
+0.039
+Heptanes plus
+0.15
+0.066
+0.17
+0.075
+0.21
+0.093
+0.24
+0.106
+Total
+100.00
+0.884
+100.00
+0.962
+100.00
+1.089
+100.00
+1.253
+Gas gravity
+1.099
+1.122
+1
+147
+1.182
+(air=l.000)
+Gross heating
+494
+479
+468
+450
+value (BTU per cubic foot of dry gas at 14.73 psia and 60“F)
+--- OCR ---

@@ -1,0 +1,68 @@
+{
+ "slide": 30,
+ "file": "slides/slide30.xml",
+ "hidden": false,
+ "size": [
+  7739063,
+  10042525
+ ],
+ "notes": "Open\n30",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "9",
+   "name": "Picture 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 693337,
+   "y": 376049,
+   "cx": 6352388,
+   "cy": 9000179,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    8.96,
+    3.74,
+    91.04,
+    93.37
+   ],
+   "image": "../media/image30.png"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1336813,
+   "y": 3062982,
+   "cx": 5334000,
+   "cy": 1569660,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    17.27,
+    30.5,
+    86.2,
+    46.13
+   ],
+   "text": "FOR B30 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

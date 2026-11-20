@@ -1,0 +1,29 @@
+TABLE 23
+RECEPTION OF SEPARATOR GAS
+CYLINDER | A 4343
+Opening pressure (psig) | 60
+Temperature (C) | 24
+Water Content | NIL
+TABLE 24
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS (ES)
+(MOLE PERCENT)
+Components | Cylinder
+4343
+Nitrogen | 0.3
+Carbon Dioxide | 57.06
+H2S Hydrogen Sulphide | Traces
+Methane | 31.03
+Ethane | 5.64
+Propane | 2.91
+Iso-Butane | 0.93
+N-Butane | 0.73
+I-Pentane | 0.31
+N-Pentane | 0.23
+Hexanes | 0.28
+Heptanes Plus | 0.53
+TOTAL | 100
+Molecular Weight | 35.348
+Gravity (Air=1) | 1.22
+Molecular Weight of Heptanes plus | 107.4
+The cylinder 4343 has been used for recombination
+--- OCR ---

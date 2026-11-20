@@ -1,0 +1,53 @@
+WELL | D27 | 27 | image69.png + image70.png | WELL NAME: DULANG D-27 (LOCATION : DULANG)
+SRC | 27 | image69.png (upper) + image70.png (lower) | visual transcription of the pictures (x3 upscale), OCR cross-check
+DATUM | m MD RKB (column headers 'DEPTH MD m RKB')
+INFO | completionDate | 02-Apr-12
+INFO | rig | KM-1
+INFO | maxDeviation | 42.00 @ 775.55 m MD / 735.54 m TVD
+INFO | tubing | 3-1/2" 13 Cr 9.2 PPF & 2-7/8" SC 13Cr 6.4 PPF Inner String; 6-1/8" Open Hole wt 125 micron 4-1/2" 12.6 PPF PGAM Screen
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree
+INFO | completionFluid | (LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — Tubing String (OIL PRODUCER); single string (Vinod / Nazar - March-12)
+TUBING | 3-1/2" 13 Cr 9.2 PPF | 3.5 | 9.2 | 13 Cr | - |
+TUBING | 2-7/8" SC 13Cr 6.4 PPF Inner String | 2.875 | 6.4 | 13Cr | inner |
+ROW | X | FLOW COUPLING | 241 |  | 2.880 | 3.920 |  | depths printed decreasing (241/240/239) for the upper flow coupling / TRSSSV / lower flow coupling | a1
+ROW | X | TRSSSV | 240 |  | 2.813 | 5.030 |  |  | a1
+ROW | X | FLOW COUPLING | 239 |  | 2.880 | 3.920 |  |  | a1
+ROW | X | 3-1/2" SPM | 487 |  | 2.880 | 6.000 |  |  | a2
+ROW | X | 3-1/2" SPM | 754 |  | ?2.880 | ?6.000 |  | MIN ID / MAX OD printed between the SPM rows (2.880 / 6.000 shared by the SPM group) | a2
+ROW | X | 3-1/2" SPM | 975 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" SPM | 1147 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" SPM | 1278 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" Orifice | 1392 |  | 2.880 | 6.000 |  |  | a2
+ROW | X | 3-1/2" SSD | 1496 |  | 2.813 | 4.550 | Close |  | a2
+ROW | X | 7" x 3-1/2" AHC Packer | 1513 |  | 2.900 | 5.960 |  |  | a2
+ROW | X | 3-1/2" XN-Nipple | 1517 |  | 2.666 | 3.893 |  |  | a2
+ROW | X | 3-1/2" No-Go Locator |  |  |  |  |  | no depth printed | a2
+ROW | X | 3-1/2" Self Aligning Muleshoe | 1527 |  |  |  |  | end of the 3-1/2" upper string | a2
+ROW | Lw | 4-1/2" x 7" VTA Packer | 1526 |  | 3.880 | 6.000 |  |  | a2
+ROW | Lw | 3.88" Seal Bore Ext |  |  | 3.894 | 4.967 |  | no depth printed | a2
+ROW | Lw | 3 Way Sub : 1544 4-1/2"x 4-1/2"x 2-7/8" Box X Pin X Pin | 1544 |  | 3.250 | 5.250 |  | depth printed inside the label; second ID/OD pair 3.958 / 5.500 printed below (unassigned) | b1
+ROW | Lw | 3 Meter Oil Swell Packer | 1571 | 1574 |  |  |  | depth range '1571 -1574' | b1
+ROW | X | 3.22" SLIM SSD Inner String | 1575 |  | 2.313 | 3.220 | Close |  | b1
+ROW | X | 3.25" Seal Bore Ext | 1579 |  | 2.350 | 3.290 |  |  | b1
+ROW | X | No-Go Locator Inner String |  |  | 2.410 | 4.210 |  | no depth printed | b1
+ROW | Lw | 3 Meter Oil Swell Packer | 1583 | 1586 |  |  |  | depth range '1583 - 1586' | b1
+ROW | X | 3.22" SLIM SSD Inner String | 1594 |  | 2.313 | 3.220 | Open |  | b1
+ROW | X | 3.25" Seal Bore Ext | 1601 |  | 3.894 | 5.600 |  |  | b2
+ROW | Lw | Water Swell Packer | 1606 | 1609 | 3.894 | 5.600 |  |  | b2
+ROW | Lw | Oil Swell Packer | 1612 | 1615 | 3.894 | 5.600 |  |  | b2
+ROW | X | 3.22" SLIM XN-Nipple Inner String | 1613 |  | 2.250 | 3.220 |  |  | b2
+ROW | X | 3.22" Self Aligning Muleshoe Inner String | 1614 |  | 2.360 | 3.220 |  | end of the inner string | b2
+FLOAT | Double Valve Float Shoe | 1621 | MD m RKB | Double Valve Float Shoe 1621 (MAX OD 5.520)
+SHOE | SHOE 1560 m MD DF 1317 m TVDF | 1560 | MD DF | 1317 | SHOE 1560 m MD DF / 1317 m TVDF (7" casing shoe; size not printed)
+ZONE | E10-11 | 1575 | 1580 | MD DF | E10-11 MD: 1575-1580 mDF TVD: 1327-1331 mRKB | b1 | interval
+ZONE | E 12-13 A | 1587 | 1593 | MD DF | E 12-13 A MD: 1587-1593 mDF TVD: 1337-1342 mRKB | b1 | interval
+ZONE | E12-13 B | 1596 | 1601 | MD DF | E12-13 B MD: 1596-1601 mDF TVD: 1344-1348 mRKB | b2 | interval
+TD | 1654 | DF | TD : 1654 Meter DF (diagram 'TD 1654')
+NOTE | picture header | PBTD : NA; WATER DEPTH : 74.22 M; TUBING HANGER : 20 Meter DF; DRILL IN FLUID 10.2 ppg Size Salt OPTA-FLO Drill in Fluid (DIF); ENZYME BREAKER 10.2 ppg Formate based fluid enzyme breaker
+NOTE | picture b1 | screen interval drawn (6-1/8" open hole with 4-1/2" PGAM screen) — no depths printed
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC (March-12) — treated as the well's schematic
+ISSUE | Unclear | picture | zones printed in MD m DF and TVD m RKB while the equipment column is MD m RKB — datums kept as printed; zone TVD (mixed datum) not mapped
+ISSUE | Conflict | picture a1 | upper flow coupling / TRSSSV / lower flow coupling depths printed 241 / 240 / 239 (decreasing downwards) — kept as printed
+ISSUE | Missing | picture | PBTD 'NA'; casing sizes / weights not given in the header (only the shoe label)

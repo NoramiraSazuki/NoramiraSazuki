@@ -1,0 +1,26 @@
+Hydrocarbon Anlaysis of Separator Products and Calculated Well Stream
+Component | Separator Liquid | Separator Gas | Well Stream
+Component | Mol Percent | Mol Percent | GPM | Mol Percent
+H2S Hydrogen Sulphide | 0 | 0 | 0
+CO2 Carbon Dioxide | 7.48 | 58.52 | 29.57
+N2 Nitrogen | 0.05 | 0.4 | 0.2
+C1 Methane | 2.71 | 37.45 | 17.75
+C2 Ethane | 0.6 | 2.25 | 0.602 | 1.33
+C3 Propane | 0.57 | 0.75 | 0.206 | 0.65
+iC4 i-Butane | 0.3 | 0.21 | 0.069 | 0.26
+nC4 n-Butane | 0.3 | 0.14 | 0.044 | 0.23
+iC5 i-Pentane | 0.26 | 0.06 | 0.022 | 0.17
+nC5 n-Pentane | 0.22 | 0.04 | 0.014 | 0.14
+C6 Hexanes | 0.71 | 0.05 | 0.02 | 0.42
+C7+ Heptanes Plus | 86.77 | 0.13 | 0.061 | 49.28
+Properties of Heptanes plus
+API gravity @ 60°F | 33.5
+Specific gravity @ 60/60°F | 0.8569 | 0.857
+Molecular Weight | 265 | 103 (assumed) | 265
+Calculated separator gas gravity (air= 1.000) | = | 1.157
+Calculated gross heating value for separator gas | = | 463 | BTU
+per cubic foot of dry gas @ 14.73 psia and 60°F
+Primary Separator gas collected @ | 180 psig | and | 124°F
+Primary Separator liquid collected @ | 180 psig | and | 142°F
+Primary Separator gas/separator liquid ratio | 352.9 SCF/Bbl @ 142°F
+--- OCR ---

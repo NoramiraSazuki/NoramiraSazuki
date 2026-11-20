@@ -1,0 +1,153 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A21",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a21-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 125.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 18: 'FLOW COUPLING' @ 125.5 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-02",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 586.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 18: 'SPM' @ 586.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-03",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 595.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 18: 'SPM' @ 595.5 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-04",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1303.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 18: 'SPM' @ 1303.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-05",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1353.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1353.8 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-06",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1351.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1351.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-07",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 1490.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 18: 'PKR' @ 1490.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-08",
+      "type": "mechanical-plug",
+      "name": "PLUG",
+      "topMd": 1492.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'PLUG' is not literally a template type; nearest 'Mechanical Plug'",
+      "source": "PDF page 18: 'PLUG' @ 1492.5 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-09",
+      "type": "mule-shoe",
+      "name": "ENTRY GUIDE",
+      "topMd": 1492.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'ENTRY GUIDE' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 18: 'ENTRY GUIDE' @ 1492.5 (read identically in OCR passes bc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a21-10",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1496.5,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1496.5 (read identically in OCR passes ac; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

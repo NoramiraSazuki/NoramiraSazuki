@@ -1,0 +1,72 @@
+WELL | A27 | 24 | image53.png + image54.png | WELL A-27 : DUAL OIL PRODUCER WITH SHORT STRING SELECTIVE (TYPE 8)
+SRC | 24 | image53.png + image54.png | visual transcription of the screenshot pictures (x3 upscale, upper part image53 / lower part image54)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 2 7/8" 8.4 # TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3 1/8" X 3 1/8" X 11", 3M
+INFO | packerFluid | 3% KCl + NaCl TREATED WITH 25 GALLONS CONQUOR 303-A +. 4 GALLONS OF DIOCIDE PER 100 BBLS BRINE.
+INFO | maxDeviation | 73.1 DEG
+INFO | rte | 14.6 m
+INFO | completionType | DUAL OIL PRODUCER WITH SHORT STRING SELECTIVE (TYPE 8)
+CASING | 18 5/8" X-58 COND. 87.5 ppf @ 470.0 m MDTHF | 18.625 | 87.5 | X-58 | 470.0 | MDTHF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ 1620.0 mMDTHF | 13.375 | 54.5 | K-55 | 1620.0 | MDTHF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ 2765.0 m MDTHF | 9.625 | 40 | N-80 | 2765.0 | MDTHF
+TUBING | 2 7/8" 8.4 # TKC 40-40 (short string) | 2.875 | 8.4 |  | Short |
+TUBING | 2 7/8" 8.4 # TKC 40-40 (long string) | 2.875 | 8.4 |  | Long |
+ROW | S | FLOW COUPLING | 140.8 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 141.6 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 295.8 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 601.6 |  | 2.371 |  | ?DV - 2014 | status from slide text box obj #2 matched by position | p1
+ROW | S | KBMG-M SPM | 1407.2 |  | 2.371 |  | ?DV - 2021 | status from slide text box obj #9 matched by position | p1
+ROW | S | KBMG-M SPM | 1977.0 |  | 2.371 |  | ?GLV (12/64") 915psi - 2021 | status from slide text box obj #33 matched by position | p1
+ROW | S | KBMG-M SPM | 2273.8 |  | 2.371 |  | ?GLOV (12/64") - 2021 | status from slide text box obj #10 matched by position | p1
+ROW | S | WPB-2DE SSD | 2373.4 |  | 2.312 |  | CLOSED |  | p1
+ROW | D | DUAL PACKER [symbol only — label not printed] | 2380.8 |  |  |  |  | dual packer symbol across both strings with depth 2380.8 in the short-string column; no equipment label printed | p1
+ROW | S | TELESCOPIC JOINT | 2384.5 |  |  |  |  |  | p1
+ROW | S | 'WPB-2DE' SSD | 2398.6 |  | 2.312 |  | OPENED 18/6/99 |  | p1
+ROW | S | WP-1 NIPPLE | 2438.1 |  | 2.312 |  | SET 'MA' PLUG (18/6/99) |  | p1
+ROW | S | 'D' NO-GO NIPPLE | 2449.2 |  | 2.250 |  |  |  | p1
+ROW | S | W/L ENTRY GUIDE | 2449.6 |  | 2.441 |  |  | end of string | p2
+ROW | L | FLOW COUPLING | 130.4 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 131.2 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 285.2 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 610.4 |  | 2.371 |  | IPO GLV 10/[cut]; ?DV- 2019 | printed status cut at the picture edge; later status from slide text box obj #6186 matched by position | p1
+ROW | L | KBMG-M SPM | 1515.3 |  | 2.371 |  | IPO GLV 10/[cut]; ?DV- 2019 | printed status cut at the picture edge; later status from slide text box obj #6183 matched by position | p1
+ROW | L | KBMG-M SPM | 2006.3 |  | 2.371 |  | IPO GLV 8/[cut]; ?DV- 2019 | printed status cut at the picture edge; later status from slide text box obj #6179 matched by position | p1
+ROW | L | KBMG-M SPM | 2323.8 |  | 2.371 |  | GLOV 12/[cut]; ?GLOV (16/64") - 2019 | printed status cut at the picture edge; later status from slide text box obj #6177 matched by position | p1
+ROW | L | WPB-2DE SSD | 2373.6 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 2398.7 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | BLAST JOINT | 2402.5 | 2413.4 | 2.441 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 2438.1 |  | 2.312 |  |  |  | p1
+ROW | L | 'WPB-2DE' SSD | 2456.8 |  | 2.312 |  | CLOSED |  | p2
+ROW | L | BLAST JOINT | 2460.7 | 2472.7 | 2.441 |  |  |  | p2
+ROW | L | WP-1 NIPPLE | 2516.7 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 2523.5 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 2525.6 |  | 2.441 |  |  |  | p2
+ROW | L | SEAL BORE EXT. |  |  | 4.000 |  |  | depth not printed | p2
+ROW | L | 'D' NO-GO NIPPLE | 2530.0 |  | 2.250 |  |  |  | p2
+ROW | L | X-OVER 2 7/8 | 2530.4 |  |  |  |  |  | p2
+ROW | L | DEBRIS SUB | 2531.5 |  |  |  |  |  | p2
+ROW | L | TCP FIRING HEAD | 2542.1 |  |  |  |  |  | p2
+ROW | L | END OF TCP GUN | 2565.4 |  |  |  |  |  | p2
+ROW | L | BOTTOM NOSE | 2567.4 |  |  |  |  | end of string (bottom of the TCP gun assembly) | p2
+ZONE | LD-1 & LD-2 | 2409.0 | 2417.4 | MDTHF | SAND : LD-1 & LD-2 2409.0 - 2417.4 m MDTHF | p1 | perf
+ZONE | LD-1 & LD-2 | 2422.4 | 2431.4 | MDTHF | SAND : LD-1 & LD-2 2422.4 - 2431.4 m MDTHF | p1 | perf
+ZONE | LD-3 | 2464.4 | 2470.4 | MDTHF | SAND : LD-3 2464.4 - 2470.4 m MDTHF | p2 | perf
+ZONE | E-7 | 2544.9 | 2565.4 | MDTHF | SAND : E-7 2544.9 - 2565.4 m MDTHF | p2 | perf
+PBTD | 2728 | MDDF | PBTD : 2728 m MDDF (header)
+TD | 2750.4 | MDTHF | TD @ 2750.4 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+INT | 'B' Tubing stop & storm choke set at TRSV. TR Flapper lock open in Jun 2014 |  |  | 15
+INT | 'B' Tubing stop & storm choke (70psi) set at TRSV. TR Flapper lock open in Apr 2015 |  |  | 6169
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p1 | short-string status column: 'PTRO 1015# 16/64"' (cut at the picture edge, beside SPMs 1977.0 / 2273.8 — not matched)
+NOTE | picture p1/p2 | second dual-packer symbol below WP-1 NIPPLE 2438.1 and a permanent-packer symbol between LOC. SEAL ASSY. 2525.6 and SEAL BORE EXT. — no labels and no depths printed (not mapped)
+NOTE | slide 24 obj #58 | HUD @ 2378m MDTHF with 2.29" GR / 2" LIB. Impression tubing parted / SSD profile (Nov 2022)
+NOTE | slide 24 obj #6157 | 2.29" Gauge Ring HUD at 2522m MDTHF, suspected due to high well deviation
+NOTE | slide 24 image55.png | photograph of a cut / parted tubing end (no data)
+NOTE | slide 24 obj #13 | LAST UPDATED: PRAVIN NAIR APR 2023
+ISSUE | Missing | header | DATE OF COMPLETION shows the template placeholder 'Enter Date' — completionDate left empty
+ISSUE | Missing | picture p1 | the upper dual packer has a depth (2380.8) but no equipment label; the lower dual packer and the permanent packer have neither label nor depth
+ISSUE | Unclear | header | casing shoes printed in m MDTHF while PBTD is printed in m MDDF — not shifted
+ISSUE | Unclear | slide 24 | later SPM statuses (2014 / 2019 / 2021) are slide text boxes matched to SPM rows by vertical position; printed long-string statuses are cut at the picture edge

@@ -1,0 +1,52 @@
+WELL | D11 | 11 | image32.png | WELL D-11 : DUAL OIL PRODUCER IN SHORT AND LONG STRING
+SRC | 11 | image32.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 03 JANUARY 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 6.4 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl BRINE TREATED WITH 30 GALS.KORROGUARD 6500 PER 100 bbls.OF BRINE
+INFO | rte | 14.93 m
+INFO | maxDeviation | 71 DEG.@ 935.0m-MDTHF
+INFO | completionType | DUAL OIL PRODUCER IN SHORT AND LONG STRING
+CASING | 18 5/8" X-56 COND. 87.5 PPF @780.0m MDDF | 18.625 | 87.5 | X-56 | 780.0 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 PPF @1703 m MDDF | 13.375 | 54.5 | K-55 | 1703 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 PPF @ BUTT 2985.0m MDDF | 9.625 | 40 | N-80 | 2985.0 | MDDF
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Short |
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Long |
+ROW | S | FLOW COUPLING | 135.7 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP4A-LS SCSSV | 136.5 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 290.5 |  | 2.312 |  | 05/Jan/2002 |  | p1
+ROW | S | KBMM SPM | 722.3 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 1560.6 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 2196.5 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 2698.1 |  | 2.371 |  | GLOV 10/64" |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 2767.4 |  | 2.312 |  | CLOSED 29/04/2002 |  | p1
+ROW | D | CAMCO 'HSD-3-SPS' DUAL HYD.PKR | 2783.8 |  | 2.441 |  |  | long side: PKR 2, RELEASE@40000# ABOVE TBG.WT., MIN ID 2.441 | p1
+ROW | S | 'D' NO-GO NIPPLE | 2786.9 |  | 2.250 |  | OPENED 08/FEB/1996 |  | p1
+ROW | S | W/L ENTRY GUIDE | 2787.3 |  | 2.441 |  |  |  | p1
+ROW | S | END OF TBG | 2787.5 |  | 2.441 |  |  |  | p1
+ROW | L | FLOW COUPLING | 145.4 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP4A-LS SCSSV | 146.3 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 300.2 |  | 2.312 |  | 09/Sept/1998 |  | p1
+ROW | L | KBMM SPM | 732.0 |  | 2.371 |  | GLV 12/64" |  | p1
+ROW | L | KBMM SPM | 1570.2 |  | 2.371 |  | GLV 12/64" |  | p1
+ROW | L | KBMM SPM | 2225.5 |  | 2.371 |  | GLV (body) 10/64" |  | p1
+ROW | L | KBMM SPM | 2756.1 |  | 2.371 |  | GLV 10/64" |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2777.1 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2794.6 |  | 2.312 |  | CLOSED |  | p2
+ROW | L | BLAST JOINT | 2798.3 | 2810.3 | 2.441 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 2812.9 |  | 2.312 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 2817.9 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 2819.7 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM PACKER | 2821.0 |  | 2.441 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT | 2821.3 |  | 2.441 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2824.0 |  | 2.250 |  |  |  | p2
+ROW | L | OTIS CONICAL MULE SHOE | 2825.1 |  | 2.441 |  | OPENED 08/FEB/1996 |  | p2
+ROW | L | END OF TUBING | 2825.3 |  |  |  |  |  | p2
+ZONE | E-10/11 | 2800.0 | 2808.5 | MDTHF | SAND : E-10/11 2800.0 - 2808.5m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2829.0 | 2840.0 | MDTHF | SAND : E-12/13 2829.0 - 2840.0m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2844.5 | 2848.0 | MDTHF | 2844.5 - 2848.0m-MDTHF | p2 | perf
+PBTD | 2944.0 | MDTHF | PBTD 2944.0m-MDTHF
+TD | 2980.0 | MDTHF | TD@2980.0m MDTHF
+NOTE | picture p2 | 21/May/2010: Tubing clearance at No-go@2828m-MDTHF

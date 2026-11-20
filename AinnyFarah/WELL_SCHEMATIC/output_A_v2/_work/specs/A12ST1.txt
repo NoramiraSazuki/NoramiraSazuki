@@ -1,0 +1,56 @@
+WELL | A12ST1 | 10 | image22.png | A-12ST1 WELL COMPLETION DIAGRAM — SELECTIVE SINGLE OIL PRODUCER (Well No. : A-12ST1)
+SRC | 10 | image22.png | visual transcription of the scanned diagram (x3 upscale, viewed in 3 parts)
+DATUM | m MDDF ('All Depth in : m-MDDF'; column 'DEPTH (m)')
+INFO | completionDate | 22 January 2002
+INFO | wellhead | Cooper Cameron, 3-1/8", 3000 psi
+INFO | tubing | 2 7/8", 6.4ppf, L-80, Vam Ace
+INFO | maxDeviation | 73.88 @ 1567 m-MDDF
+INFO | completionType | SELECTIVE SINGLE OIL PRODUCER
+CASING | 9-5/8 Casing Shoe | 9.625 |  |  | 1957 | MDDF
+CASING | 7" Liner Shoe | 7 |  |  | 3043 | MDDF | 1733 | diagram label '7" TOL 1733' (m MDDF)
+TUBING | 2 7/8", 6.4ppf, L-80, Vam Ace | 2.875 | 6.4 | L-80 | - |
+ROW | X | FLOW COUPLING |  |  |  |  |  | depth 150 printed once for the FLOW COUPLING / TR-SC-SSSV pair — assigned to the SSSV | p1
+ROW | X | TR-SC-SSSV | 150 |  | 2.312 | 4.720 |  | depth printed between the FLOW COUPLING and TR-SC-SSSV labels | p1
+ROW | X | FLOW COUPLING |  |  |  |  |  | depth not printed | p1
+ROW | X | CAMCO WP-1 NIPPLE | 302 |  | 2.312 | 3.700 |  |  | p1
+ROW | X | SPM # 4 (W / IPO 8/64 - 800 PSI) | 675 |  | 2.397 | 4.730 |  |  | p1
+ROW | X | SPM # 3 (W / IPO 12/64 - 835 PSI) | 1415 |  | 2.397 | 4.730 |  |  | p2
+ROW | X | SPM # 2 (W / IPO 16/64 - 875 PSI) | 2136 |  | 2.397 | 4.730 |  |  | p2
+ROW | X | SPM # 1 (W / GLOV 16/64) | 2579 |  | 2.397 | 4.730 |  |  | p2
+ROW | X | SSD # 3 (closed) | 2587 |  | 2.312 | 3.700 | closed; ?closed | slide text box obj #10 'closed' beside it | p2
+ROW | X | 7" HYD PKR #2 | 2600 |  |  |  |  | MIN ID / MAX OD not printed | p2
+ROW | X | SSD # 2 (closed) | 2607 |  | 2.312 | 3.700 | closed; ?open | slide text box obj #2 'open' matched by position (later than the printed label) | p2
+ROW | X | 2 7/8" BLAST JOINT (2609 - 2621) | 2609 | 2621 |  |  |  | depths from the label | p2
+ROW | X | CAMCO WP-1 NIPPLE | 2622 |  | 2.312 | 3.700 |  |  | p3
+ROW | X | 7" HYD PKR # 1 | 2627 |  |  |  |  | MIN ID / MAX OD not printed | p3
+ROW | X | HYDRO TRIP SUB | 2631 |  | 2.420 | 3.650 |  |  | p3
+ROW | X | SSD #1 (opened) | 2635 |  | 2.312 | 3.700 | opened; ?closed | slide text box obj #12 'closed' matched by position (later than the printed label) | p3
+ROW | X | 2 7/8" BLAST JOINT (2637 - 2664) | 2637 | 2664 |  |  |  | depths from the label | p3
+ROW | X | CAMCO WP-1 NIPPLE | 2666 |  | 2.312 | 3.700 |  |  | p3
+ROW | X | LOCATOR SEAL ASSEMBLY |  |  |  |  |  | depth not printed | p3
+ROW | X | 7" PERM PKR | 2670 |  |  |  |  | MIN ID / MAX OD not printed | p3
+ROW | X | D-NO GO NIPPLE (opened) | 2673 |  | 2.250 | 3.250 |  | depth printed between the D-NO GO NIPPLE and PERFORATED PUP labels — assigned to the nipple | p3
+ROW | X | PERFORATED PUP |  |  |  |  |  | depth not printed | p3
+ROW | X | CONICAL SHOE | 2678 |  | 2.400 | 3.200 |  | end of string | p3
+ZONE | E23U | 2612.0 | 2618.0 | MDDF | E23U (2612.0 - 2618.0) | p2 | perf
+ZONE | E23L | 2640.0 | 2660.0 | MDDF | E23L (2640.0 - 2660.0) | p3 | perf
+ZONE | E32 | 2710.0 | 2720.0 | MDDF | E32 (2710.0 - 2720.0) | p3 | perf
+ZONE | E36 | 2776.0 | 2786.0 | MDDF | E36 (2776.0 - 2786.0) | p3 | perf
+PBTD | 3017 | MDDF | PBTD 3017 (diagram; All Depth in m-MDDF)
+INT | 2.31" Insert Valve @ TRSV. Flapper lock open Oct 2023 |  |  | 13
+INT | Coilflate set at 2759m MDDF to isolate E36. Cement pumped. TOC tagged at 2749m MDDF with CTU (Jul 2011) | 2759 | MDDF | 9291
+CEMENT | Cement on Coilflate (TOC tagged with CTU, Jul 2011) | 2749 |  | MDDF | TOC tagged at 2749m MDDF with CTU (Jul 2011) — slide 10 obj #9291
+NOTE | picture p1 | Location : Dul-A; RKB : 31.6 m (reference of the RKB value not stated — not mapped to kbElevation)
+NOTE | picture p3 | Note: Conical Shoe is pinned with 1 pin (+/-500 psi) and still not sheared.
+NOTE | slide 10 obj #26 | RKB-THF : 11.635m (offset between RKB and tubing hanger flange — not a datum shift applied)
+NOTE | slide 10 obj #5 | mddf (unit label on the slide)
+NOTE | slide 10 obj #6 / #11 / #9224 / #34 | zone status boxes: E23U open, E23L closed, E32 OPEN, E36 CLOSED (matched by position)
+NOTE | slide 10 obj #27 | Apr 2023 – 2.25" LIB impression of suspected parted tubing stop sleeve @ 2611m WLTHF (wireline depth — not used as MD)
+NOTE | slide 10 obj #8 | Leak @ 1412m MDDF (MIT Nov 23)
+NOTE | slide 10 obj #14 | Latest Update: MAR 2023 by Pravin Nair
+NOTE | slide 10 image23.png | downhole camera frame 'Fish - Piece of metal', 9/9/2018 7:48:31 PM, 8743.00 ft (camera depth, datum not stated), 65.8 deg, 101 C
+NOTE | slide 10 image24.jpeg | photograph of a cut / damaged pipe end (no data)
+ISSUE | Missing | header | rig, X-mas tree, packer fluid and TD not printed; 9-5/8 casing weight / grade not printed
+ISSUE | Unclear | picture p1/p3 | some depths are printed between two labels (150 for FLOW COUPLING / TR-SC-SSSV; 2673 for D-NO GO NIPPLE / PERFORATED PUP) — assigned to the SSSV and the no-go nipple
+ISSUE | Unclear | slide 10 | later SSD / zone statuses are slide text boxes matched to rows by vertical position
+ISSUE | Unclear | slide 10 obj #9291 | cement above the Coilflate: only the TOC (2749 m MDDF) is stated — bottom left empty (not derived from the plug depth)

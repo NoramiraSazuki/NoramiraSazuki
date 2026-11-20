@@ -1,0 +1,369 @@
+# slide 2 (slides/slide2.xml) hidden=False objects=308
+# notes: 'Open\n2'
+[sp id=8194 'Rectangle 2' pct=[45.63, 81.97, 56.5, 84.25] hidden=False img=../media/image1.png descr='25%']
+[sp id=8198 'Text Box 6' pct=[14.12, 26.81, 18.36, 27.64] hidden=False]
+    STATUS
+[sp id=8199 'Text Box 7' pct=[27.48, 26.84, 35.51, 27.68] hidden=False]
+    SHORT STRING
+[sp id=8200 'Text Box 8' pct=[39.05, 26.39, 43.89, 28.06] hidden=False]
+    DEPTH
+    m MDTHF
+[sp id=8201 'Text Box 9' pct=[78.22, 26.39, 81.53, 28.06] hidden=False]
+    MIN ID
+    (in)
+[sp id=8202 'Text Box 10' pct=[83.75, 26.81, 88.01, 27.64] hidden=False]
+    STATUS
+[sp id=8210 'Text Box 18' pct=[20.67, 26.47, 24.0, 28.13] hidden=False]
+    MIN ID
+    (in)
+[sp id=8213 'Text Box 21' pct=[58.03, 26.39, 62.87, 28.06] hidden=False]
+    DEPTH
+    m MDTHF
+[sp id=8214 'Text Box 22' pct=[66.78, 26.43, 74.12, 28.08] hidden=False]
+    COMPLETION
+    LONG STRING
+[sp id=8217 'Text Box 25' pct=[26.76, 30.82, 36.13, 31.65] hidden=False]
+    ¼" CONTROL LINE
+[sp id=8245 'Text Box 53' pct=[40.3, 32.63, 42.92, 33.45] hidden=False]
+    136.6
+[sp id=8246 'Text Box 54' pct=[40.3, 33.78, 42.92, 34.62] hidden=False]
+    137.3
+[sp id=8247 'Text Box 55' pct=[40.3, 35.91, 42.92, 36.73] hidden=False]
+    301.2
+[sp id=8248 'Text Box 56' pct=[40.3, 37.77, 42.92, 38.61] hidden=False]
+    595.8
+[sp id=8249 'Text Box 57' pct=[40.02, 44.29, 43.22, 45.13] hidden=False]
+    1431.9
+[sp id=8250 'Text Box 58' pct=[40.02, 46.01, 43.22, 46.84] hidden=False]
+    1438.8
+[sp id=8251 'Text Box 59' pct=[40.02, 49.1, 43.22, 49.94] hidden=False]
+    1451.3
+[sp id=8252 'Text Box 60' pct=[27.11, 32.56, 35.81, 33.38] hidden=False]
+    FLOW COUPLING
+[sp id=8253 'Text Box 61' pct=[27.31, 33.72, 35.58, 34.55] hidden=False]
+    TRDP-4A SCSSV
+[sp id=8254 'Text Box 62' pct=[28.15, 35.96, 34.77, 36.78] hidden=False]
+    WP-1 NIPPLE
+[sp id=8255 'Text Box 63' pct=[27.94, 37.87, 35.0, 38.69] hidden=False]
+    KBMG-M SPM
+[sp id=8256 'Text Box 64' pct=[25.21, 45.67, 37.92, 47.07] hidden=False]
+    CAMCO 'HSD'-3-SP'
+    DUAL HYD. PKR
+[sp id=8257 'Text Box 65' pct=[27.01, 57.82, 35.9, 58.65] hidden=False]
+    'D' NO-GO NIPPLE
+[sp id=8258 'Text Box 66' pct=[26.83, 58.99, 36.09, 59.82] hidden=False]
+    W/L ENTRY GUIDE
+[sp id=8259 'Text Box 67' pct=[21.09, 32.63, 23.7, 33.45] hidden=False]
+    2.441
+[sp id=8260 'Text Box 68' pct=[21.09, 33.7, 23.7, 34.54] hidden=False]
+    2.312
+[sp id=8261 'Text Box 69' pct=[21.09, 36.12, 23.7, 36.96] hidden=False]
+    2.312
+[sp id=8262 'Text Box 70' pct=[21.09, 37.88, 23.7, 38.7] hidden=False]
+    2.371
+[sp id=8263 'Text Box 71' pct=[21.09, 44.33, 23.7, 45.16] hidden=False]
+    2.312
+[sp id=8264 'Text Box 72' pct=[21.09, 57.85, 23.7, 58.67] hidden=False]
+    2.250
+[sp id=8265 'Text Box 73' pct=[21.09, 59.04, 23.7, 59.86] hidden=False]
+    2.441
+[sp id=8266 'Rectangle 74' pct=[13.38, 50.06, 37.2, 53.93] hidden=False]
+    SAND : LD-1 (FB N1, GIR Reservoir)
+    PERFT: 1453.8 m - 1467.8 m MDTHF
+    1175 PSI - SGS 14/1/03
+[sp id=8268 'Text Box 76' pct=[21.09, 70.56, 23.7, 71.38] hidden=False]
+    4.000
+[sp id=8269 'Rectangle 77' pct=[13.94, 76.27, 36.48, 81.73] hidden=False]
+    SAND : E-8 (FB N1, WIR Reservoir)
+    PERFT : 1572.8 m - 1576.8 m MDTHF
+[sp id=8270 'Text Box 78' pct=[58.66, 32.63, 61.27, 33.45] hidden=False]
+    140.1
+[sp id=8271 'Text Box 79' pct=[58.66, 33.77, 61.27, 34.58] hidden=False]
+    140.9
+[sp id=8272 'Text Box 80' pct=[58.63, 36.11, 61.25, 36.92] hidden=False]
+    293.0
+[sp id=8273 'Text Box 81' pct=[58.38, 49.02, 61.55, 49.86] hidden=False]
+    1451.4
+[sp id=8274 'Text Box 82' pct=[58.38, 60.1, 61.55, 60.93] hidden=False]
+    1520.3
+[sp id=8275 'Text Box 83' pct=[58.38, 73.01, 61.55, 73.85] hidden=False]
+    1557.2
+[sp id=8276 'Text Box 84' pct=[58.38, 74.57, 61.55, 75.38] hidden=False]
+    1558.0
+[sp id=8277 'Text Box 85' pct=[65.76, 32.69, 74.49, 33.38] hidden=False]
+    FLOW COUPLING
+[sp id=8278 'Text Box 86' pct=[66.0, 33.81, 74.26, 34.52] hidden=False]
+    TRDP-4A SCSSV
+[sp id=8279 'Text Box 87' pct=[66.78, 36.2, 73.43, 36.91] hidden=False]
+    WP-1 NIPPLE
+[sp id=8280 'Text Box 88' pct=[66.57, 37.88, 73.61, 38.59] hidden=False]
+    KBMG-M SPM
+[sp id=8281 'Text Box 89' pct=[66.16, 49.09, 74.12, 49.79] hidden=False]
+    'CSW-1-DT' SSD
+[sp id=8282 'Text Box 90' pct=[64.54, 74.66, 75.74, 75.37] hidden=False]
+    MECH. GUN RELEASE
+[sp id=8283 'Text Box 91' pct=[65.95, 30.82, 75.3, 31.65] hidden=False]
+    ¼" CONTROL LINE
+[sp id=8284 'Text Box 92' pct=[66.37, 72.12, 75.05, 72.82] hidden=False]
+    SEAL BORE EXT.
+[sp id=8285 'Text Box 93' pct=[78.52, 32.63, 81.16, 33.45] hidden=False]
+    2.441
+[sp id=8286 'Text Box 94' pct=[78.52, 33.77, 81.16, 34.58] hidden=False]
+    2.312
+[sp id=8287 'Text Box 95' pct=[78.5, 36.14, 81.13, 36.97] hidden=False]
+    2.312
+[sp id=8288 'Text Box 96' pct=[78.5, 37.82, 81.13, 38.65] hidden=False]
+    2.371
+[sp id=8289 'Text Box 97' pct=[78.5, 44.47, 81.13, 45.3] hidden=False]
+    2.312
+[sp id=8290 'Text Box 98' pct=[78.52, 49.12, 81.16, 49.95] hidden=False]
+    2.312
+[sp id=8291 'Text Box 99' pct=[78.52, 60.21, 81.16, 61.04] hidden=False]
+    2.312
+[sp id=8292 'Text Box 100' pct=[78.52, 73.01, 81.16, 73.85] hidden=False]
+    2.250
+[sp id=8293 'Text Box 101' pct=[78.52, 72.1, 81.16, 72.92] hidden=False]
+    4.000
+[sp id=8294 'Text Box 102' pct=[78.52, 74.57, 81.16, 75.38] hidden=False]
+    2.441
+[sp id=8295 'Text Box 103' pct=[83.73, 48.8, 88.01, 50.21] hidden=False]
+    CLOSED
+    14/11/94
+[sp id=8306 'Text Box 114' pct=[45.69, 84.82, 55.63, 85.66] hidden=False]
+    TD @ 1738 m MDDF
+[sp id=8308 'Text Box 116' pct=[58.54, 37.84, 61.18, 38.67] hidden=False]
+    634.4
+[sp id=8309 'Text Box 117' pct=[58.26, 44.46, 61.46, 45.27] hidden=False]
+    1432.5
+[sp id=8319 'Text Box 127' pct=[26.44, 47.85, 36.48, 48.67] hidden=False]
+    TELESCOPIC JOINT
+[sp id=8320 'Text Box 128' pct=[27.66, 49.07, 35.25, 49.89] hidden=False]
+    'WPB-2DE' SSD
+[sp id=8321 'Text Box 129' pct=[21.09, 49.04, 23.7, 49.87] hidden=False]
+    2.312
+[sp id=8322 'Text Box 130' pct=[14.03, 48.72, 18.47, 50.11] hidden=False]
+    CLOSED
+    9/11/09
+[sp id=8323 'Text Box 131' pct=[40.02, 54.07, 43.22, 54.89] hidden=False]
+    1504.6
+[sp id=8324 'Text Box 132' pct=[21.09, 54.09, 23.7, 54.92] hidden=False]
+    2.312
+[sp id=8325 'Text Box 133' pct=[28.15, 54.05, 34.77, 54.87] hidden=False]
+    WP-1 NIPPLE
+[sp id=8326 'Text Box 134' pct=[40.02, 55.75, 43.22, 56.59] hidden=False]
+    1512.0
+[sp id=8327 'Text Box 135' pct=[40.02, 57.71, 43.22, 58.54] hidden=False]
+    1515.7
+[sp id=8328 'Text Box 136' pct=[40.02, 58.94, 43.22, 59.76] hidden=False]
+    1516.1
+[sp id=8329 'Text Box 137' pct=[25.37, 70.16, 37.69, 71.57] hidden=False]
+    BAKER PERM. PKR
+    MODEL D-1
+[sp id=8330 'Rectangle 138' pct=[13.66, 61.49, 36.76, 65.4] hidden=False]
+    SAND : E-2 (FB N1, NDR Reservoir)
+    PERFT:  1525.8 m - 1531.8 m MDTHF
+    1664 PSI - SGS 12/11/09
+[sp id=8342 'Text Box 150' pct=[78.52, 53.99, 81.16, 54.82] hidden=False]
+    2.312
+[sp id=8343 'Text Box 151' pct=[58.29, 54.04, 61.48, 54.87] hidden=False]
+    1504.7
+[sp id=8344 'Text Box 152' pct=[66.81, 54.15, 73.43, 54.86] hidden=False]
+    WP-1 NIPPLE
+[sp id=8345 'Text Box 153' pct=[66.16, 60.21, 74.12, 60.9] hidden=False]
+    'CSW-1-DT' SSD
+[sp id=8346 'Text Box 154' pct=[83.73, 60.22, 88.01, 61.06] hidden=False]
+    CLOSED
+[sp id=8347 'Text Box 155' pct=[66.74, 62.93, 73.52, 63.64] hidden=False]
+    BLAST JOINT
+[sp id=8348 'Text Box 156' pct=[78.52, 62.96, 81.16, 63.8] hidden=False]
+    2.441
+[sp id=8349 'Text Box 157' pct=[65.67, 73.09, 74.56, 73.8] hidden=False]
+    'D' NO-GO NIPPLE
+[sp id=8350 'Text Box 158' pct=[58.38, 66.91, 61.55, 67.74] hidden=False]
+    0.0
+[sp id=8351 'Text Box 159' pct=[66.39, 67.07, 73.84, 67.77] hidden=False]
+    CENTRALIZER
+[sp id=8352 'Text Box 160' pct=[78.52, 67.02, 81.16, 67.84] hidden=False]
+    2.441
+[sp id=8372 'Text Box 180' pct=[58.38, 69.1, 61.55, 69.92] hidden=False]
+    0.0
+[sp id=8373 'Text Box 181' pct=[65.67, 69.25, 74.56, 69.95] hidden=False]
+    LOC. SEAL ASSY.
+[sp id=8374 'Text Box 182' pct=[78.52, 69.2, 81.16, 70.03] hidden=False]
+    2.441
+[sp id=8375 'Text Box 183' pct=[78.52, 64.92, 81.16, 65.75] hidden=False]
+    2.312
+[sp id=8376 'Text Box 184' pct=[58.47, 64.95, 61.64, 65.77] hidden=False]
+    1541.3
+[sp id=8377 'Text Box 185' pct=[66.81, 65.1, 73.43, 65.8] hidden=False]
+    WP-1 NIPPLE
+[sp id=8378 'Text Box 186' pct=[66.16, 44.47, 74.12, 45.18] hidden=False]
+    'CSW-1-DT' SSD
+[sp id=8383 'Text Box 191' pct=[40.02, 47.82, 43.22, 48.64] hidden=False]
+    1443.1
+[sp id=8384 'Text Box 192' pct=[58.38, 61.44, 61.55, 62.28] hidden=False]
+    0.0
+[sp id=8386 'Text Box 194' pct=[58.38, 64.12, 61.55, 64.94] hidden=False]
+    0.0
+[sp id=8387 'Text Box 195' pct=[58.38, 71.97, 61.55, 72.8] hidden=False]
+    0.0
+[sp id=8396 'Text Box 204' pct=[14.1, 44.41, 18.38, 45.1] hidden=False]
+    CLOSED
+[sp id=8397 'Rectangle 205' pct=[13.82, 81.33, 37.2, 86.22] hidden=False]
+    9 5/8" CASING SHOE
+[sp id=8398 'Text Box 206' pct=[83.73, 44.31, 88.01, 45.14] hidden=False]
+    CLOSED
+[sp id=8399 'Text Box 207' pct=[25.21, 55.45, 37.92, 56.86] hidden=False]
+    CAMCO 'HSD-3-SP'
+    DUAL HYD. PKR.
+[sp id=8401 'Text Box 209' pct=[66.57, 39.28, 73.61, 39.98] hidden=False]
+    KBMG-M SPM
+[sp id=8402 'Text Box 210' pct=[78.5, 39.21, 81.13, 40.03] hidden=False]
+    2.371
+[sp id=8403 'Text Box 211' pct=[58.26, 39.23, 61.46, 40.06] hidden=False]
+    902.9
+[sp id=8405 'Text Box 213' pct=[66.57, 40.61, 73.61, 41.31] hidden=False]
+    KBMG-M SPM
+[sp id=8406 'Text Box 214' pct=[78.5, 40.56, 81.13, 41.38] hidden=False]
+    2.371
+[sp id=8408 'Text Box 216' pct=[66.57, 42.0, 73.61, 42.71] hidden=False]
+    KBMG-M SPM
+[sp id=8409 'Text Box 217' pct=[78.5, 41.94, 81.13, 42.77] hidden=False]
+    2.371
+[sp id=8410 'Text Box 218' pct=[83.87, 37.69, 87.87, 39.1] hidden=False]
+    GLV
+    (600 psi)
+[sp id=8411 'Text Box 219' pct=[40.3, 39.01, 42.92, 39.82] hidden=False]
+    875.4
+[sp id=8412 'Text Box 220' pct=[27.94, 39.13, 35.0, 39.97] hidden=False]
+    KBMG-M SPM
+[sp id=8413 'Text Box 221' pct=[21.09, 39.21, 23.7, 40.03] hidden=False]
+    2.371
+[sp id=8415 'Text Box 223' pct=[40.02, 40.18, 43.22, 40.99] hidden=False]
+    1114.0
+[sp id=8416 'Text Box 224' pct=[27.94, 40.3, 35.0, 41.14] hidden=False]
+    KBMG-M SPM
+[sp id=8417 'Text Box 225' pct=[21.09, 40.38, 23.7, 41.22] hidden=False]
+    2.371
+[sp id=8418 'Text Box 226' pct=[40.02, 41.54, 43.22, 42.37] hidden=False]
+    1305.7
+[sp id=8419 'Text Box 227' pct=[27.94, 41.67, 35.0, 42.5] hidden=False]
+    KBMG-M SPM
+[sp id=8420 'Text Box 228' pct=[21.09, 41.78, 23.7, 42.6] hidden=False]
+    2.371
+[sp id=8423 'Text Box 231' pct=[40.02, 70.61, 43.22, 71.43] hidden=False]
+    1550.8
+[sp id=8424 'Rectangle 232' pct=[50.44, 75.42, 51.5, 76.88] hidden=False img=../media/image2.png descr='50%']
+[sp id=8436 'Text Box 244' pct=[26.58, 11.51, 46.37, 12.35] hidden=False]
+    29 DECEMBER 1993
+[sp id=8437 'Text Box 245' pct=[26.54, 13.04, 46.28, 13.85] hidden=False]
+    TIOMAN 3
+[sp id=8438 'Text Box 246' pct=[26.47, 14.5, 46.33, 15.33] hidden=False]
+    2 7/8" 8.4 PPF TKC 40-40
+[sp id=8439 'Text Box 247' pct=[26.37, 17.43, 46.4, 19.91] hidden=False]
+    9.2 PPG 3% KCI + NaCI TREATED WITH 25 GALLONS 303-A + 4 GALLONS OF DIOCIDE PER 100 BBLS BRINE
+[sp id=8440 'Text Box 248' pct=[26.51, 15.94, 46.33, 16.75] hidden=False]
+    FMC DUAL 3M
+[sp id=8441 'Text Box 249' pct=[56.27, 11.36, 84.63, 17.32] hidden=False]
+    18 5/8" COND #1, 87.5 ppf @		m MDTHF
+    13 3/8" K-55 SURF., 54.5 ppf @    694.0	m MDTHF
+    9 5/8" K-55 PROD. 40 ppf @ 	  1738.0	m MDTHF
+[sp id=8442 'Text Box 250' pct=[69.4, 19.12, 88.91, 19.95] hidden=False]
+    1703 m MDDF
+[sp id=8443 'Text Box 251' pct=[69.4, 20.59, 88.82, 21.41] hidden=False]
+    14.13 m
+[sp id=8444 'Text Box 252' pct=[69.35, 22.02, 88.89, 22.84] hidden=False]
+    51 DEG
+[sp id=8446 'Text Box 254' pct=[58.66, 34.63, 61.27, 35.46] hidden=False]
+    140.1
+[sp id=8447 'Text Box 255' pct=[65.76, 34.7, 74.49, 35.4] hidden=False]
+    FLOW COUPLING
+[sp id=8448 'Text Box 256' pct=[78.52, 34.63, 81.16, 35.46] hidden=False]
+    2.441
+[sp id=8449 'Text Box 257' pct=[40.02, 42.79, 43.22, 43.61] hidden=False]
+    1420.6
+[sp id=8450 'Text Box 258' pct=[27.94, 42.92, 35.0, 43.75] hidden=False]
+    KBMG-M SPM
+[sp id=8451 'Text Box 259' pct=[21.09, 43.09, 23.7, 43.93] hidden=False]
+    2.371
+[sp id=8453 'Text Box 261' pct=[66.74, 51.91, 73.52, 52.61] hidden=False]
+    BLAST JOINT
+[sp id=8454 'Text Box 262' pct=[78.52, 51.94, 81.16, 52.77] hidden=False]
+    2.441
+[sp id=8455 'Text Box 263' pct=[58.38, 50.51, 61.55, 51.33] hidden=False]
+    0.0
+[sp id=8457 'Text Box 265' pct=[58.38, 53.08, 61.55, 53.91] hidden=False]
+    0.0
+[sp id=8460 'Text Box 268' pct=[58.38, 75.91, 61.55, 76.73] hidden=False]
+    1558.8
+[sp id=8461 'Text Box 269' pct=[66.88, 76.01, 73.38, 76.71] hidden=False]
+    DEBRIS SUB
+[sp id=8462 'Text Box 270' pct=[78.52, 75.91, 81.16, 76.73] hidden=False]
+    2.441
+[sp id=8463 'Text Box 271' pct=[58.38, 76.76, 61.55, 77.6] hidden=False]
+    1558.9
+[sp id=8464 'Text Box 272' pct=[64.54, 76.88, 75.74, 77.58] hidden=False]
+    MECH. GUN RELEASE
+[sp id=8465 'Text Box 273' pct=[78.52, 76.76, 81.16, 77.6] hidden=False]
+    2.441
+[sp id=8466 'Text Box 274' pct=[67.78, 78.77, 72.48, 79.47] hidden=False]
+    TCP GUN
+[sp id=8467 'Text Box 275' pct=[58.38, 80.63, 61.55, 81.44] hidden=False]
+    1578.0
+[sp id=8468 'Text Box 276' pct=[66.18, 80.72, 74.07, 81.43] hidden=False]
+    BOTTOM NOSE
+[sp id=8469 'Text Box 277' pct=[78.52, 80.63, 81.16, 81.44] hidden=False]
+    2.441
+[sp id=8480 'Text Box 288' pct=[11.56, 5.83, 88.44, 7.06] hidden=False]
+    WELL C-2 : DUAL UTILITY (LS:  WI & SS: OP) (TYPE 8)
+[sp id=8481 'Text Box 289' pct=[27.85, 44.33, 35.07, 45.16] hidden=False]
+    WPB-2DE SSD
+[sp id=8482 'Text Box 290' pct=[7.43, 38.0, 19.17, 38.69] hidden=False]
+    GLV,10/64", 750#,Apr'03
+[sp id=8483 'Text Box 291' pct=[7.11, 39.44, 19.81, 40.13] hidden=False]
+    GLV,10/64", 760#,Apr'03
+[sp id=8484 'Text Box 292' pct=[8.31, 40.66, 19.42, 41.36] hidden=False]
+    GLV,10/64",765#,Apr'03
+[sp id=8485 'Text Box 293' pct=[8.8, 43.24, 18.77, 43.94] hidden=False]
+    GLOV,12/64",Apr'03
+[sp id=8486 'Text Box 294' pct=[12.34, 42.0, 19.1, 42.71] hidden=False]
+    DV stiff
+[sp id=8488 'Text Box 296' pct=[82.48, 56.63, 94.24, 58.04] hidden=False]
+    Identify scale sample at 1470m-MDTHF18/5/2011
+[sp id=8490 'Text Box 298' pct=[14.19, 30.98, 19.14, 33.09] hidden=False]
+    FL 1440 m-MDTHF 12/4/03
+[sp id=8491 'Text Box 299' pct=[4.65, 53.7, 12.43, 55.82] hidden=False]
+    LD-1 kh 
+    4328.13 mD-ft
+    Ave Por 26%
+[sp id=8492 'Text Box 300' pct=[6.64, 62.29, 12.87, 64.39] hidden=False]
+    E-2 kh 
+    6.50 mD-ft
+    Ave Por 23%
+[sp id=8493 'Text Box 301' pct=[5.19, 77.82, 12.94, 79.94] hidden=False]
+    E-8 kh 
+    297.90 mD-ft
+    Ave Por 24%
+[sp id=8494 'Text Box 302' pct=[58.01, 41.88, 61.18, 42.71] hidden=False]
+    1334.3
+[sp id=8495 'Text Box 303' pct=[57.82, 40.72, 61.67, 41.55] hidden=False]
+    1142.6
+[sp id=8498 'Text Box 306' pct=[65.21, 44.7, 76.85, 48.21] hidden=False]
+    Leak at 1430.3, 1448, 1465m-MDTHFconfirmed by WLD on 4/8/2009.
+    Tbg patch done in 2009.  Iron scale @ 1470 m
+[sp id=3 'Footer Placeholder 2' pct=None hidden=False]
+    Open
+[sp id=4 'Text Box 289' pct=[56.44, 86.74, 94.81, 90.04] hidden=False]
+    LAST ENTRY	: LS, 8 March 2020
+    TYPE OF JOB	: MIT
+    HUD	: 2” LIB, 1449 m-WLTHF (Black Dust Iron/Sand)
+    UPDATED BY	: Wong Hong Pei – 15 May 2025
+[sp id=7 'Text Box 289' pct=[13.61, 86.84, 51.99, 90.15] hidden=False]
+    LAST ENTRY	: SS, 17 July 2018, then 2019 set CSA plug
+    TYPE OF JOB	: Camera
+    HUD	: 1445 m-WLTHF (Unknown)
+    UPDATED BY	: Wong Hong Pei – 15 May 2025
+[sp id=8 'TextBox 14' pct=[26.57, 33.38, 36.55, 34.93] hidden=False]
+    CSA plug – 7/11/2019
+[sp id=9 'TextBox 14' pct=[65.45, 33.21, 75.43, 34.76] hidden=False]
+    CSA plug – 8/03/2020

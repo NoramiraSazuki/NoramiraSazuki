@@ -1,0 +1,16 @@
+TABLE 19
+VISCOSITY OF RESERVOIR FLUID AT 203° F
+Pressure | Viscosity
+(psig) | (centipoises)
+5000 | 2.61
+4000 | 2.31
+3000 | 2.04
+2000 | 1.76
+Pb= 1660 | 1.65
+1332 | 1.72
+1077 | 1.8
+817 | 1.86
+548 | 1.92
+270 | 2.04
+0 | 2.27
+--- OCR ---

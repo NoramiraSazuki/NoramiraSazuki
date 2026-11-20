@@ -1,0 +1,21 @@
+Page | 12 of 33
+Report Date | 1992-04-30 00:00:00
+Report No | MFL 91184
+Well | DULANG-B12
+Cylinder No | 1209-A & WIB-7417
+HYDROCARBON ANALYSIS OF RESIDUAL OIL FROM DIFFERENTIAL VAPORIZATION
+COMPONENT | MOL % | WEIGHT % | DENSITY | API @ 60°F | MOL WEIGHT | GPM
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 0 | 0
+N2 Nitrogen | 0 | 0
+C1 Methane | 0 | 0
+C2 Ethane | 0 | 0
+C3 Propane | 0 | 0
+iC4 i-Butane | 0 | 0
+nC4 n-Butane | 0.27 | 0.07
+iC5 i-Pentane | 0.31 | 0.1
+nC5 n-Pentane | 0.38 | 0.12
+C6 Hexanes | 1.18 | 0.44
+C7 Heptanes Plus | 97.86 | 99.27 | 0.8362 | 37.5 | 229
+Total | 100 | 100
+--- OCR ---

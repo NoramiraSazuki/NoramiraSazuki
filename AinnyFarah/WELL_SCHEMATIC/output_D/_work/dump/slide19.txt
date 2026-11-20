@@ -1,0 +1,47 @@
+# slide 19 (slides/slide19.xml) hidden=False objects=30
+# notes: 'Open\n18'
+[pic id=6157314 'Picture 2' pct=[30.53, 1.54, 69.47, 93.85] hidden=False img=../media/image53.png]
+[sp id=15 'Oval 14' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=20 'TextBox 19' pct=[64.52, 62.21, 69.39, 68.56] hidden=False]
+    OPENED
+[sp id=21 'TextBox 20' pct=[31.52, 54.26, 36.38, 59.4] hidden=False]
+    CLOSED 
+[sp id=22 'Line Callout 2 21' pct=[0.67, 15.38, 27.54, 28.82] hidden=False]
+    29/6 – 19/7/2016 ||CL leak repair, after CL leak diagnostic, found out that the leak was beyond repair. Suspected CL parted/dislodge at control line fitting below tubing hanger. 
+    Successfully Installed storm choke. At 137m-mdthf 
+    Note: 1. Storm Choke setting pressure opening 145 psi, & closing pressure 110 psi. 2. Please equalize well pressure prior retrieving Strom Choke.
+[sp id=23 'TextBox 22' pct=[31.52, 38.45, 36.35, 43.53] hidden=False]
+    OPENED
+[pic id=11 'Picture 10' pct=[-43.19, 15.45, -1.44, 61.46] hidden=False img=../media/image54.png]
+[graphicFrame id=29 'Table 28' pct=[9.4, 29.02, 27.57, 43.48] hidden=False]
+    | SPM | Type | PTRO (psi) | Port size | Date Installed
+    | 1 | DV | - | - | 
+    | 2 | GLOV | - | -  | 
+    | 3 | DV (stiff) | - | - | 
+    | 4 | DV (stiff) | - | - | 
+[sp id=32 'Line Callout 2 31' pct=[7.16, 43.68, 27.54, 57.12] hidden=False]
+    3/4/2016 || Tag HUD @ 1949m-mdthf and run LIB. Suspected scale and run pump bailer but recovered nothing. Prior run SGS (set depth at 1947m-mdthf – completed)
+[sp id=33 'Line Callout 2 32' pct=[5.0, 57.66, 27.54, 71.1] hidden=False]
+    The well is producing from E1 since 99/2000 onwards. No record the well is conducting ZOC from E10/11 to E1 only. 
+    ** ASSUMPTION: isolating using plug at D No Go or Nipple. 
+[sp id=35 'TextBox 34' pct=[64.52, 55.51, 69.39, 60.7] hidden=False]
+    CLOSED 
+[sp id=36 'Line Callout 2 35' pct=[72.87, 48.46, 95.72, 56.99] hidden=False]
+    15/12/2012 || attempted to conduct ZOC but unsuccessful d/t unable to set CA plug at D No Go nipple @2149m-mdthf
+[sp id=37 'Line Callout 2 36' pct=[72.54, 34.17, 95.39, 41.83] hidden=False]
+    25/2/2013 ||attempted to fishing BK-2 latch based on LIB impression during TBCLR at 1942m-mdthf/SPM#5 but Failed.
+    May-20. Able to retrieve fish bent latch at SPM5
+[graphicFrame id=39 'Table 38' pct=[69.43, 1.58, 97.63, 32.96] hidden=False]
+    | SPM | Type | M MDTHF | PTRO (psi) | Port size | Date Installed
+    | 1 | GLV | 748 | 759.6 | 8/64 | 
+    | 2 | GLV | 1306 | 1170 | 8/64 | GLVC 2021
+    | 3 | DV (stiffed) | 1533 | - | - | 
+    | 4 | DV | 1779 | - | - | No record. Observed clear mark DV during 2021 GLVC
+    | 5 | GLOV  | 1939 | - | 16/64” | GLVC 2021
+[pic id=27 'Picture 26' pct=[101.8, 15.46, 143.37, 61.83] hidden=False img=../media/image55.png]
+[sp id=2 'TextBox 1' pct=[9.82, 5.11, 27.43, 14.34] hidden=False]
+    30/4/20 | | attempted several times managed to
+    retrieve stiff CSA Plug at 138  m-THF
+[sp id=7 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

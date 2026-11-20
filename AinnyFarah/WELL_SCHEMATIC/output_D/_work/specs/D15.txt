@@ -1,0 +1,64 @@
+WELL | D15 | 15 | image44.png | WELL D-15 : DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 15 | image44.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 28 MARCH 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 2-7/8" 6.4 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.4 PPG 3% KCl + NaCl BRINE TREATED WITH 30 GALS.KORROGUARD 6500 PER 100 bbls.OF BRINE
+INFO | rte | 14.93 m
+INFO | maxDeviation | 58.4 DEG.@715m MDTHF
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 26" DRIVE PIPE A-36 CONN. 202.0PPF @185.5 m MDDF | 26 | 202.0 | A-36 | 185.5 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @804.0 m MDDF | 13.375 | 54.5 | K-55 | 804.0 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ BUTT 2294.0m MDDF | 9.625 | 40 | N-80 | 2294.0 | MDDF
+TUBING | 2-7/8" 6.4 PPF N-80 TKC 40-40 | 2.875 | 6.4 | N-80 | Short |
+TUBING | 2-7/8" 6.4 PPF N-80 TKC 40-40 | 2.875 | 6.4 | N-80 | Long |
+ROW | S | FLOW COUPLING | 148.0 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP4A-LS SCSSV | 149.1 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 292.1 |  | 2.312 |  | 15/Nov/2003 |  | p1
+ROW | S | KBMM SPM | 722.1 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 1241.5 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | S | KBMM SPM | 1644.9 |  | 2.371 |  | DV |  | p1
+ROW | S | KBMM SPM | 1760.1 |  | 2.371 |  | GLOV 12/64" |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 1781.2 |  | 2.312 |  |  |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 1787.9 |  | 2.441 |  |  | long side: PKR 3, RELEASE@40000# ABOVE TBG.WT., MIN ID 2.441 | p1
+ROW | S | 'D' NO-GO NIPPLE | 1791.0 |  | 2.250 |  | OPENED 30/MAR/1996 |  | p1
+ROW | S | W/L ENTRY GUIDE | 1791.4 |  | 2.441 |  |  |  | p1
+ROW | S | END OF TBG | 1791.6 |  | 2.441 |  |  |  | p1
+ROW | L | FLOW COUPLING | 157.8 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP4A-LS SCSSV | 158.6 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 301.8 |  | 2.312 |  | 14/Nov/2003 |  | p1
+ROW | L | KBMM SPM | 741.3 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | L | KBMM SPM | 1260.7 |  | 2.371 |  | GLV 12/64" |  | p1
+ROW | L | KBMM SPM | 1664.2 |  | 2.371 |  | GLOV 12/64" |  | p1
+ROW | L | KBMM SPM | 1769.8 |  | 2.371 |  | DV |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1781.2 |  | 2.312 |  |  |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1801.2 |  | 2.312 |  |  |  | p1
+ROW | L | BLAST JOINT | 1805.0 | 1843.0 | 2.441 |  | 02/Oct/2010 WLD detected leak spot @ Blast Joint 1834.2m-MDTHF | depths at both ends of the bracket | p1
+ROW | L | WP-1 NIPPLE | 1843.8 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO HRP-4-SP SINGLE HYD. PKR. | 1848.7 |  | 2.441 |  |  | short-string column; long side PKR 2, RELEASE@40000# ABOVE TBG.WT. | p2
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1892.9 |  | 2.312 |  | CLOSED 04/JUL/1998 |  | p2
+ROW | L | BLAST JOINT | 1895.4 | 1904.0 | 2.441 |  |  | depths at both ends of the bracket (last digits partly hidden) | p2
+ROW | L | WP-1 NIPPLE | 1904.5 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 1905.2 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1906.7 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 1907.0 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM PACKER | 1908.0 |  | 2.441 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT | 1910.0 |  | 2.441 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1911.1 |  | 2.250 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 1912.1 |  | 2.441 |  | OPENED 04/JUL/1998 |  | p2
+ROW | L | END OF TUBING | 1912.4 |  | 2.441 |  |  |  | p2
+ZONE | E-6 | 1831.5 | 1834.0 | MDTHF | SAND : E-6 1831.5 - 1834.0m-MDTHF | p2 | perf
+ZONE | E-6 | 1835.0 | 1841.0 | MDTHF | 1835.0 - 1841.0m-MDTHF | p2 | perf
+ZONE | E-7 | 1808.5 | 1815.5 | MDTHF | SAND : E-7 1808.5 - 1815.5m-MDTHF | p2 | perf
+ZONE | E-7 | 1818.5 | 1823.0 | MDTHF | 1818.5 - 1823.0m-MDTHF | p2 | perf
+ZONE | E-7 | 1809.5 | 1828.5 | MDTHF | 1809.5 - 1828.5m-MDTHF (overlaps the E-7 intervals above) | p2 | perf
+ZONE | E-12/13 | 1897.0 | 1903.0 | MDTHF | SAND : E-12/13 1897.0 - 1903.0m-MDTHF | p2 | perf
+ZONE | E-14 | 1914.0 | 1919.5 | MDTHF | SAND : E-14 1914.0 - 1919.5m-MDTHF | p2 | perf
+PBTD | 2254.0 | MDTHF | PBTD 2254.0m-MDTHF
+TD | 2290.0 | MDTHF | TD@2290.0m MDTHF
+INT | 20/Aug/2013 TUBING PACKOFF 1844-1848 m-MDTHF | 1844 | MDTHF | picture p2 label (bottom 1848 m-MDTHF; 'Tubing stop 1843 m-MDTHF' in the note box)
+NOTE | picture p2 | 20/AUG/2013: Tubing packoff (Lower 1848, Upper 1844 m-MDTHF),Tubing stop 1843 m-MDTHF; 21/AUG/2013: PBU survey completed; 11/SEPT/2005:Tubing clearance @ No-Go at 1797 m-MDTHF; 09/Sept/2013
+ISSUE | Conflict | picture p2 | zone list: E-6 (1831.5-1841.0) printed above E-7 (1808.5-1828.5); E-7 '1809.5 - 1828.5' overlaps the other E-7 intervals — kept as printed
+ISSUE | Conflict | slide 15 | slide boxes ('Refer to latest table', #8/#22/#51 CLOSED, '#24 CLOSED – stiff SSD') and two June-2024 SPM tables over the picture supersede the picture statuses (2003) — tables/boxes listed as notes, not merged

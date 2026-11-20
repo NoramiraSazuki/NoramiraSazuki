@@ -1,0 +1,31 @@
+0 | 0 | 0
+Table of Contents | Table of Contents
+Section A - Summary of Analysis Methods & PVT Data | Page | Section H - Appendix I
+Summary of Analysis Methods | A.1-A.5 | Data Used in Gas Compositional Calculations | H.1
+Summary of PVT Analysis Data | A.6 | Data Used in Liquid Compositional Calculations | H.2
+Section B - Summary of Validation Data | Section I - Appendix II
+Summary of Validation Data | B.1-B.2 | Sample Info
+Section C - Compositional Analysis Data
+Compositional Analysis of Separator Gas Sample to C12+ (Cyl# 2385) | C.1
+Compositional Analysis of Separator Gas Sample to C12+ (Cyl# 2374) | C.2
+Compositional Analysis of Separator Gas Sample to C12+ (Cyl# 2153) | C.3
+Compositional Analysis of Separator Liquid Sample to C36+ (Cyl# 813785) | C.4-C.7
+Compositional Analysis of Recombined Reservoir Fluid Sample to C36+ | C.8-C.11
+Section D - Constant Composition Expansion Data
+Constant Composition Expansion Data at 206°F | D.1-D.2
+Section E - Differential Vaporisation Data
+Differential Vaporisation Data at 206°F | E.1
+Graphs from Differential Vaporisation | E.2
+Compositional Analysis of Differential Vaporisation Gases to C12+ | E.3
+Compositional Analysis of Differential Vaporisation Residue to C36+ | E.4-E.5
+Differential Vaporisation Data Converted to Laboratory Separator Test Conditions | E.6
+Section F - Viscosity Data
+Reservoir Fluid Viscosity Data at 206°F | F.1
+Section G - Separator Test Data
+G.3
+Separator Test Data | G.1
+G.4
+Compositional Analysis of Evolved Gases from Separator Test to C12+ | G.2
+G.4
+Compositional Analysis of Residual Liquid from Separator Test to C36+ | G.3-G.4
+--- OCR ---

@@ -1,0 +1,36 @@
+Page | 41 of 59
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+SEPARATOR LIQUID SAMPLE | CYLINDER | 1116/592 | Stock Tank Liquid | Evolved Gas | Recombined Separator Liquid)
+SEPARATOR GAS SAMPLE | CYLINDER | A 9127 | (mole %) | (mole %) | (mole %)
+H2S Hydrogen Sulphide | Traces | Traces
+PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES | CO2 Carbon Dioxide | 0 | 69.08 | 8.04
+N2 Nitrogen | 0 | 0 | 0
+1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS | C1 Methane | 0 | 8.98 | 1.04
+GOR | 59 | Std cu ft/bbl | C2 Ethane | 0 | 6.64 | 0.77
+Shrinkage factor | 0.977 | Std bbl/bbl | C3 Propane | 0.06 | 7.18 | 0.89
+Liberated gas gravity | 1.475 | (Air = 1) | iC4 i-Butane | 0.1 | 2.53 | 0.39
+Stock tank oil gravity | 0.844 | (60/60 °F) | nC4 n-Butane | 0.17 | 1.93 | 0.38
+iC5 i-Pentane | 0.28 | 0.92 | 0.35
+2. CORRECTION OF GAS OIL RATIO | nC5 n-Pentane | 0.25 | 0.72 | 0.31
+GOR | 324 | Std cu ft/bbl | C6 Hexanes | 1.07 | 0.84 | 1.04
+Separator Gas Gravity (from chromatographic analysis) | C7 Heptanes Plus | 1.46 | 0.85 | 1.39
+G Lab | 1.435 | (Air = 1) | C8 Octanes | 3.45 | 0.33 | 3.09
+Compressibility factor Z at separator conditions | C9 Nonanes | 3.45 | 0 | 3.05
+Z Lab | 0.986 | C10 Decanes | 3.84 | 0 | 3.39
+Corrected GOR | Field GOR x √(G field x Z field) / (G lab x Z lab) | C11 Undecanes | 3.46 | 0 | 3.06
+324√(1.240 x 0.904)/(1.435 x 0.986) = | 288 | Std cu ft/bbl | C12 Dodecanes Plus | 82.41 | 0 | 72.81
+TOTAL | 100 | 100 | 100
+3. PHYSICAL RECOMBINATION | Molecular weight | 250 .5 | 42.733 | 226.3
+Surface samples were physically recombined in the ratio of 288 standard cubic feet | Gravity | 0.844 | (60/60 °F) | 1.475 | (Air=1)
+of separator gas per barrel of separator liquid | Molar ratio | 88.37 | 11.63 | 100
+Mass ratio | 97.8 | 2.2 | 100
+Molecular weight of Dodecanes plus in STO | 277
+Gravity of Dodecanes plus in STO | 0.844 | (60/60 °F)
+--- OCR ---

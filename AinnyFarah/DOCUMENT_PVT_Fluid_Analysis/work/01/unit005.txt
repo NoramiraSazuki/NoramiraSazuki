@@ -1,0 +1,26 @@
+TABLE 3
+BUBBLE POINT PRESSURE DETERMINATION AT 108 °F
+Separator liquid sample ( Cylinder 1116/507)
+Pressure (psig) | Pump reading (cm3)
+6000 | 323.78
+4464 | 322.78
+3798 | 322.31
+2939 | 321.6
+2240 | 321.08
+1758 | 320.71
+958 | 320.1
+563 | 319.83
+271 | 319.59
+Pb= 203 | 319.25
+198 | 319.15
+193 | 318.83
+189 | 318.57
+180 | 317.17
+145 | 312.55
+FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS
+GOR | 75 std cu ft/bbl
+Shrinkage factor | 0.946 Std bbl/bbl
+Liberated gas gravity | 1.268 (Air = 1)
+Stock tank oil gravity | 0.849 60/60 F
+This sample has been used for recombination
+--- OCR ---

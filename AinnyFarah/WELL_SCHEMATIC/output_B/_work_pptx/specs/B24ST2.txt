@@ -1,0 +1,65 @@
+WELL | B24ST2 | 24 | image24.png | WELL NAME: DULANG B-24ST2 (LOCATION : DULANG-B)
+SRC | 24 | image24.png | visual transcription of the scanned picture (x3 upscale), OCR cross-check
+DATUM | m MDDF (column headers 'DEPTH m MDDF')
+INFO | rig | KM-1
+INFO | maxDeviation | 41.50 deg @ 922.47 m MDDF /  855.73 m TVDDF
+INFO | tubing | 3-1/2" 9.2 PPF L80 13Cr JFE-FOX Upper Completion; 2-7/8" 6.4 PPF L80 13Cr JFE-FOX Inner String; 4-1/2" 12.6 PPF L80 13Cr JFE-FOX Outer String
+INFO | xmas | Conventional Solar Alert 5K Wellhead Single F-F Trim Christmas Tree
+INFO | completionFluid | 8.5 ppg Drill Water + 3% KCL (COMPLETION BRINE)
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — Tubing String (OIL PRODUCER); single string
+TUBING | 3-1/2" 9.2 PPF L80 13Cr JFE-FOX Upper Completion | 3.5 | 9.2 | L80 | - |
+TUBING | 2-7/8" 6.4 PPF L80 13Cr JFE-FOX Inner String | 2.875 | 6.4 | L80 | inner |
+TUBING | 4-1/2" 12.6 PPF L80 13Cr JFE-FOX Outer String | 4.5 | 12.6 | L80 | outer |
+ROW | X | FLOW COUPLING | 248.12 |  |  |  |  | MIN ID / MAX OD columns empty on this schematic | p1
+ROW | X | TRSSSV | 248.95 |  |  |  |  |  | p1
+ROW | X | FLOW COUPLING | 250.44 |  |  |  |  |  | p1
+ROW | X | 3-1/2" SPM | 324.80 |  |  |  |  |  | p1
+ROW | X | 3-1/2" SPM | 626.31 |  |  |  |  |  | p1
+ROW | X | 3-1/2" SPM | 896.63 |  |  |  |  |  | p1
+ROW | X | 3-1/2" SPM | 1110.51 |  |  |  |  |  | p1
+ROW | X | 3-1/2" ORIFICE | 1258.22 |  |  |  |  |  | p1
+ROW | X | PDG | 1266.01 |  |  |  |  | permanent downhole gauge | p1
+ROW | X | 3-1/2" SSD | 1272.87 |  |  |  |  |  | p2
+ROW | X | 7" x 3-1/2" AHC PACKER | 1279.10 |  |  |  |  |  | p2
+ROW | X | 3-1/2" XN-NIPPLE | 1283.24 |  |  |  |  |  | p2
+ROW | X | 3-1/2" NO-GO LOCATOR | 1301.22 |  |  |  |  |  | p2
+ROW | X | 3-1/2" SELF ALIGNING MULE SHOE | 1301.39 |  |  |  |  | end of the 3-1/2" upper string | p2
+ROW | Lw | 7" X 4-1/2" VTA PACKER | 1300.80 |  |  |  |  | printed shallower than the mule shoe above | p2
+ROW | Lw | 3 Way Sub : 4-1/2" x 4-1/2" x 2-7/8" | 1306.00 |  |  |  |  |  | p2
+ROW | Lw | 3 Meter Oil Swell Packer | 1309.42 |  |  |  |  |  | p2
+ROW | X | 3.22" SLIM SSD Inner String | 1317.96 |  |  |  |  |  | p2
+ROW | X | No-Go Locator Inner String | 1323.89 |  |  |  |  |  | p2
+ROW | X | 3.25" Seal Bore Ext | 1324.53 |  |  |  |  |  | p2
+ROW | Lw | 3 Meter Oil Swell Packer | 1329.69 |  |  |  |  |  | p2
+ROW | X | 3.22" SLIM SSD Inner String | 1331.82 |  |  |  |  |  | p2
+ROW | X | 3.25" Seal Bore Ext | 1339.99 |  |  |  |  |  | p2
+ROW | Lw | 3 Meter Oil Swell Packer | 1342.77 |  |  |  |  |  | p2
+ROW | X | 3.22" SLIM SSD Inner String | 1360.77 |  |  |  |  |  | p3
+ROW | X | 3.25" Seal Bore Ext | 1367.47 |  |  |  |  |  | p3
+ROW | Lw | 3 Meter Oil Swell Packer | 1375.73 |  |  |  |  |  | p3
+ROW | X | 3.22" SLIM SSD Inner String | 1403.77 |  |  |  |  |  | p3
+ROW | X | 3.25" Seal Bore Ext | 1410.69 |  |  |  |  |  | p3
+ROW | Lw | 3 Meter Oil Swell Packer | 1420.44 |  |  |  |  |  | p3
+ROW | X | 3.22" SLIM SSD Inner String | 1445.69 |  |  |  |  |  | p3
+ROW | X | 3.25" Seal Bore Ext | 1451.81 |  |  |  |  |  | p3
+ROW | Lw | 3 Meter Oil Swell Packer | 1459.46 |  |  |  |  |  | p3
+ROW | X | 3.22" SLIM SSD Inner String | 1457.10 |  |  |  |  | printed shallower than the swell packer above | p3
+ROW | X | 3.22" SLIM XN-Nipple Inner String | 1470.95 |  |  |  |  |  | p3
+ROW | X | 3.22" Self Aligning Muleshoe | 1471.46 |  |  |  |  | end of the inner string | p3
+FLOAT | Double Valve Float Shoe | 1480.96 | MDDF | Double Valve Float Shoe 1480.96
+SHOE | 7" CASING SHOE | 1513.31 | MDDF |  | 7" CASING SHOE 1513.31 (highlighted row)
+ZONE | E10-11 | 1318 | 1322 | MDDF | E10-11 1318 - 1322 m MDDF 1209.55 - 1213.46 m TVDDF 1214 psi, 193 degF | p2 | interval
+ZONE | E12-13 | 1331 | 1336 | MDDF | E12-13 1331 - 1336 m MDDF 1222.27 - 1227.17 m TVDDF 1243 psi, 194 degF | p2 | interval
+ZONE | E14 | 1347 | 1354 | MDDF | E14 1347 - 1354 m MDDF 1237.96 - 1244.85 m TVDDF 1452 psi, 196 degF | p2 | interval
+ZONE | E23 | 1399 | 1403 | MDDF | E23 1399 - 1403 m MDDF 1289.13 -1293.07 m TVDDF 1742 psi, 200 degF | p3 | interval
+ZONE | E34 | 1431 | 1445 | MDDF | E34 1431 - 1445 m MDDF 1328.12 - 1334.43 m TVDDF 1526 psi, 205 degF | p3 | interval
+ZONE | E40 | 1470 | 1481 | MDDF | E40 1470 - 1481 m MDDF 1359.04 - 1369.87 m TVDDF 1503 psi, 209 degF | p3 | interval
+PBTD | 1486.84 | MDDF | PBTD 1486.84
+TD | 1514.00 | MDDF | TD : 1514.00 m MDDF / 1402.36 m TVDDF
+INT | Oct 2013 PXN Plug set at 1455m-MDTHF | 1455 | MDTHF | 14
+INT | 8 Mar 2026 Set Paragon Plug at 1418m-MDTHF | 1418 | MDTHF | 9
+NOTE | picture header | WATER DEPTH : 78.90 Meter; zone thickness / spacing scale on the right (4 m, 9 m, 5 m, 11 m, 7 m, 45 m, 4 m, 28 m, 14 m, 25 m, 11 m); prepared by ADAM HAREEZI B A AZIZ / AFIQ B A HAMID
+NOTE | slide 24 | overlay boxes: SSD#1 CLOSED, SSD#2 CLOSED, SSD#3 OPEN, SSD#4 OPEN, SSD#5 OPEN, SSD#6 CLOSED, SSD#7 CLOSED; overlay depth column 'DEPTH m-MDTHF' (231, 1268, 1303, 1429); 'DF-THF : 17.9m'; '7 Mar 2026 RIH 2.29” GR, encounter HUD (sand) at 1432 m- MDTHF (above SSD#6)'; LATEST UPDATE : Sep 2022
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC (scanned) — treated as the well's schematic; MIN ID / MAX OD columns empty; zone TVD values not mapped
+ISSUE | Conflict | slide 24 | slide overlays use m-MDTHF (DF-THF 17.9 m) while the picture is m MDDF; plug depths in MDTHF are not mapped to the MDDF depth axis (no datum shift)

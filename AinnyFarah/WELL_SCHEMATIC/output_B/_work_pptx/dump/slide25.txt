@@ -1,0 +1,8 @@
+# slide 25 (slides/slide25.xml) hidden=False objects=3
+# notes: 'Updated by Pravin on 11th July 2022\n\nOpen\n25'
+[pic id=6 'Picture 5' pct=[0.66, 3.7, 100.0, 90.37] hidden=False img=../media/image25.png]
+[sp id=84 'TextBox 83' pct=[11.18, 39.28, 80.1, 54.91] hidden=False]
+    FOR B25 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open

@@ -1,0 +1,72 @@
+# slide 7 (slides/slide7.xml) hidden=False objects=45
+# notes: 'Based on discussion with the team, \n\nAgreed to; \n\nLong String\nPerform WT at LS to check well performance post zonal isolation. (E1 and E10/11)\nIf rate is lower, retrieve back the slick plug and close E1, perform WT. expected WT back to previous TP. \n\nShort String\nTry to flow. If well is able to flow, suspected either SSD is partially open or slick plug is not holding. \nRun MPLT to check the flow contribution. \nDecision is based on PLT interpretation result. \n\nOpen\n6'
+[pic id=6145026 'Picture 2' pct=[30.44, 3.08, 69.42, 98.65] hidden=False img=../media/image26.png]
+[sp id=15 'TextBox 14' pct=[31.07, 56.14, 35.4, 61.37] hidden=False]
+    OPENED
+[sp id=17 'TextBox 16' pct=[64.75, 82.16, 69.09, 87.39] hidden=False]
+    OPENED
+[graphicFrame id=34 'Table 33' pct=[9.09, 24.97, 29.96, 39.13] hidden=False]
+    | SPM | Type | Depth | PTRO (psi) | Port size | Date Installed
+    | 1 | GLV | 661 | 737 | 8/64 | 27 Nov 2012
+    | 2 | GLV | 1052 | Missing | Missing  | 18 July 2008
+    | 3 | DV | 1339 | - | - | Missing 
+    | 4 | DV | 1358 | - | - | 14 Dec 2012
+    | 5 | GLOV | 1550 | - | 8/64 | 17 Nov 2012
+[pic id=6145024 'Picture 6145023' pct=[93.86, 13.56, 142.21, 70.96] hidden=False img=../media/image27.png]
+[sp id=53 'Oval 52' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=6145109 'TextBox 6145108' pct=[28.29, 0.0, 64.98, 2.95] hidden=False]
+    UPDATED BY PRAVIN NAIR APR 2024
+[sp id=27 'TextBox 26' pct=[31.39, 39.32, 35.88, 46.21] hidden=False]
+    OPENED
+    22/4/2023
+[sp id=29 'TextBox 28' pct=[64.74, 70.58, 68.58, 75.64] hidden=False]
+    OPENED
+[sp id=30 'TextBox 29' pct=[64.74, 82.16, 69.08, 87.51] hidden=False]
+    CLOSED 
+[sp id=31 'TextBox 30' pct=[64.83, 41.43, 69.17, 46.68] hidden=False]
+    OPENED
+[sp id=32 'TextBox 31' pct=[64.63, 61.95, 72.04, 65.68] hidden=False]
+    LS producing from E2 thru Leak point
+[sp id=9 'TextBox 8' pct=[64.83, 88.16, 73.51, 98.65] hidden=False]
+    Set slick plug at 1682m WLTHF to isolate E12/13 in Sep 2018. Encountered HUD with 2.29” Gauge Ring at 1680m WLTHF in Apr 2022, recovered sand with 1.75” pump bailer 
+[sp id=6145047 'TextBox 6145046' pct=[64.58, 65.47, 75.27, 70.25] hidden=False]
+    Based on PLT in 2020, observed tubing leak at 1660m MDDF (1644m MDTHF) just above packer.
+[sp id=6145069 'TextBox 6145068' pct=[24.0, 50.46, 35.49, 55.76] hidden=False]
+    Based on MPLT 2019, there was inflow into tubing from below slickplug (plug not holding, set in 2018 at 1622m MDTHF to isolate E2)
+[sp id=67 'TextBox 66' pct=[25.25, 20.5, 35.31, 24.65] hidden=False]
+    Insert valve set at TRSV Profile. TR Flapper Lock open in Feb 2019
+[sp id=40 'TextBox 39' pct=[31.27, 56.33, 35.45, 61.37] hidden=False]
+    CLOSED
+[sp id=49 'TextBox 48' pct=[64.9, 59.02, 69.23, 61.99] hidden=False]
+    CLOSED 
+[graphicFrame id=3 'Table 2' pct=[64.86, 23.88, 87.07, 41.42] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | DV | 669 |  |  | May 2019
+    | 2 | DV | 1061 |  |  | May 2019
+    | 3 | DV | 1080 |  |  | May 2019
+    | 4 | GLV – IPO | 1367 | 1070 | 10/64” | May 2019
+    | 5 | DV | 1386 | - | 12/64” | May 2019
+    | 6 | Orifice | 1559 | - |  | May 2019
+[sp id=57 'TextBox 4' pct=[31.39, 47.06, 35.11, 49.2] hidden=False]
+    MA plug
+[sp id=10 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[24.39, 51.05, 35.09, 55.46] hidden=False]
+    Reset MA plug in 21/4/2023 to isolate zone E2 at 1615 m-MDTHF
+[sp id=5 'TextBox 4' pct=[69.55, 51.76, 80.31, 57.66] hidden=False]
+    MAPS PLT May-23
+    E1 - gas (93%), E2 0
+    Leak @ 1661 m E10/11 – oil (7%)
+[sp id=7 'TextBox 6' pct=[23.21, 58.26, 30.43, 63.77] hidden=False]
+    PLT 2019
+    E2 thru plug– 100% & outflow to E1
+[sp id=11 'TextBox 10' pct=[64.43, 20.87, 76.23, 25.96] hidden=False]
+    SC (87 psi) set at TRSV Profile. TR Flapper Lock open in Mar 2024. Unable to set IV due to IV pumping away
+[sp id=14 'TextBox 13' pct=[63.97, 83.97, 72.48, 88.08] hidden=False]
+    Slickplug @ 1692m WLTHF (Sep 2018)
+[pic id=19 'Graphic 18' pct=[49.06, 73.53, 50.41, 75.92] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=21 'TextBox 20' pct=[64.69, 73.08, 79.33, 77.18] hidden=False]
+    2.29” GR HUD @ 1678m WLTHF (Mar 2024), previous recover sand
+[sp id=13 'TextBox 12' pct=[75.79, 65.6, 83.12, 70.39] hidden=False]
+    MAPS PLT 2023, same leak observed @ 1662 mMDDF.

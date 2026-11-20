@@ -1,0 +1,44 @@
+15
+Compositional Analysis of Separator Gas to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 28 Jan 2012
+CO2 | Carbon Dioxide | 66.68299999999995 | 82.73100000000001 | Sampling Time | 10:50 hrs
+N2 | Nitrogen | 0.541 | 0.427 | Sampling Location | B21L
+C1 | Methane | 30.162 | 13.642 | Sample Description | Separator Gas
+C2 | Ethane | 1.408 | 1.194 | Cylinder Number | 2374.0
+C3 | Propane | 0.591 | 0.735 | Sampling Conditions | 191.3 psig @ 124.0°F
+iC4 | i-Butane | 0.177 | 0.291
+nC4 | n-Butane | 0.132 | 0.216 | Additional Sample Information
+C5 | Neo-Pentane | 0.001 | 0.003 | Opening Pressure | 203.0 | psig
+iC5 | i-Pentane | 0.065 | 0.132 | Opening Temperature | 144.0 | °F
+nC5 | n-Pentane | 0.043 | 0.088 | Total Air Content | 0.053 | Mole%
+C6 | Hexanes | 0.056999999999999995 | 0.14 | Our Lab Identification | 20003.0
+M-C-Pentane | 0.012 | 0.028
+Benzene | 0.012 | 0.026 | Notes
+Cyclohexane | 0.011 | 0.026 | 0.00 means less than 0.005
+C7 | Heptanes | 0.028999999999999998 | 0.083
+M-C-Hexane | 0.018 | 0.048 | See Appendix 1 for Component Properties
+Toluene | 0.015 | 0.038
+C8 | Octanes | 0.016 | 0.05200000000000002
+E-Benzene | 0.001 | 0.002
+M/P-Xylene | 0.006 | 0.017
+O-Xylene | 0.001 | 0.003
+C9 | Nonanes | 0.008 | 0.03
+C10 | Decanes | 0.005 | 0.018
+C11 | Undecanes | 0.001 | 0.005
+C12+ | Dodecanes Plus | 0.005 | 0.025
+Totals | 99.99999999999996 | 100.0
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.14 | 0.401 | 102.63655543687516 | 0.7662718971726648
+C8+ | Octanes plus | 0.07600000000000001 | 0.23800000000000004 | 113.13618139577402 | 0.777877275738952
+C10+ | Decanes plus | 0.011 | 0.048 | 156.77928072559345 | 0.7985453107401637
+C12+ | Dodecanes plus | 0.005 | 0.025 | 181.79728345781007 | 0.8162946385339788
+Calculated Whole Gas Properties
+Real Relative Density | 1.2304 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 35.47 | g.mol-1
+Gas Density | 1.507 | kg.m-3 @ 15°C
+Calorific Value | 13.84 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 12.51 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+--- OCR ---

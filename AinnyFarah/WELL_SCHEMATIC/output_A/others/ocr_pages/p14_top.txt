@@ -1,0 +1,14 @@
+For Internal Use - For Internal Distribution Only
+: DULANG REVISIT | FB —N3B
+A-17ST1 WELL COMPLETION DIAGRAM
+Well No. : A-17st1 Date : 26 November 2001
+Location AA All Depth in : m-MDDF
+Wellhead : Cooper Cameron, 3-1/8", 3000 psi. RKB 231.55 m
+Tubing : 2 7/8", 6.4ppf, L-80, Vam Ace Max Deviation : 78 @ 2431 m-MDDF
+[maxX] MIN [DEPTH] SHORT YT WT uone | [DEPTH MIN |
+0.D I.D (m) STRING STRING (m) | LD | O.D
+| (IN) (IN) | | (IN) (IN) |
+, = | <a Se set 2.31" PXX Plug @ 145 |__| .
+‘ale K (OD
+4.600 |2.313
+3.678 |2.313 A

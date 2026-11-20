@@ -1,0 +1,20 @@
+Page | 3 of 14
+File | SFL 82034
+Well | Dulang-1
+Test 2
+HYDROCARBON ANALYSIS OF RESERVOIR FLUID SAMPLES
+COMPONENT | MOL % | WEIGHT % | DENSITY | API @ 60°F | MOL WEIGHT
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 28.81 | 8.66
+N2 Nitrogen | 0.55 | 0.11
+C1 Methane | 15.11 | 1.66
+C2 Ethane | 1.31 | 0.27
+C3 Propane | 0.88 | 0.26
+iC4 i-Butane | 0.24 | 0.1
+nC4 n-Butane | 0.31 | 0.21
+iC5 i-Pentane | 0.21 | 0.11
+nC5 n-Pentane | 0.14 | 0.07
+C6 Hexanes | 0.38 | 0.22
+C7 Heptanes Plus | 52.06 | 88.42 | 0.8663 | 31.7 | 270
+100.00000000000001 | 100.09
+--- OCR ---

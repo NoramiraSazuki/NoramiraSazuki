@@ -1,0 +1,13 @@
+SUMMARY OF SAMPLE RECEIVED IN LABORATORY
+Separator Gas
+Separator Conditions | Laboratory Opening Conditions
+Cylinder No | Pressure, PSIG | Temperature | Pressure, PSIG | Temperature
+*A-12463 | 180 | 124 | 169 | 80
+A-12464 | 180 | 180 | 128 | 128 | 144 | 180 | 80 | 128
+Separator Liquid
+Separator Conditions | Laboratory Bubble Point Pressure
+Cylinder No | Pressure, PSIG | Temperature | Pressure, PSIG | Temperature
+*WIA 6292 | 180 | 148 | 154 | 116
+WIA 7562 | 180 | 180 | 148 | 128 | 154 | 180 | 116 | 128
+*samples in these cylinders were used for the reservoir fluid Study
+--- OCR ---

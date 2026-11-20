@@ -1,0 +1,19 @@
+TABLE 12
+BUBBLE POINT PRESSURE DETERMINATION AT 206°F
+Separator liquid sample ( Cylinder 12689/25)
+Pressure (psig) | Pump reading (cm3)
+6000 | 318.55
+5000 | 317.42
+4000 | 316.2
+3000 | 314.85
+2000 | 313.8
+1800 | 312.95
+Pb= 1670 | 312.75
+1660 | 312.25
+1650 | 311.38
+1620 | 310.42
+1580 | 308.75
+1525 | 306.65
+1450 | 303.65
+This sample has been used for recombination
+--- OCR ---

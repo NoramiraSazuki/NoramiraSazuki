@@ -1,0 +1,198 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A10",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": 2666.1,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a10-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 268.57,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'FLOW COUPLING' @ 268.57 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-02",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 136.42,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'FLOW COUPLING' @ 136.42 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-03",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 321.38,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 8: 'NIPPLE' @ 321.38 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-04",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 549.99,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 549.99 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-05",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1228.54,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 1228.54 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-06",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1911.98,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 1911.98 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-07",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1600.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 1600.70 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-08",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 2142.48,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 2142.48 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-09",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1313,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 1313 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-10",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 2131.42,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'SPM' @ 2131.42 (read identically in OCR passes abc; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-11",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 2219.35,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 8: 'SSD' @ 2219.35 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-12",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 2216.63,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 8: 'SSD' @ 2216.63 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-13",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 2225.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'PKR' @ 2225.70 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-14",
+      "type": "blast-joint",
+      "name": "BLAST JOINT",
+      "topMd": 2256.76,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 8: 'BLAST JOINT' @ 2256.76 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a10-15",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 73,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 8: 'CENTRALIZER' @ 73 (read identically in OCR passes ab; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

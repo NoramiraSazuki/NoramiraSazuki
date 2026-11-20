@@ -1,0 +1,11 @@
+# slide 3 (slides/slide3.xml) hidden=False objects=8
+# notes: 'Open\n2'
+[pic id=6140931 'Picture 3' pct=[30.53, 0.1, 69.47, 96.92] hidden=False img=../media/image12.png]
+[sp id=10 'Oval 9' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    WI
+[sp id=13 'Line Callout 2 12' pct=[11.49, 24.12, 26.69, 30.0] hidden=False]
+    Jun 19 || TRSV found out jammed open
+[sp id=15 'Line Callout 2 14' pct=[11.49, 32.64, 26.69, 38.52] hidden=False]
+    Leak @ 170m-MDDF from PLT and MIT – Mar’17
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

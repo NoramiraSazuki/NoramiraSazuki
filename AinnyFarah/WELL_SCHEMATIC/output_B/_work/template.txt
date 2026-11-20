@@ -1,0 +1,565 @@
+{
+  "wellInfo": {
+    "completionDate": "-",
+    "completionFluid": "-",
+    "completionType": "-",
+    "groundElevation": 0,
+    "kbElevation": 0,
+    "maxDeviation": "Vertical",
+    "name": "PB-02",
+    "packerFluid": "-",
+    "rig": "-",
+    "surfaceCasing": "Casing 9-5/8' 55.36 ppf; K-55",
+    "totalDepth": 6830,
+    "trajectoryType": "Deviated",
+    "tubing": "Tubing 3-1/2' ",
+    "wellhead": "Cooper Cameron - Dual Wellhead"
+  },
+  "surveys": [
+    {
+      "azi": 0,
+      "inc": 0,
+      "md": 0
+    },
+    {
+      "azi": 68,
+      "inc": 0.5,
+      "md": 50
+    },
+    {
+      "azi": 70.18,
+      "inc": 0.81,
+      "md": 120
+    },
+    {
+      "azi": 70.18,
+      "inc": 2.19,
+      "md": 326.3
+    },
+    {
+      "azi": 18,
+      "inc": 3.57,
+      "md": 450
+    },
+    {
+      "azi": 356.65,
+      "inc": 5.27,
+      "md": 543.6
+    },
+    {
+      "azi": 352.71,
+      "inc": 7.6,
+      "md": 634
+    },
+    {
+      "azi": 349.28,
+      "inc": 11.24,
+      "md": 729
+    },
+    {
+      "azi": 339.37,
+      "inc": 14.55,
+      "md": 822
+    },
+    {
+      "azi": 334.93,
+      "inc": 18.71,
+      "md": 919.3
+    },
+    {
+      "azi": 333.9,
+      "inc": 19.18,
+      "md": 1011.2
+    },
+    {
+      "azi": 334.01,
+      "inc": 19.05,
+      "md": 1085
+    },
+    {
+      "azi": 322.95,
+      "inc": 19.63,
+      "md": 1208
+    },
+    {
+      "azi": 319,
+      "inc": 21.11,
+      "md": 1269.8
+    },
+    {
+      "azi": 316.03,
+      "inc": 22.92,
+      "md": 1326.2
+    },
+    {
+      "azi": 316.78,
+      "inc": 23.43,
+      "md": 1387.9
+    },
+    {
+      "azi": 317.79,
+      "inc": 24.03,
+      "md": 1451
+    },
+    {
+      "azi": 319.19,
+      "inc": 25,
+      "md": 1514.4
+    },
+    {
+      "azi": 319.58,
+      "inc": 29.41,
+      "md": 1576.8
+    },
+    {
+      "azi": 321.27,
+      "inc": 31.29,
+      "md": 1639.8
+    },
+    {
+      "azi": 322.03,
+      "inc": 33.13,
+      "md": 1703.2
+    },
+    {
+      "azi": 321.12,
+      "inc": 36.73,
+      "md": 1765.6
+    },
+    {
+      "azi": 320.92,
+      "inc": 39.03,
+      "md": 1828.6
+    },
+    {
+      "azi": 321.54,
+      "inc": 38.88,
+      "md": 1891.1
+    },
+    {
+      "azi": 321.93,
+      "inc": 38.08,
+      "md": 1954
+    },
+    {
+      "azi": 322.09,
+      "inc": 38.63,
+      "md": 2016.6
+    },
+    {
+      "azi": 322.65,
+      "inc": 40.03,
+      "md": 2079
+    },
+    {
+      "azi": 323.23,
+      "inc": 41.38,
+      "md": 2141.4
+    },
+    {
+      "azi": 323.68,
+      "inc": 44.38,
+      "md": 2264.4
+    },
+    {
+      "azi": 323.18,
+      "inc": 44.23,
+      "md": 2391.2
+    },
+    {
+      "azi": 323.85,
+      "inc": 43.32,
+      "md": 2516.3
+    },
+    {
+      "azi": 324.92,
+      "inc": 42.82,
+      "md": 2641.2
+    },
+    {
+      "azi": 326.05,
+      "inc": 42.06,
+      "md": 2766.2
+    },
+    {
+      "azi": 325.7,
+      "inc": 42.03,
+      "md": 2891.9
+    },
+    {
+      "azi": 325.12,
+      "inc": 42.02,
+      "md": 3016.9
+    },
+    {
+      "azi": 325.88,
+      "inc": 42.65,
+      "md": 3142
+    },
+    {
+      "azi": 326.26,
+      "inc": 41.35,
+      "md": 3267
+    },
+    {
+      "azi": 326.17,
+      "inc": 41.67,
+      "md": 3329.8
+    },
+    {
+      "azi": 325.72,
+      "inc": 41.86,
+      "md": 3392.5
+    },
+    {
+      "azi": 325.7,
+      "inc": 41.64,
+      "md": 3517.3
+    },
+    {
+      "azi": 325.79,
+      "inc": 41.91,
+      "md": 3643.2
+    },
+    {
+      "azi": 326.46,
+      "inc": 41.41,
+      "md": 3768.4
+    },
+    {
+      "azi": 326.99,
+      "inc": 40.98,
+      "md": 3893.4
+    },
+    {
+      "azi": 327.94,
+      "inc": 40.74,
+      "md": 4019
+    },
+    {
+      "azi": 327.3,
+      "inc": 40.15,
+      "md": 4143.9
+    },
+    {
+      "azi": 325.6,
+      "inc": 40.71,
+      "md": 4269.9
+    },
+    {
+      "azi": 324.99,
+      "inc": 40.18,
+      "md": 4395.2
+    },
+    {
+      "azi": 325.04,
+      "inc": 40.78,
+      "md": 4520.5
+    },
+    {
+      "azi": 324.51,
+      "inc": 41.19,
+      "md": 4645.4
+    },
+    {
+      "azi": 324.28,
+      "inc": 41.32,
+      "md": 4770.3
+    },
+    {
+      "azi": 323.58,
+      "inc": 40.75,
+      "md": 4895.2
+    },
+    {
+      "azi": 323.86,
+      "inc": 40.92,
+      "md": 5020.5
+    },
+    {
+      "azi": 325.32,
+      "inc": 40.95,
+      "md": 5144.5
+    },
+    {
+      "azi": 326.54,
+      "inc": 40.44,
+      "md": 5245.9
+    },
+    {
+      "azi": 326.19,
+      "inc": 39.87,
+      "md": 5308.3
+    },
+    {
+      "azi": 327.15,
+      "inc": 40.04,
+      "md": 5371
+    },
+    {
+      "azi": 328.12,
+      "inc": 39.21,
+      "md": 5433.6
+    },
+    {
+      "azi": 328.91,
+      "inc": 39.78,
+      "md": 5494.9
+    },
+    {
+      "azi": 327.86,
+      "inc": 39.38,
+      "md": 5558.7
+    },
+    {
+      "azi": 328.03,
+      "inc": 39.43,
+      "md": 5620.9
+    },
+    {
+      "azi": 328.56,
+      "inc": 38.59,
+      "md": 5683.8
+    },
+    {
+      "azi": 327.59,
+      "inc": 39.43,
+      "md": 5746.6
+    },
+    {
+      "azi": 325.92,
+      "inc": 39.91,
+      "md": 5810.2
+    },
+    {
+      "azi": 325.4,
+      "inc": 39.65,
+      "md": 5873.8
+    },
+    {
+      "azi": 326.01,
+      "inc": 39.82,
+      "md": 5937.3
+    },
+    {
+      "azi": 325.48,
+      "inc": 40.35,
+      "md": 6001.7
+    },
+    {
+      "azi": 326.8,
+      "inc": 40.4,
+      "md": 6066.1
+    },
+    {
+      "azi": 326.45,
+      "inc": 39.52,
+      "md": 6130.4
+    },
+    {
+      "azi": 325.75,
+      "inc": 39.87,
+      "md": 6194.5
+    },
+    {
+      "azi": 325.48,
+      "inc": 39.6,
+      "md": 6258.8
+    },
+    {
+      "azi": 325.84,
+      "inc": 38.81,
+      "md": 6322
+    },
+    {
+      "azi": 325.84,
+      "inc": 38.59,
+      "md": 6385.1
+    },
+    {
+      "azi": 327.15,
+      "inc": 38.07,
+      "md": 6448.8
+    },
+    {
+      "azi": 325.75,
+      "inc": 37.36,
+      "md": 6511.5
+    },
+    {
+      "azi": 326.1,
+      "inc": 37.05,
+      "md": 6574.5
+    },
+    {
+      "azi": 325.22,
+      "inc": 37.27,
+      "md": 6638.1
+    },
+    {
+      "azi": 325.75,
+      "inc": 36.44,
+      "md": 6702.5
+    },
+    {
+      "azi": 325.13,
+      "inc": 36.26,
+      "md": 6755.5
+    },
+    {
+      "azi": 326,
+      "inc": 37,
+      "md": 6800
+    },
+    {
+      "azi": 326.7,
+      "inc": 37.1,
+      "md": 6830
+    }
+  ],
+  "components": [
+    {
+      "bottomMd": 0,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "Position (-10 to 0 ft) and OD are standard assumptions for wellhead",
+      "id": "wellhead-1",
+      "innerDiameter": null,
+      "name": "Cooper Cameron - Dual Wellhead",
+      "outerDiameter": 13.375,
+      "source": "Image: Cooper Cameron - Dual Wellhead",
+      "topMd": -10,
+      "type": "wellhead"
+    },
+    {
+      "bottomMd": 5000,
+      "grade": "J55",
+      "id": "blank-pipe-upper",
+      "innerDiameter": 1,
+      "name": "2 7/8\" tubing",
+      "outerDiameter": 2,
+      "source": "Image: Tubing 2 7/8\"",
+      "topMd": 0,
+      "type": "tubing",
+      "weight": 9.3
+    },
+    {
+      "bottomMd": 5000,
+      "id": "pump-esp",
+      "innerDiameter": null,
+      "interval": "50 ft",
+      "name": "ESP 400 Centurion P10SSD (BAKER), 195 Stages, PSD at 5000ft",
+      "outerDiameter": 4,
+      "source": "Image: ESP 400 Centurion P10SSD (BAKER), 195 Stages, PSD at 5000ft",
+      "topMd": 4950,
+      "type": "esp",
+      "weight": 50,
+      "zone": "-"
+    },
+    {
+      "bottomMd": 6691,
+      "id": "perf-sand-C",
+      "innerDiameter": 6,
+      "interval": "15 ft",
+      "name": "Bekasap Sand C (6676 ft - 6691 ft)(Open)",
+      "outerDiameter": 6,
+      "source": "Image: Bekasap Sand C (6676 ft - 6691 ft)(Closed)",
+      "topMd": 6676,
+      "type": "perforation",
+      "weight": 15,
+      "zone": "Sand c"
+    },
+    {
+      "bottomMd": 5214,
+      "grade": "K-55",
+      "id": "csg-production",
+      "innerDiameter": null,
+      "name": "Casing 7\",23 ppf; K-55",
+      "outerDiameter": 7,
+      "source": "Image: Casing 7\",23 ppf; K-55",
+      "topMd": 0,
+      "type": "casing",
+      "weight": 23
+    },
+    {
+      "bottomMd": 6830,
+      "id": "perf-liner-sand-c",
+      "innerDiameter": 4.05,
+      "interval": "1730 ft",
+      "name": "Liner 4-1/2' TOL 5240ft",
+      "outerDiameter": 4.5,
+      "topMd": 5100,
+      "type": "casing",
+      "zone": "SAND"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [
+    {
+      "color": "#708090",
+      "md": 400,
+      "name": "Top Pierre Shale",
+      "symbol": "triangle",
+      "tvd": 400
+    },
+    {
+      "color": "#F4A460",
+      "md": 800,
+      "name": "Top Niobrara Formation",
+      "symbol": "circle",
+      "tvd": 800
+    },
+    {
+      "color": "#D3D3D3",
+      "md": 1200,
+      "name": "Top Carlile Shale",
+      "symbol": "square",
+      "tvd": 1200
+    },
+    {
+      "color": "#696969",
+      "md": 1635,
+      "name": "Top Greenhorn Formation",
+      "symbol": "triangle",
+      "tvd": 1600
+    },
+    {
+      "color": "#DEB887",
+      "md": 2110,
+      "name": "Top Belle Fourche Shale",
+      "symbol": "circle",
+      "tvd": 2000
+    },
+    {
+      "color": "#C0C0C0",
+      "md": 2657,
+      "name": "Top Mowry Shale",
+      "symbol": "diamond",
+      "tvd": 2400
+    },
+    {
+      "color": "#778899",
+      "md": 3160,
+      "name": "Top Dakota Formation",
+      "symbol": "triangle",
+      "tvd": 2700
+    },
+    {
+      "color": "#FFD700",
+      "isReservoir": true,
+      "md": 3588,
+      "name": "Top Bakken Reservoir",
+      "symbol": "star",
+      "tvd": 2900
+    }
+  ],
+  "fluidContacts": []
+}

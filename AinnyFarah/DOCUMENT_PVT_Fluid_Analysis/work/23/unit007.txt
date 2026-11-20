@@ -1,0 +1,7 @@
+SINGLE STAGE
+SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE
+Pressure (psig) for Separator | Temp (F) | Gas-Oil Ratio (1) | Gas-Oil Ratio (2) | Tank Oil Gravity °API @ 60°F | Formation Vol Factor (3) | Separation Vol. Factor (4) | Gas Gravity
+265 | 148 | 277 | 298 | 1.077 | 1.159
+to
+0 | 148 | 78 | 81 | 35.7 | 1.202 | 1.04 | 1.316
+--- OCR ---

@@ -1,0 +1,28 @@
+CORE LABORATORIES MALAYSIA SDN BHD PROCESS CONTROL
+Revision: 003 | Date: 22 January 2007 | Authorisation: Fadli Ramli
+Form: Sample Information
+Company | Petronas Carigali Sdn Bhd (PCSB) | Date Received | 04 Mar 2011
+Well | Dulang A25, B14S & D26S | Received By | Azman
+Field | Airway Bil No | DO. No: 127750
+Rig | Job Number | 20110028.0
+Sample | Cylinder / Bottle | Separator | Depth
+No | vol (cc) | type | No | type | cover | plug | capacity | P (psig) | T ( deg F) | (m MD) | Remarks
+A 25.01 | 600.0 | SEP. OIL | 819088.0 | PROSERV | Yes | Yes | 600cc | 180.0 | 104.0 | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 13:30 hrs
+A 25.02 | 20L | SEP. GAS | 2942.0 | LUXFER | Yes | Yes | 20L | 180.0 | 104.0 | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 13:30 hrs
+A 25.03 | 600.0 | SEP. OIL | 820016.0 | PROSERV | Yes | Yes | 600cc | 180.0 | 104.0 | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 14:30 hrs
+A 25.04 | 20L | SEP. GAS | 2729.0 | LUXFER | Yes | Yes | 20L | 180.0 | 104.0 | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 14:30 hrs
+A 25.05 | 1 Gallon | SEP.WATER | n/a | Can | Yes | No | 1 Gallon | n/a | n/a | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 14:55 hrs
+A 25.06 | 1 Gallon | SEP.WATER | n/a | Can | Yes | No | 1 Gallon | n/a | n/a | n/a | Well: DL-A25
+Date/ Time: 14-02-2011/ 14:55 hrs
+B 14.01 | 52 Gallon | STOCK TANK | n/a | Drum | Yes | No | 55 Gallon | n/a | n/a | n/a | Well: DL- B14
+OIL | Date/ Time: 10-02-2011/ 21:00 hrs
+D 26S.01 | 52 Gallon | STOCK TANK | n/a | Drum | Yes | No | 55 Gallon | n/a | n/a | n/a | Well: DL-D26S
+OIL | Date/ Time: 15-02-2011/ 13:00 hrs
+--- OCR ---
+Core Lab
+RESERVOIR OPTIMIZATION

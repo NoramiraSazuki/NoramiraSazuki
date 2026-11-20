@@ -1,0 +1,59 @@
+WELL | D26 | 26 | image68.png | WELL D-26 : DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 26 | image68.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 24 0CTOBER, 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.4 PPG 3% KCl + NaCl BRINE TREATED WITH 30 GALS.KORROGUARD 6500 PER 100 bbls.of BRINE
+INFO | rte | 14.63 m
+INFO | maxDeviation | 72.3 DEG.
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 26" DRIVE PIPE A-36 CONN. 202.0PPF @185.5 m MDDF | 26 | 202.0 | A-36 | 185.5 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @606.7 m MDDF | 13.375 | 54.5 | K-55 | 606.7 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ BUTT 2960.0m MDDF | 9.625 | 40 | N-80 | 2960.0 | MDDF
+CASING | 7"N-80 PROD.,28 ppf.@ BUTT.3063.0 m.MDDF | 7 | 28 | N-80 | 3063.0 | MDDF
+TUBING | 3-1/2" 9.2 PPF N-80 TKC 40-40 | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3-1/2" 9.2 PPF N-80 TKC 40-40 | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 135.95 |  | 2.992 |  |  |  | p1
+ROW | S | TRDP4A-LS SCSSV | 136.80 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 138.14 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 296.64 |  | 2.812 |  |  |  | p1
+ROW | S | KBMM SPM | 1489.59 |  | 2.900 |  | GLOV 10/64" |  | p1
+ROW | S | KBMM SPM | 2129.18 |  | 2.900 |  | DV |  | p1
+ROW | S | KBMM SPM | 2757.91 |  | 2.900 |  | DV |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 2822.16 |  | 2.812 |  |  |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 2856.05 |  | 2.867 |  |  | long side: PKR 3, RELEASE@60000# ABOVE TBG.WT., MIN ID 3.500 | p1
+ROW | S | 'D' NO-GO NIPPLE | 2859.14 |  | 2.750 |  | OPENED 24/OCT/1996 |  | p1
+ROW | S | W/L ENTRY GUIDE | 2859.48 |  |  |  |  |  | p1
+ROW | S | END OF TBG | 2859.71 |  |  |  |  |  | p1
+ROW | L | TRDP4A-LS SCSSV | 145.55 |  | 2.992 |  |  | three depths (144.70, 145.55, 146.89) printed for two labels; 144.70 has no label (likely the upper flow coupling, not mapped); MIN IDs 2.992 / 2.812 printed one row high | p1
+ROW | L | FLOW COUPLING | 146.89 |  | 2.812 |  |  | see above | p1
+ROW | L | WP-1 NIPPLE | 302.1 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 1772.53 |  | 2.900 |  | GLOV 10/64" |  | p1
+ROW | L | KBMM SPM | 2731.37 |  | 2.900 |  | DV |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2822.57 |  | 2.812 |  |  |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2966.22 |  | 2.812 |  |  | printed 2966.22 between 2856.05 and 2889.79 (2886.22 likely; kept as printed) | p1
+ROW | L | BLAST JOINT | 2889.79 | 2901.86 | 2.841 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 2902.63 |  | 2.812 |  |  |  | p2
+ROW | L | 9 5/8 CAMCO HRP-4-SP SINGLE HYD. PKR. | 2908.15 |  | 2.441 |  |  | short-string column; long side PKR 2, RELEASE@72000# ABOVE TBG.WT., MIN ID 3.500 | p2
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2915.65 |  | 2.812 |  |  |  | p2
+ROW | L | BLAST JOINT | 2922.67 | 2943.60 | 2.841 |  | OPENED 23/JUN/2004 | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 2952.57 |  | 2.812 |  |  |  | p2
+ROW | L | CAMCO HDP - 4 - SP SNGLE HYD. PERM PACKER | 2955.37 |  | 3.500 |  |  | short-string column; long side PKR 1, RELEASE@72000# ABOVE TBG.WT. | p2
+ROW | L | 'D' NO-GO NIPPLE | 2957.86 |  | 2.750 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 2959.90 |  |  |  | CLOSED 23/JUN/2004 |  | p2
+ROW | L | END OF TUBING | 2959.10 |  |  |  |  | printed shallower than the mule shoe (2959.90) — kept as printed | p2
+SHOE | 9 5/8 CSG. SHOE. | 2935.37 | MDTHF |  | 9 5/8 CSG. SHOE. 2935.37 (diagram; header 2960.0m MDDF)
+ZONE | E-10/11 | 2891.37 | 2900.37 | MDTHF | SAND : E-10/11 2891.37 - 2900.37m-MDTHF | p2 | perf
+ZONE | E-12/13A L1 | 2926.97 | 2938.57 | MDTHF | SAND : E-12/13A L1: 2926.97 - 2938.57m.MDTHF | p2 | perf
+ZONE | E-12/13B L2 | 2943.87 | 2950.87 | MDTHF | SAND : E-12/13B L2: 2943.87 - 2950.87 m. MDTHF | p2 | perf
+ZONE | E-12/13C L3 | 2958.07 | 2970.37 | MDTHF | SAND : E-12/13C L3: 2958.07- 2970.37m-MDTHF | p2 | perf
+PBTD | 3048.37 | MDTHF | PBTD 3048.37m-MDTHF
+TD | 3117.37 | MDTHF | TD@3117.37m.MDTHF
+INT | CSA Plug @ TRSV profile (Dec 2020). TR flapper lock open Mar 2017 |  |  | 55
+INT | MA Plug @ SSD#1 (Dec 2020) |  |  | 57
+NOTE | picture p2 | 17/JUL/2013 gauge table (UPPER gauge Max Pressure 1577.11 psia, LOWER gauge Max pressure 1578.45 psia; Max temp ~188 degC — small print); 17/JUL/2013: LIB and go down until @ 2877 W/L MDTHF; 19/JUL/2013: Completed MIT survey (waiting results); 13/APR/2011: Flared W/Sch reciprocate to 2956 m-MDTHF
+NOTE | slide 26 | slide boxes: 'Nov’10 SPM#1 GLOV SPM#2 DV'; 'Apr’06 SPM#1 GLOV SPM#2 DV SPM#3 DV (assumption)'; #17 OPEN; #28/#29/#30 OPENED
+ISSUE | Conflict | header vs diagram | 9-5/8" shoe: header 2960.0m MDDF vs diagram 2935.37 m-MDTHF — diagram value used, header recorded
+ISSUE | Unclear | picture | 7" N-80 28 ppf liner/casing to 3063.0 m MDDF: no liner top printed — top left empty (not derived)

@@ -1,0 +1,73 @@
+WELL | D1 | 1 | image7.png | WELL D-01 :DUAL OIL PRODUCER WITH SHORT STR. AND LONG STR. SELECTIVE
+SRC | 1 | image7.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 21 AUGUST, 1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 2-7/8" 6.5 PPF N-80 TKC4040
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.4 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 42.3 DEG
+INFO | completionType | DUAL OIL PRODUCER WITH SHORT STR. AND LONG STR. SELECTIVE
+CASING | 18-5/8" COND. #1, X-50, 87.5 ppf @ 311.5m-MDDF | 18.625 | 87.5 | X-50 | 311.5 | MDDF
+CASING | 13-3/8" K-55 SURF., 54.5 ppf @ 714.0 m-MDDF | 13.375 | 54.5 | K-55 | 714.0 | MDDF
+CASING | 9-5/8" N-80 PROD., 40 ppf, BUTT @ 1773.3 m-MDDF | 9.625 | 40 | N-80 | 1773.3 | MDDF
+TUBING | 2-7/8" 6.5 PPF N-80 TKC4040 | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2-7/8" 6.5 PPF N-80 TKC4040 | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 136.8 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 137.7 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 287.0 |  | 2.312 |  |  |  | p1
+ROW | S | KBMM-M SPM | 694.2 |  | 2.371 |  | #1 GLV, PTRO 738psi, 8/64" - Dec/04/2012 |  | p1
+ROW | S | KBMM-M SPM | 1057.6 |  | 2.371 |  | #2 GLV, PTRO 940psi, 12/64" w/o BK-2 Latch - Jul/18/2008 |  | p1
+ROW | S | KBMM-M SPM | 1344.1 |  | 2.371 |  | #3 DV - w/o BK-2 Latch - Dec/09/2012 |  | p1
+ROW | S | KBMM-M SPM | 1507.2 |  | 2.371 |  | #4 GLOV, 12/64" - Set 15/07/2008; Attempt to retrieve failed. Suspected BK-2 Latch Bent or Worn-Out - Dec/11/2012; WLD 27/Feb/2009 Leak at SPM #4 |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 1524.5 |  | 2.312 |  | CLOSED 09/05/2002 |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 1531.9 |  | 4.000 |  |  | long side: PKR 4, RELEASE@40,000 LBS. ABOVE TBG. WT., MIN ID 4.000 | p1
+ROW | S | TELESCOPIC JOINT | 1535.0 |  |  |  |  |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 1549.4 |  | 2.312 |  | CLOSED (Confirmed) 04/Jun/2013 |  | p1
+ROW | S | WP-1 NIPPLE | 1558.6 |  | 2.312 |  |  |  | p2
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 1559.7 |  | 4.000 |  |  | long side: PKR 3, RELEASE@40,000 LBS. ABOVE TBG. WT., MIN ID 4.000 | p2
+ROW | S | 'D' NO-GO NIPPLE | 1561.6 |  | 2.250 |  | OPENED (Confirmed) 04/Jun/2013 |  | p2
+ROW | S | W/L ENTRY GUIDE | 1561.9 |  | 2.441 |  |  |  | p2
+ROW | S | EOT | 1562.1 |  | 2.441 |  |  |  | p2
+ROW | L | FLOW COUPLING | 147.2 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 148.1 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 297.0 |  | 2.312 |  |  |  | p1
+ROW | L | KBMM-M SPM | 704.1 |  |  |  | ?#1 DV - 30/Aug/05 (small print) | MIN ID not printed on this row | p1
+ROW | L | KBMM-M SPM | 1067.5 |  |  |  | ?#2 GLOV - 16/64" on 30/Aug/05 (small print) |  | p1
+ROW | L | KBMM-M SPM | 1373.1 |  |  |  | ?#3 DV - suspected bent 25/Jan/2005 (small print) |  | p1
+ROW | L | KBMM-M SPM | 1516.8 |  |  |  | ?#4 GLV BK, 16/64" (small print, partly illegible) |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1526.4 |  | 2.312 |  | CLOSED 12/04/2002 |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1549.5 |  | 2.312 |  | CLOSED 20/12/2003 |  | p1
+ROW | L | BLAST JOINT | 1552.0 | 1557.9 | 2.441 |  |  | depths printed at both ends of the blast-joint bracket | p1
+ROW | L | WP-1 NIPPLE | 1558.0 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1562.4 |  | 2.312 |  | CLOSED 12/04/2002 |  | p2
+ROW | L | BLAST JOINT | 1563.6 | 1572.3 | 2.441 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 1606.3 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO 'HRP-4-SP' SINGLE HYD.PKR | 1611.1 |  | 4.000 |  |  | listed in the short-string column (depth 1611.1) below the short-string EOT; long side: PKR 2, RELEASE@36,000 LBS. ABOVE TBG. WT. | p2
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1628.8 |  | 2.312 |  | OPENED Feb/2010 |  | p2
+ROW | L | BLAST JOINT | 1631.3 | 1676.0 | 2.441 |  | Suspected Leak in Blast Joint@1670 m Dec/2009 | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 1676.3 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 1677.0 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY | 1678.5 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 1678.8 |  | 4.000 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM. PKR. | 1679.8 |  | 4.000 |  |  | listed in the short-string column (depth 1679.8); long side PKR 1 | p2
+ROW | L | SEAL BORE EXT. | 1680.1 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1681.0 |  | 2.250 |  | TAG @ No-Go @1682 m Feb/2010 |  | p2
+ROW | L | OTIS CONICAL MULE SHOE | 1682.0 |  | 2.441 |  |  |  | p2
+ROW | L | EOT | 1682.2 |  | 2.441 |  | OPENED Feb/2010 |  | p2
+SHOE | 9 5/8 CSG SHOE |  |  |  | label in the long-string completion column, no depth (header gives 1773.3 m-MDDF) | p2
+ZONE | E-1 | 1553.3 | 1557.5 | MDTHF | SAND : E-1 1553.3m - 1557.5 m-MDTHF | p1 | perf
+ZONE | E-2 | 1564.3 | 1569.5 | MDTHF | SAND : E-2 1564.3 m - 1569.5 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1646.0 | 1651.3 | MDTHF | SAND : E-12/13 1646.0 m - 1651.3 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1655.0 | 1661.2 | MDTHF | 1655.0 m - 1661.2 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1663.3 | 1675.3 | MDTHF | 1663.3 m - 1675.3 m-MDTHF | p2 | perf
+ZONE | E-14 | 1684.5 | 1688.3 | MDTHF | SAND : E-14 1684.5m - 1688.3 m-MDTHF | p2 | perf
+PBTD | 1727.3 | MDTHF | PBTD @ 1727.3 m-MDTHF (label partly struck through)
+TD | 1765.3 | MDTHF | TD@1765.3m-MDTHF
+INT | Set 2.25" CA Plug at D-nogo @ 1679m-MDTHF in Mar 2015 but PLT in Apr 2017 show the plug is not holding. | 1679 | MDTHF | 22
+NOTE | picture p2 | E-2 gauge table 6-Jun-13 (1560 m MDTHF): MAX PRESS. (psia) 1410.05 / 1413.79; MAX TEMP. (Deg F) 218.4 / 217.39
+NOTE | picture p2 | 03/Jul/2013: RIH 2.29" Drift in tandem and tag 'D' no-go nipple @ 1570m-THF. Fluid/Level @ 250m
+NOTE | picture p2 | Sand Aid Treatment Feb/2010; RST log Feb/2011 @ 1705m-MDTHF; 30/Aug/2013
+NOTE | picture p1 | HUD @ 1347m WLTHF (multiple times), suspected either scale or tubing partially parted (callout over the picture)
+ISSUE | Conflict | slide 1 status boxes | slide text boxes (#10 CLOSED, #12 CLOSED, #15 CLOSED, #16 OPENED, #20 OPEN, #27 OPENED, #28 OPENED) placed over the picture's status column give later statuses that differ from the picture (e.g. long SSD 1628.8 'OPENED Feb/2010' vs slide box) — picture statuses kept in components, slide boxes listed as notes

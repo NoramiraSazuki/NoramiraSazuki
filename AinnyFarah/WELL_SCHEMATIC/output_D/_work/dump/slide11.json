@@ -1,0 +1,627 @@
+{
+ "slide": 11,
+ "file": "slides/slide11.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "A new IWR – CTU SCO, ZOC, PLT + GLVC\n\nOpen\n10",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6149122",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5406623,
+   "y": 8,
+   "cx": 6836979,
+   "cy": 9905999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.7,
+    0.0,
+    69.53,
+    100.0
+   ],
+   "image": "../media/image32.png",
+   "crop": {
+    "l": "31259",
+    "t": "11827",
+    "r": "27874",
+    "b": "3723"
+   }
+  },
+  {
+   "kind": "cxnSp",
+   "id": "4",
+   "name": "Straight Connector 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9033669,
+   "y": 9525000,
+   "cx": 2895600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.3,
+    96.15,
+    67.74,
+    96.15
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "8",
+   "name": "Straight Connector 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9033669,
+   "y": 9753600,
+   "cx": 381000,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.3,
+    98.46,
+    53.46,
+    98.46
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Oval 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5434907,
+   "y": 9372600,
+   "cx": 6799162,
+   "cy": 533400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.86,
+    94.62,
+    69.47,
+    100.0
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "17",
+   "name": "Table 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12670727,
+   "y": 1922919,
+   "cx": 3632198,
+   "cy": 1310640,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    71.95,
+    19.41,
+    92.58,
+    32.64
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "Missing. GLV",
+     "732",
+     "NA",
+     "12/64",
+     "1998"
+    ],
+    [
+     "2",
+     "Missing. GLV",
+     "1570",
+     "NA",
+     "12/64",
+     "1998"
+    ],
+    [
+     "3",
+     "Missing. GLV",
+     "2225",
+     "NA",
+     "10/64",
+     "1998"
+    ],
+    [
+     "4",
+     "Missing. GLV",
+     "2756",
+     "NA",
+     "10/64",
+     "1998"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11052528,
+   "y": 5321040,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.76,
+    53.72,
+    67.23,
+    59.72
+   ],
+   "text": "OPENED Sept-23",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11052529,
+   "y": 8039017,
+   "cx": 965608,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.76,
+    81.15,
+    68.25,
+    87.16
+   ],
+   "text": "CLOSED (thru CA plug) Sept-23",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5484019,
+   "y": 4333875,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.14,
+    43.75,
+    35.61,
+    49.76
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "21",
+   "name": "Table 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1301356,
+   "y": 2880360,
+   "cx": 3632198,
+   "cy": 1554480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.39,
+    29.08,
+    28.02,
+    44.77
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "DV",
+     "722",
+     "",
+     "",
+     "Mar 2020"
+    ],
+    [
+     "2",
+     "DV",
+     "1560",
+     "",
+     "",
+     "Mar 2020"
+    ],
+    [
+     "3",
+     "GLV (IPO – bottom latch)",
+     "2198",
+     "890",
+     "10/64”",
+     "Mar 2020"
+    ],
+    [
+     "4",
+     "GLOV",
+     "2698",
+     "-",
+     "12/64”",
+     "Mar 2020"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Rounded Rectangle 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8266599,
+   "y": 2415540,
+   "cx": 304800,
+   "cy": 92492,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.94,
+    24.38,
+    48.67,
+    25.32
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "5-Point Star 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8294058,
+   "y": 2130412,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.1,
+    21.51,
+    48.4,
+    23.1
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Rectangle 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11018342,
+   "y": 2758185,
+   "cx": 880269,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.57,
+    27.84,
+    67.57,
+    36.31
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "51",
+   "name": "TextBox 50",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2188170,
+   "y": 1372892,
+   "cx": 2791328,
+   "cy": 577516,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    12.43,
+    13.86,
+    28.28,
+    19.69
+   ],
+   "text": "Tubing packoff assembly (B tbg stop – UPO – 15’ SP – LPO – tbg stop) from 81 to 92m MDTHF (Leak at 90m MDTHF from WLD)",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "53",
+   "name": "Straight Arrow Connector 52",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4979498,
+   "y": 1661650,
+   "cx": 3314560,
+   "cy": 528914,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.28,
+    16.77,
+    47.1,
+    22.11
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "55",
+   "name": "TextBox 54",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2220661,
+   "y": 2079548,
+   "cx": 3185962,
+   "cy": 319236,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    12.61,
+    20.99,
+    30.7,
+    24.22
+   ],
+   "text": "Storm Choke installed Mar 2020 at TRSV profile with tubing stop set above. TR flapper locked open in Sep 2019",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "58",
+   "name": "TextBox 57",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8961120,
+   "y": 9365380,
+   "cx": 2916455,
+   "cy": 298383,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.89,
+    94.54,
+    67.45,
+    97.55
+   ],
+   "text": "UPDATED BY PRAVIN NAIR DEC 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11145835,
+   "y": 6739739,
+   "cx": 1639604,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.29,
+    68.04,
+    72.6,
+    74.04
+   ],
+   "text": "2023 : Encountered sand bridging while RIH (and SS producing) @ xxx m",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8394810,
+   "y": 8152413,
+   "cx": 422886,
+   "cy": 279139,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.67,
+    82.3,
+    50.07,
+    85.12
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Line Callout 2 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 869315,
+   "y": 1372892,
+   "cx": 1078886,
+   "cy": 461096,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.94,
+    13.86,
+    11.06,
+    18.51
+   ],
+   "text": "Leak based on WLD @ 90m-MDTHF – already packoff and flow the well",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "Line Callout 2 25",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 899186,
+   "y": 1931582,
+   "cx": 671119,
+   "cy": 851184,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.11,
+    19.5,
+    8.92,
+    28.09
+   ],
+   "text": "Storm Choke Installed Mar’20\nGLVC completed in Mar 2020 and Tag “D” No-Go nipple. (no HUD)",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12096750,
+   "y": 638175,
+   "cx": 3162300,
+   "cy": 580495,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.69,
+    6.44,
+    86.65,
+    12.3
+   ],
+   "text": "*2024-D11L unknown HUD at TRSV while running FGS – for SC setting, sbb flapper xbole lock open\nplan to run camera",
+   "geom": "rect"
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+TABLE 2
+RECEPTION OF SEPARATOR LIQUID SAMPLES
+CYLINDER | CYLINDER | CYLINDER
+1116/43 | 15821/97 | 22400/50
+Opening Pressure (psig) | 156 | 167 | 170
+Temperature ( F) | 75 | 75 | 75
+Water Content (cm3) | Traces | NIL | NIL
+Remaining Liquid (cm3) | 20 (ONLY GAS) | 10 (ONLY GAS) | 20 (ONLY GAS)
+TABLE 3
+RECEPTION OF BOTTOMHOLE SAMPLES
+CYLINDER | CYLINDER
+12689/66 | 15089/12
+(FLO 69) | (FLO 350)
+Opening Pressure (psig) | 755 | 1033
+Temperature (°F) | 75 | 150
+Water Content (cm3) | 10 | Traces
+Remaining Liquid at 6000psig | 530 | 620
+Chloride Content (ppm) | 11300 | NIL
+Resistivity (ohm-ijieters) | 0.217 | NIL
+PH | 8.1 | NIL
+--- OCR ---

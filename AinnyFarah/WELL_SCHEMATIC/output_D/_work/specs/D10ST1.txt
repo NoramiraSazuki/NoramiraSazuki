@@ -1,0 +1,44 @@
+WELL | D10ST1 | 10 | image31.emf | WELL NAME: D10ST1 (LOCATION / SLOT: PLATFORM DLDP-D / SLOT 28)
+SRC | 10 | image31.emf | EMF native text records (EMR_EXTTEXTOUTW), visual check of the slide render
+DATUM | m MDTH (column 'DEPTH m MDTH', whole metres; a second column gives m MDDF to 2 dp, kept in notes)
+INFO | completionDate | 07-Jan-18
+INFO | rig | SKD-T9
+INFO | totalDepth | 2421 m MDDF
+INFO | maxDeviation | 67.28 deg @ 991.90 m MD
+INFO | wellhead | Solar Alert
+INFO | xmas | HH TRIM, 5K, U Rated, PSL-2
+INFO | completionFluid | 8.6 PPG filtered DRILL WATER 10 NTU (0.5% Liquid H2S SCAV + 5% KCL + 0.2% BIOCIDE + 2% LUBRICANT )
+INFO | packerFluid | 8.6 PPG ( 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)
+INFO | tubing | TUBING 1 (Upper) 4-1/2" 12.6 PPF 22CR Vam Top 2243.63 m MDDF; TUBING 2 (Lower) 3-1/2" 9.2 PPF 25CR Vam Top 2313.04 m MDDF
+INFO | completionType | WELL COMPLETION SCHEMATIC (WATER INJECTOR) — Revision: FINAL, 24 Jan 2018
+CASING | CONDUCTOR 26" 202 ppf A36 176 m MDDF | 26 | 202 | A36 | 176 | MDDF
+CASING | INT. CASING 13-3/8" 54.5 ppf K55 1171 m MDDF | 13.375 | 54.5 | K55 | 1171 | MDDF
+CASING | CASING/LINER 9-5/8" 47 ppf L80 Vam FJL 2421 m MDDF | 9.625 | 47 | L80 | 2421 | MDDF
+TUBING | TUBING 1 (Upper) 4-1/2" 12.6 PPF 22CR Vam Top | 4.5 | 12.6 | 22CR | - | 2243.63 MDDF
+TUBING | TUBING 2 (Lower) 3-1/2" 9.2 PPF 25CR Vam Top | 3.5 | 9.2 | 25CR | - | 2313.04 MDDF
+ROW | X | 3-1/2" TUBING HANGER, JFEBEAR, BOX, 25 CR | 0 |  | 2.992 | 13.490 |  | MDDF 16.35; INC 0.0 | y=711
+ROW | X | CROSSOVER 3-1/2" JFEBEAR PIN x 4-1/2" VAMTOP PIN 25 CR |  |  | 2.963 | 4.516 |  | no depth printed | y=792
+ROW | X | FLOW COUPLING, 4-1/2" BOX x 3-1/2" PIN , VAMTOP, 25CR | 129 |  | 2.882 | 4.967 |  | MDDF 145.60 | y=966
+ROW | X | 3-1/2" SCSSV-TRSV (N/E -Self Eq), VAMTOP, 25 CR | 130 |  | 2.813 | 5.200 |  | MDDF 146.48; INC 12.1 | y=995
+ROW | X | FLOW COUPLING, 3-1/2" BOX x 4-1/2" PIN , VAMTOP, 25CR | 132 |  | 2.880 | 4.545 |  | MDDF 148.00 | y=1024
+ROW | X | CROSSOVER 4-1/2" VAMTOP BOX x 3-1/2" VAMTOP PIN 25 CR | 2227 |  | 2.970 | 4.938 |  | MDDF 2243.63; INC 55.3 | y=1749
+ROW | X | 3-1/2" SSD w/ 3 1/2" X-NIPPLE PROFILE  , VAMTOP 25 CR | 2233 |  | 2.813 | 4.550 |  | MDDF 2249.83; INC 55.3 | y=1778
+ROW | X | 9-5/8" x 3 1/2" AHC HYDRAULIC PACKER, VAMTOP, 25 CR | 2246 |  | 2.897 | 8.310 |  | MDDF 2262.15; INC 55.1 | y=1923
+ROW | X | 3 1/2"  SSD w/ 3 1/2" X-NIPPLE PROFILE , VAMTOP, 25 CR | 2250 |  | 2.813 | 4.550 |  | MDDF 2265.88; INC 55.1 | y=2011
+ROW | X | 9-5/8" x 3 1/2" AHC HYDRAULIC PACKER, VAMTOP, 25CR | 2276 |  | 2.897 | 8.310 |  | MDDF 2292.45; INC 55.2 | y=2188
+ROW | X | 3 1/2"  SSD w/ 3 1/2" X-NIPPLE PROFILE , VAMTOP, 25CR | 2280 |  | 2.813 | 4.550 |  | MDDF 2296.18; INC 55.2 | y=2275
+ROW | X | 3 1/2" XN, VAMTOP, 25CR - 2.75" BORE, 2.69" NOGO | 2295 |  | 2.690 | 3.936 |  | MDDF 2311.10; INC 55.3 | y=2334
+ROW | X | 3 1/2" POP ASSY, VAMTOP, 25CR | 2296 |  | 2.871 | 3.970 |  | MDDF 2312.76; INC 55.3; end of the tubing string | y=2392
+ZONE | E-10 | 2268.9 | 2278.6 | MDDF | PERFORATION INTERVAL (7" HMX 12 SPF) TOP PERF INTERVAL - 2268.9 m MDDF / E-10 SAND (THICKNESS - 9.7 meter) / BOTTOM PERF INTERVAL - 2278.6 m MDDF | y=1986 | perf
+ZONE | E-11 | 2278.6 | 2290 | MDDF | PERFORATION INTERVAL (7" HMX 12 SPF) TOP PERF INTERVAL - 2278.6 m MDDF / E-11 SAND (THICKNESS - 11.4 meter) / BOTTOM PERF INTERVAL - 2290 m MDDF | y=2100 | perf
+ZONE | E-12A | 2317.2 | 2319.2 | MDDF | PERFORATION INTERVAL (7" HMX 12 SPF) TOP PERF INTERVAL - 2317.2 m MDDF / E-12A SAND (THICKNESS - 2 meter) / BOTTOM PERF INTERVAL - 2319.2 m MDDF | y=2334 | perf
+ZONE | E-12B | 2322.9 | 2342.9 | MDDF | PERFORATION INTERVAL (7" HMX 12 SPF) TOP PERF INTERVAL - 2322.9 m MDDF / E-12B SAND (THICKNESS - 20 meter) / BOTTOM PERF INTERVAL - 2342.9 m MDDF | y=2514 | perf
+PBTD | 2395 | MDDF | PBTD @ 2395 m MDDF (header PBTD : 2395 m MDDF)
+TD | 2421 | MDDF | TOTAL DEPTH : 2421 m MDDF
+NOTE | EMF y=879/1401/1836/2100 | table tubing rows '4 1/2" 12.6#, 22CR, VAMTOP, R2 TUBING' (ID 3.958, OD 4.937) and '3 1/2", 9.2#, VAMTOP, 25CR TUBING' (ID 2.992, OD 3.907) — represented by the two TUBING header components
+NOTE | EMF y=1111/1198/1604 | depth/inclination stations without equipment: 473 m MDTH / 489.60 m MDDF / 48.1 deg; 976 / 991.90 / 67.3 deg; 1305 / 1321.07 / 55.0 deg (no azimuth -> not a survey record)
+NOTE | EMF y=2044/2162/2392/2572 | zone pressures: E-10 1845 PSI / 213 F; E-11 1840 PSI / 213.8 F; E-12A 1760 PSI / 215.6 F; E-12B 1800 PSI / 215.6 F; DISTANCE - 27.2 m; DISTANCE - 3.7 m
+NOTE | EMF y=475/504/448 | TH HEIGHT-MSL : 16.2m; DF HEIGHT-MSL : 32.55m; WATER DEPTH : 74.22m (not mapped to elevations)
+NOTE | EMF y=622 | Note: All depths are in meter from RKB to top of equipment
+NOTE | EMF y=2773-2867 | Prepared By: M Rizwan Rozlan, Senior Completion Engineer; W Afiq Farhan, Completion Engineer; Date: 24 Jan 2018; Revision: FINAL; 9-5/8" Casing Shoe @ 2421 m MDDF
+ISSUE | Unclear | EMF y=622/679 | note says depths are 'from RKB' while the columns are headed 'm MDTH' and 'm MDDF' — MDTH column used as recorded, MDDF kept in notes

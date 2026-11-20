@@ -1,0 +1,85 @@
+# slide 27 (slides/slide27.xml) hidden=False objects=23
+# notes: 'Open\n26'
+[pic id=5 'Picture 4' pct=[30.64, 0.0, 69.44, 54.04] hidden=False img=../media/image69.png]
+[pic id=9 'Picture 8' pct=[30.67, 51.84, 69.47, 98.2] hidden=False img=../media/image70.png]
+[sp id=15 'Line Callout 2 14' pct=[72.22, 76.63, 79.29, 88.46] hidden=False]
+    Set PXN plug (28/10/13)
+[sp id=17 'Oval 16' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=23 'TextBox 22' pct=[63.06, 70.91, 69.27, 76.15] hidden=False]
+    OPENED
+[sp id=24 'TextBox 23' pct=[63.06, 85.96, 69.21, 91.31] hidden=False]
+    CLOSED 
+[sp id=25 'TextBox 24' pct=[63.22, 54.25, 69.21, 59.6] hidden=False]
+    CLOSED
+[sp id=12 'Rectangle 11' pct=[30.88, 18.46, 33.48, 47.99] hidden=False]
+    
+    219
+    220
+    221
+    
+    
+    467
+    734
+    955
+    1127
+    1258
+    1372
+    
+    1476
+    
+    1493
+[sp id=27 'Rectangle 26' pct=[30.89, 46.73, 33.49, 54.9] hidden=False]
+    1497
+    
+    1506
+    1507
+[sp id=28 'Rectangle 27' pct=[30.84, 84.94, 33.43, 99.55] hidden=False]
+    1593
+    1594
+    1601
+    
+    
+    
+    TD
+    1634
+[sp id=29 'Rectangle 28' pct=[30.86, 57.18, 33.49, 61.81] hidden=False]
+    1551-1554
+    1555
+[sp id=31 'Rectangle 30' pct=[30.88, 66.73, 33.51, 72.07] hidden=False]
+    1559
+    
+    1561-1564
+    
+    1574
+[sp id=32 'Rectangle 31' pct=[30.73, 81.15, 33.51, 84.9] hidden=False]
+    1581
+    1586-1589
+    1592-1595
+[sp id=33 'Rectangle 32' pct=[30.85, 16.65, 33.49, 19.25] hidden=False]
+    MDTHF
+[sp id=34 'Line Callout 2 33' pct=[72.22, 70.31, 90.86, 77.19] hidden=False]
+    5/1/2016 ||HUD @ 1582m-MDTHF due to sand. Tagged during PLT 2017 as well. 
+    PLT 2023 log until this HUD depth
+[graphicFrame id=35 'Table 34' pct=[63.85, 25.77, 86.7, 46.08] hidden=False]
+    | SPM | Type | Depth  / m-MDTHF | PTRO (psia) | Port size | Date Installed
+    | 1 | DV | 467 | - |  | 9 Apr 2019
+    | 2 | DV | 734 | - |  | 9 Apr 2019
+    | 3 | DV | 955 | - |  | 9 Apr 2019
+    | 4 | DV | 1127 | - |  | 9 Apr 2019
+    | 5 | GLV (IPO) | 1258 | 1105 | 12/64” | 9 Apr 2019
+    | 6 | GLOV | 1372 | - | 14/64” | 9 Apr 2019
+[sp id=30 'Line Callout 2 33' pct=[72.22, 48.04, 90.86, 68.35] hidden=False]
+     PLT 2017 ||Negative sign across 3-Way Sub most probably due to water circulation or possible leak point  
+    
+    The heavy phase (water)
+    may be dragged upward by light oil / gas flowing up – on the high side of pipe and fall back on the low
+    side of the pipe if there is not enough energy to lift it up. This will create continuous circulation of
+    water and seen by flow meter as only downward flow when it is in fact due to an upward low dense
+    fluid (gas) flow.
+[sp id=36 'Line Callout 2 19' pct=[14.24, 72.4, 27.66, 86.5] hidden=False]
+    PLT 2017 - Both spinner and temperature tool indicated an obvious tubing leak at depth 1598.4 m-MDBDF where Pup Joint was located as a significant change in revolutions per second was observed.
+    
+    PLT 2023 same finding
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

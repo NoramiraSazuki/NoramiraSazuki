@@ -1,0 +1,39 @@
+API WATER ANALYSIS | API WATER ANALYSIS
+Well | Dulang A25 | Well | Dulang A25
+Field | Field
+Client Sample Number | A 25.05 | Client Sample Number | A 25.05
+Sampled by Client | 14-Feb-2011 @ 14:55hrs | Sampled by Client | 14-Feb-2011 @ 14:55hrs
+Sampled From | Sampled From
+Analysed | Analysed
+Our Sample Number | 20110028.001 | Our Sample Number | 20110028.001
+Appearance before filtration | Hazy Brown Water
+STIFF DIAGRAMS
+Appearance after filtration | Slightly Hazy Light Brown Water
+Total dissolved solids (mg.litre-1) | 19720
+Specific gravity at 60°F | 1.0139578741268822
+Determined Resistivity (ohm.metre at 60°F) | 0.5389487870619946
+Hydrogen sulphide | Not Detected
+pH at 20°C | 8.7
+Components | mg.litre-1 | meq.litre-1
+CATIONS
+Sodium | 6560 | 285
+Potassium | 230 | 5.9
+Calcium | 8.1 | 0.40
+Magnesium | 135 | 11
+Barium | < 0.50 | < 0.01
+Strontium | < 0.50 | < 0.01
+Total Iron | 145
+Dissolved Iron | 0.52 | 0.02
+ANIONS
+Chloride | 5260 | 150
+Sulphate | < 1.0 | < 0.02
+Bicarbonate | 7030 | 115
+Carbonate | 505 | 17
+Hydroxide | NIL | NIL
+ADDITIONAL COMPONENTS
+Boron | 19
+Aluminium | < 1.0
+Silicon | 21
+Phosphorus | < 0.30
+Lithium | 3.0
+--- OCR ---

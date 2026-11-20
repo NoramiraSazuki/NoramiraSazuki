@@ -1,0 +1,30 @@
+# slide 28 (slides/slide28.xml) hidden=False objects=19
+# notes: 'Open\n28'
+[sp id=60418 'TextBox 1' pct=[0.0, 0.0, 52.49, 2.75] hidden=False]
+    LATEST UPDATE: APRIL 2024 BY PRAVIN NAIR
+[pic id=60420 'Picture 217' pct=[9.97, 8.24, 88.74, 94.45] hidden=False img=../media/image28.png]
+[sp id=60421 'Text Box 179' pct=[57.37, 52.28, 61.54, 53.21] hidden=False]
+    CLOSED
+[sp id=60422 'Text Box 179' pct=[57.17, 71.7, 62.09, 72.62] hidden=False]
+    OPENED
+[sp id=60423 'Text Box 179' pct=[57.54, 83.39, 61.7, 84.32] hidden=False]
+    CLOSED
+[sp id=60424 'Text Box 179' pct=[22.34, 49.07, 27.26, 49.98] hidden=False]
+    OPENED
+[pic id=60427 'Picture 10' pct=[88.53, 61.43, 99.42, 68.56] hidden=False img=../media/image29.jpeg]
+[sp id=49 'TextBox 48' pct=[66.95, 30.79, 75.82, 33.55] hidden=False]
+    GLOV (10/64”) Feb 2021 
+[sp id=60 'TextBox 59' pct=[56.32, 68.47, 93.24, 70.61] hidden=False]
+    2.3” drift & 2.25” LIB HUD at 1440m MDTHF (fine sand)
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open
+[sp id=6 'TextBox 5' pct=[61.7, 83.4, 91.24, 85.55] hidden=False]
+    2.31” PXN Plug @ 1470m MDTHF (Jul 2017)
+[sp id=7 'TextBox 6' pct=[57.38, 72.67, 85.61, 74.82] hidden=False]
+    2.2” Slickplug @ 1455m MDTHF (Dec 2017)
+[sp id=9 'TextBox 8' pct=[9.82, 75.08, 43.21, 77.22] hidden=False]
+    2.3” GR HUD at 1459m MDTHF fine sand (Dec 2017)
+[sp id=4 'TextBox 3' pct=[2.86, 39.56, 10.73, 44.15] hidden=False]
+    SSD#1 CLOSED (2024)
+[sp id=10 'Text Box 179' pct=[22.54, 66.65, 27.46, 67.56] hidden=False]
+    OPENED

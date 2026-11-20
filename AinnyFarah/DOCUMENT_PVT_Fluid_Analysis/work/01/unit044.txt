@@ -1,0 +1,22 @@
+TABLE 42
+SEPARATION TEST OF RESERVOIR FLUID
+Molecular composition of separator gases (mole percent)
+Pressure (psig) | 200 | 150 | 100 | 50 | 0
+Temperature F | 100 | 100 | 100 | 100 | 100
+Nitrogen | 0 | 0 | 0 | 0 | 0
+Carbon Dioxide | 44.09 | 44.23 | 44.25 | 44.05 | 43.05
+H2S Hydrogen Sulphide | traces | traces | traces | traces | traces
+Methane | 49.33 | 48.47 | 47.48 | 46.25 | 44.23
+Ethane | 4.03 | 4.31 | 4.61 | 4.92 | 5.18
+Propane | 1.9 | 2.19 | 2.6 | 3.22 | 4.18
+Iso-Butane | 0.29 | 0.35 | 0.45 | 0.65 | 1.1
+N-Butane | 0.19 | 0.24 | 0.31 | 0.45 | 0.85
+I-Pentane | 0.06 | 0.08 | 0.11 | 0.17 | 0.44
+N-Pentane | 0.03 | 0.04 | 0.06 | 0.09 | 0.25
+Hexanes | 0.03 | 0.03 | 0.05 | 0.07 | 0.24
+Heptanes Plus | 0.05 | 0.06 | 0.08 | 0.13 | 0.48
+TOTAL | 100.00000000000001 | 99.99999999999999 | 99.99999999999999 | 100 | 100
+Molecular Weight | 29.79 | 30.023 | 30.319 | 30.739 | 31.81
+Gravity (Air=1) | 1.028 | 1.036 | 1. 046 | 1.061 | 1.098
+Molecular Weight of Heptanes plus | 111. 4 | 109.6 | 108.9 | 112.1 | 111.6
+--- OCR ---

@@ -1,0 +1,93 @@
+# slide 16 (slides/slide16.xml) hidden=False objects=58
+# notes: 'Updated by Pravin on 21st June 2022\nWell currently is having robbing issue. LS can flow, SS cannot.\nt/shooting to flow individual string done but not manage to flow the well. \n\nSuspected:\nLeak at LS – based on SITHP and PCP same.\nSS GLV is plugged. – plan to check the liquid level and any return of C02 later when run survey. \n\n\nWayforward\n1. Check with Geowell rep Ellisa on GLVC DOR report to confirm on GLV setting.\n\nOpen\n15'
+[pic id=6154242 'Picture 2' pct=[30.47, 2.51, 69.47, 97.12] hidden=False img=../media/image45.png]
+[sp id=8 'TextBox 7' pct=[64.28, 51.54, 68.39, 55.38] hidden=False]
+    SSD#2 CLOSED 10/6/2015
+[sp id=10 'TextBox 9' pct=[49.18, 96.15, 64.33, 100.0] hidden=False]
+    LAST ENTRY
+    10/6/2015 : RAS Logging
+[sp id=13 'Text Box 289' pct=[30.68, 89.24, 49.18, 97.63] hidden=False]
+    LAST ENTRY	: SS, 4 Nov 2016
+    TYPE OF JOB 	: SGS completed
+    	: SS, 3 Nov 2016
+    	: TBCLR prior SGS, HUD@ 1419 m-MDTHF ( Nogo Nipple ).
+    	: SS, 2 Nov 2016
+    	: FGS completed
+    
+    UPDATED BY	: M Zhafran B A Rahman
+    DATE	: 4 Nov 2016
+[pic id=11 'Picture 10' pct=[104.95, 6.47, 174.94, 37.33] hidden=False img=../media/image46.png]
+[sp id=18 'Oval 17' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[graphicFrame id=27 'Chart 26' pct=[104.97, 41.8, 151.43, 62.94] hidden=False]
+[graphicFrame id=28 'Chart 27' pct=[104.95, 64.19, 151.41, 85.33] hidden=False]
+[sp id=33 'TextBox 32' pct=[64.18, 78.76, 69.07, 84.9] hidden=False]
+    OPENED
+[sp id=34 'TextBox 33' pct=[64.21, 51.35, 69.03, 56.26] hidden=False]
+    CLOSED
+    Confirmed June 2022
+[sp id=35 'TextBox 34' pct=[32.16, 47.64, 37.05, 53.78] hidden=False]
+    OPENED
+[graphicFrame id=38 'Table 37' pct=[4.1, 29.6, 26.96, 45.91] hidden=False]
+    | SPM | Type | Depth  / m-MDTHF | PTRO (psia) | Port size | Date Installed
+    | 1 | DV | 642 | - | - | 26 Jan 2020
+    | 2 | DV | 920 | - | - | 26 Jan 2020
+    | 3 | DV | 1131 | - | - | 26 Jan 2020
+    | 4 | DV | 1285 | - | - | 26 Jan 2020
+    | 5 | DV | 1381 | - | - | 26 Jan 2020
+[graphicFrame id=39 'Table 38' pct=[70.46, 24.43, 99.0, 47.2] hidden=False]
+    | SPM | Type | Depth  / m-MDTHF | PTRO (psia) | Port size | Date Installed
+    | 1 | DV | 653 | - | - | 
+    | 2 | GLV-IPO | 931 | 896 | 8/64” | Attempted in 2022, but stiff to retrieve after 3 days. BK-2 latch was recovered but valve body remain in pocket
+    | 3 | GLOV | 1142 | - | 12/64 | Jun-2022 confirmed no obstruction at SPM3
+    | 4 | DV | 1295 | - |  | Suspected stiff. 2013 installed
+    | 5 | GLOV | 1391 | - | 12/64” | Suspected stiff Jan-20
+[sp id=41 'Line Callout 2 40' pct=[70.46, 63.83, 87.82, 70.38] hidden=False]
+    Leak due to addperf job in Q1 2019 
+    – perfed E12 upper lobe (1417- 1423 m)  
+    -confirmed from last MPLT 2019
+[sp id=17 'TextBox 16' pct=[69.67, 57.31, 86.47, 60.64] hidden=False]
+    2 Leak points (1433 m & 1435 m MDTHF) from last MPLT done in 2019
+[pic id=5 'Graphic 4' pct=[50.12, 30.73, 52.07, 34.19] hidden=False img=../media/image47.png descr='Fish with solid fill']
+[sp id=40 'TextBox 39' pct=[64.23, 20.6, 82.53, 24.58] hidden=False]
+    Fish in SPM #2 (June 2022) No-go ring & valve body (as per LIB). Latch backoff & retrieve to surface during GLVCO
+[pic id=51 'Picture 50' pct=[82.77, 3.79, 85.01, 21.97] hidden=False img=../media/image49.jpeg]
+[pic id=56 'Picture 55' pct=[84.91, 8.14, 93.41, 21.54] hidden=False img=../media/image50.jpeg]
+[sp id=67 'TextBox 66' pct=[64.1, 36.37, 68.91, 41.28] hidden=False]
+    CLOSED
+    Confirmed June 2022
+[pic id=43 'Graphic 42' pct=[48.75, 75.7, 50.69, 79.17] hidden=False img=../media/image47.png descr='Fish with solid fill']
+[sp id=44 'TextBox 43' pct=[63.27, 85.12, 78.71, 88.81] hidden=False]
+    Catcher sub fish in NG Nipple (June 2022). Unable to latch due to sand buildup above F/N
+[sp id=53 'TextBox 52' pct=[55.81, 43.92, 66.14, 47.22] hidden=False]
+    Tubing Stop set at 1420 WLTHF to secure catcher sub fish
+[sp id=69 'TextBox 68' pct=[61.75, 30.79, 69.25, 36.34] hidden=False]
+    Tubing Stop set above SPM#2 to secure GLV fish in SPM#2
+[pic id=48 'Graphic 47' pct=[47.56, 49.47, 49.5, 52.93] hidden=False img=../media/image47.png descr='Fish with solid fill']
+[sp id=49 'TextBox 48' pct=[37.5, 48.28, 46.73, 53.34] hidden=False]
+    Fish drop out of SS (Dec 2022). 8ft equalizing prong + x-over
+[sp id=6154241 'TextBox 6154240' pct=[51.06, 91.67, 69.45, 95.13] hidden=False]
+    UPDATED BY: PRAVIN NAIR (DEC 2022)
+[sp id=83 'TextBox 82' pct=[23.22, 23.12, 34.54, 27.56] hidden=False]
+    IV installed at TRSV profile.  TR flapper lock open in Sep 2018.
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[33.21, 60.2, 43.76, 63.83] hidden=False]
+    E12/13 AP Mac 2019 via LS
+    1418 – 1423 m MDTHF
+[sp id=3 'TextBox 2' pct=[64.51, 45.79, 69.07, 48.06] hidden=False]
+    OPEN (leak)
+[sp id=4 'TextBox 3' pct=[18.56, 51.3, 28.86, 58.31] hidden=False]
+    2021.
+[graphicFrame id=7 'Table 6' pct=[4.1, 49.32, 26.96, 66.55] hidden=False]
+    | SPM | Type | Depth  / m-MDTHF | PTRO (psia) | Port size | Date Installed
+    | 1 | DV | 642 | - | - | 26 Jan 2020
+    | 2 | GLOV | 920 | - | 12/64 | June 2021 / LL ~800-900 m
+    | 3 | DV | 1131 | - | - | 26 Jan 2020
+    | 4 | DV | 1285 | - | - | 26 Jan 2020
+    | 5 | DV | 1381 | - | - | 26 Jan 2020
+[sp id=9 'TextBox 8' pct=[13.18, 67.59, 23.93, 74.81] hidden=False]
+    Verified with offshore and droid. Purpose orifice shallow due to plan to divert well to MOL. Previously was flowing thru LPS
+    And previously all was DV due to MSAS installation in 2020
+[sp id=15 'TextBox 14' pct=[82.24, 52.93, 90.39, 56.19] hidden=False]
+    Verified with offshore and droid. 

@@ -1,0 +1,24 @@
+Page | 4 of 33
+Report Date | 1992-04-30 00:00:00
+Report No | MFL 91184
+Well | DULANG-B12
+Cylinder No | 1209-A & WIB-7417
+RECOMBINED SEPARATOR LIQUID
+COMPONENT | MOL % | WEIGHT % | DENSITY | API @ 60°F | MOL WEIGHT | GPM
+H2S Hydrogen Sulphide | 0
+CO2 Carbon Dioxide | 9.52
+N2 Nitrogen | 0.04
+C1 Methane | 2.28
+C2 Ethane | 0.51
+C3 Propane | 0.42
+iC4 i-Butane | 0.47
+nC4 n-Butane | 0.42
+iC5 i-Pentane | 0.46
+nC5 n-Pentane | 0.38
+C6 Hexanes | 0.83
+C7 Heptanes Plus | 84.67 | 231 | 0.8351 | 37.8
+C8 Octanes
+C9 Nonanes
+C10+ Decanes Plus
+100 | 231
+--- OCR ---

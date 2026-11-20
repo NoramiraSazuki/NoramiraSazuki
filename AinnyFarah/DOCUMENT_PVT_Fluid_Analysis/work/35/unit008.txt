@@ -1,0 +1,45 @@
+BUBBLE POINT DETERMINATION OF RECOMBINED RESERVOIR FLUID AT 205°F
+Recombined Fluid Using Separator Sample Cylinders | Bubble Point Pressure
+(psig)
+81A1277 and SS1014/80 (set No.1)* | 1330
+82A3093 and SS1009/79 (set no.2)* | 1370
+* This recombined fluid was selected to be used for a full PVT study
+VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE
+1. Saturation pressure (bubble point pressure) | 1370 PSIG at 205°F
+2. Specific volume at saturation pressure: ft3/lb | 02094 at 205°F
+3. Compressibility of saturated oil at reservoir temperature
+From 5000 to 4000 = 7.7 x 10-6
+From 4000 to 3000 = 8.33 x 10-6
+From 3000 to 2000 = 9.48 x 10-6
+From 2000 to 1500 = 11.01 x 10-6
+From 1500 to 1370 = 12.29 x 10-6
+PRESSURE-VOLUME RELATIONS OF SEPARATOR GAS AT 211°F
+(Constant Composition Expansion)
+PRESSURE | RELATIVE VOLUME (1) | Y FUNCTION (2)
+PSIG | Z
+5000 | 0.9678
+4000 | 0.9753
+3000 | 0.9835
+2000 | 0.9929
+1780 | 0.9952
+1600 | 0.9973
+1500 | 0.9984
+1370 | 1
+1347 | 1.0084
+1299 | 1.027
+1238 | 1.0533
+1159 | 1.0924 | 1.945
+1069 | 1.1452 | 1.912
+960 | 1.2251 | 1.868
+850 | 1.3294 | 1.825
+750 | 1.4538 | 1.786
+655 | 1.6103 | 1.749
+572 | 1.7922 | 1.716
+500 | 2.002 | 1.686
+439 | 2.2346 | 1.661
+345 | 2.7554 | 1.622
+261 | 3.5358 | 1.585
+188 | 4.7517 | 1.552
+(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)
+--- OCR ---

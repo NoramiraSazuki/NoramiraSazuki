@@ -1,0 +1,449 @@
+{
+ "slide": 30,
+ "file": "slides/slide30.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "CTU SCO\nDe-commingle E12\n\nOpen\n29",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "8",
+   "name": "Group 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5299869,
+   "y": 0,
+   "cx": 6934200,
+   "cy": 9906000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.1,
+    0.0,
+    69.47,
+    100.0
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "12",
+   "name": "Group 11",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 0,
+   "cx": 6858000,
+   "cy": 9906000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.0,
+    69.47,
+    100.0
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "10",
+   "name": "Picture 9",
+   "path": [
+    "Group 7",
+    "Group 11"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 0,
+   "cx": 6852356,
+   "cy": 5041915,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.0,
+    69.44,
+    50.9
+   ],
+   "image": "../media/image74.png"
+  },
+  {
+   "kind": "pic",
+   "id": "11",
+   "name": "Picture 10",
+   "path": [
+    "Group 7",
+    "Group 11"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 5017958,
+   "cx": 6858000,
+   "cy": 4888042,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    50.66,
+    69.47,
+    100.0
+   ],
+   "image": "../media/image75.png"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "BJPseudoFooter",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5503069,
+   "y": 9385300,
+   "cx": 6604000,
+   "cy": 508000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.25,
+    94.74,
+    68.75,
+    99.87
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "5",
+   "name": "Picture 4",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5477796,
+   "y": 2014537,
+   "cx": 314325,
+   "cy": 3438525,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.11,
+    20.34,
+    32.89,
+    55.05
+   ],
+   "image": "../media/image76.png"
+  },
+  {
+   "kind": "pic",
+   "id": "6",
+   "name": "Picture 5",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5414169,
+   "y": 6876288,
+   "cx": 419100,
+   "cy": 990600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.74,
+    69.42,
+    33.12,
+    79.42
+   ],
+   "image": "../media/image77.png"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5299869,
+   "y": 5855208,
+   "cx": 713613,
+   "cy": 304800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.1,
+    59.11,
+    34.15,
+    62.18
+   ],
+   "text": "2635-2638\n2643",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Rectangle 13",
+   "path": [
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5301774,
+   "y": 6555740,
+   "cx": 713613,
+   "cy": 304800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.11,
+    66.18,
+    34.16,
+    69.26
+   ],
+   "text": "2648\n2680-2683",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "Oval 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "Rectangle 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5388263,
+   "y": 1629727,
+   "cx": 521206,
+   "cy": 233362,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.6,
+    16.45,
+    33.56,
+    18.81
+   ],
+   "text": "MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "TextBox 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10176671,
+   "y": 5837793,
+   "cx": 1094943,
+   "cy": 519811,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.79,
+    58.93,
+    64.01,
+    64.18
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "TextBox 30",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10156329,
+   "y": 6851779,
+   "cx": 1094943,
+   "cy": 519811,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.67,
+    69.17,
+    63.89,
+    74.42
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "32",
+   "name": "Table 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1716634,
+   "y": 2523219,
+   "cx": 3632198,
+   "cy": 1737360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.75,
+    25.47,
+    30.37,
+    43.01
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "DV",
+     "461",
+     "",
+     "",
+     "Sept 2024"
+    ],
+    [
+     "2",
+     "DV",
+     "837",
+     "",
+     "",
+     "Sept 2024"
+    ],
+    [
+     "3",
+     "DV",
+     "1210",
+     "",
+     "",
+     "Sept 2024"
+    ],
+    [
+     "4",
+     "GLV -  IPO",
+     "1583",
+     "850",
+     "10/64",
+     "Sept 2024"
+    ],
+    [
+     "5",
+     "GLV -  IPO",
+     "1945",
+     "950",
+     "10/64",
+     "Sept 2024"
+    ],
+    [
+     "6",
+     "GLOV",
+     "2299",
+     "",
+     "12/64",
+     "Sept 2024"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "58",
+   "name": "TextBox 57",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9258300,
+   "y": 9080500,
+   "cx": 2857500,
+   "cy": 342900,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.57,
+    91.67,
+    68.8,
+    95.13
+   ],
+   "text": "UPDATED DEC 2022 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

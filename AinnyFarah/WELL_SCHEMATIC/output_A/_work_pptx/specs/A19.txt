@@ -1,0 +1,47 @@
+WELL | A19 | 16 | image36.png + image37.png | WELL A-19 : SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+SRC | 16 | image36.png + image37.png | visual transcription of the screenshot pictures (x3 upscale, upper part image36 / lower part image37)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 1 MARCH 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | SINGLE INGRAM CACTUS, 3M
+INFO | packerFluid | 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 63.8 DEG
+INFO | rte | 14.52 m
+INFO | completionType | SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+CASING | 20" 94.0 ppf X-56 @ mMDDF | 20 | 94.0 | X-56 |  | MDDF
+CASING | 13 3/8" K-55 @ mMDDF | 13.375 |  | K-55 |  | MDDF
+CASING | 7" 23 ppf, K-55 @ m MDDF | 7 | 23 | K-55 |  | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB | 2.875 | 6.5 | N-80 | - |
+ROW | X | FLOW COUPLING | 141 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 142 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 297 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 729 |  | 2.371 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 1423 |  | 2.371 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 1817 |  | 2.371 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 2010 |  | 2.371 |  |  |  | p1
+ROW | X | WP-2DE SSD | 2174 |  | 2.312 |  | CLOSED; ?CLOSED – STIFF (unable to open in Aug 2015) | later status from slide text box obj #23 matched by position | p1
+ROW | X | SINGLE HYD. PKR GUIB UNI-VII | 2181 |  | 2.441 |  |  |  | p1
+ROW | X | WP-2DE SSD | 2192 |  | 2.312 |  | CLOSED; ?OPEN (OCT 2023) | later status from slide text box obj #7 matched by position | p1
+ROW | X | BLAST JOINT | 2196 | 2211 | 2.441 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 2239 |  | 2.312 |  |  |  | p1
+ROW | X | SINGLE HYD. PKR GUIB UNI-VII | 2245 |  | 2.441 |  |  |  | p2
+ROW | X | WP-2DE SSD | 2254 |  | 2.312 |  | CLOSED 4/9/99; ?OPEN (OCT 2023) | later status from slide text box obj #9 matched by position | p2
+ROW | X | BLAST JOINT | 2257 | 2266 | 2.441 |  |  |  | p2
+ROW | X | WP-1 NIPPLE | 2327 |  | 2.312 |  |  |  | p2
+ROW | X | CENTRALIZER | 2353 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 2354 |  | 2.441 |  |  |  | p2
+ROW | X | GUIB MAGNUM 'GT' PACKER |  |  | 4.000 |  |  | depth not printed | p2
+ROW | X | SEAL BORE EXT |  |  | 4.000 |  |  | depth not printed | p2
+ROW | X | 'D' NO-GO NIPPLE | 2359 |  | 2.250 |  | OPENED 4/9/99; ?OPEN (Feb 2015) | later status from slide text box obj #11 matched by position | p2
+ROW | X | WEG | 2360 |  | 2.441 |  |  | end of string | p2
+ZONE | E-7 | 2386 | 2402 | MDTHF | slide text box obj #10 '2386 – 2402m MDTHF' beside SAND: E-7 | slide obj #10 | perf
+TD | 2571 | MDTHF | TD @ 2571 m MDTHF
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p2 | 7" 23 PPF CASING label on the diagram (no depth)
+NOTE | picture p1/p2 | SAND: LOWER D-1 (beside blast joint 2196-2211), SAND: LD-3 (beside blast joint 2257-2266) — intervals not printed
+NOTE | slide 16 obj #12 | Tubing punch at ~2174m (July 2016) for communication with PCP (Previously installed GLV Straddle Assembly)
+NOTE | slide 16 obj #14 | Latest Update: Nov 2023 by Pravin Nair
+ISSUE | Missing | header | casing setting depths and PBTD left blank on the schematic ('@ mMDDF', 'PBTD : m MDDF')
+ISSUE | Missing | picture p2 | GUIB MAGNUM 'GT' PACKER and SEAL BORE EXT have no printed depth (between LOC. SEAL ASSY. 2354 and 'D' NO-GO NIPPLE 2359)
+ISSUE | Unclear | slide 16 | later statuses (CLOSED – STIFF Aug 2015, OPEN OCT 2023 x2, OPEN Feb 2015) are slide text boxes matched to rows by vertical position

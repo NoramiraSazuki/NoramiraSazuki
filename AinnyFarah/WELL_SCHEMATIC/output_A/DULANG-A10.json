@@ -1,0 +1,228 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A10",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": 8747.048,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a10-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 881.135,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 268.57,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'FLOW COUPLING' @ 268.57 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 268.57 m -> 881.135 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-02",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 447.572,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 136.42,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'FLOW COUPLING' @ 136.42 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 136.42 m -> 447.572 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-03",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 1054.396,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 321.38,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 8: 'NIPPLE' @ 321.38 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 321.38 m -> 1054.396 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-04",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1804.429,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 549.99,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 549.99 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 549.99 m -> 1804.429 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-05",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 4030.643,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1228.54,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 1228.54 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1228.54 m -> 4030.643 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-06",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 6272.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1911.98,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 1911.98 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1911.98 m -> 6272.9 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-07",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 5251.641,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1600.7,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 1600.70 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1600.7 m -> 5251.641 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-08",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 7029.134,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2142.48,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 2142.48 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2142.48 m -> 7029.134 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-09",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 4307.743,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1313.0,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 1313 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1313 m -> 4307.743 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-10",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 6992.848,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2131.42,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'SPM' @ 2131.42 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2131.42 m -> 6992.848 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-11",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 7281.332,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2219.35,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 8: 'SSD' @ 2219.35 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2219.35 m -> 7281.332 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-12",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 7272.408,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2216.63,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 8: 'SSD' @ 2216.63 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2216.63 m -> 7272.408 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-13",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 7302.166,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2225.7,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'PKR' @ 2225.70 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2225.7 m -> 7302.166 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-14",
+      "type": "blast-joint",
+      "name": "BLAST JOINT",
+      "topMd": 7404.068,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2256.76,
+      "bottomMdM": null,
+      "source": "PDF page 8: 'BLAST JOINT' @ 2256.76 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2256.76 m -> 7404.068 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a10-15",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 239.501,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 73.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 8: 'CENTRALIZER' @ 73 (read identically in OCR passes ab; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 73 m -> 239.501 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

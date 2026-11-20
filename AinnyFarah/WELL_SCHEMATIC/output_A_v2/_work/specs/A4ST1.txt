@@ -1,0 +1,101 @@
+WELL | A4ST1 | - | sheet 'OP4 dual A04ST1 STMZ & SAS' | WELL NAME: DULANG A004S01 OP4 — LOCATION / SLOT: DULANG A / 07 — FINAL COMPLETION SCHEMATIC
+FILE | Dulang A04ST1 Well Schematic.xlsx
+SRC | - | sheet 'OP4 dual A04ST1 STMZ & SAS' | native Excel cell values (openpyxl, cached values) and drawing text boxes (xl/drawings/drawing1.xml)
+DATUM | m MDDF (column headers 'DEPTH m-MDDF')
+NOTE | cell B18 | Note: All depths are in meter from RKB to top of equipment. (column headers say m-MDDF; drill floor = RKB reference on this rig)
+INFO | completionDate | 2020-05-05
+INFO | rig | Sapura Berani
+INFO | wellhead | SOLAR ALERT
+INFO | completionFluid | 9.1 PPG NaCl filtered to 30 NTU
+INFO | packerFluid | 9.1 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)
+INFO | maxDeviation | 81.2 deg
+INFO | completionType | FINAL COMPLETION SCHEMATIC — dual string: SHORT STRING (OIL PRODUCER) / LONG STRING (OIL PRODUCER)
+CASING | CONDUCTOR (Existing) 26" DP | 26 |  |  |  | m MDDF (printed 'xx m MDDF')
+CASING | INT. CASING (Existing) 13-3/8" 68 PPF N-80 BTC | 13.375 | 68 | N-80 |  | m MDDF (printed 'xx m MDDF')
+CASING | PRODUCTION CASING 9-5/8" 47 PPF L-80 JFEBEAR | 9.625 | 47 | L-80 | 2572 | MDDF
+CASING | PRODUCTION LINER 7 29 PPF L-80 13Cr JFE BEAR | 7 | 29 | L-80 13Cr | 2591 | MDDF | 2513 | header 'PRODUCTION LINER ... 2513 - 2591 m MDDF' (AB12); diagram ' TOL 2513' (I78/K78)
+TUBING | TUBING 3-1/2" 9.2 PPF L-80 13Cr JFE BEAR (short string) | 3.5 | 9.2 | L-80 13Cr | Short |
+TUBING | TUBING 3-1/2" 9.2 PPF L-80 13Cr JFE BEAR (long string) | 3.5 | 9.2 | L-80 13Cr | Long | 2543 MDDF
+TUBING | 2-7/8" 6.4 PPF L-80 13Cr VAM FJL (long string, 2543 - 3450 m MDDF) | 2.875 | 6.4 | L-80 13Cr | Long | 3450 MDDF
+SHOE | 9-5/8" CSG SHOE | 2572 | MDDF |  | 9-5/8" CSG SHOE 2572 (diagram I86/K86)
+ROW | S | FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80 | 249.211 |  | 2.88 | 3.92 |  |  | F28/K28/D28/B28
+ROW | S | TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80 | 250.97 |  | 2.813 | 5.03 |  |  | F29/K29/D29/B29
+ROW | S | FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80 | 252.3 |  | 2.88 | 3.92 |  |  | F30/K30/D30/B30
+ROW | S | 3-1/2" SPM (GLV : PPO 10/64"  TRO: 675 ) -1st | 616.95 |  | 2.9 | 5.23 |  |  | F33/K33/D33/B33
+ROW | S | 3-1/2" SPM (GLV : PPO 10/64" TRO: 760 ) -2nd | 936.139 |  | 2.9 | 5.23 |  | deviation 42 deg (J40) | F40/K40/D40/B40
+ROW | S | 3-1/2" AUTO SPM DIAL | 1344.363 |  | 2.963 | 5.15 |  |  | F46/K46/D46/B46
+ROW | S | 3-1/2" SPM (GLV  : Dummy) - 3rd | 1351.015 |  | 2.9 | 5.23 |  |  | F48/K48/D48/B48
+ROW | S | 3-1/2" AUTO SPM DIAL | 2453.157 |  | 2.963 | 5.15 |  |  | F53/K53/D53/B53
+ROW | S | 3-1/2" SPM (GLV  : Dummy) - 4th | 2459.787 |  | 2.9 | 5.23 |  |  | F55/K55/D55/B55
+ROW | D | 9-5/8" X 3-1/2" DUAL STRING, OSD-1, FEED THROUGH PACKER | 2481.219 |  | 2.93 | 8.5 |  | dual packer, same depth in both depth columns (K61 / S61); label in the long-string column | U61/K61/S61/Z61/AB61
+ROW | S | LANDING NIPPLE, 2.750 OSN,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 2485.513 |  | 2.64 | 4 |  |  | F65/K65/D65/B65
+ROW | S | PUMP OUT PLUG, PE-635, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 2487.406 |  | 1.485 | 4.545 |  |  | F67/K67/D67/B67
+ROW | S | 3-1/2" PERFORATED PUP | 2487.681 |  | 2.953 | 3.903 |  |  | F68/K68/D68/B68
+ROW | S | 3 -1/2" BULL NOSE | 2488.901 |  | 0 | 3.903 |  | MIN ID printed 0 (closed nose) | F69/K69/D69/B69
+ROW | S | EOT | 2489.104 |  |  |  |  | end of string | F71/K71
+ROW | L | FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80 | 236.537 |  | 2.88 | 3.92 |  |  | U27/S27/Z27/AB27
+ROW | L | TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80 | 238.287 |  | 2.813 | 5.03 |  |  | U28/S28/Z28/AB28
+ROW | L | 3-1/2" FLOW COUPLING | 239.669 |  | 2.88 | 3.92 |  |  | U29/S29/Z29/AB29
+ROW | L | 3-1/2" SPM (GLV  : PPO 10/64" TRO: 660 ) - 1st | 591.39 |  | 2.9 | 5.23 |  |  | U32/S32/Z32/AB32
+ROW | L | 3-1/2" AUTO SPM DIAL | 921.417 |  | 2.963 | 5.15 |  |  | U35/S35/Z35/AB35
+ROW | L | 3-1/2" SPM (GLV : Dummy)-2nd | 927.936 |  | 2.9 | 5.23 |  |  | U37/S37/Z37/AB37
+ROW | L | 3-1/2" AUTO SPM DIAL | 1329.879 |  | 2.963 | 5.15 |  |  | U42/S42/Z42/AB42
+ROW | L | 3-1/2" SPM (GLV : Dummy)-3rd | 1335.724 |  | 2.9 | 5.23 |  |  | U44/S44/Z44/AB44
+ROW | L | 3-1/2" AUTO SPM DIAL | 2438.677 |  | 2.963 | 5.15 |  |  | U50/S50/Z50/AB50
+ROW | L | 3-1/2" SPM (GLV : Dummy)-4th | 2445.268 |  | 2.9 | 5.23 |  |  | U52/S52/Z52/AB52
+ROW | L | SLIDING SLEEVE DOOR, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 2469.254 |  | 2.813 | 4.545 |  |  | U59/S59/Z59/AB59
+ROW | L | 3 -1/2" DIAL SENSOR | 2495.608 |  | 2.813 | 5.15 |  |  | U73/S73/Z73/AB73
+ROW | L | SLIDING SLEEVE DOOR, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 2502.405 |  | 2.813 | 4.545 |  |  | U80/S80/Z80/AB80
+ROW | L | LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 2522.629 |  | 2.813 | 4.04 |  |  | U82/S82/Z82/AB82
+ROW | L | CROSSOVER, 3 1/2-9.2 JFEBEAR BOX x 2 7/8-6.4 VAM FJL PIN, 13CR-L80 | 2529.019 |  | 2.426 | 3.898 |  |  | U88/S88/Z88/AB88
+ROW | L | NO-GO LOCATOR, 2 7/8" VAMFJL BXP, 13CR-L80 | 3065.772 |  | 2.431 | 4.21 |  |  | U93/S93/Z93/AB93
+ROW | L | 2 7/8-6.40 Vam FJL Box x 2 7/8-6.40 VAM TOP Pin SC80, 13-L80 | 3107.288 |  | 2.441 | 2.875 |  | inner string at E34B - BCO (B118) | U118/S118/Z118/AB118
+ROW | L | 3.250" MSA Seal Assembly, 2 7∕8-6.40 VAMTOP BXP, 13CR-L80 | 3107.58 |  | 2.399 | 3.21 |  |  | U119/S119/Z119/AB119
+ROW | L | SELF ALIGN MULESHOE GUIDE,   2 7∕8-6.40 VAMTOP Box , 13CR-L80 | 3108.8 |  | 2.36 | 3.22 |  |  | U120/S120/Z120/AB120
+ROW | L | 2-7/8" SLIMLINE SSD (OPEN) | 3202.343 |  | 2.313 | 3.22 |  |  | U129/S129/Z129/AB129
+ROW | L | BLAST JOINT 2 7/8-6.4 VAMFJL BXP | 3253.788 | 3267.636 | 2.36 | 3.46 |  | '5 jts Blast Joints' between K133 and K137 | U135/K133/K137/Z135/AB135
+ROW | L | CROSSOVER 2 7/8-6.4 VAMFJL BOX X 3 1/2-9.2 JFEBEAR PIN 13Cr-L80 | 3301.752 |  | 2.431 | 3.53 |  |  | U140/S140/Z140/AB140
+ROW | L | 7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 ( | 3308.4 |  | 2.885 | 5.909 |  | label cut in the cell | U142/S142/Z142/AB142
+ROW | L | CROSSOVER 3 1/2-9.2 JFEBEAR BOX x 2 7/8-6.4 VAMFJL PIN 13Cr-L80 | 3316.294 |  | 2.368 | 3.903 |  |  | U144/S144/Z144/AB144
+ROW | L | 2-7/8" SLIMLINE SSD (OPEN) | 3341.64 |  | 2.313 | 3.22 |  |  | U150/S150/Z150/AB150
+ROW | L | BLAST JOINT 2 7/8-6.4 VAMFJL BXP | 3375.595 | 3389.383 | 2.36 | 3.46 |  | '5 jts Blast Joints' between K155 and K159 | U157/K155/K159/Z157/AB157
+ROW | L | CROSSOVER 2 7/8-6.4 VAMFJL BOX X 3 1/2-9.2 JFEBEAR PIN 13Cr-L80 | 3423.57 |  | 2.431 | 3.53 |  |  | U160/S160/Z160/AB160
+ROW | L | CROSSOVER, 3-1/2 9.2# JFEBEAR BOX X VAMTOP PIN, 13CR-L80 | 3430.689 |  | 2.95 | 3.9 |  |  | U162/S162/Z162/AB162
+ROW | L | 7 X 3-1/2 BLUEPACK RH PACKER, 3-1/2 9.2# VAMTOP B X P, 13CR-L80 | 3432.068 |  | 2.881 | 5.999 |  |  | U163/S163/Z163/AB163
+ROW | L | CROSSOVER, 3-1/2 9.2# VAMTOP BOX X JFEBEAR PIN, 13CR-L80 | 3432.068 |  | 2.96 | 3.94 |  | same depth as the packer above as printed | U164/S164/Z164/AB164
+ROW | L | CROSSOVER 3 1/2-9.2 JFEBEAR BOX x 2 7/8-6.4 VAMFJL PIN 13Cr-L80 | 3438.623 |  | 2.368 | 3.903 |  |  | U166/S166/Z166/AB166
+ROW | L | LANDING NIPPLE, 2.313 XN, 2 7/8-6.4 VAM FJL BXP, 13Cr-L80 | 3473.321 |  | 2.205 | 2.906 |  |  | U171/S171/Z171/AB171
+ROW | L | CROSSOVER - 2 7/8-6.4 VAM FJL BOX X 2 7/8-6.4 JFEBEAR PIN, 13CR | 3479.698 |  | 2.441 | 2.875 |  |  | U173/S173/Z173/AB173
+ROW | L | Pump Out Plug + Wireline Entry Guide (25CR - From A33) | 3480.598 |  | 2.36 | 3.22 |  |  | U175/S175/Z175/AB175
+ROW | L | EOT | 3481.035 |  |  |  |  | end of string | U177/S177
+ROW | Lw | VCA Versa Trieve (GP Packer) | 3065.827 |  | 3.88 | 6.015 |  | gravel-pack packer at the top of the E34A lower completion | U96/S96/Z96/AB96
+ROW | Lw | 4" WIRE-WRAP SCREENS, 4 1/2-12.6 JFE BEAR BXP (5.984" OD CENTRALIZER) | 3094.415 | 3107.218 | 3.939 | 5.001 |  | '40ft Screen' between K101 and K105 | U101/K101/K105/Z101/AB101
+ROW | Lw | CROSSOVER, 4 1/2-12.6 JFE BEAR Box x 4 1/2-11.60 API-LC Pin, 13CR-L80 | 3107.218 |  | 3.936 | 5 |  |  | U106/S106/Z106/AB106
+ROW | Lw | SEALBORE EXT,  4 1/2-11.60 API-LC BXP, 13CR-L80 | 3107.782 |  | 3.25 | 5 |  |  | U107/S107/Z107/AB107
+ROW | Lw | NO-GO LOCATOR, 4 1/2-11.60 API-LC Box x 3 1/2-12 UN-2A Pin, 13CR-L80 | 3110.109 |  | 3.05 | 5 |  |  | U108/S108/Z108/AB108
+ROW | Lw | SEAL ASSEMBLY, 3.880", 3 1/2-12 UN-2B Box x 3 1/2-12 UN-2A  Pin, 13CR- | 3110.605 |  | 3.05 | 3.86 |  | label cut in the cell | U109/S109/Z109/AB109
+ROW | Lw | SELF ALIGN MULESHOE GUIDE , 3.880",  3 1/2"- 12 UN Box, 13CR-L80 | 3111.215 |  | 3.05 | 3.86 |  |  | U110/S110/Z110/AB110
+ROW | Lw | VCA Versa Trieve (Sump Packer) | 3110 |  | 3.88 | 6.015 |  | printed 3110, shallower than the seal assembly / muleshoe listed above — kept as printed | U113/S113/Z113/AB113
+ZONE | E34A | 3098 | 3105 | MDDF | E34A 3098m - 3105 m MDDF (7 m); 1372.37 m - 1374.24 m TVD; 1,420 psi | B101/B103 | perf
+ZONE | E40A | 3257 | 3264 | MDDF | E40A 3257m - 3264 m MDDF (7 m); 1415.12 m - 1417 m TVD; 1,650 psi | B133/B135 | perf
+ZONE | E47A | 3380 | 3385 | MDDF | E47A 3380m - 3385 m MDDF (5 m); 1448.24 m - 1449.59 m TVD; 2,100 psi | B155/B157 | perf
+ZONE | E51 (Future BCO) | 3517 | 3526 | MDDF | E51 (Future BCO) 3517m - 3526 m MDDF (9 m); 1485.15 m - 1487.58 m TVD; 2,220 psi — future (behind-casing opportunity), not stated as perforated | B177/B179 | interval
+PBTD | 3550 | MDDF | PBTD 3550 (diagram I187/K187); header PBTD : 3675 m MDDF (G11)
+TD | 3591 | MDDF | TD 3591 (diagram H190/K190); header TD : 3700 m MDDF (G10)
+INT | Bridge Plug @ 3192m MDDF (June 2022) | 3192 | MDDF | drawing text box (xl/drawings/drawing1.xml)
+CEMENT | Cement above the bridge plug (TOC) | 3155 |  | MDDF | TOC @ 3155m MDDF (June 2022) — drawing text box
+NOTE | drawing text box | Leak at Seal Assembly @ 3108m MDDF (June 2022) from WLD. Not isolated
+NOTE | drawing text box | TOC in Annulus unknown (June 2022)
+NOTE | cells B13-B14 | WATER DEPTH : 77 m ; DRILL FLOOR HEIGHT : 33 m-AMSL (drill-floor elevation, not a KB elevation — not mapped)
+NOTE | cells B25/S25 | 3-1/2", 9.2#, HP2-13CR-95, JFE Bear (From Tubing Hanger to TRSV) (both strings); F31 / U30 3-1/2" 9.2 PPF HP2 13Cr95 JFE BEAR ; U62 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80 ; U90 (2-7/8" TUBING, 2 7/8-6.4 VAM FJL BXP, 13CR-L80) ID 2.441 OD 2.875
+NOTE | cells J47 / J54 / J103 / J135 / J157 / J179 / J189 | deviation column values 79.2, 80.7, 74.5, 74.4, 74.4, 74.4, 76 (degree)
+NOTE | cells B104 / B136 / B158 / B180 | unlabelled computed values 6.053, 6.821, 8.483, 8.745 beside the zone boxes (meaning not stated)
+NOTE | cells AD13-AE14 | 'Total jts required' 5018.123 / 419 and 915.049 / 92 (tubing tally helper)
+NOTE | cells B118 / B123 / B144 / B167 | E34B - BCO ; Distance 135m (E40A to E34A) ; Distance 130m ; Distance 132 m
+NOTE | cells U191-Z193 | Designed by: Hidayah / Mahirah (Completion Engineer); Jagaan (Production Technologist); Date: 6th May 2020; Rev: Final
+NOTE | workbook media | embedded pictures image1.emf, image2.png, image3.jpeg, image4.png, image5.svg, image6.png (schematic drawing / logo graphics; no values)
+ISSUE | Conflict | header G10/G11 vs diagram K187/K190 | TD 3700 m MDDF / PBTD 3675 m MDDF (header) vs TD 3591 / PBTD 3550 (diagram) — diagram values used, header values recorded
+ISSUE | Conflict | header AB12 | 7" production liner '2513 - 2591 m MDDF' — shoe 2591 is shallower than the lower completion (to 3481 m MDDF) and TD 3591; probably 3591 — kept as printed
+ISSUE | Unclear | cell B2 | well label 'DULANG A004S01 OP4' — identified as A04ST1 from the workbook file name and sheet name ('OP4 dual A04ST1 ...'); eDafy lists DULANG-A4ST1
+ISSUE | Missing | header P9/P10 | conductor and intermediate casing setting depths printed 'xx m MDDF'
+ISSUE | Unclear | sheet | lower completion (GP packer, screens, sump packer and their accessories) recorded without string; the 2-7/8" long string runs through to EOT 3481.035

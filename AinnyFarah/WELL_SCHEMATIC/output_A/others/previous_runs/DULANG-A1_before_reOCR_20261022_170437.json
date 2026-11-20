@@ -1,0 +1,103 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A1",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a1-01",
+      "type": "scssv",
+      "name": "TRSCSSV",
+      "topMd": 150.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'TRSCSSV' is not literally a template type; nearest 'SCSSV'",
+      "source": "PDF page 1: 'TRSCSSV' @ 150.6 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a1-02",
+      "type": "nipple (x)",
+      "name": "X- NIPPLE",
+      "topMd": 302.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 1: 'X- NIPPLE' @ 302.7 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a1-03",
+      "type": "nipple (x)",
+      "name": "X- NIPPLE",
+      "topMd": 1378.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 1: 'X- NIPPLE' @ 1378.4 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a1-04",
+      "type": "packer",
+      "name": "Packer",
+      "topMd": 1384.1,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 1: 'Packer' @ 1384.1 (read identically in OCR passes ab; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a1-05",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1408.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 1: 'SSD' @ 1408.4 (read identically in OCR passes ac; depth units as printed on the page)"
+    },
+    {
+      "id": "dulang_a1-06",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 1451.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 1: 'SSD' @ 1451.7 (read identically in OCR passes abc; depth units as printed on the page)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

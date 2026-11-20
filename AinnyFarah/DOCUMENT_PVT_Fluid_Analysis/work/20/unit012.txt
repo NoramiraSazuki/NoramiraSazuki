@@ -1,0 +1,19 @@
+EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES
+EXPERIMENTAL | SIMULATED
+COMPONENT | GAS (5250 A) (MOLE %) | OIL (TS 23604) (MOLE %) | K-VALUES | GAS (5250 A) (MOLE %) | OIL (TS 23604) (MOLE %) | K-VALUES
+N2 Nitrogen | 0.13 | 0.094 | 1.383 | 0.274 | 0.003 | 91.333
+CO2 Carbon Dioxide | 49.93 | 0.196 | 254.745 | 48.3 | 3.062 | 15.774
+C1 Methane | 34.8 | 1.168 | 29.795 | 36.78 | 1.128 | 32.606
+C2 Ethane | 5.88 | 0.984 | 5.976 | 6.477 | 0.781 | 8.295
+C3 Propane | 4.71 | 1.301 | 3.62 | 4.648 | 1.467 | 3.168
+iC4 i-Butane | 1.72 | 0.548 | 3.139 | 1.304 | 0.858 | 1.521
+nC4 n-Butane | 1.41 | 0.463 | 3.045 | 0.939 | 0.803 | 1.169
+iC5 i-Pentane | 0.71 | 0.208 | 3.413 | 0.285 | 0.499 | 0.571
+nC5 n-Pentane | 0.5 | 0.13 | 3.846 | 0.166 | 0.358 | 0.463
+C6 Hexanes | 0.21 | 4.823 | 0.044 | 0.813 | 4.267 | 0.191
+C7+ Heptanes Plus | 0 | 90.085 | 0.014 | 86.775 | 0
+TOTAL | 99.99999999999997 | 100 | 100 | 100.001
+Separator conditions
+Pressure | 101 psi
+Temperature | 173.3 F
+--- OCR ---

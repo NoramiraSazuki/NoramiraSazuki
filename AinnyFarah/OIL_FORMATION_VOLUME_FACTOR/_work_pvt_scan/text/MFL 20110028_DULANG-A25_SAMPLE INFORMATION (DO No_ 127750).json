@@ -1,0 +1,647 @@
+[
+{
+"where": "sheet 'Sample Info' cell A2",
+"how": "cell text",
+"text": "CORE LABORATORIES MALAYSIA SDN BHD\nPROCESS CONTROL"
+},
+{
+"where": "sheet 'Sample Info' cell A5",
+"how": "cell text",
+"text": "Revision: 003"
+},
+{
+"where": "sheet 'Sample Info' cell F5",
+"how": "cell text",
+"text": "Date: 22 January 2007"
+},
+{
+"where": "sheet 'Sample Info' cell L5",
+"how": "cell text",
+"text": "Authorisation: Fadli Ramli"
+},
+{
+"where": "sheet 'Sample Info' cell A7",
+"how": "cell text",
+"text": "Form: Sample Information"
+},
+{
+"where": "sheet 'Sample Info' cell C9",
+"how": "cell text",
+"text": "Company :"
+},
+{
+"where": "sheet 'Sample Info' cell D9",
+"how": "cell text",
+"text": "Petronas Carigali Sdn Bhd (PCSB)"
+},
+{
+"where": "sheet 'Sample Info' cell K9",
+"how": "cell text",
+"text": "Date Received :"
+},
+{
+"where": "sheet 'Sample Info' cell C10",
+"how": "cell text",
+"text": "Well :"
+},
+{
+"where": "sheet 'Sample Info' cell D10",
+"how": "cell text",
+"text": "Dulang A25, B14S & D26S"
+},
+{
+"where": "sheet 'Sample Info' cell K10",
+"how": "cell text",
+"text": "Received By :"
+},
+{
+"where": "sheet 'Sample Info' cell L10",
+"how": "cell text",
+"text": "Azman"
+},
+{
+"where": "sheet 'Sample Info' cell C11",
+"how": "cell text",
+"text": "Field :"
+},
+{
+"where": "sheet 'Sample Info' cell D11",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Sample Info' cell K11",
+"how": "cell text",
+"text": "Airway Bil No :"
+},
+{
+"where": "sheet 'Sample Info' cell L11",
+"how": "cell text",
+"text": "DO. No: 127750"
+},
+{
+"where": "sheet 'Sample Info' cell C12",
+"how": "cell text",
+"text": "Rig :"
+},
+{
+"where": "sheet 'Sample Info' cell D12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Sample Info' cell K12",
+"how": "cell text",
+"text": "Job Number :"
+},
+{
+"where": "sheet 'Sample Info' cell A14",
+"how": "cell text",
+"text": "Sample"
+},
+{
+"where": "sheet 'Sample Info' cell D14",
+"how": "cell text",
+"text": "Cylinder / Bottle"
+},
+{
+"where": "sheet 'Sample Info' cell I14",
+"how": "cell text",
+"text": "Separator"
+},
+{
+"where": "sheet 'Sample Info' cell K14",
+"how": "cell text",
+"text": "Depth"
+},
+{
+"where": "sheet 'Sample Info' cell A15",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell B15",
+"how": "cell text",
+"text": "vol (cc)"
+},
+{
+"where": "sheet 'Sample Info' cell C15",
+"how": "cell text",
+"text": "type"
+},
+{
+"where": "sheet 'Sample Info' cell D15",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell E15",
+"how": "cell text",
+"text": "type"
+},
+{
+"where": "sheet 'Sample Info' cell F15",
+"how": "cell text",
+"text": "cover"
+},
+{
+"where": "sheet 'Sample Info' cell G15",
+"how": "cell text",
+"text": "plug"
+},
+{
+"where": "sheet 'Sample Info' cell H15",
+"how": "cell text",
+"text": "capacity"
+},
+{
+"where": "sheet 'Sample Info' cell I15",
+"how": "cell text",
+"text": "P (psig)"
+},
+{
+"where": "sheet 'Sample Info' cell J15",
+"how": "cell text",
+"text": "T ( deg F)"
+},
+{
+"where": "sheet 'Sample Info' cell K15",
+"how": "cell text",
+"text": "(m MD)"
+},
+{
+"where": "sheet 'Sample Info' cell L15",
+"how": "cell text",
+"text": "Remarks"
+},
+{
+"where": "sheet 'Sample Info' cell A16",
+"how": "cell text",
+"text": "A 25.01"
+},
+{
+"where": "sheet 'Sample Info' cell C16",
+"how": "cell text",
+"text": "SEP. OIL"
+},
+{
+"where": "sheet 'Sample Info' cell E16",
+"how": "cell text",
+"text": "PROSERV"
+},
+{
+"where": "sheet 'Sample Info' cell F16",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G16",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell H16",
+"how": "cell text",
+"text": "600cc"
+},
+{
+"where": "sheet 'Sample Info' cell K16",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L16",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L17",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 13:30 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A19",
+"how": "cell text",
+"text": "A 25.02"
+},
+{
+"where": "sheet 'Sample Info' cell B19",
+"how": "cell text",
+"text": "20L"
+},
+{
+"where": "sheet 'Sample Info' cell C19",
+"how": "cell text",
+"text": "SEP. GAS"
+},
+{
+"where": "sheet 'Sample Info' cell E19",
+"how": "cell text",
+"text": "LUXFER"
+},
+{
+"where": "sheet 'Sample Info' cell F19",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G19",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell H19",
+"how": "cell text",
+"text": "20L"
+},
+{
+"where": "sheet 'Sample Info' cell K19",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L19",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L20",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 13:30 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A22",
+"how": "cell text",
+"text": "A 25.03"
+},
+{
+"where": "sheet 'Sample Info' cell C22",
+"how": "cell text",
+"text": "SEP. OIL"
+},
+{
+"where": "sheet 'Sample Info' cell E22",
+"how": "cell text",
+"text": "PROSERV"
+},
+{
+"where": "sheet 'Sample Info' cell F22",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G22",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell H22",
+"how": "cell text",
+"text": "600cc"
+},
+{
+"where": "sheet 'Sample Info' cell K22",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L22",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L23",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 14:30 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A25",
+"how": "cell text",
+"text": "A 25.04"
+},
+{
+"where": "sheet 'Sample Info' cell B25",
+"how": "cell text",
+"text": "20L"
+},
+{
+"where": "sheet 'Sample Info' cell C25",
+"how": "cell text",
+"text": "SEP. GAS"
+},
+{
+"where": "sheet 'Sample Info' cell E25",
+"how": "cell text",
+"text": "LUXFER"
+},
+{
+"where": "sheet 'Sample Info' cell F25",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G25",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell H25",
+"how": "cell text",
+"text": "20L"
+},
+{
+"where": "sheet 'Sample Info' cell K25",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L25",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L26",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 14:30 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A28",
+"how": "cell text",
+"text": "A 25.05"
+},
+{
+"where": "sheet 'Sample Info' cell B28",
+"how": "cell text",
+"text": "1 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell C28",
+"how": "cell text",
+"text": "SEP.WATER"
+},
+{
+"where": "sheet 'Sample Info' cell D28",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell E28",
+"how": "cell text",
+"text": "Can"
+},
+{
+"where": "sheet 'Sample Info' cell F28",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G28",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell H28",
+"how": "cell text",
+"text": "1 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell I28",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell J28",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell K28",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L28",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L29",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 14:55 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A31",
+"how": "cell text",
+"text": "A 25.06"
+},
+{
+"where": "sheet 'Sample Info' cell B31",
+"how": "cell text",
+"text": "1 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell C31",
+"how": "cell text",
+"text": "SEP.WATER"
+},
+{
+"where": "sheet 'Sample Info' cell D31",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell E31",
+"how": "cell text",
+"text": "Can"
+},
+{
+"where": "sheet 'Sample Info' cell F31",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G31",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell H31",
+"how": "cell text",
+"text": "1 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell I31",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell J31",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell K31",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L31",
+"how": "cell text",
+"text": "Well: DL-A25"
+},
+{
+"where": "sheet 'Sample Info' cell L32",
+"how": "cell text",
+"text": "Date/ Time: 14-02-2011/ 14:55 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A34",
+"how": "cell text",
+"text": "B 14.01"
+},
+{
+"where": "sheet 'Sample Info' cell B34",
+"how": "cell text",
+"text": "52 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell C34",
+"how": "cell text",
+"text": "STOCK TANK"
+},
+{
+"where": "sheet 'Sample Info' cell D34",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell E34",
+"how": "cell text",
+"text": "Drum"
+},
+{
+"where": "sheet 'Sample Info' cell F34",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G34",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell H34",
+"how": "cell text",
+"text": "55 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell I34",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell J34",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell K34",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L34",
+"how": "cell text",
+"text": "Well: DL- B14"
+},
+{
+"where": "sheet 'Sample Info' cell C35",
+"how": "cell text",
+"text": "OIL "
+},
+{
+"where": "sheet 'Sample Info' cell L35",
+"how": "cell text",
+"text": "Date/ Time: 10-02-2011/ 21:00 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell A37",
+"how": "cell text",
+"text": "D 26S.01"
+},
+{
+"where": "sheet 'Sample Info' cell B37",
+"how": "cell text",
+"text": "52 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell C37",
+"how": "cell text",
+"text": "STOCK TANK"
+},
+{
+"where": "sheet 'Sample Info' cell D37",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell E37",
+"how": "cell text",
+"text": "Drum"
+},
+{
+"where": "sheet 'Sample Info' cell F37",
+"how": "cell text",
+"text": "Yes"
+},
+{
+"where": "sheet 'Sample Info' cell G37",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell H37",
+"how": "cell text",
+"text": "55 Gallon"
+},
+{
+"where": "sheet 'Sample Info' cell I37",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell J37",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell K37",
+"how": "cell text",
+"text": "n/a"
+},
+{
+"where": "sheet 'Sample Info' cell L37",
+"how": "cell text",
+"text": "Well: DL-D26S"
+},
+{
+"where": "sheet 'Sample Info' cell C38",
+"how": "cell text",
+"text": "OIL "
+},
+{
+"where": "sheet 'Sample Info' cell L38",
+"how": "cell text",
+"text": "Date/ Time: 15-02-2011/ 13:00 hrs"
+},
+{
+"where": "text box on 'Sample Info'",
+"how": "text box",
+"text": "Detach & Save"
+},
+{
+"where": "embedded picture 1 (img)",
+"how": "OCR",
+"text": "Core Lab\n\nRESERVOIR OPTIMIZATION\n\n"
+}
+]

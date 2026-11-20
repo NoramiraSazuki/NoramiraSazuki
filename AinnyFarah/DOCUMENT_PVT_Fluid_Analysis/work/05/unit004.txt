@@ -1,0 +1,32 @@
+Page | 7 of 44
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+BUBBLE POINT PRESSURE DETERMINATION AT 117°F
+Separator liquid sample (cylinder 2387/8)
+Pressure (psig) | Pump reading (cm3)
+6000 | 306.63
+5000 | 305.82
+4000 | 305.04
+3000 | 304.18
+2000 | 303.3
+1000 | 302.4
+500 | 301.89
+171 | 301.47
+Pb= | 170 | 301.37
+166 | 300.74
+163 | 290.12
+161 | 297.03
+153 | 294.83
+139 | 289.84
+FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+GOR | 60 | std cu ft/bbl
+Shrinkage factor | 0.97 | Std bbl/bbl
+Liberated gas gravity | 0 | (Air = 1)
+Stock tank oil gravity | 0.844 | 60/60 °F
+*This sample has been used for physical recombination
+--- OCR ---

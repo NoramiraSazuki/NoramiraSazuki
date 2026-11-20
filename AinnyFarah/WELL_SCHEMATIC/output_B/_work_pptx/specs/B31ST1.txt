@@ -1,0 +1,46 @@
+WELL | B31ST1 | 31 | image31.png | WELL NAME: B31 ST-1 (LOCATION / SLOT: DULANG B PLATFORM /SLOT 14)
+SRC | 31 | image31.png | visual transcription of a low-resolution picture (728x817 px, x3 upscale), OCR cross-check — many digits uncertain
+DATUM | m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')
+INFO | completionDate | 24-Jun-22
+INFO | rig | Sapura T9 (TADR)
+INFO | maxDeviation | ?61.0 deg
+INFO | wellhead | Solar Alert
+INFO | xmas | ?Solar Alert 5-1/8" 5K U/FF Trim
+INFO | completionFluid | 8.33 ppg DW + 3% KCl filtered to 30 NTU
+INFO | packerFluid | 8.33 ppg DW + 3% KCl + 0.2% Biocide + 2% Oxygen Scavenger + 2% Corrosion Inhibitor
+INFO | tubing | PRODUCTION TUBING 5-1/2 26 ppf SM22Cr-125 VAM21 ?1672.00 m-MDDF
+INFO | completionType | FINAL WELL COMPLETION SCHEMATIC (WATER INJECTOR) — Rev: Final, Date ?1-Jul-22
+CASINGX | INTERMEDIATE CASING 13-3/8 54.5 ppf K-55 BTC | 13.375 | ?12.615 | 54.5 | K-55 | ?530.00 | MDDF
+CASINGX | PRODUCTION CASING 9-5/8 47.0 ppf L80 JFE BEAR | 9.625 | 8.681 | 47.0 | L80 | ?1350.00 | MDDF
+CASINGX | PRODUCTION CASING 9-5/8 47.0 ppf 13CR-80 JFE BEAR (9-5/8" 47# 13CR-80 JFE BEAR CSG SHOE) | 9.625 | 8.681 | 47.0 | 13CR-80 | ?1735.00 | MDDF
+TUBINGX | PRODUCTION TUBING 5-1/2 26 ppf SM22Cr-125 VAM21 | 5.500 | ?4.548 | 26 | SM22Cr-125 | - | ?1672.00 MDDF
+ROW | X | TUBING HANGER, 13-5/8" x 6.375"-4SA-2G LH x 5-1/2" 26# VAM21, w/5" HBPV PROFILE |  |  |  |  |  | no depth / ID / OD legible | right table
+ROW | X | FLOW COUPLING, 4-1/2" 25CR JFEBEAR | ?217 |  | ?3.845 | ?5.090 |  | one depth for the FC / SSSV / FC group (TVDDF ?215, INC ?14.44) | right table
+ROW | X | 4-1/2 SSSV, SELF-EQ, 25CR JFE BEAR |  |  | ?3.813 | ?6.920 |  | no own depth | right table
+ROW | X | FLOW COUPLING |  |  | ?3.845 | ?5.090 |  | no own depth | right table
+ROW | X | SSD, 3.813" X-PROFILE, 4-1/2" 25CR JFEBEAR | ?1544 |  | ?3.813 | ?5.613 |  | TVDDF ?1221 | right table
+ROW | X | 9-5/8" X 4-1/2" PRODUCTION PACKER, 25CR, JFE BEAR, V0 RATED HYDRAULIC SET, CUT-TO-RELEASE | ?1563 |  | ?3.900 | ?8.500 |  | TVDDF ?1237 | right table
+ROW | X | SSD, 4-1/2" 25CR JFEBEAR | ?1566 |  | ?3.813 | ?5.613 |  | TVDDF ?1239 | right table
+ROW | X | PREMIUM PORT, 4-1/2" 25CR JFEBEAR | ?1582 |  | ?3.900 | ?6.125 | Position #1 No of ICD: 5; Position #2 No of ICS: 3 | injection port (ICD) sub | right table
+ROW | X | 9-5/8" X 4-1/2" BLUEPACK RH PACKER, 25CR, JFE BEAR, V3 RATED HYDRAULIC SET, PULL-TO-RELEASE | ?1601 |  | ?3.900 | ?8.500 |  | TVDDF ?1269 | right table
+ROW | X | PREMIUM PORT, 4-1/2" 25CR JFEBEAR | ?1621 |  | ?3.900 | ?6.125 | Position #1 No of ICD: 2; Position #2 No of ICD: 8 |  | right table
+ROW | X | SSD, 3.813" X-PROFILE, 4-1/2" 25CR JFEBEAR | ?1628 |  | ?3.813 | ?5.613 |  |  | right table
+ROW | X | 9-5/8" X 4-1/2" PRODUCTION PACKER, 25CR, JFE BEAR, V0 RATED HYDRAULIC SET, CUT-TO-RELEASE | ?1646 |  | ?3.900 | ?8.500 |  |  | right table
+ROW | X | SSD, 3.813" X-PROFILE, 4-1/2" 25CR JFEBEAR | ?1649 |  | ?3.813 | ?5.613 |  |  | right table
+ROW | X | PREMIUM PORT, 4-1/2" 25CR JFEBEAR | ?1652 |  | ?3.900 | ?6.125 | Position #1 No of ICD: 12; Position #2 No of ICD: 6 |  | right table
+ROW | X | LANDING NIPPLE, 3.725" NO GO, 4-1/2" 25CR JFEBEAR |  |  | ?3.725 | ?5.060 |  | no own depth (group depth 1672 printed on the bull-plug line) | right table
+ROW | X | SELF-FILLING SUB, 4-1/2", 25CR JFE BEAR |  |  |  |  |  | no own depth | right table
+ROW | X | BULL PLUG, 4-1/2", 25CR JFE BEAR | ?1672 |  |  |  |  | end of the string; matches PRODUCTION TUBING depth 1672.00 | right table
+ROW | Lw | TOP OF BRIDGE PLUG | ?1688 |  |  |  |  | left table (TVDDF ?1347) | left table
+ROW | Lw | CEMENT RETAINER | ?1690 |  |  |  |  | left table (TVDDF ?1349) | left table
+ZONE | E6 / E7 | ?1570.02 | ?1574.5 | MDDF | E6 / E7 SAND Top Perf: 1570.02 m-MDDF / 1243.6 m-TVDDF; Bottom Perf: 1574.5 m-MDDF / 1247 m-TVDDF (Perf Length: 4.5 m) (low legibility) | left table | perf
+ZONE | E6 / E7 | ?1581 | ?1585 | MDDF | Top Perf: 1581 m-MDDF / 1253 m-TVDDF; Bottom Perf: 1585 m-MDDF / 1257 m-TVDDF (Perf Length: 4 m) | left table | perf
+ZONE | E31 / E32 | ?1608.5 | ?1612.5 | MDDF | E31 / E32 SAND Top Perf: 1608.5 m-MDDF / 1276.65 m-TVDDF; Bottom Perf: 1612.5 m-MDDF / 1280.1 m-TVDDF (Perf Length: 4 m) | left table | perf
+ZONE | E31 / E32 | ?1623 | ?1633.5 | MDDF | Top Perf: 1623 m-MDDF / 1289 m-TVDDF; Bottom Perf: 1633.5 m-MDDF / 1298 m-TVDDF (Perf Length: 10.5 m) | left table | perf
+ZONE | E34 | ?1658 | ?1663 | MDDF | E34 SAND Top Perf: 1658 m-MDDF / 1319 m-TVDDF; Bottom Perf: 1663 m-MDDF / 1323.3 m-TVDDF (Perf Length: 5 m) | left table | perf
+PBTD | ?1696 | MDDF | PBTD ?1696 (left table; header PBTD : ?1696 m-MDDF)
+TD | ?1735 | MDDF | TOTAL DEPTH : ?1735 m-MDDF
+NOTE | left table | 13-3/8" CSG SIDETRACK WINDOW ?531 m-MDDF / ?507 m-TVDDF; 9-5/8" 47# L80 JFE BEAR RS CSG ?1351 m-MDDF; 9-5/8" CASING PIP TAG ?1489 m-MDDF; sand tops/bottoms and BHP/BHT per zone (E6/E7 1000 psi 198.5 F; E31/E32 1090 psi 203.9 F; E34 1580 psi 206.7 F); 'Rathole (E34 bottom perf to PBTD): 25 m MDDF'; tubing rows '5-1/2" 26PPF 22CR-P110 VAM21 RS TUBING' and '5-1/2" 26PPF SM22CR-125 VAM21 RS TUBING' (4.548 / 5.500); WATER DEPTH ?76.0 m; DFE 37.1 m-AMSL; DFE-THF ?15.3 m; Designed by: Diana Madi, Daeng Dhamiry, Mohd Hisham
+NOTE | slide 31 | 'FOR B31 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS - PRAVIN NAIR 2023-'
+ISSUE | Unclear | picture | very low-resolution picture: most depths and diameters are uncertain reads (marked '?', flagged estimated); the Excel original in ECMS (named on the slide) should be used to confirm — reported as partly unreadable content
+ISSUE | Unclear | picture | header shows 4-1/2" completion equipment while the tubing table lists 5-1/2" 26 ppf tubing — both recorded as printed

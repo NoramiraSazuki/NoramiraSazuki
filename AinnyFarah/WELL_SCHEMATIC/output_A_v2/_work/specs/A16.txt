@@ -1,0 +1,69 @@
+WELL | A16 | 13 | image28.png + image29.png | WELL A-16: DUAL OIL PRODUCER WITH SHORT STRING SELECTIVE (TYPE 8)
+SRC | 13 | image28.png + image29.png | visual transcription of the screenshot pictures (x3 upscale, upper part image28 / lower part image29)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 17 JANUARY 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, DUAL, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 60.12 DEG
+INFO | rte | 14.520 m
+INFO | completionType | DUAL OIL PRODUCER WITH SHORT STRING SELECTIVE (TYPE 8)
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ m MDDF | 18.625 | 87.5 | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ mMDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ 1866 mMDDF | 9.625 | 40 | N-80 | 1866 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (short string) | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (long string) | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 133.1 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 133.9 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 280.7 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 653.2 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1095.1 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1440.5 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1670.9 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1786.3 |  | 2.371 |  |  |  | p1
+ROW | S | WPB-2DE SSD | 1796.4 |  | 2.312 |  | CLOSED |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 1814.3 |  |  |  |  | dual packer across both strings | p1
+ROW | S | TELESCOPIC JOINT |  |  |  |  |  | depth not printed | p1
+ROW | S | 'WPB-2DE' SSD | 1826.6 |  | 2.312 |  | CLOSED 23/9/94; ?Closed (June 2013) | later status from slide text box obj #15 matched by position | p1
+ROW | S | WP-1 NIPPLE | 1879.9 |  | 2.312 |  |  |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 1896.5 |  | 2.441 |  |  | dual packer across both strings | p2
+ROW | S | 'D' NO-GO NIPPLE | 1899.5 |  | 2.250 |  |  |  | p2
+ROW | S | W/L ENTRY GUIDE | 1899.8 |  | 2.441 |  |  | end of string | p2
+ROW | L | FLOW COUPLING | 142.3 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 143.2 |  | 2.312 |  | Set WRDP-1A 2.31 Insert valve 11 March 2005 | status printed in small text (low legibility) | p1
+ROW | L | WP-1 NIPPLE | 289.4 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 662.3 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1084.9 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1430.4 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1661.3 |  | 2.371 |  | GLOV 8/64" |  | p1
+ROW | L | KBMG-M SPM | 1716.7 |  | 2.371 |  | Recovered BK-2 A-16L | status printed in small text (low legibility) | p1
+ROW | L | WPB-2DE SSD | 1806.1 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 1826.7 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | BLAST JOINT | 1830.5 | 1839.5 | 2.441 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 1888.9 |  | 2.312 |  |  |  | p1
+ROW | L | 'WPB-2DE' SSD | 1903.8 |  | 2.312 |  | CLOSED |  | p2
+ROW | L | BLAST JOINT |  |  | 2.441 |  |  | depths not printed | p2
+ROW | L | WP-1 NIPPLE | 1924.7 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 1925.3 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1926.5 |  | 2.441 |  |  |  | p2
+ROW | L | GUIB MAGNUM 'HT' PERM. PKR |  |  | 4.000 |  |  | label in the short-string columns; depth not printed | p2
+ROW | L | SEAL BORE EXT. |  |  | 4.000 |  |  | depth not printed | p2
+ROW | L | 'D' NO-GO NIPPLE | 1931.9 |  | 2.250 |  |  |  | p2
+ROW | L | WEG | 1932.2 |  | 2.441 |  |  | end of string | p2
+ZONE | LD1 | 1832.5 | 1836.5 | MDTHF | slide text box obj #9 'LD1 1832.5 - 1836.5' beside SAND : LOWER D-1 (no unit/datum printed) | slide obj #9 | perf
+ZONE | E2 | 1911 | 1914.5 | MDTHF | slide text box obj #10 'E2 1911 -1914.5' beside SAND : E-2 (no unit/datum printed) | slide obj #10 | perf
+ZONE | E2 | 1916 | 1918.5 | MDTHF | slide text box obj #10 '1916 – 1918.5' | slide obj #10 | perf
+ZONE | E2 | 1921.5 | 1924.5 | MDTHF | slide text box obj #10 '1921.5 – 1924.5' | slide obj #10 | perf
+ZONE | E6/7 | 1939.5 | 1948 | MDTHF | slide text box obj #2 'E6/7 1939.5 – 1948' beside SAND : E-6/7 (no unit/datum printed) | slide obj #2 | perf
+TD | 2032.5 | MDTHF | TD @ 2032.5 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p2 | SAND : E-2 LOWER THP + SAND (diagram note)
+NOTE | slide 13 obj #12 / #13 | 'close' beside E-2, 'open' beside E-6/7 (zone status boxes)
+NOTE | slide 13 obj #7 | 2.29" drift & 2.25" LIB HUD @ 1907m MDTHF Sep 2017 (Scale impression)
+NOTE | slide 13 obj #16 | Latest Update: Dec 2023 by Pravin Nair
+ISSUE | Missing | header | conductor / surface casing setting depths and PBTD blank on the schematic
+ISSUE | Missing | picture p1/p2 | depth not printed for the short-string TELESCOPIC JOINT, the lower long-string BLAST JOINT, the 'HT' PERM. PKR and the SEAL BORE EXT.
+ISSUE | Unclear | slide 13 | zone intervals printed without unit/datum in slide text boxes; read as m MDTHF like the depth columns
+ISSUE | Unclear | header / diagram | 9 5/8" production shoe 1866 m MDDF (header) is shallower than the completion (to 1932.2 m MDTHF) and TD 2032.5 m MDTHF — header value kept as printed

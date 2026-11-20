@@ -1,0 +1,45 @@
+15
+Compositional Analysis of Separator Gas to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 03 Aug 2010
+CO2 | Carbon Dioxide | 62.01199999999997 | 79.687 | Sampling Time | 0001hrs
+N2 | Nitrogen | 0.604 | 0.494 | Sampling Location | Dulang A-14
+C1 | Methane | 34.402 | 16.115 | Sample Description | Separator Gas
+C2 | Ethane | 1.637 | 1.437 | Cylinder Number | 4186.0
+C3 | Propane | 0.675 | 0.87 | Sampling Conditions | 176.3psig @ 39.0°F
+iC4 | i-Butane | 0.199 | 0.337
+nC4 | n-Butane | 0.15 | 0.254 | Additional Sample Information
+C5 | Neo-Pentane | 0.001 | 0.002 | Opening Pressure | 167.0 | psig
+iC5 | i-Pentane | 0.073 | 0.153 | Opening Temperature | 77.9 | °F
+nC5 | n-Pentane | 0.048 | 0.1 | Total Air Content | 0.061 | Mole%
+C6 | Hexanes | 0.063 | 0.157 | Our Lab Identification | 18137.0
+M-C-Pentane | 0.013 | 0.032
+Benzene | 0.013 | 0.031 | Notes
+Cyclohexane | 0.012 | 0.029 | 0.00 means less than 0.005
+C7 | Heptanes | 0.02899999999999999 | 0.08200000000000002
+M-C-Hexane | 0.019 | 0.054 | See Appendix 1 for Component Properties
+Toluene | 0.017 | 0.045
+C8 | Octanes | 0.012999999999999998 | 0.045
+E-Benzene | 0.0 | 0.001
+M/P-Xylene | 0.006 | 0.018
+O-Xylene | 0.001 | 0.003
+C9 | Nonanes | 0.007 | 0.025
+C10 | Decanes | 0.003 | 0.012
+C11 | Undecanes | 0.002 | 0.007
+C12+ | Dodecanes Plus | 0.001 | 0.01
+Totals | 100.0 | 100.00000000000001
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.136 | 0.3940000000000001 | 99.1068316872308 | 0.7697046292730495
+C8+ | Octanes plus | 0.069 | 0.22 | 108.23295799261575 | 0.7820336270526616
+C10+ | Decanes plus | 0.006 | 0.028999999999999998 | 147.52195652107773 | 0.7902025291766308
+C12+ | Dodecanes plus | 0.001 | 0.01 | 169.86078868748896 | 0.8072864272713601
+Calculated Whole Gas Properties
+Real Relative Density | 1.1877 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 34.25 | g.mol-1
+Gas Density | 1.4548 | kg.m-3 @ 15°C
+Calorific Value | 15.74 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 14.22 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+Gas Compressibility Factor | 0.9329 | @ 176.3psig, 39°F by Drachuk & Abu-Kassem Method (1975)
+--- OCR ---

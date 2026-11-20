@@ -1,0 +1,45 @@
+15
+Compositional Analysis of Separator Gas to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 02 Aug 2010
+CO2 | Carbon Dioxide | 62.21699999999994 | 79.72099999999998 | Sampling Time | 1801hrs
+N2 | Nitrogen | 0.607 | 0.495 | Sampling Location | Dulang A-14
+C1 | Methane | 34.165 | 15.959 | Sample Description | Separator Gas
+C2 | Ethane | 1.648 | 1.442 | Cylinder Number | 4179.0
+C3 | Propane | 0.673 | 0.864 | Sampling Conditions | 178.3 psig @ 38.0°F
+iC4 | i-Butane | 0.202 | 0.342
+nC4 | n-Butane | 0.153 | 0.258 | Additional Sample Information
+C5 | Neo-Pentane | 0.001 | 0.002 | Opening Pressure | 167.0 | psig
+iC5 | i-Pentane | 0.068 | 0.143 | Opening Temperature | 77.9 | °F
+nC5 | n-Pentane | 0.045 | 0.094 | Total Air Content | 0.005 | Mole%
+C6 | Hexanes | 0.052000000000000005 | 0.127 | Our Lab Identification | 18136.0
+M-C-Pentane | 0.01 | 0.023
+Benzene | 0.009 | 0.022 | Notes
+Cyclohexane | 0.008 | 0.021 | 0.00 means less than 0.005
+C7 | Heptanes | 0.021000000000000008 | 0.063
+M-C-Hexane | 0.014 | 0.041 | See Appendix 1 for Component Properties
+Toluene | 0.014 | 0.036
+C8 | Octanes | 0.016999999999999998 | 0.05700000000000001
+E-Benzene | 0.001 | 0.003
+M/P-Xylene | 0.016 | 0.05
+O-Xylene | 0.003 | 0.01
+C9 | Nonanes | 0.015 | 0.058
+C10 | Decanes | 0.024 | 0.095
+C11 | Undecanes | 0.012 | 0.052
+C12+ | Dodecanes Plus | 0.005 | 0.022000000000000002
+Totals | 99.99999999999996 | 99.99999999999999
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.169 | 0.553 | 110.92667949116095 | 0.7744708938648568
+C8+ | Octanes plus | 0.12100000000000001 | 0.424 | 119.44606766857271 | 0.7815014228990815
+C10+ | Decanes plus | 0.04100000000000001 | 0.16899999999999998 | 141.3096954571789 | 0.7845820353280236
+C12+ | Dodecanes plus | 0.005 | 0.022000000000000002 | 164.30380440130975 | 0.8027573990861717
+Calculated Whole Gas Properties
+Real Relative Density | 1.1912 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 34.35 | g.mol-1
+Gas Density | 1.4592 | kg.m-3 @ 15°C
+Calorific Value | 15.75 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 14.24 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+Gas Compressibility Factor | 0.9314 | @ 178.3psig, 38°F by Drachuk & Abu-Kassem Method (1975)
+--- OCR ---

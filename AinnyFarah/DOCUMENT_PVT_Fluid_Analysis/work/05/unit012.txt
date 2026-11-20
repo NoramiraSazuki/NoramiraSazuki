@@ -1,0 +1,32 @@
+Page | 25 of 44
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)
+CYLINDER | 5034
+COMPONENT | MOL %
+H2S Hydrogen Sulphide | Traces
+CO2 Carbon Dioxide | 23.12
+N2 Nitrogen | 0.21
+C1 Methane | 61.42
+C2 Ethane | 5.59
+C3 Propane | 6.16
+iC4 i-Butane | 0.98
+nC4 n-Butane | 0.74
+iC5 i-Pentane | 0.34
+nC5 n-Pentane | 0.25
+C6 Hexanes | 0.45
+C7+ Heptanes Plus | 0.74
+Total | 100
+Molecular Weight | 27.074
+Gas gravity (air=1) | 0.934
+Molecular Weight of Heptanes Plus | 104.8
+Opening pressure | 190 | psig
+Temperature | 47 | °C
+Water content | NIL
+*This sample has been used for recombination
+--- OCR ---

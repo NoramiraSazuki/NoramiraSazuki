@@ -1,0 +1,29 @@
+Page | 13 of 17
+Report Date | 1982-12-22 00:00:00
+Report No | SFL 82142
+Well | DULANG 6G-7-1 PVT DST4-2
+Sample Date | 1982-07-05 00:00:00
+Lab Receive Date
+Lab | CORE LABORATORIES
+Company | PETRONAS CARIGALI
+SINGLE-STAGE SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE
+Separator Pressure PSIG | Temp °F | Gas/Oil Ratio (1) | Gas/Oil Ratio (2) | Tank Oil Gravity °API @ 60°F | Formation Volume | Separator Volume | Gas Gravity
+Factor(3) | Factor(4)
+200 | 100 | 355 | 374 | 1.055 | 1.281*
+to
+0 | 100 | 87 | 89 | 38.9 | 1.261 | 1.019 | 1.424
+150 | 100 | 379 | 396 | 1.046 | 1.286*
+to
+0 | 100 | 66 | 67 | 38.9 | 1.261 | 1.019 | 1.427
+100 | 100 | 404 | 419 | 1.036 | 1.291*
+to
+0 | 100 | 43 | 44 | 38.9 | 1.261 | 1.019 | 1.427
+50 | 100 | 433 | 444 | 1.026 | 1.298*
+to
+0 | 100 | 21 | 21 | 38.9 | 1.262 | 1.019 | 1.422
+*These gases were collected and analysed by chromatography
+1) Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature
+2) Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F
+3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F
+4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+--- OCR ---

@@ -1,0 +1,32 @@
+TABLE 33
+SEPARATOR LIQUID SAMPLE - CYLINDER NO- 1116/509
+SEPARATOR GAS SAMPLE CYLINDER NO- A 4343
+FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+MOLECULAR COMPOSITION
+COMPONENT | STOCK TANK LIQUID | EVOLVED GAS | RECOMBINED SEPARATOR LIQUID
+(MOL %) | (MOL %) | (MOL %)
+N2 Nitrogen | 0. 00 | 0 | 0
+CO2 Carbon Dioxide | 0 | 78.31 | 9.93
+H2S Hydrogen Sulphide | 0 | Traces | Traces
+C1 Methane | 0. 00 | 4.72 | 0.6
+C2 Ethane | 0. 00 | 4.61 | 0.58
+C3 Propane | 0.04 | 4.86 | 0.65
+iC4 i-Butane | 0.08 | 2.16 | 0.34
+nC4 n-Butane | 0.15 | 1.82 | 0.36
+C5 Neo-Pentane | 0.29 | 0.89 | 0.37
+iC5 i-Pentane | 0.28 | 0.71 | 0.33
+nC5 n-Pentane | 0.95 | 0.8 | 0.93
+C6 Hexanes | 2.14 | 0.67 | 1.95
+C8 Octanes | 4.43 | 0.45 | 3.92
+C9 Nonanes | 4.47 | 0 | 3.91
+C10 Decanes | 3.95 | 0 | 3.45
+C11 Undecanes | 3.9 | 0 | 3.41
+C12+ Dodecanes Plus | 79.32 | 0 | 69.27
+99.99999999999999 | 99.99999999999999 | 100
+Molecular weight | 241.7 | 44.093 | 216.6
+Gravity | 0.843 60/60 F | 1.521 (Air=1)
+Molar ratio | 87.32 | 12.68 | 100
+Mass ratio | 97.42 | 2.58 | 100
+Molecular weight of Dodecanes plus in STO | 272
+Gravity of Dodecanes plus in STO | 0.849 (60/60 F)
+--- OCR ---

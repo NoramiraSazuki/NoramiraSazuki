@@ -1,0 +1,4967 @@
+[
+{
+"where": "sheet 'Front' cell Q1",
+"how": "cell text",
+"text": "Help Menu (with hyperlinks)"
+},
+{
+"where": "sheet 'Front' cell T1",
+"how": "cell text",
+"text": "Notes by dmain@corelab.co.uk on the Visual Basic Macros "
+},
+{
+"where": "sheet 'Front' cell Q3",
+"how": "cell text",
+"text": "Add Section to Final Report "
+},
+{
+"where": "sheet 'Front' cell T3",
+"how": "cell text",
+"text": "Add Section to Final Report "
+},
+{
+"where": "sheet 'Front' cell W3",
+"how": "cell text",
+"text": "Disclaimer"
+},
+{
+"where": "sheet 'Front' cell W4",
+"how": "cell text",
+"text": "The analyses, opinions or interpretations in this report are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or representations as to the productivity,  proper operation or profitability of any oil,  gas or any other mineral well formation in connection  with  which  such  report  is used or relied upon."
+},
+{
+"where": "sheet 'Front' cell Q5",
+"how": "cell text",
+"text": "Page Setup"
+},
+{
+"where": "sheet 'Front' cell T5",
+"how": "cell text",
+"text": "This will create report sections consisting of a Section Leader Worksheet …. named A, B …..etc. and"
+},
+{
+"where": "sheet 'Front' cell T6",
+"how": "cell text",
+"text": "followed by the worksheet containing the section data pages; selected either from the 'report_templates' "
+},
+{
+"where": "sheet 'Front' cell Q7",
+"how": "cell text",
+"text": "Black Fonts"
+},
+{
+"where": "sheet 'Front' cell T7",
+"how": "cell text",
+"text": "directory or a 'Final Report Page' from a calculation worksheet. These will be inserted before the 'Back' "
+},
+{
+"where": "sheet 'Front' cell T8",
+"how": "cell text",
+"text": "worksheet."
+},
+{
+"where": "sheet 'Front' cell Q9",
+"how": "cell text",
+"text": "Print All Pages"
+},
+{
+"where": "sheet 'Front' cell W9",
+"how": "cell text",
+"text": "The analyses, opinions or interpretations in this report are based on observations and material supplied by the client "
+},
+{
+"where": "sheet 'Front' cell S10",
+"how": "cell text",
+"text": "1."
+},
+{
+"where": "sheet 'Front' cell T10",
+"how": "cell text",
+"text": "You are prompted to enter the section letter  e.g.. 'd' and descriptive text e.g.. 'constant composition "
+},
+{
+"where": "sheet 'Front' cell W10",
+"how": "cell text",
+"text": "to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions "
+},
+{
+"where": "sheet 'Front' cell Q11",
+"how": "cell text",
+"text": "Generate PDF Report"
+},
+{
+"where": "sheet 'Front' cell T11",
+"how": "cell text",
+"text": "expansion data'.   In this example worksheet D will be created containing the entered text shown as follows"
+},
+{
+"where": "sheet 'Front' cell W11",
+"how": "cell text",
+"text": "expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but "
+},
+{
+"where": "sheet 'Front' cell T12",
+"how": "cell text",
+"text": "Section D - Constant Composition Expansion Data"
+},
+{
+"where": "sheet 'Front' cell W12",
+"how": "cell text",
+"text": "Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or "
+},
+{
+"where": "sheet 'Front' cell Q13",
+"how": "cell text",
+"text": "Manual Addition of Report Pages"
+},
+{
+"where": "sheet 'Front' cell T13",
+"how": "cell text",
+"text": "(note that entered text is automatically capitalised - if you do not want each letter capitalised - edit later)."
+},
+{
+"where": "sheet 'Front' cell W13",
+"how": "cell text",
+"text": "representations as to the productivity,  proper operation or profitability of any oil,  gas or any other mineral well formation "
+},
+{
+"where": "sheet 'Front' cell H14",
+"how": "cell text",
+"text": "Enter Header Details Here :"
+},
+{
+"where": "sheet 'Front' cell W14",
+"how": "cell text",
+"text": "in connection  with  which  such  report  is used or relied upon."
+},
+{
+"where": "sheet 'Front' cell Q15",
+"how": "cell text",
+"text": "Installing a Macro in Another Workbook "
+},
+{
+"where": "sheet 'Front' cell S15",
+"how": "cell text",
+"text": "2."
+},
+{
+"where": "sheet 'Front' cell T15",
+"how": "cell text",
+"text": "Next you are prompted to browse and select a filename which will contain the data pages in a worksheet"
+},
+{
+"where": "sheet 'Front' cell H16",
+"how": "cell text",
+"text": "Analyses Type"
+},
+{
+"where": "sheet 'Front' cell J16",
+"how": "cell text",
+"text": "Water Analysis "
+},
+{
+"where": "sheet 'Front' cell T16",
+"how": "cell text",
+"text": "named 'Final Report Page'.  If you choose a workbook which does not have a 'Final Report Page' worksheet"
+},
+{
+"where": "sheet 'Front' cell H17",
+"how": "cell text",
+"text": "Company Name"
+},
+{
+"where": "sheet 'Front' cell J17",
+"how": "cell text",
+"text": "PETRONAS Carigali Sdn. Bhd."
+},
+{
+"where": "sheet 'Front' cell Q17",
+"how": "cell text",
+"text": "Report Page Defaults"
+},
+{
+"where": "sheet 'Front' cell T17",
+"how": "cell text",
+"text": "then an error message will be generated (calculation worksheets and templates have a 'Final Report Page')"
+},
+{
+"where": "sheet 'Front' cell H18",
+"how": "cell text",
+"text": "Well Name"
+},
+{
+"where": "sheet 'Front' cell J18",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'Front' cell H19",
+"how": "cell text",
+"text": "Job Number"
+},
+{
+"where": "sheet 'Front' cell J19",
+"how": "cell text",
+"text": "MFL 20130041"
+},
+{
+"where": "sheet 'Front' cell S19",
+"how": "cell text",
+"text": "3."
+},
+{
+"where": "sheet 'Front' cell T19",
+"how": "cell text",
+"text": "Next you are prompted to enter a sheet name to rename the imported 'Final Report Page'. "
+},
+{
+"where": "sheet 'Front' cell H21",
+"how": "cell text",
+"text": "Enter Left Footer Details Here :"
+},
+{
+"where": "sheet 'Front' cell T21",
+"how": "cell text",
+"text": "Finally the letter entered in item 1. Above will be used to set up the page numbers …..D.1, D.2 ….etc."
+},
+{
+"where": "sheet 'Front' cell H23",
+"how": "cell text",
+"text": "Main Footer"
+},
+{
+"where": "sheet 'Front' cell J23",
+"how": "cell text",
+"text": "Petroleum Services Division"
+},
+{
+"where": "sheet 'Front' cell T23",
+"how": "cell text",
+"text": "Note that worksheets can be renamed, moved later see 'Manual Addition of Report Pages' below."
+},
+{
+"where": "sheet 'Front' cell H24",
+"how": "cell text",
+"text": "Sub Footer  1"
+},
+{
+"where": "sheet 'Front' cell J24",
+"how": "cell text",
+"text": "Core Laboratories Malaysia Sdn. Bhd."
+},
+{
+"where": "sheet 'Front' cell H25",
+"how": "cell text",
+"text": "Sub Footer  2"
+},
+{
+"where": "sheet 'Front' cell T25",
+"how": "cell text",
+"text": "Page Setup"
+},
+{
+"where": "sheet 'Front' cell T27",
+"how": "cell text",
+"text": "This will setup headers and footers on all pages in the workbook except for  the worksheets named  'Front' "
+},
+{
+"where": "sheet 'Front' cell H28",
+"how": "cell text",
+"text": "Enter Company Address Details Here  (for Front page 2 below):"
+},
+{
+"where": "sheet 'Front' cell T28",
+"how": "cell text",
+"text": "and 'Letter'.  It is possible that printing these pages on a variety of different printers may require minor editing "
+},
+{
+"where": "sheet 'Front' cell T29",
+"how": "cell text",
+"text": "to be carried out on the macro for the page formatting to appear correctly.   In addition different versions of "
+},
+{
+"where": "sheet 'Front' cell D30",
+"how": "cell text",
+"text": "Water Analysis "
+},
+{
+"where": "sheet 'Front' cell H30",
+"how": "cell text",
+"text": "Address 1"
+},
+{
+"where": "sheet 'Front' cell J30",
+"how": "cell text",
+"text": "No. 17, Jalan Jurutera U1/23, Section U1, HICOM - Glenmarie Industrial Park, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia."
+},
+{
+"where": "sheet 'Front' cell T30",
+"how": "cell text",
+"text": "Excel may create different formatting.   These macros were developed for use in Excel 97. (revised in Excel 2000)."
+},
+{
+"where": "sheet 'Front' cell H31",
+"how": "cell text",
+"text": "Address 2"
+},
+{
+"where": "sheet 'Front' cell J31",
+"how": "cell text",
+"text": "Tel : +(603) 5031 0088  Fax : +(603) 5031 1122  Email : Corelab.Malaysia@corelab.com  Web : http://www.corelab.com"
+},
+{
+"where": "sheet 'Front' cell D32",
+"how": "cell text",
+"text": "for"
+},
+{
+"where": "sheet 'Front' cell T32",
+"how": "cell text",
+"text": "Note that prior to using the macro :-"
+},
+{
+"where": "sheet 'Front' cell D34",
+"how": "cell text",
+"text": "PETRONAS Carigali Sdn. Bhd."
+},
+{
+"where": "sheet 'Front' cell S34",
+"how": "cell text",
+"text": "1."
+},
+{
+"where": "sheet 'Front' cell T34",
+"how": "cell text",
+"text": "The Header Details need to be entered in the box to the left under the buttons.  The cells containing these"
+},
+{
+"where": "sheet 'Front' cell T35",
+"how": "cell text",
+"text": "items have been named 'company_name', 'well_name' and 'job_number', 'main_footer', 'sub_footer_1' , 'sub_footer_2'. "
+},
+{
+"where": "sheet 'Front' cell D36",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'Front' cell T36",
+"how": "cell text",
+"text": "The macro looks for these range names in a worksheet named 'Front'  to collect the header data."
+},
+{
+"where": "sheet 'Front' cell D38",
+"how": "cell text",
+"text": "MFL 20130041"
+},
+{
+"where": "sheet 'Front' cell S38",
+"how": "cell text",
+"text": "2."
+},
+{
+"where": "sheet 'Front' cell T38",
+"how": "cell text",
+"text": "The Print_Areas need to have been setup previously in each worksheet."
+},
+{
+"where": "sheet 'Front' cell S40",
+"how": "cell text",
+"text": "3."
+},
+{
+"where": "sheet 'Front' cell T40",
+"how": "cell text",
+"text": "The bottom right hand page numbers A.1, A.2 etc. need to be setup either manually or see item 3 of"
+},
+{
+"where": "sheet 'Front' cell T41",
+"how": "cell text",
+"text": " 'Add Section to Final Report' above  Pressing the 'Page Setup' button will not disturb these settings."
+},
+{
+"where": "sheet 'Front' cell T44",
+"how": "cell text",
+"text": "Black Fonts"
+},
+{
+"where": "sheet 'Front' cell D46",
+"how": "cell text",
+"text": "Prepared by: Azhar Mohd Noor"
+},
+{
+"where": "sheet 'Front' cell T46",
+"how": "cell text",
+"text": "Will convert, on all pages,  characters to black for a uniform appearance if required."
+},
+{
+"where": "sheet 'Front' cell D47",
+"how": "cell text",
+"text": "Date : May 2013"
+},
+{
+"where": "sheet 'Front' cell D48",
+"how": "cell text",
+"text": "Revision: 000"
+},
+{
+"where": "sheet 'Front' cell T49",
+"how": "cell text",
+"text": "Print All Pages"
+},
+{
+"where": "sheet 'Front' cell T51",
+"how": "cell text",
+"text": "Does what it says with the pages which have been set up.  But see the comment above under 'Page Setup'."
+},
+{
+"where": "sheet 'Front' cell C52",
+"how": "cell text",
+"text": "The analyses, opinions or interpretations in this report are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use, this report is made. The interpretations or opinions expressed represent the best judgement of Core Laboratories Malaysia Sdn. Bhd., (all errors and omissions excepted); but Core Laboratories Malaysia Sdn. Bhd. and its officers and employees assume no responsibility and make no warranty or representations as to the productivity,  proper operation or profitability of any oil,  gas or any other mineral well formation in connection  with  which  such  report  is used or relied upon."
+},
+{
+"where": "sheet 'Front' cell T53",
+"how": "cell text",
+"text": "Delete Introduced Range Names"
+},
+{
+"where": "sheet 'Front' cell T55",
+"how": "cell text",
+"text": "Will do what it says to tidy up the workbook and remove these names which are no longer relevant.  It will not remove"
+},
+{
+"where": "sheet 'Front' cell T56",
+"how": "cell text",
+"text": "the range names which are essential for 'Page Setup' (see above)."
+},
+{
+"where": "sheet 'Front' cell D57",
+"how": "cell text",
+"text": "Petroleum Services Division"
+},
+{
+"where": "sheet 'Front' cell D58",
+"how": "cell text",
+"text": "Core Laboratories Malaysia Sdn. Bhd."
+},
+{
+"where": "sheet 'Front' cell D60",
+"how": "cell text",
+"text": "No. 17, Jalan Jurutera U1/23, Section U1, HICOM - Glenmarie Industrial Park, 40150 Shah Alam, Selangor Darul Ehsan, Malaysia."
+},
+{
+"where": "sheet 'Front' cell T60",
+"how": "cell text",
+"text": "Generate PDF Report"
+},
+{
+"where": "sheet 'Front' cell D61",
+"how": "cell text",
+"text": "Tel : +(603) 5031 0088  Fax : +(603) 5031 1122  Email : Corelab.Malaysia@corelab.com  Web : http://www.corelab.com"
+},
+{
+"where": "sheet 'Front' cell T62",
+"how": "cell text",
+"text": "This will create a single PDF file which will recreate the report. Note that some PC or network systems"
+},
+{
+"where": "sheet 'Front' cell T63",
+"how": "cell text",
+"text": "may require changes to be made to this macro for it to work correctly.  The file will be created in the "
+},
+{
+"where": "sheet 'Front' cell T64",
+"how": "cell text",
+"text": "C:\\temp\\'   folder."
+},
+{
+"where": "sheet 'Front' cell T67",
+"how": "cell text",
+"text": "Manual Addition of Report Pages"
+},
+{
+"where": "sheet 'Front' cell S69",
+"how": "cell text",
+"text": "1."
+},
+{
+"where": "sheet 'Front' cell T69",
+"how": "cell text",
+"text": "Right Click on the name (at the bottom) of the worksheet to be added and select Move or Copy ."
+},
+{
+"where": "sheet 'Front' cell S70",
+"how": "cell text",
+"text": "2."
+},
+{
+"where": "sheet 'Front' cell T70",
+"how": "cell text",
+"text": "Then select the workbook to move (or copy) from the drop down menu To book:"
+},
+{
+"where": "sheet 'Front' cell S71",
+"how": "cell text",
+"text": "3."
+},
+{
+"where": "sheet 'Front' cell T71",
+"how": "cell text",
+"text": "Next select the location from the list Before sheet :"
+},
+{
+"where": "sheet 'Front' cell S72",
+"how": "cell text",
+"text": "4."
+},
+{
+"where": "sheet 'Front' cell T72",
+"how": "cell text",
+"text": "Finally check the box Create a copy or not as required."
+},
+{
+"where": "sheet 'Front' cell T75",
+"how": "cell text",
+"text": "Installing a Macro in Another Workbook "
+},
+{
+"where": "sheet 'Front' cell S77",
+"how": "cell text",
+"text": "1."
+},
+{
+"where": "sheet 'Front' cell T77",
+"how": "cell text",
+"text": "Should you prefer to create the report first and then add the macros, then proceed as follows."
+},
+{
+"where": "sheet 'Front' cell S79",
+"how": "cell text",
+"text": "2."
+},
+{
+"where": "sheet 'Front' cell T79",
+"how": "cell text",
+"text": "On the Excel menu lick Tools then Macro then Visual Basic Editor."
+},
+{
+"where": "sheet 'Front' cell T80",
+"how": "cell text",
+"text": "From the Visual Basic menu select View Project Explorer you will see VBA Project (your workbook name) "
+},
+{
+"where": "sheet 'Front' cell T81",
+"how": "cell text",
+"text": "and VBA Project (master_report_2003.xls)."
+},
+{
+"where": "sheet 'Front' cell S83",
+"how": "cell text",
+"text": "3."
+},
+{
+"where": "sheet 'Front' cell T83",
+"how": "cell text",
+"text": "Click + opposite Modules for each to view the modules attached to each file; your workbook may or "
+},
+{
+"where": "sheet 'Front' cell T84",
+"how": "cell text",
+"text": "may not already have modules.  Note that you will need the macro password (from your supervisor)."
+},
+{
+"where": "sheet 'Front' cell T85",
+"how": "cell text",
+"text": "to do this."
+},
+{
+"where": "sheet 'Front' cell T87",
+"how": "cell text",
+"text": "The master_report_2003.xls project has five Modules ; 'Add_Pages', 'Auto_PDF_Print',"
+},
+{
+"where": "sheet 'Front' cell T88",
+"how": "cell text",
+"text": " 'Page_Setup_All_Pages' and 'Remove_Names' as described above."
+},
+{
+"where": "sheet 'Front' cell S90",
+"how": "cell text",
+"text": "4."
+},
+{
+"where": "sheet 'Front' cell T90",
+"how": "cell text",
+"text": "Drag the required Module across to your workbook project and drop it into the Modules folder, if there is "
+},
+{
+"where": "sheet 'Front' cell T91",
+"how": "cell text",
+"text": "one, otherwise into the Microsoft Excel Objects folder."
+},
+{
+"where": "sheet 'Front' cell S93",
+"how": "cell text",
+"text": "5."
+},
+{
+"where": "sheet 'Front' cell T93",
+"how": "cell text",
+"text": "Return to master_report_2003.xls in Excel and right mouse button click on the appropriate button required "
+},
+{
+"where": "sheet 'Front' cell T94",
+"how": "cell text",
+"text": "to activate the macro.  Select Copy and then paste it into the front page  worksheet of your workbook "
+},
+{
+"where": "sheet 'Front' cell T95",
+"how": "cell text",
+"text": "(for the 'Page_Setup_All_Pages' macro this worksheet must be named 'Front' or the macro will not work)."
+},
+{
+"where": "sheet 'Front' cell S97",
+"how": "cell text",
+"text": "6."
+},
+{
+"where": "sheet 'Front' cell T97",
+"how": "cell text",
+"text": "Right mouse button click on the newly pasted button and select Assign Macro, Macros in This Workbook"
+},
+{
+"where": "sheet 'Front' cell T98",
+"how": "cell text",
+"text": " and double click the appropriate macro name."
+},
+{
+"where": "sheet 'Front' cell T100",
+"how": "cell text",
+"text": "Report Page Defaults"
+},
+{
+"where": "sheet 'Front' cell T102",
+"how": "cell text",
+"text": "The front page, back page and letter page defaults are as in this workbook."
+},
+{
+"where": "sheet 'Front' cell T104",
+"how": "cell text",
+"text": "Standard report pages in the calculation workbooks have been set up as follows:"
+},
+{
+"where": "sheet 'Front' cell T106",
+"how": "cell text",
+"text": "Font Ariel (or Helvetica) - general font size = 9"
+},
+{
+"where": "sheet 'Front' cell T108",
+"how": "cell text",
+"text": "Rows 1 to 9 have row height = 13"
+},
+{
+"where": "sheet 'Front' cell T109",
+"how": "cell text",
+"text": "Rows 10 to 65 have height = 11.75"
+},
+{
+"where": "sheet 'Front' cell T111",
+"how": "cell text",
+"text": "Header on line 8 (except for C36+ first composition page which is on line 6)."
+},
+{
+"where": "sheet 'Front' cell T112",
+"how": "cell text",
+"text": "Header format is Ariel 11 Bold Underlined Vertical Alignment Centre."
+},
+{
+"where": "sheet 'Front' cell T113",
+"how": "cell text",
+"text": "Two blank rows under each header can be used for sub-headers."
+},
+{
+"where": "sheet 'Front' cell T115",
+"how": "cell text",
+"text": "Data tables start on line 11 (except C36+ first composition page - line 9)."
+},
+{
+"where": "sheet 'Front' cell T116",
+"how": "cell text",
+"text": "Table headers are coloured light grey (as this line) and are not outlined"
+},
+{
+"where": "sheet 'Front' cell T117",
+"how": "cell text",
+"text": "Table subheaders are Ariel 9 Bold on a light grey background"
+},
+{
+"where": "sheet 'Front' cell T119",
+"how": "cell text",
+"text": "Footnotes format is Ariel 8 (as are fomulae on first composition page)."
+},
+{
+"where": "sheet 'Front' cell T121",
+"how": "cell text",
+"text": "Graph Axes labels format is Ariel 8.5 Bold and scale numbers are 8.5 Regular."
+},
+{
+"where": "sheet 'Front' cell T123",
+"how": "cell text",
+"text": "Manually created pages should adhere to the above."
+},
+{
+"where": "sheet 'Letter' cell C2",
+"how": "cell text",
+"text": "Petroleum Services Division"
+},
+{
+"where": "sheet 'Letter' cell C3",
+"how": "cell text",
+"text": "Core Laboratories Malaysia Sdn Bhd"
+},
+{
+"where": "sheet 'Letter' cell C4",
+"how": "cell text",
+"text": "No. 17, Jalan Jurutera U 1/23, Section U1,"
+},
+{
+"where": "sheet 'Letter' cell C5",
+"how": "cell text",
+"text": "HICOM Glenmarie Industrial Park,"
+},
+{
+"where": "sheet 'Letter' cell C6",
+"how": "cell text",
+"text": "40150 Shah Alam,"
+},
+{
+"where": "sheet 'Letter' cell C7",
+"how": "cell text",
+"text": "Selangor Darul Ehsan, Malaysia"
+},
+{
+"where": "sheet 'Letter' cell B8",
+"how": "cell text",
+"text": "ISO 9001:2008 Certified Company"
+},
+{
+"where": "sheet 'Letter' cell C8",
+"how": "cell text",
+"text": "Tel:  (603) 5031 0088  "
+},
+{
+"where": "sheet 'Letter' cell C9",
+"how": "cell text",
+"text": "Fax:  (603) 5031 1122 "
+},
+{
+"where": "sheet 'Letter' cell C10",
+"how": "cell text",
+"text": "Web: http://www.corelab.com"
+},
+{
+"where": "sheet 'Contents' cell C1",
+"how": "cell text",
+"text": "0"
+},
+{
+"where": "sheet 'Contents' cell H1",
+"how": "cell text",
+"text": "0"
+},
+{
+"where": "sheet 'Contents' cell M1",
+"how": "cell text",
+"text": "0"
+},
+{
+"where": "sheet 'Contents' cell B7",
+"how": "cell text",
+"text": "Table of Contents "
+},
+{
+"where": "sheet 'Contents' cell C9",
+"how": "cell text",
+"text": "Section A - Summary of Analysis Methods "
+},
+{
+"where": "sheet 'Contents' cell D9",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'Contents' cell C11",
+"how": "cell text",
+"text": "Summary of Analysis Methods"
+},
+{
+"where": "sheet 'Contents' cell D11",
+"how": "cell text",
+"text": "A.1-A.3"
+},
+{
+"where": "sheet 'Contents' cell C13",
+"how": "cell text",
+"text": "Section B - Summary of Validation Data"
+},
+{
+"where": "sheet 'Contents' cell C15",
+"how": "cell text",
+"text": "Summary of Validation Data "
+},
+{
+"where": "sheet 'Contents' cell D15",
+"how": "cell text",
+"text": "B.1"
+},
+{
+"where": "sheet 'Contents' cell C17",
+"how": "cell text",
+"text": "Section C - Compositional Analysis Data"
+},
+{
+"where": "sheet 'Contents' cell C19",
+"how": "cell text",
+"text": "Compositional Analysis of Flashed Gas from BHS Water (2853-S1-F)"
+},
+{
+"where": "sheet 'Contents' cell D19",
+"how": "cell text",
+"text": "C.1"
+},
+{
+"where": "sheet 'Contents' cell C21",
+"how": "cell text",
+"text": "Compositional Analysis of Flashed Gas from BHS Water (5099-S1-F)"
+},
+{
+"where": "sheet 'Contents' cell D21",
+"how": "cell text",
+"text": "C.2"
+},
+{
+"where": "sheet 'Contents' cell C23",
+"how": "cell text",
+"text": "Section D - Water Analysis Data"
+},
+{
+"where": "sheet 'Contents' cell C25",
+"how": "cell text",
+"text": "Quick Water Analysis"
+},
+{
+"where": "sheet 'Contents' cell D25",
+"how": "cell text",
+"text": "D.1"
+},
+{
+"where": "sheet 'Contents' cell J26",
+"how": "cell text",
+"text": "D.1-D.4"
+},
+{
+"where": "sheet 'Contents' cell C27",
+"how": "cell text",
+"text": "Water Analysis Data (2853-S1-F)"
+},
+{
+"where": "sheet 'Contents' cell D27",
+"how": "cell text",
+"text": "D.2-D.3"
+},
+{
+"where": "sheet 'Contents' cell C29",
+"how": "cell text",
+"text": "Water Analysis Data (5099-S1-F)"
+},
+{
+"where": "sheet 'Contents' cell D29",
+"how": "cell text",
+"text": "D.4-D.5"
+},
+{
+"where": "sheet 'Contents' cell J30",
+"how": "cell text",
+"text": "E.1-E.4"
+},
+{
+"where": "sheet 'Contents' cell C31",
+"how": "cell text",
+"text": "Section E - Appendix I"
+},
+{
+"where": "sheet 'Contents' cell J32",
+"how": "cell text",
+"text": "G.1"
+},
+{
+"where": "sheet 'Contents' cell C33",
+"how": "cell text",
+"text": "Data Used in Gas Compositional Calculations"
+},
+{
+"where": "sheet 'Contents' cell D33",
+"how": "cell text",
+"text": "E.1"
+},
+{
+"where": "sheet 'Contents' cell J34",
+"how": "cell text",
+"text": "G.2"
+},
+{
+"where": "sheet 'Contents' cell C35",
+"how": "cell text",
+"text": "Data Used in Liquid Compositional Calculations"
+},
+{
+"where": "sheet 'Contents' cell D35",
+"how": "cell text",
+"text": "E.2"
+},
+{
+"where": "sheet 'Contents' cell C37",
+"how": "cell text",
+"text": "Section F - Appendix II"
+},
+{
+"where": "sheet 'Contents' cell J37",
+"how": "cell text",
+"text": "G.3"
+},
+{
+"where": "sheet 'Contents' cell C39",
+"how": "cell text",
+"text": "Sample Information"
+},
+{
+"where": "sheet 'Contents' cell J39",
+"how": "cell text",
+"text": "G.3"
+},
+{
+"where": "sheet 'Contents' cell J41",
+"how": "cell text",
+"text": "G.4"
+},
+{
+"where": "sheet 'Contents' cell J43",
+"how": "cell text",
+"text": "G.4"
+},
+{
+"where": "sheet 'Section A' cell B25",
+"how": "cell text",
+"text": "Section A - Summary Of Analysis Methods"
+},
+{
+"where": "sheet 'A.1' cell B1",
+"how": "cell text",
+"text": "18"
+},
+{
+"where": "sheet 'A.1' cell I1",
+"how": "cell text",
+"text": "18"
+},
+{
+"where": "sheet 'A.1' cell Y1",
+"how": "cell text",
+"text": "18"
+},
+{
+"where": "sheet 'A.1' cell B6",
+"how": "cell text",
+"text": "Summary of Analysis Methods"
+},
+{
+"where": "sheet 'A.1' cell I6",
+"how": "cell text",
+"text": "Summary of Analysis Methods"
+},
+{
+"where": "sheet 'A.1' cell P6",
+"how": "cell text",
+"text": "Summary of Analysis Methods (cont'd)"
+},
+{
+"where": "sheet 'A.1' cell P8",
+"how": "cell text",
+"text": "Figure 1: Schematic Diagram of Flash Separation Technique"
+},
+{
+"where": "sheet 'A.1' cell AL107",
+"how": "cell text",
+"text": "(1) These volumes refer to residual oil from the differential vaporisation."
+},
+{
+"where": "sheet 'Section B' cell B25",
+"how": "cell text",
+"text": "Section B - Summary of Validation Data"
+},
+{
+"where": "sheet 'B.1' cell B7",
+"how": "cell text",
+"text": "Summary of Validation Data"
+},
+{
+"where": "sheet 'B.1' cell B10",
+"how": "cell text",
+"text": "Original "
+},
+{
+"where": "sheet 'B.1' cell C10",
+"how": "cell text",
+"text": "Sampling"
+},
+{
+"where": "sheet 'B.1' cell D10",
+"how": "cell text",
+"text": "Sample "
+},
+{
+"where": "sheet 'B.1' cell E10",
+"how": "cell text",
+"text": "Reservoir Conditions"
+},
+{
+"where": "sheet 'B.1' cell G10",
+"how": "cell text",
+"text": " Lab Opening Data :-"
+},
+{
+"where": "sheet 'B.1' cell I10",
+"how": "cell text",
+"text": "Mud "
+},
+{
+"where": "sheet 'B.1' cell J10",
+"how": "cell text",
+"text": "Sample"
+},
+{
+"where": "sheet 'B.1' cell B11",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'B.1' cell C11",
+"how": "cell text",
+"text": "Depth"
+},
+{
+"where": "sheet 'B.1' cell D11",
+"how": "cell text",
+"text": "Nature"
+},
+{
+"where": "sheet 'B.1' cell E11",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'B.1' cell F11",
+"how": "cell text",
+"text": "Temp."
+},
+{
+"where": "sheet 'B.1' cell G11",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'B.1' cell H11",
+"how": "cell text",
+"text": "Temp."
+},
+{
+"where": "sheet 'B.1' cell I11",
+"how": "cell text",
+"text": "Recovered"
+},
+{
+"where": "sheet 'B.1' cell J11",
+"how": "cell text",
+"text": "Volume"
+},
+{
+"where": "sheet 'B.1' cell B12",
+"how": "cell text",
+"text": "Number"
+},
+{
+"where": "sheet 'B.1' cell C12",
+"how": "cell text",
+"text": "(m MD)"
+},
+{
+"where": "sheet 'B.1' cell E12",
+"how": "cell text",
+"text": "(psig)"
+},
+{
+"where": "sheet 'B.1' cell F12",
+"how": "cell text",
+"text": "(°F)"
+},
+{
+"where": "sheet 'B.1' cell G12",
+"how": "cell text",
+"text": "(psig)"
+},
+{
+"where": "sheet 'B.1' cell H12",
+"how": "cell text",
+"text": "(°F)"
+},
+{
+"where": "sheet 'B.1' cell I12",
+"how": "cell text",
+"text": "(cm3)"
+},
+{
+"where": "sheet 'B.1' cell J12",
+"how": "cell text",
+"text": "(cm3)"
+},
+{
+"where": "sheet 'B.1' cell B14",
+"how": "cell text",
+"text": "2853-S1-F"
+},
+{
+"where": "sheet 'B.1' cell D14",
+"how": "cell text",
+"text": "BHS Water"
+},
+{
+"where": "sheet 'B.1' cell B16",
+"how": "cell text",
+"text": "5099-S1-F"
+},
+{
+"where": "sheet 'B.1' cell D16",
+"how": "cell text",
+"text": "BHS Water"
+},
+{
+"where": "sheet 'B.1' cell B20",
+"how": "cell text",
+"text": "Notes:"
+},
+{
+"where": "sheet 'B.1' cell B21",
+"how": "cell text",
+"text": "Samples were flashed to atmospheric conditions."
+},
+{
+"where": "sheet 'B.1' cell B22",
+"how": "cell text",
+"text": "The flashed gas was subjected to compositional analysis while the flashed water was subjected to water analysis."
+},
+{
+"where": "sheet 'Section C' cell B25",
+"how": "cell text",
+"text": "Section C - Compositional Analysis Data"
+},
+{
+"where": "sheet 'C.1' cell B8",
+"how": "cell text",
+"text": "Compositional Analysis of Flashed Gas from BHS Water Sample to C12+"
+},
+{
+"where": "sheet 'C.1' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'C.1' cell D10",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'C.1' cell E10",
+"how": "cell text",
+"text": "Weight %"
+},
+{
+"where": "sheet 'C.1' cell G10",
+"how": "cell text",
+"text": "Sample Information"
+},
+{
+"where": "sheet 'C.1' cell G11",
+"how": "cell text",
+"text": "Sampling Date"
+},
+{
+"where": "sheet 'C.1' cell B12",
+"how": "cell text",
+"text": "CO2"
+},
+{
+"where": "sheet 'C.1' cell C12",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'C.1' cell G12",
+"how": "cell text",
+"text": "Sampling Time"
+},
+{
+"where": "sheet 'C.1' cell I12",
+"how": "cell text",
+"text": "0143 hrs"
+},
+{
+"where": "sheet 'C.1' cell B13",
+"how": "cell text",
+"text": "N2"
+},
+{
+"where": "sheet 'C.1' cell C13",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'C.1' cell G13",
+"how": "cell text",
+"text": "Sampling Location"
+},
+{
+"where": "sheet 'C.1' cell I13",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'C.1' cell B14",
+"how": "cell text",
+"text": "C1"
+},
+{
+"where": "sheet 'C.1' cell C14",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'C.1' cell G14",
+"how": "cell text",
+"text": "Sample Description"
+},
+{
+"where": "sheet 'C.1' cell I14",
+"how": "cell text",
+"text": "Flashed Gas"
+},
+{
+"where": "sheet 'C.1' cell B15",
+"how": "cell text",
+"text": "C2"
+},
+{
+"where": "sheet 'C.1' cell C15",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'C.1' cell G15",
+"how": "cell text",
+"text": "Cylinder Number"
+},
+{
+"where": "sheet 'C.1' cell I15",
+"how": "cell text",
+"text": "2853-S1-F"
+},
+{
+"where": "sheet 'C.1' cell B16",
+"how": "cell text",
+"text": "C3"
+},
+{
+"where": "sheet 'C.1' cell C16",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'C.1' cell G16",
+"how": "cell text",
+"text": "Sampling Conditions"
+},
+{
+"where": "sheet 'C.1' cell I16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell B17",
+"how": "cell text",
+"text": "iC4"
+},
+{
+"where": "sheet 'C.1' cell C17",
+"how": "cell text",
+"text": "i-Butane"
+},
+{
+"where": "sheet 'C.1' cell B18",
+"how": "cell text",
+"text": "nC4"
+},
+{
+"where": "sheet 'C.1' cell C18",
+"how": "cell text",
+"text": "n-Butane"
+},
+{
+"where": "sheet 'C.1' cell G18",
+"how": "cell text",
+"text": "Additional Sample Information"
+},
+{
+"where": "sheet 'C.1' cell B19",
+"how": "cell text",
+"text": "C5"
+},
+{
+"where": "sheet 'C.1' cell C19",
+"how": "cell text",
+"text": "Neo-Pentane"
+},
+{
+"where": "sheet 'C.1' cell G19",
+"how": "cell text",
+"text": "Opening Pressure"
+},
+{
+"where": "sheet 'C.1' cell I19",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell J19",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'C.1' cell B20",
+"how": "cell text",
+"text": "iC5"
+},
+{
+"where": "sheet 'C.1' cell C20",
+"how": "cell text",
+"text": "i-Pentane"
+},
+{
+"where": "sheet 'C.1' cell G20",
+"how": "cell text",
+"text": "Opening Temperature"
+},
+{
+"where": "sheet 'C.1' cell I20",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell J20",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'C.1' cell B21",
+"how": "cell text",
+"text": "nC5"
+},
+{
+"where": "sheet 'C.1' cell C21",
+"how": "cell text",
+"text": "n-Pentane"
+},
+{
+"where": "sheet 'C.1' cell G21",
+"how": "cell text",
+"text": "Total Air Content"
+},
+{
+"where": "sheet 'C.1' cell I21",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell J21",
+"how": "cell text",
+"text": "Mole%"
+},
+{
+"where": "sheet 'C.1' cell B22",
+"how": "cell text",
+"text": "C6"
+},
+{
+"where": "sheet 'C.1' cell C22",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'C.1' cell G22",
+"how": "cell text",
+"text": "Our Lab Identification"
+},
+{
+"where": "sheet 'C.1' cell C23",
+"how": "cell text",
+"text": "M-C-Pentane"
+},
+{
+"where": "sheet 'C.1' cell C24",
+"how": "cell text",
+"text": "Benzene"
+},
+{
+"where": "sheet 'C.1' cell G24",
+"how": "cell text",
+"text": "Notes"
+},
+{
+"where": "sheet 'C.1' cell C25",
+"how": "cell text",
+"text": "Cyclohexane"
+},
+{
+"where": "sheet 'C.1' cell G25",
+"how": "cell text",
+"text": "0.00 means less than 0.005."
+},
+{
+"where": "sheet 'C.1' cell B26",
+"how": "cell text",
+"text": "C7"
+},
+{
+"where": "sheet 'C.1' cell C26",
+"how": "cell text",
+"text": "Heptanes"
+},
+{
+"where": "sheet 'C.1' cell C27",
+"how": "cell text",
+"text": "M-C-Hexane"
+},
+{
+"where": "sheet 'C.1' cell C28",
+"how": "cell text",
+"text": "Toluene"
+},
+{
+"where": "sheet 'C.1' cell B29",
+"how": "cell text",
+"text": "C8"
+},
+{
+"where": "sheet 'C.1' cell C29",
+"how": "cell text",
+"text": "Octanes"
+},
+{
+"where": "sheet 'C.1' cell C30",
+"how": "cell text",
+"text": "E-Benzene"
+},
+{
+"where": "sheet 'C.1' cell C31",
+"how": "cell text",
+"text": "M/P-Xylene"
+},
+{
+"where": "sheet 'C.1' cell C32",
+"how": "cell text",
+"text": "O-Xylene"
+},
+{
+"where": "sheet 'C.1' cell B33",
+"how": "cell text",
+"text": "C9"
+},
+{
+"where": "sheet 'C.1' cell C33",
+"how": "cell text",
+"text": "Nonanes"
+},
+{
+"where": "sheet 'C.1' cell B34",
+"how": "cell text",
+"text": "C10"
+},
+{
+"where": "sheet 'C.1' cell C34",
+"how": "cell text",
+"text": "Decanes"
+},
+{
+"where": "sheet 'C.1' cell B35",
+"how": "cell text",
+"text": "C11"
+},
+{
+"where": "sheet 'C.1' cell C35",
+"how": "cell text",
+"text": "Undecanes"
+},
+{
+"where": "sheet 'C.1' cell B36",
+"how": "cell text",
+"text": "C12+"
+},
+{
+"where": "sheet 'C.1' cell C36",
+"how": "cell text",
+"text": "Dodecanes Plus"
+},
+{
+"where": "sheet 'C.1' cell C38",
+"how": "cell text",
+"text": "Totals"
+},
+{
+"where": "sheet 'C.1' cell B40",
+"how": "cell text",
+"text": "Calculated Residue Properties"
+},
+{
+"where": "sheet 'C.1' cell F40",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'C.1' cell H40",
+"how": "cell text",
+"text": "Weight %"
+},
+{
+"where": "sheet 'C.1' cell I40",
+"how": "cell text",
+"text": "Mole"
+},
+{
+"where": "sheet 'C.1' cell J40",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'C.1' cell I41",
+"how": "cell text",
+"text": "Weight"
+},
+{
+"where": "sheet 'C.1' cell J41",
+"how": "cell text",
+"text": "at 60oF"
+},
+{
+"where": "sheet 'C.1' cell I42",
+"how": "cell text",
+"text": " (g.mol-1)"
+},
+{
+"where": "sheet 'C.1' cell J42",
+"how": "cell text",
+"text": "(g.cm-3)"
+},
+{
+"where": "sheet 'C.1' cell B43",
+"how": "cell text",
+"text": "C7+"
+},
+{
+"where": "sheet 'C.1' cell C43",
+"how": "cell text",
+"text": "Heptanes plus"
+},
+{
+"where": "sheet 'C.1' cell B44",
+"how": "cell text",
+"text": "C8+"
+},
+{
+"where": "sheet 'C.1' cell C44",
+"how": "cell text",
+"text": "Octanes plus"
+},
+{
+"where": "sheet 'C.1' cell B45",
+"how": "cell text",
+"text": "C10+"
+},
+{
+"where": "sheet 'C.1' cell C45",
+"how": "cell text",
+"text": "Decanes plus"
+},
+{
+"where": "sheet 'C.1' cell B46",
+"how": "cell text",
+"text": "C12+"
+},
+{
+"where": "sheet 'C.1' cell C46",
+"how": "cell text",
+"text": "Dodecanes plus"
+},
+{
+"where": "sheet 'C.1' cell I46",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell J46",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.1' cell B48",
+"how": "cell text",
+"text": "Calculated Whole Gas Properties"
+},
+{
+"where": "sheet 'C.1' cell B49",
+"how": "cell text",
+"text": "Real Relative Density"
+},
+{
+"where": "sheet 'C.1' cell F49",
+"how": "cell text",
+"text": "(Air=1 @ 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'C.1' cell B51",
+"how": "cell text",
+"text": "Whole Sample Mole Weight"
+},
+{
+"where": "sheet 'C.1' cell F51",
+"how": "cell text",
+"text": "g.mol-1"
+},
+{
+"where": "sheet 'C.1' cell B53",
+"how": "cell text",
+"text": "Gas Density"
+},
+{
+"where": "sheet 'C.1' cell F53",
+"how": "cell text",
+"text": "kg.m-3 @ 15°C"
+},
+{
+"where": "sheet 'C.1' cell B55",
+"how": "cell text",
+"text": "Calorific Value"
+},
+{
+"where": "sheet 'C.1' cell F55",
+"how": "cell text",
+"text": "MJ.m-3  (Real Gross @ 15°C, metered @ 15°C)"
+},
+{
+"where": "sheet 'C.1' cell B57",
+"how": "cell text",
+"text": "Calorific Value"
+},
+{
+"where": "sheet 'C.1' cell F57",
+"how": "cell text",
+"text": "MJ.m-3  (Real Net @ 15°C, metered @ 15°C)"
+},
+{
+"where": "sheet 'C.1' cell B59",
+"how": "cell text",
+"text": "Gas Water Ratio (GWR)"
+},
+{
+"where": "sheet 'C.1' cell F59",
+"how": "cell text",
+"text": "scf/bbl"
+},
+{
+"where": "sheet 'C.2' cell B8",
+"how": "cell text",
+"text": "Compositional Analysis of Flashed Gas from BHS Water Sample to C12+"
+},
+{
+"where": "sheet 'C.2' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'C.2' cell D10",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'C.2' cell E10",
+"how": "cell text",
+"text": "Weight %"
+},
+{
+"where": "sheet 'C.2' cell G10",
+"how": "cell text",
+"text": "Sample Information"
+},
+{
+"where": "sheet 'C.2' cell G11",
+"how": "cell text",
+"text": "Sampling Date"
+},
+{
+"where": "sheet 'C.2' cell B12",
+"how": "cell text",
+"text": "CO2"
+},
+{
+"where": "sheet 'C.2' cell C12",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'C.2' cell G12",
+"how": "cell text",
+"text": "Sampling Time"
+},
+{
+"where": "sheet 'C.2' cell I12",
+"how": "cell text",
+"text": "01:43 hrs"
+},
+{
+"where": "sheet 'C.2' cell B13",
+"how": "cell text",
+"text": "N2"
+},
+{
+"where": "sheet 'C.2' cell C13",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'C.2' cell G13",
+"how": "cell text",
+"text": "Sampling Location"
+},
+{
+"where": "sheet 'C.2' cell I13",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'C.2' cell B14",
+"how": "cell text",
+"text": "C1"
+},
+{
+"where": "sheet 'C.2' cell C14",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'C.2' cell G14",
+"how": "cell text",
+"text": "Sample Description"
+},
+{
+"where": "sheet 'C.2' cell I14",
+"how": "cell text",
+"text": "Flashed Gas"
+},
+{
+"where": "sheet 'C.2' cell B15",
+"how": "cell text",
+"text": "C2"
+},
+{
+"where": "sheet 'C.2' cell C15",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'C.2' cell G15",
+"how": "cell text",
+"text": "Cylinder Number"
+},
+{
+"where": "sheet 'C.2' cell I15",
+"how": "cell text",
+"text": "5099-S1-F"
+},
+{
+"where": "sheet 'C.2' cell B16",
+"how": "cell text",
+"text": "C3"
+},
+{
+"where": "sheet 'C.2' cell C16",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'C.2' cell G16",
+"how": "cell text",
+"text": "Sampling Conditions"
+},
+{
+"where": "sheet 'C.2' cell I16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.2' cell B17",
+"how": "cell text",
+"text": "iC4"
+},
+{
+"where": "sheet 'C.2' cell C17",
+"how": "cell text",
+"text": "i-Butane"
+},
+{
+"where": "sheet 'C.2' cell B18",
+"how": "cell text",
+"text": "nC4"
+},
+{
+"where": "sheet 'C.2' cell C18",
+"how": "cell text",
+"text": "n-Butane"
+},
+{
+"where": "sheet 'C.2' cell G18",
+"how": "cell text",
+"text": "Additional Sample Information"
+},
+{
+"where": "sheet 'C.2' cell B19",
+"how": "cell text",
+"text": "C5"
+},
+{
+"where": "sheet 'C.2' cell C19",
+"how": "cell text",
+"text": "Neo-Pentane"
+},
+{
+"where": "sheet 'C.2' cell G19",
+"how": "cell text",
+"text": "Opening Pressure"
+},
+{
+"where": "sheet 'C.2' cell I19",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.2' cell J19",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'C.2' cell B20",
+"how": "cell text",
+"text": "iC5"
+},
+{
+"where": "sheet 'C.2' cell C20",
+"how": "cell text",
+"text": "i-Pentane"
+},
+{
+"where": "sheet 'C.2' cell G20",
+"how": "cell text",
+"text": "Opening Temperature"
+},
+{
+"where": "sheet 'C.2' cell I20",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.2' cell J20",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'C.2' cell B21",
+"how": "cell text",
+"text": "nC5"
+},
+{
+"where": "sheet 'C.2' cell C21",
+"how": "cell text",
+"text": "n-Pentane"
+},
+{
+"where": "sheet 'C.2' cell G21",
+"how": "cell text",
+"text": "Total Air Content"
+},
+{
+"where": "sheet 'C.2' cell I21",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'C.2' cell J21",
+"how": "cell text",
+"text": "Mole%"
+},
+{
+"where": "sheet 'C.2' cell B22",
+"how": "cell text",
+"text": "C6"
+},
+{
+"where": "sheet 'C.2' cell C22",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'C.2' cell G22",
+"how": "cell text",
+"text": "Our Lab Identification"
+},
+{
+"where": "sheet 'C.2' cell C23",
+"how": "cell text",
+"text": "M-C-Pentane"
+},
+{
+"where": "sheet 'C.2' cell C24",
+"how": "cell text",
+"text": "Benzene"
+},
+{
+"where": "sheet 'C.2' cell G24",
+"how": "cell text",
+"text": "Notes"
+},
+{
+"where": "sheet 'C.2' cell C25",
+"how": "cell text",
+"text": "Cyclohexane"
+},
+{
+"where": "sheet 'C.2' cell G25",
+"how": "cell text",
+"text": "0.00 means less than 0.005."
+},
+{
+"where": "sheet 'C.2' cell B26",
+"how": "cell text",
+"text": "C7"
+},
+{
+"where": "sheet 'C.2' cell C26",
+"how": "cell text",
+"text": "Heptanes"
+},
+{
+"where": "sheet 'C.2' cell C27",
+"how": "cell text",
+"text": "M-C-Hexane"
+},
+{
+"where": "sheet 'C.2' cell C28",
+"how": "cell text",
+"text": "Toluene"
+},
+{
+"where": "sheet 'C.2' cell B29",
+"how": "cell text",
+"text": "C8"
+},
+{
+"where": "sheet 'C.2' cell C29",
+"how": "cell text",
+"text": "Octanes"
+},
+{
+"where": "sheet 'C.2' cell C30",
+"how": "cell text",
+"text": "E-Benzene"
+},
+{
+"where": "sheet 'C.2' cell C31",
+"how": "cell text",
+"text": "M/P-Xylene"
+},
+{
+"where": "sheet 'C.2' cell C32",
+"how": "cell text",
+"text": "O-Xylene"
+},
+{
+"where": "sheet 'C.2' cell B33",
+"how": "cell text",
+"text": "C9"
+},
+{
+"where": "sheet 'C.2' cell C33",
+"how": "cell text",
+"text": "Nonanes"
+},
+{
+"where": "sheet 'C.2' cell B34",
+"how": "cell text",
+"text": "C10"
+},
+{
+"where": "sheet 'C.2' cell C34",
+"how": "cell text",
+"text": "Decanes"
+},
+{
+"where": "sheet 'C.2' cell B35",
+"how": "cell text",
+"text": "C11"
+},
+{
+"where": "sheet 'C.2' cell C35",
+"how": "cell text",
+"text": "Undecanes"
+},
+{
+"where": "sheet 'C.2' cell B36",
+"how": "cell text",
+"text": "C12+"
+},
+{
+"where": "sheet 'C.2' cell C36",
+"how": "cell text",
+"text": "Dodecanes Plus"
+},
+{
+"where": "sheet 'C.2' cell C38",
+"how": "cell text",
+"text": "Totals"
+},
+{
+"where": "sheet 'C.2' cell B40",
+"how": "cell text",
+"text": "Calculated Residue Properties"
+},
+{
+"where": "sheet 'C.2' cell F40",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'C.2' cell H40",
+"how": "cell text",
+"text": "Weight %"
+},
+{
+"where": "sheet 'C.2' cell I40",
+"how": "cell text",
+"text": "Mole"
+},
+{
+"where": "sheet 'C.2' cell J40",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'C.2' cell I41",
+"how": "cell text",
+"text": "Weight"
+},
+{
+"where": "sheet 'C.2' cell J41",
+"how": "cell text",
+"text": "at 60oF"
+},
+{
+"where": "sheet 'C.2' cell I42",
+"how": "cell text",
+"text": " (g.mol-1)"
+},
+{
+"where": "sheet 'C.2' cell J42",
+"how": "cell text",
+"text": "(g.cm-3)"
+},
+{
+"where": "sheet 'C.2' cell B43",
+"how": "cell text",
+"text": "C7+"
+},
+{
+"where": "sheet 'C.2' cell C43",
+"how": "cell text",
+"text": "Heptanes plus"
+},
+{
+"where": "sheet 'C.2' cell B44",
+"how": "cell text",
+"text": "C8+"
+},
+{
+"where": "sheet 'C.2' cell C44",
+"how": "cell text",
+"text": "Octanes plus"
+},
+{
+"where": "sheet 'C.2' cell B45",
+"how": "cell text",
+"text": "C10+"
+},
+{
+"where": "sheet 'C.2' cell C45",
+"how": "cell text",
+"text": "Decanes plus"
+},
+{
+"where": "sheet 'C.2' cell B46",
+"how": "cell text",
+"text": "C12+"
+},
+{
+"where": "sheet 'C.2' cell C46",
+"how": "cell text",
+"text": "Dodecanes plus"
+},
+{
+"where": "sheet 'C.2' cell B48",
+"how": "cell text",
+"text": "Calculated Whole Gas Properties"
+},
+{
+"where": "sheet 'C.2' cell B49",
+"how": "cell text",
+"text": "Real Relative Density"
+},
+{
+"where": "sheet 'C.2' cell F49",
+"how": "cell text",
+"text": "(Air=1 @ 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'C.2' cell B51",
+"how": "cell text",
+"text": "Whole Sample Mole Weight"
+},
+{
+"where": "sheet 'C.2' cell F51",
+"how": "cell text",
+"text": "g.mol-1"
+},
+{
+"where": "sheet 'C.2' cell B53",
+"how": "cell text",
+"text": "Gas Density"
+},
+{
+"where": "sheet 'C.2' cell F53",
+"how": "cell text",
+"text": "kg.m-3 @ 15°C"
+},
+{
+"where": "sheet 'C.2' cell B55",
+"how": "cell text",
+"text": "Calorific Value"
+},
+{
+"where": "sheet 'C.2' cell F55",
+"how": "cell text",
+"text": "MJ.m-3  (Real Gross @ 15°C, metered @ 15°C)"
+},
+{
+"where": "sheet 'C.2' cell B57",
+"how": "cell text",
+"text": "Calorific Value"
+},
+{
+"where": "sheet 'C.2' cell F57",
+"how": "cell text",
+"text": "MJ.m-3  (Real Net @ 15°C, metered @ 15°C)"
+},
+{
+"where": "sheet 'C.2' cell B59",
+"how": "cell text",
+"text": "Gas Water Ratio (GWR)"
+},
+{
+"where": "sheet 'C.2' cell F59",
+"how": "cell text",
+"text": "scf/bbl"
+},
+{
+"where": "sheet 'Section D' cell B25",
+"how": "cell text",
+"text": "Section D - Water Analysis Data"
+},
+{
+"where": "sheet 'D.1' cell B8",
+"how": "cell text",
+"text": "Quick Water Analysis "
+},
+{
+"where": "sheet 'D.1' cell E10",
+"how": "cell text",
+"text": "Results"
+},
+{
+"where": "sheet 'D.1' cell B12",
+"how": "cell text",
+"text": "Cylinder No."
+},
+{
+"where": "sheet 'D.1' cell C12",
+"how": "cell text",
+"text": "Depth"
+},
+{
+"where": "sheet 'D.1' cell D12",
+"how": "cell text",
+"text": "Sampling Date & Time"
+},
+{
+"where": "sheet 'D.1' cell E12",
+"how": "cell text",
+"text": "Bicarbonate\n(HCO3)"
+},
+{
+"where": "sheet 'D.1' cell F12",
+"how": "cell text",
+"text": "Carbon Dioxide\nCHEMets®\n"
+},
+{
+"where": "sheet 'D.1' cell G12",
+"how": "cell text",
+"text": "Sulfide \nCHEMets®\n"
+},
+{
+"where": "sheet 'D.1' cell H12",
+"how": "cell text",
+"text": "Conductivity \n(at 25°C)"
+},
+{
+"where": "sheet 'D.1' cell I12",
+"how": "cell text",
+"text": "Resistivity \n(15.6oC or 60F)"
+},
+{
+"where": "sheet 'D.1' cell J12",
+"how": "cell text",
+"text": "Salinity \n(at 25°C)"
+},
+{
+"where": "sheet 'D.1' cell K12",
+"how": "cell text",
+"text": "T( °C)*"
+},
+{
+"where": "sheet 'D.1' cell L12",
+"how": "cell text",
+"text": "pH"
+},
+{
+"where": "sheet 'D.1' cell C13",
+"how": "cell text",
+"text": "(m MD)"
+},
+{
+"where": "sheet 'D.1' cell E13",
+"how": "cell text",
+"text": "mg/L"
+},
+{
+"where": "sheet 'D.1' cell F13",
+"how": "cell text",
+"text": "ppm \n(mg/L) "
+},
+{
+"where": "sheet 'D.1' cell G13",
+"how": "cell text",
+"text": "ppm \n(mg/L) S"
+},
+{
+"where": "sheet 'D.1' cell H13",
+"how": "cell text",
+"text": "mS/cm"
+},
+{
+"where": "sheet 'D.1' cell I13",
+"how": "cell text",
+"text": "ohm.m "
+},
+{
+"where": "sheet 'D.1' cell J13",
+"how": "cell text",
+"text": "ppm"
+},
+{
+"where": "sheet 'D.1' cell L13",
+"how": "cell text",
+"text": "pH"
+},
+{
+"where": "sheet 'D.1' cell M13",
+"how": "cell text",
+"text": "T( °C)*"
+},
+{
+"where": "sheet 'D.1' cell B14",
+"how": "cell text",
+"text": "2853-S1-F"
+},
+{
+"where": "sheet 'D.1' cell D14",
+"how": "cell text",
+"text": "17/02/2013  (01:43hrs)"
+},
+{
+"where": "sheet 'D.1' cell G14",
+"how": "cell text",
+"text": "< 0.1"
+},
+{
+"where": "sheet 'D.1' cell B16",
+"how": "cell text",
+"text": "5099-S1-F"
+},
+{
+"where": "sheet 'D.1' cell D16",
+"how": "cell text",
+"text": "17/02/2013  (01:43hrs)"
+},
+{
+"where": "sheet 'D.1' cell G16",
+"how": "cell text",
+"text": "< 0.1"
+},
+{
+"where": "sheet 'D.1' cell B19",
+"how": "cell text",
+"text": "Note: "
+},
+{
+"where": "sheet 'D.1' cell B20",
+"how": "cell text",
+"text": "Bottomhole samples were flashed to atmospheric condition at laboratory temperature (i.e 20°C) and pH measurements were performed within one hour of the flash."
+},
+{
+"where": "sheet 'D.1' cell B21",
+"how": "cell text",
+"text": "Conductivity, Resistivity, Salinity and pH results were measured by Seven Multimeter."
+},
+{
+"where": "sheet 'D.1' cell B22",
+"how": "cell text",
+"text": "* Observed Temperature"
+},
+{
+"where": "sheet 'D.2' cell B8",
+"how": "cell text",
+"text": "API WATER ANALYSIS"
+},
+{
+"where": "sheet 'D.2' cell K8",
+"how": "cell text",
+"text": "API WATER ANALYSIS"
+},
+{
+"where": "sheet 'D.2' cell B11",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'D.2' cell F11",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'D.2' cell K11",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'D.2' cell O11",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'D.2' cell B12",
+"how": "cell text",
+"text": "Field"
+},
+{
+"where": "sheet 'D.2' cell F12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell K12",
+"how": "cell text",
+"text": "Field"
+},
+{
+"where": "sheet 'D.2' cell O12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell B13",
+"how": "cell text",
+"text": "Client Sample Number"
+},
+{
+"where": "sheet 'D.2' cell F13",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell K13",
+"how": "cell text",
+"text": "Client Sample Number"
+},
+{
+"where": "sheet 'D.2' cell O13",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell B14",
+"how": "cell text",
+"text": "Sampled by Client"
+},
+{
+"where": "sheet 'D.2' cell F14",
+"how": "cell text",
+"text": "17-Feb-2013 @ 01:43hrs"
+},
+{
+"where": "sheet 'D.2' cell K14",
+"how": "cell text",
+"text": "Sampled by Client"
+},
+{
+"where": "sheet 'D.2' cell O14",
+"how": "cell text",
+"text": "17-Feb-2013 @ 01:43hrs"
+},
+{
+"where": "sheet 'D.2' cell B15",
+"how": "cell text",
+"text": "Sampled From"
+},
+{
+"where": "sheet 'D.2' cell F15",
+"how": "cell text",
+"text": "2853-S1-F @ 1850m"
+},
+{
+"where": "sheet 'D.2' cell K15",
+"how": "cell text",
+"text": "Sampled From"
+},
+{
+"where": "sheet 'D.2' cell O15",
+"how": "cell text",
+"text": "2853-S1-F @ 1850m"
+},
+{
+"where": "sheet 'D.2' cell B16",
+"how": "cell text",
+"text": "Analysed"
+},
+{
+"where": "sheet 'D.2' cell F16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell K16",
+"how": "cell text",
+"text": "Analysed"
+},
+{
+"where": "sheet 'D.2' cell O16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell B17",
+"how": "cell text",
+"text": "Our Sample Number"
+},
+{
+"where": "sheet 'D.2' cell K17",
+"how": "cell text",
+"text": "Our Sample Number"
+},
+{
+"where": "sheet 'D.2' cell B19",
+"how": "cell text",
+"text": "Appearance before filtration"
+},
+{
+"where": "sheet 'D.2' cell F19",
+"how": "cell text",
+"text": "Hazy Pale Yellow"
+},
+{
+"where": "sheet 'D.2' cell K20",
+"how": "cell text",
+"text": "STIFF DIAGRAMS"
+},
+{
+"where": "sheet 'D.2' cell B21",
+"how": "cell text",
+"text": "Appearance after filtration"
+},
+{
+"where": "sheet 'D.2' cell F21",
+"how": "cell text",
+"text": "Clear Colourless Water"
+},
+{
+"where": "sheet 'D.2' cell B23",
+"how": "cell text",
+"text": "Total dissolved solids (mg.litre-1)"
+},
+{
+"where": "sheet 'D.2' cell F23",
+"how": "cell text",
+"text": "18220"
+},
+{
+"where": "sheet 'D.2' cell B24",
+"how": "cell text",
+"text": "Specific gravity at 60°F"
+},
+{
+"where": "sheet 'D.2' cell B25",
+"how": "cell text",
+"text": "Determined Resistivity (ohm.metre at 60°F)"
+},
+{
+"where": "sheet 'D.2' cell B26",
+"how": "cell text",
+"text": "Hydrogen sulphide"
+},
+{
+"where": "sheet 'D.2' cell F26",
+"how": "cell text",
+"text": "Not Detected"
+},
+{
+"where": "sheet 'D.2' cell B27",
+"how": "cell text",
+"text": "pH at 20°C"
+},
+{
+"where": "sheet 'D.2' cell C30",
+"how": "cell text",
+"text": "Components"
+},
+{
+"where": "sheet 'D.2' cell F30",
+"how": "cell text",
+"text": "mg.litre-1"
+},
+{
+"where": "sheet 'D.2' cell H30",
+"how": "cell text",
+"text": "meq.litre-1"
+},
+{
+"where": "sheet 'D.2' cell C32",
+"how": "cell text",
+"text": "CATIONS"
+},
+{
+"where": "sheet 'D.2' cell C33",
+"how": "cell text",
+"text": "Sodium"
+},
+{
+"where": "sheet 'D.2' cell F33",
+"how": "cell text",
+"text": "5750"
+},
+{
+"where": "sheet 'D.2' cell H33",
+"how": "cell text",
+"text": "250"
+},
+{
+"where": "sheet 'D.2' cell C34",
+"how": "cell text",
+"text": "Potassium"
+},
+{
+"where": "sheet 'D.2' cell F34",
+"how": "cell text",
+"text": "135"
+},
+{
+"where": "sheet 'D.2' cell H34",
+"how": "cell text",
+"text": "3.5"
+},
+{
+"where": "sheet 'D.2' cell C35",
+"how": "cell text",
+"text": "Calcium"
+},
+{
+"where": "sheet 'D.2' cell F35",
+"how": "cell text",
+"text": "12"
+},
+{
+"where": "sheet 'D.2' cell H35",
+"how": "cell text",
+"text": "0.62"
+},
+{
+"where": "sheet 'D.2' cell C36",
+"how": "cell text",
+"text": "Magnesium"
+},
+{
+"where": "sheet 'D.2' cell F36",
+"how": "cell text",
+"text": "7.0"
+},
+{
+"where": "sheet 'D.2' cell H36",
+"how": "cell text",
+"text": "0.57"
+},
+{
+"where": "sheet 'D.2' cell C37",
+"how": "cell text",
+"text": "Barium"
+},
+{
+"where": "sheet 'D.2' cell F37",
+"how": "cell text",
+"text": "1.7"
+},
+{
+"where": "sheet 'D.2' cell H37",
+"how": "cell text",
+"text": "0.02"
+},
+{
+"where": "sheet 'D.2' cell C38",
+"how": "cell text",
+"text": "Strontium"
+},
+{
+"where": "sheet 'D.2' cell F38",
+"how": "cell text",
+"text": "< 0.50"
+},
+{
+"where": "sheet 'D.2' cell H38",
+"how": "cell text",
+"text": "< 0.01"
+},
+{
+"where": "sheet 'D.2' cell C39",
+"how": "cell text",
+"text": "Total Iron"
+},
+{
+"where": "sheet 'D.2' cell F39",
+"how": "cell text",
+"text": "5.2"
+},
+{
+"where": "sheet 'D.2' cell H39",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.2' cell C40",
+"how": "cell text",
+"text": "Dissolved Iron"
+},
+{
+"where": "sheet 'D.2' cell F40",
+"how": "cell text",
+"text": "< 0.10"
+},
+{
+"where": "sheet 'D.2' cell H40",
+"how": "cell text",
+"text": "< 0.01"
+},
+{
+"where": "sheet 'D.2' cell C42",
+"how": "cell text",
+"text": "ANIONS"
+},
+{
+"where": "sheet 'D.2' cell C43",
+"how": "cell text",
+"text": "Chloride"
+},
+{
+"where": "sheet 'D.2' cell F43",
+"how": "cell text",
+"text": "2620"
+},
+{
+"where": "sheet 'D.2' cell H43",
+"how": "cell text",
+"text": "74"
+},
+{
+"where": "sheet 'D.2' cell C44",
+"how": "cell text",
+"text": "Sulphate"
+},
+{
+"where": "sheet 'D.2' cell F44",
+"how": "cell text",
+"text": "32"
+},
+{
+"where": "sheet 'D.2' cell H44",
+"how": "cell text",
+"text": "0.67"
+},
+{
+"where": "sheet 'D.2' cell C45",
+"how": "cell text",
+"text": "Bicarbonate"
+},
+{
+"where": "sheet 'D.2' cell F45",
+"how": "cell text",
+"text": "9670"
+},
+{
+"where": "sheet 'D.2' cell H45",
+"how": "cell text",
+"text": "160"
+},
+{
+"where": "sheet 'D.2' cell C46",
+"how": "cell text",
+"text": "Carbonate"
+},
+{
+"where": "sheet 'D.2' cell F46",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.2' cell H46",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.2' cell C47",
+"how": "cell text",
+"text": "Hydroxide"
+},
+{
+"where": "sheet 'D.2' cell F47",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.2' cell H47",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.2' cell C49",
+"how": "cell text",
+"text": "ADDITIONAL COMPONENTS"
+},
+{
+"where": "sheet 'D.2' cell C50",
+"how": "cell text",
+"text": "Boron"
+},
+{
+"where": "sheet 'D.2' cell F50",
+"how": "cell text",
+"text": "28"
+},
+{
+"where": "sheet 'D.2' cell C51",
+"how": "cell text",
+"text": "Aluminium"
+},
+{
+"where": "sheet 'D.2' cell F51",
+"how": "cell text",
+"text": "< 1.0"
+},
+{
+"where": "sheet 'D.2' cell C52",
+"how": "cell text",
+"text": "Silicon"
+},
+{
+"where": "sheet 'D.2' cell F52",
+"how": "cell text",
+"text": "34"
+},
+{
+"where": "sheet 'D.2' cell C53",
+"how": "cell text",
+"text": "Phosphorus"
+},
+{
+"where": "sheet 'D.2' cell F53",
+"how": "cell text",
+"text": "< 0.30"
+},
+{
+"where": "sheet 'D.2' cell C54",
+"how": "cell text",
+"text": "Lithium"
+},
+{
+"where": "sheet 'D.2' cell F54",
+"how": "cell text",
+"text": "2.9"
+},
+{
+"where": "sheet 'D.4' cell B8",
+"how": "cell text",
+"text": "API WATER ANALYSIS"
+},
+{
+"where": "sheet 'D.4' cell K8",
+"how": "cell text",
+"text": "API WATER ANALYSIS"
+},
+{
+"where": "sheet 'D.4' cell B11",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'D.4' cell F11",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'D.4' cell K11",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'D.4' cell O11",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'D.4' cell B12",
+"how": "cell text",
+"text": "Field"
+},
+{
+"where": "sheet 'D.4' cell F12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell K12",
+"how": "cell text",
+"text": "Field"
+},
+{
+"where": "sheet 'D.4' cell O12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell B13",
+"how": "cell text",
+"text": "Client Sample Number"
+},
+{
+"where": "sheet 'D.4' cell F13",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell K13",
+"how": "cell text",
+"text": "Client Sample Number"
+},
+{
+"where": "sheet 'D.4' cell O13",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell B14",
+"how": "cell text",
+"text": "Sampled by Client"
+},
+{
+"where": "sheet 'D.4' cell F14",
+"how": "cell text",
+"text": "17-Feb-2013 @ 01:43hrs"
+},
+{
+"where": "sheet 'D.4' cell K14",
+"how": "cell text",
+"text": "Sampled by Client"
+},
+{
+"where": "sheet 'D.4' cell O14",
+"how": "cell text",
+"text": "17-Feb-2013 @ 01:43hrs"
+},
+{
+"where": "sheet 'D.4' cell B15",
+"how": "cell text",
+"text": "Sampled From"
+},
+{
+"where": "sheet 'D.4' cell F15",
+"how": "cell text",
+"text": "5099-S1-F @ 1850m"
+},
+{
+"where": "sheet 'D.4' cell K15",
+"how": "cell text",
+"text": "Sampled From"
+},
+{
+"where": "sheet 'D.4' cell O15",
+"how": "cell text",
+"text": "5099-S1-F @ 1850m"
+},
+{
+"where": "sheet 'D.4' cell B16",
+"how": "cell text",
+"text": "Analysed"
+},
+{
+"where": "sheet 'D.4' cell F16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell K16",
+"how": "cell text",
+"text": "Analysed"
+},
+{
+"where": "sheet 'D.4' cell O16",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell B17",
+"how": "cell text",
+"text": "Our Sample Number"
+},
+{
+"where": "sheet 'D.4' cell K17",
+"how": "cell text",
+"text": "Our Sample Number"
+},
+{
+"where": "sheet 'D.4' cell B19",
+"how": "cell text",
+"text": "Appearance before filtration"
+},
+{
+"where": "sheet 'D.4' cell F19",
+"how": "cell text",
+"text": "Hazy Pale Yellow"
+},
+{
+"where": "sheet 'D.4' cell K20",
+"how": "cell text",
+"text": "STIFF DIAGRAMS"
+},
+{
+"where": "sheet 'D.4' cell B21",
+"how": "cell text",
+"text": "Appearance after filtration"
+},
+{
+"where": "sheet 'D.4' cell F21",
+"how": "cell text",
+"text": "Clear Colourless Water"
+},
+{
+"where": "sheet 'D.4' cell B23",
+"how": "cell text",
+"text": "Total dissolved solids (mg.litre-1)"
+},
+{
+"where": "sheet 'D.4' cell F23",
+"how": "cell text",
+"text": "17870"
+},
+{
+"where": "sheet 'D.4' cell B24",
+"how": "cell text",
+"text": "Specific gravity at 60°F"
+},
+{
+"where": "sheet 'D.4' cell B25",
+"how": "cell text",
+"text": "Determined Resistivity (ohm.metre at 60°F)"
+},
+{
+"where": "sheet 'D.4' cell B26",
+"how": "cell text",
+"text": "Hydrogen sulphide"
+},
+{
+"where": "sheet 'D.4' cell F26",
+"how": "cell text",
+"text": "Not Detected"
+},
+{
+"where": "sheet 'D.4' cell B27",
+"how": "cell text",
+"text": "pH at 20°C"
+},
+{
+"where": "sheet 'D.4' cell C30",
+"how": "cell text",
+"text": "Components"
+},
+{
+"where": "sheet 'D.4' cell F30",
+"how": "cell text",
+"text": "mg.litre-1"
+},
+{
+"where": "sheet 'D.4' cell H30",
+"how": "cell text",
+"text": "meq.litre-1"
+},
+{
+"where": "sheet 'D.4' cell C32",
+"how": "cell text",
+"text": "CATIONS"
+},
+{
+"where": "sheet 'D.4' cell C33",
+"how": "cell text",
+"text": "Sodium"
+},
+{
+"where": "sheet 'D.4' cell F33",
+"how": "cell text",
+"text": "5760"
+},
+{
+"where": "sheet 'D.4' cell H33",
+"how": "cell text",
+"text": "250"
+},
+{
+"where": "sheet 'D.4' cell C34",
+"how": "cell text",
+"text": "Potassium"
+},
+{
+"where": "sheet 'D.4' cell F34",
+"how": "cell text",
+"text": "135"
+},
+{
+"where": "sheet 'D.4' cell H34",
+"how": "cell text",
+"text": "3.4"
+},
+{
+"where": "sheet 'D.4' cell C35",
+"how": "cell text",
+"text": "Calcium"
+},
+{
+"where": "sheet 'D.4' cell F35",
+"how": "cell text",
+"text": "9.8"
+},
+{
+"where": "sheet 'D.4' cell H35",
+"how": "cell text",
+"text": "0.49"
+},
+{
+"where": "sheet 'D.4' cell C36",
+"how": "cell text",
+"text": "Magnesium"
+},
+{
+"where": "sheet 'D.4' cell F36",
+"how": "cell text",
+"text": "6.5"
+},
+{
+"where": "sheet 'D.4' cell H36",
+"how": "cell text",
+"text": "0.53"
+},
+{
+"where": "sheet 'D.4' cell C37",
+"how": "cell text",
+"text": "Barium"
+},
+{
+"where": "sheet 'D.4' cell F37",
+"how": "cell text",
+"text": "1.4"
+},
+{
+"where": "sheet 'D.4' cell H37",
+"how": "cell text",
+"text": "0.02"
+},
+{
+"where": "sheet 'D.4' cell C38",
+"how": "cell text",
+"text": "Strontium"
+},
+{
+"where": "sheet 'D.4' cell F38",
+"how": "cell text",
+"text": "< 0.50"
+},
+{
+"where": "sheet 'D.4' cell H38",
+"how": "cell text",
+"text": "< 0.01"
+},
+{
+"where": "sheet 'D.4' cell C39",
+"how": "cell text",
+"text": "Total Iron"
+},
+{
+"where": "sheet 'D.4' cell F39",
+"how": "cell text",
+"text": "1.9"
+},
+{
+"where": "sheet 'D.4' cell H39",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'D.4' cell C40",
+"how": "cell text",
+"text": "Dissolved Iron"
+},
+{
+"where": "sheet 'D.4' cell F40",
+"how": "cell text",
+"text": "< 0.10"
+},
+{
+"where": "sheet 'D.4' cell H40",
+"how": "cell text",
+"text": "< 0.01"
+},
+{
+"where": "sheet 'D.4' cell C42",
+"how": "cell text",
+"text": "ANIONS"
+},
+{
+"where": "sheet 'D.4' cell C43",
+"how": "cell text",
+"text": "Chloride"
+},
+{
+"where": "sheet 'D.4' cell F43",
+"how": "cell text",
+"text": "2350"
+},
+{
+"where": "sheet 'D.4' cell H43",
+"how": "cell text",
+"text": "66"
+},
+{
+"where": "sheet 'D.4' cell C44",
+"how": "cell text",
+"text": "Sulphate"
+},
+{
+"where": "sheet 'D.4' cell F44",
+"how": "cell text",
+"text": "31"
+},
+{
+"where": "sheet 'D.4' cell H44",
+"how": "cell text",
+"text": "0.65"
+},
+{
+"where": "sheet 'D.4' cell C45",
+"how": "cell text",
+"text": "Bicarbonate"
+},
+{
+"where": "sheet 'D.4' cell F45",
+"how": "cell text",
+"text": "9590"
+},
+{
+"where": "sheet 'D.4' cell H45",
+"how": "cell text",
+"text": "155"
+},
+{
+"where": "sheet 'D.4' cell C46",
+"how": "cell text",
+"text": "Carbonate"
+},
+{
+"where": "sheet 'D.4' cell F46",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.4' cell H46",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.4' cell C47",
+"how": "cell text",
+"text": "Hydroxide"
+},
+{
+"where": "sheet 'D.4' cell F47",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.4' cell H47",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'D.4' cell C49",
+"how": "cell text",
+"text": "ADDITIONAL COMPONENTS"
+},
+{
+"where": "sheet 'D.4' cell C50",
+"how": "cell text",
+"text": "Boron"
+},
+{
+"where": "sheet 'D.4' cell F50",
+"how": "cell text",
+"text": "28"
+},
+{
+"where": "sheet 'D.4' cell C51",
+"how": "cell text",
+"text": "Aluminium"
+},
+{
+"where": "sheet 'D.4' cell F51",
+"how": "cell text",
+"text": "< 1.0"
+},
+{
+"where": "sheet 'D.4' cell C52",
+"how": "cell text",
+"text": "Silicon"
+},
+{
+"where": "sheet 'D.4' cell F52",
+"how": "cell text",
+"text": "33"
+},
+{
+"where": "sheet 'D.4' cell C53",
+"how": "cell text",
+"text": "Phosphorus"
+},
+{
+"where": "sheet 'D.4' cell F53",
+"how": "cell text",
+"text": "< 0.30"
+},
+{
+"where": "sheet 'D.4' cell C54",
+"how": "cell text",
+"text": "Lithium"
+},
+{
+"where": "sheet 'D.4' cell F54",
+"how": "cell text",
+"text": "2.9"
+},
+{
+"where": "sheet 'Section E' cell B25",
+"how": "cell text",
+"text": "Section E - Appendix I"
+},
+{
+"where": "sheet 'E.1' cell B1",
+"how": "cell text",
+"text": "page19"
+},
+{
+"where": "sheet 'E.1' cell B8",
+"how": "cell text",
+"text": "Data Used in Gas Compositional Calculations"
+},
+{
+"where": "sheet 'E.1' cell K8",
+"how": "cell text",
+"text": "Data Used in Liquid Compositional Calculations"
+},
+{
+"where": "sheet 'E.1' cell B11",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'E.1' cell D11",
+"how": "cell text",
+"text": "Mole Weight"
+},
+{
+"where": "sheet 'E.1' cell E11",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'E.1' cell F11",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'E.1' cell H11",
+"how": "cell text",
+"text": "Mole Weight"
+},
+{
+"where": "sheet 'E.1' cell I11",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'E.1' cell K11",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'E.1' cell M11",
+"how": "cell text",
+"text": "Mole Weight"
+},
+{
+"where": "sheet 'E.1' cell N11",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'E.1' cell O11",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'E.1' cell Q11",
+"how": "cell text",
+"text": "Mole Weight"
+},
+{
+"where": "sheet 'E.1' cell R11",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'E.1' cell D12",
+"how": "cell text",
+"text": "(g mol-1)"
+},
+{
+"where": "sheet 'E.1' cell E12",
+"how": "cell text",
+"text": "(g cm-3 at 60°F)"
+},
+{
+"where": "sheet 'E.1' cell H12",
+"how": "cell text",
+"text": "(g mol-1)"
+},
+{
+"where": "sheet 'E.1' cell I12",
+"how": "cell text",
+"text": "(g cm-3 at 60°F)"
+},
+{
+"where": "sheet 'E.1' cell M12",
+"how": "cell text",
+"text": "(g mol-1)"
+},
+{
+"where": "sheet 'E.1' cell N12",
+"how": "cell text",
+"text": "(g cm-3 at 60°F)"
+},
+{
+"where": "sheet 'E.1' cell Q12",
+"how": "cell text",
+"text": "(g mol-1)"
+},
+{
+"where": "sheet 'E.1' cell R12",
+"how": "cell text",
+"text": "(g cm-3 at 60°F)"
+},
+{
+"where": "sheet 'E.1' cell B14",
+"how": "cell text",
+"text": "Hydrogen"
+},
+{
+"where": "sheet 'E.1' cell C14",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell E14",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'E.1' cell F14",
+"how": "cell text",
+"text": "33DMC5"
+},
+{
+"where": "sheet 'E.1' cell G14",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K14",
+"how": "cell text",
+"text": "Hydrogen"
+},
+{
+"where": "sheet 'E.1' cell L14",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell N14",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'E.1' cell O14",
+"how": "cell text",
+"text": "Undecanes"
+},
+{
+"where": "sheet 'E.1' cell P14",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B15",
+"how": "cell text",
+"text": "Oxygen/(Argon) "
+},
+{
+"where": "sheet 'E.1' cell C15",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F15",
+"how": "cell text",
+"text": "Cyclohexane"
+},
+{
+"where": "sheet 'E.1' cell G15",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K15",
+"how": "cell text",
+"text": "Hyd. sulphide"
+},
+{
+"where": "sheet 'E.1' cell L15",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O15",
+"how": "cell text",
+"text": "Dodecanes"
+},
+{
+"where": "sheet 'E.1' cell P15",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B16",
+"how": "cell text",
+"text": "Nitrogen (Corrected)"
+},
+{
+"where": "sheet 'E.1' cell C16",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F16",
+"how": "cell text",
+"text": "2MC6/23DMC5"
+},
+{
+"where": "sheet 'E.1' cell G16",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K16",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'E.1' cell L16",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O16",
+"how": "cell text",
+"text": "Tridecanes"
+},
+{
+"where": "sheet 'E.1' cell P16",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B17",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'E.1' cell C17",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F17",
+"how": "cell text",
+"text": "11DMCYC5/3MC6"
+},
+{
+"where": "sheet 'E.1' cell G17",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K17",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'E.1' cell L17",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O17",
+"how": "cell text",
+"text": "Tetradecanes"
+},
+{
+"where": "sheet 'E.1' cell P17",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B18",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'E.1' cell C18",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F18",
+"how": "cell text",
+"text": "t13DMCYC5"
+},
+{
+"where": "sheet 'E.1' cell G18",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K18",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'E.1' cell L18",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O18",
+"how": "cell text",
+"text": "Pentadecanes"
+},
+{
+"where": "sheet 'E.1' cell P18",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B19",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'E.1' cell C19",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F19",
+"how": "cell text",
+"text": "c13DMCYC5/3EC5"
+},
+{
+"where": "sheet 'E.1' cell G19",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K19",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'E.1' cell L19",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O19",
+"how": "cell text",
+"text": "Hexadecanes"
+},
+{
+"where": "sheet 'E.1' cell P19",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B20",
+"how": "cell text",
+"text": "Hydrogen Sulphide"
+},
+{
+"where": "sheet 'E.1' cell C20",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F20",
+"how": "cell text",
+"text": "t12DMCYC5"
+},
+{
+"where": "sheet 'E.1' cell G20",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K20",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'E.1' cell L20",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O20",
+"how": "cell text",
+"text": "Heptadecanes"
+},
+{
+"where": "sheet 'E.1' cell P20",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B21",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'E.1' cell C21",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F21",
+"how": "cell text",
+"text": "Heptanes (nC7)"
+},
+{
+"where": "sheet 'E.1' cell G21",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K21",
+"how": "cell text",
+"text": "i-Butane"
+},
+{
+"where": "sheet 'E.1' cell L21",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O21",
+"how": "cell text",
+"text": "Octadecanes"
+},
+{
+"where": "sheet 'E.1' cell P21",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B22",
+"how": "cell text",
+"text": "i-Butane"
+},
+{
+"where": "sheet 'E.1' cell C22",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F22",
+"how": "cell text",
+"text": "22DMC6"
+},
+{
+"where": "sheet 'E.1' cell G22",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K22",
+"how": "cell text",
+"text": "n-Butane"
+},
+{
+"where": "sheet 'E.1' cell L22",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O22",
+"how": "cell text",
+"text": "Nonadecanes"
+},
+{
+"where": "sheet 'E.1' cell P22",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B23",
+"how": "cell text",
+"text": "n-Butane"
+},
+{
+"where": "sheet 'E.1' cell C23",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell F23",
+"how": "cell text",
+"text": "MCYC6"
+},
+{
+"where": "sheet 'E.1' cell G23",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K23",
+"how": "cell text",
+"text": "i-Pentane"
+},
+{
+"where": "sheet 'E.1' cell L23",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O23",
+"how": "cell text",
+"text": "Eicosanes"
+},
+{
+"where": "sheet 'E.1' cell P23",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B24",
+"how": "cell text",
+"text": "Neo-Pentane"
+},
+{
+"where": "sheet 'E.1' cell C24",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D24",
+"how": "cell text",
+"text": "72.15"
+},
+{
+"where": "sheet 'E.1' cell F24",
+"how": "cell text",
+"text": "ECYC5"
+},
+{
+"where": "sheet 'E.1' cell G24",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K24",
+"how": "cell text",
+"text": "n-Pentane"
+},
+{
+"where": "sheet 'E.1' cell L24",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O24",
+"how": "cell text",
+"text": "Heneicosanes"
+},
+{
+"where": "sheet 'E.1' cell P24",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B25",
+"how": "cell text",
+"text": "i-Pentane"
+},
+{
+"where": "sheet 'E.1' cell C25",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell D25",
+"how": "cell text",
+"text": "72.150"
+},
+{
+"where": "sheet 'E.1' cell F25",
+"how": "cell text",
+"text": "223TMC5/24&25DMC6"
+},
+{
+"where": "sheet 'E.1' cell G25",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K25",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'E.1' cell L25",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O25",
+"how": "cell text",
+"text": "Docosanes"
+},
+{
+"where": "sheet 'E.1' cell P25",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B26",
+"how": "cell text",
+"text": "n-Pentane"
+},
+{
+"where": "sheet 'E.1' cell C26",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell D26",
+"how": "cell text",
+"text": "72.150"
+},
+{
+"where": "sheet 'E.1' cell F26",
+"how": "cell text",
+"text": "ctc124TMCYC5"
+},
+{
+"where": "sheet 'E.1' cell G26",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K26",
+"how": "cell text",
+"text": "Me-cyclo-pentane"
+},
+{
+"where": "sheet 'E.1' cell L26",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O26",
+"how": "cell text",
+"text": "Tricosanes"
+},
+{
+"where": "sheet 'E.1' cell P26",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B27",
+"how": "cell text",
+"text": "22DMC4"
+},
+{
+"where": "sheet 'E.1' cell C27",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D27",
+"how": "cell text",
+"text": "86.18"
+},
+{
+"where": "sheet 'E.1' cell F27",
+"how": "cell text",
+"text": "ctc123TMCYC5"
+},
+{
+"where": "sheet 'E.1' cell G27",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K27",
+"how": "cell text",
+"text": "Benzene"
+},
+{
+"where": "sheet 'E.1' cell L27",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O27",
+"how": "cell text",
+"text": "Tetracosanes"
+},
+{
+"where": "sheet 'E.1' cell P27",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B28",
+"how": "cell text",
+"text": "23DMC4/CYC5"
+},
+{
+"where": "sheet 'E.1' cell C28",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D28",
+"how": "cell text",
+"text": "78.16"
+},
+{
+"where": "sheet 'E.1' cell F28",
+"how": "cell text",
+"text": "Toluene"
+},
+{
+"where": "sheet 'E.1' cell G28",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K28",
+"how": "cell text",
+"text": "Cyclo-hexane"
+},
+{
+"where": "sheet 'E.1' cell L28",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O28",
+"how": "cell text",
+"text": "Pentacosanes"
+},
+{
+"where": "sheet 'E.1' cell P28",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B29",
+"how": "cell text",
+"text": "2MC5"
+},
+{
+"where": "sheet 'E.1' cell C29",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D29",
+"how": "cell text",
+"text": "86.18"
+},
+{
+"where": "sheet 'E.1' cell F29",
+"how": "cell text",
+"text": "Octanes (nC8) "
+},
+{
+"where": "sheet 'E.1' cell G29",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K29",
+"how": "cell text",
+"text": "Heptanes"
+},
+{
+"where": "sheet 'E.1' cell L29",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O29",
+"how": "cell text",
+"text": "Hexacosanes"
+},
+{
+"where": "sheet 'E.1' cell P29",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B30",
+"how": "cell text",
+"text": "3MC5"
+},
+{
+"where": "sheet 'E.1' cell C30",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D30",
+"how": "cell text",
+"text": "86.18"
+},
+{
+"where": "sheet 'E.1' cell F30",
+"how": "cell text",
+"text": "E-Benzene"
+},
+{
+"where": "sheet 'E.1' cell G30",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K30",
+"how": "cell text",
+"text": "Me-cyclo-hexane"
+},
+{
+"where": "sheet 'E.1' cell L30",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O30",
+"how": "cell text",
+"text": "Heptacosanes"
+},
+{
+"where": "sheet 'E.1' cell P30",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B31",
+"how": "cell text",
+"text": "Hexanes (nC6)"
+},
+{
+"where": "sheet 'E.1' cell C31",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D31",
+"how": "cell text",
+"text": "86.18"
+},
+{
+"where": "sheet 'E.1' cell F31",
+"how": "cell text",
+"text": "M/P-Xylene"
+},
+{
+"where": "sheet 'E.1' cell G31",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K31",
+"how": "cell text",
+"text": "Toluene"
+},
+{
+"where": "sheet 'E.1' cell L31",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O31",
+"how": "cell text",
+"text": "Octacosanes"
+},
+{
+"where": "sheet 'E.1' cell P31",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B32",
+"how": "cell text",
+"text": "22DMC5"
+},
+{
+"where": "sheet 'E.1' cell C32",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D32",
+"how": "cell text",
+"text": "100.20"
+},
+{
+"where": "sheet 'E.1' cell F32",
+"how": "cell text",
+"text": "O-Xylene"
+},
+{
+"where": "sheet 'E.1' cell G32",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K32",
+"how": "cell text",
+"text": "Octanes"
+},
+{
+"where": "sheet 'E.1' cell L32",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O32",
+"how": "cell text",
+"text": "Nonacosanes"
+},
+{
+"where": "sheet 'E.1' cell P32",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B33",
+"how": "cell text",
+"text": "M-C-Pentane"
+},
+{
+"where": "sheet 'E.1' cell C33",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D33",
+"how": "cell text",
+"text": "84.16"
+},
+{
+"where": "sheet 'E.1' cell F33",
+"how": "cell text",
+"text": "Nonanes (nC9)"
+},
+{
+"where": "sheet 'E.1' cell G33",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell K33",
+"how": "cell text",
+"text": "Ethyl-benzene"
+},
+{
+"where": "sheet 'E.1' cell L33",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O33",
+"how": "cell text",
+"text": "Triacontanes"
+},
+{
+"where": "sheet 'E.1' cell P33",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B34",
+"how": "cell text",
+"text": "24DMC5"
+},
+{
+"where": "sheet 'E.1' cell C34",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D34",
+"how": "cell text",
+"text": "100.20"
+},
+{
+"where": "sheet 'E.1' cell F34",
+"how": "cell text",
+"text": "Decanes "
+},
+{
+"where": "sheet 'E.1' cell G34",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell K34",
+"how": "cell text",
+"text": "Meta/Para-xylene"
+},
+{
+"where": "sheet 'E.1' cell L34",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O34",
+"how": "cell text",
+"text": "Hentriacontanes"
+},
+{
+"where": "sheet 'E.1' cell P34",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B35",
+"how": "cell text",
+"text": "223TMC4"
+},
+{
+"where": "sheet 'E.1' cell C35",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D35",
+"how": "cell text",
+"text": "100.20"
+},
+{
+"where": "sheet 'E.1' cell F35",
+"how": "cell text",
+"text": "Undecanes"
+},
+{
+"where": "sheet 'E.1' cell G35",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell K35",
+"how": "cell text",
+"text": "Ortho-xylene"
+},
+{
+"where": "sheet 'E.1' cell L35",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O35",
+"how": "cell text",
+"text": "Dotriacontanes"
+},
+{
+"where": "sheet 'E.1' cell P35",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B36",
+"how": "cell text",
+"text": "Benzene"
+},
+{
+"where": "sheet 'E.1' cell C36",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell D36",
+"how": "cell text",
+"text": "78.11"
+},
+{
+"where": "sheet 'E.1' cell F36",
+"how": "cell text",
+"text": "Dodecanes"
+},
+{
+"where": "sheet 'E.1' cell G36",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell K36",
+"how": "cell text",
+"text": "Nonanes"
+},
+{
+"where": "sheet 'E.1' cell L36",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O36",
+"how": "cell text",
+"text": "Tritriacontanes"
+},
+{
+"where": "sheet 'E.1' cell P36",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell K37",
+"how": "cell text",
+"text": "1-2-4-T-M-benzene"
+},
+{
+"where": "sheet 'E.1' cell L37",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'E.1' cell O37",
+"how": "cell text",
+"text": "Tetratriacontanes"
+},
+{
+"where": "sheet 'E.1' cell P37",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell K38",
+"how": "cell text",
+"text": "Decanes"
+},
+{
+"where": "sheet 'E.1' cell L38",
+"how": "cell text",
+"text": "**"
+},
+{
+"where": "sheet 'E.1' cell O38",
+"how": "cell text",
+"text": "Pentatriacontanes"
+},
+{
+"where": "sheet 'E.1' cell P38",
+"how": "cell text",
+"text": "***"
+},
+{
+"where": "sheet 'E.1' cell B39",
+"how": "cell text",
+"text": "Data Source Refs :"
+},
+{
+"where": "sheet 'E.1' cell B41",
+"how": "cell text",
+"text": " * ASTM Data Series Publication DS 4B (1991) - Physical Constants of Hydrocarbon and Non-Hydrocarbon "
+},
+{
+"where": "sheet 'E.1' cell K41",
+"how": "cell text",
+"text": "Data Source Refs :"
+},
+{
+"where": "sheet 'E.1' cell B42",
+"how": "cell text",
+"text": "    Compounds."
+},
+{
+"where": "sheet 'E.1' cell K43",
+"how": "cell text",
+"text": " * ASTM Data Series Publication DS 4B (1991) - Physical Constants of Hydrocarbon and Non-Hydrocarbon "
+},
+{
+"where": "sheet 'E.1' cell B44",
+"how": "cell text",
+"text": " ** GPA Table of Physical Constants of Paraffin Hydrocarbons and Other Components of Natural Gas, "
+},
+{
+"where": "sheet 'E.1' cell K44",
+"how": "cell text",
+"text": "    Compounds."
+},
+{
+"where": "sheet 'E.1' cell B45",
+"how": "cell text",
+"text": "     GPA 2145-96."
+},
+{
+"where": "sheet 'E.1' cell K46",
+"how": "cell text",
+"text": " ** GPA Table of Physical Constants of Paraffin Hydrocarbons and Other Components of Natural Gas"
+},
+{
+"where": "sheet 'E.1' cell B47",
+"how": "cell text",
+"text": " *** Journal of Petroleum Technology, Nov 1978, Pages 1649-1655. "
+},
+{
+"where": "sheet 'E.1' cell K47",
+"how": "cell text",
+"text": "     GPA 2145-96."
+},
+{
+"where": "sheet 'E.1' cell B48",
+"how": "cell text",
+"text": "      Predicting Phase Behaviour of Condensate/Crude Oil Systems Using Methane Interaction Coefficients  "
+},
+{
+"where": "sheet 'E.1' cell B49",
+"how": "cell text",
+"text": "      - D.L. Katz & A. Firoozabadi.  "
+},
+{
+"where": "sheet 'E.1' cell K49",
+"how": "cell text",
+"text": " *** Journal of Petroleum Technology, Nov 1978, Pages 1649-1655.  "
+},
+{
+"where": "sheet 'E.1' cell K50",
+"how": "cell text",
+"text": "      Predicting Phase Behaviour of Condensate/Crude Oil Systems Using Methane Interaction Coefficients   "
+},
+{
+"where": "sheet 'E.1' cell K51",
+"how": "cell text",
+"text": "      - D.L. Katz & A. Firoozabadi.  "
+},
+{
+"where": "sheet 'Section F' cell B25",
+"how": "cell text",
+"text": "Section F - Appendix II"
+},
+{
+"where": "sheet 'Sample Info' cell A2",
+"how": "cell text",
+"text": "CORE LABORATORIES MALAYSIA SDN BHD\nPROCESS CONTROL"
+},
+{
+"where": "sheet 'Sample Info' cell A5",
+"how": "cell text",
+"text": "Revision: 003"
+},
+{
+"where": "sheet 'Sample Info' cell F5",
+"how": "cell text",
+"text": "Date: 22 January 2007"
+},
+{
+"where": "sheet 'Sample Info' cell L5",
+"how": "cell text",
+"text": "Authorisation: Fadli Ramli"
+},
+{
+"where": "sheet 'Sample Info' cell A7",
+"how": "cell text",
+"text": "Form: Sample Information"
+},
+{
+"where": "sheet 'Sample Info' cell C9",
+"how": "cell text",
+"text": "Company :"
+},
+{
+"where": "sheet 'Sample Info' cell D9",
+"how": "cell text",
+"text": "PETRONAS Carigali Sdn. Bhd."
+},
+{
+"where": "sheet 'Sample Info' cell K9",
+"how": "cell text",
+"text": "Date Received :"
+},
+{
+"where": "sheet 'Sample Info' cell C10",
+"how": "cell text",
+"text": "Well :"
+},
+{
+"where": "sheet 'Sample Info' cell D10",
+"how": "cell text",
+"text": "DLD-32L"
+},
+{
+"where": "sheet 'Sample Info' cell K10",
+"how": "cell text",
+"text": "Received By :"
+},
+{
+"where": "sheet 'Sample Info' cell L10",
+"how": "cell text",
+"text": "Azmir"
+},
+{
+"where": "sheet 'Sample Info' cell C11",
+"how": "cell text",
+"text": "Field :"
+},
+{
+"where": "sheet 'Sample Info' cell D11",
+"how": "cell text",
+"text": "Dulang D"
+},
+{
+"where": "sheet 'Sample Info' cell K11",
+"how": "cell text",
+"text": "Airway Bil No :"
+},
+{
+"where": "sheet 'Sample Info' cell L11",
+"how": "cell text",
+"text": "DO : 50364"
+},
+{
+"where": "sheet 'Sample Info' cell C12",
+"how": "cell text",
+"text": "Rig :"
+},
+{
+"where": "sheet 'Sample Info' cell D12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Sample Info' cell K12",
+"how": "cell text",
+"text": "Job Number :"
+},
+{
+"where": "sheet 'Sample Info' cell L12",
+"how": "cell text",
+"text": "MFL 20130041"
+},
+{
+"where": "sheet 'Sample Info' cell A14",
+"how": "cell text",
+"text": "Sample"
+},
+{
+"where": "sheet 'Sample Info' cell D14",
+"how": "cell text",
+"text": "Cylinder / Bottle"
+},
+{
+"where": "sheet 'Sample Info' cell I14",
+"how": "cell text",
+"text": "Reservoir"
+},
+{
+"where": "sheet 'Sample Info' cell K14",
+"how": "cell text",
+"text": "Depth"
+},
+{
+"where": "sheet 'Sample Info' cell A15",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell B15",
+"how": "cell text",
+"text": "vol (cc)"
+},
+{
+"where": "sheet 'Sample Info' cell C15",
+"how": "cell text",
+"text": "type"
+},
+{
+"where": "sheet 'Sample Info' cell D15",
+"how": "cell text",
+"text": "No"
+},
+{
+"where": "sheet 'Sample Info' cell E15",
+"how": "cell text",
+"text": "type"
+},
+{
+"where": "sheet 'Sample Info' cell F15",
+"how": "cell text",
+"text": "cover"
+},
+{
+"where": "sheet 'Sample Info' cell G15",
+"how": "cell text",
+"text": "plug"
+},
+{
+"where": "sheet 'Sample Info' cell H15",
+"how": "cell text",
+"text": "capacity"
+},
+{
+"where": "sheet 'Sample Info' cell I15",
+"how": "cell text",
+"text": "P (psig)"
+},
+{
+"where": "sheet 'Sample Info' cell J15",
+"how": "cell text",
+"text": "T ( deg F)"
+},
+{
+"where": "sheet 'Sample Info' cell K15",
+"how": "cell text",
+"text": "(m MD)"
+},
+{
+"where": "sheet 'Sample Info' cell L15",
+"how": "cell text",
+"text": "Remarks"
+},
+{
+"where": "sheet 'Sample Info' cell C17",
+"how": "cell text",
+"text": "BHS Water"
+},
+{
+"where": "sheet 'Sample Info' cell D17",
+"how": "cell text",
+"text": "5099-S1-F"
+},
+{
+"where": "sheet 'Sample Info' cell E17",
+"how": "cell text",
+"text": "Proserv Type 6"
+},
+{
+"where": "sheet 'Sample Info' cell F17",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'Sample Info' cell G17",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'Sample Info' cell L17",
+"how": "cell text",
+"text": "Sampling date: 17th Feb 2013"
+},
+{
+"where": "sheet 'Sample Info' cell L18",
+"how": "cell text",
+"text": "Sampling time: 1:43 hrs"
+},
+{
+"where": "sheet 'Sample Info' cell C20",
+"how": "cell text",
+"text": "BHS Water"
+},
+{
+"where": "sheet 'Sample Info' cell D20",
+"how": "cell text",
+"text": "2853-S1-F"
+},
+{
+"where": "sheet 'Sample Info' cell E20",
+"how": "cell text",
+"text": "Proserv Type 6"
+},
+{
+"where": "sheet 'Sample Info' cell F20",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'Sample Info' cell G20",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'Sample Info' cell L20",
+"how": "cell text",
+"text": "Sampling date: 17th Feb 2013"
+},
+{
+"where": "sheet 'Sample Info' cell L21",
+"how": "cell text",
+"text": "Sampling time: 1:43 hrs"
+},
+{
+"where": "sheet 'Back' cell C33",
+"how": "cell text",
+"text": "Report prepared by"
+},
+{
+"where": "sheet 'Back' cell C41",
+"how": "cell text",
+"text": "Azhar Mohd Noor"
+},
+{
+"where": "sheet 'Back' cell C42",
+"how": "cell text",
+"text": "Project Coordinator"
+},
+{
+"where": "sheet 'Back' cell C43",
+"how": "cell text",
+"text": "Reservoir Fluids Group"
+},
+{
+"where": "sheet 'Back' cell C48",
+"how": "cell text",
+"text": "Report checked by"
+},
+{
+"where": "sheet 'Back' cell E48",
+"how": "cell text",
+"text": "Report approved by"
+},
+{
+"where": "sheet 'Back' cell C56",
+"how": "cell text",
+"text": "Hairul Izwan Deraman"
+},
+{
+"where": "sheet 'Back' cell E56",
+"how": "cell text",
+"text": "Fadli Ramli"
+},
+{
+"where": "sheet 'Back' cell C57",
+"how": "cell text",
+"text": "Supervisor PVT"
+},
+{
+"where": "sheet 'Back' cell E57",
+"how": "cell text",
+"text": "Manager PVT"
+},
+{
+"where": "sheet 'Back' cell C58",
+"how": "cell text",
+"text": "Reservoir Fluids Group"
+},
+{
+"where": "sheet 'Back' cell E58",
+"how": "cell text",
+"text": "Reservoir Fluids Group"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Print all Pages"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Page Setup"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Generate PDF \nReport"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Black Fonts"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Add Section to \nFinal Report "
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Go To Help"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Delete Introduced Range Names"
+},
+{
+"where": "text box on 'Front'",
+"how": "text box",
+"text": "Note; This name appears on the disclaimer.\n"
+},
+{
+"where": "text box on 'Letter'",
+"how": "text box",
+"text": "\n5 August 2004\n\n\nMurphy Sarawak Oil Co. Ltd.\n\n\nMalaysia\n\n\nAttention :  \n\nDear Sirs,\n\nSubject : Reservoir Fluid Analysis Report; Kikeh-4 ST1; our file MFL 23064B.\n\nSeveral sub-surface reservoir oil samples, collected during wireline logging of the Kikeh-4 ST1 well, were received in our Kuala Lumpur laboratory for use in a reservoir fluid study.  Presented in the following report are the reslts of all analysis requested.\n\nCore Laboratories Malaysia Sdn Bhd appreciates this opportunity to have been of service to Murphy Sarawak Oil Co. Ltd.  Should any questions arise concerning the data presented in this report, or if Core Laboratories may be of assistance in any other matter, please do not hesitate to contact us.\n\n\nYours sincerely,\n\nCore Laboratories Malaysia Sdn Bhd\n\n\n\n\n\nGurdev Gurdial\nManager - Reservoir Fluids \n\n\n\n"
+},
+{
+"where": "text box on 'Letter'",
+"how": "text box",
+"text": "\n\n\nMAY 2013\n\nPETRONAS Carigali Sdn. Bhd.\nPeninsular Malaysia Resource (PEM),\nLevel 13 Tower 2,\nPETRONAS Twin Towers,\nKuala Lumpur City Center, \n50088 Kuala Lumpur,\nMalaysia.\n\nAttention : Luqman Abd. Rahman (Reservoir Engineer - Dulang)\n\nSubject : Water Analysis, DLD-32L Well\n                Our Ref: MFL 20130041\n\nTwo (2) bottomhole water samples were collected from DLD-32L well and forwarded to our Kuala Lumpur laboratory for water analysis. \n\nCore Laboratories Malaysia Sdn. Bhd. appreciates this opportunity to have been of service to PETRONAS Carigali Sdn. Bhd. Should any questions arise concerning the data presented in this report, or if Core Laboratories Malaysia Sdn. Bhd. may be of assistance in any other matter, please do not hesitate to contact us.\n\n\n\n\n\n\n\nYours sincerely,\n\nCore Laboratories Malaysia Sdn Bhd\n\n\n\n\nGurdev Gurdial\nManager\nReservoir Fluids Group"
+},
+{
+"where": "text box on 'A.1'",
+"how": "text box",
+"text": "Samples Received\nTwo (2) bottomhole water samples were collected from DLD-32L well and forwarded to our Kuala Lumpur laboratory for API 12 ion Water Analysis, Salinity, Resistivity, pH, Specific Gravity, Total Dissolved Solids and Scaling Potential analyses.\n\nGas-Water Ratio by Flash Separation Technique\nA known volume of the bottomhole water sample was flashed to atmospheric pressure and laboratory temperature (20°C). The dissolved gas from the bottomhole water sample was collected  by using flash/separation technique.The dissolved gas was then analysed through extended gas analysis technique.  Utilizing the volumetric data from the flash/separation technique, Gas-Water-Ratio (GWR) was calculated. The schematic diagram of flash separation technique is presented as Figure 1 on page A.3 of this report. After completion of the flash process for GWR, the balance of bottomhole water sample was flashed to atmospheric and collected as stocktank water for further water analysis.\n\nWater Compositional Analysis\nSalinity\nConductivity and salinity measures waters ability to conduct electricity, which provides a measure of what is dissolved in water. Salinity is estimated from conductivity measurement. Since salts in water conduct current, conductivity is proportional to the salt-concentration. A complex mathematical equation is utilized to calculate or estimate salinity from conductivity. This equation accounts for the temperature dependence of conductivity.\n\nElemental Analysis \nThe sample was filtered through a Whatman No. 5 filter paper and a dilution was made, using distilled water, according to their salinity. This is to ensure that all the elements are in the correct range for ICP analysis.  The result was presented in mg/l on the ICP (Inductively Coupled Plasma Atomic Emission Spectroscopy) for all detectable elements found in formation waters, seawaters and drilling fluids. A routine water analysis consists of determining the following ions by ICP technique – sodium, potassium, calcium, magnesium, barium, strontium, dissolved iron, sulphate (as total sulphur), phosphorus, silicon, boron, aluminium and lithium.\n\nChloride Content\nThe diluted sample was then analysed for chloride content by titration with silver nitrate solution using an ion selective electrode. Before usage, the instrument was calibrated by running a quality control sample.\n\npH / Bicarbonate / Carbonate Determinations\npH and bicarbonate determinations were performed by ion selective electrode. The instrument was first calibrated using pH 10, 7 and 4 buffers and checked by using a bicarbonate quality control sample. The pH and bicarbonate determinations was performed on filtered undiluted sample. The pH of a sample was initially determined using an ion selective electrode.  If pH is above 8.1, the sample is titrated with sulphuric acid for carbonate down to pH 8.1 then down to pH 4.1 for bicarbonate.\n\nTotal Iron Determinations\nThe measurement was performed on unfiltered & undiluted sample.  A 10ml aliquot of water was sub-sampled and heated on a hotplate after the addition of hydrochloric acid.  The sample was filtered into a 100 ml flask and made up to the mark with distilled water (x 10 dilution). The sample was then read on the ICP for total iron concentration.\n\nSpecific Gravity & Density\nThis analysis was performed using a density meter on a filtered & undiluted sample. The temperature was set at 15.6°C and the specific gravity was reported at 60°F. \n\n\n\n"
+},
+{
+"where": "text box on 'A.1'",
+"how": "text box",
+"text": "(70°F)"
+},
+{
+"where": "text box on 'A.1'",
+"how": "text box",
+"text": "\nResistivity Determinations\nThe  resistivity determination was performed on filtered & undiluted sample using a null point method and noting the temperature reading.  The resistivity was reported as a calculated value at 60°F.\n\nGas Compositions\nGas compositions were determined using extended gas chromatography by the GPA 2286 method using a multi-column gas chromatograph system.  A single partial pressure charge was passed through the sampling valve and charged to each analytical column. The TCD (Thermal Conductivity Detector) reads O2, N2 and C1 from the molecular sieve column followed by C2, CO2, C3, iC4, nC4, iC5, nC5 from the porous polymer column. The FID (Flame Ionization Detector) reads up to Cn+ from the capillary column independently. A temperature programme was used in order to provide optimum detection and resolution of the dodecanes plus components. \n"
+},
+{
+"where": "text box on 'D.2'",
+"how": "text box",
+"text": "Notes:\nSulphate results are calculated from total sulphur determined by inductively coupled plasma emission spectrometry.\n\n"
+},
+{
+"where": "text box on 'E.1'",
+"how": "text box",
+"text": "Notes:\nSulphate results are calculated from total sulphur determined by inductively coupled plasma emission spectrometry.\n\n"
+},
+{
+"where": "text box on 'chart/other substream'",
+"how": "text box",
+"text": "Note :\nThe residue mole weight and density values ( eg heptanes plus, undecanes plus, eicosanes plus) are calculated so that the calculated average mole weights and densities correspond with the measured values. This can lead to anomalous residue mole weights and densities where the Katz and Firoozabadi values may not be suitable for the isomer groups detected.\n"
+},
+{
+"where": "text box on 'chart/other substream'",
+"how": "text box",
+"text": "Note :\nThe gas mole % compositions were calculated from the measured weight % compositions using the most detailed analysis results, involving as many of the above components as were identified.  The reported component mole % compositions were then sub-grouped into the generic carbon number components.\n"
+},
+{
+"where": "embedded picture 1 (emf)",
+"how": "OCR (EMF vector render)",
+"text": "BECEBAGIS GbLINIAVIIGK\n\n(ei.c [Sp\n\n"
+},
+{
+"where": "embedded picture 2 (img)",
+"how": "OCR",
+"text": "Core Lab\n\nRESERVOIR OPTIMIZATION\n\n"
+},
+{
+"where": "embedded picture 3 (emf)",
+"how": "OCR (EMF vector render)",
+"text": "BROOKS a\n\nGAS METER\n\nGAS SAMPLING =\nREGULATING BOTTLE ©3 |:\nVALVE -\n\n. ,\n. Sampling -\nSAMPLE Glass Joint | 0 j ° =\nVESSEL & Clip itty Point :\nit ter =\n4 A\" Heated Tubing :\nand Valves “— -\nPRESSURE\nGAUGE\n\nSE Coiled Metal\nTeflon Lined\nH ! Septum Port\nj\nQ)\nFLUID INJECTED TO =\n\n—>\nMAINTAIN PRESSURE\n\nFLASH SEPARATION OVEN GAS COLLECTION OVEN\n(120 °F) (170 °F)\n\n"
+},
+{
+"where": "embedded picture 4 (emf)",
+"how": "OCR (EMF vector render)",
+"text": "Halll\n\n"
+}
+]

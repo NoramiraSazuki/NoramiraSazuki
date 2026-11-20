@@ -1,0 +1,35 @@
+Page | 42 of 59
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab | SEPARATOR LIQUID SAMPLE | CYLINDER | 1116/592
+Company | SEPARATOR GAS SAMPLE | CYLINDER | A 9127
+MOLECULAR COMPOSITION OF RESERVOIR FLUID
+Stock Tank Liquid | Evolved Gas | Recombined Separator Liquid)
+(mole %) | (mole %) | (mole %)
+H2S Hydrogen Sulphide | Traces | Traces | Traces
+CO2 Carbon Dioxide | 8.04 | 87.06 | 37.1
+N2 Nitrogen | 0 | 0.11 | 0.04
+C1 Methane | 1.04 | 9.15 | 4.03
+C2 Ethane | 0.77 | 1.59 | 1.07
+C3 Propane | 0.89 | 1.02 | 0.94
+iC4 i-Butane | 0.39 | 0.24 | 0.33
+nC4 n-Butane | 0.38 | 0.21 | 0.32
+iC5 i-Pentane | 0.35 | 0.1 | 0.26
+nC5 n-Pentane | 0.31 | 0.08 | 0.22
+C6 Hexanes | 1.04 | 0.12 | 0.7
+C7 Heptanes Plus | 1.39 | 0.21 | 0.95
+C8 Octanes | 3.09 | 0.1 | 1.99
+C9 Nonanes | 3.05 | 0.01 | 1.93
+C10 Decanes | 3.39 | 0 | 2.14
+C11 Undecanes | 3.06 | 0 | 1.93
+C12 Dodecanes Plus | 72.81 | 0 | 46.05
+TOTAL | 100 | 99.99999999999999 | 100
+Molecular weight | 226.3 | 41.574 | 158.4
+Gravity | (60/60 °F) | 1.435 | (Air=1)
+Molar ratio | 63.22 | 36.78 | 100
+Mass ratio | 90.34 | 9.66 | 100
+Molecular weight of Dodecanes plus in Reservoir Fluid | 277
+--- OCR ---

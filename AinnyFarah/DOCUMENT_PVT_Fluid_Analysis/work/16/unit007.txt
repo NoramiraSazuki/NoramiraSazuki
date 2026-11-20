@@ -1,0 +1,24 @@
+2.0
+Summary of Validation Data | Summary of Recombined Reservoir Fluid Sample
+Separator Gas | Recombined Reservoir Fluid Sample
+Free
+Original | Transferred into | Separator | Laboratory opening | Liquid | Air | Sep Liq & | Recomb | Sample | Reservoir Cond | Saturation | Sample
+Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | Temp | Drained | Content | Sep Gas | Cylinder | Nature | Pressure | Temp | Pressure | Temp | Volume
+(psig) | (°F) | (psig) | (°F) | (cm3) | (Mole%) | Cyl # | Number | (psig) | (°F) | (psig) | (°F) | (cm3)
+2385.0 | TS 93503 | 195.27 | 124.0 | 209.0 | 144.0 | 0.0 | 0.009 | 813785 & 2374 | TS 100002 | Oil | 1100.0 | 206.0 | 1100.0 | 206.0 | 400.0
+*2374 | TS 165901 | 191.27 | 124.0 | 203.0 | 144.0 | 0.0 | 0.053
+2153.0 | TS 93602 | 188.27 | 124.0 | 209.0 | 144.0 | 0.0 | 0.012
+Notes
+The selected separator samples were requested to be recombined to specified saturation pressure equal
+to the reservoir pressure
+Separator Liquid
+Laboratory | Total water
+Original | Transferred into | Separator | Bubble point | recovered | Sample
+Cyl# | Corelab Cyl# | Pressure | Temp | Pressure | *Temp | from sample | Volume
+(psig) | (°F) | (psig) | (°F) | side (cm3) | (cm3)
+816104.0 | TS 99702 | 195.3 | 124.0 | 206.0 | 124.0 | 0.0 | 580.0
+*813785 | TS 94804 | 191.3 | 124.0 | 195.0 | 124.0 | 0.0 | 580.0
+813711.0 | TS 94602 | 188.3 | 124.0 | 198.0 | 124.0 | 0.0 | 580.0
+Notes
+* Samples selected for physical recombination at specified saturation pressure (1100 psig @ 206°F)
+--- OCR ---

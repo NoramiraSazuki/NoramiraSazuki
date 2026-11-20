@@ -1,0 +1,70 @@
+WELL | D4 | 4 | image16.png | WELL D-04 : DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 4 | image16.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 15 OCTOBER 1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 6.4 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 52.6 DEG
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 18 5/8" X-56 COND. # @ m MDDF | 18.625 |  | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ m MDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ BUTT 1929.4m MDDF | 9.625 | 40 | N-80 | 1929.4 | MDDF
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Short |
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Long |
+ROW | S | FLOW COUPLING | 135.0 |  |  |  |  | short-string names printed in the STATUS column, depths in the MIN ID column (no MIN ID printed) | p1
+ROW | S | TRDP-4A SCSSV | 135.9 |  |  |  |  | as above | p1
+ROW | S | WP-1 NIPPLE | 284.5 |  |  |  |  | as above | p1
+ROW | S | KBMG-M SPM | 663.2 |  |  |  |  | as above | p1
+ROW | S | KBMG-M SPM | 1054.0 |  |  |  |  | as above | p1
+ROW | S | KBMG-M SPM | 1350.9 |  |  |  |  | as above | p1
+ROW | S | KBMG-M SPM | 1570.4 |  |  |  |  | as above | p1
+ROW | S | KBMG-M SPM | 1723.3 |  |  |  |  | as above | p1
+ROW | S | CSW - 1DT- SSD | 1759.8 |  |  |  |  | as above | p1
+ROW | S | 'D' NO-GO NIPPLE |  |  |  |  |  | depth 1768.4 printed between the NO-GO NIPPLE and W/L ENTRY GUIDE rows — not assigned | p1
+ROW | S | W/L ENTRY GUIDE |  |  |  |  |  | see above (1768.4 ambiguous) | p1
+ROW | S | END OF TBG | 1768.8 |  |  |  |  |  | p1
+ROW | D | 9 5/8 CAMCO HSD-3SP DUAL HYD PKR 40,000 LBS RELEASE | 1769.0 |  |  |  |  | name in the long-string column, depth in the short-string depth column | p1
+ROW | L | FLOW COUPLING | 144.7 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 145.5 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 294.0 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 672.7 |  | 2.371 |  | 07/12/03 R1-D P/S 8/64 600# |  | p1
+ROW | L | KBMG-M SPM | 1063.9 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1360.7 |  | 2.371 |  | DV stiff |  | p1
+ROW | L | KBMG-M SPM | 1589.5 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1742.5 |  | 2.371 |  | DV stiff |  | p1
+ROW | L | KBMG-M SPM | 1759.8 |  | 2.371 |  |  |  | p1
+ROW | L | CSW-IDT (CAMCO) | 1765.3 |  | 2.312 |  |  |  | p1
+ROW | L | CAMCO CSW-IDT SSD | 1779.8 |  | 2.312 |  | OPENED 03/Aug/2010 |  | p2
+ROW | L | BLAST JOINT | 1782.4 | 1800.4 | 2.441 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP1 NIPPLE | 1805.4 |  | 2.312 |  |  |  | p2
+ROW | L | 9 5/8 CAMCO HRD-4-SP SINGLE HYD PKR 40000 LBS RELEASE | 1810.4 |  | 2.441 |  |  | in the short-string column below the short-string end; '1810.4' printed again under the label | p2
+ROW | L | 'WPB-2DE' SSD | 1813.4 |  | 2.312 |  | CLOSED 03/Aug/2010 |  | p2
+ROW | L | BLAST JOINT | ?1814.1 | 1835.7 | 2.441 |  |  | top value partly hidden by the red plug label ('1814.') | p2
+ROW | L | WP1 NIPPLE |  |  | 2.312 |  |  | depth not printed on its row (1835.7 belongs to the blast-joint bracket) | p2
+ROW | L | CENTRALIZER | 1837.6 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1839.1 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 1839.4 |  | 4.000 |  |  |  | p2
+ROW | L | 9 5/8" BAKER 'D-1' PERM PACKER |  |  | 4.000 |  |  | short-string column, no depth printed | p2
+ROW | L | SEAL BORE EXT | 1840.7 |  | 2.441 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1842.8 |  | 2.250 |  |  |  | p2
+ROW | L | OTIS CONICAL MULE SHOE | 1843.9 |  | 2.441 |  | CLOSED 19/Jan/2008 |  | p2
+ROW | L | END OF TUBING | 1844.1 |  |  |  |  |  | p2
+SHOE | 9 5/8" CASING SHOE |  |  |  | label in the short-string area beside 'PBTD', no own depth | p2
+ZONE | E10/11 | 1785.4 | 1797.4 | MDTHF | E10/11 SAND 1785.4 - 1797.4 (no unit/datum printed) | p2 | perf
+ZONE | E12/13 | 1816.4 | 1819.9 | MDTHF | E12/13 SAND 1816.4 - 1819.9 | p2 | perf
+ZONE | E12/13 | 1823.4 | 1834.4 | MDTHF | 1823.4 - 1834.4 | p2 | perf
+ZONE | E14 | 1846.4 | 1855.9 | MDTHF | E14 SAND 1846.4 - 1855.9 | p2 | perf
+PBTD | 1903.4 | MDTHF | PBTD 1903.4 (diagram, depth column m MDTHF; header 'PBTD : 1903.4 m MDDF')
+TD | 1939.4 | MDTHF | TD @ 1939.4m MDTHF
+INT | Plug 2-7/8" @ 98 m-MDTHF | 98 | MDTHF | picture p1 red label
+INT | 2.31 MA Plug @ WP1 Nipple |  |  | picture p2 red label (which WP1 nipple not stated)
+INT | Oct 2019 - WRDP-1A MLO IV with Baker B-Tubing Stop @ 145 m MDTHF | 145 | MDTHF | 11
+NOTE | picture p1 | short string: TOF 120 m-MDTHF; Macaroni Fish 180 joints (1-1.5 ft of top one milled) 4 spear grapples; BOF 1766 m-MDTHF
+NOTE | picture p2 | OPENED status box beside E10/11 SAND
+ISSUE | Conflict | slide 4 obj #49 | slide note 'Plug already retrieved in 2022' — the picture still shows 'Plug 2-7/8" @ 98 m-MDTHF' / '2.31 MA Plug @ WP1 Nipple'; plugs kept with this flag (which plug was retrieved is not stated)
+ISSUE | Conflict | slide 4 | slide status boxes (#29 CLOSED July 2022 (1190 psi), #35 OPEN Sep 2022 1550 psi, #36 OPEN Aug 2022) over the picture differ from the picture statuses — listed as notes
+ISSUE | Unclear | picture p1 | short-string layout shifted: names in STATUS column, depths in MIN ID column; MIN IDs of the short string not printed
+ISSUE | Unclear | picture | PBTD 1903.4 printed on the diagram (m MDTHF column) and in the header as 1903.4 m MDDF — same number, different datum labels

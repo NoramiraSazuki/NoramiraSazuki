@@ -1,0 +1,60 @@
+# slide 20 (slides/slide20.xml) hidden=False objects=24
+# notes: 'Open\n19'
+[pic id=50 'Picture 49' pct=[22.77, 0.06, 68.31, 100.06] hidden=False img=../media/image56.emf]
+[graphicFrame id=4 'Table 3' pct=[69.93, 102.13, 97.09, 115.98] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    |  | 
+    |  | 
+[graphicFrame id=6 'Table 5' pct=[3.79, 102.68, 30.95, 116.52] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    |  | 
+    |  | 
+[sp id=7 'Oval 6' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=8 'TextBox 7' pct=[16.7, 60.09, 22.61, 66.23] hidden=False]
+    CLOSE, Apr-24
+[sp id=9 'TextBox 8' pct=[16.78, 75.41, 22.69, 78.29] hidden=False]
+    CLOSE, Apr-24
+[graphicFrame id=11 'Table 10' pct=[91.53, 23.7, 113.73, 39.39] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psig) | Port size | Date Installed
+    | 1 | Dummy | 631.2 | 1030 | 10/64” | 14th Aug 2021
+    | 2 | Dummy | 966.9 | 975 | 10/64” | 14th Aug 2021
+    | 3 | GLV | 1232.1 | 935 | 10/64” | 2018 infill campaign
+    | 4 | GLOV - orifice | 1454.6 | - | 12/64” | 2018 infill campaign
+[pic id=12 'Picture 11' pct=[68.2, 43.08, 93.94, 67.47] hidden=False img=../media/image34.png]
+[sp id=14 'TextBox 13' pct=[16.78, 51.22, 22.68, 54.02] hidden=False]
+    CLOSE, Apr-24
+[sp id=10 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[28.46, 63.81, 31.14, 66.61] hidden=False]
+    E12B
+[sp id=3 'TextBox 2' pct=[28.94, 51.28, 31.14, 54.08] hidden=False]
+    E11
+[sp id=5 'TextBox 4' pct=[28.47, 60.34, 31.14, 63.13] hidden=False]
+    E12A
+[sp id=13 'TextBox 12' pct=[28.47, 75.43, 31.14, 78.23] hidden=False]
+    E14B
+[sp id=15 'TextBox 14' pct=[28.3, 93.47, 30.97, 96.27] hidden=False]
+    E40
+[sp id=16 'TextBox 15' pct=[16.78, 93.18, 22.69, 96.06] hidden=False]
+    OPEN, Apr-24
+[sp id=17 'TextBox 16' pct=[30.66, 93.08, 36.57, 96.58] hidden=False]
+    Perf interval – 
+    1992 – 2004.5 m MDDF
+[graphicFrame id=19 'Table 18' pct=[68.2, 23.7, 90.4, 39.39] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psig) | Port size | Date Installed
+    | 1 | Dummy | 631.2 | - | - | 2021
+    | 2 | Dummy | 966.9 | - | - | 2021
+    | 3 | GLV | 1232.1 | 935 | 10/64” | 2018 infill campaign
+    | 4 | GLOV - orifice | 1454.6 | - | 12/64” | 2018 infill campaign
+[sp id=18 'TextBox 17' pct=[28.4, 89.77, 31.07, 92.57] hidden=False]
+    E20
+[sp id=21 'TextBox 20' pct=[22.68, 89.67, 28.46, 90.79] hidden=False]
+    Perforation interval
+    E20 sand (thickeness – 9 m)
+[sp id=22 'TextBox 21' pct=[30.9, 89.69, 36.68, 90.82] hidden=False]
+    Perf interval 1710-1719 m MDDF
+[sp id=24 'TextBox 23' pct=[16.7, 89.6, 22.62, 92.48] hidden=False]
+    OPEN, Mar-25

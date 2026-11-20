@@ -1,0 +1,44 @@
+15
+Compositional Analysis of Separator Gas to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 28 Jan 2012
+CO2 | Carbon Dioxide | 66.81099999999995 | 82.817 | Sampling Time | 11:25 hrs
+N2 | Nitrogen | 0.531 | 0.419 | Sampling Location | B21L
+C1 | Methane | 30.036 | 13.572 | Sample Description | Separator Gas
+C2 | Ethane | 1.414 | 1.198 | Cylinder Number | 2153.0
+C3 | Propane | 0.595 | 0.739 | Sampling Conditions | 188.3 psig @ 124.0°F
+iC4 | i-Butane | 0.174 | 0.286
+nC4 | n-Butane | 0.136 | 0.222 | Additional Sample Information
+C5 | Neo-Pentane | 0.001 | 0.002 | Opening Pressure | 209.0 | psig
+iC5 | i-Pentane | 0.065 | 0.133 | Opening Temperature | 144.0 | °F
+nC5 | n-Pentane | 0.044 | 0.089 | Total Air Content | 0.012 | Mole%
+C6 | Hexanes | 0.056999999999999995 | 0.14100000000000001 | Our Lab Identification | 20004.0
+M-C-Pentane | 0.012 | 0.028
+Benzene | 0.013 | 0.028 | Notes
+Cyclohexane | 0.011 | 0.027 | 0.00 means less than 0.005
+C7 | Heptanes | 0.032 | 0.08800000000000001
+M-C-Hexane | 0.019 | 0.052 | See Appendix 1 for Component Properties
+Toluene | 0.015 | 0.04
+C8 | Octanes | 0.019000000000000003 | 0.061000000000000026
+E-Benzene | 0.0 | 0.001
+M/P-Xylene | 0.005 | 0.016
+O-Xylene | 0.001 | 0.002
+C9 | Nonanes | 0.005 | 0.018
+C10 | Decanes | 0.003 | 0.012
+C11 | Undecanes | 0.0 | 0.001
+C12+ | Dodecanes Plus | 0.001 | 0.008
+Totals | 99.99999999999997 | 100.00000000000001
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.136 | 0.38200000000000006 | 98.99913228391412 | 0.7641437264282016
+C8+ | Octanes plus | 0.068 | 0.21100000000000005 | 107.41827472024923 | 0.7759345383638229
+C10+ | Decanes plus | 0.004 | 0.021000000000000005 | 146.25188753497397 | 0.7892819387672548
+C12+ | Dodecanes plus | 0.001 | 0.008 | 168.29256065605267 | 0.8061252543142255
+Calculated Whole Gas Properties
+Real Relative Density | 1.2314 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 35.5 | g.mol-1
+Gas Density | 1.5083 | kg.m-3 @ 15°C
+Calorific Value | 13.8 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 12.47 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+--- OCR ---

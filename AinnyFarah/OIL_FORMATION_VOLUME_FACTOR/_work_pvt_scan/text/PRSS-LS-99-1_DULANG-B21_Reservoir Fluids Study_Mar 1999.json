@@ -1,0 +1,2282 @@
+[
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B3",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C3",
+"how": "cell text",
+"text": "IOR"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B4",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C4",
+"how": "cell text",
+"text": "DULANG B-21S"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B5",
+"how": "cell text",
+"text": "REPORT NO."
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C5",
+"how": "cell text",
+"text": "PRSS-LS-99/1"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B7",
+"how": "cell text",
+"text": "QUALITY CHECKS OF SEPARATOR SAMPLES"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B9",
+"how": "cell text",
+"text": "Type of sample"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C9",
+"how": "cell text",
+"text": "SEPARATOR OIL"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell G9",
+"how": "cell text",
+"text": "SEPARATOR GAS"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B10",
+"how": "cell text",
+"text": "Cylinder no."
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C10",
+"how": "cell text",
+"text": "TS 24105"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell D10",
+"how": "cell text",
+"text": "TS 23604"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell E10",
+"how": "cell text",
+"text": "TS 22011"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell F10",
+"how": "cell text",
+"text": "TS 22010"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell G10",
+"how": "cell text",
+"text": "5167A"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell H10",
+"how": "cell text",
+"text": "5250A"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell I10",
+"how": "cell text",
+"text": "5248A"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell J10",
+"how": "cell text",
+"text": "PSV 160862"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B11",
+"how": "cell text",
+"text": "Opening pressure at 173.6 °F\n\npsig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B12",
+"how": "cell text",
+"text": "Water recovered\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C12",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell D12",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell E12",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell F12",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B13",
+"how": "cell text",
+"text": "Emulsion/Oil recovered\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C13",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell D13",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell E13",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell F13",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B14",
+"how": "cell text",
+"text": "Approximate sample volume\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C14",
+"how": "cell text",
+"text": "490 @300 Psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell D14",
+"how": "cell text",
+"text": "490 @300 Psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell E14",
+"how": "cell text",
+"text": "590 @300 Psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell F14",
+"how": "cell text",
+"text": "590 @300 psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell G14",
+"how": "cell text",
+"text": "20000 @122 Psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell H14",
+"how": "cell text",
+"text": "20000 @117 psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell I14",
+"how": "cell text",
+"text": "20000 @123 PSIG"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell J14",
+"how": "cell text",
+"text": "20000 @82 \npsig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B15",
+"how": "cell text",
+"text": "Bubble point pressure at 173.6 “F\n\npsig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell G15",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell H15",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell I15",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell J15",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B16",
+"how": "cell text",
+"text": "Bubble point pressure at 185 °F\n\npsig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell D16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell F16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell G16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell H16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell I16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell J16",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B19",
+"how": "cell text",
+"text": "FILTERED SAMPLES (2011)"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B21",
+"how": "cell text",
+"text": "Type of sample"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C21",
+"how": "cell text",
+"text": "SEPARATOR OIL"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B22",
+"how": "cell text",
+"text": "Opening pressure at 173.6 °F\n\npsig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C22",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B23",
+"how": "cell text",
+"text": "Water recovered\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C23",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B24",
+"how": "cell text",
+"text": "Emulsion/oil recovered\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C24",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B25",
+"how": "cell text",
+"text": "Approximate sample volume\n\ncc"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell C25",
+"how": "cell text",
+"text": "500 @ 300 psig"
+},
+{
+"where": "sheet 'QC SEPARATOR SAMPLES' cell B26",
+"how": "cell text",
+"text": "Bubble point pressure at 173.6 °F\n\npsig"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 3)' cell D35",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 365 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B3",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell C5",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell F5",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell C6",
+"how": "cell text",
+"text": "GAS \n(PSV 160862)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell D6",
+"how": "cell text",
+"text": "OIL \n(TS 22010)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell E6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell F6",
+"how": "cell text",
+"text": "GAS \n(PSV 160862)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell G6",
+"how": "cell text",
+"text": "OIL \n(TS 22010)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell H6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell H7",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell E17",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B18",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B21",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B23",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell C23",
+"how": "cell text",
+"text": "103 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B24",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell C24",
+"how": "cell text",
+"text": "173.6 F"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5248 A)"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 22011)"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 5)' cell D34",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 360 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D8",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell E10",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell H10",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5248 A)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 22011)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell G11",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell H11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5248 A)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell I11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 22011)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell J11",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D22",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell G22",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D23",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D26",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D28",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell E28",
+"how": "cell text",
+"text": "103 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D29",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell E29",
+"how": "cell text",
+"text": "173.6 F"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5248 A)"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 22011)"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 7)' cell D34",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 360 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B3",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell C5",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell F5",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell C6",
+"how": "cell text",
+"text": "GAS \n(5248 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell D6",
+"how": "cell text",
+"text": "OIL \n(TS 22011)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell E6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell F6",
+"how": "cell text",
+"text": "GAS \n(5248 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell G6",
+"how": "cell text",
+"text": "OIL \n(TS 22011)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell H6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell H7",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell E17",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B18",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B21",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B23",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell C23",
+"how": "cell text",
+"text": "101 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B24",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell C24",
+"how": "cell text",
+"text": "173.6 F"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5167 A)"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 24105)"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 9)' cell D34",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 365 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B3",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell C5",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell F5",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell C6",
+"how": "cell text",
+"text": "GAS \n(5167 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell D6",
+"how": "cell text",
+"text": "OIL \n(TS 24105)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell E6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell F6",
+"how": "cell text",
+"text": "GAS \n(5167 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell G6",
+"how": "cell text",
+"text": "OIL \n(TS 24105)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell H6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell H7",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell E17",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B18",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B21",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B23",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell C23",
+"how": "cell text",
+"text": "101 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B24",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell C24",
+"how": "cell text",
+"text": "173.3 F"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(5250 A)"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 23604)"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 11)' cell D34",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 365 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B3",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell C5",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell F5",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell C6",
+"how": "cell text",
+"text": "GAS \n(5250 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell D6",
+"how": "cell text",
+"text": "OIL \n(TS 23604)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell E6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell F6",
+"how": "cell text",
+"text": "GAS \n(5250 A)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell G6",
+"how": "cell text",
+"text": "OIL \n(TS 23604)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell H6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell E17",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B18",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B21",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B23",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell C23",
+"how": "cell text",
+"text": "101 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B24",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell C24",
+"how": "cell text",
+"text": "173.3 F"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell B2",
+"how": "cell text",
+"text": "PAGE"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell B4",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell C4",
+"how": "cell text",
+"text": ": IOR"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell B5",
+"how": "cell text",
+"text": "WELL"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell C5",
+"how": "cell text",
+"text": ": DULANG B-21S"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell B6",
+"how": "cell text",
+"text": "REPORT NO. "
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell C6",
+"how": "cell text",
+"text": ": PRSS-LS-99/1"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell E11",
+"how": "cell text",
+"text": "SEPARATOR GAS\n(PSV 160862)"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell F11",
+"how": "cell text",
+"text": "SEPARATOR OIL\n(TS 22010 + TS 22011)"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell G11",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell H11",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell F13",
+"how": "cell text",
+"text": "0 497"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell H13",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D27",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D30",
+"how": "cell text",
+"text": "Properties of C7+"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell E30",
+"how": "cell text",
+"text": "Molecular weight : "
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell E31",
+"how": "cell text",
+"text": "°API :"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell E32",
+"how": "cell text",
+"text": "Mole %"
+},
+{
+"where": "sheet 'CA (TABLE 13)' cell D34",
+"how": "cell text",
+"text": "The wellstream composition was calculated based on GOR of 365 scf/bbl."
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B3",
+"how": "cell text",
+"text": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell C5",
+"how": "cell text",
+"text": "EXPERIMENTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell F5",
+"how": "cell text",
+"text": "SIMULATED"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell C6",
+"how": "cell text",
+"text": "GAS \n(PSV 160862)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell D6",
+"how": "cell text",
+"text": "OIL \n(TS 22010 + TS 22011)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell E6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell F6",
+"how": "cell text",
+"text": "GAS \n(PSV 160862)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell G6",
+"how": "cell text",
+"text": "OIL \n(TS 22010 + TS 22011)\n(MOLE %)"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell H6",
+"how": "cell text",
+"text": "K-VALUES"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell E17",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B18",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B21",
+"how": "cell text",
+"text": "Separator conditions"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B23",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell C23",
+"how": "cell text",
+"text": "101 psi"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B24",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell C24",
+"how": "cell text",
+"text": "173.6 F"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\n\nDULANG-B128S\nMALAYSIA\n\nINTAN KHALIDA SALLEH, WAN ATA WAN DAUD\nMARCH 1999\n\nIOR GROUP\n\n"
+},
+{
+"where": "picture image2.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "PETRONAS RESEARCH & SCIENTIFIC SERVICES SDN. BHD.\n\nLOT 3288 & 3289, KAWASAN INSTITUSI BANGI CLIENT IOR GROUP\n43000 KAJANG, SELANGOR FILE REF.\nTEL:03-9252731 TELEFAX: 03-8258821/8258829 REPORTNO — PRSS- LS -99/]\nCompany No: 253426 V STATUS\nDISTRIBUTION [OR GROUP\nList PRSS LIBRARY\n\\\nut\n\nRESERVOIR FLUID STUDY\nWELL: DULANG B21S\n\nReported by\n\nIntan Khalida Salleh & Wan Ata Wan Daud\nCore & Fluid Analysis Section\nLaboratory Services Department\n\nReviewed by\n\nMohd Ismail Omar\nProduction Department\n\nApproved by\n\nSeah Peng Kiang\nManager, Laboratory Services Department\n\nMarch, 1999\n\nAny information, data, reports, documents, findings, conclusions and/or advice offered or given to client by or on behalf of PRSS is to be\nconstrued as a statement of opinion only and not as representation of any kind as to the effects of following the said information, data, reports,\n"
+}
+]

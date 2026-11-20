@@ -1,0 +1,553 @@
+{
+  "wellInfo": {
+    "completionDate": "-",
+    "completionFluid": "-",
+    "completionType": "SINGLE OIL PRODUCER",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "-",
+    "name": "DULANG-B17",
+    "packerFluid": "-",
+    "rig": "-",
+    "surfaceCasing": "-",
+    "totalDepth": null,
+    "trajectoryType": "-",
+    "tubing": "-",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "Flow Coupling",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.09,
+      "innerDiameter": 3.884,
+      "interval": "0.914 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T20; outerDiameter Y20; innerDiameter X20; length S20; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "trsv",
+      "type": "trsv",
+      "name": "4-1/2\"TRSV",
+      "topMd": 735.564,
+      "bottomMd": null,
+      "outerDiameter": 6.923,
+      "innerDiameter": 3.812,
+      "topMdM": 224.2,
+      "interval": "1.625 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T22; topMd Q22=224.2 m; outerDiameter Y22; innerDiameter X22; length S22; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "Flow Coupling",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.09,
+      "innerDiameter": 3.884,
+      "interval": "0.914 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T24; outerDiameter Y24; innerDiameter X24; length S24; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "glm-1",
+      "type": "spm",
+      "name": "4-1/2\" KBMG GLM (DUMMY)",
+      "topMd": 1776.181,
+      "bottomMd": null,
+      "outerDiameter": 6.393,
+      "innerDiameter": 3.865,
+      "topMdM": 541.38,
+      "interval": "2.234 m",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'KBMG GLM' = gas-lift mandrel (side-pocket) -> SPM (Gas Lift) is the nearest type",
+      "actualType": "4-1/2\" KBMG GLM (DUMMY)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T26; topMd Q26=541.38 m; outerDiameter Y26; innerDiameter X26; length S26; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "glm-2",
+      "type": "spm",
+      "name": "4-1/2\" KBMG GLM (GLOV 14/64\")",
+      "topMd": 2634.777,
+      "bottomMd": null,
+      "outerDiameter": 6.393,
+      "innerDiameter": 3.865,
+      "topMdM": 803.08,
+      "interval": "2.234 m",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'KBMG GLM' = gas-lift mandrel (side-pocket) -> SPM (Gas Lift) is the nearest type",
+      "actualType": "4-1/2\" KBMG GLM (GLOV 14/64\")",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T28; topMd Q28=803.08 m; outerDiameter Y28; innerDiameter X28; length S28; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "ssd-1",
+      "type": "sliding-sleeve",
+      "name": "4-1/2\" SSD (CLOSED)",
+      "topMd": 2661.745,
+      "bottomMd": null,
+      "outerDiameter": 5.613,
+      "innerDiameter": 3.813,
+      "topMdM": 811.3,
+      "interval": "1.448 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T30; topMd Q30=811.3 m; outerDiameter Y30; innerDiameter X30; length S30; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "esp-packer",
+      "type": "packer",
+      "name": "9-5/8\" x 4-1/2\" ESP PACKER",
+      "topMd": 2724.114,
+      "bottomMd": null,
+      "outerDiameter": 8.835,
+      "innerDiameter": 3.96,
+      "topMdM": 830.31,
+      "interval": "1.46 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T33; topMd Q33=830.31 m; outerDiameter Y33; innerDiameter X33; length S33; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "ssd-2",
+      "type": "sliding-sleeve",
+      "name": "4-1/2\" SSD (OPEN)",
+      "topMd": 2746.03,
+      "bottomMd": null,
+      "outerDiameter": 5.613,
+      "innerDiameter": 3.813,
+      "topMdM": 836.99,
+      "interval": "1.448 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T37; topMd Q37=836.99 m; outerDiameter Y37; innerDiameter X37; length S37; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "crossover-1",
+      "type": "crossover",
+      "name": "CROSSOVER SUB 4-1/2\" JFE-BEAR BOX X 3-1/2\" VAMTOP PIN",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.0,
+      "innerDiameter": 2.959,
+      "interval": "0.31 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T41+T42; outerDiameter Y41; innerDiameter X41; length S41; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "sand-guard",
+      "type": "sand-screen",
+      "name": "3-1/2\" MULTILIFT 550 SAND GUARD",
+      "topMd": 2781.726,
+      "bottomMd": null,
+      "outerDiameter": 5.5,
+      "innerDiameter": null,
+      "topMdM": 847.87,
+      "interval": "6.33 m",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: ESP intake sand guard (filter) -> Sand Screen is the nearest type",
+      "actualType": "3-1/2\" MULTILIFT 550 SAND GUARD",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T44; topMd Q44=847.87 m; outerDiameter Y44; length S44; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "crossover-2",
+      "type": "crossover",
+      "name": "CROSSOVER SUB 3-1/2\" JFE-BEAR PIN X 4-1/2\" VAMTOP BOX",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.0,
+      "innerDiameter": 2.959,
+      "interval": "0.28 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T46+T47; outerDiameter Y46; innerDiameter X46; length S46; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "esp",
+      "type": "esp",
+      "name": "4-1/2\" ESP",
+      "topMd": 2931.627,
+      "bottomMd": null,
+      "outerDiameter": 6.132,
+      "innerDiameter": null,
+      "topMdM": 893.56,
+      "interval": "21.9 m",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T50; topMd Q50=893.56 m; outerDiameter Y50; length S50; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "eot",
+      "type": "eot",
+      "name": "EOT",
+      "topMd": 2974.902,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 906.75,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T51; topMd Q51=906.75 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "ss-stub",
+      "type": "tubing",
+      "name": "SS STUB",
+      "topMd": 4000.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1219.2,
+      "string": "Short",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: tubing stub = top of the tubing left in hole -> Tubing (top = stub depth; bottom not printed)",
+      "actualType": "SS STUB",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D54; topMd J54=1219.2 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J); 'SS' read as short string"
+    },
+    {
+      "id": "ls-stub",
+      "type": "tubing",
+      "name": "LS STUB",
+      "topMd": 3996.063,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1218.0,
+      "string": "Long",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: tubing stub = top of the tubing left in hole -> Tubing (top = stub depth; bottom not printed)",
+      "actualType": "LS STUB",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T54; topMd Q54=1218.0 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y); 'LS' read as long string"
+    },
+    {
+      "id": "dual-hyd-packer",
+      "type": "packer",
+      "name": "9-5/8\" DUAL HYD. PKR.",
+      "topMd": 4004.921,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1220.7,
+      "string": "Short & Long",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D55; topMd J55=1220.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J); one 'DUAL' packer drawn across both strings"
+    },
+    {
+      "id": "xn-no-go-nipple-left",
+      "type": "nipple (no-go)",
+      "name": "XN' NO-GO NIPPLE",
+      "topMd": 4005.906,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1221.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D58; topMd J58=1221.0 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J)"
+    },
+    {
+      "id": "liner-7",
+      "type": "liner",
+      "name": "7\" TOP OF LINER 7\" LINER SHOE",
+      "topMd": 4314.305,
+      "bottomMd": 7198.163,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": 1315.0,
+      "bottomMdM": 2194.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 7\" in label T61 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T61+T93; topMd Q61=1315.0 m; bottomMd Q93=2194.0 m; ID T61 '7\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); top = diagram label T61 '7\" TOP OF LINER'; bottom = diagram label T93 '7\" LINER SHOE'; name = both labels joined"
+    },
+    {
+      "id": "casing-9-5-8",
+      "type": "casing",
+      "name": "9-5/8\" Casing Shoe",
+      "topMd": null,
+      "bottomMd": 4524.278,
+      "outerDiameter": null,
+      "innerDiameter": 9.625,
+      "bottomMdM": 1379.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 9-5/8\" in label T64 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T64; bottomMd Q64=1379.0 m; ID T64 '9-5/8\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); bottom = diagram label T64 '9-5/8\" Casing Shoe'; casing top not printed"
+    },
+    {
+      "id": "ssd-3",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 5603.675,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.313,
+      "topMdM": 1708.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T65; topMd Q65=1708.0 m; innerDiameter X65; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "bwd-packer-1",
+      "type": "packer",
+      "name": "7\" X 4.5\" X 3.88\" BWD PKR. BORE",
+      "topMd": 5656.168,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.88,
+      "topMdM": 1724.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D67+D68; topMd J67=1724.0 m; innerDiameter B67; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J)"
+    },
+    {
+      "id": "blank-pipe-1",
+      "type": "tubing",
+      "name": "4½\" L-80 LCT BLANK PIPE",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: blank (unperforated) pipe in the screen assembly -> Tubing is the nearest type",
+      "actualType": "4½\" L-80 LCT BLANK PIPE",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T68; innerDiameter X68; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "screen-1",
+      "type": "screen",
+      "name": "4\" P110 NU WWSCREEN 8 ga",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 4\" in label T71 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T71; ID T71 '4\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "seal-bore-assembly-1",
+      "type": "seal-assembly",
+      "name": "3.25\" SEAL BORE ASSY.",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 3.25\" in label T74 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T74; ID T74 '3.25\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "bwd-packer-2",
+      "type": "packer",
+      "name": "7\" X 4.5\" X 3.88\" BWD PKR. BORE",
+      "topMd": 5879.265,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 1792.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D76+D77; topMd J76=1792.0 m; innerDiameter B76; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J)"
+    },
+    {
+      "id": "ssd-4",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 5855.315,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.313,
+      "topMdM": 1784.7,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T80; topMd Q80=1784.7 m; innerDiameter X80; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "blank-pipe-2",
+      "type": "tubing",
+      "name": "4½\" L-80 LCT BLANK PIPE",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: blank (unperforated) pipe in the screen assembly -> Tubing is the nearest type",
+      "actualType": "4½\" L-80 LCT BLANK PIPE",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T82; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "screen-2",
+      "type": "screen",
+      "name": "4\" J-55 NU WW SCREEN 8 ga",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 4\" in label T83 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T83; ID T83 '4\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "seal-bore-assembly-2",
+      "type": "seal-assembly",
+      "name": "3.25\" SEAL BORE ASSY.",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size 3.25\" in label T85 has no ID/OD designation -> recorded as ID (user-defined mapping rule)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T85; ID T85 '3.25\"' (user-defined rule); depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "bwd-packer-3",
+      "type": "packer",
+      "name": "7\" X 4.5\" X 3.88\" BWD PKR. BORE",
+      "topMd": 6177.822,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 1883.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name D86+D87; topMd J86=1883.0 m; innerDiameter B86; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); left equipment column (B-J)"
+    },
+    {
+      "id": "xn-no-go-nipple-right",
+      "type": "nipple (no-go)",
+      "name": "XN' NO-GO NIPPLE",
+      "topMd": 6387.795,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.225,
+      "topMdM": 1947.0,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T89; topMd Q89=1947.0 m; innerDiameter X89; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "conical-shoe",
+      "type": "mule-shoe",
+      "name": "CONICAL SHOE",
+      "topMd": 6397.638,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1950.0,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: conical (guide) shoe at the tubing end -> Mule Shoe is the nearest type",
+      "actualType": "CONICAL SHOE",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name T90; topMd Q90=1950.0 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); right equipment column (Q-Y)"
+    },
+    {
+      "id": "pbtd",
+      "type": "pbtd",
+      "name": "PBTD @ 2171.7 m MDTHF",
+      "topMd": 7125.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2171.7,
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name L95; topMd L95=2171.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16); diagram label L95"
+    },
+    {
+      "id": "perf-e12-13",
+      "type": "perforation",
+      "name": "E12/13 (FB S2; WIR) perforation 1734.7 m - 1763.7 m",
+      "topMd": 5691.273,
+      "bottomMd": 5786.418,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1734.7,
+      "bottomMdM": 1763.7,
+      "zone": "E12/13 (FB S2; WIR)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C71; topMd C71=1734.7 m; bottomMd C71=1763.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    },
+    {
+      "id": "perf-e14-1",
+      "type": "perforation",
+      "name": "E14 (FB S2; WIR) perforation 1796.7 m - 1816.7 m",
+      "topMd": 5894.685,
+      "bottomMd": 5960.302,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1796.7,
+      "bottomMdM": 1816.7,
+      "zone": "E14 (FB S2; WIR)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C80; topMd C80=1796.7 m; bottomMd C80=1816.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    },
+    {
+      "id": "perf-e14-2",
+      "type": "perforation",
+      "name": "E14 (FB S2; WIR) perforation 1824.7 m - 1832.7 m",
+      "topMd": 5986.549,
+      "bottomMd": 6012.795,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1824.7,
+      "bottomMdM": 1832.7,
+      "zone": "E14 (FB S2; WIR)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C80; topMd C80=1824.7 m; bottomMd C80=1832.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    },
+    {
+      "id": "perf-e34-36-1",
+      "type": "perforation",
+      "name": "E34/36 (FB S2; WIR) perforation 2012.7 m - 2042.7 m",
+      "topMd": 6603.347,
+      "bottomMd": 6701.772,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2012.7,
+      "bottomMdM": 2042.7,
+      "zone": "E34/36 (FB S2; WIR)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C90; topMd C90=2012.7 m; bottomMd C90=2042.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    },
+    {
+      "id": "perf-e34-36-2",
+      "type": "perforation",
+      "name": "E34/36 (FB S2; WIR) perforation 2052.7 m - 2067.7 m",
+      "topMd": 6734.58,
+      "bottomMd": 6783.793,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2052.7,
+      "bottomMdM": 2067.7,
+      "zone": "E34/36 (FB S2; WIR)",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C90; topMd C90=2052.7 m; bottomMd C90=2067.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    },
+    {
+      "id": "perf-e40-42",
+      "type": "perforation",
+      "name": "E40/42 perforation 2102.7 m - 2120.7 m",
+      "topMd": 6898.622,
+      "bottomMd": 6957.677,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2102.7,
+      "bottomMdM": 2120.7,
+      "zone": "E40/42",
+      "source": "Dulang B17 ESP Workover Schematic.xlsx > sheet 'New B-17 (12.12.23)' > name C90; topMd C90=2102.7 m; bottomMd C90=2120.7 m; depths m-MDTHF (MD from tubing hanger flange; column headers J16/Q16)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

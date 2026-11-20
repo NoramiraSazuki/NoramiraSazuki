@@ -1,0 +1,28 @@
+PAGE | 14
+COMPANY | IOR
+WELL | DULANG B-21S
+REPORT NO | PRSS-LS-99/1
+COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION
+MOLE %
+COMPONENT | SEPARATOR GAS (5250 A) | SEPARATOR OIL (TS 23604) | WELLSTREAM | MOLECULAR WEIGHT
+N2 Nitrogen | 0.13 | 0.094 | 0.109
+CO2 Carbon Dioxide | 49.93 | 0.196 | 20.743
+C1 Methane | 34.8 | 1.168 | 15.062
+C2 Ethane | 5.88 | 0.984 | 3.007
+C3 Propane | 4.71 | 1.301 | 2.71
+iC4 i-Butane | 1.72 | 0.548 | 1.032
+nC4 n-Butane | 1.41 | 0.463 | 0.854
+iC5 i-Pentane | 0.71 | 0.208 | 0.415
+nC5 n-Pentane | 0.5 | 0.13 | 0.283
+C6 Hexanes | 0.21 | 4.823 | 2.917 | 86
+C7 Heptanes | 0 | 4.827 | 2.833 | 100
+C8 Octanes | 0 | 2.189 | 1.285 | 114
+C9 Nonanes | 0 | 4.209 | 2.47 | 128
+C10 Decanes | 0 | 4.016 | 2.357 | 134
+C11+ Undecanes Plus | 0 | 74.844 | 43.923 | 222
+Total | 99.99999999999997 | 100 | 100
+Properties of C7+ | Molecular weight | 204
+°API | 40.36
+Mole % | 52.86
+The wellstream composition was calculated based on GOR of 365 scf/bbl
+--- OCR ---

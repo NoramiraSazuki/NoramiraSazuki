@@ -1,0 +1,39 @@
+API WATER ANALYSIS | API WATER ANALYSIS
+Well | DLD-32L | Well | DLD-32L
+Field | Field
+Client Sample Number | Client Sample Number
+Sampled by Client | 17-Feb-2013 @ 01:43hrs | Sampled by Client | 17-Feb-2013 @ 01:43hrs
+Sampled From | 2853-S1-F @ 1850m | Sampled From | 2853-S1-F @ 1850m
+Analysed | Analysed
+Our Sample Number | 20130041.001 | Our Sample Number | 20130041.001
+Appearance before filtration | Hazy Pale Yellow
+STIFF DIAGRAMS
+Appearance after filtration | Clear Colourless Water
+Total dissolved solids (mg.litre-1) | 18220
+Specific gravity at 60°F | 1.0125464711923653
+Determined Resistivity (ohm.metre at 60°F) | 0.687
+Hydrogen sulphide | Not Detected
+pH at 20°C | 7.404
+Components | mg.litre-1 | meq.litre-1
+CATIONS
+Sodium | 5750 | 250
+Potassium | 135 | 3.5
+Calcium | 12 | 0.62
+Magnesium | 7.0 | 0.57
+Barium | 1.7 | 0.02
+Strontium | < 0.50 | < 0.01
+Total Iron | 5.2
+Dissolved Iron | < 0.10 | < 0.01
+ANIONS
+Chloride | 2620 | 74
+Sulphate | 32 | 0.67
+Bicarbonate | 9670 | 160
+Carbonate | NIL | NIL
+Hydroxide | NIL | NIL
+ADDITIONAL COMPONENTS
+Boron | 28
+Aluminium | < 1.0
+Silicon | 34
+Phosphorus | < 0.30
+Lithium | 2.9
+--- OCR ---

@@ -1,0 +1,27 @@
+Page | 4 of 33
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date | 1992-04-15 00:00:00
+Lab | CORE LABORATORIES
+Company | PETRONAS CARIGALI
+SUMMARY AND MAIN RESULTS
+The present report gives the experimental .results of the P.V.T. study carried out on bottom hole sample(s) from well 6G-1-1B DST2
+The initial reservoir conditions are
+Pi | 1871.3 psig
+T | 20 9 F
+Bubble >point ^pressure determined on .sample which was selected for complete P.V.T. study is
+Pb | 1530 psig at 209 °F
+c | 11.05 x 10-6 psi-1 (1871-1535 psig)
+o
+Main differential vaporization data at reservoir temperature
+Pi | Pb
+oil volume factor (bbl/std bbl) | 1.221 | 1. 226
+solution gas-oil ratio (Std cu ft/bbl) | 351 | 351
+reservoir fluid viscosity (centipoises) | 1. 27 | 1. 21
+reservoir fluid density (g/cm3) | 0.776 | 0. 773
+Residual oil gravity | 0.851 | 60/60 F
+34.7 | API
+H2S less than 0.02 ppm on Separator Gases
+--- OCR ---

@@ -1,0 +1,77 @@
+WELL | D2ST1 | 2 | image10.emf | WELL NAME: D02-ST1 (LOCATION / SLOT: PLATFORM DLDP-D / D02)
+SRC | 2 | image10.emf | EMF native text records (EMR_EXTTEXTOUTW), visual check of the slide render
+DATUM | m THF (column 'DEPTH m INC. THF'; a second column gives m MDDF, kept in notes)
+INFO | completionDate | 20-Apr-18
+INFO | rig | T9
+INFO | totalDepth | 1700 m (datum not printed)
+INFO | maxDeviation | 24.25 degree @ 519.75m MDDF
+INFO | wellhead | Solar Alert
+INFO | xmas | FF TRIM, 5K, U Rated, PSL-2
+INFO | completionFluid | 8.5 PPG DRILL WATER + filtered to 10 NTU
+INFO | packerFluid | 8.5 PPG ( 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)
+INFO | tubing | 3-1/2" 9.2 ppf 13CrHP1 JFE Bear (above TRSV) 195.71 m; 3-1/2" 9.2 ppf 13Cr JFE Bear (below TRSV) 1354.10 m; 2-3/8" 5.1 ppf 13Cr VAMFJL (inside Quantum packer) 1405.9 m
+INFO | completionType | PROPOSED WELL COMPLETION SCHEMATIC (OIL PRODUCER) — Version: Final, 21 April 2018
+CASING | CONDUCTOR 26" 202 PPF A36 Welded 185.5 m | 26 | 202 | A36 | 185.5 | DEPTH-m (datum not printed)
+CASING | INT. CASING 13-3/8" 54.5 PPF K55 BTC 697.4 m | 13.375 | 54.5 | K55 | 697.4 | DEPTH-m (datum not printed)
+CASING | CASING/LINER 9-5/8" 40 ppf N80 BTC 1934.4 m | 9.625 | 40 | N80 | 1934.4 | DEPTH-m (datum not printed)
+CASING | CASING/LINER 7" 29 ppf L80 Vam Top HT 1615.58 m | 7 | 29 | L80 | 1615.58 | DEPTH-m (datum not printed; footer '7" Casing Shoe @ 1615.586 m MDDF')
+TUBING | TUBING (ABOVE TRSV) 3-1/2" 9.2 ppf 13CrHP1 JFE Bear | 3.5 | 9.2 | 13CrHP1 | - | 195.71 MDDF
+TUBING | TUBING (BELOW TRSV STRING) 3-1/2" 9.2 ppf 13Cr JFE Bear | 3.5 | 9.2 | 13Cr | - | 1354.10 MDDF
+TUBING | TUBING (INSIDE QUANTUM PACKER) 2-3/8" 5.1 ppf 13Cr VAMFJL | 2.375 | 5.1 | 13Cr | inner | 1405.9 MDDF
+ROW | X | TUBING HANGER, FF410SS, 5K, U-rated, 13-5/8" x 3-3/4" 4SA 2G LH x 3-1/2" 9.2# JFEBEAR | 0.00 |  | 2.950 | 13.470 |  | MDDF 15.70; INC. 0.0 | y=683
+ROW | X | FLOW COUPLING, 3-1/2", 13CR, JFEBEAR | 179.01 |  | 2.880 | 3.897 |  | MDDF 194.71; INC. 11.0 | y=770
+ROW | X | SCSSV-TRSV, NE, 3-1/2", 13CR, JFEBEAR | 180.01 |  | 2.813 | 5.200 |  | MDDF 195.71; INC. 11.0 | y=799
+ROW | X | FLOW COUPLING, 3-1/2", 13CR, JFEBEAR | 181.42 |  | 2.880 | 3.897 |  | MDDF 197.12; INC. 11.0 | y=828
+ROW | X | SPM-DUMMY, 3-1/2", SFO 1", 13CR JFEBEAR | 594.63 |  | 2.965 | 5.313 |  | MDDF 610.33; INC. 17.0 | y=1002
+ROW | X | DIAL #4 (3.5MM & 5.0MM), 3-1/2", 13CR JFEBEAR | 605.38 |  | 2.963 | 5.800 |  | MDDF 621.08; INC. 17.0 | y=1031
+ROW | X | SPM-DUMMY, 3-1/2", SFO 1", 13CR JFEBEAR | 880.97 |  | 2.965 | 5.313 |  | MDDF 896.67; INC. 18.5 | y=1089
+ROW | X | DIAL #3 (5.0MM, 5.0MM & 5.0MM), 3-1/2", 13CR JFEBEAR | 891.71 |  | 2.963 | 5.800 |  | MDDF 907.41; INC. 18.5 | y=1118
+ROW | X | SPM-DUMMY, 3-1/2", SFO 1", 13CR JFEBEAR | 1088.69 |  | 2.965 | 5.313 |  | MDDF 1104.39; INC. 18.5 | y=1205
+ROW | X | DIAL #2 (5.0MM, 5.0MM & 5.0MM), 3-1/2", 13CR JFEBEAR | 1099.32 |  | 2.963 | 5.800 |  | MDDF 1115.02; INC. 18.5 | y=1234
+ROW | X | SPM-DUMMY, 3-1/2", SFO 1", 13CR JFEBEAR | 1247.01 |  | 2.965 | 5.313 |  | MDDF 1262.71; INC. 17.8 | y=1321
+ROW | X | DIAL #1 (5.0MM, 5.0MM & 5.0MM), 3-1/2", 13CR JFEBEAR | 1257.74 |  | 2.963 | 5.800 |  | MDDF 1273.44; INC. 17.8 | y=1350
+ROW | X | SSD, 3-1/2", 13CR JFEBEAR | 1279.83 |  | 2.813 | 5.245 |  | MDDF 1295.53; INC. 17.4 | y=1408
+ROW | X | MFR PACKER, 7" X 3-1/2", 13CR JBEAR | 1287.99 |  | 2.897 | 6.000 |  | MDDF 1303.69; INC. 17.4 | y=1524
+ROW | X | X Nipple, 3-1/2", 13CR JFE BEAR | 1291.97 |  | 2.813 | 3.897 |  | MDDF 1307.67; INC. 17.4 | y=1611
+ROW | X | DIAL #6, 3-1/2", 13CR JFEBEAR | 1302.25 |  | 3.500 | 5.800 |  | MDDF 1317.95; INC. 17.4 | y=1640
+ROW | X | SSD, 3-1/2", 13CR JFEBEAR | 1311.58 |  | 2.813 | 4.550 |  | MDDF 1327.28; INC. 17.4 | y=1669
+ROW | X | AUTOFILL SUB, 3-1/2", 13CR, JFEBEAR | 1319.15 |  | 2.880 | 5.400 |  | MDDF 1334.85; INC. 17.4 | y=1698
+ROW | X | MIRAGE PLUG, 3-1/2", 13CR JFEBEAR | 1323.14 |  | 2.880 | 4.910 |  | MDDF 1338.84; INC. 17.4 | y=1727
+ROW | X | XN Nipple , 3-1/2", 13CR JFE BEAR | 1333.00 |  | 2.690 | 3.898 |  | MDDF 1348.70; INC. 17.4 | y=1756
+ROW | X | CROSSOVER, 3-1/2"JFE BEAR BOX X 2-3/8" VAMFJL | 1338.40 |  | 1.878 | 3.883 |  | MDDF 1354.10; INC. 17.4 | y=1785
+ROW | Lw | 7" X  4" QUANTUM PACKER | 1335.56 |  | 4.003 | 5.992 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1351.26 | y=1845
+ROW | Lw | 7" QUANTUM MAX EXTENSION | 1237.09 |  | 4.003 | 5.690 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1252.79 (out of sequence: printed shallower than the packer above) | y=1874
+ROW | Lw | 7" KEYED SAFETY SHEAR SUB | 1343.73 |  | 3.428 | 5.490 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1359.43 | y=1903
+ROW | Lw | 3.5" BLANK PIPE | 1344.84 |  | 2.992 | 5.934 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1360.54 | y=1932
+ROW | Lw | 3.5" BLANK PIPE, 2 SHUNTS | 1354.14 |  | 2.992 | 5.930 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1369.84 | y=1962
+ROW | Lw | WIRE WRAP SCREENS 8GA, 2 SHUNTS, 30FT | 1363.46 |  | 2.992 | 5.930 |  | GP ASSEMBLY- ZONE E11A/E12B; MDDF 1379.16 | y=1991
+ROW | X | NOGO LOCATOR, 2-3/8", 13CR, VAMFJL | 1390.55 |  | 1.939 | 2.800 |  | UPPER COMPLETION ASSEMBLY; MDDF 1406.25 | y=2051
+ROW | X | SEAL ASSEMBLY, 2-3/8", 13CR | 1391.06 |  | 2.000 | 2.743 |  | UPPER COMPLETION ASSEMBLY; MDDF 1406.76 | y=2080
+ROW | X | SEAL ASSEMBLY, 2-3/8", 13CR | 1391.44 |  | 2.000 | 2.743 |  | MDDF 1407.14 | y=2109
+ROW | X | SEAL ASSEMBLY, 2-3/8", 13CR | 1391.83 |  | 2.000 | 2.743 |  | MDDF 1407.53 | y=2138
+ROW | X | SEAL ASSEMBLY, 2-3/8", 13CR | 1392.21 |  | 2.000 | 2.743 |  | MDDF 1407.91 | y=2167
+ROW | X | CROSSOVER, STUB ACME X 2-3/8" VAMFJL | 1392.33 |  | 1.878 | 2.670 |  | MDDF 1408.03 | y=2195
+ROW | X | MULE SHOE, 2-3/8", 13CR | 1394.59 |  |  | 2.710 |  | MIN ID printed 'N/A'; MDDF 1410.29; end of the 2-3/8" inner string | y=2226
+ROW | Lw | 3-1/2" POLISHED BORE RECEPTACLE | 1391.41 |  | 2.750 | 4.250 |  | GP ASSEMBLY- ZONE E14B; MDDF 1407.11 | y=2316
+ROW | Lw | 7"x 3.5" MZ ALLFRAC PACKER | 1392.26 |  | 2.992 | 5.885 |  | GP ASSEMBLY- ZONE E14B; MDDF 1407.96 | y=2345
+ROW | Lw | 3.5" BLANK PIPE, 2 SHUNTS | 1394.70 |  | 2.992 | 5.930 |  | GP ASSEMBLY- ZONE E14B; MDDF 1410.40 | y=2375
+ROW | Lw | WIRE WRAP SCREENS 8GA, 2 SHUNTS, 30FT | 1404.01 |  | 2.992 | 5.930 |  | GP ASSEMBLY- ZONE E14B; MDDF 1419.71 | y=2404
+ROW | Lw | WIRE WRAP SCREENS 8GA, 2 SHUNTS, 30FT | 1413.33 |  | 2.992 | 5.930 |  | GP ASSEMBLY- ZONE E14B; MDDF 1429.03 | y=2433
+ROW | Lw | 3-1/2" PXP POLISHED BORE RECEPTACLE | 1423.10 |  | 2.688 | 3.750 |  | GP ASSEMBLY - ZONE E14B; MDDF 1438.80 | y=2610
+ROW | Lw | CROSSOVER, 3-1/2" EUE X 2-7/8" EUE PIN | 1423.89 |  | 2.441 | 4.500 |  | MDDF 1439.59 | y=2639
+ROW | Lw | 7" X 2-7/8" OMEGAMATIC PACKER (SUMP) | 1424.30 |  | 2.250 | 5.968 |  | MDDF 1440.00 | y=2668
+ROW | Lw | 2-7/8" 6.5# L80 EUE MULE SHOE | 1427.80 |  | 2.423 | 3.500 |  | MDDF 1443.50 | y=2697
+ZONE | E11A | 1387.9 | 1391.0 | MDDF | PERFORATION INTERVAL (4.72" HMX 18 SPF) TOP PERF INTERVAL - 1387.9 m MDDF / E11A SAND (THICKNESS - 3.1 meter) / BOTTOM PERF INTERVAL - 1391.0 m MDDF | y=1962 | perf
+ZONE | E12B | 1400.0 | 1404.6 | MDDF | PERFORATION INTERVAL (4.72" HMX 18 SPF) TOP PERF INTERVAL - 1400.0 m MDDF / E12B SAND (THICKNESS - 4.6 meter) / BOTTOM PERF INTERVAL - 1404.6 m MDDF | y=2080 | perf
+ZONE | E14B | 1423.5 | 1429.8 | MDDF | PERFORATION INTERVAL (4.72" HMX 18 SPF) TOP PERF INTERVAL - 1423.5 m MDDF / E14B SAND (THICKNESS - 6.3 meter) / BOTTOM PERF INTERVAL - 1429.8 m MDDF | y=2375 | perf
+PBTD | 1576.360 | MDDF | PBTD @ 1576.360 m MDDF
+TD | 1619 | MDDF | FTD @ 1619 m MDDF
+NOTE | EMF y=2021/2195/2433 | zone pressures: E11A 1550 psi / 217 F; E12B 1570 psi / 220 F; E14B 1425 psi / 220 F
+NOTE | EMF y=478/507 | TH HEIGHT-MSL : 16.85m; DF HEIGHT-MSL : 32.5m; WATER DEPTH : 74.2m (elevations above MSL — not mapped to kb/ground elevation: DF vs KB not stated)
+NOTE | EMF y=594 | Note: All depths are in meter from top of equipment
+NOTE | EMF y=2989-3083 | Prepared By: M Rizwan Rozlan, Senior Completion Engineer; W Afiq Farhan, Completion Engineer; Date: 21 April 2018; Version: Final
+ISSUE | Conflict | EMF y=362/3051 | header TOTAL DEPTH 1700 m vs footer 'FTD @ 1619 m MDDF' -> footer (diagram) value used, header recorded
+ISSUE | Conflict | EMF y=391/2989 | header PBTD 1670 m vs footer 'PBTD @ 1576.360 m MDDF' -> footer (diagram) value used, header recorded
+ISSUE | Conflict | EMF y=391 | CASING/LINER 9-5/8" set at 1934.4 m — deeper than TD 1619 m MDDF of this sidetrack (original-hole casing depth); kept as printed
+ISSUE | Conflict | EMF y=1874 | 7" QUANTUM MAX EXTENSION printed at 1237.09 m THF (MDDF 1252.79) between items at 1335.56 and 1343.73 m — kept as printed
+ISSUE | Unclear | slide 2 | schematic titled 'PROPOSED WELL COMPLETION SCHEMATIC' but 'Version : Final' — treated as the well's schematic; slide notes and the production-rate picture (image11.png) listed as notes

@@ -1,0 +1,359 @@
+{
+  "wellInfo": {
+    "completionDate": "1991-03-12",
+    "completionFluid": "-",
+    "completionType": "SINGLE OIL PRODUCER (TYPE 1)",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "48.0 DEG @ 812.80 MDDF",
+    "name": "DULANG-A6",
+    "packerFluid": "9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR",
+    "rig": "TIOMAN 1",
+    "surfaceCasing": "-",
+    "totalDepth": 5970.801,
+    "trajectoryType": "-",
+    "tubing": "2 7/8\" N-80 NK3SB",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "christmas-tree-1",
+      "type": "christmas-tree",
+      "name": "INGRAM CACTUS, SINGLE, 3M",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png header name 'INGRAM CACTUS, SINGLE, 3M' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12))"
+    },
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 465.223,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "topMdM": 141.8,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'FLOW COUPLING' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '141.8' = 141.8 m -> 465.223 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "scssv-1",
+      "type": "scssv",
+      "name": "TRDP-4A SCSSV",
+      "topMd": 467.848,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "topMdM": 142.6,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'TRDP-4A SCSSV' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '142.6' = 142.6 m -> 467.848 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.312' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "landing-nipple-1",
+      "type": "landing-nipple",
+      "name": "WP-1 NIPPLE",
+      "topMd": 969.816,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "topMdM": 295.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'WP-1 NIPPLE' (nipple profile, no no-go stated) -> Landing Nipple is the nearest type",
+      "actualType": "WP-1 NIPPLE",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'WP-1 NIPPLE' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '295.6' = 295.6 m -> 969.816 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.312' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "KBMG-M-SPM",
+      "topMd": 1781.824,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "topMdM": 543.1,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'KBMG-M-SPM' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '543.1' = 543.1 m -> 1781.824 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.371' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "8/64\" GLOV",
+      "topMd": 3180.118,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "topMdM": 969.3,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: gas-lift orifice valve row drawn on a side-pocket mandrel symbol -> SPM is the nearest type (valve kept in the name)",
+      "actualType": "8/64\" GLOV",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name '8/64\" GLOV' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '969.3' = 969.3 m -> 3180.118 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.371' (column 'MIN ID' = explicit ID); status/remark 'GLOV 8/64\" 12 Apr 04'; depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "KBMG-M-SPM",
+      "topMd": 4052.494,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "topMdM": 1235.2,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'KBMG-M-SPM' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1235.2' = 1235.2 m -> 4052.494 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.371' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-4",
+      "type": "spm",
+      "name": "KBMG-M-SPM",
+      "topMd": 4454.068,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "topMdM": 1357.6,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png (upper picture) name 'KBMG-M-SPM' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1357.6' = 1357.6 m -> 4454.068 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.371' (column 'MIN ID' = explicit ID); status/remark 'GLOV 20/64\" (Mar 15)' (position-matched, see issues); transcription note: status from slide text box obj #10, matched to this row by vertical position; depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "WP-2DE SSD",
+      "topMd": 4759.515,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "topMdM": 1450.7,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'WP-2DE SSD' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1450.7' = 1450.7 m -> 4759.515 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.312' (column 'MIN ID' = explicit ID); status/remark 'CLOSED'; depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pup-joint-1",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 4785.433,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "topMdM": 1458.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "UNRESOLVED type: UNRESOLVED: tubing centralizer has no Type_Key (template 'centralizers' section is for casing centralizers); Pup Joint used as the nearest short tubular",
+      "actualType": "CENTRALIZER",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'CENTRALIZER' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1458.6' = 1458.6 m -> 4785.433 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "seal-assembly-1",
+      "type": "seal-assembly",
+      "name": "LOC. SEAL ASSY.",
+      "topMd": 4787.074,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "topMdM": 1459.1,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'LOC. SEAL ASSY.' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1459.1' = 1459.1 m -> 4787.074 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "GUIB MAGNUM 'GT' PACKER",
+      "topMd": 4789.698,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "topMdM": 1459.9,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'GUIB MAGNUM 'GT' PACKER' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1459.9' = 1459.9 m -> 4789.698 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '4.000' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pbr-1",
+      "type": "pbr",
+      "name": "SEAL BORE EXT",
+      "topMd": 4787.402,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "topMdM": 1459.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type",
+      "actualType": "SEAL BORE EXT",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'SEAL BORE EXT' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1459.2' = 1459.2 m -> 4787.402 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '4.000' (column 'MIN ID' = explicit ID); transcription note: printed 1459.2, shallower than the packer above (1459.9) — kept as printed; depth datum: m MDTHF (column headers 'DEPTH m MDTHF'); CONFLICT: out of depth sequence (item above packer-1 at 1459.9 m)"
+    },
+    {
+      "id": "nipple-no-go-1",
+      "type": "nipple (no-go)",
+      "name": "'D' NO-GO NIPPLE",
+      "topMd": 4805.446,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.25,
+      "topMdM": 1464.7,
+      "bottomMdM": null,
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name ''D' NO-GO NIPPLE' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1464.7' = 1464.7 m -> 4805.446 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.250' (column 'MIN ID' = explicit ID); depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 4805.774,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "topMdM": 1464.8,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: wireline entry guide (WEG) at the tubing end -> Mule Shoe is the nearest type",
+      "actualType": "WEG",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image12.png (lower picture) name 'WEG' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd '1464.8' = 1464.8 m -> 4805.774 ft (m MDTHF (column headers 'DEPTH m MDTHF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); transcription note: end of string; depth datum: m MDTHF (column headers 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "conductor-1",
+      "type": "casing",
+      "name": "13 3/8\" COND.# @ 374 mMDDF",
+      "topMd": null,
+      "bottomMd": 1227.034,
+      "outerDiameter": null,
+      "innerDiameter": 13.375,
+      "topMdM": null,
+      "bottomMdM": 374.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DATUM: shoe depth printed as 'MDDF', equipment datum m MDTHF (column headers 'DEPTH m MDTHF'); not shifted",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png header name '13 3/8\" COND.# @ 374 mMDDF' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); bottomMd '13 3/8\" COND.# @ 374 mMDDF' = 374.0 m -> 1227.034 ft (m MDDF as printed); innerDiameter '13.375' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-1",
+      "type": "casing",
+      "name": "9 5/8\" N-80, 40 ppf @ 808 m MDDF",
+      "topMd": null,
+      "bottomMd": 2650.919,
+      "outerDiameter": null,
+      "innerDiameter": 9.625,
+      "topMdM": null,
+      "bottomMdM": 808.0,
+      "weight": 40.0,
+      "grade": "N-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DATUM: shoe depth printed as 'MDDF', equipment datum m MDTHF (column headers 'DEPTH m MDTHF'); not shifted",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png header name '9 5/8\" N-80, 40 ppf @ 808 m MDDF' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); bottomMd '9 5/8\" N-80, 40 ppf @ 808 m MDDF' = 808.0 m -> 2650.919 ft (m MDDF as printed); innerDiameter '9.625' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-2",
+      "type": "casing",
+      "name": "7\" 23 ppf, K-55 @ 1834 m MDDF",
+      "topMd": null,
+      "bottomMd": 6017.061,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": null,
+      "bottomMdM": 1834.0,
+      "weight": 23.0,
+      "grade": "K-55",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DATUM: shoe depth printed as 'MDDF', equipment datum m MDTHF (column headers 'DEPTH m MDTHF'); not shifted",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png header name '7\" 23 ppf, K-55 @ 1834 m MDDF' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); bottomMd '7\" 23 ppf, K-55 @ 1834 m MDDF' = 1834.0 m -> 6017.061 ft (m MDDF as printed); innerDiameter '7' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "2 7/8\" N-80 NK3SB",
+      "topMd": 0.0,
+      "bottomMd": 4805.774,
+      "outerDiameter": null,
+      "innerDiameter": 2.875,
+      "topMdM": 0.0,
+      "bottomMdM": 1464.8,
+      "grade": "N-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd",
+        "topMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: bottom = row marked as the end of the string in the transcription 'WEG' (mule-shoe-1); ASSUMED: top = 0 m on the THF depth reference",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png header name '2 7/8\" N-80 NK3SB' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd 'depth reference m MDTHF / THF' = 0.0 m -> 0.0 ft (ASSUMED 0 m (tubing hangs from the tubing hanger flange)); bottomMd 'WEG' = 1464.8 m -> 4805.774 ft (m MDTHF (column headers 'DEPTH m MDTHF'); depth of 'WEG' (mule-shoe-1)); innerDiameter '2 7/8\" N-80 NK3SB' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "zone-e-14-1",
+      "type": "perforation",
+      "name": "E-14 1482.9-1486.7 m MDTHF",
+      "topMd": 4865.158,
+      "bottomMd": 4877.625,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1482.9,
+      "bottomMdM": 1486.7,
+      "zone": "E-14",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png slide obj #11 name 'E-14 1482.9-1486.7 m MDTHF' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd 'slide text box obj #11 'mMDTHF 1482.9 – 1486.7' beside SAND: E-14' = 1482.9 m -> 4865.158 ft (m MDTHF as printed); bottomMd 'slide text box obj #11 'mMDTHF 1482.9 – 1486.7' beside SAND: E-14' = 1486.7 m -> 4877.625 ft (m MDTHF as printed); original text: slide text box obj #11 'mMDTHF 1482.9 – 1486.7' beside SAND: E-14"
+    },
+    {
+      "id": "zone-e-14-2",
+      "type": "perforation",
+      "name": "E-14 1487.4-1496.9 m MDTHF",
+      "topMd": 4879.921,
+      "bottomMd": 4911.089,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1487.4,
+      "bottomMdM": 1496.9,
+      "zone": "E-14",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png slide obj #11 name 'E-14 1487.4-1496.9 m MDTHF' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd 'slide text box obj #11 'mMDTHF 1487.4 – 1496.9' beside SAND: E-14' = 1487.4 m -> 4879.921 ft (m MDTHF as printed); bottomMd 'slide text box obj #11 'mMDTHF 1487.4 – 1496.9' beside SAND: E-14' = 1496.9 m -> 4911.089 ft (m MDTHF as printed); original text: slide text box obj #11 'mMDTHF 1487.4 – 1496.9' beside SAND: E-14"
+    },
+    {
+      "id": "pbtd-1",
+      "type": "pbtd",
+      "name": "PBTD : 1800 mMDDF (header)",
+      "topMd": 5905.512,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1800.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd"
+      ],
+      "estimationNote": "DATUM: PBTD printed as 'MDDF', equipment datum m MDTHF (column headers 'DEPTH m MDTHF'); not shifted",
+      "source": "Dulang A Well Schematic updated.pptx > slide 5 image11.png diagram name 'PBTD : 1800 mMDDF (header)' (visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)); topMd 'PBTD : 1800 mMDDF (header)' = 1800.0 m -> 5905.512 ft (m MDDF)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

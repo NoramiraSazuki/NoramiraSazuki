@@ -1,0 +1,44 @@
+# slide 25 (slides/slide25.xml) hidden=False objects=16
+# notes: 'Open\n25'
+[pic id=55298 'Picture 2' pct=[6.67, 5.57, 95.37, 86.06] hidden=False img=../media/image21.png]
+[sp id=55301 'TextBox 4' pct=[72.64, 7.13, 95.07, 11.36] hidden=False]
+    Flowing to Short String
+    Flowing to Long string
+[sp id=14 'TextBox 1' pct=[6.67, 25.38, 19.33, 34.02] hidden=False]
+    (GLVC Oct-22)
+    
+    SPM #1 : Dummy
+    
+    SPM #2 : Dummy
+    
+    SPM #3 : GLOV ,RO-1, 12/64” .
+[sp id=15 'TextBox 1' pct=[83.87, 26.83, 95.37, 35.46] hidden=False]
+    GLVC (Oct-22)
+    
+    SPM #1 : Dummy
+    
+    SPM #2 : Dummy
+    
+    SPM #3 : GLOV , RO-1, 12/64” .
+[sp id=2 'TextBox 1' pct=[83.76, 41.03, 101.12, 42.79] hidden=False]
+    ALL SSD CLOSED (28/2/2023)
+[sp id=3 'TextBox 2' pct=[83.67, 21.12, 101.03, 22.88] hidden=False]
+    Fluid Level @ Full to surface
+[sp id=5 'TextBox 4' pct=[1.9, 23.16, 19.26, 25.75] hidden=False]
+    2.25” LIB HUD @ 138.5m-MDTHF (30/3/2019)
+[sp id=4 'TextBox 3' pct=[83.67, 23.74, 101.03, 26.32] hidden=False]
+    2.31” FXE Insert Valve @ 148m-WLTHF (9/9/2023)
+[sp id=6 'Text Box 289' pct=[58.55, 86.73, 96.93, 90.04] hidden=False]
+    LAST ENTRY	: LS, 23rd October 2023
+    TYPE OF JOB	: Tubing PO
+    HUD	: -
+    UPDATED BY	: M ‘Ammar Hussaini – 19th May 2025
+[sp id=7 'Text Box 289' pct=[13.41, 86.71, 51.79, 90.02] hidden=False]
+    LAST ENTRY	: SS, 15th October 2022
+    TYPE OF JOB	: GLVC
+    HUD	: 2.25” LIB 138.5m-MDTHF  
+    UPDATED BY	: M ‘Ammar Hussaini – 19th May 2025
+[sp id=8 'TextBox 7' pct=[1.9, 20.51, 19.26, 23.09] hidden=False]
+    Fluid Level @ 100m-MDTHF (7/5/2021)
+[sp id=9 'TextBox 8' pct=[1.9, 34.68, 19.26, 37.26] hidden=False]
+    2.31” FXE Insert Valve @ 139m-WLTHF (15/10/2022)

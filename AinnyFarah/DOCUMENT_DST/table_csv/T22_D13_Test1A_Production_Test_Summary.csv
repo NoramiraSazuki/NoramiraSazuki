@@ -1,0 +1,25 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit (as printed / hand-corrected)
+82,,Well,DULANG 7,
+82,,Test,"1A (a) / 2215-0551 (1/2"" CHOKE)",
+82,,Date,04/10/90,
+82,1,Interval,1372.5 - 75.5 m; 84.5 - 87.0; 1425.0 - 30.0 m (E-26 + E-27 + E-34/36),
+82,2,Produced fluid,"OIL, ASSOC. GAS, TRACE OF WATER",
+82,3,Cumulative production,838.2 (INCLUDES TEST 1),STB (MMSCF crossed out)
+82,4,Average rate,1364 (Last 6 hrs),STB/D (MMSCF/D crossed out)
+82,5,Length of flow period,8 3/4,hr (min crossed out)
+82,6,Choke,32,64ths
+82,7,Gravity of oil or condensate,36.4 to 37.6 (COMMINGLED),°API @ 60°F
+82,8,GOR or Condensate - Gas Ratio,341 (Last 6 hrs),SCF/STB (STB/MMSCF crossed out)
+82,9,Water cut,TRACE,%
+82,10,Chlorides,NOT MEASUREABLE,ppm
+82,11,H2S,0,"%, ppm"
+82,12,CO2,55 - 60,%
+82,13,Average flowing wellhead pressure,435,psig
+82,14,Average flowing wellhead temperature,90,°F
+82,15,Wellhead pressure at end of buildup,- (NONE RUN),psi
+82,16,Initial reservoir pressure,1998.9 @ 1426.2 m (E-34/36),psia @ m (ft crossed out)
+82,17,Final flowing pressure,1578 @ 1415 m (E-34/36),psia @ m (ft crossed out)
+82,18,Productivity index,2.46 (ASS. 0.23 PSI/FT) (E-34/36),STB/D/psi
+82,19,Maximum bottom-hole temperature,222 @ 1420 m,°F @ m (ft crossed out)
+82,20,Samples taken,NONE,
+82,21,Remarks,POUR POINT = 96 °F (DARK BROWN COLOR); q (COMBINED) = 1364 BPD => q (E-34/36) = 1364 x 74.4% = 1015 BPD; q (E-26) = 1364 x 21.6% = 295 BPD; q (E-27) = 1364 x 4% = 54 BPD; (a) K (E-34/36) = (141.2 x 1015 x 0.45 x 1.28 x 8)/(11 / 0.3048) x (1987 - 1578) = 45 md; (b) K (E-26) = (141.2 x 295 x 0.8 x 1.26 x 8)/(3 / 0.3048) x (1941 - 1536) = 84 md; (c) K (E-27) = (141.2 x 54 x 0.2 x 1.26 x 8)/(1.5 / 0.3048) x (1960 - 1545) = 99 md; * 1987 psia (1415 m) = 1992.4 (1420 m) - 0.31 x 5 / 0.3048,

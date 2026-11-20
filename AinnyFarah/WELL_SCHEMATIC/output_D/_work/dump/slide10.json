@@ -1,0 +1,221 @@
+{
+ "slide": 10,
+ "file": "slides/slide10.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n9",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "20",
+   "name": "Picture 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4756875,
+   "y": 222183,
+   "cx": 8551188,
+   "cy": 9226617,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.01,
+    2.24,
+    75.57,
+    95.38
+   ],
+   "image": "../media/image31.emf"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3923771,
+   "y": 6536266,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.28,
+    65.98,
+    26.75,
+    71.99
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3940536,
+   "y": 7697135,
+   "cx": 787401,
+   "cy": 803398,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.38,
+    77.7,
+    26.85,
+    85.81
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Oval 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "WI",
+   "geom": "ellipse",
+   "fill": "00B0F0"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5840119,
+   "y": 6518809,
+   "cx": 494417,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.16,
+    65.81,
+    35.97,
+    68.6
+   ],
+   "text": "E10",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5882054,
+   "y": 6886951,
+   "cx": 494417,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.4,
+    69.52,
+    36.21,
+    72.32
+   ],
+   "text": "E11",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5825383,
+   "y": 7643647,
+   "cx": 494417,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.08,
+    77.16,
+    35.89,
+    79.96
+   ],
+   "text": "E12A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5882684,
+   "y": 8193114,
+   "cx": 494417,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.41,
+    82.71,
+    36.21,
+    85.5
+   ],
+   "text": "E12B",
+   "geom": "rect"
+  }
+ ]
+}

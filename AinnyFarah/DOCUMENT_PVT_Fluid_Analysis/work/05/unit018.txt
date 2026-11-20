@@ -1,0 +1,36 @@
+Page | 35 of 59
+Report Date | 1983-01-31 00:00:00
+Report No | 83/L/005
+Well | DULANG-6G-1-2 DST2 | ZONE: 1252-1260M
+Sample Date | 1983-01-06 00:00:00
+Lab Receive Date
+Lab
+Company
+FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+SEPARATOR LIQUID SAMPLE | CYLINDER | A 5034 | Stock Tank Liquid | Evolved Gas | Recombined Separator Liquid)
+SEPARATOR GAS SAMPLE | CYLINDER | 238714 | (mole %) | (mole %) | (mole %)
+H2S Hydrogen Sulphide | 0 | Traces | Traces
+PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES | CO2 Carbon Dioxide | 0 | 72.9 | 8.23
+N2 Nitrogen | 0 | 0 | 0
+1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS | C1 Methane | 0 | 7.65 | 0.86
+GOR | 60 | Std cu ft/bbl | C2 Ethane | 0 | 5.95 | 0.67
+Shrinkage factor | 0.97 | Std bbl/bbl | C3 Propane | 0.1 | 5.86 | 0.75
+Liberated gas gravity | 1.492 | (Air = 1) | iC4 i-Butane | 0.1 5 | 2.11 | 0.37
+Stock tank oil gravity | 0.844 | (60/60 °F) | nC4 n-Butane | 0.22 | 1.73 | 0.39
+iC5 i-Pentane | 0.3 | 0.84 | 0.36
+2. CORRECTION OF GAS OIL RATIO | nC5 n-Pentane | 0.27 | 0.65 | 0.31
+GOR | 324 | Std cu ft/bbl | C6 Hexanes | 0.92 | 0.84 | 0.91
+Separator Gas Gravity (from chromatographic analysis) | C7 Heptanes Plus | 2.19 | 1.02 | 2.06
+G Lab | 0.934 | (Air = 1) | C8 Octanes | 4.51 | 0.45 | 4.05
+Compressibility factor Z at separator conditions | C9 Nonanes | 4.42 | 0 | 3.92
+Z Lab | 0.973 | C10 Decanes | 4.26 | 0 | 3.78
+Corrected GOR | Field GOR x √(G field x Z field) / (G lab x Z lab) | C11 Undecanes | 3.59 | 0 | 3.18
+324√(1.240 x 0.904)/(0.934 x 0.973) = | 360 | Std cu ft/bbl | C12 Dodecanes Plus | 79.07 | 0 | 70.16
+TOTAL | 99.85 | 100.00000000000003 | 100
+3. PHYSICAL RECOMBINATION | Molecular weight | 238.2 | 43.251 | 216.2
+Surface samples were physically recombined in the ratio of 360 standard cubic feet | Gravity | 0.844 | (60/60 °F) | 1.492 | (Air=1)
+of separator gas per barrel of separator liquid | Molar ratio | 88.71 | 11.29 | 100
+Mass ratio | 97.74 | 2.26 | 100
+Molecular weight of Dodecanes plus in STO | 268
+Gravity of Dodecanes plus in STO | 0.871 | (60/60 °F)
+--- OCR ---

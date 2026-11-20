@@ -1,0 +1,54 @@
+# slide 33 (slides/slide33.xml) hidden=False objects=27
+# notes: 'Open\n32'
+[pic id=9 'Picture 8' pct=[25.28, 16.26, 78.07, 82.22] hidden=False img=../media/image83.png]
+[sp id=111 'Oval 110' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=112 'TextBox 111' pct=[30.96, 41.54, 37.18, 46.79] hidden=False]
+    OPENED – E2
+[sp id=113 'TextBox 112' pct=[30.96, 49.24, 37.18, 54.48] hidden=False]
+    OPENED – E6/7
+[sp id=114 'TextBox 113' pct=[62.61, 70.0, 68.82, 75.25] hidden=False]
+    OPENED – E12/13
+[sp id=115 'TextBox 114' pct=[62.61, 75.86, 68.82, 81.11] hidden=False]
+    CLOSED – E14
+[sp id=116 'TextBox 115' pct=[62.61, 64.14, 68.82, 69.38] hidden=False]
+    CLOSED – E10/11 
+[graphicFrame id=118 'Table 117' pct=[12.31, 15.86, 32.93, 31.25] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | Missing | 486 | Missing  |  | Missing 
+    | 2 | GLV | 747 | Missing | 12/64 | Jul 2013
+    | 3 | GLV | 1041 | Missing | 12/64 | Jul 2013
+    | 4 | DV | 1352 | - |  | Jul 2013
+    | 5 | DV | 1550 | - |  | Jul 2013
+[graphicFrame id=119 'Table 118' pct=[72.4, 15.9, 93.03, 31.29] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | GLV | 370 |  | 12/64” | Jun 2012
+    | 2 | GLV | 604 |  | 12/64” | Jun 2012
+    | 3 | GLV | 858 |  | 12/64” | Jun 2012
+    | 4 | GLV | 1208 |  | 12/64” | Jun 2012
+    | 5 | Orifice | 1530 |  | 12/64” | Jun 2012
+[sp id=123 'Line Callout 2 122' pct=[72.39, 35.38, 85.81, 43.79] hidden=False]
+    Apr19, confirmed Leak from MPLT @ 1684-MDTHF & 1751 mMDTHF seal bore ext. 
+[sp id=16 'Line Callout 2 122' pct=[72.39, 54.93, 85.81, 63.33] hidden=False]
+    Apr19 ||HUD during MPLT @ 1777MDDF @ 3-way sub. Unable to confirm the SSD#3 and #4 status. 
+[sp id=2 'Rectangle: Rounded Corners 1' pct=[28.75, 11.54, 32.64, 14.62] hidden=False]
+    TH – 20m
+[sp id=17 'Rectangle: Rounded Corners 16' pct=[70.42, 11.49, 74.32, 14.56] hidden=False]
+    TH – 20m
+[sp id=19 'Line Callout 2 122' pct=[72.39, 70.0, 92.41, 87.65] hidden=False]
+    Jul 15 || Completed conduct zone change. 
+    Closed SSD-5 at 1866m-wldthf, zone:E-14 ,
+    Open SSD-4 at 1818m-wldthf zone:E-12/13,
+    Open SSD-3 at 1780m-wlthf zone:E-10/11 
+    and set PXN Plug in XN nipple at 1880m-wldthf.
+[sp id=7 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=5 'TextBox 4' pct=[62.4, 19.27, 71.76, 28.36] hidden=False]
+    ALFA LS logging 2017 – 
+    leak @ 372 m SPM1
+    Leak @ 385 m
+    2019, PLT confirmed inflow at SPM#2
+[sp id=11 'TextBox 10' pct=[30.71, 71.19, 38.71, 77.1] hidden=False]
+    ALFA LS logging 2017 – 
+    leak @ 1683 m & 
+    SSD#4 1808 m

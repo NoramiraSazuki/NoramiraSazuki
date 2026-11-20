@@ -1,0 +1,57 @@
+WELL | A31 | 28 | image67.png + image68.png | WELL A-31: DUAL WATER INJECTOR WITH LONG STRING SELECTIVE
+SRC | 28 | image67.png + image68.png | visual transcription of the screenshot pictures (x3 upscale, upper part image67 / lower part image68)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 12 MARCH 1994
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3 1/2" 9.2 PPF N-80 TKC 40/40
+INFO | xmas | INGRAM CACTUS, DUAL 3 1/8" X 3 1/8" X 11", 3M
+INFO | packerFluid | 9.1 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 74.5 DEG
+INFO | rte | 14.52 m
+INFO | completionType | DUAL WATER INJECTOR WITH LONG STRING SELECTIVE
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ m MDDF | 18.625 | 87.5 | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ mMDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ mMDDF | 9.625 | 40 | N-80 |  | MDDF
+TUBING | 3 1/2" 9.2 PPF N-80 TKC 40/40 (short string) | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3 1/2" 9.2 PPF N-80 TKC 40/40 (long string) | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 137.6 |  |  |  |  | MIN ID not printed | p1
+ROW | S | TRDP-4A SCSSV | 138.6 |  |  |  |  | MIN ID not printed | p1
+ROW | S | FLOW COUPLING | 141.9 |  |  |  |  | MIN ID not printed | p1
+ROW | S | WP-1 NIPPLE | 286.5 |  | 2.812 |  |  |  | p1
+ROW | S | KBMG-M SPM | 583.9 |  | 2.920 |  |  |  | p1
+ROW | S | CSW-2D-T SSD | 2702.4 |  | 2.812 |  | CLOSED |  | p1
+ROW | D | CAMCO HSD-3P-SP DUAL HYD. PACKER | 2719.4 |  |  |  |  | dual packer across both strings | p1
+ROW | S | 'D' NO-GO NIPPLE | 2722.5 |  | 2.750 |  |  | depth from slide text box obj #2 '2722.5' placed over the printed diagram value 1993.0 (diagram value is above the packer — slide correction used) | p2
+ROW | S | W/L ENTRY GUIDE | 2723.5 |  | 2.970 |  |  | end of string; depth from slide text box obj #14 '2723.5' placed over the printed diagram value 1993.3 | p2
+ROW | L | TRDP-4A SCSSV | 148.3 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 151.6 |  |  |  |  | MIN ID not printed | p1
+ROW | L | WP-1 NIPPLE | 296.3 |  | 2.812 |  |  |  | p1
+ROW | L | KBMG-M SPM | 596.7 |  | 2.920 |  |  |  | p1
+ROW | L | CSW-2D-T SSD | 2711.9 |  | 2.812 |  | CLOSED | status printed in red | p1
+ROW | L | CSW-2D-T SSD | 2730.2 |  | 2.812 |  | CLOSED | status printed in red | p2
+ROW | L | BLAST JOINT |  |  | 2.992 |  |  | depths not printed beside the bracket | p2
+ROW | L | 'WP1' NIPPLE | 2809.6 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 2812.9 |  |  |  |  | MIN ID not printed | p2
+ROW | L | LOC. SEAL ASSY. | 2814.4 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER MODE-D-1 PERMANENT PACKER | 2815.5 |  | 4.000 |  |  | label and depth printed in the short-string columns | p2
+ROW | L | SEAL BORE EXT. | 2815.5 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2822.4 |  | 2.750 |  |  |  | p2
+ROW | L | WEG | 2822.7 |  | 2.970 |  |  | end of string | p2
+ZONE | E-7 | 2783.0 | 2771.5 | MDTHF | SAND : E-7 PERFT: 2783.0 - 2771.5 m (printed bottom-up; datum not printed) | p2 | perf
+ZONE | E-12/13 | 2841.0 | 2845.0 | MDTHF | SAND : E-12/13 & E-14 PERFT: E-12/13 2841.0 - 2845.0 m (datum not printed) | p2 | perf
+ZONE | E-14 | 2850.5 | 2869.0 | MDTHF | E-14 2850.5 - 2869.0 m (datum not printed) | p2 | perf
+TD | 2960 | MDTHF | TD @ 2960 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+INT | IV @ TRSV. TR Flapper lock open Oct 2016 |  |  | 11
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p2 | diagram values under the slide correction boxes: 'D' NO-GO NIPPLE 1993.0, W/L ENTRY GUIDE 1993.3 (short string)
+NOTE | slide 28 obj #7 | OPEN 13/MAR/1994 (beside SAND : E-7)
+NOTE | slide 28 obj #8 | OPEN 13/MAR/1994 (beside SAND : E-12/13 & E-14)
+NOTE | slide 28 obj #12303 | Multiple leak points (MPLT May 2023) @ 2698, 2737, 2795, 2804, 2809m MDTHF
+NOTE | slide 28 obj #20 | Leak point (MPLT May 2023) @ 777m MDTHF
+NOTE | slide 28 obj #28 | Multiple leak points (MPLT May 2023) @ 336m, 358m, 388m, 410m MDTHF
+NOTE | slide 28 obj #10 | Latest Update: PRAVIN AUG 2023
+ISSUE | Conflict | picture p2 / slide 28 obj #2, #14 | short-string 'D' NO-GO NIPPLE / W/L ENTRY GUIDE printed 1993.0 / 1993.3 (above the dual packer at 2719.4); slide text boxes over these rows give 2722.5 / 2723.5 — slide values used, diagram values recorded
+ISSUE | Conflict | picture p2 | E-7 perforation printed '2783.0 - 2771.5 m' (bottom shallower than top) — bottom left empty, not corrected
+ISSUE | Missing | header | casing setting depths and PBTD blank on the schematic; short-string flow couplings / SCSSV MIN ID not printed
+ISSUE | Unclear | picture p2 | perforation intervals printed in m without datum; read as m MDTHF like the depth columns

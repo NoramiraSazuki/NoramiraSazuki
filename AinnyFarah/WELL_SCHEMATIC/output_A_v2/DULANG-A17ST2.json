@@ -1,0 +1,541 @@
+{
+  "wellInfo": {
+    "completionDate": "2020-05-30",
+    "completionFluid": "8.5 PPG NaCl (+ 3% KCl) filtered to 30 NTU",
+    "completionType": "FINAL COMPLETION SCHEMATIC — single string (OP5 single A17 DIAL eSTMZ)",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "80.3",
+    "name": "DULANG-A17ST2",
+    "packerFluid": "8.5 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)",
+    "rig": "SAPURA BERANI",
+    "surfaceCasing": "INT. CASING (EXISTING) 13-3/8\" 54.5 PPF K-55 BTC",
+    "totalDepth": 7490.158,
+    "trajectoryType": "-",
+    "tubing": "-",
+    "wellhead": "SOLAR ALERT"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "tubing-hanger-1",
+      "type": "tubing-hanger",
+      "name": "3-1/2\" SINGLE STRING TUBING HANGER",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U21 name '3-1/2\" SINGLE STRING TUBING HANGER' (native Excel cell values (openpyxl, cached values)); transcription note: depth not printed; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.141,
+      "innerDiameter": 2.88,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U29/Z29/AB29 name 'FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80' (native Excel cell values (openpyxl, cached values)); innerDiameter '2.88' (column 'MIN ID' = explicit ID); outerDiameter '4.141' (column 'MAX OD' = explicit OD); transcription note: depth not printed; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "trsv-1",
+      "type": "trsv",
+      "name": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80",
+      "topMd": 822.631,
+      "bottomMd": null,
+      "outerDiameter": 5.0,
+      "innerDiameter": 2.812,
+      "topMdM": 250.738,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: TRMAXX (tubing-retrievable safety valve) -> TRSV",
+      "actualType": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U30/S30/Z30/AB30 name 'TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80' (native Excel cell values (openpyxl, cached values)); topMd '250.738' = 250.738 m -> 822.631 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.812' (column 'MIN ID' = explicit ID); outerDiameter '5' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.141,
+      "innerDiameter": 2.88,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U31/Z31/AB31 name 'FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT 13CR-L80' (native Excel cell values (openpyxl, cached values)); innerDiameter '2.88' (column 'MIN ID' = explicit ID); outerDiameter '4.141' (column 'MAX OD' = explicit OD); transcription note: depth not printed; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV  : Dummy - Change out made on 20.10.2021)",
+      "topMd": 2721.745,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "topMdM": 829.588,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U42/S42/Z42/AB42 name '3-1/2\" SPM (GLV  : Dummy - Change out made on 20.10.2021)' (native Excel cell values (openpyxl, cached values)); topMd '829.588' = 829.588 m -> 2721.745 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.9' (column 'MIN ID' = explicit ID); outerDiameter '5.23' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "topMd": 3835.397,
+      "bottomMd": null,
+      "outerDiameter": 5.15,
+      "innerDiameter": 2.963,
+      "topMdM": 1169.029,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'DIAL' injection-valve mandrel in the gas-lift string -> SPM (Gas Lift) is the nearest type",
+      "actualType": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U44/S44/Z44/AB44/U45 name '3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)' (native Excel cell values (openpyxl, cached values)); topMd '1169.029' = 1169.029 m -> 3835.397 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.963' (column 'MIN ID' = explicit ID); outerDiameter '5.15' (column 'MAX OD' = explicit OD); status/remark '(2026-05-02)'; transcription note: date cell U45; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV: 8/64\" PTRO: 1045 psi SN: PMA-DUL- IPO-0005)",
+      "topMd": 3910.702,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "topMdM": 1191.982,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: row label names the IPO gas-lift valve set in a side-pocket mandrel (mandrel ID/OD given) -> SPM is the nearest type",
+      "actualType": "3-1/2\" SPM (GLV: 8/64\" PTRO: 1045 psi SN: PMA-DUL- IPO-0005)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U46/S46/Z46/AB46/U47 name '3-1/2\" SPM (GLV: 8/64\" PTRO: 1045 psi SN: PMA-DUL- IPO-0005)' (native Excel cell values (openpyxl, cached values)); topMd '1191.982' = 1191.982 m -> 3910.702 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.9' (column 'MIN ID' = explicit ID); outerDiameter '5.23' (column 'MAX OD' = explicit OD); status/remark '(2026-05-14)'; transcription note: date cell U47; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "spm-4",
+      "type": "spm",
+      "name": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "topMd": 5939.797,
+      "bottomMd": null,
+      "outerDiameter": 5.15,
+      "innerDiameter": 2.963,
+      "topMdM": 1810.45,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'DIAL' injection-valve mandrel in the gas-lift string -> SPM (Gas Lift) is the nearest type",
+      "actualType": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U48/S48/Z48/AB48/U49 name '3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)' (native Excel cell values (openpyxl, cached values)); topMd '1810.45' = 1810.45 m -> 5939.797 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.963' (column 'MIN ID' = explicit ID); outerDiameter '5.15' (column 'MAX OD' = explicit OD); status/remark '(2026-05-02)'; transcription note: date cell U49; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "spm-5",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV: Empty - recovered DV but NOT ABLE to set GLOV 10/64\" due to low RW - high angle)",
+      "topMd": 6013.061,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "topMdM": 1832.781,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: gas-lift orifice valve row drawn on a side-pocket mandrel symbol -> SPM is the nearest type (valve kept in the name)",
+      "actualType": "3-1/2\" SPM (GLV: Empty - recovered DV but NOT ABLE to set GLOV 10/64\" due to low RW - high angle)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U50/U51/S50/Z50/AB50/U52 name '3-1/2\" SPM (GLV: Empty - recovered DV but NOT ABLE to set GLOV 10/64\" due to low RW - high angle)' (native Excel cell values (openpyxl, cached values)); topMd '1832.781' = 1832.781 m -> 6013.061 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.9' (column 'MIN ID' = explicit ID); outerDiameter '5.23' (column 'MAX OD' = explicit OD); status/remark '(2026-05-14)'; transcription note: label continues in U51; date cell U52; depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "7 X 3-1/2 AHR PACKER, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 6079.784,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.897,
+      "topMdM": 1853.118,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U59/S59/Z59/AB59 name '7 X 3-1/2 AHR PACKER, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80' (native Excel cell values (openpyxl, cached values)); topMd '1853.118' = 1853.118 m -> 6079.784 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.897' (column 'MIN ID' = explicit ID); outerDiameter '6' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "nipple-x-1",
+      "type": "nipple (x)",
+      "name": "LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 6145.715,
+      "bottomMd": null,
+      "outerDiameter": 4.04,
+      "innerDiameter": 2.813,
+      "topMdM": 1873.214,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U62/S62/Z62/AB62 name 'LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80' (native Excel cell values (openpyxl, cached values)); topMd '1873.214' = 1873.214 m -> 6145.715 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.04' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "st-slot-locator-1",
+      "type": "st-slot-locator",
+      "name": "NO-GO LOCATOR, 3-1/2 9.2# JFEBEAR B X VAMTOP SC80 P, 13CR-L80",
+      "topMd": 6269.846,
+      "bottomMd": null,
+      "outerDiameter": 4.798,
+      "innerDiameter": 3.05,
+      "topMdM": 1911.049,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type",
+      "actualType": "NO-GO LOCATOR, 3-1/2 9.2# JFEBEAR B X VAMTOP SC80 P, 13CR-L80",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U67/S67/Z67/AB67 name 'NO-GO LOCATOR, 3-1/2 9.2# JFEBEAR B X VAMTOP SC80 P, 13CR-L80' (native Excel cell values (openpyxl, cached values)); topMd '1911.049' = 1911.049 m -> 6269.846 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '3.05' (column 'MIN ID' = explicit ID); outerDiameter '4.798' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "SELF ALIGN MULE SHOE, 3-1/2 9.2# VAMTOP SC80 PIN, 13CR-L80",
+      "topMd": 6271.457,
+      "bottomMd": null,
+      "outerDiameter": 3.86,
+      "innerDiameter": 3.05,
+      "topMdM": 1911.54,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U68/S68/Z68/AB68 name 'SELF ALIGN MULE SHOE, 3-1/2 9.2# VAMTOP SC80 PIN, 13CR-L80' (native Excel cell values (openpyxl, cached values)); topMd '1911.54' = 1911.54 m -> 6271.457 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '3.05' (column 'MIN ID' = explicit ID); outerDiameter '3.86' (column 'MAX OD' = explicit OD); transcription note: end of string (seals into the VCH packer); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "lc-packer-1",
+      "type": "packer",
+      "name": "VCH PACKER, 7\" 26 - 29#, 13CR-L80, HNBR, 10KSI RATING",
+      "topMd": 6266.231,
+      "bottomMd": null,
+      "outerDiameter": 6.015,
+      "innerDiameter": 3.88,
+      "topMdM": 1909.947,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U71/S71/Z71/AB71 name 'VCH PACKER, 7\" 26 - 29#, 13CR-L80, HNBR, 10KSI RATING' (native Excel cell values (openpyxl, cached values)); topMd '1909.947' = 1909.947 m -> 6266.231 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '3.88' (column 'MIN ID' = explicit ID); outerDiameter '6.015' (column 'MAX OD' = explicit OD); transcription note: top packer of the eSTMZ lower completion; depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "topMd": 6303.032,
+      "bottomMd": null,
+      "outerDiameter": 5.735,
+      "innerDiameter": 2.75,
+      "topMdM": 1921.164,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: closing sleeve / shear joint of the gravel-pack/VTA assembly -> Sliding Sleeve is the nearest type",
+      "actualType": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U73/S73/Z73/AB73 name 'MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING' (native Excel cell values (openpyxl, cached values)); topMd '1921.164' = 1921.164 m -> 6303.032 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.75' (column 'MIN ID' = explicit ID); outerDiameter '5.735' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "lc-screen-1",
+      "type": "screen",
+      "name": "TOP JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6355.761,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "topMdM": 1937.236,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U75/S75/Z75/AB75 name 'TOP JOINT PG WRAP MODULAR SCREEN' (native Excel cell values (openpyxl, cached values)); topMd '1937.236' = 1937.236 m -> 6355.761 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.918' (column 'MIN ID' = explicit ID); outerDiameter '4.301' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-screen-2",
+      "type": "screen",
+      "name": "PRODUCTION JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6385.627,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "topMdM": 1946.339,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U77/S77/Z77/AB77 name 'PRODUCTION JOINT PG WRAP MODULAR SCREEN' (native Excel cell values (openpyxl, cached values)); topMd '1946.339' = 1946.339 m -> 6385.627 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.918' (column 'MIN ID' = explicit ID); outerDiameter '4.301' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-sliding-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "topMd": 6415.499,
+      "bottomMd": null,
+      "outerDiameter": 5.05,
+      "innerDiameter": 2.87,
+      "topMdM": 1955.444,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: fracture / circulation sleeve -> Sliding Sleeve is the nearest type",
+      "actualType": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U79/S79/Z79/AB79 name '\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR' (native Excel cell values (openpyxl, cached values)); topMd '1955.444' = 1955.444 m -> 6415.499 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.87' (column 'MIN ID' = explicit ID); outerDiameter '5.05' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "lc-packer-2",
+      "type": "packer",
+      "name": "TNT PERMA-SERIES® ISOLATION PACKER, 13CR FLOW-WET, HNBR, 7KSI RATING",
+      "topMd": 6420.125,
+      "bottomMd": null,
+      "outerDiameter": 5.875,
+      "innerDiameter": 3.875,
+      "topMdM": 1956.854,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U83/S83/Z83/AB83 name 'TNT PERMA-SERIES® ISOLATION PACKER, 13CR FLOW-WET, HNBR, 7KSI RATING' (native Excel cell values (openpyxl, cached values)); topMd '1956.854' = 1956.854 m -> 6420.125 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '3.875' (column 'MIN ID' = explicit ID); outerDiameter '5.875' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-sliding-sleeve-3",
+      "type": "sliding-sleeve",
+      "name": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "topMd": 6450.043,
+      "bottomMd": null,
+      "outerDiameter": 5.735,
+      "innerDiameter": 2.75,
+      "topMdM": 1965.973,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: closing sleeve / shear joint of the gravel-pack/VTA assembly -> Sliding Sleeve is the nearest type",
+      "actualType": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U88/S88/Z88/AB88 name 'MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING' (native Excel cell values (openpyxl, cached values)); topMd '1965.973' = 1965.973 m -> 6450.043 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.75' (column 'MIN ID' = explicit ID); outerDiameter '5.735' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "lc-screen-3",
+      "type": "screen",
+      "name": "TOP JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6469.045,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "topMdM": 1971.765,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U90/S90/Z90/AB90 name 'TOP JOINT PG WRAP MODULAR SCREEN' (native Excel cell values (openpyxl, cached values)); topMd '1971.765' = 1971.765 m -> 6469.045 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.918' (column 'MIN ID' = explicit ID); outerDiameter '4.301' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-screen-4",
+      "type": "screen",
+      "name": "PRODUCTION JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6498.911,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "topMdM": 1980.868,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U92/S92/Z92/AB92 name 'PRODUCTION JOINT PG WRAP MODULAR SCREEN' (native Excel cell values (openpyxl, cached values)); topMd '1980.868' = 1980.868 m -> 6498.911 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.918' (column 'MIN ID' = explicit ID); outerDiameter '4.301' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-sliding-sleeve-4",
+      "type": "sliding-sleeve",
+      "name": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "topMd": 6528.776,
+      "bottomMd": null,
+      "outerDiameter": 5.05,
+      "innerDiameter": 2.87,
+      "topMdM": 1989.971,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: fracture / circulation sleeve -> Sliding Sleeve is the nearest type",
+      "actualType": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U94/S94/Z94/AB94 name '\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR' (native Excel cell values (openpyxl, cached values)); topMd '1989.971' = 1989.971 m -> 6528.776 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.87' (column 'MIN ID' = explicit ID); outerDiameter '5.05' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (column headers 'DEPTH m-MDDF')"
+    },
+    {
+      "id": "lc-seal-assembly-1",
+      "type": "seal-assembly",
+      "name": "SUMP SEAL ASSEMBLY, For 3.88\" Bore Packer, 13CR, HNBR",
+      "topMd": 6537.471,
+      "bottomMd": null,
+      "outerDiameter": 5.613,
+      "innerDiameter": 2.75,
+      "topMdM": 1992.621,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U98/S98/Z98/AB98 name 'SUMP SEAL ASSEMBLY, For 3.88\" Bore Packer, 13CR, HNBR' (native Excel cell values (openpyxl, cached values)); topMd '1992.621' = 1992.621 m -> 6537.471 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '2.75' (column 'MIN ID' = explicit ID); outerDiameter '5.613' (column 'MAX OD' = explicit OD); depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-packer-3",
+      "type": "packer",
+      "name": "AWV SUMP PACKER , 7 \" 26 - 32#, 13CR-80, HNBR, 10KSI RATING",
+      "topMd": 6535.433,
+      "bottomMd": null,
+      "outerDiameter": 5.875,
+      "innerDiameter": 3.88,
+      "topMdM": 1992.0,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) U99/S99/Z99/AB99 name 'AWV SUMP PACKER , 7 \" 26 - 32#, 13CR-80, HNBR, 10KSI RATING' (native Excel cell values (openpyxl, cached values)); topMd '1992' = 1992.0 m -> 6535.433 ft (m MDDF (column headers 'DEPTH m-MDDF') (equipment depth column as printed)); innerDiameter '3.88' (column 'MIN ID' = explicit ID); outerDiameter '5.875' (column 'MAX OD' = explicit OD); transcription note: printed 1992, shallower than the sump seal assembly listed above — kept as printed; depth datum: m MDDF (column headers 'DEPTH m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "conductor-1",
+      "type": "casing",
+      "name": "CONDUCTOR (EXISTING) 26\" 202 A-36 WELDED",
+      "topMd": null,
+      "bottomMd": 597.113,
+      "outerDiameter": null,
+      "innerDiameter": 26.0,
+      "topMdM": null,
+      "bottomMdM": 182.0,
+      "weight": 202.0,
+      "grade": "A-36",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'CONDUCTOR (EXISTING) 26\" 202 A-36 WELDED' (native Excel cell values (openpyxl, cached values)); bottomMd 'CONDUCTOR (EXISTING) 26\" 202 A-36 WELDED' = 182.0 m -> 597.113 ft (m MDDF as printed); innerDiameter '26' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "surface-casing-1",
+      "type": "casing",
+      "name": "INT. CASING (EXISTING) 13-3/8\" 54.5 PPF K-55 BTC",
+      "topMd": null,
+      "bottomMd": 1381.234,
+      "outerDiameter": null,
+      "innerDiameter": 13.375,
+      "topMdM": null,
+      "bottomMdM": 421.0,
+      "weight": 54.5,
+      "grade": "K-55",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'INT. CASING (EXISTING) 13-3/8\" 54.5 PPF K-55 BTC' (native Excel cell values (openpyxl, cached values)); bottomMd 'INT. CASING (EXISTING) 13-3/8\" 54.5 PPF K-55 BTC' = 421.0 m -> 1381.234 ft (m MDDF as printed); innerDiameter '13.375' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-1",
+      "type": "casing",
+      "name": "CASING (EXISTING) 9-5/8\" 43.5 PPF L-80 BTC",
+      "topMd": null,
+      "bottomMd": 4963.911,
+      "outerDiameter": null,
+      "innerDiameter": 9.625,
+      "topMdM": null,
+      "bottomMdM": 1513.0,
+      "weight": 43.5,
+      "grade": "L-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'CASING (EXISTING) 9-5/8\" 43.5 PPF L-80 BTC' (native Excel cell values (openpyxl, cached values)); bottomMd 'CASING (EXISTING) 9-5/8\" 43.5 PPF L-80 BTC' = 1513.0 m -> 4963.911 ft (m MDDF as printed); innerDiameter '9.625' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "liner-1",
+      "type": "liner",
+      "name": "LINER 7\" 29 PPF L-80 VAM TOP/BEAR",
+      "topMd": 1476.378,
+      "bottomMd": 7490.158,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": 450.0,
+      "bottomMdM": 2283.0,
+      "weight": 29.0,
+      "grade": "L-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'LINER 7\" 29 PPF L-80 VAM TOP/BEAR' (native Excel cell values (openpyxl, cached values)); topMd 'diagram ' TOL (7\" LINER) 450' (F34/K34); 'Tie Back 7\" Liner' (F28)' = 450.0 m -> 1476.378 ft (TOL from the diagram label (m MDTHF)); bottomMd 'LINER 7\" 29 PPF L-80 VAM TOP/BEAR' = 2283.0 m -> 7490.158 ft (m MDDF (printed '2283', no unit) as printed); innerDiameter '7' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "TUBING 3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR",
+      "topMd": null,
+      "bottomMd": 822.631,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": null,
+      "bottomMdM": 250.738,
+      "weight": 9.2,
+      "grade": "HP2-13CR-95",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); top not set: depth reference is m MDDF (column headers 'DEPTH m-MDDF'), not the tubing hanger (0 would not be supported)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'TUBING 3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR' (native Excel cell values (openpyxl, cached values)); bottomMd 'TUBING 3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR 250.738 MDDF' = 250.738 m -> 822.631 ft (m MDDF (tubing table depth)); innerDiameter 'TUBING 3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "tubing-2",
+      "type": "tubing",
+      "name": "TUBING 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR",
+      "topMd": 822.631,
+      "bottomMd": 5446.194,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": 250.738,
+      "bottomMdM": 1660.0,
+      "weight": 9.2,
+      "grade": "13CR-L80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "topMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: top = bottom of the tubing section listed above",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' header name 'TUBING 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR' (native Excel cell values (openpyxl, cached values)); topMd 'TUBING 3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR 250.738 MDDF' = 250.738 m -> 822.631 ft (m MDDF (tubing table depth); DERIVED top = bottom of the tubing section above); bottomMd 'TUBING 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR 1660 MDDF' = 1660.0 m -> 5446.194 ft (m MDDF (tubing table depth)); innerDiameter 'TUBING 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "zone-e22a-1",
+      "type": "perforation",
+      "name": "E22A 1944-1951 m MDDF",
+      "topMd": 6377.953,
+      "bottomMd": 6400.919,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1944.0,
+      "bottomMdM": 1951.0,
+      "zone": "E22A",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) B73/B75 name 'E22A 1944-1951 m MDDF' (native Excel cell values (openpyxl, cached values)); topMd 'E22A 1944 - 1951 m MDDF (7 m); 1302.63 - 1303.81 m TVD; 1115.30 psi, 177.8 deg F' = 1944.0 m -> 6377.953 ft (m MDDF as printed); bottomMd 'E22A 1944 - 1951 m MDDF (7 m); 1302.63 - 1303.81 m TVD; 1115.30 psi, 177.8 deg F' = 1951.0 m -> 6400.919 ft (m MDDF as printed); original text: E22A 1944 - 1951 m MDDF (7 m); 1302.63 - 1303.81 m TVD; 1115.30 psi, 177.8 deg F"
+    },
+    {
+      "id": "zone-e22b-1",
+      "type": "perforation",
+      "name": "E22B 1981-1988 m MDDF",
+      "topMd": 6499.344,
+      "bottomMd": 6522.31,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1981.0,
+      "bottomMdM": 1988.0,
+      "zone": "E22B",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' cell(s) B91/B93 name 'E22B 1981-1988 m MDDF' (native Excel cell values (openpyxl, cached values)); topMd 'E22B 1981 - 1988 m MDDF (7 m); 1308.89 - 1310.17 m TVD; 1089.80 psi, 177.8 deg F' = 1981.0 m -> 6499.344 ft (m MDDF as printed); bottomMd 'E22B 1981 - 1988 m MDDF (7 m); 1308.89 - 1310.17 m TVD; 1089.80 psi, 177.8 deg F' = 1988.0 m -> 6522.31 ft (m MDDF as printed); original text: E22B 1981 - 1988 m MDDF (7 m); 1308.89 - 1310.17 m TVD; 1089.80 psi, 177.8 deg F"
+    },
+    {
+      "id": "pbtd-1",
+      "type": "pbtd",
+      "name": "PBTD 2241 (diagram I108/K108; header G11 2241)",
+      "topMd": 7352.362,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2241.0,
+      "bottomMdM": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' diagram name 'PBTD 2241 (diagram I108/K108; header G11 2241)' (native Excel cell values (openpyxl, cached values)); topMd 'PBTD 2241 (diagram I108/K108; header G11 2241)' = 2241.0 m -> 7352.362 ft (m MDDF)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

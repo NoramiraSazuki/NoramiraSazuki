@@ -1,0 +1,68 @@
+{
+ "slide": 25,
+ "file": "slides/slide25.xml",
+ "hidden": false,
+ "size": [
+  7739063,
+  10042525
+ ],
+ "notes": "Updated by Pravin on 11th July 2022\n\nOpen\n25",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6",
+   "name": "Picture 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 51131,
+   "y": 371107,
+   "cx": 7687932,
+   "cy": 8704032,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.66,
+    3.7,
+    100.0,
+    90.37
+   ],
+   "image": "../media/image25.png"
+  },
+  {
+   "kind": "sp",
+   "id": "84",
+   "name": "TextBox 83",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 865257,
+   "y": 3944869,
+   "cx": 5334000,
+   "cy": 1569660,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    11.18,
+    39.28,
+    80.1,
+    54.91
+   ],
+   "text": "FOR B25 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

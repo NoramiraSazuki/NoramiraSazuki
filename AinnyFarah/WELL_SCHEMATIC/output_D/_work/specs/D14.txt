@@ -1,0 +1,71 @@
+WELL | D14 | 14 | image43.png | WELL D-14 :DUAL PRODUCER WITH SS OIL AND LS WATER INJECTOR
+SRC | 14 | image43.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 15 MARCH, 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF N-80 TKC4040
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.93 m
+INFO | maxDeviation | 74 DEG.@1184.5m-MDTHF
+INFO | completionType | DUAL PRODUCER WITH SS OIL AND LS WATER INJECTOR
+CASING | 18-5/8" COND. #1, K-55, 87.5 ppf @ 852.0m-MDDF | 18.625 | 87.5 | K-55 | 852.0 | MDDF
+CASING | 13-3/8" K-55 SURF., 54.5 ppf @ 1907.0 m-MDDF | 13.375 | 54.5 | K-55 | 1907.0 | MDDF
+CASING | 9-5/8" N-80 PROD., 40 ppf, BUTT @ 3190.0 m-MDDF | 9.625 | 40 | N-80 | 3190.0 | MDDF
+TUBING | 3-1/2" 9.2 PPF N-80 TKC4040 | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3-1/2" 9.2 PPF N-80 TKC4040 | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 143.0 |  | 2.992 |  |  |  | p1
+ROW | S | TRDP-4A-LS-RO SCSSV | 143.9 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 145.2 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 288.7 |  |  |  |  | MIN ID covered by the status box | p1
+ROW | S | KBMM SPM | 776.2 |  |  |  | GLV 8/64" 03/Mar/1997 | MIN ID covered (2.920 partly visible at the last SPM) | p1
+ROW | S | KBMM SPM | 1680.1 |  |  |  | GLV 8/64" 02/Oct/2012 |  | p1
+ROW | S | KBMM SPM | 2362.8 |  |  |  | GLOV 12/64" 02/Oct/2012 |  | p1
+ROW | S | KBMM SPM | 2651.8 |  |  |  | DV 03/Mar/97 | label partly covered by 'POSIBLE CASING LEAK 2517' | p1
+ROW | S | KBMM SPM | 2950.0 |  | ?2.920 |  | DV 03/Mar/97 |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 2961.4 |  | 2.812 |  | CLOSED 07/04/2002 |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 2978.6 |  | 2.867 |  |  | long side: PKR 3, RELEASE@60000# ABOVE TBG. WT., MIN ID 2.867 | p1
+ROW | S | TELESCOPIC JOINT | 2982.4 |  | 2.992 |  |  |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 2987.9 |  | 2.812 |  | CLOSED 06/JUN/2004 |  | p1
+ROW | S | WP-1 NIPPLE | 3007.8 |  | 2.812 |  |  |  | p2
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 3015.2 |  | 2.867 |  |  | long side: PKR 2, RELEASE@60000# ABOVE TBG. WT., MIN ID 2.867 | p2
+ROW | S | 'D' NO-GO NIPPLE | 3018.9 |  | 2.750 |  | OPENED 06/JUN/2004 |  | p2
+ROW | S | SEAL BORE | 3019.3 |  | 2.992 |  |  |  | p2
+ROW | S | EOT | 3019.4 |  | 2.992 |  |  |  | p2
+ROW | L | FLOW COUPLING | 152.5 |  | 2.992 |  |  |  | p1
+ROW | L | TRDP-4A-LS-RO SCSSV | 153.4 |  | 2.812 |  | Suspect TR-SCSSV flapper 90% closed |  | p1
+ROW | L | FLOW COUPLING | 154.7 |  | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 297.8 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 784.8 |  | 2.920 |  | UNLOADING VALVE |  | p1
+ROW | L | UPPER "B" TUBING STOP | 2521.0 |  |  |  |  | italic label (added later) | p1
+ROW | L | LOWER "B" TUBING STOP | 2527.0 |  |  |  |  | italic label (added later) | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2971.1 |  | 2.812 |  | CLOSED |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2991.1 |  | 2.812 |  | CLOSED |  | p1
+ROW | L | BLAST JOINT | 2995.0 | 3004.1 | 2.992 |  |  | depths at both ends of the bracket | p1
+ROW | L | WP-1 NIPPLE | 3007.8 |  | 2.812 |  |  |  | p2
+ROW | L | CAMCO 'CSW-1D-T' SSD | 3021.0 |  | 2.812 |  |  |  | p2
+ROW | L | BLAST JOINT | 3023.7 | 3056.7 |  |  |  | depths at both ends of the bracket | p2
+ROW | L | UPPER "B" TUBING STOP | 3043.0 |  |  |  |  | italic label inside the blast-joint bracket | p2
+ROW | L | LOWER "B" TUBING STOP | 3049.0 |  |  |  | LIB to HUD at 3046m-MDTHF impression of Tubing Stop Fishing Neck | italic label inside the blast-joint bracket | p2
+ROW | L | WP-1 NIPPLE | 3059.2 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 3061.3 |  | 2.992 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY | 3062.7 |  | 2.992 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 3062.9 |  | 2.867 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM. PKR. | 3064.0 |  | 2.867 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT. | 3064.3 |  | 2.992 |  |  |  | p2
+ROW | L | 'D' NO-GO SEAL BORE | 3067.1 |  | 2.750 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 3068.1 |  | 2.992 |  |  |  | p2
+ROW | L | EOT | 3068.3 |  | 2.992 |  | OPENED 18/MAR/1996 |  | p2
+SHOE | 9 5/8 CSG SHOE |  |  |  | label in the long-string column, no own depth (header 3190.0 m-MDDF) | p2
+ZONE | E-10/11 | 2997.0 | 3002.5 | MDTHF | SAND : E-10/11 2997.0m - 3002.5 m | p1 | perf
+ZONE | E-12/13 | 3025.5 | 3034.0 | MDTHF | SAND : E-12/13 3025.5 m - 3034.0 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 3036.5 | 3042.5 | MDTHF | 3036.5 m - 3042.5 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 3046.0 | 3054.0 | MDTHF | 3046.0 m - 3054.0 m-MDTHF | p2 | perf
+ZONE | E-14 | 3072.0 | 3084.0 | MDTHF | SAND : E-14 3072.0m - 3084.0 m-MDTHF | p2 | perf
+PBTD | 3149.0 | MDTHF | PBTD @3149.0m-MDTHF
+TD | 3185.0 | MDTHF | TD@3185.0m-MDTHF
+INT | Retrieve CA Plug (13/11/12) |  |  | 4
+NOTE | picture p1 | LEAK 798 (short string); POSIBLE CASING LEAK 2517; LIB to HUD@ 156m-MDTHF (with LIB photo)
+NOTE | picture p2 | HOLE (20/9/2000) at 3058.0 m (long string); 12/Nov/2012 : HUD @ 3024 m-MDTHF; 04/Sept/2013
+NOTE | slide 14 notes | 'well already abandoned.'
+ISSUE | Unclear | slide 14 | slide notes say the well is already abandoned; the picture is the last completion schematic (status as of 04/Sept/2013) — mapped as printed

@@ -1,0 +1,48 @@
+# slide 24 (slides/slide24.xml) hidden=False objects=21
+# notes: 'Updated by Pravin on 11th July 2022\n\nOpen\n24'
+[pic id=52227 'Picture 3' pct=[0.0, 0.0, 100.0, 100.0] hidden=False img=../media/image24.png]
+[sp id=52228 'TextBox 1' pct=[0.76, 0.68, 28.33, 3.29] hidden=False]
+    LATEST UPDATE : Sep 2022
+[sp id=52231 'Text Box 179' pct=[30.3, 58.58, 34.46, 60.56] hidden=False]
+    SSD#3
+    OPEN
+[sp id=52233 'Text Box 179' pct=[30.3, 78.74, 34.46, 80.71] hidden=False]
+    SSD#6
+    CLOSED
+[sp id=52234 'Text Box 179' pct=[30.3, 85.32, 34.46, 87.3] hidden=False]
+    SSD#7
+    CLOSED
+[sp id=52236 'Text Box 179' pct=[30.3, 52.51, 34.46, 54.49] hidden=False]
+    SSD#2
+    CLOSED
+[sp id=13 'Rectangle 2' pct=[1.53, 76.58, 16.77, 81.17] hidden=False]
+    7 Mar 2026
+    RIH 2.29” GR, encounter HUD (sand) at 1432 m- MDTHF (above SSD#6)
+[sp id=14 'Rectangle 2' pct=[1.53, 88.22, 18.13, 90.98] hidden=False]
+    Oct 2013
+    PXN Plug set at 1455m-MDTHF
+[sp id=62 'TextBox 61' pct=[0.76, 14.92, 8.62, 17.68] hidden=False]
+    DEPTH
+    m-MDTHF
+[sp id=52280 'TextBox 52279' pct=[2.13, 39.19, 7.71, 41.03] hidden=False]
+    1268
+[sp id=125 'TextBox 124' pct=[2.13, 20.58, 7.71, 22.41] hidden=False]
+    231
+[sp id=127 'TextBox 126' pct=[2.13, 80.19, 7.71, 82.03] hidden=False]
+    1429
+[sp id=131 'TextBox 130' pct=[2.13, 53.97, 7.71, 55.81] hidden=False]
+    1303
+[sp id=2 'TextBox 1' pct=[48.23, 8.28, 63.8, 10.43] hidden=False]
+    DF-THF : 17.9m
+[sp id=5 'Text Box 179' pct=[30.3, 34.68, 34.46, 36.66] hidden=False]
+    SSD#1
+    CLOSED
+[sp id=6 'Text Box 179' pct=[30.3, 65.27, 34.46, 67.25] hidden=False]
+    SSD#4
+    OPEN
+[sp id=7 'Text Box 179' pct=[30.3, 71.48, 34.46, 73.45] hidden=False]
+    SSD#5
+    OPEN
+[sp id=9 'Rectangle 2' pct=[1.53, 72.35, 16.77, 76.03] hidden=False]
+    8 Mar 2026
+    Set Paragon Plug at 1418m-MDTHF

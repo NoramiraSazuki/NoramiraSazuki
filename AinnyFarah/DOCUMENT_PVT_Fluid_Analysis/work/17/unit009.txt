@@ -1,0 +1,45 @@
+15
+Compositional Analysis of Flashed Gas from BHS Water Sample to C12+
+Component | Mole % | Weight % | Sample Information
+Sampling Date | 17 Feb 2013
+CO2 | Carbon Dioxide | 89.44099999999996 | 95.50599999999999 | Sampling Time | 0143 hrs
+N2 | Nitrogen | 0.391 | 0.266 | Sampling Location | DLD-32L
+C1 | Methane | 9.802 | 3.815 | Sample Description | Flashed Gas
+C2 | Ethane | 0.231 | 0.168 | Cylinder Number | 2853-S1-F
+C3 | Propane | 0.036 | 0.039 | Sampling Conditions
+iC4 | i-Butane | 0.004 | 0.006
+nC4 | n-Butane | 0.004 | 0.005 | Additional Sample Information
+C5 | Neo-Pentane | 0.0 | 0.0 | Opening Pressure | psig
+iC5 | i-Pentane | 0.003 | 0.006 | Opening Temperature | °F
+nC5 | n-Pentane | 0.001 | 0.001 | Total Air Content | Mole%
+C6 | Hexanes | 0.013000000000000001 | 0.026000000000000002 | Our Lab Identification | 21473.0
+M-C-Pentane | 0.004 | 0.007
+Benzene | 0.028 | 0.053 | Notes
+Cyclohexane | 0.001 | 0.003 | 0.00 means less than 0.005
+C7 | Heptanes | 0.0 | 0.0
+M-C-Hexane | 0.0 | 0.001
+Toluene | 0.028 | 0.063
+C8 | Octanes | 0.0 | 0.0
+E-Benzene | 0.001 | 0.002
+M/P-Xylene | 0.009 | 0.024
+O-Xylene | 0.002 | 0.006
+C9 | Nonanes | 0.0 | 0.0
+C10 | Decanes | 0.001 | 0.003
+C11 | Undecanes | 0.0 | 0.0
+C12+ | Dodecanes Plus | 0.0 | 0.0
+Totals | 100.0 | 100.0
+Calculated Residue Properties | Mole % | Weight % | Mole | Density
+Weight | at 60oF
+(g.mol-1) | (g.cm-3)
+C7+ | Heptanes plus | 0.074 | 0.162 | 89.20210797511479 | 0.8652134102254495
+C8+ | Octanes plus | 0.041 | 0.099 | 97.25348098548542 | 0.8685424983149692
+C10+ | Decanes plus | 0.001 | 0.003 | 134.0 | 0.778
+C12+ | Dodecanes plus | 0.0 | 0.0
+Calculated Whole Gas Properties
+Real Relative Density | 1.4306 | (Air=1 @ 14.73 psia and 60°F)
+Whole Sample Mole Weight | 41.22 | g.mol-1
+Gas Density | 1.7523 | kg.m-3 @ 15°C
+Calorific Value | 4.07 | MJ.m-3 (Real Gross @ 15°C, metered @ 15°C)
+Calorific Value | 3.67 | MJ.m-3 (Real Net @ 15°C, metered @ 15°C)
+Gas Water Ratio (GWR) | 49.2 | scf/bbl
+--- OCR ---

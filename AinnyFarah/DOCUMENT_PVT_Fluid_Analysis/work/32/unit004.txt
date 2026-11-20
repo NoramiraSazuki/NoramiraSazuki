@@ -1,0 +1,11 @@
+VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE
+1. Saturation pressure (bubble-point pressure) | 1410 PSIG @ 196 °F
+2. Specific volume at saturation pressure | ft 3/lb - @ - °F
+3. Thermal expansion of saturated oil | @5000 PSIG | = | V@ 196 °F | = | 1
+V@ 196 °F
+4. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI
+From | 5000 | PSIG | to to | 4000 | PSIG = | 8.61 x 10¯⁶
+From | 4000 | PSIG | to | 3000 | PSIG = | 9.16 x 10¯⁶
+From | 3000 | PSIG | to | 2000 | PSIG = | 9.96 x 10¯⁶
+From | 2000 | PSIG | to | 1410 | PSIG = | 11.02 x 10¯⁶
+--- OCR ---

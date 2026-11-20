@@ -1,0 +1,19 @@
+COMPANY | PCSB
+WELL | DULANG C-25
+REPORT NO | PRSS-SR4-95-09
+COMPOSITIONAL ANALYSIS OF SUBSURFACE FLUID
+MOLE %
+COMPONENT | 814580 | 813650
+H2S Hydrogen Sulphide
+CO2 Carbon Dioxide | 30.983 | 33.95
+N2 Nitrogen | 0.952 | 0.209
+C1 Methane | 63.352 | 40.861
+C2 Ethane | 2.896 | 11.721
+C3 Propane | 1.711 | 7.558
+iC4 i-Butane | 0.064 | 2.156
+nC4 n-Butane | 0.042 | 2.106
+iC5 i-Pentane | 0.779
+nC5 n-Pentane | 0.53
+C6+ Hexanes Plus | 0.13
+Total | 100 | 100
+--- OCR ---

@@ -1,0 +1,335 @@
+PETRONAS
+
+WELL NAME: DULANG C-29
+
+CARIGALI
+
+LOCATION : DULANG
+
+DATE OF COMPLETION
+
+October2012
+
+RIG
+
+KM-1
+
+X-MAS TREE
+
+Conventional Solar Alert 5K Wellhead
+
+TD
+
+2620 Meter DF
+
+& Single F-F Trim Christmas Tree
+
+MAXIMUM DEVIATION
+
+71.49 DEG @ 1027.95 M MD DF / 789.70 M TVD DF
+
+DRILL IN FLUID
+
+10.2 ppg Size Salt OPTA-FLO Drill in Fluid (DIF)
+
+WATER DEPTH
+
+76.70 M
+
+ENZYME BREAKER
+
+10.2 ppg Formate based fluid enzyme breaker
+
+TUBING HANGER
+
+20 Meter DF
+
+COMPLETION FLUID
+
+(LOWER COMPLETION)
+
+10.2 ppg Sodium Formate (treated with fluid loss)
+
+COMPLETION TUBING
+
+3-1/2" 13 Cr 9.2 PPF & 2-7/8" 13Cr 6.4 PPF Inner String
+
+(UPPER COMPLETION)
+
+8.5 ppg KCL
+
+6-1/8" Open Hole wt 125 micron 4-1/2" 12.6 PPF
+
+PACKER FLUID
+
+8.5 ppg Drill water + KCI based fluid + 0.1% vol.
+
+PGAM Screen
+
+Bacteride + 2% vol. CONQOR 303A
+
+Corrosion Inhibitor + 1% vol. 02 scavenger
+
+DEPTH
+
+Tubing String
+
+MD m RKB
+
+(OIL PRODUCER)
+
+Remarks / Status
+
+EQUIPMENT
+
+MAX OD
+
+IN
+
+242
+
+FLOW COUPLING
+
+2.880
+
+3.920
+
+245
+
+SV
+
+2.813
+
+5.030
+
+248
+
+FLOW COUPLING
+
+2.880
+
+3.920
+
+480
+
+8-1/2" SPM
+
+2.880
+
+6.000
+
+826
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+1173
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+1511
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+1840
+
+2.880
+
+6.000
+
+8-1/2" SPM
+
+2159
+
+3-1/2" Orifice
+
+2.880
+
+6.000
+
+Xe
+
+2288
+
+3-1/2" SSD
+
+2.813
+
+4.550
+
+———<a
+
+2295
+
+7" x 3-1/2" AHC Packer
+
+2.900
+
+5.960
+
+=
+
+|
+
+2300
+
+3-1/2" XN-Nipple
+
+2.666
+
+3.893
+
+3-1/2" No-Go Locator
+
+2326
+
+3-1/2" Self Aligning Muleshoe
+
+2327
+
+-1/2" x 7" VTA Packer
+
+3.880
+
+6.000
+
+3.88" Seal Bore Ext
+
+3.894
+
+4.967
+
+T SHOE
+
+3 Way Sub :
+
+2357 m MDDF
+
+4-1/2"x 4-1/2"x 2-7/8"
+
+1268 TVD DF
+
+Box X Pin X Pin
+
+2408
+
+3.22" SLIM SSD Inner String
+
+—
+
+2400-2403
+
+3 Meter Oil Swell Packer
+
+Ew
+
+MD: 2405-2410 mDF
+
+il
+
+2412
+
+3.25" Seal Bore Ext
+
+at
+
+2416-2419
+
+3 Meter Oil Swell Packer
+
+O ©
+
+2428
+
+3.22" SLIM SSD Inner String
+
+iE
+
+NJ
+
+E10-11A
+
+it
+
+At
+
+MD: 2426-2429 mDF
+
+m -
+
+=i
+
+2431
+
+3.25" Seal Bore Ext
+
+—
+
+2431-2434
+
+3 Meter Oil Swell Packer
+
+E10-11B
+
+MD: 2440-2458 mDF
+
+:
+
+NI
+
+NI
+
+2449
+
+3.22" SLIM SSD Inner String
+
+5
+
+—
+
+2458-2461
+
+3 Meter Oil Swell Packer
+
+E10-11C
+
+MD: 2462-2470 mDF
+
+1 ff
+
+Ny
+
+2472
+
+3.25" Seal Bore Ext
+
+2469-2472
+
+3 Meter Oil Swell Packer
+
+2480
+
+3.22" SLIM XN-Nipple Inner String
+
+2482
+
+3.22" Self Aligning Muleshoe
+
+Inner String
+
+2487
+
+Double Valve Float Shoe
+
+—— eee eee

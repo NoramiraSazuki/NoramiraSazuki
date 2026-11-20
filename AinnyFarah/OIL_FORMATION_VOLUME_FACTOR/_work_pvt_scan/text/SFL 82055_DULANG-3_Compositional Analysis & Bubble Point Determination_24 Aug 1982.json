@@ -1,0 +1,487 @@
+[
+{
+"where": "sheet 'Page 1' cell H1",
+"how": "cell text",
+"text": "File: "
+},
+{
+"where": "sheet 'Page 1' cell I1",
+"how": "cell text",
+"text": "SFL82055"
+},
+{
+"where": "sheet 'Page 1' cell H2",
+"how": "cell text",
+"text": "Date Sampled:  "
+},
+{
+"where": "sheet 'Page 1' cell B5",
+"how": "cell text",
+"text": "Formation Characteristic"
+},
+{
+"where": "sheet 'Page 1' cell B6",
+"how": "cell text",
+"text": "Formation Name"
+},
+{
+"where": "sheet 'Page 1' cell B7",
+"how": "cell text",
+"text": "Date First Well Completed"
+},
+{
+"where": "sheet 'Page 1' cell B8",
+"how": "cell text",
+"text": "Original Reservoir Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B9",
+"how": "cell text",
+"text": "Original Produced Gas-011 Ratio"
+},
+{
+"where": "sheet 'Page 1' cell B10",
+"how": "cell text",
+"text": "Production Rate"
+},
+{
+"where": "sheet 'Page 1' cell B11",
+"how": "cell text",
+"text": "Separstar Pressure and Temperature"
+},
+{
+"where": "sheet 'Page 1' cell B12",
+"how": "cell text",
+"text": "Oil Gravity at 60°F"
+},
+{
+"where": "sheet 'Page 1' cell B13",
+"how": "cell text",
+"text": "Datum"
+},
+{
+"where": "sheet 'Page 1' cell B14",
+"how": "cell text",
+"text": "Original Gas Cap"
+},
+{
+"where": "sheet 'Page 1' cell B18",
+"how": "cell text",
+"text": "Well Characteristic"
+},
+{
+"where": "sheet 'Page 1' cell B19",
+"how": "cell text",
+"text": "Elevation"
+},
+{
+"where": "sheet 'Page 1' cell B20",
+"how": "cell text",
+"text": "Total Depth"
+},
+{
+"where": "sheet 'Page 1' cell B21",
+"how": "cell text",
+"text": "Producing Interval"
+},
+{
+"where": "sheet 'Page 1' cell B22",
+"how": "cell text",
+"text": "Tubing Size and Depth"
+},
+{
+"where": "sheet 'Page 1' cell G22",
+"how": "cell text",
+"text": "4744-4760, 4772-4780 FT"
+},
+{
+"where": "sheet 'Page 1' cell B23",
+"how": "cell text",
+"text": "Productivity Index"
+},
+{
+"where": "sheet 'Page 1' cell B24",
+"how": "cell text",
+"text": "Last Reservoir Pressure"
+},
+{
+"where": "sheet 'Page 1' cell G24",
+"how": "cell text",
+"text": "2026.83PSIG    @469201 FT"
+},
+{
+"where": "sheet 'Page 1' cell C25",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'Page 1' cell C26",
+"how": "cell text",
+"text": "Reservolr Temperature"
+},
+{
+"where": "sheet 'Page 1' cell G26",
+"how": "cell text",
+"text": "223.6°F  @4688.1 FT"
+},
+{
+"where": "sheet 'Page 1' cell C27",
+"how": "cell text",
+"text": "Status of Well"
+},
+{
+"where": "sheet 'Page 1' cell G27",
+"how": "cell text",
+"text": "FLOWING"
+},
+{
+"where": "sheet 'Page 1' cell C28",
+"how": "cell text",
+"text": "Pressure Gangs"
+},
+{
+"where": "sheet 'Page 1' cell B29",
+"how": "cell text",
+"text": "Normal Production Rate"
+},
+{
+"where": "sheet 'Page 1' cell C30",
+"how": "cell text",
+"text": "Gas~Oil Ratio"
+},
+{
+"where": "sheet 'Page 1' cell C31",
+"how": "cell text",
+"text": "Separator Pressure and"
+},
+{
+"where": "sheet 'Page 1' cell C32",
+"how": "cell text",
+"text": "Base Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B33",
+"how": "cell text",
+"text": "Well Making Water"
+},
+{
+"where": "sheet 'Page 1' cell B36",
+"how": "cell text",
+"text": "Sampling Condition"
+},
+{
+"where": "sheet 'Page 1' cell B37",
+"how": "cell text",
+"text": "Sampled at"
+},
+{
+"where": "sheet 'Page 1' cell B38",
+"how": "cell text",
+"text": "Status of Well"
+},
+{
+"where": "sheet 'Page 1' cell B39",
+"how": "cell text",
+"text": "Gas--Oil Ratio"
+},
+{
+"where": "sheet 'Page 1' cell B40",
+"how": "cell text",
+"text": "Separator Pressure and Temperature"
+},
+{
+"where": "sheet 'Page 1' cell B41",
+"how": "cell text",
+"text": "Tubing Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B42",
+"how": "cell text",
+"text": "Casing Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B43",
+"how": "cell text",
+"text": "Sampled by"
+},
+{
+"where": "sheet 'Page 1' cell G43",
+"how": "cell text",
+"text": "OTIS"
+},
+{
+"where": "sheet 'Page 1' cell B44",
+"how": "cell text",
+"text": "Type Sampler"
+},
+{
+"where": "sheet 'Page 1' cell G44",
+"how": "cell text",
+"text": "LUETERT"
+},
+{
+"where": "sheet 'Page 2' cell B3",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLE RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'Page 2' cell B6",
+"how": "cell text",
+"text": "Fluid contain in cylinder 80129:"
+},
+{
+"where": "sheet 'Page 2' cell B8",
+"how": "cell text",
+"text": "Water recovered"
+},
+{
+"where": "sheet 'Page 2' cell D8",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Page 2' cell E8",
+"how": "cell text",
+"text": "0cc"
+},
+{
+"where": "sheet 'Page 2' cell B9",
+"how": "cell text",
+"text": "Opening Pressure"
+},
+{
+"where": "sheet 'Page 2' cell D9",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Page 2' cell E9",
+"how": "cell text",
+"text": "870 psig at 90°F"
+},
+{
+"where": "sheet 'Page 2' cell B10",
+"how": "cell text",
+"text": "Bubble Point"
+},
+{
+"where": "sheet 'Page 2' cell D10",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Page 2' cell E10",
+"how": "cell text",
+"text": "1470 psig at 90°F"
+},
+{
+"where": "sheet 'Page 2' cell B11",
+"how": "cell text",
+"text": "Volume of Sample"
+},
+{
+"where": "sheet 'Page 2' cell D11",
+"how": "cell text",
+"text": ": "
+},
+{
+"where": "sheet 'Page 2' cell E11",
+"how": "cell text",
+"text": "545 ccs"
+},
+{
+"where": "sheet 'Page 2' cell B14",
+"how": "cell text",
+"text": "Fluid Contaion in cylinder 800107:"
+},
+{
+"where": "sheet 'Page 2' cell B16",
+"how": "cell text",
+"text": "Water recovered"
+},
+{
+"where": "sheet 'Page 2' cell D16",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Page 2' cell E16",
+"how": "cell text",
+"text": "0 cc"
+},
+{
+"where": "sheet 'Page 2' cell B17",
+"how": "cell text",
+"text": "Opening Pressure"
+},
+{
+"where": "sheet 'Page 2' cell D17",
+"how": "cell text",
+"text": ": "
+},
+{
+"where": "sheet 'Page 2' cell E17",
+"how": "cell text",
+"text": "0 at 70°F"
+},
+{
+"where": "sheet 'Page 2' cell B18",
+"how": "cell text",
+"text": "Bubble Point"
+},
+{
+"where": "sheet 'Page 2' cell D18",
+"how": "cell text",
+"text": ": "
+},
+{
+"where": "sheet 'Page 2' cell E18",
+"how": "cell text",
+"text": "None"
+},
+{
+"where": "sheet 'Page 2' cell B19",
+"how": "cell text",
+"text": "Volume of Sample"
+},
+{
+"where": "sheet 'Page 2' cell D19",
+"how": "cell text",
+"text": ": "
+},
+{
+"where": "sheet 'Page 2' cell E19",
+"how": "cell text",
+"text": "None"
+},
+{
+"where": "sheet 'Page 2' cell B22",
+"how": "cell text",
+"text": "Note: Sample cylinder empty."
+},
+{
+"where": "sheet 'Page 2' cell B24",
+"how": "cell text",
+"text": "* The fluid in this container was used for subsequent analysis."
+},
+{
+"where": "sheet 'Page 3' cell B3",
+"how": "cell text",
+"text": "Hydrocarbon Anlaysis of Reservoir Fluid Sample"
+},
+{
+"where": "sheet 'Page 3' cell B5",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 3' cell D5",
+"how": "cell text",
+"text": "Mol%"
+},
+{
+"where": "sheet 'Page 3' cell E5",
+"how": "cell text",
+"text": "Wt%"
+},
+{
+"where": "sheet 'Page 3' cell F5",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'Page 3' cell G5",
+"how": "cell text",
+"text": "°Api @ 60°F"
+},
+{
+"where": "sheet 'Page 3' cell H5",
+"how": "cell text",
+"text": "MW"
+},
+{
+"where": "sheet 'Page 3' cell B6",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Page 3' cell B7",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Page 3' cell B8",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Page 3' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Page 3' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Page 3' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Page 3' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Page 3' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Page 3' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Page 3' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Page 3' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Page 3' cell B17",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'Page 4' cell B3",
+"how": "cell text",
+"text": "Pressure-Volume Relation at 224°F"
+},
+{
+"where": "sheet 'Page 4' cell B6",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 4' cell E6",
+"how": "cell text",
+"text": "Relative Volume (1)"
+},
+{
+"where": "sheet 'Page 4' cell B17",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+},
+{
+"where": "text box/shape in xl/drawings/drawing1.xml",
+"how": "drawing text",
+"text": "RESERVOIR FLUID STUDY COMPOSITIONAL ANALYSIS AND BUBBLE POINT DETERMINATION TEST 1 DULANG-3 MALAYSIA CORE LABORATORIES ESSO PRODUCTION MALAYSIA INC."
+}
+]

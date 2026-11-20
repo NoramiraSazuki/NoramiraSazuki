@@ -1,0 +1,45 @@
+# slide 9 (slides/slide9.xml) hidden=False objects=25
+# notes: 'Open\n9'
+[pic id=8194 'Picture 2' pct=[3.45, 1.84, 96.56, 59.48] hidden=False img=../media/image20.png]
+[pic id=8195 'Picture 3' pct=[3.23, 59.05, 96.56, 91.84] hidden=False img=../media/image21.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.36, 4.87] hidden=False]
+    FB – N3E
+[sp id=6 'TextBox 5' pct=[3.67, 58.59, 17.44, 62.97] hidden=False]
+    OPEN
+    31/MAY/2007
+[sp id=7 'TextBox 6' pct=[4.09, 77.14, 17.07, 81.52] hidden=False]
+    CLOSED
+    31/MAY2007
+[sp id=9 'TextBox 8' pct=[85.56, 40.56, 100.0, 42.92] hidden=False]
+    GLV 12/64”
+[sp id=13 'TextBox 12' pct=[85.69, 42.64, 113.82, 45.0] hidden=False]
+    GLV Bottom Latch 10/64”, PTRO 755 psi
+[sp id=14 'TextBox 13' pct=[85.69, 44.83, 100.14, 47.19] hidden=False]
+    GLV 12/64”
+[sp id=15 'TextBox 14' pct=[85.69, 46.77, 100.14, 49.13] hidden=False]
+    GLOV
+[sp id=16 'TextBox 15' pct=[85.14, 38.58, 96.25, 40.94] hidden=False]
+    Jun 05/2006
+[sp id=19 'Rectangle 18' pct=[36.78, 84.37, 82.13, 87.06] hidden=False]
+    CA Plug set @ ‘D’ No-Go @  2037m-MDTHF (May 2007)
+[sp id=2 'TextBox 1' pct=[4.64, 67.5, 15.64, 72.55] hidden=False]
+    1881.8- 1887.9 
+[sp id=23 'Rectangle 22' pct=[3.44, 82.91, 17.43, 86.67] hidden=False]
+    E34 
+    2033 – 2039
+[sp id=25 'Rectangle 24' pct=[0.0, 91.67, 25.24, 97.73] hidden=False]
+    31/May/2007: SGS/E34, tagged 'D' NoGo @ 2037m-MDTHF. Fluid Level @ 1427m-MDTHF Sinker Bar to 3 mtrs below 'D' NoGo @ 2040m-MDTHF
+[sp id=26 'TextBox 3' pct=[1.09, 1.21, 22.95, 3.73] hidden=False]
+    Latest Update: DEC 2015
+[sp id=22 'Rectangle 21' pct=[1.82, 46.95, 20.79, 52.51] hidden=False]
+    2.25” LIB HUD @ 1768m WLTHF (Sep 16). Recovered sludge
+[sp id=27 'Text Box 289' pct=[62.22, 93.64, 105.46, 97.68] hidden=False]
+    LAST ENTRY	: 28  Sep 2016
+    TYPE OF JOB	: A-11 : Install GLV GLM-2
+    UPDATED BY	: M Zhafran
+    DATE	: 4 Feb 2018
+[sp id=8225 'TextBox 8224' pct=[-2.83, 13.46, 100.36, 45.07] hidden=False]
+    FOR A11ST2  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=29 'Footer Placeholder 28' pct=None hidden=False]
+    Open

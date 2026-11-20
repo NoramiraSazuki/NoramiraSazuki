@@ -1,0 +1,55 @@
+# slide 1 (slides/slide1.xml) hidden=False objects=33
+# notes: 'OP converted to WI - 2015\n\nOpen\n0'
+[pic id=6138882 'Picture 2' pct=[30.35, 0.77, 66.7, 98.11] hidden=False img=../media/image7.png]
+[sp id=10 'TextBox 9' pct=[61.36, 33.25, 65.69, 37.86] hidden=False]
+    CLOSED
+[sp id=12 'TextBox 11' pct=[61.36, 39.89, 65.69, 44.5] hidden=False]
+    CLOSED
+[sp id=15 'TextBox 14' pct=[61.36, 56.15, 65.69, 60.77] hidden=False]
+    CLOSED
+[sp id=16 'TextBox 15' pct=[61.36, 67.68, 65.69, 73.53] hidden=False]
+    OPENED
+[sp id=18 'Line Callout 2 17' pct=[70.77, 65.12, 84.18, 73.53] hidden=False]
+    MPLT Apr 2017 Leak @ 1640m-MDTHF / 1655m-MDDF
+[sp id=20 'TextBox 19' pct=[61.36, 83.59, 65.69, 89.44] hidden=False]
+    OPEN
+[sp id=22 'Line Callout 2 21' pct=[70.77, 77.04, 84.18, 85.44] hidden=False]
+    Set 2.25" CA Plug at D-nogo @ 1679m-MDTHF in Mar 2015 but PLT in Apr 2017 show the plug is not holding.
+[sp id=24 'Line Callout 2 23' pct=[70.99, 40.08, 84.4, 48.48] hidden=False]
+    HUD @ 1553m-MDTHF, LIB impression Scale during TBCLR biocide injection Jun19
+[sp id=27 'TextBox 26' pct=[29.88, 52.92, 34.21, 58.77] hidden=False]
+    OPENED
+[sp id=28 'TextBox 27' pct=[29.92, 39.27, 34.25, 45.12] hidden=False]
+    OPENED
+[sp id=25 'Line Callout 2 24' pct=[13.87, 27.37, 29.07, 33.25] hidden=False]
+    HUD @ 1505m-MDTHF, LIB impression Scale during attempt for ZOC in Mar 2019
+[sp id=37 'Line Callout 2 36' pct=[13.87, 19.78, 29.07, 25.66] hidden=False]
+    PLT Apr 2017, indicate injection thru SPM#2
+[sp id=38 'Oval 37' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    WI
+[graphicFrame id=32 'Table 31' pct=[-41.8, 19.49, -1.94, 43.75] hidden=False]
+    | Well Invention/Integrity History (SS) | 
+    | Date | Activities
+    | 13-Jul-19 | "PERFORM PREVENTIVE AND CORRECTIVE MAINTENANCE AT DULANG DELTA       "
+    | 31-Mar-2019 | ZOC (suspended) / RIH with 2.28" Tubing Broach 3X from HUD @ 1466m-MDTHF. WOL, manage to pass through to 1519m-MDTHF. POOH. RIH with 2.25" LIB to HUD @ 1505m-MDTHF, print of scale at side of LIB.
+    | 26-Apr-17 | MPLT  / Completed MPLT injection mode from interval 1500m to 1570m-MDTHF.
+[graphicFrame id=33 'Table 32' pct=[103.68, 11.18, 143.53, 71.7] hidden=False]
+    | Well Invention/Integrity History (LS) | 
+    | Date | Activities
+    | 27-Sep-19 | "PERFORM PREVENTIVE AND CORRECTIVE MAINTENANCE AT DULANG DELTA       "
+    | 26-Jun-19 | BIOCIDE INJECTION / Conduct TCC with 2.29"G.ring get held up @ 1518m-MDTHF.WOL pass through and get held up @ 1553m-MDTHF.RIH 2.25" LIB get Impression of scale @ 1553m-MDTHF. RIH 2.20 Dummy slickplug get HUD @ 1566m-MDTHF.DB pumping rig up.
+    | 28-Apr-17 | MPLT Injection Mode / Completed MPLT Injection Mode logged from 1500m to 1678m-MDTHF.
+    | 27-Apr-17 | Tbg. Clearance For MPLT / Completed tubing clearance for MPLT. Tagged sand@ 1680m-MDTHF and take sample - Confirm sand.
+    | 25-Aug-15 | TBCLR and MIT / RIH 2.29" Drift and HUD @1676m-MDTHF. RIH 2.25" LIB to HUD and impression sand at LIB. / Completed perform MIT log up from @1673m-MDTHF to surface.
+    | 23-Mar-15 | To perform ZONC / Completed to perfom ZONC with set 2.25" CA Plug at D-nogo @ 1679m-MDTHF and open SSD#4 @ 1627m-MDTHF. Offload 17 lifts from Standford Alpha on to maindeck DLD and arrange accordingly.
+    | 22-Mar-15 | To perfrom TBCLR prior ZONC / Completed to close all SSD and attempted to set CA Plug but HUD at SSD#1 & SSD#2.
+[sp id=9 'TextBox 8' pct=[55.39, 27.69, 67.65, 31.86] hidden=False]
+    HUD @ 1347m WLTHF (multiple times), suspected either scale or tubing partially parted
+[pic id=48 'Picture 47' pct=[74.34, 23.97, 80.1, 35.38] hidden=False img=../media/image8.png]
+[pic id=50 'Picture 49' pct=[68.45, 24.15, 74.22, 34.94] hidden=False img=../media/image9.png]
+[sp id=52 'TextBox 51' pct=[66.59, 86.96, 100.49, 88.66] hidden=False]
+    Last job: TCC (Suspended due to HUD at 1347m)
+    Date: 24th Nov 2022
+    Updated by: Pravin Nair
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

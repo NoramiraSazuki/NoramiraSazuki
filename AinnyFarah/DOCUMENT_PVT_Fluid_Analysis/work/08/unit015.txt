@@ -1,0 +1,62 @@
+Compositional Analysis of Separator Products and Calculated Wellstream to C36+
+Gas-Oil Ratio Calculations | Compositional Analysis of Separator Products and Calculated Wellstream to C36+ | Graph of log(Equilibrium k) v Temperature
+Component | Separator Liquid | Separator Gas | Wellstream
+Mole % | Weight % | Mole % | Mole % | Weight %
+Field Data | Calculated Properties | Separator Liquid | Separator Gas | Wellstream
+CO2 | Carbon dioxide | 13.651999999999967 | 5.802 | 61.81099999999995 | 61.70299999999995 | 78.88
+N2 | Nitrogen | 0.041 | 0.011 | 0.632 | 0.631 | 0.51 | C7+
+Standard | Pressure base | 14.73 | psia | C1 | Methane | 3.957 | 0.613 | 34.506 | 34.436 | 16.05 | Mole% | 73.66800000000002 | 0.19300000000000003 | 0.35800000000000004
+Conditions | Temperature base | 60 | °F | C2 | Ethane | 0.754 | 0.219 | 1.64 | 1.638 | 1.43 | Molecular Weight (g mol-1) | 123.51416351830495 | 110.10815839404216 | 116.22424403271205
+C3 | Propane | 1.017 | 0.433 | 0.681 | 0.682 | 0.87 | Density at 60°F (g cm-3) | 0.7727 | 0.7618 | 0.7674
+Separator | Separator pressure | 202.3 | psig | iC4 | i-Butane | 0.718 | 0.403 | 0.2 | 0.201 | 0.34
+Conditions | Separator temperature | 57 | °F | nC4 | n-Butane | 0.821 | 0.461 | 0.153 | 0.155 | 0.26 | C12+
+C5 | neo-Pentane | 0.007 | 0.005 | 0.001 | 0.001 | 0.0 | Mole% | 9.159000000000004 | 0.006 | 0.025
+Gas Flow Data | Gas gravity factor, Fgf | 0.917 | 4.0 | 12.0 | iC5 | i-Pentane | 1.031 | 0.718 | 0.073 | 0.075 | 0.16 | Molecular Weight (g mol-1) | 177.0380885978477 | 169.54388686173874 | 175.08890141137223
+Supercompressibility factor, Fpvf | 1.031 | nC5 | n-Pentane | 0.957 | 0.667 | 0.048 | 0.05 | 0.1 | Density at 60°F (g cm-3) | 0.8128 | 0.8071 | 0.8114
+Gas flow rate, Qf | 6374000.0 | scf / day | C6 | Hexanes | 3.377 | 2.81 | 0.062 | 0.07 | 0.17
+Me-Cyclo-pentane | 1.148 | 0.933 | 0.013 | 0.016 | 0.04 | C20+
+Liquid Flow Data | Shrinkage factor | Benzene | 1.177 | 0.888 | 0.013 | 0.016 | 0.04 | Mole% | 0.139
+B S & W | 0.0 | % | Cyclo-hexane | 1.34 | 1.089 | 0.011 | 0.014 | 0.03 | Molecular Weight (g mol-1) | 348.4910201211464 | 348.641726618705
+Stocktank oil flow rate | 13.7 | bbl / day at 14.73 psia and 60°F | C7 | Heptanes | 5.678 | 5.494 | 0.029 | 0.042 | 0.12 | Density at 60°F (g cm-3) | 0.8867 | 0.8868
+Me-Cyclo-hexane | 4.966 | 4.708 | 0.019 | 0.03 | 0.09
+Toluene | 5.674 | 5.048 | 0.016 | 0.029 | 0.08 | C36+
+C8 | Octanes | 9.737 | 10.74 | 0.018 | 0.04 | 0.13 | Mole % | 0.009
+Laboratory Adjusted Data | Ethyl-benzene | 0.567 | 0.581 | 0.001 | 0.002 | 0.01 | Molecular Weight (g mol-1) | 534.8 | 534.8
+Meta/Para-xylene | 7.501 | 7.69 | 0.014 | 0.031 | 0.1 | Density at 60°F (g cm-3) | 0.9250 | 0.9250
+Ortho-xylene | 1.5 | 1.538 | 0.003 | 0.006 | 0.02
+Standard | Pressure base | 14.73 | psia | C9 | Nonanes | 7.793 | 9.652 | 0.016 | 0.034 | 0.13 | Calculated Whole Sample Properties
+Conditions | Temperature base | 60 | °F | Tri-Me-benzene | 1.908 | 2.214 | 0.0 | 0.004 | 0.02
+C10 | Decanes | 8.764 | 12.04 | 0.022 | 0.042 | 0.17 | Average mole weight (g mol-1) | 103.56316575427249 | 34.26862731056919 | 34.42592032151444
+Gas Flow Data | Gas gravity factor, Fgl | 0.9174955156412041 | C11 | Undecanes | 6.756 | 9.59 | 0.012 | 0.027 | 0.12
+Supercompressibility factor, Fpvl | 1.0323434250438723 | C12 | Dodecanes | 4.111 | 6.391 | 0.004 | 0.013 | 0.06 | Density at separator conditions
+Gas flow rate | Ql = | Qf x (Fgl/Fgf) x (Fpvl/Fpvf) x Fpb x Ftb | C13 | Tridecanes | 2.828 | 4.778 | 0.001 | 0.007 | 0.04 | (g cm-3 at 202 psig and 57°F) | 0.7610
+C14 | Tetradecanes | 1.249 | 2.291 | 0.001 | 0.004 | 0.02
+= | 6385754.301144685 | scf / day | C15 | Pentadecanes | 0.566 | 1.125 | 0.0 | 0.001 | 0.01 | Real relative density
+C16 | Hexadecanes | 0.125 | 0.269 | 0.0 | 0.0 | 0.0 | (Air = 1.000 at 14.73 psia 60°F) | 1.187933417268764
+Liquid Flow Data | Shrinkage factor | = | 1.0963 | C17 | Heptadecanes | 0.061 | 0.139 | 0.0 | 0.0 | 0.0
+Separator Oil Flow Rate | = | 15.019309999999999 | bbl / day at 202.3 psig and 57°F | C18 | Octadecanes | 0.047 | 0.114 | 0.0 | 0.0 | 0.0
+C19 | Nonadecanes | 0.033 | 0.085 | 0.0 | 0.0 | 0.0
+C20 | Eicosanes | 0.024 | 0.064 | 0.0 | 0.0 | 0.0
+C21 | Heneicosanes | 0.019 | 0.053 | 0.0 | 0.0 | 0.0
+Gas-Oil Ratio | = | 6385754.3 / 15.0 | scf / bbl at 202.3 psig and 57°F | C22 | Docosanes | 0.015 | 0.043 | 0.0 | 0.0 | 0.0
+(Adjusted) | C23 | Tricosanes | 0.012 | 0.036 | 0.0 | 0.0 | 0.0
+= | 425169.61838757474 | scf / bbl at 202.3 psig and 57°F | C24 | Tetracosanes | 0.01 | 0.031 | 0.0 | 0.0 | 0.0
+C25 | Pentacosanes | 0.009 | 0.029 | 0.0 | 0.0 | 0.0
+C26 | Hexacosanes | 0.007 | 0.024 | 0.0 | 0.0 | 0.0
+Condensate Gas Ratio | = | 2.35 | bbl/MMscf at 202.3 psig and 57°F | C27 | Heptacosanes | 0.006 | 0.022 | 0.0 | 0.0 | 0.0
+(CGR) | C28 | Octacosanes | 0.005 | 0.019 | 0.0 | 0.0 | 0.0
+C29 | Nonacosanes | 0.005 | 0.018 | 0.0 | 0.0 | 0.0
+C30 | Triacontanes | 0.004 | 0.016 | 0.0 | 0.0 | 0.0
+C31 | Hentriacontanes | 0.004 | 0.015 | 0.0 | 0.0 | 0.0
+C32 | Dotriacontanes | 0.003 | 0.013 | 0.0 | 0.0 | 0.0
+C33 | Tritriacontanes | 0.003 | 0.012 | 0.0 | 0.0 | 0.0
+C34 | Tetratriacontanes | 0.002 | 0.011 | 0.0 | 0.0 | 0.0
+C35 | Pentatriacontanes | 0.002 | 0.009 | 0.0 | 0.0 | 0.0
+Fg is the gas gravity factor, the reciprocal of the square root of the gas gravity | C36+ | Hexatriacontanes plus | 0.009 | 0.046 | 0.0 | 0.0 | 0.0
+Fpv is the supercompressibility factor, the reciprocal of the square root of the deviation factor | _____ | _____ | _____ | _____ | _____
+Q is the gas flow rate | Totals | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | Note: Theoretical k Values ref. GPSA Engineering Data Book, Vol I, Section 25, "Equilibrium Ratio (K) Data",1987
+Fpb is (field pressure base) / (report pressure base)
+Ftb is (report temperature base) / (field temperature base), temperatures in Rankine | Note: 0.00 means less than 0.005
+4
+11.0 | 4.0 | 12.0 | 4.0 | 14.0 | 9.0 | 18.0 | 2.0
+--- OCR ---

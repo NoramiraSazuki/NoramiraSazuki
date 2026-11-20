@@ -1,0 +1,243 @@
+{
+ "slide": 28,
+ "file": "slides/slide28.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n27",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6166530",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5412526,
+   "y": 393655,
+   "cx": 6844863,
+   "cy": 9525000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.74,
+    3.97,
+    69.6,
+    100.13
+   ],
+   "image": "../media/image71.png",
+   "crop": {
+    "l": "30490",
+    "t": "11031",
+    "r": "28387",
+    "b": "1445"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10329069,
+   "y": 9486900,
+   "cx": 1981200,
+   "cy": 209550,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.65,
+    95.77,
+    69.9,
+    97.88
+   ],
+   "text": "Last Updated by Pravin – Dec 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8328660,
+   "y": 5920740,
+   "cx": 807720,
+   "cy": 213360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.29,
+    59.77,
+    51.88,
+    61.92
+   ],
+   "text": "E12A/12B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8336280,
+   "y": 7223760,
+   "cx": 807720,
+   "cy": 213360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.34,
+    72.92,
+    51.92,
+    75.08
+   ],
+   "text": "E13",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8326755,
+   "y": 8628697,
+   "cx": 807720,
+   "cy": 213360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.28,
+    87.11,
+    51.87,
+    89.26
+   ],
+   "text": "E14B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7665720,
+   "y": 6979920,
+   "cx": 1592580,
+   "cy": 213360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.53,
+    70.46,
+    52.57,
+    72.62
+   ],
+   "text": "ZM#2 sleeve removed (Sep ’22)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "TextBox 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7635240,
+   "y": 5173980,
+   "cx": 1905000,
+   "cy": 213360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.36,
+    52.23,
+    54.17,
+    54.38
+   ],
+   "text": "ZM#1 sleeve intact (3 blanks) (Sep ’22)",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "27",
+   "name": "Straight Arrow Connector 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7071360,
+   "y": 5280660,
+   "cx": 563880,
+   "cy": 693420,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    40.16,
+    53.31,
+    43.36,
+    60.31
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "30",
+   "name": "Straight Arrow Connector 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7071360,
+   "y": 6957060,
+   "cx": 594360,
+   "cy": 129540,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    40.16,
+    70.23,
+    43.53,
+    71.54
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

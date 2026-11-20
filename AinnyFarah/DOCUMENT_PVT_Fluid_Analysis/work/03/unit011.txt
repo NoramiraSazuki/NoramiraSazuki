@@ -1,0 +1,27 @@
+TABLE 12
+BUBBLE POINT PRESSURE DETERMINATION AND CONSTANT MASS STUDY AT 203 °F
+Pressure | Relative Volume | Compressibility factor | Y Curve
+(psig) | V/VPb | (psi-1) | Pb/P-1
+V/VPb-1
+6000 | 0.961
+5000 | 0.9687 | 7.97 X 10-6
+4000 | 0.9767 | 8.31 X 10-6
+3000 | 0.9854 | 8.86 X 10-6
+2000 | 0.9954 | 10.10 X 10-6
+Pi= 1775 | 0.9981 | 12.35 X 10-6
+1676 | 0.9996 | 15. 34 X 10-6
+Pb= 1660 | 1 | 22.60 X 10-6
+1640 | 1.0046 | 2.68
+1612 | 1.0112 | 2.65
+1602 | 1.0137 | 2.65
+1595 | 1.0154 | 2.64
+1562 | 1.024 | 2.61
+1514 | 1.0375 | 2.57
+1464 | 1.0528 | 2.53
+1366 | 1.0877 | 2.45
+1180 | 1.1765 | 2.3
+947 | 1.3557 | 2.12
+680 | 1.758 | 1.9
+445 | 2.5952 | 1.71
+Thermal expansion factor of reservoir fluid at 6000 psig between 100F and 203F: 0.315 x 10-3° F-1
+--- OCR ---

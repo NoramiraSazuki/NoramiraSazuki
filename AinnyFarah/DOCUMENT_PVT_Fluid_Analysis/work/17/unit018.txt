@@ -1,0 +1,14 @@
+CORE LABORATORIES MALAYSIA SDN BHD PROCESS CONTROL
+Revision: 003 | Date: 22 January 2007 | Authorisation: Fadli Ramli
+Form: Sample Information
+Company | PETRONAS Carigali Sdn. Bhd | Date Received | 01 Apr 2013
+Well | DLD-32L | Received By | Azmir
+Field | Dulang D | Airway Bil No | DO : 50364
+Rig | Job Number | MFL 20130041
+Sample | Cylinder / Bottle | Reservoir | Depth
+No | vol (cc) | type | No | type | cover | plug | capacity | P (psig) | T ( deg F) | (m MD) | Remarks
+1.01 | 400.0 | BHS Water | 5099-S1-F | Proserv Type 6 | Y | Y | 700.0 | 1174.0 | 170.6 | 1850.0 | Sampling date: 17th Feb 2013
+Sampling time: 1:43 hrs
+1.02 | 480.0 | BHS Water | 2853-S1-F | Proserv Type 6 | Y | Y | 700.0 | 1174.0 | 170.6 | 1850.0 | Sampling date: 17th Feb 2013
+Sampling time: 1:43 hrs
+--- OCR ---

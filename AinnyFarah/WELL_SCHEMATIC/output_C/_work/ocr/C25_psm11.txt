@@ -1,0 +1,397 @@
+PETRONAS
+
+WELL NAME: DULANG C-25
+
+LOC./ SLOT: PMO
+
+CARIGALI
+
+Dulang C-25
+
+FINAL COMPLETION SCHEMATIC
+
+AFTER WORKOVER
+
+Casi
+
+Dale of Completion 5 JULY 2011
+
+RIG
+
+HWU GAIT 2/ BARGE GD9
+
+413 3/8" SURF. 54.5 PPF K-55 @ 694.4 mMD-THF
+
+TUBING
+
+2-7/8", 6.4 PPF, 13CR, K-FOX
+
+9-5/8" 43.5 PPF, N-60 PROD, 10 PPF @1650 m-MDTHF
+
+X-MAS TREE
+
+IKS 3-1/8" 5,000 PSI DUAL X-MAS TREE (SOLAR ALERT)
+
+7" LINER N-80 @ 1930.4 m-MDTHF
+
+PACKER FLUID
+
+8.6 PPG BRINE + 3% KCl + 0.2% BIOCIDE + 2% OXYGEN SCAVENGER
+
+PBTD; 1873.4 m MD-THF (7" Bridge Plug)
+
++ 2% CORROSION INHIBITOR
+
+Max Dev: 30.3 Dearee @ 675.30 m MDTHF
+
+COMP. FLUID
+
+8.6 PPG BRINE + 3% KCI
+
+HWU Floor to Tub
+
+Q.H
+
+cer: 20.89 m (ODF = 14.52 m above TH
+
+SHORT STRING
+
+LONG STRING
+
+(m MOTHF) TUBING STRING
+
+{m MOTHF)
+
++/-
+
++/.
+
+oo
+
+Ta ow] mm a
+
+2.355
+
+Flow Coupling
+
+138.26
+
+ih
+
+2.313
+
+TRSV Wellstar
+
+139.11
+
+147.4
+
+Flow Coupling
+
+148.3
+
+TRSV Wellstar
+
+2,365
+
+Flow Coupling
+
+140.40
+
+| |
+
+149.5
+
+Flow Coupling
+
+8/64"
+
+2.365
+
+SPM #1
+
+711.24
+
+| |
+
+GLV Piro @ 996 psi
+
+ag!
+
+701.4
+
+SPM#1
+
+“
+
+8/64"
+
+2.355
+
+SPM #2
+
+1073.80
+
+GLY Ptro @ 747 psi
+
+i} |
+
+GLV Ptro @ 717 psi
+
+1064.7
+
+SPM #2
+
+4"
+
+||
+
+8/64"
+
+2.355
+
+SPM #3
+
+1177.86
+
+GLV Ptro @ 740 psi
+
+GLOV
+
+il
+
+||
+
+4168.5
+
+SPM #3
+
+12164"
+
+2.313
+
+X-Nipple
+
+1188.12
+
+HT
+
+GLOV
+
+|
+
+1197.2
+
+SSD #1
+
+2,380
+
+9-5/8" BHD Packer
+
+1207.08
+
+=
+
+-i
+
+2.250
+
+XN-Nipple
+
+1209.75
+
+; J
+
+2.275
+
+1210.84
+
+ap
+
+POP Assembly
+
+a
+
+EOT
+
+1212.48
+
+|
+
+1217.7
+
+SSD #2
+
+5.000
+
+VTA Packer
+
+1222.11
+
+5.000
+
+Closing Sleeve Assy
+
+1225.29
+
+4.872
+
+Shear Joint Assy
+
+1231.29
+
+q
+
+=o a
+
+—T
+
+——_ ——
+
+——
+
+3,250
+
+Sealbore Extension
+
+1264.21
+
+1253.2
+
+No-Go Locator
+
+2.380
+
+is
+
+in
+
+1253.7
+
+3.25" MSN Seal
+
+2.350
+
+5,000
+
+=
+
+1253.7
+
+ADAPTER
+
+2419
+
+VTA Packer
+
+1255.04
+
+5.000
+
+Closing Sleeve Assy
+
+1258.32
+
+— |@
+
+1278.8
+
+-Nipple
+
+2.250
+
+4,872
+
+Shear Joint Assy
+
+1264.23
+
+a
+
+1279.9
+
+Seif Aligning
+
+2.441
+
+Mule Shoe
+
+1280.7
+
+EOT
+
+AWD Packer
+
+1304.00
+
+{Top of Sump Packer)
+
+1388.0
+
+-5/8" Bridge Plug #2
+
+MNS NNN
+
+1476.0
+
+Top of Cement
+
+New PBTD
+
+—
+
+—
+
+1528.5
+
+9-5/8" Bridge Plug #1
+
+x
+
+1650.0
+
+9-5/8" Shoe
+
+vy
+
+Bu:
+
+All completion in 7"
+
+Si swele
+
+PBTD
+
+EE <4
+
+7" BRIDGE PLUG
+
+1873.4 m-MDTHF
+
+NOTE,
+
+SLB FISH HERE
+
+tl
+
+bE —Z
+
+END OF 7" LINER
+
+1930.4 m-MDTHF
+
+1932.4 m-MDTHF
+
+PICK-UP WEIGHT
+
+53K
+
+PREPARED BY: SHSi (10/07/2011)
+
+SLACK-OFF WEIGHT
+
+32K
+
+Pagel
+
+BASED ON FINAL TALLY

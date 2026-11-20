@@ -1,0 +1,20 @@
+TABLE 3
+BUBBLE POINT PRESSURE DETERMINATION AT 71 °F
+Separator liquid sample ( Cylinder 1116/59)
+Pressure (psig) | Pump reading (cm3)
+4000 | 382.67
+3533 | 382.16
+2940 | 381.49
+2502 | 381
+2022 | 380.43
+1524 | 379.79
+1038 | 379.15
+547 | 378.47
+Pb = 478 | 378.35
+477 | 378.17
+475 | 377.64
+473 | 377.16
+469 | 376.17
+462 | 374.16
+This sample has been used for physical recombination
+--- OCR ---

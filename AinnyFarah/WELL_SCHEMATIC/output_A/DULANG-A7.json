@@ -1,0 +1,79 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A7",
+    "packerFluid": "",
+    "rig": "TIOMAN 1",
+    "surfaceCasing": "",
+    "totalDepth": 5918.635,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a7-01",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 962.927,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 293.5,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 6: 'NIPPLE' @ 293.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 293.5 m -> 962.927 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a7-02",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 5562.992,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1695.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 6: 'CENTRALIZER' @ 1695.6 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1695.6 m -> 5562.992 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a7-03",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 5581.365,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1701.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'WEG' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 6: 'WEG' @ 1701.2 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1701.2 m -> 5581.365 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

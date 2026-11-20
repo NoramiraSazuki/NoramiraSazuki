@@ -1,0 +1,651 @@
+{
+  "wellInfo": {
+    "completionDate": "2012-11",
+    "completionFluid": "(LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL",
+    "completionType": "OIL PRODUCER (Tubing String header); single string",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "69.21 deg @ 729.21 m MD/ 597.43 m TVD",
+    "name": "DULANG-C22ST2",
+    "packerFluid": "8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger",
+    "rig": "KM-1",
+    "surfaceCasing": "-",
+    "totalDepth": 5456.037,
+    "trajectoryType": "-",
+    "tubing": "3-1/2\" 13 Cr 9.2 PPF & 2-7/8\" 13Cr 6.4 PPF Inner String; 6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 728.346,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 222.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=594 name 'FLOW COUPLING' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=594 '222' = 222.0 m -> 728.346 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=594 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=594 '3.920' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "trsv-1",
+      "type": "trsv",
+      "name": "TRSSSV",
+      "topMd": 734.908,
+      "bottomMd": null,
+      "outerDiameter": 5.03,
+      "innerDiameter": 2.81,
+      "topMdM": 224.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=639 name 'TRSSSV' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=639 '224' = 224.0 m -> 734.908 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=639 '2.810' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=639 '5.030' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 738.189,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 225.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=688 name 'FLOW COUPLING' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=688 '225' = 225.0 m -> 738.189 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=688 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=688 '3.920' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 931.759,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 284.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=796 name '3-1/2\" SPM' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=796 '284' = 284.0 m -> 931.759 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=796 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=796 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 9/9/2023 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 1725.722,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 526.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=877 name '3-1/2\" SPM' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=877 '526' = 526.0 m -> 1725.722 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=877 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=877 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 9/9/2023 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 2555.774,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 779.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=958 name '3-1/2\" SPM' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=958 '779' = 779.0 m -> 2555.774 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=958 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=958 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 9/9/2023 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-4",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 3405.512,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1038.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1039 name '3-1/2\" SPM' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1039 '1038' = 1038.0 m -> 3405.512 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1039 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1039 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'GLV 9/9/2023 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "spm-5",
+      "type": "spm",
+      "name": "3-1/2\" Orifice",
+      "topMd": 4271.654,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1302.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: row label names the gas-lift orifice set in a side-pocket mandrel (same MIN ID / MAX OD as the SPM rows) -> SPM (Gas Lift) is the nearest type",
+      "actualType": "3-1/2\" Orifice",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1120 name '3-1/2\" Orifice' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1120 '1302' = 1302.0 m -> 4271.654 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1120 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1120 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'GLOV 9/9/2023 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "3-1/2\" SSD",
+      "topMd": 4839.239,
+      "bottomMd": null,
+      "outerDiameter": 4.55,
+      "innerDiameter": 2.813,
+      "topMdM": 1475.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1198 name '3-1/2\" SSD' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1198 '1475' = 1475.0 m -> 4839.239 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1198 '2.813' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1198 '4.550' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'CLOSED SSD#1 17/10/2016 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "7\" x 3-1/2\" AHC Packer",
+      "topMd": 4855.643,
+      "bottomMd": null,
+      "outerDiameter": 5.96,
+      "innerDiameter": 2.9,
+      "topMdM": 1480.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1291 name '7\" x 3-1/2\" AHC Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1291 '1480' = 1480.0 m -> 4855.643 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1291 '2.900' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1291 '5.960' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "nipple-no-go-1",
+      "type": "nipple (no-go)",
+      "name": "3-1/2\" XN-Nipple",
+      "topMd": 4937.664,
+      "bottomMd": null,
+      "outerDiameter": 3.893,
+      "innerDiameter": 2.666,
+      "topMdM": 1505.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: XN nipple (X profile with no-go shoulder; make not stated) -> No-Go Nipple is the nearest type",
+      "actualType": "3-1/2\" XN-Nipple",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1391 name '3-1/2\" XN-Nipple' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1391 '1505' = 1505.0 m -> 4937.664 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1391 '2.666' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1391 '3.893' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "st-slot-locator-1",
+      "type": "st-slot-locator",
+      "name": "3-1/2\" No-Go Locator",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type",
+      "actualType": "3-1/2\" No-Go Locator",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1416 name '3-1/2\" No-Go Locator' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "3-1/2\" Self Aligning Muleshoe",
+      "topMd": 4954.068,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1510.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1472 name '3-1/2\" Self Aligning Muleshoe' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1472 '1510' = 1510.0 m -> 4954.068 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-2",
+      "type": "packer",
+      "name": "4-1/2\" x 7\" VTA Packer",
+      "topMd": 4960.63,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 3.88,
+      "topMdM": 1512.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1499 name '4-1/2\" x 7\" VTA Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1499 '1512' = 1512.0 m -> 4960.63 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1499 '3.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1499 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pbr-1",
+      "type": "pbr",
+      "name": "3.88\" Seal Bore Ext",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.967,
+      "innerDiameter": 3.894,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type",
+      "actualType": "3.88\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1526 name '3.88\" Seal Bore Ext' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); innerDiameter slide 22 image17.emf text record y=1526 '3.894' (column 'MIN ID IN' = explicit ID); outerDiameter slide 22 image17.emf text record y=1526 '4.967' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "crossover-1",
+      "type": "crossover",
+      "name": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: sub joining tubulars of different sizes -> Crossover is the nearest type",
+      "actualType": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1584 name '3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-3",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 5072.179,
+      "bottomMd": 5082.021,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1546.0,
+      "bottomMdM": 1549.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1687 name '3 Meter Oil Swell Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1687 '1546-1549' = 1546.0 m -> 5072.179 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); bottomMd slide 22 image17.emf text record y=1687 '1546-1549' = 1549.0 m -> 5082.021 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); range end printed with the item); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "sliding-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 5091.864,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 1552.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1749 name '3.22\" SLIM SSD Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1749 '1552' = 1552.0 m -> 5091.864 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1749 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); status/remark 'Open SSD#2 08/03/2020 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pbr-2",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": 5104.987,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 1556.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1857 name '3.25\" Seal Bore Ext' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1857 '1556' = 1556.0 m -> 5104.987 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=1857 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-4",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 5137.795,
+      "bottomMd": 5147.638,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1566.0,
+      "bottomMdM": 1569.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1916 name '3 Meter Oil Swell Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=1916 '1566-1569' = 1566.0 m -> 5137.795 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); bottomMd slide 22 image17.emf text record y=1916 '1566-1569' = 1569.0 m -> 5147.638 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); range end printed with the item); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "sliding-sleeve-3",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 5157.48,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 1572.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2030 name '3.22\" SLIM SSD Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2030 '1572.0' = 1572.0 m -> 5157.48 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=2030 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); status/remark 'CLOSED due to water SSD#3 17/10/2016 (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pbr-3",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2138 name '3.25\" Seal Bore Ext' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); innerDiameter slide 22 image17.emf text record y=2138 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-5",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 5164.042,
+      "bottomMd": 5173.885,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1574.0,
+      "bottomMdM": 1577.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2192 name '3 Meter Oil Swell Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2192 '1574-1577' = 1574.0 m -> 5164.042 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); bottomMd slide 22 image17.emf text record y=2192 '1574-1577' = 1577.0 m -> 5173.885 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); range end printed with the item); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-6",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 5190.289,
+      "bottomMd": 5200.131,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1582.0,
+      "bottomMdM": 1585.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2273 name '3 Meter Oil Swell Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2273 '1582-1585' = 1582.0 m -> 5190.289 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); bottomMd slide 22 image17.emf text record y=2273 '1582-1585' = 1585.0 m -> 5200.131 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); range end printed with the item); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "sliding-sleeve-4",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 5223.097,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 1592.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2321 name '3.22\" SLIM SSD Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2321 '1592' = 1592.0 m -> 5223.097 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=2321 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); status/remark 'OPEN SSD#4 (23/10/2016) (slide note)'; depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "pbr-4",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": 5236.221,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 1596.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2483 name '3.25\" Seal Bore Ext' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2483 '1596' = 1596.0 m -> 5236.221 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=2483 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "nipple-no-go-2",
+      "type": "nipple (no-go)",
+      "name": "3.22\" SLIM XN-Nipple Inner String",
+      "topMd": 5242.782,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 1598.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: XN nipple (X profile with no-go shoulder; make not stated) -> No-Go Nipple is the nearest type; innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.22\" SLIM XN-Nipple Inner String",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2589 name '3.22\" SLIM XN-Nipple Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2589 '1598' = 1598.0 m -> 5242.782 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=2589 '3.22\" SLIM XN-Nipple Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "mule-shoe-2",
+      "type": "mule-shoe",
+      "name": "3.22\" Self Aligning Muleshoe Inner String",
+      "topMd": 5249.344,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 1600.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2616 name '3.22\" Self Aligning Muleshoe Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2616 '1600' = 1600.0 m -> 5249.344 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); innerDiameter slide 22 image17.emf text record y=2616 '3.22\" Self Aligning Muleshoe Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "packer-7",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 5249.344,
+      "bottomMd": 5259.187,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1600.0,
+      "bottomMdM": 1603.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2695 name '3 Meter Oil Swell Packer' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=2695 '1600-1603' = 1600.0 m -> 5249.344 ft (m MDTHF (depth column header 'DEPTH m MDTHF')); bottomMd slide 22 image17.emf text record y=2695 '1600-1603' = 1603.0 m -> 5259.187 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); range end printed with the item); depth datum: m MDTHF (depth column header 'DEPTH m MDTHF')"
+    },
+    {
+      "id": "casing-shoe-1",
+      "type": "casing",
+      "name": "7\" SHOE 1562 m MDDF 1230 TVD DF",
+      "topMd": null,
+      "bottomMd": 5124.672,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": null,
+      "bottomMdM": 1562.0,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd",
+        "innerDiameter"
+      ],
+      "estimationNote": "DATUM: m MDDF as printed (not MDTHF); TVD 1230 m DF; innerDiameter: '7\"' has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1584 name '7\" SHOE 1562 m MDDF 1230 TVD DF' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); bottomMd slide 22 image17.emf text record y=1584 '7\" SHOE 1562 m MDDF 1230 TVD DF' = 1562.0 m -> 5124.672 ft (m MDDF as printed (not MDTHF); TVD 1230 m DF); innerDiameter slide 22 image17.emf text record y=1584 '7\" SHOE 1562 m MDDF 1230 TVD DF' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter); bottomTvd 1230 m DF x 3.28084 = 4035.433 ft (TVD DF as printed)",
+      "bottomTvd": 4035.433,
+      "bottomTvdM": 1230.0
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "3-1/2\" 13 Cr 9.2 PPF",
+      "topMd": 0.0,
+      "bottomMd": 4954.068,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": 0.0,
+      "bottomMdM": 1510.0,
+      "weight": 9.2,
+      "grade": "13 Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); ASSUMED: top = 0 m MDTHF (depth reference is the tubing hanger flange); DERIVED: bottom = depth of the string-end item '3-1/2\" Self Aligning Muleshoe' (mule-shoe-1)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=347 name '3-1/2\" 13 Cr 9.2 PPF' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); topMd slide 22 image17.emf text record y=347 'depth reference m MDTHF' = 0.0 m -> 0.0 ft (ASSUMED 0 m MDTHF); bottomMd component mule-shoe-1 '3-1/2\" Self Aligning Muleshoe' = 1510.0 m -> 4954.068 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); depth of the end-of-string item); innerDiameter slide 22 image17.emf text record y=347 '3-1/2\" 13 Cr 9.2 PPF' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "inner-string-tubing-1",
+      "type": "tubing",
+      "name": "2-7/8\" 13Cr 6.4 PPF Inner String",
+      "topMd": null,
+      "bottomMd": 5249.344,
+      "outerDiameter": null,
+      "innerDiameter": 2.875,
+      "topMdM": null,
+      "bottomMdM": 1600.0,
+      "weight": 6.4,
+      "grade": "13Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); inner string top not printed; DERIVED: bottom = depth of the string-end item '3.22\" Self Aligning Muleshoe Inner String' (mule-shoe-2)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=347 name '2-7/8\" 13Cr 6.4 PPF Inner String' (EMF native text (EMR_EXTTEXTOUTW records) + visual check); bottomMd component mule-shoe-2 '3.22\" Self Aligning Muleshoe Inner String' = 1600.0 m -> 5249.344 ft (m MDTHF (depth column header 'DEPTH m MDTHF'); depth of the end-of-string item); innerDiameter slide 22 image17.emf text record y=347 '2-7/8\" 13Cr 6.4 PPF Inner String' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "sand-screen-1",
+      "type": "sand-screen",
+      "name": "6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.5,
+      "topMdM": null,
+      "bottomMdM": null,
+      "weight": 12.6,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: '4-1/2\"' has no ID/OD designation -> recorded as ID (user-defined rule); screen interval not printed -> topMd/bottomMd empty (not derived from the zone list)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=376 name '6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen' (EMF native text (EMR_EXTTEXTOUTW records) + visual check (COMPLETION TUBING header)); innerDiameter slide 22 image17.emf text record y=376 '6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "christmas-tree-1",
+      "type": "christmas-tree",
+      "name": ":Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=184 name ':Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree' (EMF native text (EMR_EXTTEXTOUTW records) + visual check)"
+    },
+    {
+      "id": "zone-e6-1",
+      "type": "perforation",
+      "name": "E6 1572-1574 m DF",
+      "topMd": 5157.48,
+      "bottomMd": 5164.042,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1572.0,
+      "bottomMdM": 1574.0,
+      "zone": "E6",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are MDTHF; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=1804 name 'E6 1572-1574 m DF' (EMF native text (EMR_EXTTEXTOUTW records) + visual check; DERIVED name: zone + interval); topMd slide 22 image17.emf text record y=1804 'E6 MD: 1572 - 1574 m DF' = 1572.0 m -> 5157.48 ft (m DF as printed); bottomMd slide 22 image17.emf text record y=1804 'E6 MD: 1572 - 1574 m DF' = 1574.0 m -> 5164.042 ft (m DF as printed)",
+      "actualType": "E6 1572-1574 m DF"
+    },
+    {
+      "id": "zone-e8-1",
+      "type": "perforation",
+      "name": "E8 1590-1593 m DF",
+      "topMd": 5216.536,
+      "bottomMd": 5226.378,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1590.0,
+      "bottomMdM": 1593.0,
+      "zone": "E8",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are MDTHF; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2003 name 'E8 1590-1593 m DF' (EMF native text (EMR_EXTTEXTOUTW records) + visual check; DERIVED name: zone + interval); topMd slide 22 image17.emf text record y=2003 'E8 MD: 1590 - 1593 Mdf' = 1590.0 m -> 5216.536 ft (m DF as printed); bottomMd slide 22 image17.emf text record y=2003 'E8 MD: 1590 - 1593 Mdf' = 1593.0 m -> 5226.378 ft (m DF as printed)",
+      "actualType": "E8 1590-1593 m DF"
+    },
+    {
+      "id": "zone-e10-11-1",
+      "type": "perforation",
+      "name": "E10-11 1610-1614 m DF",
+      "topMd": 5282.152,
+      "bottomMd": 5295.276,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1610.0,
+      "bottomMdM": 1614.0,
+      "zone": "E10-11",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are MDTHF; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 image17.emf text record y=2402 name 'E10-11 1610-1614 m DF' (EMF native text (EMR_EXTTEXTOUTW records) + visual check; DERIVED name: zone + interval); topMd slide 22 image17.emf text record y=2402 'E10-11 MD: 1610 - 1614 mDF' = 1610.0 m -> 5282.152 ft (m DF as printed); bottomMd slide 22 image17.emf text record y=2402 'E10-11 MD: 1610 - 1614 mDF' = 1614.0 m -> 5295.276 ft (m DF as printed)",
+      "actualType": "E10-11 1610-1614 m DF"
+    },
+    {
+      "id": "wrsv-1",
+      "type": "wrsv",
+      "name": "2.31” FXE Insert Valve @ 139m-MDTHF (24/9/2024)",
+      "topMd": 456.037,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 139.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: insert (wireline-retrievable) safety valve set in the SCSSV/TRSV profile -> WRSV is the nearest type; intervention recorded by note; status as of the note date",
+      "actualType": "2.31” FXE Insert Valve @ 139m-MDTHF (24/9/2024)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 obj #10 name '2.31” FXE Insert Valve @ 139m-MDTHF (24/9/2024)' (native slide text (note over the image)); topMd slide 22 obj #10 '2.31” FXE Insert Valve @ 139m-MDTHF (24/9/2024)' = 139.0 m -> 456.037 ft (m MDTHF as printed in the note); slide text box"
+    },
+    {
+      "id": "mechanical-plug-1",
+      "type": "mechanical-plug",
+      "name": "Set 2.31\"PXN Plug @ 1602 mMDTHF (22/10/2016)",
+      "topMd": 5255.906,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1602.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: wireline-set lock/plug in a nipple or SSD profile -> Mechanical Plug is the nearest type; intervention recorded by note; status as of the note date",
+      "actualType": "Set 2.31\"PXN Plug @ 1602 mMDTHF (22/10/2016)",
+      "source": "Dulang C_2023 Updating.pptx > slide 22 obj #17 name 'Set 2.31\"PXN Plug @ 1602 mMDTHF (22/10/2016)' (native slide text (note over the image)); topMd slide 22 obj #17 ' Set 2.31\"PXN Plug @ 1602 mMDTHF (22/10/2016)' = 1602.0 m -> 5255.906 ft (m MDTHF as printed in the note); slide text box; second note 'TOP PXN Plug @ 1601m-THF (1/6/2017)' (#9) gives 1601 m -> CONFLICT recorded, 1602 m (set depth) kept"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [
+    {
+      "casingId": null,
+      "md": 5265.748,
+      "type": "float shoe",
+      "name": "Double Valve Float Shoe"
+    }
+  ],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

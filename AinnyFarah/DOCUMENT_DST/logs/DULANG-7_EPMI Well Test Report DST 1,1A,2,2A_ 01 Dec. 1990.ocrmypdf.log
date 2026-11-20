@@ -1,0 +1,319 @@
+Starting processing with 10 workers concurrently
+    1 redoing OCR
+    2 page is facing ⇧, confidence 0.95 - no change
+    1 page is facing ⇧, confidence 2.71 - no change
+    4 page is facing ⇧, confidence 5.87 - no change
+    3 page is facing ⇧, confidence 12.95 - no change
+    5 page is facing ⇧, confidence 8.08 - no change
+    6 page is facing ⇧, confidence 12.36 - no change
+    7 page is facing ⇧, confidence 12.65 - no change
+    8 page is facing ⇧, confidence 12.09 - no change
+    9 page is facing ⇧, confidence 12.33 - no change
+   10 page is facing ⇧, confidence 12.71 - no change
+   13 redoing OCR
+   13 [tesseract] Too few characters. Skipping this page
+   13 [tesseract] Too few characters. Skipping this page
+   13 [tesseract] Error during processing.
+   13 page is facing ⇧, confidence 0.00 - no change
+   11 page is facing ⇧, confidence 12.21 - no change
+   12 page is facing ⇧, confidence 12.98 - no change
+    1 [tesseract] Empty page!!
+    1 [tesseract] Empty page!!
+   14 page is facing ⇧, confidence 6.48 - no change
+   18 redoing OCR
+   15 page is facing ⇧, confidence 4.99 - no change
+   18 [tesseract] Too few characters. Skipping this page
+   18 [tesseract] Too few characters. Skipping this page
+   18 [tesseract] Error during processing.
+   18 page is facing ⇧, confidence 0.00 - no change
+   16 page is facing ⇧, confidence 10.07 - no change
+   24 redoing OCR
+   17 page is facing ⇧, confidence 8.71 - no change
+   24 [tesseract] Too few characters. Skipping this page
+   24 [tesseract] Too few characters. Skipping this page
+   24 [tesseract] Error during processing.
+   24 page is facing ⇧, confidence 0.00 - no change
+   19 page is facing ⇧, confidence 4.76 - no change
+   20 page is facing ⇧, confidence 6.90 - no change
+   21 page is facing ⇧, confidence 5.41 - no change
+   22 page is facing ⇧, confidence 4.38 - no change
+   23 page is facing ⇧, confidence 1.56 - no change
+   25 page is facing ⇧, confidence 3.73 - no change
+   26 page is facing ⇧, confidence 4.13 - no change
+   27 page is facing ⇧, confidence 0.88 - no change
+   17 [tesseract] lots of diacritics - possibly poor OCR
+   28 page is facing ⇧, confidence 5.25 - no change
+   29 page is facing ⇧, confidence 6.20 - no change
+   30 page is facing ⇧, confidence 2.77 - no change
+   31 page is facing ⇧, confidence 5.06 - no change
+   32 page is facing ⇧, confidence 0.70 - no change
+   33 page is facing ⇧, confidence 2.80 - no change
+   34 page is facing ⇩, confidence 1.90 - confidence too low to rotate
+   35 page is facing ⇧, confidence 2.00 - no change
+   36 page is facing ⇧, confidence 2.56 - no change
+   37 page is facing ⇧, confidence 2.36 - no change
+   38 page is facing ⇧, confidence 3.78 - no change
+   39 page is facing ⇧, confidence 3.04 - no change
+   40 page is facing ⇧, confidence 2.25 - no change
+   41 page is facing ⇩, confidence 2.08 - confidence too low to rotate
+   42 page is facing ⇧, confidence 0.76 - no change
+   43 page is facing ⇩, confidence 1.02 - confidence too low to rotate
+   45 page is facing ⇧, confidence 5.68 - no change
+   44 page is facing ⇧, confidence 1.54 - no change
+   46 page is facing ⇩, confidence 0.61 - confidence too low to rotate
+   47 page is facing ⇧, confidence 0.12 - no change
+   48 page is facing ⇧, confidence 0.54 - no change
+   49 page is facing ⇧, confidence 0.08 - no change
+   50 page is facing ⇧, confidence 0.00 - no change
+   51 page is facing ⇩, confidence 0.19 - confidence too low to rotate
+   52 page is facing ⇩, confidence 0.22 - confidence too low to rotate
+   53 page is facing ⇧, confidence 0.29 - no change
+   54 page is facing ⇩, confidence 3.64 - confidence too low to rotate
+   55 page is facing ⇩, confidence 0.83 - confidence too low to rotate
+   56 page is facing ⇩, confidence 2.51 - confidence too low to rotate
+   49 [tesseract] lots of diacritics - possibly poor OCR
+   57 page is facing ⇩, confidence 1.32 - confidence too low to rotate
+   58 page is facing ⇧, confidence 0.16 - no change
+   61 redoing OCR
+   61 [tesseract] Too few characters. Skipping this page
+   61 [tesseract] Too few characters. Skipping this page
+   61 [tesseract] Error during processing.
+   61 page is facing ⇧, confidence 0.00 - no change
+   59 page is facing ⇧, confidence 2.60 - no change
+   60 page is facing ⇧, confidence 5.03 - no change
+   62 page is facing ⇧, confidence 1.74 - no change
+   63 page is facing ⇩, confidence 1.35 - confidence too low to rotate
+   64 page is facing ⇧, confidence 1.47 - no change
+   65 page is facing ⇧, confidence 0.33 - no change
+   59 [tesseract] lots of diacritics - possibly poor OCR
+   66 page is facing ⇧, confidence 2.53 - no change
+   67 page is facing ⇧, confidence 1.79 - no change
+   60 [tesseract] lots of diacritics - possibly poor OCR
+   68 page is facing ⇧, confidence 4.17 - no change
+   69 page is facing ⇧, confidence 2.32 - no change
+   70 page is facing ⇧, confidence 0.26 - no change
+   71 page is facing ⇩, confidence 1.12 - confidence too low to rotate
+   72 page is facing ⇩, confidence 2.61 - confidence too low to rotate
+   73 page is facing ⇧, confidence 4.99 - no change
+   75 page is facing ⇧, confidence 0.53 - no change
+   74 page is facing ⇧, confidence 2.00 - no change
+   76 page is facing ⇧, confidence 2.19 - no change
+   77 page is facing ⇧, confidence 6.97 - no change
+   78 page is facing ⇧, confidence 0.84 - no change
+   79 page is facing ⇧, confidence 1.15 - no change
+   83 redoing OCR
+   83 [tesseract] Too few characters. Skipping this page
+   83 [tesseract] Too few characters. Skipping this page
+   83 [tesseract] Error during processing.
+   83 page is facing ⇧, confidence 0.00 - no change
+   80 page is facing ⇩, confidence 2.11 - confidence too low to rotate
+   81 page is facing ⇧, confidence 1.40 - no change
+   82 page is facing ⇧, confidence 4.22 - no change
+   84 page is facing ⇧, confidence 3.41 - no change
+   85 page is facing ⇧, confidence 5.80 - no change
+   86 page is facing ⇧, confidence 1.83 - no change
+   87 page is facing ⇧, confidence 3.11 - no change
+   88 page is facing ⇩, confidence 2.39 - confidence too low to rotate
+   89 page is facing ⇧, confidence 2.31 - no change
+   90 page is facing ⇧, confidence 0.62 - no change
+   91 page is facing ⇧, confidence 1.46 - no change
+   92 page is facing ⇧, confidence 2.10 - no change
+   93 page is facing ⇧, confidence 3.67 - no change
+   94 page is facing ⇧, confidence 3.19 - no change
+   95 page is facing ⇩, confidence 0.99 - confidence too low to rotate
+   96 page is facing ⇩, confidence 1.07 - confidence too low to rotate
+   97 page is facing ⇧, confidence 1.12 - no change
+   98 page is facing ⇧, confidence 0.90 - no change
+   99 page is facing ⇩, confidence 2.13 - confidence too low to rotate
+  100 page is facing ⇧, confidence 1.09 - no change
+  101 page is facing ⇧, confidence 3.52 - no change
+  109 redoing OCR
+  102 page is facing ⇧, confidence 1.65 - no change
+  103 page is facing ⇧, confidence 4.37 - no change
+  109 [tesseract] Too few characters. Skipping this page
+  109 [tesseract] Too few characters. Skipping this page
+  109 [tesseract] Error during processing.
+  109 page is facing ⇧, confidence 0.00 - no change
+  104 page is facing ⇧, confidence 2.80 - no change
+  105 page is facing ⇩, confidence 0.47 - confidence too low to rotate
+  106 page is facing ⇧, confidence 3.28 - no change
+  107 page is facing ⇧, confidence 1.54 - no change
+  108 page is facing ⇧, confidence 6.65 - no change
+  110 page is facing ⇧, confidence 4.74 - no change
+  111 page is facing ⇩, confidence 0.68 - confidence too low to rotate
+  112 page is facing ⇧, confidence 2.17 - no change
+  113 page is facing ⇧, confidence 0.66 - no change
+  107 [tesseract] lots of diacritics - possibly poor OCR
+  114 page is facing ⇧, confidence 4.52 - no change
+  115 page is facing ⇧, confidence 1.95 - no change
+  116 page is facing ⇧, confidence 3.16 - no change
+  117 page is facing ⇧, confidence 1.82 - no change
+  118 page is facing ⇧, confidence 1.53 - no change
+  119 page is facing ⇩, confidence 0.74 - confidence too low to rotate
+  120 page is facing ⇩, confidence 0.84 - confidence too low to rotate
+  121 page is facing ⇩, confidence 0.45 - confidence too low to rotate
+  122 page is facing ⇧, confidence 1.88 - no change
+  123 page is facing ⇧, confidence 2.36 - no change
+  119 [tesseract] lots of diacritics - possibly poor OCR
+  123 [tesseract] lots of diacritics - possibly poor OCR
+Parsing 123 pages with HocrParser
+Postprocessing...
+Set the Print flag on 13 annotations, as PDF/A requires
+Removed XMP metadata that is not permitted in PDF/A: pdf:ModDate, pdf:Title, pdf:Author, xmp:Title, xmp:Author, dc:title, dc:creator
+Speculative PDF/A-2b conversion was not used: it contains 2 construct(s) pikepdf's validator does not check, so it could not be confirmed as PDF/A; using Ghostscript
+2 fonts are not embedded in the input file (Tahoma, TimesNewRoman,Bold). PDF/A requires embedded fonts, so Ghostscript will substitute other fonts, which may change the appearance and size of the file. Use `--output-type pdf` to keep the fonts unchanged.
+GPL Ghostscript 10.08.0 (2026-09-08)
+Copyright (C) 2026 Artifex Software, Inc.  All rights reserved.
+This software is supplied under the GNU AGPLv3 and comes with NO WARRANTY:
+see the file COPYING for details.
+Processing pages 1 through 123.
+Page 1
+Page 2
+Page 3
+Page 4
+Page 5
+Page 6
+Page 7
+Page 8
+Page 9
+Page 10
+Page 11
+Page 12
+Page 13
+Loading font Tahoma (or substitute) from /usr/local/Cellar/ghostscript/10.08.0/share/ghostscript/Resource/Font/NimbusRoman-Regular
+Page 14
+Page 15
+Page 16
+Page 17
+Page 18
+Loading font TimesNewRoman,Bold (or substitute) from /usr/local/Cellar/ghostscript/10.08.0/share/ghostscript/Resource/Font/NimbusRoman-Bold
+Page 19
+Page 20
+Page 21
+Page 22
+Page 23
+Page 24
+Page 25
+Page 26
+Page 27
+Page 28
+Page 29
+Page 30
+Page 31
+Page 32
+Page 33
+Page 34
+Page 35
+Page 36
+Page 37
+Page 38
+Page 39
+Page 40
+Page 41
+Page 42
+Page 43
+Page 44
+Page 45
+Page 46
+Page 47
+Page 48
+Page 49
+Page 50
+Page 51
+Page 52
+Page 53
+Page 54
+Page 55
+Page 56
+Page 57
+Page 58
+Page 59
+Page 60
+Page 61
+Page 62
+Page 63
+Page 64
+Page 65
+Page 66
+Page 67
+Page 68
+Page 69
+Page 70
+Page 71
+Page 72
+Page 73
+Page 74
+Page 75
+Page 76
+Page 77
+Page 78
+Page 79
+Page 80
+Page 81
+Page 82
+Page 83
+Page 84
+Page 85
+Page 86
+Page 87
+Page 88
+Page 89
+Page 90
+Page 91
+Page 92
+Page 93
+Page 94
+Page 95
+Page 96
+Page 97
+Page 98
+Page 99
+Page 100
+Page 101
+Page 102
+Page 103
+Page 104
+Page 105
+Page 106
+Page 107
+Page 108
+Page 109
+Page 110
+Page 111
+Page 112
+Page 113
+Page 114
+Page 115
+Page 116
+Page 117
+Page 118
+Page 119
+Page 120
+Page 121
+Page 122
+Page 123
+
+The following warnings were encountered at least once while processing this file:
+	An image dictionary has a /Name key whose value is not a name object
+
+   
+ This file had errors that were repaired or ignored.
+   
+ The file was produced by: 
+   
+ >>>> sspdflib 1.0 http://www.scansoft.com <<<<
+   
+ Please notify the author of the software that produced this
+   
+ file that it does not conform to Adobe's published PDF
+   
+ specification.
+
+
+Auto mode: produced PDF/A via Ghostscript
+Removed XMP metadata that is not permitted in PDF/A: pdf:ModDate, pdf:Title, pdf:Author, xmp:Title, xmp:Author
+Some input metadata could not be copied.You may wish to examine the output PDF's XMP metadata.
+The following metadata fields were not copied: {'{http://ns.adobe.com/pdf/1.3/}Title', '{http://ns.adobe.com/pdf/1.3/}ModDate', '{http://ns.adobe.com/pdf/1.3/}Author', '{http://ns.adobe.com/xap/1.0/}Author', '{http://ns.adobe.com/xap/1.0/}Title'}
+Image optimization ratio: 1.41 savings: 29.3%
+Total file size ratio: 1.30 savings: 23.0%
+Output file is a PDF/A-2b (auto mode achieved PDF/A)

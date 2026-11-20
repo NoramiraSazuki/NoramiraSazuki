@@ -1,0 +1,50 @@
+For Internal Use - For Internal Distribution Only
+Latest Update: MAR 2023 by Pravin Nair                                                                              F B — SE?
+A-12ST1 WELL COMPLETION DIAGRAM
+SELECTIVE SINGLE OIL PRODUCER
+Well No. : A-12ST1                                               Date                        : 22 January 2002
+Location : DuFA                                     All Depth in           : m-MDDF
+Wellhead: Cooper Cameron, 3-1/8" 3000 psi            RKB-THF                   :11.635m
+Tubing <2 7/8", 6.4ppf, L-80, Vam Ace                Max Deviation         : 73.88 @ 1567 m-MDDF
+DEPTH             MAX
+SINGLE STRING                    (m)           OD
+mddf               (IN)
+a                               FLOW COUPLING
+2.31" Insert Valve @ TRSV.          =                 TR-SC-SSSV                                 150       2.312 /4.720
+Flapper lock open Oct 20235           5                       FLOW COUPLING
+|                   CAMCO WP.1 NIPPLE                     302 | 2.312 |3.700
+.                   SPM #4                                      675       2.397 |4.730
+|                   (W / IPO 8/64 - 800 PSI)
+Leak @ 1412m MDDF (MIT Nov 23)
+[                   SPM # 3                                       415 | 2.397 14.730
+(W/ IPO 12/64 - 835 PSI)
+=                    8 = 7" TOL                                       1733
+|_|
+a,                      eS                           9-5/8 Casing Shoe                        1957
+a                               t                  SPM # 2                                         2136      2.397 |4.730
+|                 (W/ IPO 16/64 - 875 PSI)
+_                                                   SPM @ 1
+_      _       t                               (W/ GLOV 16/64)                    2579    2.397 }4.730
+SF                                        |
+iy SAEA Apr 2023 — 2.25” LIB impression            TT                    SSD # 3 po                           2587       2.312 |3.700
+as 5    Wee, of suspected parted tubing stop                             7” HYD PKR #2                               2600
+-  i fm| sleeve @ 2611m WLTHF                   °                  SSD #2 |
+ie yy / Li        f                             open                               2607 | 2.312 |3.700
+—                       —                          2 7/8" BLAST JOINT
+E23U (2612.0 - 2618.0)          v"N                     (2609 - 2621)
+open          ‘              CAMCO WP-1 NIPPLE                   2622 | 2312 13.700
+}         ,        7" HYD PKR # 1                                2627
+|                HYDRO TRIP SUB                            2631 | 2.420 3.650
+2               SSO #1 i)                               2635 | 2.312 |3.700
+v7 @eao 0.28800)                        |  2 7/8" BLAST JOINT
+2666
+|       nu              CAMCO WP-1 NIPPLE                                     2.312 |3.700
+               LOCATOR SEAL ASSEMBLY
+7" PERM PKR                             2670
+2             D-NO GO NIPPLE (opened)
+8             PERFORATED PUP                             2673 | 2.250 |3.250
+E38 (2776.0 ; 2786.0)                                          Coilflate set at 2759m MDDF to isolate E36. Cement
+am 6      pumped. TOC tagged at 2749m MDDF with CTU (Jul 2011)
+open                                      oe
+NN       PBTD                                            3017
+RQ QQ       7” Liner Shoe                                        3043

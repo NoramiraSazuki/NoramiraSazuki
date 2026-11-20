@@ -1,0 +1,6 @@
+# slide 34 (slides/slide34.xml) hidden=False objects=5
+# notes: ''
+[pic id=3 'Picture 2' pct=[22.93, -0.03, 55.93, 48.27] hidden=False img=../media/image84.png descr='A screenshot of a computer\n\nDescription automatically generated']
+[pic id=4 'Picture 3' pct=[23.15, 47.66, 56.14, 99.07] hidden=False img=../media/image85.png descr='A screenshot of a computer\n\nDescription automatically generated']
+[pic id=5 'Picture 4' pct=[23.49, 43.91, 55.55, 54.37] hidden=False img=../media/image86.png descr='A table with numbers and letters\n\nDescription automatically generated']
+[pic id=6 'Picture 5' pct=[59.15, -0.03, 95.89, 100.04] hidden=False img=../media/image87.png descr='A screenshot of a computer\n\nDescription automatically generated']

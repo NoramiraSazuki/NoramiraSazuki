@@ -1,0 +1,279 @@
+{
+ "slide": 31,
+ "file": "slides/slide31.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9906000
+ ],
+ "notes": "Open\n31",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "65538",
+   "name": "Picture 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 522288,
+   "y": 750888,
+   "cx": 5867400,
+   "cy": 8936037,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.62,
+    7.58,
+    93.17,
+    97.79
+   ],
+   "image": "../media/image26.emf",
+   "crop": {
+    "l": "10628",
+    "t": "5357",
+    "r": "12614",
+    "b": "11749"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Rectangle 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3243263,
+   "y": 4289425,
+   "cx": 676275,
+   "cy": 1501775,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.29,
+    43.3,
+    57.15,
+    58.46
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4237038,
+   "y": 3352800,
+   "cx": 1447800,
+   "cy": 842963,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.78,
+    33.85,
+    82.89,
+    42.36
+   ],
+   "text": "22/11/2017 WBWR\nPlan to cement and perf at E2 E6/8 res. To support E2 E6/8 reservoir pressure",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "65541",
+   "name": "Straight Arrow Connector 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3795713,
+   "y": 3773488,
+   "cx": 441325,
+   "cy": 411162,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    55.35,
+    38.09,
+    61.78,
+    42.24
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4237038,
+   "y": 4289425,
+   "cx": 1393825,
+   "cy": 1292225,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.78,
+    43.3,
+    82.11,
+    56.35
+   ],
+   "text": "Gross sand\n\nE2A \n2230- 2240 m MDDF = 10m\n\nE6\n2247-2258 m MDDF = 11m\n\nE7\n2274-2281 m MDDF = 7m",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "65543",
+   "name": "Text Box 104",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3815191,
+   "y": 6970541,
+   "cx": 474663,
+   "cy": 104775,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.63,
+    70.37,
+    62.55,
+    71.42
+   ],
+   "text": "E 12 A/B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "65544",
+   "name": "Text Box 104",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4213225,
+   "y": 6348413,
+   "cx": 474663,
+   "cy": 209550,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.44,
+    64.09,
+    68.36,
+    66.2
+   ],
+   "text": "OPEN (15/9/16)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "65545",
+   "name": "Text Box 104",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3852863,
+   "y": 8277225,
+   "cx": 398462,
+   "cy": 104775,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.18,
+    83.56,
+    61.99,
+    84.62
+   ],
+   "text": "E 14 B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "65546",
+   "name": "Text Box 104",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4284663,
+   "y": 7700963,
+   "cx": 473075,
+   "cy": 209550,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.48,
+    77.74,
+    69.38,
+    79.86
+   ],
+   "text": "OPEN (16/9/16)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4259263,
+   "y": 9194629,
+   "cx": 2520156,
+   "cy": 409407,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.11,
+    92.82,
+    98.85,
+    96.95
+   ],
+   "text": "LAST ENTRY\t: TS, 19 Sep 2016\nTYPE OF JOB\t: Logging\nHUD\t: 2.25” LIB until 2431 m WLTHF, but no mention HUD nor any impression on LIB\nUPDATED BY\t: Wong Hong Pei – 27th May 2025",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4303316,
+   "y": 2365802,
+   "cx": 908844,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.75,
+    23.88,
+    76.0,
+    26.68
+   ],
+   "text": "FL – 80 m WLTHF (15 Sep 2016)",
+   "geom": "rect"
+  }
+ ]
+}

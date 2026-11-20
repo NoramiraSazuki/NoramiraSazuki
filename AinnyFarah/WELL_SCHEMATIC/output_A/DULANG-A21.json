@@ -1,0 +1,173 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A21",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a21-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 411.745,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 125.5,
+      "bottomMdM": null,
+      "source": "PDF page 18: 'FLOW COUPLING' @ 125.5 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 125.5 m -> 411.745 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-02",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1924.213,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 586.5,
+      "bottomMdM": null,
+      "source": "PDF page 18: 'SPM' @ 586.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 586.5 m -> 1924.213 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-03",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 1953.74,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 595.5,
+      "bottomMdM": null,
+      "source": "PDF page 18: 'SPM' @ 595.5 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 595.5 m -> 1953.74 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-04",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 4276.575,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1303.5,
+      "bottomMdM": null,
+      "source": "PDF page 18: 'SPM' @ 1303.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1303.5 m -> 4276.575 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-05",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 4441.601,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1353.8,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1353.8 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1353.8 m -> 4441.601 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-06",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 4434.055,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1351.5,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1351.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1351.5 m -> 4434.055 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-07",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 4890.092,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1490.5,
+      "bottomMdM": null,
+      "source": "PDF page 18: 'PKR' @ 1490.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1490.5 m -> 4890.092 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-08",
+      "type": "mechanical-plug",
+      "name": "PLUG",
+      "topMd": 4896.654,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1492.5,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'PLUG' is not literally a template type; nearest 'Mechanical Plug'",
+      "source": "PDF page 18: 'PLUG' @ 1492.5 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1492.5 m -> 4896.654 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-09",
+      "type": "mule-shoe",
+      "name": "ENTRY GUIDE",
+      "topMd": 4896.654,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1492.5,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'ENTRY GUIDE' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 18: 'ENTRY GUIDE' @ 1492.5 (read identically in OCR passes bc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1492.5 m -> 4896.654 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a21-10",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 4909.777,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1496.5,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 18: 'SSD' @ 1496.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1496.5 m -> 4909.777 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

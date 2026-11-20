@@ -1,0 +1,162 @@
+B2	'DULANG A33-ST3'
+B4	'Well ID / SLOT NO : Dulang A33ST2 WI'
+I4	'CASING & TUBING SCHEME'
+P4	'#'
+Q4	'GRADE'
+R4	'THREAD'
+S4	'DEPTH (m-MDDF)'
+B5	'Field / Platform : Dulang A'
+S5	'TOP'
+T5	'BOTTOM'
+B6	'Rig Name: Sapura Berani '
+I6	'26" Conductor (Existing)'
+P6	202.0
+Q6	'A-36'
+R6	'Welded'
+S6	'Surface'
+T6	181.46
+B7	'Injection Rate:2500 blpd'
+I7	'16" Casing (Existing)'
+P7	75.0
+Q7	'J-55'
+R7	'BTC'
+S7	'Surface'
+T7	188.46
+B8	'Surface Injection Pressure: 1200psi'
+I8	'13-3/8" Casing (Existing)'
+P8	54.5
+Q8	'K-55'
+R8	'BTC'
+S8	'Surface'
+T8	443.26
+B9	'Drill floor height: 30.1m-AMSL'
+I9	'9-5/8" Casing (Existing)'
+P9	43.5
+Q9	'L-80'
+R9	'BTC'
+S9	'Surface'
+T9	1355.46
+B10	'Completion Date : 3rd April 2020'
+I10	'7" Liner'
+P10	'TBC'
+Q10	'TBC'
+R10	'TBC'
+S10	'TBC'
+T10	'TBC'
+B11	'Maximum Deviation: 58deg @ 1,800m MDDF'
+I11	'Tubing 3-1/2" GRE lined'
+P11	9.2
+Q11	'L80'
+R11	'JFEFOX'
+B12	'Wellhead : Surface Unihead, Solar Alert, Surface, Standard, Single'
+I12	'Tubing 3-1/2" - Below 7" AHC'
+P12	9.2
+Q12	'15CR-125'
+R12	'JFE BEAR'
+B13	'X-Mas Tree : Solar Alert  5,000 psi'
+I13	'Completion Fluid : 8.5 ppg NaCl filtered to 30 NTU'
+B14	'Completion Brine: 8.5ppg NaCl'
+I14	'Packer Fluid: 8.5 ppg NaCl with 2% Corrosion Inhibitor + 2% Oxygen Scavenger + 0.2% Biocide'
+F15	'DEPTH'
+L15	'DEPTH'
+M15	'LENGTH'
+N15	'ANGLE'
+O15	' COMPLETION EQUIPMENT'
+S15	'MIN ID'
+T15	'MAX OD'
+F16	'm-MDDF'
+L16	'm-MDDF'
+M16	'm'
+N16	'( ° )'
+S16	'IN'
+T16	'IN'
+K17	15.8
+M17	15.8
+O17	'ELEVATION (DF to THF)'
+M18	1.52
+O18	'TUBING HANGER Bear (BOX Down)'
+S18	2.992
+T18	'TBC'
+M19	0.46
+O19	'XOVER 3-1/2" BEAR Pin x FOX DTP (BOX)'
+S19	2.545
+T19	3.833
+M20	3.65742151782993
+O20	'12 FT 3-1/2" GRE Lined Fox (Pin x Pin) Pups'
+S20	2.545
+T20	3.5
+M23	1.8288
+O23	'6 FT 3-1/2" GRE Lined Fox (Box x Pin) Pups'
+S23	2.545
+T23	3.878
+M24	0.91
+O24	'OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80]'
+S24	2.357
+T24	3.833
+K25	254.61
+M25	1.35
+O25	'TRSV, 2-7/8 6.4PPF JFEBEAR BXP'
+S25	2.312
+T25	4.609
+M26	0.91
+O26	'OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX'
+S26	2.357
+T26	3.833
+M27	1.2191405059433098
+O27	'4 FT 3-1/2" GRE Lined Fox (Pin x Pin) Pups'
+S27	2.545
+T27	3.5
+B40	'7"Liner (TOL)'
+F40	902.73
+O48	'TUBING 3-1/2" 9.2#, FOX GRE, R2'
+M50	1.83
+O50	'6 FT 3-1/2" GRE Lined Fox (B x P) Pups'
+S50	2.545
+T50	3.878
+M51	0.5
+O51	'Crossover - 3-1/2" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI'
+S51	2.545
+T51	3.893
+K52	1800.21
+M52	2.44
+N52	58.0
+O52	'7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR PIN'
+S52	2.885
+T52	5.909
+M53	1.524
+O53	'5 FT 3 1/2" 9.2# JFE BEAR B x P, 25Cr Pups'
+S53	2.992
+T53	3.5
+M54	0.5
+O54	'Crossover - 3-1/2"  BEAR (B) x 2-7/8" Bear (P), 25CR-80KSI'
+S54	2.441
+T54	3.833
+K55	1803.95
+M55	0.42
+O55	'OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1 '
+S55	2.205
+T55	3.385
+M56	0.5
+O56	'Crossover - 2-7/8" Bear (B) X 3-1/2" Bear (P), 25CR-80KSI'
+S56	2.441
+T56	3.833
+M57	1.829
+O57	'6 FT 3 1/2" 9.2# JFE BEAR B x P, 15Cr-125ksi Pups'
+S57	2.963
+T57	3.883
+O59	'TUBING 3-1/2" 9.2#, UHP 15Cr-125, JFE BEAR, R3'
+K61	1836.02
+O61	'3-1/2" Muleshoe Guide / Drop Sub'
+S61	2.9
+T61	4.0
+O62	'ITCP Assembly'
+B63	'E34A'
+B64	'1,363.62-1,368.75m TVD'
+B65	'1,846-1,856m MDDF'
+B66	'Reservoir Pressure: 1,503 psi, 93deg C'
+B67	6.47
+B74	'PBTD'
+F74	1903.0
+B75	'TD'
+F75	1944.6
+O75	'Prepared by : Pravin Nair (Aug 2023)'

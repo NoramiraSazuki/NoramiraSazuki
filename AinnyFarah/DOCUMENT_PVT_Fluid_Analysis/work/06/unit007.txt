@@ -1,0 +1,38 @@
+Sample Validity
+SEPARATOR LIQUID SAMPLES (S)
+1) Sample bottle No 1116/508
+Bubble point pressure determination at 112 F is 172 psig
+TABLE 8
+RECEPTION OF SEPARATOR LIQUID SAMPLES
+CYLINDER
+1116/508
+Opening Pressure (psig) | 106
+Temperature ( C) | 26
+Water Content (cm3)
+Remaining Liquid (cm3) @ 6000 psig | 542
+TABLE 9
+BUBBLE POINT PRESSURE DETERMINATION AT 112 °F
+Separator liquid sample ( Cylinder 1116/508)
+Pressure (psig) | Pump reading (cm3)
+6000 | 231.08
+4841 | 230.44
+3929 | 229.87
+3008 | 229.29
+1897 | 228.56
+1334 | 228.16
+797 | 227. 80
+355 | 227.48
+Pb= 172 | 227.4
+171 | 227.27
+170 | 226.79
+169 | 226.28
+16 5 | 225.63
+160 | 224.62
+157 | 222.64
+FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS
+GOR | 67 std cu ft/bbl
+Shrinkage factor | 0.941 Std bbl/bbl
+Liberated gas gravity | 1.521 (Air = 1)
+Stock tank oil gravity | 0.843 60/60 F
+This sample has been used for recombination
+--- OCR ---

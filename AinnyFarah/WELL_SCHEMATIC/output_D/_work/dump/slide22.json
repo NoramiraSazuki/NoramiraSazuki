@@ -1,0 +1,278 @@
+{
+ "slide": 22,
+ "file": "slides/slide22.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n21",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6160386",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 0,
+   "cx": 6858000,
+   "cy": 9893300,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.0,
+    69.47,
+    99.87
+   ],
+   "image": "../media/image58.png",
+   "crop": {
+    "l": "31387",
+    "t": "11441",
+    "r": "30821",
+    "b": "2060"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4510155,
+   "y": 7543800,
+   "cx": 861010,
+   "cy": 608711,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    25.61,
+    76.15,
+    30.5,
+    82.3
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rounded Rectangle 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7577403,
+   "y": 2733049,
+   "cx": 336552,
+   "cy": 157599,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.03,
+    27.59,
+    44.94,
+    29.18
+   ],
+   "text": "",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5003800,
+   "y": 2709334,
+   "cx": 2048933,
+   "cy": 287866,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.41,
+    27.35,
+    40.05,
+    30.26
+   ],
+   "text": "CSA Plug @ TRSV (Nov 2019)",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Graphic 3",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7670536,
+   "y": 2743200,
+   "cx": 211667,
+   "cy": 211667,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.56,
+    27.69,
+    44.76,
+    29.83
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "Rectangle 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5037667,
+   "y": 3039535,
+   "cx": 2082799,
+   "cy": 457198,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.61,
+    30.68,
+    40.43,
+    35.3
+   ],
+   "text": "2” LIB HUD @ 145m MDTHF, suspect flapper jammed closed (Oct 2023)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "Rectangle 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5559371,
+   "y": 9560449,
+   "cx": 4158066,
+   "cy": 172488,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.57,
+    96.51,
+    55.18,
+    98.25
+   ],
+   "text": "UPDATED FEB 2024 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "3",
+   "name": "Graphic 2",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7626993,
+   "y": 3823063,
+   "cx": 211667,
+   "cy": 211667,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.31,
+    38.59,
+    44.51,
+    40.73
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "Rectangle 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7971790,
+   "y": 3878580,
+   "cx": 3618230,
+   "cy": 190500,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.27,
+    39.15,
+    65.81,
+    41.08
+   ],
+   "text": "2.25” LIB HUD @ 1572m MDTHF, pump bailer recovered sand (Feb 2015)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "9",
+   "name": "Picture 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4817534,
+   "y": 3344333,
+   "cx": 897468,
+   "cy": 868825,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.36,
+    33.76,
+    32.45,
+    42.53
+   ],
+   "image": "../media/image59.jpeg",
+   "crop": {
+    "l": "11285",
+    "t": "13609",
+    "r": "13388",
+    "b": "30578"
+   }
+  }
+ ]
+}

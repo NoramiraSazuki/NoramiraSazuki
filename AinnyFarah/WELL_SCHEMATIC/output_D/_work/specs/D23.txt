@@ -1,0 +1,65 @@
+WELL | D23 | 23 | image60.png | WELL D-23 :DUAL PRODUCER WITH SHORT OIL AND LONG. WATER INJECTOR
+SRC | 23 | image60.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 28 SEPTEMBER, 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF N-80 TKC4040
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 50.4 DEG.
+INFO | completionType | DUAL PRODUCER WITH SHORT OIL AND LONG. WATER INJECTOR
+CASING | 18-5/8" COND. #1, K-55, 87.5 ppf @ m-MDDF | 18.625 | 87.5 | K-55 |  | MDDF
+CASING | 13-3/8" K-55 SURF., 54.5 ppf @ m-MDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9-5/8" N-80 PROD., 40 ppf, BUTT @ 1853.0 m-MDDF | 9.625 | 40 | N-80 | 1853.0 | MDDF
+TUBING | 3-1/2" 9.2 PPF N-80 TKC4040 | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3-1/2" 9.2 PPF N-80 TKC4040 | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 133.5 |  | 2.992 |  |  |  | p1
+ROW | S | TRDP-4A-LS-RO SCSSV | 134.3 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 135.6 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 293.3 |  | 2.812 |  |  |  | p1
+ROW | S | KBMM SPM | 1159.1 |  | 2.920 |  | GLV 16/64" |  | p1
+ROW | S | KBMM SPM | 1354.8 |  | 2.920 |  | GLV 16/64" |  | p1
+ROW | S | KBMM SPM | 1532.5 |  | 2.920 |  | GLV 16/64" |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 1561.2 |  | 2.812 |  |  |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 1569.7 |  | 2.867 |  |  | long side: PKR 3, RELEASE@60000# ABOVE TBG. WT., MIN ID 2.867 | p1
+ROW | S | TELESCOPIC JOINT | 1573.5 |  | 2.992 |  |  |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 1577.7 |  | 2.812 |  | OPENED 27/JAN/2010 |  | p1
+ROW | S | WP-1 NIPPLE | 1611.6 |  | 2.812 |  |  |  | p2
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 1618.7 |  | 2.867 |  |  | long side: PKR 2, RELEASE@60000# ABOVE TBG. WT., MIN ID 2.867 | p2
+ROW | S | 'D' NO-GO NIPPLE SEAL BORE | 1622.4 |  | 2.750 |  | CLOSED 27/JAN/2010 |  | p2
+ROW | S | W/L ENTRY GUIDE | 1622.8 |  | 2.992 |  |  |  | p2
+ROW | S | EOT | 1623.0 |  | 2.992 |  |  |  | p2
+ROW | L | FLOW COUPLING | 142.4 |  | 2.992 |  |  |  | p1
+ROW | L | TRDP-4A-LS-RO SCSSV | 143.3 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 144.6 |  | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 296.0 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 1452.4 |  | 2.920 |  | GLV 16/64" |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1562.5 |  | 2.812 |  |  |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1579.0 |  | 2.812 |  |  |  | p1
+ROW | L | BLAST JOINT | 1582.5 | 1594.6 | 2.992 |  |  | depths at both ends of the bracket | p1
+ROW | L | WP-1 NIPPLE | 1611.6 |  | 2.812 |  |  |  | p2
+ROW | L | CAMCO 'CSW-1D-T' SSD | 1635.7 |  | 2.812 |  |  |  | p2
+ROW | L | BLAST JOINT | 1640.3 | 1670.2 | 2.992 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 1679.2 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 1682.2 |  | 2.992 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY | 1684.1 |  | 2.992 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 1684.3 |  | 2.867 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM. PKR. | 1685.3 |  | 2.867 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | 'D' NO-GO NIPPLE SEAL BORE | 1685.3 |  | 2.750 |  | OPENED 29/SEPT/1996 | same depth as the packer (as printed) | p2
+ROW | L | OTIS MULE SHOE | 1690.3 |  | 2.992 |  |  |  | p2
+ROW | L | EOT | 1690.5 |  | 2.992 |  |  |  | p2
+SHOE | 9 5/8 CSG SHOE |  |  |  | label in the long-string column, no own depth (header 1853.0 m-MDDF) | p2
+ZONE | E-1 | 1584.3 | 1590.3 | MDTHF | SAND : E-1 1584.3m - 1590.3m-MDTHF | p1 | perf
+ZONE | E-2 | 1595.8 | 1599.8 | MDTHF | SAND : E-2 1595.8m - 1599.8m-MDTHF | p1 | perf
+ZONE | E-8 | 1642.8 | 1645.3 | MDTHF | SAND : E-8 1642.8 m - 1645.3 m-MDTHF | p2 | perf
+ZONE | E-10/11 | 1645.8 | 1651.8 | MDTHF | SAND : E-10/11 1645.8 m - 1651.8 m-MDTHF | p2 | perf
+ZONE | E-12/13 L1&L2 | 1663.8 | 1671.3 | MDTHF | SAND : E-12/13 L1&L2 :1663.8 m - 1671.3 m-MDTHF | p2 | perf
+ZONE | E-12/13 L3 | 1675.1 | 1677.3 | MDTHF | L3 :1675.1 m - 1677.3 m-MDTHF | p2 | perf
+ZONE | E-14 | 1689.8 | 1698.3 | MDTHF | SAND : E-14 1689.8 m - 1698.3 m-MDTHF | p2 | perf
+PBTD | 1777.3 | MDTHF | PBTD @1777.3m-MDTHF
+TD | 1838.3 | MDTHF | TD@1838.3m-MDTHF
+INT | Owen X-Span Tubing Patch (1674-1678 m-MDTHF) | 1674 | MDTHF | picture p2 red label (long string; bottom 1678 m-MDTHF)
+INT | Packoff set 1324 - 1329 m MDTHF | 1324 | MDTHF | 3
+NOTE | picture p2 | LEAK 1618.5; LEAK 1675.1; LEAK 1676.7 (long string); 23/SEPT/2010 WLD: No leaks founded. Tubing clearance to No-Go at 1629mMDTHF; 23/FEB/2011 Tubing clearance at no-go@1602m-MDTHF. Tag FL@ 988m-MDTHF; 11/Sept/2013
+ISSUE | Conflict | slide 23 | slide boxes ('#27 SSD#1 closed / SSD#2 CLOSED in May 2022', '#28 OPENED in May 2022', #29 OPENED, #30 CLOSED) and an SPM table over the picture supersede the picture statuses — listed as notes

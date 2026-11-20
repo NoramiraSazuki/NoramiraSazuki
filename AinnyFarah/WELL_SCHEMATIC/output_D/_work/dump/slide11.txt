@@ -1,0 +1,41 @@
+# slide 11 (slides/slide11.xml) hidden=False objects=23
+# notes: 'A new IWR – CTU SCO, ZOC, PLT + GLVC\n\nOpen\n10'
+[pic id=6149122 'Picture 2' pct=[30.7, 0.0, 69.53, 100.0] hidden=False img=../media/image32.png]
+[sp id=14 'Oval 13' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[graphicFrame id=17 'Table 16' pct=[71.95, 19.41, 92.58, 32.64] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | Missing. GLV | 732 | NA | 12/64 | 1998
+    | 2 | Missing. GLV | 1570 | NA | 12/64 | 1998
+    | 3 | Missing. GLV | 2225 | NA | 10/64 | 1998
+    | 4 | Missing. GLV | 2756 | NA | 10/64 | 1998
+[sp id=18 'TextBox 17' pct=[62.76, 53.72, 67.23, 59.72] hidden=False]
+    OPENED Sept-23
+[sp id=19 'TextBox 18' pct=[62.76, 81.15, 68.25, 87.16] hidden=False]
+    CLOSED (thru CA plug) Sept-23
+[sp id=20 'TextBox 19' pct=[31.14, 43.75, 35.61, 49.76] hidden=False]
+    OPENED
+[graphicFrame id=21 'Table 20' pct=[7.39, 29.08, 28.02, 44.77] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | DV | 722 |  |  | Mar 2020
+    | 2 | DV | 1560 |  |  | Mar 2020
+    | 3 | GLV (IPO – bottom latch) | 2198 | 890 | 10/64” | Mar 2020
+    | 4 | GLOV | 2698 | - | 12/64” | Mar 2020
+[sp id=51 'TextBox 50' pct=[12.43, 13.86, 28.28, 19.69] hidden=False]
+    Tubing packoff assembly (B tbg stop – UPO – 15’ SP – LPO – tbg stop) from 81 to 92m MDTHF (Leak at 90m MDTHF from WLD)
+[sp id=55 'TextBox 54' pct=[12.61, 20.99, 30.7, 24.22] hidden=False]
+    Storm Choke installed Mar 2020 at TRSV profile with tubing stop set above. TR flapper locked open in Sep 2019
+[sp id=58 'TextBox 57' pct=[50.89, 94.54, 67.45, 97.55] hidden=False]
+    UPDATED BY PRAVIN NAIR DEC 2022
+[sp id=6 'TextBox 5' pct=[63.29, 68.04, 72.6, 74.04] hidden=False]
+    2023 : Encountered sand bridging while RIH (and SS producing) @ xxx m
+[sp id=10 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=7 'Line Callout 2 24' pct=[4.94, 13.86, 11.06, 18.51] hidden=False]
+    Leak based on WLD @ 90m-MDTHF – already packoff and flow the well
+[sp id=9 'Line Callout 2 25' pct=[5.11, 19.5, 8.92, 28.09] hidden=False]
+    Storm Choke Installed Mar’20
+    GLVC completed in Mar 2020 and Tag “D” No-Go nipple. (no HUD)
+[sp id=11 'TextBox 10' pct=[68.69, 6.44, 86.65, 12.3] hidden=False]
+    *2024-D11L unknown HUD at TRSV while running FGS – for SC setting, sbb flapper xbole lock open
+    plan to run camera

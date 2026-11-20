@@ -1,0 +1,25 @@
+﻿Source Page,Item No.,Field (as printed),Value (as written),Unit (as printed / hand-corrected)
+123,,Well,DULANG-7,
+123,,Test,2A (E-6 + E-13),
+123,,Date,"APRIL 13, 90",
+123,1,Interval,1234 - 43; 1303.5 - 1312 m,
+123,2,Produced fluid,"OIL, GAS, WATER",
+123,3,Cumulative production,309.1 (INCLUDE TEST 2),"STB, MMSCF"
+123,4,Average rate,765.9 (AVERAGE OVER 8 hrs) (WELL YET TO STABILIZE),STB/D (MMSCF/D crossed out)
+123,5,Length of flow period,9 1/2,hr (min crossed out)
+123,6,Choke,48,64ths
+123,7,Gravity of oil or condensate,37.6,°API @ 60°F
+123,8,GOR or Condensate - Gas Ratio,7129,SCF/STB (STB/MMSCF crossed out)
+123,9,Water cut,1,%
+123,10,Chlorides,SAMPLE TOO SMALL TO MEASURE,ppm
+123,11,H2S,0,"%, ppm"
+123,12,CO2,65 - 67,%
+123,13,Average flowing wellhead pressure,697,psig
+123,14,Average flowing wellhead temperature,92,°F
+123,15,Wellhead pressure at end of buildup,- (NONE RUN),psi
+123,16,Initial reservoir pressure,- @ -,psi @ m (ft crossed out)
+123,17,Final flowing pressure,1040 @ 1245,psia @ m (ft crossed out)
+123,18,Productivity index,-,STB/D/psi
+123,19,Maximum bottom-hole temperature,206 @ 1296 (E-13),°F @ (ft crossed out)
+123,20,Samples taken,NONE (COMMINGLED 2 DIFFERENT RESERVOIRS),
+123,21,Remarks,DARK BROWN CRUDE; POUR POINT = 80 °F. BASED ON PLT RESULTS: E-6 31.2% 239.0 BPD; E-13 68.8% 526.9 BPD; Pi (1309.3 m) = 1835.5 psia,

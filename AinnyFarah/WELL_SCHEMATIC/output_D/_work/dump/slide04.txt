@@ -1,0 +1,51 @@
+# slide 4 (slides/slide4.xml) hidden=False objects=42
+# notes: 'Comment\nWell is updated as of 8th June (Pravin Nair)\nEncountered fish happened during GLVCO in 2019 May-Jun. successfully recovered and now flowing with GLOV @ SPM#1 and the rest are stiffed. \nHistorically has HUD d/t scale.\n\nOpen\n3'
+[sp id=14 'Oval 13' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[pic id=3 'Picture 2' pct=[120.1, 21.54, 181.06, 88.56] hidden=False img=../media/image13.png]
+[pic id=26 'Picture 25' pct=[120.2, 91.39, 196.13, 141.66] hidden=False img=../media/image14.emf]
+[pic id=27 'Picture 26' pct=[120.2, -16.37, 178.24, 17.29] hidden=False img=../media/image15.png]
+[sp id=37 'Line Callout 2 36' pct=[90.67, 24.19, 104.09, 35.35] hidden=False]
+    May-Jun19 ||
+    SPM#2 to #6 valve are stiffed. Fish happened during GLVCO activity – successfully retrieve the fish in Sep19 and well is back online.
+[graphicFrame id=16 'Table 15' pct=[67.97, 21.36, 90.18, 42.59] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | GLOV | 672.7 | - | 12/64” | Jun 19
+    | 2 | Missing (unknown) | 1063.9 | - |  | 
+    | 3 | DV –stiff | 1360.7 | - |  | 8 dec 2003
+    | 4 | Missing (unknown) | 1589.5 | - |  | 
+    | 5 | DV -stiff | 1742.5 | - |  | 8 dec 2003
+    | 6 | Missing (unknown) | 1759.8 | - |  | 
+[sp id=49 'TextBox 48' pct=[52.89, 59.65, 61.71, 62.08] hidden=False]
+    Plug already retrieved in 2022
+[sp id=50 'Rectangle 49' pct=[35.43, -2.71, 56.76, 0.24] hidden=False]
+    LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR
+[pic id=6141954 'Picture 2' pct=[35.28, 0.46, 68.16, 96.01] hidden=False img=../media/image16.png]
+[sp id=35 'TextBox 34' pct=[62.89, 56.58, 66.7, 62.92] hidden=False]
+    OPEN
+    Sep 2022
+    1550 psi
+[sp id=36 'TextBox 35' pct=[63.24, 83.03, 67.71, 89.03] hidden=False]
+    OPEN
+    Aug 2022
+[sp id=11 'TextBox 10' pct=[62.73, 21.65, 71.46, 26.78] hidden=False]
+    Oct 2019 - WRDP-1A MLO IV with Baker B-Tubing Stop @ 145 m MDTHF
+[sp id=29 'TextBox 28' pct=[63.24, 45.1, 67.11, 51.44] hidden=False]
+    CLOSED
+    July 2022
+    (1190 psi)
+[sp id=34 'TextBox 33' pct=[62.73, 68.6, 70.19, 72.76] hidden=False]
+    Aug 2022 – Sand HUD at 1835m MDTHF
+[sp id=6141958 'TextBox 6141957' pct=[73.68, 43.71, 85.48, 51.87] hidden=False]
+    HUD at SSD#1 when running 2.5” BO Shifting tool in Sep 2022 (unable to open SSD#2). Suspect debris wire dislodged at sliding sleeve. Scratch mark on drift & shifting tool
+[sp id=77 'TextBox 76' pct=[63.23, 39.25, 66.94, 41.34] hidden=False]
+    CLOSED
+[pic id=80 'Picture 79' pct=[75.23, 53.93, 79.53, 63.99] hidden=False img=../media/image17.jpeg]
+[pic id=81 'Picture 80' pct=[80.42, 53.77, 84.34, 64.7] hidden=False img=../media/image18.jpeg]
+[sp id=8 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[76.03, 66.23, 84.34, 72.13] hidden=False]
+    Sept-23 during TCC MAPS- HUD @ 1838m MDTHF – 2.25" magnetic tool recover 1" wire parted
+[sp id=5 'TextBox 4' pct=[63.44, 27.96, 70.31, 31.76] hidden=False]
+    Sept 23 :
+    HUD @ 1364m MDTHF

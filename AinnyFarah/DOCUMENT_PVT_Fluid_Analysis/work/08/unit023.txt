@@ -1,0 +1,11 @@
+Salinity by Conductivity Method (APHA 2520 B) (Stock Tank Water Samples)
+Sample | Method | Unit | Results
+Salinity by Conductivity Method
+Dulang A-14 (18:30hrs) Stock tank water sample | APHA 2520 B | ppm | 163350.0
+Dulang A-14 (18:00hrs) Stock tank water sample | APHA 2520 B | ppm | 160600.0
+Chloride Content by Potentiometric Method (APHA 4500 -Cl- D)
+(water collected from QC check on Cyl# 819614)
+Sample | Method | Unit | Results
+Chloride Content by Potentiometric Method
+Dulang A-14 (Cyl 819614) (water collected from QC check on Cyl# 819614) | APHA 4500 -Cl- D | ppm | 99800.0
+--- OCR ---

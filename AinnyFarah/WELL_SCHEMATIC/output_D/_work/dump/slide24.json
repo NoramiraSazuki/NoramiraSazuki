@@ -1,0 +1,178 @@
+{
+ "slide": 24,
+ "file": "slides/slide24.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Updated by Pravin 3/7/2022\n\nOpen\n23",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6162434",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 304800,
+   "cx": 6858000,
+   "cy": 9601200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    3.08,
+    69.47,
+    100.0
+   ],
+   "image": "../media/image65.png",
+   "crop": {
+    "l": "30362",
+    "t": "10826",
+    "r": "28900",
+    "b": "3085"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Rectangle 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5414168,
+   "y": 1,
+   "cx": 3755231,
+   "cy": 292615,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.74,
+    0.0,
+    52.07,
+    2.95
+   ],
+   "text": "LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "Rectangle 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5283200,
+   "y": 9532382,
+   "cx": 2912269,
+   "cy": 361434,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.0,
+    96.23,
+    46.54,
+    99.88
+   ],
+   "text": "Updated on 22nd October by Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Rectangle 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2877955,
+   "y": 8218267,
+   "cx": 2517366,
+   "cy": 526018,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.34,
+    82.96,
+    30.64,
+    88.27
+   ],
+   "text": "Retrieved Zonemaster #2 @ 2385m to surface in Oct 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "Rectangle 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2839454,
+   "y": 6792873,
+   "cx": 2536616,
+   "cy": 526018,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.12,
+    68.57,
+    30.53,
+    73.88
+   ],
+   "text": "Retrieved Zonemaster #1 @ 2333m MDTHF to surface in Oct 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2672561,
+   "y": 8801896,
+   "cx": 3436218,
+   "cy": 654517,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.18,
+    88.85,
+    34.69,
+    95.46
+   ],
+   "text": "DO NOT DELETE REMARK: Zonemasters were retrieved & not set back in well as per SE Aiman post MPLT 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

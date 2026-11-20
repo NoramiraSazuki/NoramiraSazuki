@@ -1,0 +1,1743 @@
+{
+ "slide": 20,
+ "columns": [
+  [
+   17.48,
+   "STATUS_S"
+  ],
+  [
+   23.37,
+   "MINID_S"
+  ],
+  [
+   32.235,
+   "NAME_S"
+  ],
+  [
+   41.91,
+   "DEPTH_S"
+  ],
+  [
+   60.269999999999996,
+   "DEPTH_L"
+  ],
+  [
+   69.96000000000001,
+   "NAME_L"
+  ],
+  [
+   79.09,
+   "MINID_L"
+  ],
+  [
+   84.91,
+   "STATUS_L"
+  ]
+ ],
+ "cells": [
+  {
+   "id": "44324",
+   "col": "NAME_S",
+   "y": 29.07,
+   "x": 32.22,
+   "h": 1.02,
+   "text": "¼\" CONTROL LINE",
+   "name": "Text Box 285",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44325",
+   "col": "NAME_L",
+   "y": 29.07,
+   "x": 70.12,
+   "h": 1.02,
+   "text": "¼\" CONTROL LINE",
+   "name": "Text Box 286",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "6",
+   "col": "STATUS_S",
+   "y": 29.81,
+   "x": 16.7,
+   "h": 4.87,
+   "text": "IV set at TRSV (Flapper lock open Aug 2024)",
+   "name": "Text Box 209",
+   "path": []
+  },
+  {
+   "id": "324",
+   "col": "STATUS_L",
+   "y": 30.1,
+   "x": 85.73,
+   "h": 5.44,
+   "text": "IV set at TRSV (Flapper lock open date unknown)",
+   "name": "Text Box 209",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44319",
+   "col": "NAME_S",
+   "y": 30.25,
+   "x": 32.22,
+   "h": 0.93,
+   "text": "FLOW COUPLING",
+   "name": "Text Box 280",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44318",
+   "col": "DEPTH_S",
+   "y": 30.31,
+   "x": 42.04,
+   "h": 0.9,
+   "text": "135.45",
+   "name": "Text Box 279",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44320",
+   "col": "MINID_S",
+   "y": 30.31,
+   "x": 23.43,
+   "h": 0.9,
+   "text": "2.441",
+   "name": "Text Box 281",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44321",
+   "col": "DEPTH_L",
+   "y": 30.31,
+   "x": 59.81,
+   "h": 0.9,
+   "text": "145.15",
+   "name": "Text Box 282",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44323",
+   "col": "MINID_L",
+   "y": 30.31,
+   "x": 79.05,
+   "h": 0.9,
+   "text": "2.441",
+   "name": "Text Box 284",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44322",
+   "col": "NAME_L",
+   "y": 30.32,
+   "x": 69.63,
+   "h": 0.92,
+   "text": "FLOW COUPLING",
+   "name": "Text Box 283",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44125",
+   "col": "DEPTH_L",
+   "y": 31.38,
+   "x": 59.81,
+   "h": 0.92,
+   "text": "146.05",
+   "name": "Text Box 86",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44128",
+   "col": "NAME_L",
+   "y": 31.38,
+   "x": 69.65,
+   "h": 1.03,
+   "text": "CAMCO TRM-4A SCSSV",
+   "name": "Text Box 89",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44134",
+   "col": "MINID_L",
+   "y": 31.38,
+   "x": 79.05,
+   "h": 0.92,
+   "text": "2.313",
+   "name": "Text Box 95",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44104",
+   "col": "DEPTH_S",
+   "y": 31.49,
+   "x": 42.04,
+   "h": 0.92,
+   "text": "136.55",
+   "name": "Text Box 65",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44118",
+   "col": "MINID_S",
+   "y": 31.49,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.313",
+   "name": "Text Box 79",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44111",
+   "col": "NAME_S",
+   "y": 31.59,
+   "x": 32.22,
+   "h": 1.03,
+   "text": "CAMCO TRM-4A SCSSV",
+   "name": "Text Box 72",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44105",
+   "col": "DEPTH_S",
+   "y": 32.94,
+   "x": 42.04,
+   "h": 0.92,
+   "text": "286.65",
+   "name": "Text Box 66",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44112",
+   "col": "NAME_S",
+   "y": 32.98,
+   "x": 32.22,
+   "h": 1.03,
+   "text": "CAMCO X-NIPPLE",
+   "name": "Text Box 73",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44349",
+   "col": "STATUS_S",
+   "y": 33.05,
+   "x": 17.2,
+   "h": 0.77,
+   "text": "06/march/2016",
+   "name": "Text Box 317",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44126",
+   "col": "DEPTH_L",
+   "y": 33.15,
+   "x": 59.78,
+   "h": 0.92,
+   "text": "296.15",
+   "name": "Text Box 87",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44119",
+   "col": "MINID_S",
+   "y": 33.16,
+   "x": 23.43,
+   "h": 0.91,
+   "text": "2.312",
+   "name": "Text Box 80",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44129",
+   "col": "NAME_L",
+   "y": 33.19,
+   "x": 69.62,
+   "h": 1.03,
+   "text": "CAMCO X-NIPPLE",
+   "name": "Text Box 90",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44135",
+   "col": "MINID_L",
+   "y": 33.2,
+   "x": 79.0,
+   "h": 0.91,
+   "text": "2.313",
+   "name": "Text Box 96",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44346",
+   "col": "STATUS_L",
+   "y": 33.25,
+   "x": 84.95,
+   "h": 0.78,
+   "text": "4/Feb/2016",
+   "name": "Text Box 317",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44106",
+   "col": "DEPTH_S",
+   "y": 34.54,
+   "x": 42.04,
+   "h": 0.92,
+   "text": "538.35",
+   "name": "Text Box 67",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44344",
+   "col": "STATUS_L",
+   "y": 34.64,
+   "x": 84.81,
+   "h": 0.77,
+   "text": "DUMMY",
+   "name": "Text Box 315",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44130",
+   "col": "NAME_L",
+   "y": 34.66,
+   "x": 69.61,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 91",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44136",
+   "col": "MINID_L",
+   "y": 34.66,
+   "x": 79.0,
+   "h": 0.91,
+   "text": "2.347",
+   "name": "Text Box 97",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44148",
+   "col": "DEPTH_L",
+   "y": 34.68,
+   "x": 59.69,
+   "h": 0.92,
+   "text": "524.55",
+   "name": "Text Box 109",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44113",
+   "col": "NAME_S",
+   "y": 34.69,
+   "x": 32.21,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 74",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44204",
+   "col": "STATUS_S",
+   "y": 34.8,
+   "x": 17.48,
+   "h": 0.79,
+   "text": "DUMMY",
+   "name": "Text Box 165",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44120",
+   "col": "MINID_S",
+   "y": 34.88,
+   "x": 23.43,
+   "h": 0.9,
+   "text": "2.347",
+   "name": "Text Box 81",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44107",
+   "col": "DEPTH_S",
+   "y": 36.25,
+   "x": 42.04,
+   "h": 0.92,
+   "text": "811.75",
+   "name": "Text Box 68",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44114",
+   "col": "NAME_S",
+   "y": 36.34,
+   "x": 32.21,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 75",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44131",
+   "col": "NAME_L",
+   "y": 36.42,
+   "x": 69.61,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 92",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44137",
+   "col": "MINID_L",
+   "y": 36.42,
+   "x": 79.0,
+   "h": 0.92,
+   "text": "2.347",
+   "name": "Text Box 98",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44149",
+   "col": "DEPTH_L",
+   "y": 36.47,
+   "x": 59.69,
+   "h": 0.92,
+   "text": "781.85",
+   "name": "Text Box 110",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44208",
+   "col": "STATUS_L",
+   "y": 36.51,
+   "x": 84.81,
+   "h": 0.78,
+   "text": "DUMMY",
+   "name": "Text Box 169",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44205",
+   "col": "STATUS_S",
+   "y": 36.54,
+   "x": 17.48,
+   "h": 1.02,
+   "text": "DUMMY",
+   "name": "Text Box 166",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44121",
+   "col": "MINID_S",
+   "y": 36.56,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.347",
+   "name": "Text Box 82",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44108",
+   "col": "DEPTH_S",
+   "y": 38.06,
+   "x": 42.05,
+   "h": 0.91,
+   "text": "1092.95",
+   "name": "Text Box 69",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44115",
+   "col": "NAME_S",
+   "y": 38.12,
+   "x": 32.21,
+   "h": 1.02,
+   "text": "CAMCO SPM",
+   "name": "Text Box 76",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44132",
+   "col": "NAME_L",
+   "y": 38.12,
+   "x": 69.61,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 93",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44138",
+   "col": "MINID_L",
+   "y": 38.18,
+   "x": 79.0,
+   "h": 0.9,
+   "text": "2.347",
+   "name": "Text Box 99",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44122",
+   "col": "MINID_S",
+   "y": 38.19,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.347",
+   "name": "Text Box 83",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44150",
+   "col": "DEPTH_L",
+   "y": 38.21,
+   "x": 59.7,
+   "h": 0.92,
+   "text": "1047.95",
+   "name": "Text Box 111",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44206",
+   "col": "STATUS_S",
+   "y": 38.28,
+   "x": 17.63,
+   "h": 0.79,
+   "text": "DUMMY",
+   "name": "Text Box 167",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44209",
+   "col": "STATUS_L",
+   "y": 38.36,
+   "x": 84.85,
+   "h": 0.79,
+   "text": "DUMMY",
+   "name": "Text Box 170",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44123",
+   "col": "MINID_S",
+   "y": 39.77,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.347",
+   "name": "Text Box 84",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44116",
+   "col": "NAME_S",
+   "y": 39.8,
+   "x": 32.21,
+   "h": 1.03,
+   "text": "CAMCO SPM",
+   "name": "Text Box 77",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44109",
+   "col": "DEPTH_S",
+   "y": 39.9,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1240.65",
+   "name": "Text Box 70",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44203",
+   "col": "STATUS_S",
+   "y": 39.93,
+   "x": 17.48,
+   "h": 1.02,
+   "text": "DUMMY",
+   "name": "Text Box 164",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44151",
+   "col": "DEPTH_L",
+   "y": 40.08,
+   "x": 59.7,
+   "h": 0.9,
+   "text": "1219.55",
+   "name": "Text Box 112",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44133",
+   "col": "NAME_L",
+   "y": 40.09,
+   "x": 69.61,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 94",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44139",
+   "col": "MINID_L",
+   "y": 40.09,
+   "x": 79.0,
+   "h": 0.92,
+   "text": "2.347",
+   "name": "Text Box 100",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44210",
+   "col": "STATUS_L",
+   "y": 40.17,
+   "x": 84.81,
+   "h": 0.77,
+   "text": "DUMMY",
+   "name": "Text Box 171",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44154",
+   "col": "NAME_S",
+   "y": 41.75,
+   "x": 32.21,
+   "h": 1.01,
+   "text": "CAMCO SPM",
+   "name": "Text Box 115",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44200",
+   "col": "DEPTH_L",
+   "y": 41.75,
+   "x": 59.7,
+   "h": 0.92,
+   "text": "1393.25",
+   "name": "Text Box 161",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44198",
+   "col": "NAME_L",
+   "y": 41.77,
+   "x": 69.61,
+   "h": 1.03,
+   "text": "CAMCO SPM",
+   "name": "Text Box 159",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44199",
+   "col": "MINID_L",
+   "y": 41.77,
+   "x": 79.0,
+   "h": 0.91,
+   "text": "2.347",
+   "name": "Text Box 160",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44155",
+   "col": "MINID_S",
+   "y": 41.8,
+   "x": 23.43,
+   "h": 0.91,
+   "text": "2.347",
+   "name": "Text Box 116",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44207",
+   "col": "STATUS_S",
+   "y": 41.85,
+   "x": 17.45,
+   "h": 0.78,
+   "text": "GLOV 12/64\" ",
+   "name": "Text Box 168",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44153",
+   "col": "DEPTH_S",
+   "y": 41.92,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1386.25",
+   "name": "Text Box 114",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44345",
+   "col": "STATUS_L",
+   "y": 42.45,
+   "x": 84.56,
+   "h": 1.56,
+   "text": " GLOV 12/64\" ",
+   "name": "Text Box 316",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44292",
+   "col": "DEPTH_S",
+   "y": 43.36,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1391.75",
+   "name": "Text Box 253",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44293",
+   "col": "NAME_S",
+   "y": 43.4,
+   "x": 32.22,
+   "h": 1.02,
+   "text": "CAMCO X-NIPPLE",
+   "name": "Text Box 254",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44295",
+   "col": "DEPTH_L",
+   "y": 43.56,
+   "x": 59.78,
+   "h": 0.91,
+   "text": "1391.25",
+   "name": "Text Box 256",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44294",
+   "col": "MINID_S",
+   "y": 43.59,
+   "x": 23.43,
+   "h": 0.9,
+   "text": "2.313",
+   "name": "Text Box 255",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44297",
+   "col": "MINID_L",
+   "y": 43.61,
+   "x": 79.0,
+   "h": 0.91,
+   "text": "2.313",
+   "name": "Text Box 258",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44296",
+   "col": "NAME_L",
+   "y": 43.62,
+   "x": 69.62,
+   "h": 1.03,
+   "text": "CAMCO X-NIPPLE",
+   "name": "Text Box 257",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "17",
+   "col": "NAME_L",
+   "y": 45.05,
+   "x": 67.79,
+   "h": 1.85,
+   "text": "2.31” PXX Plug @ X-Nipple @ 1391m",
+   "name": "Text Box 209",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44201",
+   "col": "MINID_S",
+   "y": 45.13,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.441",
+   "name": "Text Box 162",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44202",
+   "col": "NAME_S",
+   "y": 45.28,
+   "x": 32.27,
+   "h": 1.65,
+   "text": "HALL 9 5/8\" x 27/8\"\nBHD PACKER",
+   "name": "Text Box 163",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44110",
+   "col": "DEPTH_S",
+   "y": 45.35,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1411.55",
+   "name": "Text Box 71",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44331",
+   "col": "STATUS_S",
+   "y": 47.02,
+   "x": 17.23,
+   "h": 1.7,
+   "text": "OPENED\n16/07/03",
+   "name": "Text Box 293",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44160",
+   "col": "MINID_S",
+   "y": 47.15,
+   "x": 23.43,
+   "h": 0.9,
+   "text": "2.313",
+   "name": "Text Box 121",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44159",
+   "col": "NAME_S",
+   "y": 47.17,
+   "x": 32.22,
+   "h": 1.03,
+   "text": "CAMCO CSX-1D SSD",
+   "name": "Text Box 120",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44196",
+   "col": "NAME_L",
+   "y": 47.2,
+   "x": 69.65,
+   "h": 1.03,
+   "text": "CAMCO CSX-1D SSD",
+   "name": "Text Box 157",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44140",
+   "col": "MINID_L",
+   "y": 47.23,
+   "x": 79.05,
+   "h": 0.91,
+   "text": "2.313",
+   "name": "Text Box 101",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "3",
+   "col": "STATUS_L",
+   "y": 47.34,
+   "x": 84.75,
+   "h": 0.78,
+   "text": "OPENED",
+   "name": "Text Box 293",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44326",
+   "col": "DEPTH_S",
+   "y": 47.39,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1421.25",
+   "name": "Text Box 287",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44327",
+   "col": "DEPTH_L",
+   "y": 47.39,
+   "x": 59.94,
+   "h": 0.92,
+   "text": "1422.65",
+   "name": "Text Box 288",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44213",
+   "col": "MINID_L",
+   "y": 49.1,
+   "x": 79.05,
+   "h": 0.92,
+   "text": "2.374",
+   "name": "Text Box 174",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44212",
+   "col": "NAME_L",
+   "y": 49.12,
+   "x": 69.64,
+   "h": 1.03,
+   "text": "HALL Y-BLOCK",
+   "name": "Text Box 173",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44211",
+   "col": "DEPTH_L",
+   "y": 49.18,
+   "x": 59.81,
+   "h": 0.92,
+   "text": "1429.15",
+   "name": "Text Box 172",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44124",
+   "col": "MINID_S",
+   "y": 49.45,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "2.250",
+   "name": "Text Box 85",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44117",
+   "col": "NAME_S",
+   "y": 49.89,
+   "x": 31.99,
+   "h": 1.91,
+   "text": "CAMCO 'XN' NO-GO NIPPLE",
+   "name": "Text Box 78",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44328",
+   "col": "DEPTH_S",
+   "y": 50.1,
+   "x": 42.05,
+   "h": 0.9,
+   "text": "1429.05",
+   "name": "Text Box 289",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "9",
+   "col": "NAME_L",
+   "y": 50.76,
+   "x": 65.99,
+   "h": 0.78,
+   "text": "Leakpoint just above tubing stop (Ponytail)",
+   "name": "Text Box 319",
+   "path": []
+  },
+  {
+   "id": "44218",
+   "col": "NAME_S",
+   "y": 52.71,
+   "x": 32.27,
+   "h": 1.66,
+   "text": "HALL 9 5/8\" x 6\" x 5\"\nBWD PACKER",
+   "name": "Text Box 179",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44224",
+   "col": "MINID_S",
+   "y": 52.84,
+   "x": 23.43,
+   "h": 0.91,
+   "text": "5.000",
+   "name": "Text Box 185",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44219",
+   "col": "DEPTH_S",
+   "y": 53.01,
+   "x": 42.05,
+   "h": 0.9,
+   "text": "1455.75",
+   "name": "Text Box 180",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "4",
+   "col": "NAME_L",
+   "y": 53.73,
+   "x": 69.52,
+   "h": 3.31,
+   "text": "Baker Lower Tbg Stop @1458m-WLTHF (STIFF UNABLE TO FISH OUT BY CT MAY 2023)",
+   "name": "Text Box 209",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44161",
+   "col": "MINID_S",
+   "y": 56.41,
+   "x": 26.39,
+   "h": 4.22,
+   "text": "SAND : E-7/8 (OP) (HRWP) (FB N3-A, NDR)\nPERF : 1484.25 m - 1492.25 mMDTHF\n            1503.25 m - 1508.25 mMDTHF",
+   "name": "Rectangle 122",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44236",
+   "col": "DEPTH_L",
+   "y": 58.89,
+   "x": 59.81,
+   "h": 0.91,
+   "text": "1509.25",
+   "name": "Text Box 197",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44237",
+   "col": "NAME_L",
+   "y": 58.98,
+   "x": 69.64,
+   "h": 1.03,
+   "text": "LOC. SEAL ASSY.",
+   "name": "Text Box 198",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44238",
+   "col": "MINID_L",
+   "y": 59.0,
+   "x": 79.05,
+   "h": 0.91,
+   "text": "3.528",
+   "name": "Text Box 199",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44225",
+   "col": "NAME_L",
+   "y": 59.97,
+   "x": 69.64,
+   "h": 1.01,
+   "text": "4.500\" SEAL ASSY.",
+   "name": "Text Box 186",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44226",
+   "col": "MINID_L",
+   "y": 60.0,
+   "x": 79.05,
+   "h": 0.91,
+   "text": "3.510",
+   "name": "Text Box 187",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44239",
+   "col": "NAME_S",
+   "y": 60.31,
+   "x": 32.27,
+   "h": 1.66,
+   "text": "HALL 9 5/8\" x 6\" x 5\"\nBWD PACKER",
+   "name": "Text Box 200",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44241",
+   "col": "MINID_S",
+   "y": 60.45,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "5.000",
+   "name": "Text Box 202",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44240",
+   "col": "DEPTH_S",
+   "y": 60.62,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1510.35",
+   "name": "Text Box 201",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44193",
+   "col": "DEPTH_L",
+   "y": 64.53,
+   "x": 59.81,
+   "h": 0.91,
+   "text": "1519.25",
+   "name": "Text Box 154",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44195",
+   "col": "NAME_L",
+   "y": 64.59,
+   "x": 69.64,
+   "h": 1.02,
+   "text": "HALL SLIMLINE SSD",
+   "name": "Text Box 156",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44194",
+   "col": "MINID_L",
+   "y": 64.67,
+   "x": 79.05,
+   "h": 0.92,
+   "text": "2.313",
+   "name": "Text Box 155",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44329",
+   "col": "STATUS_L",
+   "y": 64.75,
+   "x": 85.54,
+   "h": 1.7,
+   "text": "CLOSED\n1/1/2017",
+   "name": "Text Box 290",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44242",
+   "col": "MINID_S",
+   "y": 65.28,
+   "x": 26.4,
+   "h": 4.21,
+   "text": "SAND : E-10/11 (OP) (HRWP)  (FB N3-A, WIR)\nPERF : 1523.25 m - 1533.75 mMDTHF",
+   "name": "Rectangle 203",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44258",
+   "col": "DEPTH_L",
+   "y": 68.13,
+   "x": 59.81,
+   "h": 0.92,
+   "text": "1533.30",
+   "name": "Text Box 219",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44260",
+   "col": "MINID_L",
+   "y": 68.24,
+   "x": 79.05,
+   "h": 0.92,
+   "text": "2.441",
+   "name": "Text Box 221",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44259",
+   "col": "NAME_L",
+   "y": 68.25,
+   "x": 69.63,
+   "h": 1.01,
+   "text": "HALL 3.25\" SEAL ASSY.",
+   "name": "Text Box 220",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44265",
+   "col": "NAME_S",
+   "y": 69.66,
+   "x": 32.27,
+   "h": 1.66,
+   "text": "HALL 9 5/8\" x 6\" x 5\"\nBWD PACKER",
+   "name": "Text Box 226",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44267",
+   "col": "MINID_S",
+   "y": 69.79,
+   "x": 23.43,
+   "h": 0.92,
+   "text": "5.000",
+   "name": "Text Box 228",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44266",
+   "col": "DEPTH_S",
+   "y": 69.95,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1535.55",
+   "name": "Text Box 227",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44040",
+   "col": "NAME_L",
+   "y": 70.52,
+   "x": 70.04,
+   "h": 2.07,
+   "text": "CONSLOT (2021)\n1533.17–1543.15 m-MDTHF",
+   "name": "Text Box 209",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44279",
+   "col": "DEPTH_L",
+   "y": 73.17,
+   "x": 59.81,
+   "h": 0.91,
+   "text": "1549.15",
+   "name": "Text Box 240",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44281",
+   "col": "NAME_L",
+   "y": 73.23,
+   "x": 69.64,
+   "h": 1.02,
+   "text": "HALL SLIMLINE SSD",
+   "name": "Text Box 242",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44280",
+   "col": "MINID_L",
+   "y": 73.31,
+   "x": 79.05,
+   "h": 0.9,
+   "text": "2.313",
+   "name": "Text Box 241",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44347",
+   "col": "STATUS_L",
+   "y": 73.31,
+   "x": 85.31,
+   "h": 1.69,
+   "text": "OPEN\n1/1/2017",
+   "name": "Text Box 291",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44268",
+   "col": "MINID_S",
+   "y": 74.36,
+   "x": 26.57,
+   "h": 3.98,
+   "text": "SAND : E-12/13 (OP) (Ext. Pac) (FB N3-A, WIR)\nPERF : 1536.24 m - 1562.25 mMDTHF",
+   "name": "Rectangle 229",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44038",
+   "col": "NAME_L",
+   "y": 74.59,
+   "x": 69.96,
+   "h": 2.07,
+   "text": "HUD TOS at 1552 m-WLTHF 14/09/20",
+   "name": "Text Box 209",
+   "path": [
+    "Group 4"
+   ]
+  },
+  {
+   "id": "44282",
+   "col": "NAME_L",
+   "y": 76.16,
+   "x": 69.63,
+   "h": 1.03,
+   "text": "HALL 3.25\" SEAL ASSY.",
+   "name": "Text Box 243",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44184",
+   "col": "DEPTH_L",
+   "y": 76.22,
+   "x": 59.81,
+   "h": 0.91,
+   "text": "1562.85",
+   "name": "Text Box 145",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44185",
+   "col": "MINID_L",
+   "y": 76.34,
+   "x": 79.05,
+   "h": 0.91,
+   "text": "2.441",
+   "name": "Text Box 146",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44288",
+   "col": "NAME_S",
+   "y": 78.24,
+   "x": 32.27,
+   "h": 1.66,
+   "text": "HALL 9 5/8\" x 6\" x 4\"\nBWD PACKER",
+   "name": "Text Box 249",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44290",
+   "col": "MINID_S",
+   "y": 78.38,
+   "x": 23.43,
+   "h": 0.91,
+   "text": "4.000",
+   "name": "Text Box 251",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44289",
+   "col": "DEPTH_S",
+   "y": 78.55,
+   "x": 42.05,
+   "h": 0.92,
+   "text": "1565.25",
+   "name": "Text Box 250",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44333",
+   "col": "STATUS_L",
+   "y": 79.08,
+   "x": 85.25,
+   "h": 0.93,
+   "text": "OPENED",
+   "name": "Text Box 295",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44330",
+   "col": "STATUS_L",
+   "y": 80.67,
+   "x": 85.11,
+   "h": 1.69,
+   "text": "1/1/2017",
+   "name": "Text Box 292",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44127",
+   "col": "DEPTH_L",
+   "y": 80.76,
+   "x": 59.81,
+   "h": 0.92,
+   "text": "1569.83",
+   "name": "Text Box 88",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44141",
+   "col": "MINID_L",
+   "y": 80.76,
+   "x": 79.05,
+   "h": 0.92,
+   "text": "2.250",
+   "name": "Text Box 102",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44169",
+   "col": "NAME_L",
+   "y": 80.78,
+   "x": 69.64,
+   "h": 1.03,
+   "text": "HALL 'XN' NO-GO NIPPLE",
+   "name": "Text Box 130",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  },
+  {
+   "id": "44283",
+   "col": "MINID_S",
+   "y": 82.68,
+   "x": 25.96,
+   "h": 3.08,
+   "text": "SAND : E-20/22 (OP)  (FB N3-A, NDR)\nPERF : 1604.25 m - 1609.25 mMDTHF",
+   "name": "Rectangle 244",
+   "path": [
+    "Group 4",
+    "Group 1"
+   ]
+  }
+ ]
+}

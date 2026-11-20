@@ -1,0 +1,34 @@
+# slide 2 (slides/slide2.xml) hidden=False objects=16
+# notes: 'Last Updated by Pravin on 12th June 2022\nWell is commingle to catch the production\nBased on interpretation from PLT, high gas flow from SSD#2. expected from behind casing d/t poor cement isolation.\nWell is able to flow without gas lift. – refer picture shared by DPIC.\n\nRemarks 2020\nIn 2020, evaluation to conduct SCO prior stimulation. Not economic if only SCO because no gain will be adding if remove the Sand accumulated inside tubing based on well performance. \nOnly plan SCO if have stimulation in future. Need to have downhole sand control or routine SCO.\n\nOpen\n1'
+[pic id=9 'Picture 8' pct=[26.88, 0.0, 73.31, 98.38] hidden=False img=../media/image10.emf]
+[pic id=8 'Picture 7' pct=[79.54, 50.79, 98.33, 81.29] hidden=False img=../media/image11.png]
+[sp id=11 'TextBox 10' pct=[23.01, 61.67, 26.69, 69.89] hidden=False]
+    OPEN
+    Oct 2022
+[sp id=12 'TextBox 11' pct=[23.08, 74.87, 26.75, 77.63] hidden=False]
+    OPENED
+[sp id=15 'Oval 14' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[graphicFrame id=21 'Table 20' pct=[17.57, 29.5, 40.84, 44.89] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | GLV-IPO | 594 | 960 | 8/64 | May’24
+    | 2 | Dummy | 880 | - | - | May 24
+    | 3 | GLV-IPO | 1088 | 920 | 8/64 | May’24
+    | 4 | GLOV | 1247 | - | 12/64 | May’24
+[sp id=23 'TextBox 22' pct=[31.54, 56.07, 42.5, 58.21] hidden=False]
+    X-over 3-1/2” x 2-3/8”@ 1338m MDTHF
+[sp id=30 'TextBox 29' pct=[31.59, 71.71, 42.6, 74.1] hidden=False]
+    X-over 3-1/2” x 2-3/8”@ 1392m MDTHF
+[sp id=22 'Rectangle 21' pct=[2.4, -4.19, 23.73, -1.24] hidden=False]
+    LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR
+[sp id=2 'Rectangle 1' pct=[44.66, 87.91, 47.99, 89.62] hidden=False]
+    Potential BCO E40
+    1550-1560 mddf
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=3 'TextBox 2' pct=[33.64, 61.66, 36.7, 64.46] hidden=False]
+    E11A
+[sp id=4 'TextBox 3' pct=[33.64, 66.04, 36.69, 68.84] hidden=False]
+    E12A
+[sp id=5 'TextBox 4' pct=[33.49, 74.43, 36.54, 77.23] hidden=False]
+    E14B

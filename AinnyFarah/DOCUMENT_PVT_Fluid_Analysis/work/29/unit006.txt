@@ -1,0 +1,38 @@
+Page | 10 of 17
+Report Date | 1982-12-22 00:00:00
+Report No | SFL 82142
+Well | DULANG 6G-7-1 PVT DST4-2
+Sample Date | 1982-07-05 00:00:00
+Lab Receive Date
+Lab | CORE LABORATORIES
+Company | PETRONAS CARIGALI
+PRESSURE-VOLUME RELATIONS AT 196°F
+Pressure | Relative | Y
+PSIG | Volume (1) | Function(2)
+5000 | 0.9661
+4000 | 0.9751
+3000 | 0.9848
+2000 | 0.9952
+1900 | 0.9965
+1800 | 0.9974
+1700 | 0.0084
+1600 | 0.9996
+1575 | 0.9998
+1562 | 1 | Bubble Point Pressure
+1495 | 1.0264
+1449 | 1.0466
+1386 | 1.0769 | 1.636
+1311 | 1.1174 | 1.614
+1215 | 1.1781 | 1.584
+1110 | 1.2592 | 1.551
+1004 | 1.3608 | 1.516
+904 | 1.4826 | 1.485
+811 | 1.6249 | 1.454
+728 | 1.7876 | 1.426
+653 | 1.9706 | 1.402
+534 | 2.3748 | 1.362
+420 | 2.9855 | 1.322
+310 | 3.9992 | 1.284
+(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+(2) Y Function = (Psat-P)/(Pabs)(V/Vsat-l)
+--- OCR ---

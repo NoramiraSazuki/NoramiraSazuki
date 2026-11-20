@@ -1,0 +1,66 @@
+WELL | A26ST1 | - | sheet 'A26ST1' | WELL NAME: A26ST1 — LOCATION / SLOT: DULANG A PLATFORM
+FILE | Dulang A26ST1 Well Schematic.xlsx
+SRC | - | sheet 'A26ST1' | native Excel cell values (openpyxl, cached values) and drawing text boxes (xl/drawings/drawing1.xml)
+DATUM | m MDDF (column 'DEPTH m-MDDF'; the sheet also prints a second depth column referenced to the tubing hanger flange — kept in the row notes, not shifted)
+NOTE | cell A12 | Note: All depths are in meter from RKB to top of equipment (columns: DEPTH m-MDDF and DEPTH m-MDTHF)
+INFO | completionDate | 2013-03-01
+INFO | rig | KM-1
+INFO | wellhead | Conventional Solar Alert 5K Wellhead
+INFO | xmas | Solar Alert F-F Trim
+INFO | completionFluid | KCl Brine
+INFO | packerFluid | N/A
+INFO | maxDeviation | 52.76 deg
+INFO | rte | 18.8 m (DFE-THF)
+INFO | tubing | PRODUCTION TUBING #1 3-1/2 9.2 13Cr-L80 JFE-FOX; PRODUCTION TUBING #2 2-7/8 6.4 13Cr-L80 JFE-FOX
+CASING | PRODUCTION CASING 9-5/8 47 L80 VAMTOP | 9.625 | 47 | L80 | 942 | MDDF |  |  | 8.681 | 9.625
+CASING | PRODUCTION LINER #1 7 29 L80 VAMTOP | 7 | 29 | L80 | 1767 | MDDF | 865 | diagram 'TOP OF 7" LINER' 865 m-MDDF / 846.2 m-MDTHF (E32/I32/J32) | 6.184 | 7
+TUBING | PRODUCTION TUBING #1 3-1/2 9.2 13Cr-L80 JFE-FOX | 3.5 | 9.2 | 13Cr-L80 | - |  | 2.992 | 3.5
+TUBING | PRODUCTION TUBING #2 2-7/8 6.4 13Cr-L80 JFE-FOX | 2.875 | 6.4 | 13Cr-L80 | inner |  | 2.441 | 2.875
+ROW | X | TUBING HANGER | 18.8 |  | 2.95 | 3.5 |  | m-MDTHF 0 (R15) | S15/Q15/Y15/AA15
+ROW | X | FLOW COUPLING, 3-1/2", 13CR L80 JFEFOX BXP |  |  | 2.88 | 3.92 |  | depth not printed | S20/Y20/AA20
+ROW | X | SCSSV, NE, SELF-EQ, 3-1/2", 13CR L80 JFEFOX BXP | 245 |  | 2.813 | 5.03 |  | m-MDTHF 226.2 | S21/Q21/R21/Y21/AA21
+ROW | X | FLOW COUPLING, 3-1/2", 13CR L80 JFEFOX BXP |  |  | 2.88 | 3.92 |  | depth not printed | S22/Y22/AA22
+ROW | X | SPM, 3-1/2", 13CR L80 JFEFOX BXP (PTRO: 747.10psi, 10/64") | 549 |  |  |  |  | m-MDTHF 530.2; MIN ID / MAX OD not printed on this row | S26/Q26/R26
+ROW | X | SPM, 3-1/2", 13CR L80 JFEFOX BXP (PTRO 767.99psi, 10/64") | 845 |  | ?2.88 | ?5.313 |  | m-MDTHF 826.2; ID / OD printed on the next row (Y31/AA31) | S29/Q29/R29/Y31/AA31
+ROW | X | SPM, 3-1/2", 13CR L80 JFEFOX BXP (PTRO 782.04 psi, 10/64") | 1074 |  |  |  |  | m-MDTHF 1055.2; MIN ID / MAX OD not printed on this row | S32/Q32/R32
+ROW | X | SPM, 3-1/2", 13CR L80 JFEFOX BXP (792.80 psi, 10/64") | 1256 |  | ?2.88 | ?5.313 |  | m-MDTHF 1237.2; ID / OD printed on the row above (Y35/AA35) | S36/Q36/R36/Y35/AA35
+ROW | X | SPM, 3-1/2", 13CR L80 JFEFOX BXP (GLOV 12/64") | 1404 |  | 2.88 | 5.313 |  | m-MDTHF 1385.2 | S39/Q39/R39/Y39/AA39
+ROW | X | SSD, 3-1/2", 13CR L80 JFEFOX BXP (CLOSED) | 1412 |  |  |  | CLOSED | m-MDTHF 1393.2 | S43/Q43/R43
+ROW | X | 7" x 3-1/2" AHC Packer (AHC 284) | 1418 |  | 2.9 | 5.96 |  | m-MDTHF 1399.2 | S47/Q47/R47/Y47/AA47
+ROW | X | 2.690" XN NIPPLE, 3-1/2", 13CR L80 JFEFOX BXP | 1442 |  | 2.813 | 4.55 |  | m-MDTHF 1423.2; MIN ID column 2.813 vs label '2.690" XN' — column value used, label kept in the name | S51/Q51/R51/Y51/AA51
+ROW | X | NO-GO LOCATOR |  |  |  | 4.2 |  | depth not printed | S52/AA52
+ROW | X | SELF ALIGNING MULE SHOE, 13CR L80 JFEFOX BXP | 1550 |  |  | 3.85 |  | end of string; m-MDTHF 1531.2 | S54/Q54/R54/AA54
+ROW | Lw | 4-1/2" x 7" VTA Packer |  |  |  |  |  | depth not printed | S55
+ROW | Lw | 3.88" Seal Bore Extension |  |  |  |  |  | depth not printed | S56
+ROW | Lw | 3 Way Sub: 4-1/2" x 4-1/2" x 2-7/8" |  |  | 2.813 | 4.04 |  | depth not printed; ID / OD printed on the next row (Y58/AA58) | S57/Y58/AA58
+ROW | Lw | OIL SWELL PACKER | 1567 |  |  |  |  | m-MDTHF 1548.2 | S59/Q59/R59
+ROW | Lw | SLIMLINE SSD, 2.313, 2-7/8" 6.4ppf FOX, B-P, 13CR (OPEN NOV 2023) | 1576 |  | 2.313 |  | OPEN NOV 2023 | m-MDTHF 1557.2; 2-7/8" inner string | S61/Q61/R61/Y61
+ROW | Lw | SEAL ASSY, 3.250", 2-7/8", 6.4ppf API-NU, B-P | 1580 |  | 3.25 |  |  | m-MDTHF 1561.2 | S63/Q63/R63/Y63
+ROW | Lw | SLIMLINE SSD, 2.313, 2-7/8" 6.4ppf FOX, B-P, 13CR (CLOSED NOV 2023) | 1593 |  | 2.313 |  | CLOSED NOV 2023 | m-MDTHF 1574.2 | S66/Q66/R66/Y66
+ROW | Lw | SEAL ASSY, 3.250", 2-7/8", 6.4ppf API-NU, B-P | 1602 |  | 3.25 |  |  | m-MDTHF 1583.2 | S69/Q69/R69/Y69
+ROW | Lw | SLIMLINE SSD, 2.313, 2-7/8" 6.4ppf FOX, B-P, 13CR (CLOSED JUL 2017) | 1625 |  | 2.313 |  | CLOSED JUL 2017 | m-MDTHF 1606.2 | S72/Q72/R72/Y72
+ROW | Lw | XN NIPPLE, 2-7/8", 13CR JFEFOX BXP | 1636 |  | 2.25 |  |  | m-MDTHF 1617.2 | S80/Q80/R80/Y80
+ROW | Lw | SDG SELF ALIGN MULESHOE INNER STRING |  |  |  |  |  | depth not printed | S81
+FLOAT | DOUBLE VALVE FLOAT SHOE | 1640 | MDDF | DOUBLE VALVE FLOAT SHOE 1640 m-MDDF / 1621.2 m-MDTHF (S84/Q84/R84)
+ZONE | E34A | 1573 | 1579 | MDDF | E34A Perf Interval: 1573m - 1579m MDDF | A61/A62 | perf
+ZONE | E34B | 1588 | 1598 | MDDF | E34B Perf Interval: 1588m - 1598m MDDF | A66/A67 | perf
+ZONE | E40 | 1623 | 1626 | MDDF | E40 Perf Interval: 1623m - 1626m MDDF | A73/A74 | perf
+TD | 1768 | MDDF | TOTAL DEPTH : 1768 m-MDDF (F6/G6)
+SHOE | 9-5/8" 47# L80 VAMTOP CASING | 942 | MDDF |  | 9-5/8" 47# L80 VAMTOP CASING 942 m-MDDF / 923.2 m-MDTHF (E37/I37/J37)
+SHOE | 7" 29# L80 VAMTOP LINER CASING SHOE | 1767 | MDDF |  | 7" 29# L80 VAMTOP LINER CASING SHOE 1767 m-MDDF / 1748.2 m-MDTHF (E89/I89/J89)
+INT | Slickplug @ 1608m MDDF (Jul 2018) | 1608 | MDDF | drawing text box
+INT | Junk Catcher & Slickplug @ 1562m MDTHF (Nov 2023) | 1562 | MDTHF | drawing text box
+INT | 13Cr Widepak + 3jts Boron ERTTSS @ 1551m MDTHF (Nov 2023) | 1551 | MDTHF | drawing text box
+NOTE | drawing text box | 2.29" Gauge Ring & 2.25" LIB HUD @1578m WLTHF(~1593m MDDF). Bailer recovered sand (Oct 2023)
+NOTE | drawing text box | Tubing punch @ 1588 - 1598m MDDF (Jul 2018)
+NOTE | cells S18 / S24 | 3-1/2" 9.2# 13Cr TUBING (ABOVE SCSSV) / (BELOW SCSSV) — MIN ID 2.992, MAX OD 3.883
+NOTE | cells A8 / A9 | WATER DEPTH : 76.5 m ; DFE-THF : 18.8 m (drill-floor to tubing-hanger-flange offset — no datum shift applied)
+NOTE | cells N4-AA9 | tubular table DRIFT column: 9-5/8 8.525 ; 7 6.151 ; 3-1/2 2.867 ; 2-7/8 2.441 ; table DEPTH (m-MDDF) printed 0 for all four tubulars
+NOTE | cell E87 | PBTD (label without depth)
+NOTE | cells S91-U92 | Updated by: Pravin Nair Venugopalan ; Date: 2026-06-25
+NOTE | workbook media | embedded pictures image1-image9 (png / jpeg / emf / svg — schematic drawing / logo graphics; no values)
+ISSUE | Missing | sheet | PBTD label without depth; packer fluid N/A; several accessory depths (flow couplings, no-go locator, VTA packer, seal bore extension, 3-way sub, inner muleshoe) not printed
+ISSUE | Unclear | sheet | every equipment depth is printed in both m-MDDF and m-MDTHF (DFE-THF 18.8 m); the m-MDDF column is mapped, m-MDTHF values kept in the notes — not shifted
+ISSUE | Unclear | drawing text boxes | Junk Catcher & Slickplug and ERTTSS are given in m MDTHF (equipment datum m MDDF) — depths not mapped
+ISSUE | Unclear | cells Y31/AA31, Y35/AA35 | SPM MIN ID / MAX OD printed on rows between the SPM labels — assigned to the adjacent SPMs (flagged)
+ISSUE | Unclear | sheet | 2-7/8" production tubing #2 (inner string through the lower completion): top / bottom depths not printed — not derived

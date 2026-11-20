@@ -1,0 +1,21 @@
+Differential Vaporization at 224°F
+Pressure | Solution | Relative | Relative | Oil | Deviation | Gas Formation | Incremential
+PSIG | Gas/Oil | Oil | Total | Density | Factor | Volume | Gas
+Ratio(1) | Volume 2 | Volume(3) | Gm/Cc | Z | Factor (4) | Gravity
+1982 | 426 | 1.26 | 1.26 | 0.7616 | 0.858 | 0.00936 | 1.102
+1800 | 384 | 1.242 | 1.311 | 0.7644 | 0.87 | 0.01077 | 1.11
+1550 | 331 | 1.22 | 1.4 | 0.768 | 0.883 | 0.01304 | 1.121
+1300 | 280 | 1.198 | 1.537 | 0.7714 | 0.9 | 0.01637 | 1.14
+1050 | 226 | 1.178 | 1.761 | 0.7734 | 0.917 | 0.0218 | 1.167
+800 | 174 | 1.156 | 2.134 | 0.7766 | 0.937 | 0.03213 | 1.206
+550 | 122 | 1.136 | 2.876 | 0.7784 | 0.964 | 0.0593 | 1.27
+300 | 70 | 1.115 | 4.875 | 0.7798 | 0.984 | 0.13816 | 1.36
+123 | 31 | 1.098 | 10.818 | 0.7812 | 1.475
+0 | 0 | 1.077 | 0.787
+at 60°F | 1
+Gravity of Residual oil = 35.2° API at 60°F
+(1) Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F
+(2) Barrels of oiI at indicated pressure and temperature per barrel of residual oil at 60°F
+(3) Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+(4) Cubic feet of gas at indicated pressure and temperature per cubic foot at 14.73 psia and 60°F
+--- OCR ---

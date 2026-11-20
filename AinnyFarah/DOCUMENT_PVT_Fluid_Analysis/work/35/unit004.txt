@@ -1,0 +1,31 @@
+Page 8
+COMPOSITIONAL ANALYSES OF SEPARATOR PRODUCTS (SET NO.1) AND CALCULATED WELLSTREAM TO HEPTANES PLUS
+Cylinder No | SS1014/80 | 81A1277
+Separator Liquid | Separator Gas | Wellstream*
+COMPONENT | MOL % | MOL % | GPM | MOL %
+H2S Hydrogen Sulphide | 0 | 0 | 0
+CO2 Carbon Dioxide | 5.2 | 61.63 | 25.21
+N2 Nitrogen | 0.01 | 0.24 | 0.09
+C1 Methane | 1.51 | 33.03 | 12.69
+C2 Ethane | 0.5 | 2.92 | 0.781 | 1.36
+C3 Propane | 0.53 | 1.11 | 0.306 | 0.74
+iC4 i-Butane | 0.33 | 0.34 | 0.111 | 0.33
+nC4 n-Butane | 0.3 | 0.24 | 0.076 | 0.28
+iC5 i-Pentane | 0.28 | 0.11 | 0.04 | 0.22
+nC5 n-Pentane | 0.23 | 0.07 | 0.025 | 0.17
+C6 Hexanes | 0.84 | 0.09 | 0.035 | 0.57
+C7 Heptanes Plus | 90.27 | 0.22 | 0.097 | 58.34
+Properties of Heptanes Plus
+API Gravity @ 60°F | 36.9
+Density, GM/CC @ 60°F | 0.8393 | 0.839
+Molecular Weight | 234 | 103 (assumed) | 234
+Propertis of Total Samples
+Average Total Mol Weight | 215.58
+Density, gm/cc @ 60°F | 0.8074 | gm/cc
+Calculated separator gas gravity (air = 1.000) | 1.196
+Calculated gross heating value for separator gas (BTU per cubic foot of dry gas @ 14.73 psia and 60°F) | 457
+Primary separator gas collected @ | 149 | psig | and | 127 | °F
+Primary separator liquid collected @ | 149 | psig | and | 136 | °F
+*Wellstream composition was calculated using gas/oil ratio of 273SCF/Bbl at 136 °F
+Bubble Point Pressure of this fluid is 1330 psig at 205°F
+--- OCR ---

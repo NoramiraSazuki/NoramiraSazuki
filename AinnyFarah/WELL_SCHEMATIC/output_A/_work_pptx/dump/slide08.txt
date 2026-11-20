@@ -1,0 +1,51 @@
+# slide 8 (slides/slide8.xml) hidden=False objects=27
+# notes: 'Open\n8'
+[pic id=7170 'Picture 2' pct=[2.43, 1.67, 94.46, 62.75] hidden=False img=../media/image18.png]
+[pic id=7171 'Picture 3' pct=[2.29, 61.87, 95.62, 91.67] hidden=False img=../media/image19.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 98.09, 4.87] hidden=False]
+    FB – S3
+[sp id=7 'TextBox 6' pct=[28.04, 53.85, 41.6, 58.22] hidden=False]
+    OPEN
+    15/AUG/1991
+[sp id=8 'TextBox 7' pct=[85.74, 70.83, 99.31, 75.21] hidden=False]
+    OPEN
+    15/AUG/1991
+[sp id=9 'TextBox 8' pct=[85.98, 81.46, 98.58, 85.83] hidden=False]
+    OPEN
+    07/AUG/204
+[sp id=11 'Rectangle 10' pct=[6.67, 80.78, 36.67, 87.85] hidden=False]
+    E14                      2438 – 2442
+                                   m-MDTHF
+              08/Sept/2004
+[sp id=12 'TextBox 11' pct=[86.3, 77.92, 97.92, 80.61] hidden=False]
+    WAG PILOT
+[sp id=15 'TextBox 14' pct=[4.44, 35.0, 15.56, 37.36] hidden=False]
+    GLV (Jul/99)
+[sp id=16 'TextBox 15' pct=[4.51, 37.75, 22.15, 40.1] hidden=False]
+    GLV 10/64”
+[sp id=17 'TextBox 16' pct=[-0.47, 39.09, 21.28, 41.44] hidden=False]
+    GLV PTRO 16/64” (Aug 14)
+[sp id=20 'TextBox 19' pct=[-0.48, 36.52, 7.45, 38.54] hidden=False]
+    Mar/2005
+[sp id=22 'TextBox 21' pct=[85.56, 35.78, 99.31, 38.14] hidden=False]
+    DV – 13 Aug 14
+[sp id=23 'TextBox 22' pct=[85.56, 38.63, 103.19, 40.99] hidden=False]
+    DV – 13 Aug 14
+[sp id=24 'TextBox 23' pct=[85.42, 41.45, 97.85, 45.15] hidden=False]
+    DV – 13 Aug 14
+[sp id=25 'TextBox 24' pct=[85.62, 34.17, 96.74, 36.52] hidden=False]
+    May/1996
+[sp id=26 'TextBox 25' pct=[85.56, 37.34, 100.0, 39.7] hidden=False]
+    DV – May 96
+[sp id=27 'TextBox 26' pct=[85.56, 40.17, 100.0, 42.53] hidden=False]
+    DV – May 96
+[sp id=28 'TextBox 27' pct=[0.15, 40.5, 17.87, 42.85] hidden=False]
+    GLOV 16/64’’ (Aug 14)
+[sp id=29 'TextBox 28' pct=[6.67, 36.35, 21.11, 38.71] hidden=False]
+    DV
+[sp id=31 'TextBox 3' pct=[1.09, 1.21, 23.04, 3.73] hidden=False]
+    Latest Update: June 2018
+[sp id=4 'TextBox 3' pct=[86.05, 57.45, 100.89, 65.2] hidden=False]
+    RIH 2.27” GR & 2.25” LIB HUD at 2361 m-MDTHF. Suspect sand (Aug 2015)
+[sp id=33 'Footer Placeholder 32' pct=None hidden=False]
+    Open

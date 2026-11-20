@@ -1,0 +1,38 @@
+SINGLE STRING                   DEPTH                               DEPTH              COMPLETION EQUIPMENT               MIN.         MAX,
+{m             (m                                                                      1.D           0.D
+__ IMDRKB)             EM            MDRKB)                                                              (IN)          (IN)
+FLOW COUPLING                                     146.6              gs
+4.700          2.313 |CAMCO TRM-4A TRSCSSV                        150.6
+3.500          2.313 [Cam X- NIPPLE                                      302.7              x
+a
+4.700           2.410 |SPM (w/ BK1 8/64, Ptro 815 psi)                    490.9                SS
+SS
+4.700          2.410 [SPM (w/ dummy)                                        653.4                ,
+4.700        2.410 [SPM (w/ BK1 12/64, Ptro 875 psi)              824.7            SS
+i
+SPM (w/ BK1 12/64, Ptro 900 psi)                  1119.6               SS
+SPM (w/ GLOV 16/64)                              1348.1              SS
+=
+X- NIPPLE                                          1378.4            x:
+Ww = ww
+aa]
+y, N = P Se 1384.1 |7" x 4.5" x 3.88" BWD GP Packer
+SLIMLINE SSD (3,22" OD) X-PROFILE          1408.4               BS                            4 1/2" BLANK PIPE
+CLOSE                               E14 (OIL. PRODUCER)
+Perf, Intervals                                                    4” W.W.SCREEN
+1415-1424
+ae                         4.5" COLLET SEAL ASSY,
+~ A 4 1435.2 ]7" x 4.5" x 3.88" BWD Sump Packer
+ha," La.
+a
+OPEN                           E23 Lower (OIL PRODUCER)                              po             1451.7 |SLIMLINE SSD (3.22" OD) X-PROFILE
+Perf. Intervals                                            nae                         BLAST JOINT (1457.8 - 1485.8 m)
+1485.0 - 1492.5                                             Be                           (MAX OD 3.20")
+U
+Pe 1533.3 |7" x 4.5" x 3.88" BWD Sump Packer
+, 7 yo
+RS              1540.9 |NOGO NIPPLE
+OPEN                                  E36 (OIL PRODUCER)                                     =              1541.7 [CONICAL
+Perf. Intervals
+1557.0 - 1568.0
+RST ee           PBTD @ 1602 M

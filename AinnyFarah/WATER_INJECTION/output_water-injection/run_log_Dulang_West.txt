@@ -1,0 +1,14 @@
+PASS - Template header A1:M1 unchanged; extra columns after M
+PASS - Rows written = rows extracted (696)
+PASS - Every written date and value equals the extracted source value
+PASS - Re-read of sources reproduces every raw block (no omissions/changes)
+PASS - All 4 raw blocks labelled (fault block + reservoir)
+PASS - Template unchanged
+PASS - All source workbooks unchanged (sha256 before/after)
+Dulang_West_Water_Injection.xlsx Dulang_West_Water_Injection_Review.xlsx rows 696
+{'IX': 348, 'VIII': 348}
+VIII            rows   348  ok
+IX              rows   348  ok
+PASS - every sheet has the template header + extra columns
+PASS - all 696 rows present exactly once, values unchanged
+sheets: 2 | backup: Dulang_West_Water_Injection_before_split_20261020_184057.xlsx

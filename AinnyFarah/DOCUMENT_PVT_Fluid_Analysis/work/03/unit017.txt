@@ -1,0 +1,24 @@
+TABLE 18
+SEPARATION TESTS OF RESERVOIR FLUID
+Molecular composition of tank gases (mole percent)
+Pressure (psig) | 0 | 0 | 0 | 0
+Temperature ( F) | 77 | 77 | 77 | 77
+Nitrogen | 0 | 0 | 0 | 0
+Carbon dioxide | 75.5 | 75.49 | 75.69 | 76.31
+Hydrogen sulphide | Traces | Traces | Traces | Traces
+(0.02ppm) | (0.02ppm) | (0.02ppm) | (0.02ppm)
+Hydrocarbons
+Me thane | 17.15 | 17.14 | 17.39 | 17.72
+Ethane | 2.45 | 2.5 | 2.43 | 2.11
+Propane | 2.55 | 2.5 | 2.3 | 1.91
+I - Butane | 0.85 | 0.86 | 0.8 | 0.69
+N - Butane | 0.69 | 0.7 | 0.64 | 0.54
+I - Pentane | 0.3 | 0.3 | 0.29 | 0.28
+N - Pentane | 0.19 | 0.19 | 0.18 | 0.17
+Hexanes | 0.15 | 0.15 | 0.14 | 0.13
+Heptanes plus | 0.17 | 0.17 | 0.14 | 0.14
+TOTAL | 100 | 100 | 100 | 100
+Molecular weight | 39.402 | 39.401 | 39.293 | 39.205
+Gravity (Air=1) | 1.36 | 1.36 | 1.356 | 1.353
+Molecular weight of heptanes plus | 108.5 | 108.5 | 107.2 | 107.2
+--- OCR ---

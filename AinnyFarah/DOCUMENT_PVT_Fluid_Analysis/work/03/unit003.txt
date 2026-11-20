@@ -1,0 +1,32 @@
+TABLE 1
+SAMPLING CONDITIONS
+I. RESERVOIR AND WELL CHARACTERISTICS | SAMPLE(S) VALIDITY
+Producing zone | 1252-1259 M | BOTTOM HOLE SAMPLE(S)
+Static pressure | 1775 psig
+Bottom hole temperature | 203 F | 1) Sample bottle no 12689/66
+Tubing diameter | 3 1/2" | Bubble point pressure determination at 203 F is 1668 psig
+Casing size | 9 5/8"
+Casing shoe | 1574 M | 2) Sample bottle No 15089/12
+Bubble point pressure determination at 203 F is 1660 psig
+II. SAMPLING CONDITIONS
+A) SURFACE SAMPLE(S)
+Date | 1982-02-09 00:00:00
+Choke | 32/64" since 10hrs30
+Flowing bottom hole pressure | 1105psig at 1233 M
+Well head pressure | 357 psig
+Separator pressure | 175 psig
+Well head temperature | 121 F
+Separator temperature | 99 F
+Gas rate (Separator.) | 398.13 St cu ft/day
+Stock tank temperature | N/A
+Compressibility factor | 0. 867
+Gas gravity | 1. 305 (Air=l)
+Liquid rate (Separator) | 1065 bbl/day
+G.L.R | 374 St cu ft/bbl
+Sample( s) received | gas A5016-A9076 A12048
+liq.1116/43-22400/50 15821/97
+B) BOTTOM HOLE SAMPLE (S)
+Date | 1982-03-09 00:00:00
+Choke | 8.64" Well flowing
+Sample(s) received | 12689/66(FLO69) 15089/12(FLO350)
+--- OCR ---

@@ -1,0 +1,1042 @@
+{
+ "slide": 4,
+ "file": "slides/slide4.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Comment\nWell is updated as of 8th June (Pravin Nair)\nEncountered fish happened during GLVCO in 2019 May-Jun. successfully recovered and now flowing with GLOV @ SPM#1 and the rest are stiffed. \nHistorically has HUD d/t scale.\n\nOpen\n3",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Oval 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "Rectangle 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11141870,
+   "y": 2743200,
+   "cx": 853441,
+   "cy": 1106905,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.27,
+    27.69,
+    68.12,
+    38.87
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "3",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 21149469,
+   "y": 2133600,
+   "cx": 10734675,
+   "cy": 6638925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    120.1,
+    21.54,
+    181.06,
+    88.56
+   ],
+   "image": "../media/image13.png"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "7",
+   "name": "Straight Connector 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20417346,
+   "y": 3048000,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.94,
+    30.77,
+    182.14,
+    30.77
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "21",
+   "name": "Straight Connector 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20387469,
+   "y": 3962400,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.77,
+    40.0,
+    181.98,
+    40.0
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "22",
+   "name": "Straight Connector 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20417346,
+   "y": 5453062,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.94,
+    55.05,
+    182.14,
+    55.05
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "23",
+   "name": "Straight Connector 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20387469,
+   "y": 5715000,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.77,
+    57.69,
+    181.98,
+    57.69
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "24",
+   "name": "Straight Connector 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20417346,
+   "y": 5983224,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.94,
+    60.4,
+    182.14,
+    60.4
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "25",
+   "name": "Straight Connector 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 20411853,
+   "y": 6781800,
+   "cx": 11658600,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    115.91,
+    68.46,
+    182.11,
+    68.46
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "26",
+   "name": "Picture 25",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 21168092,
+   "y": 9053110,
+   "cx": 13370738,
+   "cy": 4979334,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    120.2,
+    91.39,
+    196.13,
+    141.66
+   ],
+   "image": "../media/image14.emf"
+  },
+  {
+   "kind": "pic",
+   "id": "27",
+   "name": "Picture 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 21168092,
+   "y": -1621429,
+   "cx": 10220325,
+   "cy": 3333750,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    120.2,
+    -16.37,
+    178.24,
+    17.29
+   ],
+   "image": "../media/image15.png"
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "Rounded Rectangle 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8919369,
+   "y": 2410484,
+   "cx": 304800,
+   "cy": 92492,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.65,
+    24.33,
+    52.38,
+    25.27
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "5-Point Star 30",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -2095309,
+   "y": 3774127,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -11.9,
+    38.1,
+    -10.6,
+    39.69
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "32",
+   "name": "Oval 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -1772185,
+   "y": 3822387,
+   "cx": 134075,
+   "cy": 109220,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -10.06,
+    38.59,
+    -9.3,
+    39.69
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "37",
+   "name": "Line Callout 2 36",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 15967869,
+   "y": 2396665,
+   "cx": 2362200,
+   "cy": 1104783,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    90.67,
+    24.19,
+    104.09,
+    35.35
+   ],
+   "text": "May-Jun19 ||\nSPM#2 to #6 valve are stiffed. Fish happened during GLVCO activity – successfully retrieve the fish in Sep19 and well is back online.",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "16",
+   "name": "Table 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11970287,
+   "y": 2115670,
+   "cx": 3910221,
+   "cy": 2103120,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.97,
+    21.36,
+    90.18,
+    42.59
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "GLOV",
+     "672.7",
+     "-",
+     "12/64”",
+     "Jun 19"
+    ],
+    [
+     "2",
+     "Missing (unknown)",
+     "1063.9",
+     "-",
+     "",
+     ""
+    ],
+    [
+     "3",
+     "DV –stiff",
+     "1360.7",
+     "-",
+     "",
+     "8 dec 2003"
+    ],
+    [
+     "4",
+     "Missing (unknown)",
+     "1589.5",
+     "-",
+     "",
+     ""
+    ],
+    [
+     "5",
+     "DV -stiff",
+     "1742.5",
+     "-",
+     "",
+     "8 dec 2003"
+    ],
+    [
+     "6",
+     "Missing (unknown)",
+     "1759.8",
+     "-",
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "42",
+   "name": "Rectangle 41",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5434907,
+   "y": 9434938,
+   "cx": 6799162,
+   "cy": 432962,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.86,
+    95.24,
+    69.47,
+    99.62
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "41",
+   "name": "Straight Arrow Connector 40",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9224169,
+   "y": 2336466,
+   "cx": 1824832,
+   "cy": 120264,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    52.38,
+    23.59,
+    62.74,
+    24.8
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Oval 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8836819,
+   "y": 5867439,
+   "cx": 165100,
+   "cy": 184150,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.18,
+    59.23,
+    51.12,
+    61.09
+   ],
+   "text": "",
+   "geom": "ellipse"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "45",
+   "name": "Straight Arrow Connector 44",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9001919,
+   "y": 5397533,
+   "cx": 311414,
+   "cy": 631366,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    51.12,
+    54.49,
+    52.89,
+    60.86
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "49",
+   "name": "TextBox 48",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9313333,
+   "y": 5908444,
+   "cx": 1554397,
+   "cy": 240909,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.89,
+    59.65,
+    61.71,
+    62.08
+   ],
+   "text": "Plug already retrieved in 2022",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "Rectangle 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8805069,
+   "y": 6594010,
+   "cx": 250031,
+   "cy": 112540,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.0,
+    66.57,
+    51.42,
+    67.7
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "20",
+   "name": "Straight Arrow Connector 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9055100,
+   "y": 6650280,
+   "cx": 1993901,
+   "cy": 288982,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    51.42,
+    67.13,
+    62.74,
+    70.05
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "50",
+   "name": "Rectangle 49",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6239669,
+   "y": -268822,
+   "cx": 3755231,
+   "cy": 292615,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    35.43,
+    -2.71,
+    56.76,
+    0.24
+   ],
+   "text": "LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "6141956",
+   "name": "Straight Arrow Connector 6141955",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9163251,
+   "y": 3898232,
+   "cx": 2752824,
+   "cy": 1058780,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    52.03,
+    39.35,
+    67.67,
+    50.04
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "4",
+   "name": "Group 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6212235,
+   "y": 45446,
+   "cx": 8841234,
+   "cy": 9465635,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    35.28,
+    0.46,
+    85.48,
+    96.01
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "6141954",
+   "name": "Picture 2",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6212235,
+   "y": 45446,
+   "cx": 5791200,
+   "cy": 9465635,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    35.28,
+    0.46,
+    68.16,
+    96.01
+   ],
+   "image": "../media/image16.png",
+   "crop": {
+    "l": "32284",
+    "t": "10006",
+    "r": "28900",
+    "b": "10259"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "35",
+   "name": "TextBox 34",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11074697,
+   "y": 5604560,
+   "cx": 670914,
+   "cy": 628141,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.89,
+    56.58,
+    66.7,
+    62.92
+   ],
+   "text": "OPEN\nSep 2022\n1550 psi",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "36",
+   "name": "TextBox 35",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11136662,
+   "y": 8224539,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.24,
+    83.03,
+    67.71,
+    89.03
+   ],
+   "text": "OPEN\nAug 2022",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11046967,
+   "y": 2144413,
+   "cx": 1536699,
+   "cy": 508668,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.73,
+    21.65,
+    71.46,
+    26.78
+   ],
+   "text": "Oct 2019 - WRDP-1A MLO IV with Baker B-Tubing Stop @ 145 m MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "TextBox 28",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11136894,
+   "y": 4467510,
+   "cx": 681832,
+   "cy": 628141,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.24,
+    45.1,
+    67.11,
+    51.44
+   ],
+   "text": "CLOSED\nJuly 2022\n(1190 psi)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "34",
+   "name": "TextBox 33",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11046967,
+   "y": 6795321,
+   "cx": 1314450,
+   "cy": 412443,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.73,
+    68.6,
+    70.19,
+    72.76
+   ],
+   "text": "Aug 2022 – Sand HUD at 1835m MDTHF",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "6141958",
+   "name": "TextBox 6141957",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 12974412,
+   "y": 4329747,
+   "cx": 2079057,
+   "cy": 808521,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    73.68,
+    43.71,
+    85.48,
+    51.87
+   ],
+   "text": "HUD at SSD#1 when running 2.5” BO Shifting tool in Sep 2022 (unable to open SSD#2). Suspect debris wire dislodged at sliding sleeve. Scratch mark on drift & shifting tool",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "77",
+   "name": "TextBox 76",
+   "path": [
+    "Group 3"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 11135290,
+   "y": 3888391,
+   "cx": 653623,
+   "cy": 206875,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.23,
+    39.25,
+    66.94,
+    41.34
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "6141965",
+   "name": "Rectangle 6141964",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6308404,
+   "y": 4654378,
+   "cx": 548640,
+   "cy": 394636,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    35.82,
+    46.99,
+    38.94,
+    50.97
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "80",
+   "name": "Picture 79",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 13248252,
+   "y": 5342778,
+   "cx": 757267,
+   "cy": 996016,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    75.23,
+    53.93,
+    79.53,
+    63.99
+   ],
+   "image": "../media/image17.jpeg"
+  },
+  {
+   "kind": "pic",
+   "id": "81",
+   "name": "Picture 80",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 14161551,
+   "y": 5326000,
+   "cx": 691427,
+   "cy": 1082878,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    80.42,
+    53.77,
+    84.34,
+    64.7
+   ],
+   "image": "../media/image18.jpeg"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 13388875,
+   "y": 6560708,
+   "cx": 1464103,
+   "cy": 584775,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    76.03,
+    66.23,
+    84.34,
+    72.13
+   ],
+   "text": "Sept-23 during TCC MAPS- HUD @ 1838m MDTHF – 2.25\" magnetic tool recover 1\" wire parted",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11171651,
+   "y": 2769429,
+   "cx": 1210250,
+   "cy": 377026,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.44,
+    27.96,
+    70.31,
+    31.76
+   ],
+   "text": "Sept 23 :\nHUD @ 1364m MDTHF",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Moon 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9000764,
+   "y": 3201331,
+   "cx": 109059,
+   "cy": 297994,
+   "rot": -90.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.11,
+    32.32,
+    51.73,
+    35.33
+   ],
+   "text": "",
+   "geom": "moon",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "Moon 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8848595,
+   "y": 6892637,
+   "cx": 109059,
+   "cy": 297994,
+   "rot": 270.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.25,
+    69.58,
+    50.87,
+    72.59
+   ],
+   "text": "",
+   "geom": "moon",
+   "fill": "FF0000"
+  }
+ ]
+}

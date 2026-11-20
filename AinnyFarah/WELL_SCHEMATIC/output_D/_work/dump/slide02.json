@@ -1,0 +1,417 @@
+{
+ "slide": 2,
+ "file": "slides/slide2.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Last Updated by Pravin on 12th June 2022\nWell is commingle to catch the production\nBased on interpretation from PLT, high gas flow from SSD#2. expected from behind casing d/t poor cement isolation.\nWell is able to flow without gas lift. – refer picture shared by DPIC.\n\nRemarks 2020\nIn 2020, evaluation to conduct SCO prior stimulation. Not economic if only SCO because no gain will be adding if remove the Sand accumulated inside tubing based on well performance. \nOnly plan SCO if have stimulation in future. Need to have downhole sand control or routine SCO.\n\nOpen\n1",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "9",
+   "name": "Picture 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4733062,
+   "y": 0,
+   "cx": 8177543,
+   "cy": 9745580,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.88,
+    0.0,
+    73.31,
+    98.38
+   ],
+   "image": "../media/image10.emf"
+  },
+  {
+   "kind": "pic",
+   "id": "8",
+   "name": "Picture 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 14007653,
+   "y": 5031346,
+   "cx": 3308845,
+   "cy": 3021120,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    79.54,
+    50.79,
+    98.33,
+    81.29
+   ],
+   "image": "../media/image11.png"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4052598,
+   "y": 6109196,
+   "cx": 646937,
+   "cy": 814579,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.01,
+    61.67,
+    26.69,
+    69.89
+   ],
+   "text": "OPEN\nOct 2022",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4063738,
+   "y": 7416261,
+   "cx": 646937,
+   "cy": 274235,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.08,
+    74.87,
+    26.75,
+    77.63
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Oval 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "21",
+   "name": "Table 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3093224,
+   "y": 2922333,
+   "cx": 4098369,
+   "cy": 1524000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    17.57,
+    29.5,
+    40.84,
+    44.89
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "GLV-IPO",
+     "594",
+     "960",
+     "8/64",
+     "May’24"
+    ],
+    [
+     "2",
+     "Dummy",
+     "880",
+     "-",
+     "-",
+     "May 24"
+    ],
+    [
+     "3",
+     "GLV-IPO",
+     "1088",
+     "920",
+     "8/64",
+     "May’24"
+    ],
+    [
+     "4",
+     "GLOV",
+     "1247",
+     "-",
+     "12/64",
+     "May’24"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5554133,
+   "y": 5554134,
+   "cx": 1930400,
+   "cy": 211666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.54,
+    56.07,
+    42.5,
+    58.21
+   ],
+   "text": "X-over 3-1/2” x 2-3/8”@ 1338m MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "TextBox 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5562601,
+   "y": 7103534,
+   "cx": 1938866,
+   "cy": 237066,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.59,
+    71.71,
+    42.6,
+    74.1
+   ],
+   "text": "X-over 3-1/2” x 2-3/8”@ 1392m MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "34",
+   "name": "Straight Arrow Connector 33",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7484533,
+   "y": 5659967,
+   "cx": 1227667,
+   "cy": 1308100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    42.5,
+    57.14,
+    49.47,
+    70.34
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "45",
+   "name": "Straight Arrow Connector 44",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7501467,
+   "y": 7222067,
+   "cx": 1159933,
+   "cy": 169333,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    42.6,
+    72.91,
+    49.18,
+    74.62
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Rectangle 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 422915,
+   "y": -415548,
+   "cx": 3755231,
+   "cy": 292615,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.4,
+    -4.19,
+    23.73,
+    -1.24
+   ],
+   "text": "LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7865362,
+   "y": 8708231,
+   "cx": 585787,
+   "cy": 169333,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.66,
+    87.91,
+    47.99,
+    89.62
+   ],
+   "text": "Potential BCO E40\n1550-1560 mddf",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5924787,
+   "y": 6108022,
+   "cx": 537613,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.64,
+    61.66,
+    36.7,
+    64.46
+   ],
+   "text": "E11A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5923331,
+   "y": 6541906,
+   "cx": 537613,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.64,
+    66.04,
+    36.69,
+    68.84
+   ],
+   "text": "E12A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5897426,
+   "y": 7373008,
+   "cx": 537613,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.49,
+    74.43,
+    36.54,
+    77.23
+   ],
+   "text": "E14B",
+   "geom": "rect"
+  }
+ ]
+}

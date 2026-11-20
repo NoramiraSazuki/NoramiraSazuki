@@ -1,0 +1,42 @@
+# slide 26 (slides/slide26.xml) hidden=False objects=23
+# notes: 'Open\n26'
+[pic id=8194 'Picture 2' pct=[11.69, 5.25, 98.23, 59.43] hidden=False img=../media/image60.png]
+[pic id=8195 'Picture 3' pct=[8.89, 55.91, 95.56, 90.0] hidden=False img=../media/image61.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 98.09, 4.87] hidden=False]
+    FB – S3
+[sp id=3 'TextBox 2' pct=[88.89, 96.97, 100.0, 100.0] hidden=False]
+    Jan/2013
+[sp id=12 'Rectangle 11' pct=[2.22, 91.04, 54.44, 100.13] hidden=False]
+    09/Jul/2012: (IFO) 2.25” LIB and tag top of zone master ported nipple @2239m-Mdthf. 
+    20/Dec/2012: Completed pipe spool replacement and rig up scaffolding at Sea Deck.
+[sp id=11 'TextBox 10' pct=[49.03, 1.17, 65.69, 5.21] hidden=False]
+    DLG A 29
+[sp id=13 'TextBox 3' pct=[1.09, 1.21, 20.96, 3.56] hidden=False]
+    Latest Update: DEC 2015
+[sp id=4 'TextBox 3' pct=[0.22, 36.67, 11.11, 43.06] hidden=False]
+    HUD @ 2230mMDTHF. (30/8/2015)
+[sp id=10 'Rectangle 9' pct=[58.96, 59.03, 72.22, 62.73] hidden=False]
+     HUD @ 2360m-WLTHF(24/9/16)
+[sp id=14 'Rectangle 13' pct=[58.89, 43.96, 75.56, 47.64] hidden=False]
+    close SSD#3 @ 2262m-MDTHF(10/2/04)
+[sp id=15 'Rectangle 14' pct=[58.62, 34.82, 76.39, 38.52] hidden=False]
+    Close SSD no#1 @ 2192m-MDTHF(10/2/04)
+[sp id=16 'Rectangle 15' pct=[76.04, 36.38, 95.59, 40.08] hidden=False]
+    Close SSD#2 @ 2220m-MDTHF(10/2/04)
+[sp id=17 'Rectangle 16' pct=[71.79, 59.03, 89.57, 64.08] hidden=False]
+    tag XN-Nogo @ 2360m-WLTHF(24/9/16)
+[sp id=19 'Rectangle 18' pct=[11.02, 51.44, 27.93, 53.79] hidden=False]
+    all SSD closed (28/4/07)
+[sp id=20 'Rectangle 19' pct=[11.02, 27.33, 27.13, 31.04] hidden=False]
+     MA Plug set@ 296m-MDTHF(7/2/04)
+[sp id=21 'Rectangle 20' pct=[10.95, 30.37, 27.07, 34.07] hidden=False]
+    Ret MA Plug body @ 296m-MDTHF(7/2/04)
+[sp id=22 'Rectangle 21' pct=[0.2, 43.16, 10.95, 49.56] hidden=False]
+    tag nogo nipple at 2257m-thf(27/1/04)
+[sp id=25 'Text Box 289' pct=[59.39, 92.42, 102.63, 96.46] hidden=False]
+    LAST ENTRY	: 25 Sep 2016
+    TYPE OF JOB	: A-29L : Conduct MIT
+    UPDATED BY	: Wong Kian Wai
+    DATE	: 4 Feb 2018
+[sp id=29 'Footer Placeholder 28' pct=None hidden=False]
+    Open

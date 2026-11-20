@@ -1,0 +1,37 @@
+# slide 10 (slides/slide10.xml) hidden=False objects=24
+# notes: 'Open\n10'
+[pic id=4 'Picture 3' pct=[8.08, 4.98, 94.4, 100.0] hidden=False img=../media/image22.png]
+[sp id=18 'TextBox 17' pct=[80.0, 0.78, 94.17, 4.82] hidden=False]
+    FB – SE2
+[sp id=11 'TextBox 10' pct=[18.82, 79.77, 27.36, 82.8] hidden=False]
+    closed
+[sp id=14 'TextBox 3' pct=[1.09, 1.21, 34.17, 3.73] hidden=False]
+    Latest Update: MAR 2023 by Pravin Nair
+[sp id=27 'TextBox 26' pct=[8.2, 59.22, 27.97, 63.77] hidden=False]
+    Apr 2023 – 2.25” LIB impression of suspected parted tubing stop sleeve @ 2611m WLTHF
+[sp id=34 'TextBox 33' pct=[4.74, 90.04, 11.04, 92.06] hidden=False]
+    CLOSED
+[sp id=6 'TextBox 5' pct=[19.76, 68.39, 27.11, 71.42] hidden=False]
+    open
+[pic id=3 'Picture 2' pct=[7.21, 48.74, 28.0, 57.55] hidden=False img=../media/image23.png]
+[pic id=16 'Picture 15' pct=[-3.13, 57.39, 8.14, 65.56] hidden=False img=../media/image24.jpeg descr='A picture containing tool, metalworking, ground, power saw\n\nDescription automatically generated']
+[sp id=9291 'Rectangle 9290' pct=[40.65, 89.61, 74.22, 91.94] hidden=False]
+    Coilflate set at 2759m MDDF to isolate E36. Cement pumped. TOC tagged at 2749m MDDF with CTU (Jul 2011)
+[sp id=26 'TextBox 25' pct=[47.58, 14.11, 72.42, 16.46] hidden=False]
+    RKB-THF                                 : 11.635m 
+[sp id=9224 'TextBox 9223' pct=[5.61, 88.0, 10.9, 90.02] hidden=False]
+    OPEN
+[sp id=2 'TextBox 1' pct=[50.75, 62.19, 58.09, 65.22] hidden=False]
+    open
+[sp id=5 'TextBox 4' pct=[74.65, 22.03, 82.16, 25.06] hidden=False]
+    mddf
+[sp id=10 'TextBox 9' pct=[51.42, 57.96, 59.95, 60.99] hidden=False]
+    closed
+[sp id=12 'TextBox 11' pct=[49.38, 74.35, 55.49, 76.54] hidden=False]
+    closed
+[sp id=20 'Footer Placeholder 19' pct=None hidden=False]
+    Open
+[sp id=8 'TextBox 7' pct=[41.91, 38.71, 77.28, 41.4] hidden=False]
+    Leak @ 1412m MDDF (MIT Nov 23) 
+[sp id=13 'TextBox 12' pct=[5.33, 27.07, 30.22, 31.11] hidden=False]
+    2.31” Insert Valve @ TRSV. Flapper lock open Oct 2023

@@ -1,0 +1,22 @@
+Page | 18 of 33
+Report Date | 1992-04-30 00:00:00
+Report No | MFL 91184
+Well | DULANG-B12
+Cylinder No | 1209-A & WIB-7417
+ADJUSTMENT OF GAS IN SOLUTION CURVE TO SEPARATOR CONDITIONS
+Separator Temperature °F | 112 | 112 | 112 | 112
+Separator Pressure Psig | 400 | 250 | 150 | 50
+Rsfb | 396 | 391 | 388 | 391
+Rsdb | 410 | 410 | 410 | 410
+Bofb | 1.237 | 1.235 | 1.233 | 1.236
+Bodb | 1.249 | 1.249 | 1.249 | 1.249
+PRESSURE PSIG | Rs | Rs | Rs | Rs
+1668 | 396 | 391 | 388 | 391
+1450 | 343 | 338 | 335 | 338
+1200 | 283 | 278 | 275 | 278
+950 | 222 | 217 | 215 | 217
+700 | 161 | 156 | 154 | 156
+450 | 100 | 95 | 93 | 95
+220 | 43 | 39 | 36 | 39
+105 | 15 | 11 | 8 | 10
+--- OCR ---

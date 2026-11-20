@@ -1,0 +1,88 @@
+# slide 31 (slides/slide31.xml) hidden=False objects=42
+# notes: 'Open\n30'
+[pic id=6168578 'Picture 2' pct=[108.22, 0.0, 147.16, 100.0] hidden=False img=../media/image78.png]
+[sp id=3 'TextBox 2' pct=[111.26, 30.77, 115.15, 35.38] hidden=False]
+    Tag No Go Nipple (25/3/14)
+[graphicFrame id=4 'Table 3' pct=[109.02, 88.46, 123.57, 91.54] hidden=False]
+    | SGS: 26/3/2014 | FGS: -
+[sp id=6 'TextBox 5' pct=[137.65, 15.97, 141.55, 22.9] hidden=False]
+    #1 DV (13/7/13)
+    #3 GLV (18/2/14)
+    #4 DV (12/7/13)
+    #5 GLV (13/7/13)
+    #6 GLOV (18/2/14)
+[sp id=7 'TextBox 6' pct=[111.26, 35.38, 122.51, 40.77] hidden=False]
+    Complete TBCLR, tag XN No Go Nipple
+    @1298mMDTHF ,
+    Tag FL@1030mMDTHF (15/10/2014)
+[sp id=9 'TextBox 8' pct=[110.48, 40.77, 115.15, 45.38] hidden=False]
+    D30S-Complete SGS (16/10/2014)
+[sp id=2 'TextBox 1' pct=[109.22, 91.92, 115.45, 95.77] hidden=False]
+    	Pump 100 bbls sarapar inside well D30S. Perform injectivity test (28/4/2015)
+[sp id=8 'TextBox 7' pct=[109.22, 0.0, 118.61, 2.31] hidden=False]
+    LATEST UPDATE: APRIL 2016
+[sp id=11 'TextBox 10' pct=[141.57, 21.54, 147.19, 25.38] hidden=False]
+    SSD#1 CLOSED 24/3/16
+[sp id=13 'TextBox 12' pct=[141.12, 53.98, 146.74, 57.83] hidden=False]
+    SSD#2 CLOSED 24/3/16
+[sp id=14 'TextBox 13' pct=[141.12, 60.07, 146.74, 63.92] hidden=False]
+    SSD#3 OPEN 24/3/16
+[sp id=15 'TextBox 14' pct=[141.12, 65.38, 146.74, 69.23] hidden=False]
+    SSD#4 OPEN 24/3/16
+[sp id=16 'TextBox 15' pct=[141.12, 71.99, 146.74, 75.84] hidden=False]
+    SSD#5 CLOSED 24/3/16
+[sp id=17 'TextBox 16' pct=[141.12, 82.44, 146.74, 86.29] hidden=False]
+    HUD @ 1456m-MDTHF 1/4/16
+[sp id=10 'TextBox 9' pct=[120.35, 67.69, 124.67, 71.99] hidden=False]
+    CLOSED
+[pic id=18 'Picture 17' pct=[30.41, 0.0, 69.44, 53.07] hidden=False img=../media/image79.png]
+[pic id=19 'Picture 18' pct=[30.4, 52.53, 69.47, 100.0] hidden=False img=../media/image80.png]
+[sp id=24 'Oval 23' pct=[83.55, 2.31, 88.31, 10.77] hidden=False]
+    OP
+[sp id=25 'TextBox 24' pct=[63.22, 61.39, 70.29, 64.32] hidden=False]
+    OPEN (Mar 2016)
+[sp id=27 'TextBox 26' pct=[63.22, 54.81, 66.6, 56.85] hidden=False]
+    CLOSE
+[sp id=28 'TextBox 27' pct=[63.14, 74.83, 66.35, 77.07] hidden=False]
+    CLOSE
+[sp id=29 'TextBox 28' pct=[36.82, 44.97, 40.14, 47.31] hidden=False]
+    OPEN
+[graphicFrame id=32 'Table 31' pct=[3.26, 7.31, 23.88, 22.69] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 |  | 486 |  |  | 
+    | 2 | GLV | 747 |  |  | July 2013
+    | 3 | GLV | 1041 |  |  | July 2013
+    | 4 | DV | 1352 |  |  | July 2013
+    | 5 | DV | 1550 |  |  | July 2013
+[graphicFrame id=33 'Table 32' pct=[74.05, 15.0, 94.67, 30.38] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 |  | 486 |  |  | 
+    | 2 | GLV | 747 |  |  | July 2013
+    | 3 | GLV | 1041 |  |  | July 2013
+    | 4 | DV | 1352 |  |  | July 2013
+    | 5 | DV | 1550 |  |  | July 2013
+[sp id=22 'TextBox 21' pct=[58.04, 17.87, 65.88, 21.47] hidden=False]
+    Storm Choke @ TRSV. TR flapper lock open in 2020. Unable to communicate with CL
+[sp id=47 'TextBox 46' pct=[36.26, 17.87, 40.14, 20.72] hidden=False]
+    2.81” PXX plug set in 2020
+[sp id=52 'TextBox 51' pct=[56.07, 97.24, 72.07, 99.32] hidden=False]
+    Updated Feb 2024 by Pravin Nair
+[sp id=31 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=5 'TextBox 4' pct=[63.1, 82.52, 66.31, 84.76] hidden=False]
+    CLOSE
+[pic id=23 'Graphic 22' pct=[48.7, 66.15, 49.86, 68.21] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=30 'TextBox 29' pct=[51.32, 68.72, 63.14, 70.51] hidden=False]
+    Possible leak @ 1455m MDDF (MIT Aug 2018)
+[sp id=21 'Rectangle 20' pct=[36.29, 41.49, 41.92, 43.24] hidden=False]
+    Sand E6
+[sp id=34 'Rectangle 33' pct=[36.17, 60.62, 41.8, 62.36] hidden=False]
+    Sand E11
+[sp id=35 'Rectangle 34' pct=[36.22, 67.69, 41.85, 69.44] hidden=False]
+    Sand E12
+[sp id=36 'Rectangle 35' pct=[36.27, 74.77, 41.89, 76.52] hidden=False]
+    Sand E13
+[sp id=37 'Rectangle 36' pct=[36.2, 82.53, 41.83, 84.28] hidden=False]
+    Sand E14
+[sp id=38 'TextBox 37' pct=[63.27, 67.4, 70.34, 69.86] hidden=False]
+    OPEN (Mar 2016)

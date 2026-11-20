@@ -1,0 +1,482 @@
+
+###### 82_L_004_DULANG 6G-1_2_PVT Study Report DST 1_Jan 1983.xls
+  [Oireserv] sheet 'SUMMARY RESULTS' cell B7 | cell text | The initial reservoir conditions are
+  [Bo] sheet 'SUMMARY RESULTS' cell B19 | cell text | oil volume factor (bbl/Std bbl) :
+  [Oistock-] sheet 'SAMPLING COND.' cell B26 | cell text | Stock tank temperature
+  [Oistock-] sheet 'TABLE 3' cell B26 | cell text | FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS
+  [Bo] sheet 'TABLE 3' cell B28 | cell text | Shrinkage factor
+  [Oistock-] sheet 'TABLE 3' cell B30 | cell text | Stock tank oil gravity
+  [Oistock-] sheet 'TABLE 13' cell B4 | cell text | FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 26' cell B8 | cell text | I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 26' cell B12 | cell text | Stock Tank oil gravity
+  [Oistock-] sheet 'TABLE 29' cell B7 | cell text | FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 29' cell C11 | cell text | STOCK TANK LIQUID
+  [Oistock-] sheet 'TABLE 29' cell B37 | cell text | Molecular weight of Dodecanes plus in STO
+  [Oistock-] sheet 'TABLE 29' cell B38 | cell text | Gravity of Dodecanes plus in STO
+  [Oireserv] sheet 'TABLE 37' cell C6 | cell text | Relative volume
+  [Bo] sheet 'TABLE 41' cell G6 | cell text | OIL VOLUME FACTOR (2)
+  [Bo] sheet 'TABLE 41' cell I6 | cell text | Shrinkage factor (3)
+  [Oistock-] sheet 'TABLE 41' cell J6 | cell text | STO Gravity
+  [Oistock-] sheet 'TABLE 41' cell C15 | cell text | Gas volume at standard conditions per volume of stock tank oil at 60°F
+  [Oistock-] sheet 'TABLE 41' cell C16 | cell text | Volume of reservoir fluid at saturation pressure ner volume of stock tank oil at 60°F
+  [Oistock-] sheet 'TABLE 41' cell C17 | cell text | Volume of stock tank oil at 60°F per volume of separator liquid at separator conditions
+
+###### 82_L_034 DULANG 6G-1-1B_PVT Study Report DST 4_Sept 1982.xls
+  [Oireserv] sheet 'SUMMARY RESULTS' cell B7 | cell text | The initial reservoir conditions are
+  [Bo] sheet 'SUMMARY RESULTS' cell B19 | cell text | oil volume factor (bbl/Std bbl) :
+  [Oistock-] sheet 'SAMPLING COND.' cell C26 | cell text | Stock tank temperature
+  [Oistock-] sheet 'TABLE 6 & 7' cell B4 | cell text | FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 10' cell C12 | cell text | Stock Tank Liquid
+  [Oistock-] sheet 'TABLE 10' cell B37 | cell text | MOLECULAR WT OF DODECANES PLUS IN STO
+  [Oistock-] sheet 'TABLE 10' cell B38 | cell text | GRAVITY OF DODECANES PLUS IN STO
+  [Oireserv] sheet 'TABLE 12' cell C6 | cell text | Relative Volume
+  [Bo] sheet 'TABLE 13' cell C6 | cell text | Oil volume factor
+  [Bo] sheet 'TABLE 13' cell C6 | cell text | Bo (bbl/Std bbl)
+  [Bo] sheet 'TABLE 13' cell E6 | cell text | Gas volume factor Bg (cu ft/Std cu ft)
+  [Bo] sheet 'TABLE 16' cell G6 | cell text | Formation Vol Factor
+  [Bo] sheet 'TABLE 16' cell I6 | cell text | Shrinkage factor
+  [Oistock-] sheet 'TABLE 16' cell J6 | cell text | STO gravity
+  [Oistock-] sheet 'TABLE 16' cell B14 | cell text | (1) Gas volume at standard conditions per volume of stock tank oil at 60
+  [Oistock-] sheet 'TABLE 16' cell B15 | cell text | (2) Volume of reservoir fluid at saturation pressure per volume of stock tank oil at 60 F
+  [Oistock-] sheet 'TABLE 16' cell B16 | cell text | (3) Volume of stock tank oil at 60 F per volume of separator liquid at separator conditions
+
+###### 82_L_035 DULANG 6G-1-1B_PVT Study Report DST 5_Sept 1982.xls
+  [Oistock-] sheet 'SAMPLING COND.' cell B26 | cell text | Stock tank temperature
+  [Oireserv] sheet 'TABLE 7' cell C6 | cell text | Relative Volume
+  [Oireserv] sheet 'TABLE 7' cell C22 | cell text | - Relative volume was obtainered per rapport at the static pressure
+  [Oistock-] sheet 'TABLE 8' cell B6 | cell text | I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Bo] sheet 'TABLE 8' cell B9 | cell text | Shrinkage factor
+  [Oistock-] sheet 'TABLE 8' cell B11 | cell text | Stock tank oil gravity
+  [Oistock-] sheet 'TABLE 9' cell B3 | cell text | FLASH SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 9' cell C7 | cell text | Stock Tank Liquid
+  [Oistock-] sheet 'TABLE 9' cell B34 | cell text | Molecular weight of Dodecanes plus in STO: 209
+
+###### 83_L_005_DULANG 6G-1_2_PVT Study Report DST 2_Jan 1983.xls
+  [Oireserv] sheet 'SAMPLE SUMMARY' cell B13 | cell text | The initial reservoir conditions are :
+  [Bo] sheet 'SAMPLE SUMMARY' cell B22 | cell text | oil volume factor (bbl/std bbl) :
+  [Oistock-] sheet 'SAMPLE SUMMARY (2)' cell B29 | cell text | Stock tank temperature
+  [Oistock-] sheet 'BUBBLE POINT PRESSURE  2387-8' cell C28 | cell text | FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Bo] sheet 'BUBBLE POINT PRESSURE  2387-8' cell C30 | cell text | Shrinkage factor
+  [Oistock-] sheet 'BUBBLE POINT PRESSURE  2387-8' cell C32 | cell text | Stock tank oil gravity
+  [Oistock-] sheet 'BUBBLE POINT PRESSURE 20524-189' cell C30 | cell text | FLASH OF BOTTOM HOLE SAMPLE TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'STO A12137 9214-124' cell L10 | cell text | Stock Tank Liquid
+  [Oistock-] sheet 'STO A12137 9214-124' cell C15 | cell text | 1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Bo] sheet 'STO A12137 9214-124' cell C17 | cell text | Shrinkage factor :
+  [Oistock-] sheet 'STO A12137 9214-124' cell C19 | cell text | Stock tank oil gravity:
+  [Oistock-] sheet 'STO A12137 9214-124' cell J35 | cell text | Molecular weight of Dodecanes plus in STO:
+  [Oistock-] sheet 'STO A12137 9214-124' cell J36 | cell text | Gravity of Dodecanes plus in STO :
+  [Bo] picture image3.png (used in drawing2.xml) | OCR | Bobs ashd" sand sb0n Boon een
+
+###### 83_L_006_DULANG 6G-1_2_PVT Study Report DST 3_Apr 1983.xls
+  [Oistock-] sheet 'SAMPLING COND.' cell B29 | cell text | Stock tank temperature
+  [Oistock-] sheet 'TABLE 2 & 3' cell B39 | cell text | FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS
+  [Bo] sheet 'TABLE 2 & 3' cell B41 | cell text | Shrinkage factor
+  [Oistock-] sheet 'TABLE 2 & 3' cell B43 | cell text | Stock tank oil gravity
+  [Oistock-] sheet 'TABLE 13 & 14' cell B4 | cell text | FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 26' cell B8 | cell text | I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 26' cell B12 | cell text | Stock Tank oil gravity
+  [Oistock-] sheet 'TABLE 29' cell B7 | cell text | FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS
+  [Oistock-] sheet 'TABLE 29' cell C11 | cell text | STOCK TANK LIQUID
+  [Oistock-] sheet 'TABLE 29' cell B37 | cell text | Molecular weight of Dodecanes plus in STO
+  [Oistock-] sheet 'TABLE 29' cell B38 | cell text | Gravity of Dodecanes plus in STO
+
+###### MFL 20100151_DULANG-A14_Reservoir Fluid Study Rev_0_Feb 2011.xls
+  [Oistock-] sheet 'Contents' cell C51 | cell text | Water Analysis Data - Stock Tank Sample (sample collected at 18:30 hrs)
+  [Oistock-] sheet 'Contents' cell C53 | cell text | Water Analysis Data - Stock Tank Sample (sample collected at 18:00 hrs)
+  [Bo] sheet 'D.1' cell F24 | cell text | Shrinkage factor
+  [Oistock-] sheet 'D.1' cell F26 | cell text | Stocktank oil flow rate
+  [Oistock-] sheet 'D.1' cell F43 | cell text | Separator Oil Flow Rate
+  [Oireserv] sheet 'F.1' cell B62 | cell text | (1) Relative Volume = V / Vsat ie. volume at indicated pressure per volume at dew point pressure.
+  [Bo] text box on 'A.1' | text box | Shrinkage Measurement
+  [Bo] text box on 'A.1' | text box | The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktan
+  [Oireserv] text box on 'A.1' | text box | The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktan
+  [Oistock-] text box on 'A.1' | text box | The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktan
+  [Bo] text box on 'A.1' | text box | Since the separator condensate sample was collected at separator temperature below the ambient laboratory temperature, the partial
+  [Oireserv] text box on 'A.1' | text box | Since the separator condensate sample was collected at separator temperature below the ambient laboratory temperature, the partial
+  [Oireserv] text box on 'A.1' | text box | The deviation factor, Z, was determined by pumping known volumes of the fluid from the PVT cell at 5000 psig and measuring the gas
+
+###### MFL 20110028_DULANG-A25_Reservoir Fluid Study_Jul 2011.xls
+  [Oistock-] sheet 'Contents' cell C22 | cell text | Compositional Analysis of Stock Tank Oil Sample from B14
+  [Oistock-] sheet 'Contents' cell C24 | cell text | Compositional Analysis of Stock Tank Oil Sample from D26S
+  [Oistock-] sheet 'Contents' cell C34 | cell text | Basic Properties Data for Stock Tank Oil Samples from B14 & D26S
+  [Oistock-] sheet 'C.1' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.1' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.3' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from D26S
+  [Oistock-] sheet 'C.3' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from D26S
+  [Oistock-] sheet 'D.1' cell B8 | cell text | Basic Properties Data for Stock Tank Oil Samples
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+  [Oistock-] text box on 'Letter' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from
+  [Oistock-] text box on 'A.1' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dul
+  [Oistock-] text box on 'A.1' | text box | Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses.
+  [Oistock-] text box on 'A.1' | text box | The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-colu
+
+###### MFL 20110028_DULANG-A25_SAMPLE INFORMATION (DO No_ 127750).xls
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+
+###### MFL 20110028_DULANG-B14_Reservoir Fluid Study_Jul 2011.xls
+  [Oistock-] sheet 'Contents' cell C22 | cell text | Compositional Analysis of Stock Tank Oil Sample from B14
+  [Oistock-] sheet 'Contents' cell C24 | cell text | Compositional Analysis of Stock Tank Oil Sample from D26S
+  [Oistock-] sheet 'Contents' cell C34 | cell text | Basic Properties Data for Stock Tank Oil Samples from B14 & D26S
+  [Oistock-] sheet 'C.1' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.1' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.3' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from D26S
+  [Oistock-] sheet 'C.3' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from D26S
+  [Oistock-] sheet 'D.1' cell B8 | cell text | Basic Properties Data for Stock Tank Oil Samples
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+  [Oistock-] text box on 'Letter' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from
+  [Oistock-] text box on 'A.1' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dul
+  [Oistock-] text box on 'A.1' | text box | Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses.
+  [Oistock-] text box on 'A.1' | text box | The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-colu
+
+###### MFL 20110028_DULANG-B14_SAMPLE INFORMATION (DO No_ 127750).xls
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+
+###### MFL 20110028_DULANG-D26_Reservoir Fluid Study_Jul 2011.xls
+  [Oistock-] sheet 'Contents' cell C22 | cell text | Compositional Analysis of Stock Tank Oil Sample from B14
+  [Oistock-] sheet 'Contents' cell C24 | cell text | Compositional Analysis of Stock Tank Oil Sample from D26S
+  [Oistock-] sheet 'Contents' cell C34 | cell text | Basic Properties Data for Stock Tank Oil Samples from B14 & D26S
+  [Oistock-] sheet 'C.1' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.1' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from B14
+  [Oistock-] sheet 'C.3' cell B8 | cell text | Compositional Analysis of Stock Tank Oil from D26S
+  [Oistock-] sheet 'C.3' cell N8 | cell text | Chromatographic Profile of Stock Tank Oil from D26S
+  [Oistock-] sheet 'D.1' cell B8 | cell text | Basic Properties Data for Stock Tank Oil Samples
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+  [Oistock-] text box on 'Letter' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from
+  [Oistock-] text box on 'A.1' | text box | Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dul
+  [Oistock-] text box on 'A.1' | text box | Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses.
+  [Oistock-] text box on 'A.1' | text box | The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-colu
+
+###### MFL 20110028_DULANG-D26_SAMPLE INFORMATION (DO No_ 127750).xls
+  [Oistock-] sheet 'Sample Info' cell C34 | cell text | STOCK TANK
+
+###### MFL 20120023_DULANG-B21_Reservoir Fluid Study_OCT 2012.xls
+  [Bo] sheet 'A.1' cell AN24 | cell text | Relative oil volume at saturation pressure, Bod (2)
+  [Oireserv] sheet 'A.1' cell AN24 | cell text | Relative oil volume at saturation pressure, Bod (2)
+  [Oistock-] sheet 'A.1' cell AS34 | cell text | Stocktank Oil
+  [Bo] sheet 'A.1' cell AR35 | cell text | Volume Factor
+  [Bo] sheet 'A.1' cell AR36 | cell text | (bofb)
+  [Oistock-] sheet 'A.1' cell AN58 | cell text | (1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank liquid at 60 oF
+  [Oistock-] sheet 'A.1' cell AN59 | cell text | (2) Volume of saturated fluid at 1100 psig and 206°F per volume of stocktank liquid at 60 °F
+  [Oireserv] sheet 'D.1' cell K63 | cell text | (1) Relative Volume = V / Vsat ie. volume at indicated pressure per volume at saturation pressure.
+  [Oireserv] sheet 'D.1' cell K65 | cell text | (3) Y-function = (Psat - P ) / ((Pabs)(V/Vsat - 1)).
+  [Bo] sheet 'E.1' cell E14 | cell text | Bod(2)
+  [Bo] sheet 'E.1' cell AU14 | cell text | Bo(1)
+  [Oireserv] sheet 'E.1' cell M39 | cell text | Relative Oil Volume v Pressure
+  [Bo] sheet 'E.1' cell AQ50 | cell text | Rs = Rsfb - (Rsdb - Rsd) x (Bofb / Bodb)
+  [Bo] sheet 'E.1' cell AQ52 | cell text | Bo = Bod x (Bofb/Bodb)
+  [Oistock-] sheet 'E.1' cell B62 | cell text | (1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F.
+  [Oireserv] sheet 'E.1' cell B63 | cell text | (2) Volume of oil at indicated pressure and temperature per volume of residual oil at 60°F.
+  [Oistock-] sheet 'E.1' cell B63 | cell text | (2) Volume of oil at indicated pressure and temperature per volume of residual oil at 60°F.
+  [Oistock-] sheet 'E.1' cell B64 | cell text | (3) Volume of oil plus liberated gas at indicated pressure and temperature per volume of residual oil at 60°F.
+  [Oistock-] sheet 'G.1' cell U7 | cell text | Compositional Analysis of Stocktank Oil to C36+
+  [Bo] sheet 'G.1' cell H14 | cell text | Bofb (3)
+  [Oistock-] sheet 'G.1' cell B63 | cell text | (2) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank oil at 60°F.
+  [Oireserv] sheet 'G.1' cell B64 | cell text | (3) Volume of saturated oil at 1100 psig and 206°F per volume of stocktank oil at 60°F.
+  [Oistock-] sheet 'G.1' cell B64 | cell text | (3) Volume of saturated oil at 1100 psig and 206°F per volume of stocktank oil at 60°F.
+  [Oireserv] sheet 'G.1' cell B65 | cell text | (4) Volume of oil at indicated pressure and temperature per volume of stocktank oil at 60°F.
+  [Oistock-] sheet 'G.1' cell B65 | cell text | (4) Volume of oil at indicated pressure and temperature per volume of stocktank oil at 60°F.
+  [Oistock-] text box on 'A.1' | text box | The residue or stocktank liquid whole sample molecular weight and density are measured using a cryette and PAAR densitometer respe
+  [Oistock-] text box on 'A.1' | text box | Dynamic viscosity measurements were performed on both stock tank oil and live crude as per instructions by a represantative from H
+  [Bo] text box on 'E.1' | text box | Bofb = Formation Volume Factor from separator test.
+  [Bo] text box on 'E.1' | text box | Bodb = Relative Oil Volume for oil remaining from differential vaporisation.
+  [Oireserv] text box on 'E.1' | text box | Bodb = Relative Oil Volume for oil remaining from differential vaporisation.
+  [Bo] text box on 'E.1' | text box | Bo = FVF/ Relative Oil Volume.
+  [Oireserv] text box on 'E.1' | text box | Bo = FVF/ Relative Oil Volume.
+  [Bo] text box on 'E.1' | text box | Bod = Relative Oil Volume from differential vaporisation.
+  [Oireserv] text box on 'E.1' | text box | Bod = Relative Oil Volume from differential vaporisation.
+  [Oireserv] embedded picture 7 (emf) | EMF native tex | Relative Oil Volume (V/Vr)
+
+###### MFL 20130041_DULANG-D32_Water Analysis_May 2013.xls
+  [Oireserv] sheet 'B.1' cell E10 | cell text | Reservoir Conditions
+
+###### MFL 91184_DULANG-B12_Reservoir Fluid Study_Apr 1992.docx
+  [Oireserv] word/header18.xml paragraph 1 | document text | Page # of 33File MFL 91184Page # of 33File MFL 91184Company: Petronas Carigali Sdn BhdWell : Dulang B-12Company: Petronas Carigali
+  [Oireserv] word/header18.xml paragraph 10 | document text | ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS
+  [Oistock-] word/document.xml paragraph 110 | document text | Separator Test 15 Hydrocarbon Analysis of Stock Tank Oil from Single Stage Separator test 16 Nomenclature and Equations to Adjust 
+  [Oireserv] word/document.xml paragraph 117 | document text | Compressibility of Saturated Oil20
+  [Oireserv] word/document.xml paragraph 120 | document text | Relative Oil Volume26
+  [Oireserv] word/document.xml paragraph 121 | document text | Adjustment of Relative Oil Volume27-30
+  [Bo] word/document.xml paragraph 158 | document text | Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The flu
+  [Oireserv] word/document.xml paragraph 158 | document text | Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The flu
+  [Oistock-] word/document.xml paragraph 158 | document text | Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The flu
+  [Oireserv] word/document.xml paragraph 159 | document text | The gas in solution and oil relative volume data obtained from the differential pressure depletion study has been adjusted to sepa
+  [Bo] word/document.xml paragraph 164 | document text | The reservoir fluid was subjected to a series of single-stage separator test at 112°F to determine the effect of separator pressur
+  [Oistock-] word/document.xml paragraph 164 | document text | The reservoir fluid was subjected to a series of single-stage separator test at 112°F to determine the effect of separator pressur
+  [Oistock-] word/document.xml paragraph 166 | document text | The stock tank liquid obtained from the single stage separator tests were analysed to heptanes plus and are reported on pages sixt
+  [Oireserv] word/document.xml paragraph 193 | document text | Reservoir Conditions:
+  [Oireserv] word/document.xml paragraph 235 | document text | Relative Volume at Reservoir Pressure of 1668 PSIG = 1.0000
+  [Oistock-] word/document.xml paragraph 237 | document text | Rsdb: Solution Gas/Oil ratio at 1668 psig and 200*F = 410 standard cubic feet of gas at 14.73 psia and 60*F per barrel of residual
+  [Bo] word/document.xml paragraph 238 | document text | Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60"F.
+  [Oireserv] word/document.xml paragraph 238 | document text | Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60"F.
+  [Oistock-] word/document.xml paragraph 238 | document text | Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60"F.
+  [Oistock-] word/document.xml paragraph 250 | document text | Tank Oil Gravity
+  [Bo] word/document.xml paragraph 252 | document text | Bofb(l)
+  [Oistock-] word/document.xml paragraph 275 | document text | barrel of stock tank oil at 60’F.
+  [Oistock-] word/document.xml paragraph 276 | document text | (2) Total Solution Gas/Oil Ratio,total standard cubic feet of gas at 14.73 psia and 60’F per barrel of stock tank oil at 60’F.
+  [Oireserv] word/document.xml paragraph 677 | document text | (1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] word/document.xml paragraph 741 | document text | Specific volume at saturation pressure: ft3/lb = 0.02136
+  [Oireserv] word/document.xml paragraph 742 | document text | Compressibility of saturated oil @ reservoir temperature:
+  [Oireserv] word/document.xml paragraph 839 | document text | Relative Volume : V/Vsat is barrels at indicated pressure per barrel at
+  [Oireserv] word/document.xml paragraph 842 | document text | (Pabs) (V/Vsat-1)
+  [Oistock-] word/document.xml paragraph 1465 | document text | Tank Oil
+  [Oistock-] word/document.xml paragraph 1592 | document text | Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60*F per barrel of stock tank oil at 60*F.
+  [Bo] word/document.xml paragraph 1593 | document text | Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F.
+  [Oireserv] word/document.xml paragraph 1593 | document text | Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F.
+  [Oistock-] word/document.xml paragraph 1593 | document text | Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F.
+  [Bo] word/document.xml paragraph 1594 | document text | Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60#F.
+  [Oistock-] word/document.xml paragraph 1594 | document text | Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60#F.
+  [Oistock-] word/document.xml paragraph 1787 | document text | HYDROCARBON ANALYSES OF STOCK TANK OIL FROM SINGLE STAGE SEPARATOR TEST
+  [Bo] word/document.xml paragraph 1969 | document text | Bo = Oil Formation Volume Factor.
+  [Bo] word/document.xml paragraph 1970 | document text | Bob = The Value for Bo at saturation pressure.
+  [Bo] word/document.xml paragraph 1971 | document text | Bofb = Formation Volume Factor from field conditions (or optimum) separator flash test.
+  [Bo] word/document.xml paragraph 1972 | document text | Bod = Relative Oil Volume from differential vaporization test. Bodb = Value of Bod at saturation pressure.
+  [Oireserv] word/document.xml paragraph 1972 | document text | Bod = Relative Oil Volume from differential vaporization test. Bodb = Value of Bod at saturation pressure.
+  [Oireserv] word/document.xml paragraph 1973 | document text | RV = Relative Volume from pressure-volume relations test.
+  [Bo] word/document.xml paragraph 1974 | document text | For Bo above saturation pressure:
+  [Bo] word/document.xml paragraph 1975 | document text | Bo = R.V. x Bofb
+  [Bo] word/document.xml paragraph 1976 | document text | For Bo below saturation pressure:
+  [Bo] word/document.xml paragraph 1977 | document text | Bofb
+  [Bo] word/document.xml paragraph 1978 | document text | Bo = Bod
+  [Bo] word/document.xml paragraph 1979 | document text | Bodb
+  [Bo] word/document.xml paragraph 1980 | document text | BT = Two-Phase Formation Volume Factor.
+  [Oistock-] word/document.xml paragraph 1986 | document text | Rs = Gas in solution, standard cubic feet per barrel of stock tank oil.
+  [Oistock-] word/document.xml paragraph 1987 | document text | Rsfb = Sum of separator gas and the stock tank gas from field conditions(or optimum) separator flash test,standard cubic feet per 
+  [Bo] word/document.xml paragraph 1992 | document text | Bodb,
+  [Bo] word/document.xml paragraph 1994 | document text | GFV = Gas Formation Volume Factor from differential vaporization test.
+  [Bo] word/document.xml paragraph 2010 | document text | Bofb:1.237
+  [Bo] word/document.xml paragraph 2011 | document text | Bodb':1.249
+  [Bo] word/document.xml paragraph 2080 | document text | Bo = Bod ()
+  [Bo] word/document.xml paragraph 2092 | document text | Bofb:
+  [Bo] word/document.xml paragraph 2097 | document text | Bodb:
+  [Bo] word/document.xml paragraph 2104 | document text | Bo
+  [Oireserv] word/document.xml paragraph 2151 | document text | COMPRESSIBILITY OF SATURATED OIL AT 200-F
+  [Oistock-] word/document.xml paragraph 2230 | document text | SOLUTION GOR, SCF/STB
+  [Oistock-] word/document.xml paragraph 2271 | document text | SOLUTION GOR. SCF/STBSOLUTION GOR. SCF/STB0025025050050075010001250150017507501000125015001750
+  [Oistock-] word/document.xml paragraph 2272 | document text | SOLUTION GOR. SCF/STB
+  [Oireserv] word/document.xml paragraph 2292 | document text | RELATIVE OIL VOLUME DURING DIFFERENTIAL VAPORIZATION
+  [Oireserv] word/document.xml paragraph 2293 | document text | RELATIVE OIL VOLUME, V/Vr
+  [Oireserv] word/document.xml paragraph 2331 | document text | RELATIVE OIL VOLUME. V/VstRELATIVE OIL VOLUME. V/VstPRESSURE, PSIGPRESSURE, PSIG
+  [Oireserv] word/document.xml paragraph 2332 | document text | RELATIVE OIL VOLUME. V/Vst
+  [Oireserv] word/document.xml paragraph 2337 | document text | RELATIVE OIL VOLUME, V/VstRELATIVE OIL VOLUME, V/VstPRESSURE, PSIGPRESSURE, PSIG
+  [Oireserv] word/document.xml paragraph 2338 | document text | RELATIVE OIL VOLUME, V/Vst
+  [Oireserv] word/document.xml paragraph 2343 | document text | RELATIVE OIL VOLUME. V/VstRELATIVE OIL VOLUME. V/VstADJUSTMENT OF RELATIVE OIL VOLUME CURVE TOADJUSTMENT OF RELATIVE OIL VOLUME CU
+  [Oireserv] word/document.xml paragraph 2346 | document text | ADJUSTMENT OF RELATIVE OIL VOLUME CURVE TO
+  [Oistock-] word/document.xml paragraph 2442 | document text | GAS OIL RATIO, SCF/STB
+  [Bo] word/document.xml paragraph 2546 | document text | COPIES : TONY KENNAIRD/ BOB HELLER/
+  [Oistock-] word/document.xml paragraph 2550 | document text | B.B.CylinderNumberCylinderNumberSampleTypeSampleTypeSampling ConditionSampling ConditionOpening PressureOpening PressureBubble Poi
+  [Oistock-] word/document.xml paragraph 2565 | document text | Separator Gas Separator Gas Separator Oil Separator Oil
+  [Bo] word/document.xml paragraph 2837 | document text | FILE REF : MFL 91184FAX REF : RFL/075/92COPIES : BOB HELLERTONYKENNAIRDFILE REF : MFL 91184FAX REF : RFL/075/92COPIES : BOB HELLER
+  [Bo] word/document.xml paragraph 2840 | document text | COPIES : BOB HELLER
+  [Oistock-] word/document.xml paragraph 2917 | document text | Assuming the separator liquid bubblepoint pressure has been altered, the separator gas was used to saturate the separator liquid a
+  [Oireserv] word/document.xml paragraph 2918 | document text | Please review the findings of our investigation and advise us of your decision regarding the remaining PVT work. Please forward yo
+  [Bo] picture image10.png (used in document.xml) | OCR | Ra=Rate—(Feco—Ree) Bo te
+  [Oistock-] picture image11.png (used in document.xml) | OCR | SOLUTTON GOR, SCF/STB
+  [Oireserv] picture image15.png (used in document.xml) | OCR | ADJUSTMENT -OF RELATIVE OIL VOLUME CURVE [OQ
+  [Bo] picture image15.png (used in document.xml) | OCR | Beet Bo =B eth WITT
+  [Bo] picture image18.png (used in document.xml) | OCR | BELSRESEE SUBAREA REGREERES! o = Bod B HUSTUESRASCESLATASGRESREEE
+  [Oistock-] picture image21.png (used in document.xml) | OCR | <— STOCK TANK
+
+###### MFL 91184_DULANG-B12_Reservoir Fluid Study_Apr 1992.xlsx
+  [Oireserv] sheet 'PARTIAL CCE' cell C10 | cell text | Relative Volume
+  [Oireserv] sheet 'PARTIAL CCE' cell B40 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'CCE' cell B12 | cell text | 3. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI
+  [Oireserv] sheet 'CCE' cell H41 | cell text | (2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1).
+  [Oireserv] sheet 'DVT at 200°F' cell D10 | cell text | Relative Oil Volume
+  [Bo] sheet 'DVT at 200°F' cell H10 | cell text | Gas Formation Volume Factor
+  [Oistock-] sheet 'DVT at 200°F' cell B24 | cell text | 1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT at 200°F' cell B25 | cell text | 2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'DVT at 200°F' cell B26 | cell text | 3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'Single Stage Separator Test' cell F12 | cell text | TanK Oil Gravity °API @ 60°F
+  [Bo] sheet 'Single Stage Separator Test' cell G12 | cell text | Formation Vol Factor (Bofb)
+  [Bo] sheet 'Single Stage Separator Test' cell H12 | cell text | Separation Vol. Factor
+  [Oistock-] sheet 'Single Stage Separator Test' cell B31 | cell text | (2)           Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'Single Stage Separator Test' cell B32 | cell text | (3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F.
+  [Oireserv] sheet 'Single Stage Separator Test' cell B32 | cell text | (3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'Single Stage Separator Test' cell B32 | cell text | (3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'Single Stage Separator Test' cell B33 | cell text | (4)           Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+  [Oistock-] sheet 'Single Stage Separator Test' cell B33 | cell text | (4)           Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+  [Oistock-] sheet 'Stock Tank Oil CA' cell B7 | cell text | HYDROCARBON ANALYSES OF STOCK TANK OIL FROM SINGLE STAGE SEPARATOR TEST
+  [Bo] sheet 'Adjustment Gas' cell B13 | cell text | Bofb
+  [Bo] sheet 'Adjustment Gas' cell B14 | cell text | Bodb
+  [Oireserv] sheet 'Adjustment Oil' cell B8 | cell text | ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS
+  [Bo] sheet 'Adjustment Oil' cell C14 | cell text | Bo
+
+###### PRSS-LS-99-1_DULANG-B21_Reservoir Fluids Study_Mar 1999.xls
+  [Oistock-] sheet 'QC SEPARATOR SAMPLES' cell C9 | cell text | SEPARATOR OIL
+  [Oistock-] sheet 'CA (TABLE 3)' cell D8 | cell text | COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION
+  [Oistock-] sheet 'EXP&THEORITICAL (TABLE 4)' cell B3 | cell text | EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES
+
+###### SFL 82033_DULANG-1_Partial Reservoir Fluids Study Test 1_14 June 1982.xls
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell C5 | cell text | RELATIVE VOLUME
+
+###### SFL 82034_DULANG-1_Reservoir Fluids Study Test 2_26 July 1982.xls
+  [Oireserv] sheet 'VOL. METRIC DATA OF RESV.' cell B6 | cell text | 3. Thermal expansion of saturated oil
+  [Oireserv] sheet 'VOL. METRIC DATA OF RESV.' cell B9 | cell text | 4. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI
+  [Oireserv] sheet 'VOL. METRIC DATA OF RESV.' cell C18 | cell text | RELATIVE VOLUME (1)
+  [Oireserv] sheet 'VOL. METRIC DATA OF RESV.' cell B41 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'VOL. METRIC DATA OF RESV.' cell B42 | cell text | (2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1).
+  [Oireserv] sheet 'DVT at 218 °F ' cell D5 | cell text | Relative Oil Volume
+  [Bo] sheet 'DVT at 218 °F ' cell H5 | cell text | Gas Formation Volume Factor
+  [Oistock-] sheet 'DVT at 218 °F ' cell B19 | cell text | 1. Cubic feet of gas at 14.65 psia and 60°F. per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT at 218 °F ' cell B20 | cell text | 2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'DVT at 218 °F ' cell B21 | cell text | 3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'SINGLE SEPARATOR TEST' cell F5 | cell text | Tank Oil Gravity °API @ 60°F
+  [Bo] sheet 'SINGLE SEPARATOR TEST' cell G5 | cell text | Formation Vol Factor (3)
+  [Bo] sheet 'SINGLE SEPARATOR TEST' cell H5 | cell text | Separation Vol. Factor (4)
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B16 | cell text | 2. Gas/Oil Ratio in cubic feet of gas at 14.65 and 60 F. per barrel of stock tank oil at 60 F.
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell B17 | cell text | 3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F.
+  [Oireserv] sheet 'MULTI SEPARATOR TEST' cell B17 | cell text | 3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B17 | cell text | 3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell B18 | cell text | 4. Separator Volume Factor is barrels of oil at at indicated pressure and temperature per barrel of stock tank oil at 60 F
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B18 | cell text | 4. Separator Volume Factor is barrels of oil at at indicated pressure and temperature per barrel of stock tank oil at 60 F
+
+###### SFL 82035_DULANG-1_Compositional Analysis to Undecanes Plus_26 July 1982.xls
+  [Oistock-] sheet 'SEPARATOR GAS SAMPLES' cell B42 | cell text | *Primary separator gas/separator oil ratio is 342 SCF/Bbl at 148 °F
+
+###### SFL 82055_DULANG-3_Compositional Analysis & Bubble Point Determination_24 Aug 1982.xls
+  [Oireserv] sheet 'Page 4' cell E6 | cell text | Relative Volume (1)
+  [Oireserv] sheet 'Page 4' cell B17 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+
+###### SFL 82056A_DULANG-3_Compositional Analysis To Undecanes Plus Test 1_26 Nov 1982.xls
+  [Oistock-] sheet 'Page 1' cell B44 | cell text | Field Stock Tank Liquid Gravity
+  [Oireserv] sheet 'Page 6' cell F6 | cell text | Relative Volume (1)
+  [Oireserv] sheet 'Page 6' cell B28 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+
+###### SFL 82056_DULANG-3_Reservoir Fluid Study Test 1_10 Sept 1982.xls
+  [Oistock-] sheet 'Page 1' cell B44 | cell text | Field Stock Tank Liquid Gravity
+  [Oireserv] sheet 'Page 4' cell F6 | cell text | Relative Volume (1)
+  [Oireserv] sheet 'Page 4' cell B28 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'Page 5 ' cell B6 | cell text | 2.Specific volume at saturation pressure: ft 2/lb
+  [Oireserv] sheet 'Page 5 ' cell B8 | cell text | 3. Thermal expension of saturated oil @ 5000 PSIG =
+  [Oireserv] sheet 'Page 5 ' cell B11 | cell text | 4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI:
+  [Oireserv] sheet 'Page 6' cell D35 | cell text | (Pabs) (V/Vsat-1)
+  [Oistock-] sheet 'Page 7' cell F4 | cell text | Tank Oil Gravity
+  [Bo] sheet 'Page 7' cell G4 | cell text | Formation Volume Factor (3)
+  [Bo] sheet 'Page 7' cell H4 | cell text | Separation Volume Factor (4)
+  [Oistock-] sheet 'Page 7' cell B16 | cell text | (2) Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F
+  [Bo] sheet 'Page 7' cell B17 | cell text | (3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F
+  [Oireserv] sheet 'Page 7' cell B17 | cell text | (3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F
+  [Oistock-] sheet 'Page 7' cell B17 | cell text | (3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F
+  [Bo] sheet 'Page 7' cell B18 | cell text | (4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+  [Oireserv] sheet 'Page 7' cell B18 | cell text | (4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+  [Oistock-] sheet 'Page 7' cell B18 | cell text | (4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F
+  [Oistock-] sheet 'Page 8' cell B23 | cell text | (1) Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F
+  [Oistock-] sheet 'Page 8' cell B24 | cell text | (2) Barrels of oiI at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'Page 8' cell B25 | cell text | (3) Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'Page 11' cell F6 | cell text | Tank Oil Gravity °API @ 60°F
+  [Bo] sheet 'Page 11' cell H6 | cell text | Separator Volume Factor (4)
+
+###### SFL 82141_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 5_3 Dec 1982.xls
+  [Oireserv] sheet 'PAGE 4 of 4' cell E6 | cell text | Relative Volume
+
+###### SFL 82142_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 4_22 Dec 1982.xls
+  [Oireserv] sheet 'Relative Volume 9024-37' cell D12 | cell text | Relative Volume (1)
+  [Oireserv] sheet 'Relative Volume 9024-37' cell C34 | cell text | 1) Relative Volume:V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] sheet 'COMPRESSIBILITY FACTOR' cell C11 | cell text | 2. Specific volume at saturation pressure : ft 3/lb
+  [Oireserv] sheet 'COMPRESSIBILITY FACTOR' cell C12 | cell text | 3. Thermal expansion of saturated oil @
+  [Oireserv] sheet 'COMPRESSIBILITY FACTOR' cell C13 | cell text | 4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI:
+  [Oireserv] sheet 'CCE 196°F' cell D40 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] sheet 'CCE 196°F' cell D41 | cell text | (2) Y Function = (Psat-P)/(Pabs)(V/Vsat-l)
+  [Oireserv] sheet 'DVT 196°F' cell E10 | cell text | Relative Oil Volume (2)
+  [Oireserv] sheet 'DVT 196°F' cell F10 | cell text | Relative Oil Volume (3)
+  [Bo] sheet 'DVT 196°F' cell I10 | cell text | Gas Formation Volume Factor(4)
+  [Oistock-] sheet 'DVT 196°F' cell D26 | cell text | Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT 196°F' cell D27 | cell text | Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT 196°F' cell D28 | cell text | Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'SEPARATOR TEST' cell G11 | cell text | Tank Oil Gravity °API @ 60°F
+  [Oistock-] sheet 'SEPARATOR TEST' cell C31 | cell text | 2) Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'SEPARATOR TEST' cell C32 | cell text | 3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F.
+  [Oireserv] sheet 'SEPARATOR TEST' cell C32 | cell text | 3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'SEPARATOR TEST' cell C32 | cell text | 3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'SEPARATOR TEST' cell C33 | cell text | 4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'SEPARATOR TEST' cell C33 | cell text | 4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F.
+
+###### SFL 82143_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 3_12 Jan 1983.xls
+  [Oireserv] sheet 'PAGE 4 of 13' cell E5 | cell text | Relative Volume
+  [Oireserv] sheet 'PAGE 4 of 13' cell B29 | cell text | 1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] sheet 'PAGE 5 of 13' cell B9 | cell text | Specific volume at saturation pressure :
+  [Oireserv] sheet 'PAGE 5 of 13' cell B11 | cell text | Thermal expansion of saturated oil @
+  [Oireserv] sheet 'PAGE 5 of 13' cell B14 | cell text | Compressibility of saturated oil
+  [Oireserv] sheet 'PAGE 6 of 13' cell C35 | cell text | (1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'PAGE 6 of 13' cell E38 | cell text | (Pabs)(V/Vsat-1)
+  [Oistock-] sheet 'PAGE 9 of 13' cell F5 | cell text | Tank Oil
+  [Bo] sheet 'PAGE 9 of 13' cell G5 | cell text | Formation Volume Factor (3)
+  [Bo] sheet 'PAGE 9 of 13' cell H5 | cell text | Separator Volume Factor (4)
+  [Oistock-] sheet 'PAGE 9 of 13' cell B24 | cell text | (2)              Gas/Oil in cubic feet of gas at 14.73 psia and 60°F. per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'PAGE 9 of 13' cell B25 | cell text | (3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F.
+  [Oireserv] sheet 'PAGE 9 of 13' cell B25 | cell text | (3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F.
+  [Oistock-] sheet 'PAGE 9 of 13' cell B25 | cell text | (3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F.
+  [Bo] sheet 'PAGE 9 of 13' cell B26 | cell text | (4)              Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank at 60 F.
+  [Oistock-] sheet 'PAGE 9 of 13' cell B26 | cell text | (4)              Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank at 60 F.
+
+###### SFL 82144_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 2 2_7 Dec 1982.xls
+  [Oireserv] sheet 'PAGE 4 of 4' cell E5 | cell text | Relative Volume
+  [Oireserv] sheet 'PAGE 4 of 4' cell B29 | cell text | 1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+
+###### SFL 82145_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 4_3 Dec 1982.xls
+  [Oireserv] sheet 'PAGE 4 of 5' cell B7 | cell text | 2. Specific volume at saturation pressure:
+  [Oireserv] sheet 'PAGE 4 of 5' cell B9 | cell text | 3. Thermal expansion of saturated oil
+  [Oireserv] sheet 'PAGE 4 of 5' cell B12 | cell text | 4. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI:
+  [Oireserv] sheet 'PAGE 5 of 5' cell E5 | cell text | Relative Volume
+  [Oireserv] sheet 'PAGE 5 of 5' cell B29 | cell text | 1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] sheet 'PAGE 5 of 5' cell D32 | cell text | (Pabs)(V/Vsat-l)
+
+###### SFL 82146_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 3_3 Dec 1982.xls
+  [Oireserv] sheet 'PAGE 4 of 4' cell E5 | cell text | Relative Volume
+  [Oireserv] sheet 'PAGE 4 of 4' cell B29 | cell text | 1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure.
+  [Oireserv] sheet 'PAGE 4 of 4' cell B31 | cell text | (2) Y Function « (Psat-P) (Pabs)(V/Vsat-l)
+
+###### SFL 86024_86025_DULANG-5_Reservoir Fluid Study Test 1 E-14_16 July 1986.xls
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell B17 | cell text | 2. Specific volume at saturation pressure: ft3/lb
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell B18 | cell text | 3. Compressibility of saturated oil at reservoir temperature
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell C29 | cell text | RELATIVE VOLUME (1)
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell B58 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 218F' cell B59 | cell text | (2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1).
+  [Oireserv] sheet 'DVT at 211 °F ' cell D5 | cell text | Relative Oil Volume
+  [Bo] sheet 'DVT at 211 °F ' cell H5 | cell text | Gas Formation Volume Factor
+  [Oistock-] sheet 'DVT at 211 °F ' cell B18 | cell text | 1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT at 211 °F ' cell B19 | cell text | 2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'DVT at 211 °F ' cell B20 | cell text | 3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'ATMOSPHERIC RFS' cell E5 | cell text | TANK OIL GRAVITY
+  [Bo] sheet 'ATMOSPHERIC RFS' cell F5 | cell text | FORMATION VOLUME FACTOR
+  [Bo] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F.
+  [Oireserv] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'ADJ.DATA (PAGE 27)' cell D4 | cell text | Formation Vol Factor (Bo)
+  [Bo] sheet 'ADJ.DATA (PAGE 27)' cell E4 | cell text | Total Formation Vol Factor (Bt)
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B16 | cell text | gravity of stock tank oil
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B21 | cell text | 1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per
+  [Oireserv] sheet 'ADJ.DATA (PAGE 27)' cell B22 | cell text | 2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir c
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B22 | cell text | 2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir c
+
+###### SFL 86026_86027_DULANG-5_Reservoir Fluid Study Test 2 E8 & E13_16 July 1986.xls
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 205F' cell B17 | cell text | 2. Specific volume at saturation pressure: ft3/lb
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 205F' cell B18 | cell text | 3. Compressibility of saturated oil at reservoir temperature
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 205F' cell C29 | cell text | RELATIVE VOLUME (1)
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 205F' cell B58 | cell text | (1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure
+  [Oireserv] sheet 'PVR SEPARATOR GAS AT 205F' cell B59 | cell text | (2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1).
+  [Oireserv] sheet 'DVT at 205 °F ' cell D5 | cell text | Relative Oil Volume
+  [Bo] sheet 'DVT at 205 °F ' cell H5 | cell text | Gas Formation Volume Factor
+  [Oistock-] sheet 'DVT at 205 °F ' cell B18 | cell text | 1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F.
+  [Oistock-] sheet 'DVT at 205 °F ' cell B19 | cell text | 2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'DVT at 205 °F ' cell B20 | cell text | 3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell F5 | cell text | TanK Oil Gravity
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell G5 | cell text | Formation Vol Factor (3)
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell H5 | cell text | Separation Vol. Factor (4)
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B20 | cell text | (2) Gas/0il Ratio in cubic feet of gas @ 14.73 psia and 60°F per barrel of stock tank oil @ 60°F.
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell B21 | cell text | (3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F.
+  [Oireserv] sheet 'MULTI SEPARATOR TEST' cell B21 | cell text | (3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F.
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B21 | cell text | (3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F.
+  [Bo] sheet 'MULTI SEPARATOR TEST' cell B22 | cell text | (4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil @ 60°F.
+  [Oistock-] sheet 'MULTI SEPARATOR TEST' cell B22 | cell text | (4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil @ 60°F.
+  [Oistock-] sheet 'ATMOSPHERIC RFS' cell E5 | cell text | TANK OIL GRAVITY
+  [Bo] sheet 'ATMOSPHERIC RFS' cell F5 | cell text | FORMATION VOLUME FACTOR
+  [Bo] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F.
+  [Oireserv] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F.
+  [Oistock-] sheet 'ATMOSPHERIC RFS' cell B16 | cell text | 2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F.
+  [Bo] sheet 'ADJ.DATA (PAGE 27)' cell D4 | cell text | Formation Vol Factor (Bo)
+  [Bo] sheet 'ADJ.DATA (PAGE 27)' cell E4 | cell text | Total Formation Vol Factor (Bt)
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B17 | cell text | gravity of stock tank oil
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B22 | cell text | 1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per
+  [Oireserv] sheet 'ADJ.DATA (PAGE 27)' cell B23 | cell text | 2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir c
+  [Oistock-] sheet 'ADJ.DATA (PAGE 27)' cell B23 | cell text | 2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir c

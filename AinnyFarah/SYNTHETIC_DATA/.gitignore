@@ -1,0 +1,4 @@
+# synthetic test PDFs (~11 GB) — keep out of git
+*.pdf
+*.partial
+_generation_state.json

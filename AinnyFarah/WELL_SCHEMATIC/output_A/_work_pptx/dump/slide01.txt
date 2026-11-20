@@ -1,0 +1,36 @@
+# slide 1 (slides/slide1.xml) hidden=False objects=21
+# notes: 'Open\n1'
+[pic id=1026 'Picture 2' pct=[3.84, 3.71, 98.01, 91.21] hidden=False img=../media/image1.png]
+[sp id=15 'TextBox 14' pct=[1.77, 54.28, 13.09, 58.66] hidden=False]
+    OPEN
+    Sep 2018
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 99.07, 4.87] hidden=False]
+    FB - SE1
+[sp id=19 'TextBox 3' pct=[1.09, 1.21, 34.07, 3.73] hidden=False]
+    Latest Update: June 2023 by Pravin Nair
+[sp id=21 'Rectangle 20' pct=[2.63, 66.75, 12.96, 71.12] hidden=False]
+    CLOSED Sep 2018
+[sp id=29 'Rectangle 28' pct=[2.39, 79.52, 13.7, 83.9] hidden=False]
+    CLOSED
+    Sep 2018
+[sp id=36 'TextBox 35' pct=[53.78, 31.17, 82.52, 33.52] hidden=False]
+    Baker tubing packoff (635 – 641m WLTHF)
+[sp id=54 'TextBox 53' pct=[15.49, 61.37, 44.17, 64.73] hidden=False]
+    2.29” GR & 2” LIB tag HUD at 1430m WLTHF. Impression suspected scale (Nov 2022)
+[pic id=62 'Picture 61' pct=[3.03, 60.66, 13.13, 65.62] hidden=False img=../media/image2.jpeg descr='A picture containing yellow\n\nDescription automatically generated']
+[sp id=8 'TextBox 7' pct=[22.13, 67.64, 26.85, 69.65] hidden=False]
+    E22
+[sp id=30 'TextBox 29' pct=[55.63, 64.92, 84.37, 67.27] hidden=False]
+    2.31” PXX plug set at SSD#2 (Sep 2018)
+[sp id=10 'Footer Placeholder 9' pct=None hidden=False]
+    Open
+[sp id=2 'Rectangle 1' pct=[18.7, 30.8, 39.98, 32.26] hidden=False]
+    SPM ( Dummy valve) August 2024
+[sp id=3 'Rectangle 2' pct=[18.78, 34.7, 40.15, 36.15] hidden=False]
+    SPM ( Dummy valve) August 2024
+[sp id=4 'Rectangle 3' pct=[18.62, 37.27, 39.81, 38.73] hidden=False]
+    SPM ( Dummy valve) August 2024
+[sp id=5 'Rectangle 4' pct=[18.7, 41.29, 39.98, 42.75] hidden=False]
+    SPM ( Dummy valve) August 2024
+[sp id=6 'Rectangle 5' pct=[18.7, 45.19, 39.98, 46.64] hidden=False]
+    SPM ( GLOV 10/64) August 2024

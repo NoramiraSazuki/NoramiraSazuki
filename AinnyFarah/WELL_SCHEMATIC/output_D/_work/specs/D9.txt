@@ -1,0 +1,63 @@
+WELL | D9 | 9 | image30.png | WELL D-09 : DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 9 | image30.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 03 JANUARY 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 6.4 PPF N-80 TKC 40-40
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl BRINE TREATED WITH 30 GALS.KORROGUARD 6500 PER 100 bbls.OF BRINE
+INFO | rte | 14.93 m
+INFO | maxDeviation | 56.0 DEG.
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 18 5/8" X-56 COND. # @ m MDDF | 18.625 |  | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ m MDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ BUTT 2073.6m MDDF | 9.625 | 40 | N-80 | 2073.6 | MDDF
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Short |
+TUBING | 6.4 PPF N-80 TKC 40-40 |  | 6.4 | N-80 | Long |
+ROW | S | FLOW COUPLING | 139.5 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP4A-LS SCSSV | 140.3 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 288.6 |  | 2.312 |  | 24/May/2009 |  | p1
+ROW | S | KBMG-M SPM | 598.1 |  | 2.371 |  | DV |  | p1
+ROW | S | KBMG-M SPM | 886.5 |  | 2.371 |  | DV ?? |  | p1
+ROW | S | KBMG-M SPM | 1126.1 |  | 2.371 |  | DV |  | p1
+ROW | S | KBMG-M SPM | 1269.4 |  | 2.371 |  | GLOV 16/64" |  | p1
+ROW | S | KBMG-M SPM | 1534.7 |  | 2.371 |  | DV |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 1796.3 |  | 2.312 |  | CLOSED 10/05/2002 |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 1813.2 |  | 2.441 |  |  | long side: PKR 3, RELEASED@40000# ABOVE TBG.WT., MIN ID 2.441 | p1
+ROW | S | 'D' NO-GO NIPPLE | 1817.0 |  | 2.250 |  | OPENED 01/JAN/1996 |  | p1
+ROW | S | W/L ENTRY GUIDE | 1817.2 |  | 2.441 |  |  |  | p1
+ROW | S | END OF TBG | 1817.5 |  | 2.441 |  |  |  | p1
+ROW | L | FLOW COUPLING | 148.7 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP4A-LS SCSSV | 149.8 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 303.1 |  | 2.312 |  | 26/Feb/2008 |  | p1
+ROW | L | KBMG-M SPM | 608.1 |  | 2.371 |  | DV |  | p1
+ROW | L | KBMG-M SPM | 896.5 |  | 2.371 |  | DV |  | p1
+ROW | L | KBMG-M SPM | 1136.0 |  | 2.371 |  | DV |  | p1
+ROW | L | KBMG-M SPM | 1279.1 |  | 2.371 |  | GLOV 16/64" |  | p1
+ROW | L | KBMG-M SPM | 1554.2 |  | 2.371 |  | DV |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1805.9 |  | 2.312 |  | CLOSED 13/04/2002 |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1822.6 |  | 2.312 |  | CLOSED 13/04/2002 |  | p2
+ROW | L | BLAST JOINT | 1828.4 | 1843.4 | 2.441 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP1 NIPPLE | 1868.2 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO HRP-4-SP SINGLE HYD. PKR. | 1874.9 |  | 2.441 |  |  | short-string column; long side PKR 2, RELEASED@32000# ABOVE TBG.WT. | p2
+ROW | L | CAMCO 'CSW-1-DT' SSD | 1922.0 |  | 2.312 |  | (DEPLETED) WAG 01/JUL/2011 |  | p2
+ROW | L | BLAST JOINT | 1925.7 | 1937.3 | 2.441 |  |  | depths at both ends of the bracket | p2
+ROW | L | WP-1 NIPPLE | 1937.8 |  | 2.312 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1938.4 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 1938.7 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM PACKER | 1939.7 |  | 2.441 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT | 1940.0 |  | 2.441 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1942.7 |  | 2.250 |  |  |  | p2
+ROW | L | OTIS CONICAL MULE SHOE | 1943.3 |  | 2.441 |  | (DEPLETED) WAG 01/JUL/2011 |  | p2
+ROW | L | END OF TUBING | 1944.0 |  |  |  |  |  | p2
+ZONE | E-1 | 1830.0 | 1842.0 | MDTHF | SAND : E-1 1830.0 - 1842.0m-MDTHF | p2 | perf
+ZONE | E-10/11 | 1927.0 | 1936.5 | MDTHF | SAND : E-10/11 1927.0 - 1936.5m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1947.0 | 1955.0 | MDTHF | SAND : E-12/13 1947.0 - 1955.0m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1958.0 | 1965.4 | MDTHF | 1958.0 - 1965.4m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1967.3 | 1921.0 | MDTHF | 1967.3 - 1921.0m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1972.5 | 1977.0 | MDTHF | 1972.5 - 1977.0m-MDTHF | p2 | perf
+ZONE | E-12/13 | 1983.0 | 1980.0 | MDTHF | 1983.0 - 1980.0m-MDTHF | p2 | perf
+PBTD | 2030.0 | MDTHF | PBTD 2030.0m-MDTHF
+TD | 2071.0 | MDTHF | TD@2071.0m MDTHF
+NOTE | picture p2 | April 7,2013 gauges: Top Gauges Serial No :3197, Maximum Pressure (Psi): 1764.51, Maximum Temperature: 197.99 DegF; Bottom Gauge Serial No: 4259, Maximum Pressure (Psi): 1765.02, Maximum Temperature: 197.30 DegF
+ISSUE | Conflict | slide 9 | slide status boxes (#8 OPENED, #9 OPENED) over the picture differ from the picture statuses — listed as notes; slide notes: 'OP converted to WI - 2015'

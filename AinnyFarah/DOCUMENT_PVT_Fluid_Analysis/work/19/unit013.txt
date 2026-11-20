@@ -1,0 +1,24 @@
+Page | 13 of 33
+Report Date | 1992-04-30 00:00:00
+Report No | MFL 91184
+Well | DULANG-B12
+Cylinder No | 1209-A & WIB-7417
+VISCOSITY AT 200°F
+Pressure (psig) | Oil Viscosity | Calculated Gas Viscosity (Centipoise) | Oil / Gas Viscosity Ratio
+5000 | 0.892
+4500 | 0.854
+4000 | 0.815
+3500 | 0.777
+3000 | 0.738
+2500 | 0.699
+2000 | 0.661
+1668 | 0.635 | Bubble Point Pressure
+1450 | 0.684 | 0.016 | 42.8
+1200 | 0.753 | 0.0148 | 50.8
+950 | 0.836 | 0.0137 | 60.8
+700 | 0.932 | 0.0128 | 73.1
+450 | 1.044 | 0.0118 | 88.2
+220 | 1.159 | 0.011 | 105
+105 | 1.223 | 0.0106 | 115.3
+0 | 1.29
+--- OCR ---

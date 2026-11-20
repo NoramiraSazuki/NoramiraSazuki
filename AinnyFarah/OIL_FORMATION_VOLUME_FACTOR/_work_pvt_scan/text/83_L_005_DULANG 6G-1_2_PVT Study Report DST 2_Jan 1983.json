@@ -1,0 +1,5302 @@
+[
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B8",
+"how": "cell text",
+"text": "PETRONAS CARIGALI"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B10",
+"how": "cell text",
+"text": "SUMMARY AND MAIN RESULTS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B12",
+"how": "cell text",
+"text": "The present report gives the experimental .results of the P.V.T. study carried out on bottom hole sample(s) from well 6G-1-1B DST2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B13",
+"how": "cell text",
+"text": "The initial reservoir conditions are :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B14",
+"how": "cell text",
+"text": "-         Pi"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C14",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D14",
+"how": "cell text",
+"text": "1871.3 psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B15",
+"how": "cell text",
+"text": "-         T"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C15",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D15",
+"how": "cell text",
+"text": "20 9 F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B16",
+"how": "cell text",
+"text": "Bubble >point ^pressure determined on .sample which was selected for complete P.V.T. study is :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B17",
+"how": "cell text",
+"text": "-         Pb"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C17",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D17",
+"how": "cell text",
+"text": "1530 psig at 209 °F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B18",
+"how": "cell text",
+"text": "-         c"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C18",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D18",
+"how": "cell text",
+"text": "11.05 x 10-6 psi-1 (1871-1535 psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B19",
+"how": "cell text",
+"text": "o"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B20",
+"how": "cell text",
+"text": "Main differential vaporization data at reservoir temperature :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C21",
+"how": "cell text",
+"text": "Pi"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D21",
+"how": "cell text",
+"text": "Pb"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B22",
+"how": "cell text",
+"text": "oil volume factor (bbl/std bbl) :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D22",
+"how": "cell text",
+"text": "1. 226"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B23",
+"how": "cell text",
+"text": "solution gas-oil ratio (Std cu ft/bbl) :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B24",
+"how": "cell text",
+"text": "reservoir fluid viscosity (centipoises) :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C24",
+"how": "cell text",
+"text": "1. 27"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D24",
+"how": "cell text",
+"text": "1. 21"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B25",
+"how": "cell text",
+"text": "reservoir fluid density (g/cm3) :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D25",
+"how": "cell text",
+"text": "0. 773"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B26",
+"how": "cell text",
+"text": "Residual oil gravity :"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D26",
+"how": "cell text",
+"text": "60/60 F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D27",
+"how": "cell text",
+"text": "API"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B29",
+"how": "cell text",
+"text": "H2S less than 0.02 ppm on Separator Gases."
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B1",
+"how": "cell text",
+"text": "4 - 6 of 33"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B10",
+"how": "cell text",
+"text": "1. RESERVOIR AND WELL CHARACTERISTICS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B12",
+"how": "cell text",
+"text": "Producing Zone"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C12",
+"how": "cell text",
+"text": "1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B13",
+"how": "cell text",
+"text": "Static pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C13",
+"how": "cell text",
+"text": "1777 psig at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B14",
+"how": "cell text",
+"text": "Bottom hole temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C14",
+"how": "cell text",
+"text": "203 F at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B15",
+"how": "cell text",
+"text": "Tubing diameter"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C15",
+"how": "cell text",
+"text": "3 1/2” DRILL PIPE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B16",
+"how": "cell text",
+"text": "Casing size"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C16",
+"how": "cell text",
+"text": "9 5/8\""
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B17",
+"how": "cell text",
+"text": "Casing shoe"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C17",
+"how": "cell text",
+"text": "1376M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B19",
+"how": "cell text",
+"text": "2. SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B20",
+"how": "cell text",
+"text": "A) SURFACE SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B21",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B22",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C22",
+"how": "cell text",
+"text": "1/2\" since 18hrs07"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B23",
+"how": "cell text",
+"text": "Flowing bottom hole pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C23",
+"how": "cell text",
+"text": "1680 psig at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B24",
+"how": "cell text",
+"text": "Well head pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C24",
+"how": "cell text",
+"text": "572 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B25",
+"how": "cell text",
+"text": "Separator pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C25",
+"how": "cell text",
+"text": "190 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B26",
+"how": "cell text",
+"text": "well head temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C26",
+"how": "cell text",
+"text": "117°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B27",
+"how": "cell text",
+"text": "Separator temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C27",
+"how": "cell text",
+"text": "117°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B28",
+"how": "cell text",
+"text": "Gas rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C28",
+"how": "cell text",
+"text": "611250 St cu ft/day"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B29",
+"how": "cell text",
+"text": "Stock tank temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C29",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B30",
+"how": "cell text",
+"text": "Compressibility factor"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B31",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C31",
+"how": "cell text",
+"text": "1.240 (Air=1)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B32",
+"how": "cell text",
+"text": "Liquid rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C32",
+"how": "cell text",
+"text": "1886.4 BOPD"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B33",
+"how": "cell text",
+"text": "GLR"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C33",
+"how": "cell text",
+"text": "324.03 St cu ft/bbl "
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B34",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C34",
+"how": "cell text",
+"text": "Gas A 5034 Sampling 4"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C35",
+"how": "cell text",
+"text": "Liquid 2387/8 Sampling 4"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B37",
+"how": "cell text",
+"text": "B) BOTTOM HOLE SAMPLE(S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B38",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C38",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B39",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C39",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B40",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C40",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B42",
+"how": "cell text",
+"text": "SAMPLE(S) VALIDITY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B43",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B44",
+"how": "cell text",
+"text": "1) Sample Bottle No 2387/8"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B45",
+"how": "cell text",
+"text": "Bubble point pressure determination at 117°F is 171 psig."
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B46",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell D46",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B47",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell D47",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B48",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell C48",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell B49",
+"how": "cell text",
+"text": "Remaining Liquid at 6000 psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (2)' cell D49",
+"how": "cell text",
+"text": "cm3"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell B1",
+"how": "cell text",
+"text": "7 of 44"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C9",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 117°F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C10",
+"how": "cell text",
+"text": "Separator liquid sample (cylinder 2387/8)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C12",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell D12",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell B21",
+"how": "cell text",
+"text": "Pb="
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C28",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C29",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell E29",
+"how": "cell text",
+"text": " std cu ft/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C30",
+"how": "cell text",
+"text": "Shrinkage factor "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell E30",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C31",
+"how": "cell text",
+"text": "Liberated gas gravity "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell E31",
+"how": "cell text",
+"text": " (Air = 1)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C32",
+"how": "cell text",
+"text": "Stock tank oil gravity"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell E32",
+"how": "cell text",
+"text": "60/60 °F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C34",
+"how": "cell text",
+"text": "*This sample has been used for physical recombination"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B1",
+"how": "cell text",
+"text": "9 of 33"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B10",
+"how": "cell text",
+"text": "1. RESERVOIR AND WELL CHARACTERISTICS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B12",
+"how": "cell text",
+"text": "Producing Zone"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C12",
+"how": "cell text",
+"text": "1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B13",
+"how": "cell text",
+"text": "Static pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C13",
+"how": "cell text",
+"text": "1777 psig at 122PM"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B14",
+"how": "cell text",
+"text": "Bottom hole temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C14",
+"how": "cell text",
+"text": "203 F at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B15",
+"how": "cell text",
+"text": "Tubing diameter"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C15",
+"how": "cell text",
+"text": "3 1/2” DRILL PIPE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B16",
+"how": "cell text",
+"text": "Casing size"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C16",
+"how": "cell text",
+"text": "9 5/8\""
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B17",
+"how": "cell text",
+"text": "Casing shoe"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C17",
+"how": "cell text",
+"text": "1376M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B19",
+"how": "cell text",
+"text": "2. SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B20",
+"how": "cell text",
+"text": "A) SURFACE SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B21",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B22",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C22",
+"how": "cell text",
+"text": "1/2\" since 18hrs07"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B23",
+"how": "cell text",
+"text": "Flowing bottom hole pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C23",
+"how": "cell text",
+"text": "1680 psig at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B24",
+"how": "cell text",
+"text": "Well head pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C24",
+"how": "cell text",
+"text": "572 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B25",
+"how": "cell text",
+"text": "Separator pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C25",
+"how": "cell text",
+"text": "190 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B26",
+"how": "cell text",
+"text": "well head temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C26",
+"how": "cell text",
+"text": "117°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B27",
+"how": "cell text",
+"text": "Separator temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C27",
+"how": "cell text",
+"text": "118°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B28",
+"how": "cell text",
+"text": "Gas rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C28",
+"how": "cell text",
+"text": "617600 St cu ft/day"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B29",
+"how": "cell text",
+"text": "Stock tank temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C29",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B30",
+"how": "cell text",
+"text": "Compressibility factor"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B31",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C31",
+"how": "cell text",
+"text": "1.240 (Air=1)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B32",
+"how": "cell text",
+"text": "Liquid rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C32",
+"how": "cell text",
+"text": "1881.6 BOPD"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B33",
+"how": "cell text",
+"text": "GLR"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C33",
+"how": "cell text",
+"text": "328.23 St cu ft/bbl "
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B34",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C34",
+"how": "cell text",
+"text": "Gas A 12137 Sampling 5"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C35",
+"how": "cell text",
+"text": "Liquid 9214/124 Sampling 5"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B37",
+"how": "cell text",
+"text": "B) BOTTOM HOLE SAMPLE(S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B38",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C38",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B39",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C39",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B40",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C40",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B42",
+"how": "cell text",
+"text": "SAMPLE(S) VALIDITY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B43",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B44",
+"how": "cell text",
+"text": "1) Sample Bottle No 9214/124"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B45",
+"how": "cell text",
+"text": "Bubble point pressure determination at 118°F is 162 psig."
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B46",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell D46",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B47",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell D47",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B48",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell C48",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell B49",
+"how": "cell text",
+"text": "Remaining Liquid at 6000 psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (3)' cell D49",
+"how": "cell text",
+"text": "cm3"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell B1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C10",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 118°F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C11",
+"how": "cell text",
+"text": "Separator liquid sample (cylinder 9214/124)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C13",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell D13",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell B21",
+"how": "cell text",
+"text": "Pb="
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C30",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C31",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell E31",
+"how": "cell text",
+"text": " std cu ft/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C32",
+"how": "cell text",
+"text": "Shrinkage factor "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell E32",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C33",
+"how": "cell text",
+"text": "Liberated gas gravity "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell E33",
+"how": "cell text",
+"text": " (Air = 1)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C34",
+"how": "cell text",
+"text": "Stock tank oil gravity"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell E34",
+"how": "cell text",
+"text": "60/60 °F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for physical recombination"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B1",
+"how": "cell text",
+"text": "14 of 44"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B10",
+"how": "cell text",
+"text": "1. RESERVOIR AND WELL CHARACTERISTICS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B12",
+"how": "cell text",
+"text": "Producing Zone"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C12",
+"how": "cell text",
+"text": "1252-1260M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B13",
+"how": "cell text",
+"text": "Static pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C13",
+"how": "cell text",
+"text": "1777 psig at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B14",
+"how": "cell text",
+"text": "Bottom hole temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C14",
+"how": "cell text",
+"text": "203 °F at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B15",
+"how": "cell text",
+"text": "Tubing diameter"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C15",
+"how": "cell text",
+"text": "3 1/2” DRILL PIPE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B16",
+"how": "cell text",
+"text": "Casing size"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C16",
+"how": "cell text",
+"text": "9 5/8\""
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B17",
+"how": "cell text",
+"text": "Casing shoe"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C17",
+"how": "cell text",
+"text": "1376M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B19",
+"how": "cell text",
+"text": "2. SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B20",
+"how": "cell text",
+"text": "A) SURFACE SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B21",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B22",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C22",
+"how": "cell text",
+"text": "1/2\" since 18hrs07"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B23",
+"how": "cell text",
+"text": "Flowing bottom hole pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C23",
+"how": "cell text",
+"text": "1677 psig at 1229M"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B24",
+"how": "cell text",
+"text": "Well head pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C24",
+"how": "cell text",
+"text": "575 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B25",
+"how": "cell text",
+"text": "Separator pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C25",
+"how": "cell text",
+"text": "193 psia"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B26",
+"how": "cell text",
+"text": "well head temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C26",
+"how": "cell text",
+"text": "118°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B27",
+"how": "cell text",
+"text": "Separator temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C27",
+"how": "cell text",
+"text": "118°F"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B28",
+"how": "cell text",
+"text": "Gas rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C28",
+"how": "cell text",
+"text": "611750 St cu ft/day"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B29",
+"how": "cell text",
+"text": "Stock tank temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C29",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B30",
+"how": "cell text",
+"text": "Compressibility factor"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B31",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C31",
+"how": "cell text",
+"text": "1.240 (Air=1)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B32",
+"how": "cell text",
+"text": "Liquid rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C32",
+"how": "cell text",
+"text": "1888.8 BOPD"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B33",
+"how": "cell text",
+"text": "GLR"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C33",
+"how": "cell text",
+"text": "328.23 St cu ft/bbl "
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B34",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C34",
+"how": "cell text",
+"text": "Gas A 9127 Sampling 6"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C35",
+"how": "cell text",
+"text": "Liquid 1116/592 Sampling 6"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B37",
+"how": "cell text",
+"text": "B) BOTTOM HOLE SAMPLE(S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B38",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C38",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B39",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C39",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B40",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C40",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B42",
+"how": "cell text",
+"text": "SAMPLE(S) VALIDITY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B43",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B44",
+"how": "cell text",
+"text": "1) Sample Bottle No 1116/592"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B45",
+"how": "cell text",
+"text": "Bubble point pressure determination at 118°F is 170 psig."
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B46",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell D46",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B47",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell D47",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B48",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell C48",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell B49",
+"how": "cell text",
+"text": "Remaining Liquid at 6000 psig"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (4)' cell D49",
+"how": "cell text",
+"text": "cm3"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell B1",
+"how": "cell text",
+"text": "14 of 44"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C10",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 118°F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C11",
+"how": "cell text",
+"text": "Separator liquid sample (cylinder 1116/592)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C13",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell D13",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C30",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C31",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell E31",
+"how": "cell text",
+"text": " std cu ft/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C32",
+"how": "cell text",
+"text": "Shrinkage factor "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell E32",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C33",
+"how": "cell text",
+"text": "Liberated gas gravity "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell E33",
+"how": "cell text",
+"text": " (Air = 1)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C34",
+"how": "cell text",
+"text": "Stock tank oil gravity"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell E34",
+"how": "cell text",
+"text": "60/60 °F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for physical recombination"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B1",
+"how": "cell text",
+"text": "19 of 44"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B10",
+"how": "cell text",
+"text": "1. RESERVOIR AND WELL CHARACTERISTICS"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B12",
+"how": "cell text",
+"text": "Producing Zone"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C12",
+"how": "cell text",
+"text": "1252-1260M"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B13",
+"how": "cell text",
+"text": "Static pressure"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C13",
+"how": "cell text",
+"text": "1777 psig at 1229M"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B14",
+"how": "cell text",
+"text": "Bottom hole temperature"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C14",
+"how": "cell text",
+"text": "203 °F at 1229M"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B15",
+"how": "cell text",
+"text": "Tubing diameter"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C15",
+"how": "cell text",
+"text": "3 1/2” DRILL PIPE"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B16",
+"how": "cell text",
+"text": "Casing size"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C16",
+"how": "cell text",
+"text": "9 5/8\""
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B17",
+"how": "cell text",
+"text": "Casing shoe"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C17",
+"how": "cell text",
+"text": "1376M"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B19",
+"how": "cell text",
+"text": "2. SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B20",
+"how": "cell text",
+"text": "A) SURFACE SAMPLE (S)"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B21",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B22",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C22",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B23",
+"how": "cell text",
+"text": "Flowing bottom hole pressure"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C23",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B24",
+"how": "cell text",
+"text": "Well head pressure"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C24",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B25",
+"how": "cell text",
+"text": "Separator pressure"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C25",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B26",
+"how": "cell text",
+"text": "well head temperature"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C26",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B27",
+"how": "cell text",
+"text": "Separator temperature"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C27",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B28",
+"how": "cell text",
+"text": "Gas rate (Separator)"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C28",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B29",
+"how": "cell text",
+"text": "Stock tank temperature"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C29",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B30",
+"how": "cell text",
+"text": "Compressibility factor"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C30",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B31",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C31",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B32",
+"how": "cell text",
+"text": "Liquid rate (Separator)"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C32",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B33",
+"how": "cell text",
+"text": "GLR"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C33",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B34",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C34",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B37",
+"how": "cell text",
+"text": "B) BOTTOM HOLE SAMPLE(S)"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B38",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B39",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C39",
+"how": "cell text",
+"text": "1/2\" ADJ"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B40",
+"how": "cell text",
+"text": "Sample (s) received"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C40",
+"how": "cell text",
+"text": "Sampler PLO 20524/189"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B42",
+"how": "cell text",
+"text": "SAMPLE(S) VALIDITY"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B43",
+"how": "cell text",
+"text": "BOTTOM HOLE SAMPLE (S)"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B44",
+"how": "cell text",
+"text": "1) Sample Bottle No  20524/189"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B45",
+"how": "cell text",
+"text": "Bubble point pressure determination at 203°F is 1768 psig."
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B46",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell D46",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B47",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell D47",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B48",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell C48",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell B1",
+"how": "cell text",
+"text": "14 of 44"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C10",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 203°F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C11",
+"how": "cell text",
+"text": "Bottom hole sample (cylinder 20524/189)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C13",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell D13",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell B21",
+"how": "cell text",
+"text": "Pb= "
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C30",
+"how": "cell text",
+"text": "FLASH OF BOTTOM HOLE SAMPLE TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C31",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell E31",
+"how": "cell text",
+"text": " std cu ft/bbl"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C32",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell E32",
+"how": "cell text",
+"text": "60/60 °F"
+},
+{
+"where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for complete PVT Study"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell B1",
+"how": "cell text",
+"text": "25 of 44"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'Recomb. Sample' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Recomb. Sample' cell C10",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 203°F"
+},
+{
+"where": "sheet 'Recomb. Sample' cell C11",
+"how": "cell text",
+"text": "Separator Liquid Sample : 1116/592"
+},
+{
+"where": "sheet 'Recomb. Sample' cell C12",
+"how": "cell text",
+"text": "Separator Gas Sample : A9127"
+},
+{
+"where": "sheet 'Recomb. Sample' cell C14",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'Recomb. Sample' cell D14",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'Recomb. Sample' cell B20",
+"how": "cell text",
+"text": "Pb="
+},
+{
+"where": "sheet 'Recomb. Sample' cell C37",
+"how": "cell text",
+"text": "*This sample has been used for complete PVT Study"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell B1",
+"how": "cell text",
+"text": "25 of 44"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C10",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C11",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C13",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell D13",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C14",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell D14",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C15",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C16",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C17",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C18",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C19",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C20",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C21",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C22",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C23",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C24",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C25",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C27",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C28",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C29",
+"how": "cell text",
+"text": "Gas gravity (air=1)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C30",
+"how": "cell text",
+"text": "Molecular Weight of Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C32",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell E32",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C33",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell E33",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C34",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell D34",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 5034 CA' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for recombination"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell B1",
+"how": "cell text",
+"text": "30 of 44"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C10",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C11",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C13",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell D13",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C14",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell D14",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C15",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C16",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C17",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C18",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C19",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C20",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C21",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C22",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C23",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C24",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C25",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C27",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C28",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C29",
+"how": "cell text",
+"text": "Gas gravity (air=1)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C30",
+"how": "cell text",
+"text": "Molecular Weight of Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C32",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell E32",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C33",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell E33",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C34",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell D34",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) 12137 CA' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for recombination"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell B1",
+"how": "cell text",
+"text": "32 of 44"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C10",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C11",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell D11",
+"how": "cell text",
+"text": "A 9127"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C13",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell D13",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C14",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell D14",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C15",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C16",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C17",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C18",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C19",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C20",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C21",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C22",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C23",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C24",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C25",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C27",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C28",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C29",
+"how": "cell text",
+"text": "Gas gravity (air=1)"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C30",
+"how": "cell text",
+"text": "Molecular Weight of Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C32",
+"how": "cell text",
+"text": "Opening pressure"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell E32",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C33",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell E33",
+"how": "cell text",
+"text": "°C"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C34",
+"how": "cell text",
+"text": "Water content"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell D34",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'SEPARATOR GAS (ES) A 9127 CA' cell C36",
+"how": "cell text",
+"text": "*This sample has been used for recombination"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B1",
+"how": "cell text",
+"text": "33 of 44"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B10",
+"how": "cell text",
+"text": "EXPERIMENTAL COMPRESSIBILITY FACTOR OF SEPARATOR GAS AT 118°F"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B11",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C11",
+"how": "cell text",
+"text": "A 9127"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell B13",
+"how": "cell text",
+"text": "Pressure (psiG)"
+},
+{
+"where": "sheet 'COMPRESSIBILITY FACTOR' cell C13",
+"how": "cell text",
+"text": "Z = PV/nRT"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell B1",
+"how": "cell text",
+"text": "34 of 59"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J9",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C10",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E10",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell F10",
+"how": "cell text",
+"text": "A 12137"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell L10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell N10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell P10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C11",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E11",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell F11",
+"how": "cell text",
+"text": "9214/124"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell L11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell N11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell P11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell N12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell P12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C13",
+"how": "cell text",
+"text": "PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C15",
+"how": "cell text",
+"text": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C16",
+"how": "cell text",
+"text": "GOR :"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E16",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C17",
+"how": "cell text",
+"text": "Shrinkage factor :"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E17",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C18",
+"how": "cell text",
+"text": "Liberated gas gravity : "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E18",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C19",
+"how": "cell text",
+"text": "Stock tank oil gravity: "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E19",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C21",
+"how": "cell text",
+"text": "2. CORRECTION OF GAS OIL RATIO"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C22",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E22",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C23",
+"how": "cell text",
+"text": "Separator Gas Gravity (from chromatographic analysis)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C24",
+"how": "cell text",
+"text": "G Lab"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell E24",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C25",
+"how": "cell text",
+"text": "Compressibility factor Z at separator conditions"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C26",
+"how": "cell text",
+"text": "Z Lab"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C27",
+"how": "cell text",
+"text": "Corrected GOR:"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell D27",
+"how": "cell text",
+"text": "Field GOR x √(G field x Z field) / (G lab x Z lab)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell D28",
+"how": "cell text",
+"text": "328√(1.240 x 0.904)/(1.430 x 0.986) ="
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell H28",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C30",
+"how": "cell text",
+"text": "3. PHYSICAL RECOMBINATION"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C31",
+"how": "cell text",
+"text": "Surface samples were physically recombined in the ratio of 293 standard cubic feet"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell M31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell O31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell P31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell C32",
+"how": "cell text",
+"text": " of separator gas per barrel of separator liquid "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in STO: \n"
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell J36",
+"how": "cell text",
+"text": "Gravity of Dodecanes plus in STO : "
+},
+{
+"where": "sheet 'STO A12137 9214-124' cell N36",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell B1",
+"how": "cell text",
+"text": "34 of 59"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D7",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell F7",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell G7",
+"how": "cell text",
+"text": "A 12137"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D8",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell F8",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell G8",
+"how": "cell text",
+"text": "9214/124"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D9",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell F10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell H10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell J10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell F11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell H11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell J11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell F12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell H12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell J12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell G31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell I31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell J31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'Res. Fluid A12137 9214-124' cell D35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in Reservoir Fluid: \n"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell B1",
+"how": "cell text",
+"text": "35 of 59"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J9",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C10",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E10",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell F10",
+"how": "cell text",
+"text": "A 5034"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell L10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell N10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell P10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C11",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E11",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell L11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell N11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell P11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell N12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell P12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C13",
+"how": "cell text",
+"text": "PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C15",
+"how": "cell text",
+"text": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C16",
+"how": "cell text",
+"text": "GOR :"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E16",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C17",
+"how": "cell text",
+"text": "Shrinkage factor :"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E17",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C18",
+"how": "cell text",
+"text": "Liberated gas gravity : "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E18",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell L18",
+"how": "cell text",
+"text": "0.1 5"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C19",
+"how": "cell text",
+"text": "Stock tank oil gravity: "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E19",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C21",
+"how": "cell text",
+"text": "2. CORRECTION OF GAS OIL RATIO"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C22",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E22",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C23",
+"how": "cell text",
+"text": "Separator Gas Gravity (from chromatographic analysis)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C24",
+"how": "cell text",
+"text": "G Lab"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell E24",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C25",
+"how": "cell text",
+"text": "Compressibility factor Z at separator conditions"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C26",
+"how": "cell text",
+"text": "Z Lab"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C27",
+"how": "cell text",
+"text": "Corrected GOR:"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell D27",
+"how": "cell text",
+"text": "Field GOR x √(G field x Z field) / (G lab x Z lab)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell D28",
+"how": "cell text",
+"text": "324√(1.240 x 0.904)/(0.934 x 0.973) ="
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell H28",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C30",
+"how": "cell text",
+"text": "3. PHYSICAL RECOMBINATION"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C31",
+"how": "cell text",
+"text": "Surface samples were physically recombined in the ratio of 360 standard cubic feet"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell M31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell O31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell P31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell C32",
+"how": "cell text",
+"text": " of separator gas per barrel of separator liquid "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in STO: \n"
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell J36",
+"how": "cell text",
+"text": "Gravity of Dodecanes plus in STO : "
+},
+{
+"where": "sheet 'STO A 5034 238714 ' cell N36",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell B1",
+"how": "cell text",
+"text": "34 of 59"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D7",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F7",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell G7",
+"how": "cell text",
+"text": "A 5034"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D8",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F8",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D9",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell H10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell J10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell H11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell J11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell H12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell J12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell F31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell G31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell I31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell J31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'Res. Fluid A 5034 238714' cell D35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in Reservoir Fluid: \n"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell B1",
+"how": "cell text",
+"text": "41 of 59"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J9",
+"how": "cell text",
+"text": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C10",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E10",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell F10",
+"how": "cell text",
+"text": "1116/592"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell L10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell N10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell P10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C11",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E11",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell F11",
+"how": "cell text",
+"text": "A 9127"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell L11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell N11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell P11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell L12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell N12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell P12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C13",
+"how": "cell text",
+"text": "PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C15",
+"how": "cell text",
+"text": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C16",
+"how": "cell text",
+"text": "GOR :"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E16",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C17",
+"how": "cell text",
+"text": "Shrinkage factor :"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E17",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C18",
+"how": "cell text",
+"text": "Liberated gas gravity : "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E18",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C19",
+"how": "cell text",
+"text": "Stock tank oil gravity: "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E19",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C21",
+"how": "cell text",
+"text": "2. CORRECTION OF GAS OIL RATIO"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C22",
+"how": "cell text",
+"text": "GOR"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E22",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C23",
+"how": "cell text",
+"text": "Separator Gas Gravity (from chromatographic analysis)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C24",
+"how": "cell text",
+"text": "G Lab"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell E24",
+"how": "cell text",
+"text": "(Air = 1)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C25",
+"how": "cell text",
+"text": "Compressibility factor Z at separator conditions"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C26",
+"how": "cell text",
+"text": "Z Lab"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C27",
+"how": "cell text",
+"text": "Corrected GOR:"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell D27",
+"how": "cell text",
+"text": "Field GOR x √(G field x Z field) / (G lab x Z lab)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell D28",
+"how": "cell text",
+"text": "324√(1.240 x 0.904)/(1.435 x 0.986) ="
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell H28",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C30",
+"how": "cell text",
+"text": "3. PHYSICAL RECOMBINATION"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell L30",
+"how": "cell text",
+"text": "250 .5"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C31",
+"how": "cell text",
+"text": "Surface samples were physically recombined in the ratio of 288 standard cubic feet"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell M31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell O31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell P31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell C32",
+"how": "cell text",
+"text": " of separator gas per barrel of separator liquid "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in STO: \n"
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell J36",
+"how": "cell text",
+"text": "Gravity of Dodecanes plus in STO : "
+},
+{
+"where": "sheet 'STO A 9127 1116-592' cell N36",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell B1",
+"how": "cell text",
+"text": "42 of 59"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D7",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F7",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell G7",
+"how": "cell text",
+"text": "1116/592"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D8",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLE : "
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F8",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell G8",
+"how": "cell text",
+"text": "A 9127"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D9",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell H10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell J10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell H11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell J11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell H12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell J12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell F31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell G31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell I31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell J31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'Res. Fluid A 9127 1116-592' cell D35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in Reservoir Fluid: \n"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell B1",
+"how": "cell text",
+"text": "43 of 59"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell B3",
+"how": "cell text",
+"text": "83/L/005"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell B4",
+"how": "cell text",
+"text": "DULANG-6G-1-2 DST2"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell C4",
+"how": "cell text",
+"text": "ZONE: 1252-1260M"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D7",
+"how": "cell text",
+"text": "BOTTOM HOLE SAMPLE:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell F7",
+"how": "cell text",
+"text": "CYLINDER "
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell G7",
+"how": "cell text",
+"text": "2052/189"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell A8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D8",
+"how": "cell text",
+"text": "from Flopetrol Samples"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D9",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell F10",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell H10",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell J10",
+"how": "cell text",
+"text": "Recombined Separator Liquid)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell F11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell H11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell J11",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell H12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell J12",
+"how": "cell text",
+"text": "Traces"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D24",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D25",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D26",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D27",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D28",
+"how": "cell text",
+"text": "C12 Dodecanes Plus"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D29",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D30",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D31",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell G31",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell I31",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell J31",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D32",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D33",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D35",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in STO: \n"
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell D36",
+"how": "cell text",
+"text": "Gravity of Dodecanes plus in STO : "
+},
+{
+"where": "sheet 'Res. Fluid 2052-189' cell H36",
+"how": "cell text",
+"text": "(60/60 °F)"
+},
+{
+"where": "picture image5.png (used in drawing4.xml)",
+"how": "OCR",
+"text": "355\n\nPump reading (cm3)\n\nPb = 170 psig\n\nD0 1900 00\n\nDoO\n\n00\n\n4000 4500 59000\n\n5\n\n6006\n\nPressure {psig}\n\n6\n\n0\n"
+},
+{
+"where": "picture image6.png (used in drawing5.xml)",
+"how": "OCR",
+"text": "186 Pump reading (cm3)\n\n191\n\n*Pb = 1768 psig\n\nfl 96\n\n+++\n500 3000 3500 000 4500 5000 5500 6000 6500\nPressure (psiaq)\n\nOf} PY TF eanoftware version 1,3,00 R3/7, /005\n"
+},
+{
+"where": "picture image7.png (used in drawing6.xml)",
+"how": "OCR",
+"text": "PS POA eS rer be ry ee re & Cl Dal bt Vie th ee A ee ee i kee ai EN ln i lk i i, oe\n\nmp reading (cm3)\n\nPb = 2780 psig\n\n490-4\n\nSeeht Toe an ot ah!\n\nPOR td tall eer cL Le ee ce eee Cee er Ce ar\n\nJos ECE wns ay i sat\n2500 3000 35900 4000 4500 5000 850° 6000\n\noe eh cote te be tc ere Ce Coe ee ceo. oe 2 bor Soe ee Seed\n"
+},
+{
+"where": "picture image1.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "P.V.T STUDY REPORT\nDST 2\n\nDULANG 6G-1.2\nMALAYSIA\n\nSCHLUMBERGER FLOPETROL\nJANUARY 1983\n\nPETRONAS CARIGALI SDN. BHD.\n\n"
+},
+{
+"where": "picture image3.png (used in drawing2.xml)",
+"how": "OCR",
+"text": "393\n\n98\n\n5°\n\nmop reading (cm2)\n\n171 rsia\n\nSEE EEE EEE EET ETE EE ET TE FE\n\nBobs ashd\" sand sb0n Boon een\n\nPressure (rsiq)\n"
+},
+{
+"where": "picture image2.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "FLOPETROL |\n\nRECEIVED\n\nEXPLORATION DEPT,\n\nDVT. STUPY PFPOPT\n\nClient:PFTPOPAS CAPIGAT.T\nField :PULANC well : 6C-1-2 NST?\nZone :1282-12f0M Samn, Cate:96/0)/1°R2?\n\nRercrt #:83/L/005 Date: JANTIAPY,1983\n\nf= \\\n\nSTICAPORE, LAROPATOP TAPOPATOPY\n"
+},
+{
+"where": "picture image4.png (used in drawing3.xml)",
+"how": "OCR",
+"text": "141\n\n146\n\n151\n\n0\n\nump reading (cm3)\n\nb= 162 psig\n\n0G 1000 1500\n\n00\n\n000\n\n00° «4000\n\n45006\n\n5000 5500 6000 6500\nPressure {psig)\n"
+}
+]

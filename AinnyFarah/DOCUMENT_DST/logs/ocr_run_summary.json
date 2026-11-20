@@ -1,0 +1,22 @@
+[
+  {
+    "source": "/Volumes/homes/public/DulangOSS/20260925/DOCUMENTS/DST Document/DULANG-6A_EPMI Well Test Report DST 1,2,2A 1_Sept.1990.pdf",
+    "searchable_pdf": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/DOCUMENT_DST/searchable_pdf/DULANG-6A_EPMI Well Test Report DST 1,2,2A 1_Sept.1990_OCR.pdf",
+    "text": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/DOCUMENT_DST/ocr_text/DULANG-6A_EPMI Well Test Report DST 1,2,2A 1_Sept.1990.txt",
+    "returncode": 0,
+    "seconds": 167.3,
+    "original_unchanged": true,
+    "sha256": "099ec3c6363f47a79a40be745d76153216d5b6851a3d8e475246e27625d0884a",
+    "pages_with_existing_text_skipped": 0
+  },
+  {
+    "source": "/Volumes/homes/public/DulangOSS/20260925/DOCUMENTS/DST Document/DULANG-7_EPMI Well Test Report DST 1,1A,2,2A_ 01 Dec. 1990.pdf",
+    "searchable_pdf": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/DOCUMENT_DST/searchable_pdf/DULANG-7_EPMI Well Test Report DST 1,1A,2,2A_ 01 Dec. 1990_OCR.pdf",
+    "text": "/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/DOCUMENT_DST/ocr_text/DULANG-7_EPMI Well Test Report DST 1,1A,2,2A_ 01 Dec. 1990.txt",
+    "returncode": 0,
+    "seconds": 85.5,
+    "original_unchanged": true,
+    "sha256": "587e02c83acd313c7e882c2cc4b41d1e3fe2a3742f72cb57a6482ddbe33d705b",
+    "pages_with_existing_text_skipped": 0
+  }
+]

@@ -1,0 +1,27 @@
+PAGE 11
+COMPOSITIONAL ANALYSIS OF SEPARATOR LIQUID SAMPLE* (SET NO.1) TO UNDECANES PLUS
+COMPONENT | MOL % | WEIGHT % | DENSITY | API @ 60°F | MOL WEIGHT
+H2S Hydrogen Sulphide | 0 | 0
+CO2 Carbon Dioxide | 7.46 | 1.55
+N2 Nitrogen | 0.01 | TR
+C1 Methane | 2.35 | 0.18
+C2 Ethane | 0.7 | 0.1
+C3 Propane | 0.58 | 0.12
+iC4 i-Butane | 0.31 | 0.08
+nC4 n-Butane | 0.3 | 0.08
+iC5 i-Pentane | 0.27 | 0.09
+nC5 n-Pentane | 0.22 | 0.08
+C6 Hexanes | 0.73 | 0.29 | 0.685 | 74.9 | 84
+C7 Heptanes | 0.62 | 0.27 | 0.7551 | 55.7 | 93
+C8 Octanes | 3.8 | 1.87 | 0.7721 | 51.6 | 105
+C9 Nonanes | 4.93 | 2.69 | 0.787 | 48.1 | 116
+C10 Decanes | 3.59 | 2.15 | 0.7998 | 45.2 | 128
+C11+ Undecanes Plus | 74.13 | 90.45 | 0.8457 | 35.7 | 260
+100 | 100
+Properties of heptanes plus
+API Gravity @ 60°F | 36.6
+Density, GM/CC @ 60°F | 0.8407
+Molecular Weight | 237
+* Sample from cylinder NO. 305SS0113/82
+**Physical properties of this component are theoritical values
+--- OCR ---

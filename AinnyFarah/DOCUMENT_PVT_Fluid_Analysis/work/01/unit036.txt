@@ -1,0 +1,30 @@
+TABLE 34
+SEPARATOR LIQUID SAMPLE - CYLINDER NO- 1116/509
+SEPARATOR GAS SAMPLE CYLINDER NO- A 13479
+MOLECULAR COMPOSITION OF RESERVOIR FLUID
+COMPONENT | RECOMBINED SEPARATOR LIQUID | SEPARATOR GAS | RECOMBINED RESERVOIR FLUID
+(MOL %) | (MOL %) | (MOL %)
+N2 Nitrogen | 0. 00 | 0 | 0
+CO2 Carbon Dioxide | 5.4 | 44.35 | 17.33
+H2S Hydrogen Sulphide | traces | traces | traces
+C1 Methane | 2.88 | 47.36 | 16.5
+C2 Ethane | 1.15 | 4.35 | 2.13
+C3 Propane | 1.41 | 2.47 | 1.74
+iC4 i-Butane | 0.81 | 0.69 | 0.77
+nC4 n-Butane | 0.7 | 0.38 | 0.6
+C5 Neo-Pentane | 0.65 | 0.12 | 0.49
+iC5 i-Pentane | 0.54 | 0.08 | 0.4
+nC5 n-Pentane | 1.33 | 0.08 | 0.95
+C6 Hexanes | 2.47 | 0.08 | 1.74
+C8 Octanes | 4.88 | 0.03 | 3.39
+C9 Nonanes | 4.55 | 0.01 | 3.16
+C10 Decanes | 4.12 | 0 | 2.86
+C11 Undecanes | 3.88 | 0 | 2.69
+C12+ Dodecanes Plus | 65.23 | 0 | 45.25
+100 | 100 | 100.00000000000001
+Molecular weight | 210 | 30.476 | 155
+Gravity | 1.052 (Air=1)
+Molar ratio | 69.38 | 30.62 | 100
+Mass ratio | 93.98 | 6.02 | 100
+Molecular weight of Dodecanes reservoir fluid | 272
+--- OCR ---

@@ -1,0 +1,53 @@
+WELL | A5 | 4 | image9.png + image8.png | WELL A-5 : SINGLE SELECTIVE OIL PRODUCER (TYPE 3 SPECIAL) — DULANG WELL COMPLETION DIAGRAM (AFTER WORKOVER)
+SRC | 4 | image9.png + image8.png | visual transcription of the screenshot pictures (x3 upscale, upper part image9 / lower part image8)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | rig | TIOMAN 1 (TEKNIK BERKAT)
+INFO | tubing | 2 7/8" 6.5 PPF, N-80 NK3SB AND 2 3/8" EUE
+INFO | xmas | SINGLE INGRAM CACTUS, 3M
+INFO | packerFluid | 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 43 1/2 DEG
+INFO | rte | 11.9 m
+INFO | completionType | SINGLE SELECTIVE OIL PRODUCER (TYPE 3 SPECIAL) (AFTER WORKOVER)
+CASING | 13 3/8" K-55 SURF# 54.5 ppf @ 574 mMDDF | 13.375 | 54.5 | K-55 | 574 | MDDF
+CASING | 9 5/8" N-80, 40 ppf @ 1157 m MDDF | 9.625 | 40 | N-80 | 1157 | MDDF
+CASING | 5" LINER, N-80, 15 ppf & 18 ppf @ 2581 m MDDF | 5 |  | N-80 | 2581 | MDDF | 1863.3 | diagram label 'TOP OF LINER 1863.3' (DEPTH m MDTHF column)
+TUBING | 2 7/8" 6.5 PPF, N-80 NK3SB | 2.875 | 6.5 | N-80 | - |
+ROW | X | FLOW COUPLING | 136.52 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 137.37 |  | 2.312 |  | ?2.31" CSA Plug | slide text box obj #4121 matched to the SCSSV profile by position | p1
+ROW | X | WP-1 NIPPLE | 290.87 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 701.93 |  | 2.371 |  | ?DV | status from slide text box obj #61 matched by position | p1
+ROW | X | KBMG-M-SPM | 1347.04 |  | 2.371 |  | ?DV | status from slide text box obj #4103 matched by position | p1
+ROW | X | KBMG-M-SPM | 1644.32 |  | 2.371 |  | ?DV | status from slide text box obj #4104 matched by position | p1
+ROW | X | KBMG-M-SPM | 1807.53 |  | 2.371 |  | ?DV | status from slide text box obj #4105 matched by position | p1
+ROW | X | CSW-2D SSD | 1818.84 |  | 2.312 |  | CLOSED |  | p1
+ROW | X | 7" FH-BAKER SINGLE HYD. PACKER | 1826.45 |  | 2.441 |  |  |  | p1
+ROW | X | CSW-2DE SSD | 1837.68 |  | 2.312 |  | CLOSED |  | p1
+ROW | X | X-OVER 2 7/8" TKC 4040 X 2 3/8" TKC 4040 | 1841.49 |  |  |  |  | MIN ID not printed | p1
+ROW | X | 5" FH-BAKER SINGLE 1" HYD. PACKER | 2216.26 |  | 1.991 |  |  |  | p2
+ROW | X | CMD-2DE SSD | 2231.18 |  | 1.875 |  | OPENED 16-03-1995 |  | p2
+ROW | X | 2 3/8" BLAST JOINT | 2235.19 | 2253.26 | 1.991 |  |  |  | p2
+ROW | X | 5" FH-BAKER 6" HYD. PACKER | 2253.83 |  | 1.991 |  |  |  | p2
+ROW | X | 'R' BAKER NO-GO NIPPLE | 2254.43 |  | 1.791 |  | BAKER 'RZG' PCSB PLUG 16-03-1995 |  | p2
+ROW | X | EOT | 2255.45 |  |  |  |  | end of string | p2
+ROW | Lw | BRIDGS PLUGS | 2279.80 |  |  |  |  | below the end of tubing (in the liner) | p2
+ROW | Lw | 5" GUB PACKER | 2281.30 |  |  |  |  | below the end of tubing (isolation packer in the liner, with a short tail below) | p2
+ZONE | E-23 | 2239.8 | 2250.8 | MDTHF | SAND: E-23 2239.8 - 2250.8 (diagram; no unit/datum printed; also slide text box obj #13) | p2 | perf
+ZONE | E-23 | 2256.8 | 2274.8 | MDTHF | SAND: E-23 2256.8 - 2274.8 (diagram; no unit/datum printed; also slide text box obj #14) | p2 | perf
+ZONE | E-34/36 | 2337.3 | 2346.3 | MDTHF | SAND: E-34/36 2337.3 - 2346.3 (diagram; no unit/datum printed; slide text box obj #12 'E34 2337.3 – 2346.3') | p2 | perf
+PBTD | 2115.8 | MD-RKB | PBTD : 2115.8 mMD-RKB (header)
+TD | 2581 | MDTHF | TD @ 2581 D m MDTHF (stray 'D' in the label)
+NOTE | picture p1 | 7" 23 PPF N-80 CASING (label at the top of the diagram, no depth); 7" 23 PPF CASING (label at the bottom) — 7" casing not listed in the header
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p1 | handwritten 'Latest 16/10/199?' (year digit cut)
+NOTE | picture p2 | DOGLEG (DEPTH): 103.24, 240.0 - 442.0, 500.0 - 584.9
+NOTE | slide 4 obj #2 | rectangle filled with a sand texture (image10.jpeg) drawn over the lower completion near E-34/36 — fill indication, no depth
+NOTE | slide 4 obj #3 / #15 | 'open' beside the two E-23 zone labels
+NOTE | slide 4 obj #95 | Stiff MA Plug @ SSD#2 1841m WLTHF (wireline depth — not used as MD)
+NOTE | slide 4 obj #4129 | Performed packer leak rectification (June 2022)
+NOTE | slide 4 obj #18 | FB – S3 (second flow-line label on the slide; slide header label is FB – SE2)
+NOTE | slide 4 obj #21 | LAST ENTRY : 20 Dec 2017 | TYPE OF JOB : A-05 : To perform FGS | UPDATED BY : Ariff Shazwan | DATE : 4 Feb 2018
+NOTE | slide 4 obj #105 | Latest Update: Jan 2023 by Pravin Nair
+ISSUE | Missing | header | DATE OF COMPLETION left blank
+ISSUE | Conflict | header / diagram | 5" liner shoe 2581 m MDDF (header) and TD @ 2581 m MDTHF (diagram) give the same number on different datums — kept as printed, not shifted
+ISSUE | Unclear | header | PBTD printed in m MD-RKB (equipment datum m MDTHF) — not shifted
+ISSUE | Unclear | slide 4 | DV statuses and the 2.31" CSA plug are slide text boxes matched to rows by vertical position

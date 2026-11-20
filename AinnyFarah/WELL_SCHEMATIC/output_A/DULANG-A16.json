@@ -1,0 +1,125 @@
+{
+  "wellInfo": {
+    "completionDate": "17 JANUARY 1992",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A16",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a16-01",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 5893.701,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1796.4,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 13: 'SSD' @ 1796.4 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1796.4 m -> 5893.701 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a16-02",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 5992.782,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1826.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 13: 'SSD' @ 1826.6 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1826.6 m -> 5992.782 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a16-03",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 5990.814,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1826.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 13: 'SSD' @ 1826 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1826 m -> 5990.814 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a16-04",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6167.651,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1879.9,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 13: 'NIPPLE' @ 1879.9 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1879.9 m -> 6167.651 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a16-05",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6230.315,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1899.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 13: 'NIPPLE' @ 1899 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1899 m -> 6230.315 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a16-06",
+      "type": "seal-assembly",
+      "name": "SEAL ASSY",
+      "topMd": 6320.538,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1926.5,
+      "bottomMdM": null,
+      "source": "PDF page 13: 'SEAL ASSY' @ 1926.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1926.5 m -> 6320.538 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

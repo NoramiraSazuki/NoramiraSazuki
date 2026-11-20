@@ -1,0 +1,45 @@
+{
+ "slide": 17,
+ "file": "slides/slide17.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9906000
+ ],
+ "notes": "Open\n17",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "38914",
+   "name": "Text Box 213",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 631825,
+   "y": 1046163,
+   "cx": 5629275,
+   "cy": 327025,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.21,
+    10.56,
+    91.3,
+    13.86
+   ],
+   "text": "WELL C-17 :  P & A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

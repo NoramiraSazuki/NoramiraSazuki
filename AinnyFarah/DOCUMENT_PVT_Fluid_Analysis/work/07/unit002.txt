@@ -1,0 +1,33 @@
+DATE | 1986-05-02 00:00:00
+COMPANY | ESSO PRODUCTION MALAYSIA INC
+SAMPLE NO | CH-054
+DEPTH | 1246.5 - 1255.5 m
+LOCATION & COUNTRY | MALAYSIA
+DATE SAMPLED | 2 FEBRUARY 1986, TIME: 13.4
+WELL NAME | DULANG 5
+SAMPLE FROM | SEPARATOR
+DATE ANALYSED | 1986-04-23 00:00:00
+OUR JOB NO | CHEM 86021
+ANALYSTS | AS
+ANALYSIS RESULT
+Appearance Before Filtration | Turbid, Brown and a Layer of Oil
+Appearance After Filtration | Clear and Brown
+Total Dissolved Solids mg/L (Calculated) | 15677
+Specific, Gravity at 75°F | 1.014
+Resistivity, ohm-meters at 75°F (Calculated) | 0.54 Measured: 0.52
+Hydrogen Sulphide | Absent
+pH | 8.83
+Constituents | Mg/L | Meg/L
+Cations
+Sodium | 4945.4 | 215.11
+Calcium | 79 | 3.94
+Magnesium | 58 | 4.77
+Barium | < 1.0 | < 0.01
+Total Iron | 246 | 8.8
+Anions
+Chloride | 3190.8 | 90.01
+Sulphate | 1104.7 | 23
+Bicarbonate | 5852.8 | 95.93
+Carbonate | 446.5 | 14.88
+Hydroxide | 0 | 0
+--- OCR ---

@@ -1,0 +1,1002 @@
+[
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E2",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLESRECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E5",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D7",
+"how": "cell text",
+"text": "Separator Conditions"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F7",
+"how": "cell text",
+"text": "Laboratory Opening Conditions"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C8",
+"how": "cell text",
+"text": "Cylinder No"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D8",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F8",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell G8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D9",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E9",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F9",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell G9",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C10",
+"how": "cell text",
+"text": "22400-3"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C11",
+"how": "cell text",
+"text": "1116-81*"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C14",
+"how": "cell text",
+"text": "Cylinder 22400-3 had 1 cc of water recovered"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C15",
+"how": "cell text",
+"text": "*Used for subsequent analysis. "
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell G3",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSIS OF RESERVOIR FLUID SAMPLE "
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell D5",
+"how": "cell text",
+"text": "Mol"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell F5",
+"how": "cell text",
+"text": "Weight"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell H5",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell J5",
+"how": "cell text",
+"text": "API @60°F"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell L5",
+"how": "cell text",
+"text": "Mol Weight"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B6",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell D6",
+"how": "cell text",
+"text": "%"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell F6",
+"how": "cell text",
+"text": " %"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell H6",
+"how": "cell text",
+"text": " Mol Percent"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B7",
+"how": "cell text",
+"text": "Hydrogen Sulfide"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B8",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B9",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B10",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B11",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B12",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B13",
+"how": "cell text",
+"text": "Iso-Butane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B14",
+"how": "cell text",
+"text": "N-Butane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B15",
+"how": "cell text",
+"text": "Iso-Pentane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell D15",
+"how": "cell text",
+"text": "0.1 1"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B16",
+"how": "cell text",
+"text": "N-Pentane"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B17",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'PAGE 3 of 13' cell B18",
+"how": "cell text",
+"text": "Heptanes plus"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell B3",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATION AT 203°F"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell B5",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell E5",
+"how": "cell text",
+"text": "Relative Volume"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell B6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell E6",
+"how": "cell text",
+"text": "Volume (1)"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell C14",
+"how": "cell text",
+"text": "Bubble Point Pressure"
+},
+{
+"where": "sheet 'PAGE 4 of 13' cell B29",
+"how": "cell text",
+"text": "1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell G4",
+"how": "cell text",
+"text": "VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell B6",
+"how": "cell text",
+"text": "Saturation pressure (bubble-point pressure)"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell H6",
+"how": "cell text",
+"text": "150 PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I6",
+"how": "cell text",
+"text": " @  203 °F"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell B9",
+"how": "cell text",
+"text": "Specific volume at saturation pressure : "
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell G9",
+"how": "cell text",
+"text": "ft 3/lb / 0.02154"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I9",
+"how": "cell text",
+"text": " @  203 °F"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell B11",
+"how": "cell text",
+"text": "Thermal expansion of saturated oil @"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell G11",
+"how": "cell text",
+"text": "5000 PSIG = V@ 203 °F"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I11",
+"how": "cell text",
+"text": " = 1.0000"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell G12",
+"how": "cell text",
+"text": "V@ 203 F"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell B14",
+"how": "cell text",
+"text": "Compressibility of saturated oil"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell F14",
+"how": "cell text",
+"text": " @ reservoir temperature"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I14",
+"how": "cell text",
+"text": "Vol/Vol/PSI:"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell C16",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell E16",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell F16",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell H16",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I16",
+"how": "cell text",
+"text": "8.32 x 10¯⁶"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell C17",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell E17",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell F17",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell H17",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I17",
+"how": "cell text",
+"text": "9.08 x x 10¯⁶"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell C18",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell E18",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell F18",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell H18",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I18",
+"how": "cell text",
+"text": "9.94 x 10¯⁶"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell C19",
+"how": "cell text",
+"text": "From"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell E19",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell F19",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell H19",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 5 of 13' cell I19",
+"how": "cell text",
+"text": "11.06 x 10¯⁶"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell G3",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS AT 203°F "
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell D5",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell H5",
+"how": "cell text",
+"text": "Relative"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell J5",
+"how": "cell text",
+"text": "Y"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell D6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell H6",
+"how": "cell text",
+"text": "Volume(1)"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell J6",
+"how": "cell text",
+"text": "Function(2)"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell F15",
+"how": "cell text",
+"text": " Bubble point pressure"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell C35",
+"how": "cell text",
+"text": "(1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell C37",
+"how": "cell text",
+"text": "(2) Y Function = "
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell E37",
+"how": "cell text",
+"text": "(Psat-P)"
+},
+{
+"where": "sheet 'PAGE 6 of 13' cell E38",
+"how": "cell text",
+"text": "(Pabs)(V/Vsat-1) "
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell G2",
+"how": "cell text",
+"text": "DIFFERENTIAL VAPORIZATION AT 203°F"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell C4",
+"how": "cell text",
+"text": "Solution"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell D4",
+"how": "cell text",
+"text": "Relative"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell E4",
+"how": "cell text",
+"text": "Relative"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell F4",
+"how": "cell text",
+"text": "Oil"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell G4",
+"how": "cell text",
+"text": "Deviation"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell H4",
+"how": "cell text",
+"text": "Gas Formation"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell I4",
+"how": "cell text",
+"text": "Incremental"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell B5",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell C5",
+"how": "cell text",
+"text": "Gas/Oil"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell D5",
+"how": "cell text",
+"text": "Oil"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell E5",
+"how": "cell text",
+"text": "Oil"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell F5",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell G5",
+"how": "cell text",
+"text": "Factor"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell H5",
+"how": "cell text",
+"text": "Volume"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell I5",
+"how": "cell text",
+"text": "Gas"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell B6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell C6",
+"how": "cell text",
+"text": "Ratio(l)"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell D6",
+"how": "cell text",
+"text": "Volume (2)"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell E6",
+"how": "cell text",
+"text": "Volume(3)"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell F6",
+"how": "cell text",
+"text": "Gm/Cc"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell G6",
+"how": "cell text",
+"text": "Z"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell H6",
+"how": "cell text",
+"text": "Factor(4)"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell I6",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell I12",
+"how": "cell text",
+"text": "1 .213"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell D15",
+"how": "cell text",
+"text": "1. 104"
+},
+{
+"where": "sheet 'PAGE 7 of 13' cell I15",
+"how": "cell text",
+"text": "1 .340"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell G2",
+"how": "cell text",
+"text": "VISCOSITY DATA AT 203 °F"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell G4",
+"how": "cell text",
+"text": "Calculated"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell H4",
+"how": "cell text",
+"text": "Oil/Gas"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell E5",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell F5",
+"how": "cell text",
+"text": "Oil Viscosity"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell G5",
+"how": "cell text",
+"text": "Gas Viscosity"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell H5",
+"how": "cell text",
+"text": "Viscosity"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell E6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell F6",
+"how": "cell text",
+"text": "Centipoise"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell G6",
+"how": "cell text",
+"text": "Centipoise"
+},
+{
+"where": "sheet 'PAGE 8 of 13' cell H6",
+"how": "cell text",
+"text": "Ratio"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell G2",
+"how": "cell text",
+"text": "SINGLE-STAGE SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B5",
+"how": "cell text",
+"text": "Separator Pressure"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell C5",
+"how": "cell text",
+"text": "Temp °F"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell D5",
+"how": "cell text",
+"text": "Gas/Oil"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell E5",
+"how": "cell text",
+"text": "Gas/Oil"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell F5",
+"how": "cell text",
+"text": "Tank Oil\nGravity"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell G5",
+"how": "cell text",
+"text": "Formation Volume Factor (3)"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell H5",
+"how": "cell text",
+"text": "Separator Volume Factor (4)"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell I5",
+"how": "cell text",
+"text": "Gas Gravity"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B6",
+"how": "cell text",
+"text": " PSIG"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell D6",
+"how": "cell text",
+"text": " Ratio (1)"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell E6",
+"how": "cell text",
+"text": " Ratio (2)"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell F6",
+"how": "cell text",
+"text": " °API @ 60°F"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell I7",
+"how": "cell text",
+"text": "1.181*"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B8",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell I10",
+"how": "cell text",
+"text": "1.193*"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B11",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell I13",
+"how": "cell text",
+"text": "1.206*"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B14",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell I16",
+"how": "cell text",
+"text": "A"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B18",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B21",
+"how": "cell text",
+"text": "* These gases were collected and analysed in the laboratory.  "
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B23",
+"how": "cell text",
+"text": "(1)              Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature."
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B24",
+"how": "cell text",
+"text": "(2)              Gas/Oil in cubic feet of gas at 14.73 psia and 60°F. per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B25",
+"how": "cell text",
+"text": "(3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F."
+},
+{
+"where": "sheet 'PAGE 9 of 13' cell B26",
+"how": "cell text",
+"text": "(4)              Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank at 60 F."
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell G2",
+"how": "cell text",
+"text": "SINGLE-STAGE"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell G3",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSES OF SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B7",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell C7",
+"how": "cell text",
+"text": "200 PSIG"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell D7",
+"how": "cell text",
+"text": "100°F"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell E7",
+"how": "cell text",
+"text": "150 PSIG"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell F7",
+"how": "cell text",
+"text": "100°F"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell G7",
+"how": "cell text",
+"text": "100 PSIG"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell H7",
+"how": "cell text",
+"text": "100°F"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell I7",
+"how": "cell text",
+"text": "50 PSIG"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell J7",
+"how": "cell text",
+"text": "100°F"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell C8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell D8",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell E8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell F8",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell G8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell H8",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell I8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell J8",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B9",
+"how": "cell text",
+"text": "Hydrogen Sulfide"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B10",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B11",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B12",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B13",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B14",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B15",
+"how": "cell text",
+"text": "Iso-Butane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B16",
+"how": "cell text",
+"text": "N-Butane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B17",
+"how": "cell text",
+"text": "Iso-Pentane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B18",
+"how": "cell text",
+"text": "N-Pentane"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B19",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B20",
+"how": "cell text",
+"text": "Heptanes Plus"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B21",
+"how": "cell text",
+"text": "TOTAL = "
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B23",
+"how": "cell text",
+"text": "Gas Gravity"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B24",
+"how": "cell text",
+"text": "(Air = 1.000) :"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B26",
+"how": "cell text",
+"text": "Gross heating value"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B27",
+"how": "cell text",
+"text": "(BTU per cubic foot of"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B28",
+"how": "cell text",
+"text": "dry gas at 14.73 psia and 60°F )"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell C28",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B30",
+"how": "cell text",
+"text": "These analyses, opinions or interpretations are based on observations and material supplied by the client to whom, and for whose exclusive and confidential use. this report is made. "
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B31",
+"how": "cell text",
+"text": "The interpretations or opinions expressed represent the best judgement of Core Laboratories. Inc. (all errors and omissions excepted); but Core Laboratories. Inc. and its officers and employees"
+},
+{
+"where": "sheet 'PAGE 10 of 13' cell B32",
+"how": "cell text",
+"text": ", assume no responsibility and make no warranty or representations as to the productivity, proper operation, or profitableness of any oil. gas or other mineral well or sand in connection with which such report is used or relied upon."
+},
+{
+"where": "picture image2.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\nPETRONAS CARIGALI SDN BHD\n6G-7.1 DST 3\nSFL 82143\n\n—\n| PETAQLBUM ENGINEERING DEPT. |\n\n£ lynchhe WT RAY.\n\nb | ,\nReservoir Fluid Drvsion ((k\nd 4\n"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\nDST 3\n\nDULANG 6G-7.1\nMALAYSIA\n\nCORE LABORATORIES INC,\n\nPETRONAS CARIGALI SDN. BHD.\n\n"
+}
+]

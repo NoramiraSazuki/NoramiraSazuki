@@ -1,0 +1,42 @@
+WELL | A6 | 5 | image11.png + image12.png | WELL A-6 : SINGLE OIL PRODUCER (TYPE 1)
+SRC | 5 | image11.png + image12.png | visual transcription of the screenshot pictures (x3 upscale, upper part image11 / lower part image12)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 12 MARCH 1991
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, SINGLE, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 48.0 DEG @ 812.80 MDDF
+INFO | rte | 14.13 m
+INFO | completionType | SINGLE OIL PRODUCER (TYPE 1)
+CASING | 13 3/8" COND.# @ 374 mMDDF | 13.375 |  |  | 374 | MDDF
+CASING | 9 5/8" N-80, 40 ppf @ 808 m MDDF | 9.625 | 40 | N-80 | 808 | MDDF
+CASING | 7" 23 ppf, K-55 @ 1834 m MDDF | 7 | 23 | K-55 | 1834 | MDDF
+TUBING | 2 7/8" N-80 NK3SB | 2.875 |  | N-80 | - |
+ROW | X | FLOW COUPLING | 141.8 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 142.6 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 295.6 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 543.1 |  | 2.371 |  |  |  | p1
+ROW | X | 8/64" GLOV | 969.3 |  | 2.371 |  | GLOV 8/64" 12 Apr 04 |  | p1
+ROW | X | KBMG-M-SPM | 1235.2 |  | 2.371 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 1357.6 |  | 2.371 |  | ?GLOV 20/64" (Mar 15) | status from slide text box obj #10, matched to this row by vertical position | p1
+ROW | X | WP-2DE SSD | 1450.7 |  | 2.312 |  | CLOSED |  | p2
+ROW | X | CENTRALIZER | 1458.6 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 1459.1 |  | 2.441 |  |  |  | p2
+ROW | X | GUIB MAGNUM 'GT' PACKER | 1459.9 |  | 4.000 |  |  |  | p2
+ROW | X | SEAL BORE EXT | 1459.2 |  | 4.000 |  |  | printed 1459.2, shallower than the packer above (1459.9) — kept as printed | p2
+ROW | X | 'D' NO-GO NIPPLE | 1464.7 |  | 2.250 |  |  |  | p2
+ROW | X | WEG | 1464.8 |  | 2.441 |  |  | end of string | p2
+ZONE | E-14 | 1482.9 | 1486.7 | MDTHF | slide text box obj #11 'mMDTHF 1482.9 – 1486.7' beside SAND: E-14 | slide obj #11 | perf
+ZONE | E-14 | 1487.4 | 1496.9 | MDTHF | slide text box obj #11 'mMDTHF 1487.4 – 1496.9' beside SAND: E-14 | slide obj #11 | perf
+PBTD | 1800 | MDDF | PBTD : 1800 mMDDF (header)
+TD | 1819.9 | MDTHF | TD @ 1819.9 m MDTHF
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p2 | 7" 23 PPF CASING label on the diagram (no depth)
+NOTE | picture p2 | DOGLEG (DEPTH): 135.0 - 185.0, 414.8 - 703.1
+NOTE | slide 5 obj #35 | PB valve set at TRSV profile. Jammed Open || TR flapper lock open in May 2021
+NOTE | slide 5 obj #7 | 28 Apr 2026 || RIH 2.25" GR tagged D No Go at 1464m-MDTHF || RIH 2.00" LIB tagged HUD at 1529m-MDTHF
+NOTE | slide 5 obj #6 | Damaged 2" OD gun left in hole (July 2002). Top of fish unknown
+ISSUE | Unclear | picture p2 | SEAL BORE EXT printed at 1459.2 m, shallower than the GT packer (1459.9 m) listed above it — kept as printed
+ISSUE | Unclear | slide 5 obj #10 | status 'GLOV 20/64" (Mar 15)' is a slide text box; matched to SPM 1357.6 m by vertical position (later than the printed diagram)
+ISSUE | Unclear | header | PBTD 1800 m MDDF (header) and TD 1819.9 m MDTHF (diagram) are on different datums — not shifted; 7" shoe 1834 m MDDF - RTE 14.13 m = 1819.87 m, consistent with the TD

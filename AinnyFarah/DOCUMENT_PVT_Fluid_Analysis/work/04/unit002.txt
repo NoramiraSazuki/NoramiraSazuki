@@ -1,0 +1,31 @@
+TABLE 1
+SAMPLING CONDITIONS
+I. RESERVOIR AND WELL CHARACTERISTICS | SAMPLE(S) VALIDITY
+Producing zone | 1205-1220M | SEPARATOR LIQUID SAMPLE(S)
+Static pressure | 1775 psig
+Bottom hole temperature | 198 F | 1) Sample bottle no 1116/59
+Tubing diameter | 3 1/2" | Bubble point pressure determination at 71 F is 478 psig
+Casing size | 9 5/8"
+Casing shoe | 1216 M
+II. SAMPLING CONDITIONS
+A) SURFACE SAMPLE(S)
+Date | 1982-05-09 00:00:00
+Choke | 40/64" since 09hrs00
+Flowing bottom hole pressure | 1655.2 psig at 1185.6 M 1150 psig
+Well head pressure | 450 psig
+Separator pressure | 117 F
+Well head temperature | 59 F
+Separator temperature | 9820000 St cu ft/day
+Gas rate (Separator.) | N/A
+Stock tank temperature | 0. 533
+Compressibility factor | 1. 220 (Air=l)
+Gas gravity | N/A
+Liquid rate (Separator) | N/A
+G.L.R | gas A12629-A13506
+Sample( s) received | A5939
+liq.1116/59
+B) BOTTOM HOLE SAMPLE (S)
+Date | NA
+Choke | NA
+Sample(s) received | NA
+--- OCR ---

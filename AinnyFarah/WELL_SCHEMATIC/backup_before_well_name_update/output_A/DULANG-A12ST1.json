@@ -1,0 +1,27 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "73.88 @ 1567 m-MDDF",
+    "name": "DULANG-A12ST1",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": "Cooper Cameron, 3-1/8\",3000 psi"
+  },
+  "surveys": [],
+  "components": [],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

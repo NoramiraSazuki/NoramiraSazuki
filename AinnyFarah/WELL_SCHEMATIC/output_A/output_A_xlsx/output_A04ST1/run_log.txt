@@ -1,0 +1,17 @@
+Components 68 Plug_Back_Cement 1 Formations 4 Formation_Tops 4
+PASS - Only the 5 target sheet XML parts changed (README, Component_Types, styles, header notes, other sheets byte-identical)
+PASS - Components dropdowns kept (1 x14 + standard lists)
+PASS - Components: template columns A:AC unchanged, extra columns after AC
+PASS - Components: 68 rows, template example rows removed
+PASS - Every Component_Type is in the Component_Types list
+PASS - Component_IDs unique
+PASS - Components: all written values equal extracted values; every ft depth = m × 3.28084
+PASS - Equipment names identical to source text
+PASS - Well_Info: property labels unchanged; values written
+PASS - Plug_Back_Cement: 1 rows written
+PASS - Formations: 4 rows written
+PASS - Formation_Tops: 4 rows written
+PASS - Sheets with no source data left empty (Cement, Centralizers, Float_Equipment, Surveys, Fluid_Contacts)
+PASS - Source file unchanged
+PASS - Template unchanged
+Dulang_A04ST1_Well_Schematic_Populated.xlsx Dulang_A04ST1_Mapping_Review.xlsx

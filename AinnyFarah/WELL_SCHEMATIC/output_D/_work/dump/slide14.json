@@ -1,0 +1,283 @@
+{
+ "slide": 14,
+ "file": "slides/slide14.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "well already abandoned. \n\nOpen\n13",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6152194",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5333839,
+   "y": 0,
+   "cx": 6900230,
+   "cy": 9677400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.29,
+    0.0,
+    69.47,
+    97.69
+   ],
+   "image": "../media/image43.png",
+   "crop": {
+    "l": "31002",
+    "t": "12671",
+    "r": "29028",
+    "b": "656"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5452269,
+   "y": 5257800,
+   "cx": 762000,
+   "cy": 533400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.96,
+    53.08,
+    35.29,
+    58.46
+   ],
+   "text": "Retrieve CA Plug\n\t(13/11/12)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "5",
+   "name": "Table 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 9296400,
+   "cx": 3276600,
+   "cy": 609600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    93.85,
+    49.13,
+    100.0
+   ],
+   "table": [
+    [
+     "LONG",
+     "SGS: 10/10/2007",
+     "FGS: 1/8/2003"
+    ],
+    [
+     "SHORT",
+     "SGS: 26/4/2004",
+     "FGS: -"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5395119,
+   "y": 5867400,
+   "cx": 819150,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.64,
+    59.23,
+    35.29,
+    63.85
+   ],
+   "text": "\tOPENED\n\t(13/11/12)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10938669,
+   "y": 9440336,
+   "cx": 990600,
+   "cy": 237067,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.12,
+    95.3,
+    67.74,
+    97.69
+   ],
+   "text": "21 Aug 2014",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "Rectangle 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5109374,
+   "y": 3124200,
+   "cx": 1790699,
+   "cy": 152400,
+   "rot": 180.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    29.01,
+    31.54,
+    39.18,
+    33.08
+   ],
+   "text": "#3  Recovered GLOV (5/10/12)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6747670,
+   "y": 5867400,
+   "cx": 1295400,
+   "cy": 609600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.32,
+    59.23,
+    45.67,
+    65.38
+   ],
+   "text": "1 Aug 2014: RIH 2.25\" Sand Pump Bailer and HUD @ 2398m MDTHF, fine sand",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rectangle 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11167269,
+   "y": 2895600,
+   "cx": 990600,
+   "cy": 381000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.41,
+    29.23,
+    69.04,
+    33.08
+   ],
+   "text": "5 Aug 2014:Rih 1.875\" N/stem + 2.72\" Tubing Swage to HUD @ 154 m-MDTHF",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "11",
+   "name": "Straight Connector 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9871869,
+   "y": 1828800,
+   "cx": 1143000,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.06,
+    18.46,
+    62.55,
+    18.46
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "Rounded Rectangle 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3499543,
+   "y": 2804629,
+   "cx": 10287000,
+   "cy": 1981200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    19.87,
+    28.31,
+    78.29,
+    48.31
+   ],
+   "text": "ABANDONMENT",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

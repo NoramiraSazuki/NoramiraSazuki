@@ -1,0 +1,21 @@
+TABLE 4 | TABLE 5
+BUBBLE POINT PRESSURE DETERMINATION AT 203 °F | BUBBLE POINT PRESSURE DETERMINATION AT 203 °F
+Bottom hole sample ( Cylinder 12689/66) | Bottom hole sample ( Cylinder 15089/12)
+Pressure (psig) | Pump reading (cm3) | Pressure (psig) | Pump reading (cm3)
+6000 | 410.2 | 6000 | 412.89
+5000 | 406.19 | 5000 | 407. 92
+4007 | 402.27 | 4018 | 403.14
+3058 | 398.66 | 3064 | 398.3
+2072 | 394.52 | 2090 | 392.72
+1743 | 393.04 | 1670 | 390.41
+Pb= 1668 | 392.68 | Pb= 1660 | 390.21
+1656 | 391.98 | 1655 | 389.91
+1644 | 391.44 | 1650 | 389.39
+1636 | 390.88 | 1645 | 388.88
+1622 | 389.88 | 1635 | 387.85
+1600 | 387.9 | 1622 | 385.86
+1568 | 384.94 | 1590 | 381.5
+1530 | 380.95 | 1550 | 376
+1488 | 375.95
+This sample has been used to complete PVT Study
+--- OCR ---

@@ -1,0 +1,44 @@
+# slide 7 (slides/slide7.xml) hidden=False objects=27
+# notes: 'Open\n7'
+[pic id=6146 'Picture 2' pct=[4.66, 0.83, 97.99, 63.83] hidden=False img=../media/image16.png]
+[pic id=6147 'Picture 3' pct=[4.51, 63.26, 97.84, 90.83] hidden=False img=../media/image17.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=7 'TextBox 6' pct=[88.04, 55.83, 97.96, 60.21] hidden=False]
+    OPEN
+    JAN 2009
+[sp id=8 'TextBox 7' pct=[88.04, 79.17, 97.96, 83.54] hidden=False]
+    CLOSED
+    JAN 2009
+[sp id=10 'TextBox 9' pct=[4.73, 84.17, 17.78, 86.86] hidden=False]
+    07/Aug/2001
+[sp id=13 'Rectangle 12' pct=[6.46, 44.17, 16.46, 50.83] hidden=False]
+    retrieve 2.31" CSA @141m-MDTHF
+[sp id=15 'TextBox 14' pct=[86.68, 39.38, 101.12, 41.73] hidden=False]
+    DV  (Mar/07)
+[sp id=16 'TextBox 15' pct=[86.67, 43.59, 97.28, 45.95] hidden=False]
+    GLV (Jan/07)
+[sp id=19 'TextBox 18' pct=[86.68, 45.82, 97.48, 49.52] hidden=False]
+    GLOV 16/64”
+     (Jan/07)
+[sp id=20 'TextBox 19' pct=[86.67, 41.86, 101.11, 44.22] hidden=False]
+    DV  (Mar/07)
+[sp id=21 'Rectangle 20' pct=[32.51, 79.12, 41.44, 82.83] hidden=False]
+    ‘CA’ Plug  (Jan 2009) 
+[sp id=25 'Rectangle 24' pct=[5.49, 61.39, 17.05, 67.44] hidden=False]
+    LD1
+    1698 - 1706
+[sp id=26 'Rectangle 25' pct=[4.68, 79.79, 17.4, 84.79] hidden=False]
+    E7 – 1804– 1818
+[sp id=6 'Rectangle 5' pct=[85.49, 68.38, 99.03, 73.43] hidden=False]
+    HUD@1726mMDTHF (Apr 2023). Suspect fine sand
+[sp id=31 'Text Box 289' pct=[1.73, 1.16, 28.66, 2.68] hidden=False]
+    Updated by Pravin Nair Feb 2023
+[sp id=24 'TextBox 23' pct=[6.7, 31.43, 26.07, 35.97] hidden=False]
+    ‘B’ Tbg stop + SC (195psi) set @ TRSV profile. TR flapper lock open in April 2015
+[sp id=12 'TextBox 11' pct=[33.33, 25.69, 51.29, 29.06] hidden=False]
+    2 suspected leak points @ 16m & 26m from MIT 2021
+[sp id=29 'Footer Placeholder 28' pct=None hidden=False]
+    Open
+[sp id=9 'TextBox 8' pct=[12.37, 44.31, 26.81, 47.67] hidden=False]
+    Mar 2024 : Fluid level @  1432 WLTHF

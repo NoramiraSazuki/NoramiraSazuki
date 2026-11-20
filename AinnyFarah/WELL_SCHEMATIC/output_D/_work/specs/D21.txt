@@ -1,0 +1,42 @@
+WELL | D21 | 21 | image57.png | WELL D-21 : SINGLE OIL PRODUCER
+SRC | 21 | image57.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 17 JULY 1996
+INFO | rig | TEKNIK BERKAT (TENDER ASSISTED)
+INFO | tubing | 2 7/8" ( 6.4 PPF, N-80, TKC 40-40 ); TAILPIPE : 2 7/8" ( 6.4 PPF, N-80, HYDRILL 511 FLUSH JOINT )
+INFO | xmas | FMC, SINGLE 3 1/8" X 11", 5000 PSI
+INFO | packerFluid | 9.3 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 80.4 DEG.@2870.3m-MDTHF
+INFO | completionType | SINGLE OIL PRODUCER
+CASING | 13 3/8" K-55 SURF, 87.5 PPF @ 1844.0m-MDDF | 13.375 | 87.5 | K-55 | 1844.0 | MDDF
+CASING | 9 - 5/8" N-80 PROD.40 PPF,BUTT. @2700.7m-MDDF | 9.625 | 40 | N-80 | 2700.7 | MDDF
+CASING | 7" LINER N-80, 17PPF @ 2560.0m-MDDF | 7 | 17 | N-80 | 2560.0 | MDDF | 2545.3 | 7" 29PPF x 9-5/8" LINER HANGER@78.2 DEG. 2545.3 (diagram, m MDTHF)
+TUBING | 2 7/8" ( 6.4 PPF, N-80, TKC 40-40 ) | 2.875 | 6.4 | N-80 | - |
+TUBING | TAILPIPE : 2 7/8" ( 6.4 PPF, N-80, HYDRILL 511 FLUSH JOINT ) | 2.875 | 6.4 | N-80 | tailpipe |
+ROW | X | FLOW COUPLING | 143.9 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A-LS SCSSV | 144.8 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 297.8 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M SPM | 948.9 |  | 2.371 |  | GLV 8/64" |  | p1
+ROW | X | KBMG-M SPM | 1612.1 |  | 2.371 |  | GLV 12/64" |  | p1
+ROW | X | KBMG-M SPM | 2093.3 |  | 2.371 |  | GLV 16/64" |  | p1
+ROW | X | KBMG-M SPM | 2419.9 |  | 2.371 |  | DV |  | p1
+ROW | X | CSW-ID-T SSD | 2479.6 |  | 2.312 |  |  |  | p2
+ROW | X | CAMCO ' HRP-4-SP' SINGLE HYD. PACKER. | 2487.5 |  | 2.347 |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 2492.0 |  | 2.250 |  |  |  | p2
+ROW | X | TIEBACK PACKER @78.8 DEG. | 2541.3 |  |  |  |  |  | p2
+ROW | X | CHEVRON SEAL TIEBACK PKR. |  |  |  |  |  | no depth printed (between 2541.3 and 2545.3) | p2
+ROW | X | 7" 29PPF x 9-5/8" LINER HANGER@78.2 DEG. | 2545.3 |  |  |  |  |  | p2
+ROW | X | 7" x 5-1/2" X-OVER | 2546.3 |  |  |  |  | liner crossover | p2
+ROW | X | 2-7/8"TKC4040 BX.x 511 HYD. PIN X-OVER | 2829.6 |  |  |  |  | top of the HYDRILL 511 tailpipe | p2
+ROW | X | 2-7/8"TKC4040 BX.x 511 HYD. BOX X-OVER | 4119.7 |  | 2.375 |  |  |  | p2
+ROW | X | 2-7/8" OTIS CONICAL M/SHOE | 4120.1 |  | 2.441 |  |  |  | p2
+ROW | X | END OF TUBING | 4120.3 |  |  |  |  |  | p2
+SHOE | END OF 9-5/8" CASING SHOE @78.2 DEG. | 2686.2 | MDTHF |  | END OF 9-5/8" CASING SHOE @78.2 DEG. 2686.2 (header 2700.7m-MDDF)
+SHOE | 5-1/2" CSG.SHOE@58.1 DEG. | 4263.3 | MDTHF |  | 5-1/2" CSG.SHOE@58.1 DEG. 4263.3 (5-1/2" section below the 7" x 5-1/2" X-OVER at 2546.3)
+ZONE | E-12/13 | 4132.0 | 4137.8 | MDTHF | SAND: E-12/13 4132.0m-4137.8m-MDTHF | p2 | perf
+ZONE | E-12/13 | 4141.3 | 4143.3 | MDTHF | 4141.3m-4143.3m-MDTHF | p2 | perf
+NOTE | picture p1 | 04/Nov/2012 - HUD @ 1816 m-MDTHF
+ISSUE | Conflict | header vs diagram | liner: header '7" LINER N-80, 17PPF @ 2560.0m-MDDF' vs diagram '7" 29PPF x 9-5/8" LINER HANGER' (2545.3) with '7" x 5-1/2" X-OVER' at 2546.3 and '5-1/2" CSG.SHOE' at 4263.3 m-MDTHF; the header shoe 2560 MDDF lies above the 9-5/8" shoe — header liner kept with TOL 2545.3 from the diagram, 5-1/2" shoe kept as a separate shoe record, weights 17 vs 29 PPF both recorded
+ISSUE | Conflict | header vs diagram | 9-5/8" shoe: header 2700.7m-MDDF vs diagram 2686.2 (m MDTHF) — diagram value used, header recorded (difference 14.5 m ≈ RTE 14.63 m)
+ISSUE | Missing | picture | no PBTD / TD printed on this schematic

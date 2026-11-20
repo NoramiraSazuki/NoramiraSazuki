@@ -1,0 +1,608 @@
+{
+ "slide": 27,
+ "file": "slides/slide27.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n26",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "11",
+   "name": "Group 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5394896,
+   "y": 1,
+   "cx": 6839179,
+   "cy": 9727513,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.64,
+    0.0,
+    69.47,
+    98.2
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "5",
+   "name": "Picture 4",
+   "path": [
+    "Group 10"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5394896,
+   "y": 1,
+   "cx": 6833226,
+   "cy": 5353213,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.64,
+    0.0,
+    69.44,
+    54.04
+   ],
+   "image": "../media/image69.png"
+  },
+  {
+   "kind": "pic",
+   "id": "9",
+   "name": "Picture 8",
+   "path": [
+    "Group 10"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5400849,
+   "y": 5135284,
+   "cx": 6833226,
+   "cy": 4592230,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.67,
+    51.84,
+    69.47,
+    98.2
+   ],
+   "image": "../media/image70.png",
+   "crop": {
+    "t": "251",
+    "b": "-1"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Line Callout 2 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12718093,
+   "y": 7591426,
+   "cx": 1244599,
+   "cy": 1171575,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.22,
+    76.63,
+    79.29,
+    88.46
+   ],
+   "text": "Set PXN plug (28/10/13)",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "Oval 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "Rounded Rectangle 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6784680,
+   "y": 8464050,
+   "cx": 304800,
+   "cy": 304800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.53,
+    85.44,
+    40.26,
+    88.52
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "Block Arc 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6732855,
+   "y": 7829910,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.23,
+    79.04,
+    40.4,
+    81.55
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11104229,
+   "y": 7023991,
+   "cx": 1094943,
+   "cy": 519811,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.06,
+    70.91,
+    69.27,
+    76.15
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11104228,
+   "y": 8515350,
+   "cx": 1082908,
+   "cy": 530125,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.06,
+    85.96,
+    69.21,
+    91.31
+   ],
+   "text": "CLOSED ",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "TextBox 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11132459,
+   "y": 5373739,
+   "cx": 1054679,
+   "cy": 530125,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.22,
+    54.25,
+    69.21,
+    59.6
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "Rectangle 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5437981,
+   "y": 1828800,
+   "cx": 457200,
+   "cy": 2924984,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.88,
+    18.46,
+    33.48,
+    47.99
+   ],
+   "text": "\n219\n220\n221\n\n\n467\n734\n955\n1127\n1258\n1372\n\n1476\n\n1493",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "Rectangle 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5439910,
+   "y": 4629369,
+   "cx": 457200,
+   "cy": 808816,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.89,
+    46.73,
+    33.49,
+    54.9
+   ],
+   "text": "1497\n\n1506\n1507",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "Rectangle 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5430657,
+   "y": 8413750,
+   "cx": 457200,
+   "cy": 1447800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.84,
+    84.94,
+    33.43,
+    99.55
+   ],
+   "text": "1593\n1594\n1601\n\n\n\nTD\n1634",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "Rectangle 28",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5433743,
+   "y": 5664462,
+   "cx": 464457,
+   "cy": 458435,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.86,
+    57.18,
+    33.49,
+    61.81
+   ],
+   "text": "1551-1554\n1555",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "Rectangle 30",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5437529,
+   "y": 6610260,
+   "cx": 464320,
+   "cy": 529243,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.88,
+    66.73,
+    33.51,
+    72.07
+   ],
+   "text": "1559\n\n1561-1564\n\n1574",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "32",
+   "name": "Rectangle 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5411563,
+   "y": 8039100,
+   "cx": 489788,
+   "cy": 371474,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.73,
+    81.15,
+    33.51,
+    84.9
+   ],
+   "text": "1581\n1586-1589\n1592-1595",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "33",
+   "name": "Rectangle 32",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5432449,
+   "y": 1649397,
+   "cx": 464320,
+   "cy": 257209,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.85,
+    16.65,
+    33.49,
+    19.25
+   ],
+   "text": "MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "34",
+   "name": "Line Callout 2 33",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12718668,
+   "y": 6964994,
+   "cx": 3282130,
+   "cy": 681723,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.22,
+    70.31,
+    90.86,
+    77.19
+   ],
+   "text": "5/1/2016 ||HUD @ 1582m-MDTHF due to sand. Tagged during PLT 2017 as well. \nPLT 2023 log until this HUD depth",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "35",
+   "name": "Table 34",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11243469,
+   "y": 2553181,
+   "cx": 4025207,
+   "cy": 2011680,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.85,
+    25.77,
+    86.7,
+    46.08
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth \nm-MDTHF",
+     "PTRO (psia)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "DV",
+     "467",
+     "-",
+     "",
+     "9 Apr 2019"
+    ],
+    [
+     "2",
+     "DV",
+     "734",
+     "-",
+     "",
+     "9 Apr 2019"
+    ],
+    [
+     "3",
+     "DV",
+     "955",
+     "-",
+     "",
+     "9 Apr 2019"
+    ],
+    [
+     "4",
+     "DV",
+     "1127",
+     "-",
+     "",
+     "9 Apr 2019"
+    ],
+    [
+     "5",
+     "GLV (IPO)",
+     "1258",
+     "1105",
+     "12/64”",
+     "9 Apr 2019"
+    ],
+    [
+     "6",
+     "GLOV",
+     "1372",
+     "-",
+     "14/64”",
+     "9 Apr 2019"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "Line Callout 2 33",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12718093,
+   "y": 4759088,
+   "cx": 3282130,
+   "cy": 2011679,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.22,
+    48.04,
+    90.86,
+    68.35
+   ],
+   "text": " PLT 2017 ||Negative sign across 3-Way Sub most probably due to water circulation or possible leak point  \n\nThe heavy phase (water)\nmay be dragged upward by light oil / gas flowing up – on the high side of pipe and fall back on the low\nside of the pipe if there is not enough energy to lift it up. This will create continuous circulation of\nwater and seen by flow meter as only downward flow when it is in fact due to an upward low dense\nfluid (gas) flow.",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Star: 5 Points 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6804274,
+   "y": 7436404,
+   "cx": 265611,
+   "cy": 155022,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.64,
+    75.07,
+    40.15,
+    76.63
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "36",
+   "name": "Line Callout 2 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2506963,
+   "y": 7172325,
+   "cx": 2364547,
+   "cy": 1396158,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.24,
+    72.4,
+    27.66,
+    86.5
+   ],
+   "text": "PLT 2017 - Both spinner and temperature tool indicated an obvious tubing leak at depth 1598.4 m-MDBDF where Pup Joint was located as a significant change in revolutions per second was observed.\n\nPLT 2023 same finding",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

@@ -1,0 +1,340 @@
+{
+ "slide": 5,
+ "file": "slides/slide5.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "5",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "2",
+   "name": "Group 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 336720,
+   "y": 490460,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.91,
+    5.36,
+    98.24,
+    95.36
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "5122",
+   "name": "Picture 2",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 336720,
+   "y": 490460,
+   "cx": 6400800,
+   "cy": 5526470,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.91,
+    5.36,
+    98.24,
+    65.8
+   ],
+   "image": "../media/image11.png",
+   "crop": {
+    "l": "27864",
+    "t": "11373",
+    "r": "20124",
+    "b": "8380"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "5123",
+   "name": "Picture 3",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 336720,
+   "y": 5990939,
+   "cx": 6310086,
+   "cy": 2729121,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.91,
+    65.52,
+    96.92,
+    95.36
+   ],
+   "image": "../media/image12.png",
+   "crop": {
+    "l": "27908",
+    "t": "45057",
+    "r": "20817",
+    "b": "15315"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 971741,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    99.73,
+    4.87
+   ],
+   "text": "FB – SE1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5922946,
+   "y": 5946011,
+   "cx": 682535,
+   "cy": 200055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.37,
+    65.03,
+    96.32,
+    67.21
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rectangle 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 5400430,
+   "cx": 738081,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    59.06,
+    96.32,
+    62.76
+   ],
+   "text": "GLOV 20/64\" (Mar 15)",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "Rectangle 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1892939,
+   "y": 3507861,
+   "cx": 298450,
+   "cy": 146050,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.6,
+    38.36,
+    31.95,
+    39.96
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "35",
+   "name": "TextBox 34",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 506052,
+   "y": 3288498,
+   "cx": 1217556,
+   "cy": 707886,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.38,
+    35.96,
+    25.13,
+    43.7
+   ],
+   "text": "PB valve set at TRSV profile. Jammed Open\n\nTR flapper lock open in May 2021",
+   "geom": "rect",
+   "fill": "FFFF99"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 71603,
+   "y": 6562720,
+   "cx": 1452397,
+   "cy": 954107,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.04,
+    71.77,
+    22.22,
+    82.21
+   ],
+   "text": "28 Apr 2026\n\nRIH 2.25” GR tagged D No Go at 1464m-MDTHF\n\nRIH 2.00” LIB tagged HUD at 1529m-MDTHF",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "3",
+   "name": "Graphic 2",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 2042164,
+   "y": 7846579,
+   "cx": 214162,
+   "cy": 214162,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.78,
+    85.81,
+    32.9,
+    88.15
+   ],
+   "image": null,
+   "image_alt": "../media/image13.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2630066,
+   "y": 8502332,
+   "cx": 1814108,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.35,
+    92.98,
+    64.8,
+    97.02
+   ],
+   "text": "Damaged 2” OD gun left in hole (July 2002). Top of fish unknown",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4221,
+   "y": 7705236,
+   "cx": 710154,
+   "cy": 300082,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.06,
+    84.27,
+    10.42,
+    87.55
+   ],
+   "text": "mMDTHF\n1482.9 – 1486.7 \n1487.4 – 1496.9",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "Footer Placeholder 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Graphic 3",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 2785114,
+   "y": 8381652,
+   "cx": 214162,
+   "cy": 214162,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.61,
+    91.66,
+    43.73,
+    94.0
+   ],
+   "image": null,
+   "image_alt": "../media/image13.svg"
+  }
+ ]
+}

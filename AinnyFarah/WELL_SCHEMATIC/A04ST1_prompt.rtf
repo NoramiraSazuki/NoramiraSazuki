@@ -1,0 +1,61 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Read only this source file:\
+\
+/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/WELL_SCHEMATIC/Dulang A04ST1 Well Schematic.xlsx\
+(sheet "OP4 dual A04ST1 STMZ & SAS", including the shapes/text boxes in its drawing layer)\
+\
+Template:\
+/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/WELL_SCHEMATIC/well-schematic-template-json.rtf\
+Component type list: Component_Types sheet of well-schematic-sample-template.xlsx (use its Type_Key values).\
+\
+Output directory:\
+/Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/WELL_SCHEMATIC/output_A04ST1\
+Output file: Dulang_A04ST1_Well_Schematic.json (+ Dulang_A04ST1_JSON_Mapping_Review.xlsx)\
+\
+Rules:\
+- Treat the source workbook and the template as strictly read-only; verify both are unchanged (sha256) at the end.\
+- Read values directly from the cells; do not retype them. Process locally only.\
+- Keep the template's sections, section order and wellInfo keys exactly. Remove the template's sample records\
+  (sample surveys, components and formationTops).\
+- Depths: convert m MDDF -> ft (x 3.28084, 3 decimals) for topMd / bottomMd / md / tvd / totalDepth / kbElevation, and\
+  keep the original meters in extra keys: topMdM, bottomMdM, mdM, tvdM, totalDepthM, kbElevationM.\
+- When the header block and the schematic diagram disagree, use the diagram value:\
+  TD from the diagram (K190), PBTD from the diagram (K187), liner top from the "TOL" label (K78). Leave the\
+  liner bottom empty and flag it if the diagram gives no liner shoe depth (header said "2513 - 2591 m MDDF").\
+- Component type: use the nearest Component_Types key when there is no exact match (e.g. AUTO SPM DIAL -> spm,\
+  DIAL sensor / perforated pup -> pup-joint, pump-out plug -> mechanical-plug, bull nose -> mule-shoe,\
+  no-go locator -> st-slot-locator, sealbore extension -> pbr). Mark these with estimated = true,\
+  estimatedFields = ["type"] and an estimationNote, and keep the real equipment name in an extra key actualType.\
+- Also add per component: source (cell reference + text), string (Short / Long / Short & Long), and keep the\
+  equipment name exactly as written in the cell.\
+- Short string = columns B (OD) / D (ID) / F (name) / K (depth); long string = AB (OD) / Z (ID) / U (name) / S (depth).\
+  The dual-string packer at K61/S61 is one component.\
+- Tubulars: wellhead (G15), conductor / intermediate casing (depths "xx" -> empty, flagged), production casing\
+  (top assumed 0, flagged; bottom = 9-5/8" casing shoe K86), production liner, short string (0 -> EOT K71),\
+  long string 3-1/2" (0 -> crossover S88) and 2-7/8" (S88 -> long EOT S177).\
+- Include the June 2022 drawing annotations: Bridge Plug @ 3192m MDDF (bridge-plug component, set date month only ->\
+  description), TOC @ 3155m MDDF (plugBackCement 3155 - 3192), and the seal-assembly leak note (attach to the\
+  nearest seal assembly, 3107.58 m, and flag the placement).\
+- Zones E34A, E40A, E47A, E51 (Future BCO): write formations (name, topTvd, bottomTvd) and formationTops\
+  (name, md = top MD, tvd = top TVD). Zones without depths (E34B - BCO) -> not mapped, listed in the review.\
+- wellInfo: name "DULANG A004S01 OP4" (B2); completionDate from G8 (YYYY-MM-DD); completionFluid V16; packerFluid V17+V18;\
+  rig G9; maxDeviation G12; wellhead G15; tubing summary from P13:Y14; surfaceCasing = 13-3/8" INT. CASING row\
+  (flag as interpretation); trajectoryType "Deviated" (derived from max deviation, flagged);\
+  keep template defaults ("-" / 0) for completionType and groundElevation.\
+- No data in the source for surveys (deviation angles have no azimuth), cement, centralizers, float equipment or\
+  fluid contacts -> leave these sections as empty lists.\
+- Write a review workbook with: Traceability (every JSON path -> source cell -> conversion), Flags & Conflicts,\
+  No Destination (source content with no template field), Validation.\
+\
+Validate before completing:\
+- valid JSON; sections/order and wellInfo keys identical to the template\
+- every component type is a Component_Types key; component ids unique\
+- every ft depth = m x 3.28084; component names identical to the source cells\
+- source workbook and template unchanged\
+}

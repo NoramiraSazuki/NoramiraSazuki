@@ -1,0 +1,346 @@
+{
+  "wellInfo": {
+    "completionDate": "2020-04",
+    "completionFluid": "8.5 ppg NaCl filtered to 30 NTU",
+    "completionType": "single string water injector (Well ID ... A33ST2 WI)",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "58deg @ 1,800m MDDF",
+    "name": "DULANG-A33ST3",
+    "packerFluid": "8.5 ppg NaCl with 2% Corrosion Inhibitor + 2% Oxygen Scavenger + 0.2% Biocide",
+    "rig": "Sapura Berani",
+    "surfaceCasing": "-",
+    "totalDepth": 6379.921,
+    "trajectoryType": "-",
+    "tubing": "Tubing 3-1/2\" GRE lined 9.2 L80 JFEFOX; Tubing 3-1/2\" - Below 7\" AHC 9.2 15CR-125 JFE BEAR",
+    "wellhead": "Surface Unihead, Solar Alert, Surface, Standard, Single"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "christmas-tree-1",
+      "type": "christmas-tree",
+      "name": "Solar Alert  5,000 psi",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name 'Solar Alert  5,000 psi' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib))"
+    },
+    {
+      "id": "tubing-hanger-1",
+      "type": "tubing-hanger",
+      "name": "TUBING HANGER Bear (BOX Down)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.992,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O18/M18/S18/T18 name 'TUBING HANGER Bear (BOX Down)' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.992' (column 'MIN ID' = explicit ID); transcription note: depth not printed (length 1.52 m); MAX OD printed 'TBC'; depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "crossover-1",
+      "type": "crossover",
+      "name": "XOVER 3-1/2\" BEAR Pin x FOX DTP (BOX)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.833,
+      "innerDiameter": 2.545,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: pin x box sub joining connections -> Crossover is the nearest type",
+      "actualType": "XOVER 3-1/2\" BEAR Pin x FOX DTP (BOX)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O19/M19/S19/T19 name 'XOVER 3-1/2\" BEAR Pin x FOX DTP (BOX)' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.545' (column 'MIN ID' = explicit ID); outerDiameter '3.833' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.46 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "crossover-2",
+      "type": "crossover",
+      "name": "OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80]",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.833,
+      "innerDiameter": 2.357,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: pin x box sub joining connections -> Crossover is the nearest type",
+      "actualType": "OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80]",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O24/M24/S24/T24 name 'OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80]' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.357' (column 'MIN ID' = explicit ID); outerDiameter '3.833' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.91 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "trsv-1",
+      "type": "trsv",
+      "name": "TRSV, 2-7/8 6.4PPF JFEBEAR BXP",
+      "topMd": 835.335,
+      "bottomMd": null,
+      "outerDiameter": 4.609,
+      "innerDiameter": 2.312,
+      "topMdM": 254.61,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O25/K25/M25/S25/T25 name 'TRSV, 2-7/8 6.4PPF JFEBEAR BXP' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd '254.61' = 254.61 m -> 835.335 ft (m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)') (equipment depth column as printed)); innerDiameter '2.312' (column 'MIN ID' = explicit ID); outerDiameter '4.609' (column 'MAX OD' = explicit OD); transcription note: length 1.35 m; depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.833,
+      "innerDiameter": 2.357,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O26/M26/S26/T26 name 'OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.357' (column 'MIN ID' = explicit ID); outerDiameter '3.833' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.91 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "crossover-3",
+      "type": "crossover",
+      "name": "Crossover - 3-1/2\" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.893,
+      "innerDiameter": 2.545,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: pin x box sub joining connections -> Crossover is the nearest type",
+      "actualType": "Crossover - 3-1/2\" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O51/M51/S51/T51 name 'Crossover - 3-1/2\" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.545' (column 'MIN ID' = explicit ID); outerDiameter '3.893' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.5 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR PIN",
+      "topMd": 5906.201,
+      "bottomMd": null,
+      "outerDiameter": 5.909,
+      "innerDiameter": 2.885,
+      "topMdM": 1800.21,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O52/K52/M52/N52/S52/T52 name '7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR PIN' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd '1800.21' = 1800.21 m -> 5906.201 ft (m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)') (equipment depth column as printed)); innerDiameter '2.885' (column 'MIN ID' = explicit ID); outerDiameter '5.909' (column 'MAX OD' = explicit OD); transcription note: length 2.44 m; angle 58.0 deg; depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "crossover-4",
+      "type": "crossover",
+      "name": "Crossover - 3-1/2\"  BEAR (B) x 2-7/8\" Bear (P), 25CR-80KSI",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.833,
+      "innerDiameter": 2.441,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O54/M54/S54/T54 name 'Crossover - 3-1/2\"  BEAR (B) x 2-7/8\" Bear (P), 25CR-80KSI' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '3.833' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.5 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "nipple-x-1",
+      "type": "nipple (x)",
+      "name": "OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1",
+      "topMd": 5918.471,
+      "bottomMd": null,
+      "outerDiameter": 3.385,
+      "innerDiameter": 2.205,
+      "topMdM": 1803.95,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O55/K55/M55/S55/T55 name 'OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd '1803.95' = 1803.95 m -> 5918.471 ft (m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)') (equipment depth column as printed)); innerDiameter '2.205' (column 'MIN ID' = explicit ID); outerDiameter '3.385' (column 'MAX OD' = explicit OD); transcription note: length 0.42 m; depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "crossover-5",
+      "type": "crossover",
+      "name": "Crossover - 2-7/8\" Bear (B) X 3-1/2\" Bear (P), 25CR-80KSI",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 3.833,
+      "innerDiameter": 2.441,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O56/M56/S56/T56 name 'Crossover - 2-7/8\" Bear (B) X 3-1/2\" Bear (P), 25CR-80KSI' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '3.833' (column 'MAX OD' = explicit OD); transcription note: depth not printed (length 0.5 m); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "3-1/2\" Muleshoe Guide / Drop Sub",
+      "topMd": 6023.688,
+      "bottomMd": null,
+      "outerDiameter": 4.0,
+      "innerDiameter": 2.9,
+      "topMdM": 1836.02,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O61/K61/S61/T61 name '3-1/2\" Muleshoe Guide / Drop Sub' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd '1836.02' = 1836.02 m -> 6023.688 ft (m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)') (equipment depth column as printed)); innerDiameter '2.9' (column 'MIN ID' = explicit ID); outerDiameter '4.0' (column 'MAX OD' = explicit OD); transcription note: end of string; depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "lc-pup-joint-1",
+      "type": "pup-joint",
+      "name": "ITCP Assembly",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "UNRESOLVED type: UNRESOLVED: ITCP (tubing-conveyed perforating) assembly has no Type_Key; Pup Joint used as the nearest short tubular",
+      "actualType": "ITCP Assembly",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) O62 name 'ITCP Assembly' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); transcription note: depth not printed (below the muleshoe guide / drop sub); lower-completion item (no string assigned); depth datum: m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')"
+    },
+    {
+      "id": "conductor-1",
+      "type": "casing",
+      "name": "26\" Conductor (Existing) 202.0 A-36 Welded",
+      "topMd": null,
+      "bottomMd": 595.341,
+      "outerDiameter": null,
+      "innerDiameter": 26.0,
+      "topMdM": null,
+      "bottomMdM": 181.46,
+      "weight": 202.0,
+      "grade": "A-36",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name '26\" Conductor (Existing) 202.0 A-36 Welded' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); bottomMd '26\" Conductor (Existing) 202.0 A-36 Welded' = 181.46 m -> 595.341 ft (m MDDF as printed); innerDiameter '26' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-1",
+      "type": "casing",
+      "name": "16\" Casing (Existing) 75.0 J-55 BTC",
+      "topMd": null,
+      "bottomMd": 618.307,
+      "outerDiameter": null,
+      "innerDiameter": 16.0,
+      "topMdM": null,
+      "bottomMdM": 188.46,
+      "weight": 75.0,
+      "grade": "J-55",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name '16\" Casing (Existing) 75.0 J-55 BTC' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); bottomMd '16\" Casing (Existing) 75.0 J-55 BTC' = 188.46 m -> 618.307 ft (m MDDF as printed); innerDiameter '16' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-2",
+      "type": "casing",
+      "name": "13-3/8\" Casing (Existing) 54.5 K-55 BTC",
+      "topMd": null,
+      "bottomMd": 1454.265,
+      "outerDiameter": null,
+      "innerDiameter": 13.375,
+      "topMdM": null,
+      "bottomMdM": 443.26,
+      "weight": 54.5,
+      "grade": "K-55",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name '13-3/8\" Casing (Existing) 54.5 K-55 BTC' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); bottomMd '13-3/8\" Casing (Existing) 54.5 K-55 BTC' = 443.26 m -> 1454.265 ft (m MDDF as printed); innerDiameter '13.375' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "production-casing-3",
+      "type": "casing",
+      "name": "9-5/8\" Casing (Existing) 43.5 L-80 BTC",
+      "topMd": null,
+      "bottomMd": 4447.047,
+      "outerDiameter": null,
+      "innerDiameter": 9.625,
+      "topMdM": null,
+      "bottomMdM": 1355.46,
+      "weight": 43.5,
+      "grade": "L-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name '9-5/8\" Casing (Existing) 43.5 L-80 BTC' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); bottomMd '9-5/8\" Casing (Existing) 43.5 L-80 BTC' = 1355.46 m -> 4447.047 ft (m MDDF as printed); innerDiameter '9.625' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "liner-1",
+      "type": "liner",
+      "name": "7\" Liner TBC",
+      "topMd": 2961.713,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": 902.73,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name '7\" Liner TBC' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd 'diagram '7\"Liner (TOL)' 902.73 (B40/F40)' = 902.73 m -> 2961.713 ft (TOL from the diagram label (m MDTHF)); innerDiameter '7' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "Tubing 3-1/2\" GRE lined 9.2 L80 JFEFOX",
+      "topMd": null,
+      "bottomMd": 6023.688,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": null,
+      "bottomMdM": 1836.02,
+      "weight": 9.2,
+      "grade": "L80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: bottom = row marked as the end of the string in the transcription '3-1/2\" Muleshoe Guide / Drop Sub' (mule-shoe-1); top not set: depth reference is m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)'), not the tubing hanger (0 would not be supported)",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' header name 'Tubing 3-1/2\" GRE lined 9.2 L80 JFEFOX' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); bottomMd '3-1/2\" Muleshoe Guide / Drop Sub' = 1836.02 m -> 6023.688 ft (m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)'); depth of '3-1/2\" Muleshoe Guide / Drop Sub' (mule-shoe-1)); innerDiameter 'Tubing 3-1/2\" GRE lined 9.2 L80 JFEFOX' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "zone-e34a-1",
+      "type": "perforation",
+      "name": "E34A 1846-1856 m MDDF",
+      "topMd": 6056.431,
+      "bottomMd": 6089.239,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1846.0,
+      "bottomMdM": 1856.0,
+      "zone": "E34A",
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' cell(s) B63/B65 name 'E34A 1846-1856 m MDDF' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd 'E34A 1,846-1,856m MDDF; 1,363.62-1,368.75m TVD; Reservoir Pressure: 1,503 psi, 93deg C' = 1846.0 m -> 6056.431 ft (m MDDF as printed); bottomMd 'E34A 1,846-1,856m MDDF; 1,363.62-1,368.75m TVD; Reservoir Pressure: 1,503 psi, 93deg C' = 1856.0 m -> 6089.239 ft (m MDDF as printed); original text: E34A 1,846-1,856m MDDF; 1,363.62-1,368.75m TVD; Reservoir Pressure: 1,503 psi, 93deg C"
+    },
+    {
+      "id": "pbtd-1",
+      "type": "pbtd",
+      "name": "PBTD 1903.0 (B74/F74)",
+      "topMd": 6243.439,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1903.0,
+      "bottomMdM": null,
+      "source": "Dulang A33ST3 Well Schematic.xls > sheet 'SCHEM-1' diagram name 'PBTD 1903.0 (B74/F74)' (native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)); topMd 'PBTD 1903.0 (B74/F74)' = 1903.0 m -> 6243.439 ft (m MDDF)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

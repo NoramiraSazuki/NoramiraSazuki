@@ -1,0 +1,292 @@
+[
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E2",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLESRECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E5",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D7",
+"how": "cell text",
+"text": "Separator Conditions"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F7",
+"how": "cell text",
+"text": "Laboratory Opening Conditions"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C8",
+"how": "cell text",
+"text": "Cylinder No"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D8",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F8",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell G8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell D9",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell E9",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell F9",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell G9",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C10",
+"how": "cell text",
+"text": "A 4648"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C11",
+"how": "cell text",
+"text": "A 12151"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C12",
+"how": "cell text",
+"text": "* A 12178"
+},
+{
+"where": "sheet 'SUMMARY SAMPLE RECEIVED' cell C31",
+"how": "cell text",
+"text": "*These samples were used for the subsequent analyses."
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell E3",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSES OF SEPARATOR GAS"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell D5",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B6",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell D6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell E6",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B7",
+"how": "cell text",
+"text": "Hydrogen Sulfide"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B8",
+"how": "cell text",
+"text": "Carbon Dioxide"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B9",
+"how": "cell text",
+"text": "Nitrogen"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B10",
+"how": "cell text",
+"text": "Methane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B11",
+"how": "cell text",
+"text": "Ethane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B12",
+"how": "cell text",
+"text": "Propane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B13",
+"how": "cell text",
+"text": "Iso-Butane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B14",
+"how": "cell text",
+"text": "N-Butane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B15",
+"how": "cell text",
+"text": "Iso-Pentane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B16",
+"how": "cell text",
+"text": "N-Pentane"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B17",
+"how": "cell text",
+"text": "Hexanes"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B18",
+"how": "cell text",
+"text": "Heptanes"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B19",
+"how": "cell text",
+"text": "Octanes"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B20",
+"how": "cell text",
+"text": "Nonanes"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell D20",
+"how": "cell text",
+"text": "Trace"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B21",
+"how": "cell text",
+"text": "Decanes"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell D21",
+"how": "cell text",
+"text": "Trace"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B22",
+"how": "cell text",
+"text": "Undecanes plus"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B25",
+"how": "cell text",
+"text": "Properties of Heptanes plus"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B26",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell D26",
+"how": "cell text",
+"text": "103(assumed)"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B28",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air = 1.000)  = 1.274"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B29",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas  = 332 BTU"
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B30",
+"how": "cell text",
+"text": "per cubic foot of dry gas at 14.73 psia and 60°F."
+},
+{
+"where": "sheet 'PAGE 3 of 4' cell B32",
+"how": "cell text",
+"text": "Primary separator gas collected @ 295 psig and 62°F"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell E3",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS OF RESERVOIR FLUID AT 192°F"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell E4",
+"how": "cell text",
+"text": "(Constant Composition Expansion)"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell B6",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell E6",
+"how": "cell text",
+"text": "Relative Volume"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell G6",
+"how": "cell text",
+"text": "Deviation :"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell B7",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell E7",
+"how": "cell text",
+"text": "Volume"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell G7",
+"how": "cell text",
+"text": "Z"
+},
+{
+"where": "sheet 'PAGE 4 of 4' cell C17",
+"how": "cell text",
+"text": "Reservoir Pressure"
+},
+{
+"where": "picture image2.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RECEIVED 43628\n—\n5 JAN 1984 Bak he\nEXPLORATION DEPT. COPY\n\nPARTIAL RESERVOIR FLUID STUDY\nON WELL 6G-7.1 DST 5\nfor\nPETRONAS CARIGALI SDN BHD\nMALAYSIA\n\na\n\n| PETROLEUM PXGINEERING DEPT. |\n\nReservoir Fluid Division (ORE\n"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "PARTIAL RESERVOIR FLUID STUDY ON DST 5\n\nDULANG 6G-7.1\nMALAYSIA\n\nCORE LABORATORIES\n\nPETRONAS CARIGALI SDN. BHD.\n\n"
+}
+]

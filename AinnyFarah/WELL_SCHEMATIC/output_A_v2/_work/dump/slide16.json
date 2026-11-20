@@ -1,0 +1,354 @@
+{
+ "slide": 16,
+ "file": "slides/slide16.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n16",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    100.52,
+    4.87
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 74566,
+   "y": 110236,
+   "cx": 2430474,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.09,
+    1.21,
+    36.53,
+    3.9
+   ],
+   "text": "Latest Update: Nov 2023 by Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "Footer Placeholder 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "grpSp",
+   "id": "2",
+   "name": "Group 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -99060,
+   "y": 181639,
+   "cx": 7134860,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -1.44,
+    1.99,
+    102.59,
+    91.99
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "6",
+   "name": "Group 5",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 189411,
+   "y": 181639,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.76,
+    1.99,
+    96.1,
+    91.99
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "4098",
+   "name": "Picture 2",
+   "path": [
+    "Group 1",
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 189411,
+   "y": 181639,
+   "cx": 6400800,
+   "cy": 5630779,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.76,
+    1.99,
+    96.1,
+    63.57
+   ],
+   "image": "../media/image36.png",
+   "crop": {
+    "l": "28889",
+    "t": "11555",
+    "r": "21111",
+    "b": "7556"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "4099",
+   "name": "Picture 3",
+   "path": [
+    "Group 1",
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 189411,
+   "y": 5762327,
+   "cx": 6400800,
+   "cy": 2648912,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.76,
+    63.02,
+    96.1,
+    91.99
+   ],
+   "image": "../media/image37.png",
+   "crop": {
+    "l": "28889",
+    "t": "45556",
+    "r": "21111",
+    "b": "16391"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5931658,
+   "y": 7513053,
+   "cx": 1094784,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.49,
+    82.16,
+    102.46,
+    84.86
+   ],
+   "text": "OPEN (Feb 2015)",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "Rectangle 22",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5906346,
+   "y": 4335780,
+   "cx": 1026584,
+   "cy": 373380,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.12,
+    47.42,
+    101.09,
+    51.5
+   ],
+   "text": "CLOSED – STIFF (unable to open in Aug 2015)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "Star: 5 Points 7",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1800225,
+   "y": 4648199,
+   "cx": 88900,
+   "cy": 90000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.25,
+    50.83,
+    27.55,
+    51.82
+   ],
+   "text": "",
+   "geom": "star5"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -99060,
+   "y": 4459817,
+   "cx": 1675977,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -1.44,
+    48.77,
+    22.99,
+    52.81
+   ],
+   "text": "Tubing punch at ~2174m (July 2016) for communication with PCP (Previously installed GLV Straddle Assembly)",
+   "geom": "rect",
+   "fill": "FFC000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 146050,
+   "y": 7742766,
+   "cx": 996950,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.13,
+    84.68,
+    16.67,
+    86.7
+   ],
+   "text": "2386 – 2402m MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5901266,
+   "y": 5020574,
+   "cx": 1126067,
+   "cy": 177068,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.05,
+    54.91,
+    102.47,
+    56.84
+   ],
+   "text": "OPEN (OCT 2023)",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "Rectangle 8",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5909733,
+   "y": 5973830,
+   "cx": 1126067,
+   "cy": 234464,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.17,
+    65.33,
+    102.59,
+    67.89
+   ],
+   "text": "OPEN (OCT 2023)",
+   "geom": "rect",
+   "fill": "00B050"
+  }
+ ]
+}

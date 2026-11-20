@@ -1,0 +1,16 @@
+# slide 29 (slides/slide29.xml) hidden=False objects=5
+# notes: 'Open\n28'
+[graphicFrame id=5 'Table 4' pct=[3.7, 3.85, 43.56, 17.69] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    |  | 
+    |  | 
+[graphicFrame id=6 'Table 5' pct=[54.76, 3.9, 94.62, 17.74] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    |  | 
+    |  | 
+[pic id=4 'Picture 3' pct=[1.21, 1.11, 37.21, 99.46] hidden=False img=../media/image72.png]
+[pic id=8 'Picture 7' pct=[37.21, -4.49, 74.76, 104.49] hidden=False img=../media/image73.png]
+[sp id=9 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

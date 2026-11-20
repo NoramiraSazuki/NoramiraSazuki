@@ -1,0 +1,37 @@
+TABLE 13
+FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS
+CYLINDER | 9214/296 and 1116/33
+G.O.R | 407 St cu ft/bbl
+GRAVITY | 0.8415 at 60 / 60 F
+TABLE 14
+SAMPLING CONDITIONS
+I. RESERVOIR AND WELL CHARACTERISTICS
+Producing zone | 1222-1239M
+Static pressure | 1744 psig at 1202M
+Bottom hole temperature | 200 F
+Tubing diameter | 3 1/2" DRILL PIPE
+Casing size | 9 5/8"
+Casing shoe | 1276 M
+II. SAMPLING CONDITIONS
+A) SURFACE SAMPLE(S)
+Date | NA
+Choke | NA
+Flowing bottom hole pressure | NA
+Well head pressure | NA
+Separator pressure | NA
+Well head temperature | NA
+Separator temperature | NA
+Gas rate (Separator.) | NA
+Stock tank temperature | NA
+Compressibility factor | NA
+Gas gravity | NA
+Liquid rate (Separator) | NA
+G.L.R | NA
+Sample( s) received | gas NA
+Liq. NA
+B) BOTTOM HOLE SAMPLE (S)
+Date | 1983-10-01 00:00:00
+Choke | NA
+Sample(s) received | DOWELL SCHLUMBERGER
+80291/242 - 80291/5
+--- OCR ---

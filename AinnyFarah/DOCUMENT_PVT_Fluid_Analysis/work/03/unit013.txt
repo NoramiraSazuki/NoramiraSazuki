@@ -1,0 +1,20 @@
+DIFFERENTIAL VAPORIZATION OF RESERVOIR FLUID AT 203 F
+Molecular composition of liberated gases (mole percent)
+Pressure (psig) | 1332 | 1077 | 817 | 548 | 270 | 0
+Nitrogen | 0.19 | 0.16 | 0. 10 | 0. 05 | 0. 02 | 0. 00
+Carbon dioxide | 68.6 | 70.22 | 72.51 | 75.58 | 78.78 | 77.93
+Hydrogen sulphide | Traces (0.02ppm) | Traces (0.02ppm) | Traces (0.02ppm) | Traces (0.02ppm) | Traces (0.02ppm) | Traces (0.02ppm)
+Methane | 28.75 | 27 | 24.49 | 20.8 | 15.97 | 9.5
+Ethane | 1.21 | 1.32 | 1.47 | 1.74 | 2.32 | 3.76
+Propane | 0.59 | 0.66 | 0.75 | 0.97 | 1.51 | 4.05
+I - Butane | 0.16 | 0.18 | 0.21 | 0.27 | 0.44 | 1.54
+N - Butane | 0.15 | 0.14 | 0.15 | 0.19 | 0.34 | 1.28
+I - Pentane | 0.06 | 0.07 | 0.06 | 0.09 | 0.16 | 0.67
+N - Pentane | 0.05 | 0.05 | 0.05 | 0.06 | 0.11 | 0.45
+Hexanes | 0.11 | 0.08 | 0.07 | 0.09 | 0.16 | 0.56
+Heptanes plus | 0.13 | 0.12 | 0.14 | 0.16 | 0.19 | 0.26
+TOTAL | 100 | 100 | 100 | 100 | 100 | 100
+Molecular weight | 35.973 | 36.438 | 37.14 | 38.189 | 39.596 | 41.953
+Gravity (Air=1) | 1.241 | 1.257 | 1.282 | 1.318 | 1.366 | 1.448
+Molecular weight of heptanes plus | 106.7 | 107.2 | 107.2 | 107.2 | 109.1 | 109.9
+--- OCR ---

@@ -1,0 +1,46 @@
+WELL | A1 | 1 | image1.png | COMPLETED WELL COMPLETION DIAGRAM : DLA-01 — DULANG A WELL : DLA-01 (WORKOVER)
+SRC | 1 | image1.png | visual transcription of the scanned completion diagram (x3 upscale, viewed in 4 parts)
+DATUM | m MDRKB (column headers 'DEPTH (m MDRKB)')
+INFO | completionDate | 25-Oct-01
+INFO | tubing | 2 7/8" 6.4 L-80 AMS-28
+INFO | completionFluid | 8.6 ppg FILTERED SEAWATER WITH 3% KCl
+INFO | completionType | SINGLE STRING SELECTIVE OIL PRODUCER
+CASING | CASING 7" 23 N-80 BUTRESS | 7 | 23 | N-80 |  |
+TUBING | TUBING 2 7/8" 6.4 L-80 AMS-28 | 2.875 | 6.4 | L-80 | - |
+ROW | X | FLOW COUPLING | 146.6 |  |  |  |  | MIN ID / MAX OD printed only on the SCSSV line below | p1
+ROW | X | CAMCO TRM-4A TRSCSSV | 150.6 |  | 2.313 | 4.700 |  |  | p1
+ROW | X | Cam X- NIPPLE | 302.7 |  | 2.313 | 3.500 |  |  | p2
+ROW | X | SPM (w/ BK1 8/64, Ptro 815 psi) | 490.9 |  | 2.410 | 4.700 | ?SPM (Dummy valve) August 2024 | later status from slide text box obj #2 matched by position | p2
+ROW | X | SPM (w/ dummy) | 653.4 |  | 2.410 | 4.700 | ?SPM (Dummy valve) August 2024 | later status from slide text box obj #3 matched by position | p2
+ROW | X | SPM (w/ BK1 12/64, Ptro 875 psi) | 824.7 |  | 2.410 | 4.700 | ?SPM (Dummy valve) August 2024 | later status from slide text box obj #4 matched by position | p2
+ROW | X | SPM (w/ BK1 12/64, Ptro 900 psi) | 1119.6 |  |  |  | ?SPM (Dummy valve) August 2024 | MIN ID / MAX OD not printed; later status from slide text box obj #5 matched by position | p2
+ROW | X | SPM (w/ GLOV 16/64) | 1348.1 |  |  |  | ?SPM (GLOV 10/64) August 2024 | MIN ID / MAX OD not printed; later status from slide text box obj #6 matched by position | p2
+ROW | X | X- NIPPLE | 1378.4 |  |  |  |  | MIN ID / MAX OD not printed | p3
+ROW | X | SLIMLINE SSD (3.22" OD) X-PROFILE | 1408.4 |  |  | 3.22 | CLOSE; ?OPEN Sep 2018 | OD from the label '(3.22" OD)' (explicit OD); MIN ID not printed; later status from slide text box obj #15 matched by position | p3
+ROW | Lw | 7" x 4.5" x 3.88" BWD GP Packer | 1384.1 |  |  |  |  | gravel-pack packer at the top of the lower completion (completion-equipment column) | p3
+ROW | Lw | 4 1/2" BLANK PIPE |  |  |  |  |  | depth not printed | p3
+ROW | Lw | 4" W.W.SCREEN |  |  |  |  |  | depth not printed (opposite E14 1415 - 1424) | p3
+ROW | Lw | 4.5" COLLET SEAL ASSY. |  |  |  |  |  | depth not printed | p3
+ROW | Lw | 7" x 4.5" x 3.88" BWD Sump Packer | 1435.2 |  |  |  |  |  | p3
+ROW | Lw | SLIMLINE SSD (3.22" OD) X-PROFILE | 1451.7 |  |  | 3.22 | OPEN; ?CLOSED Sep 2018; ?2.31" PXX plug set at SSD#2 (Sep 2018) | OD from the label '(3.22" OD)'; later status from slide text boxes obj #21 / #30 matched by position | p3
+ROW | Lw | BLAST JOINT (1457.8 - 1485.8 m) | 1457.8 | 1485.8 |  | 3.20 |  | depths and MAX OD 3.20" from the label '(MAX OD 3.20")' | p4
+ROW | Lw | 7" x 4.5" x 3.88" BWD Sump Packer | 1533.3 |  |  |  |  |  | p4
+ROW | Lw | NOGO NIPPLE | 1540.9 |  |  |  |  |  | p4
+ROW | Lw | CONICAL | 1541.7 |  |  |  |  | bottom of the lower-completion assembly | p4
+ZONE | E14 | 1415 | 1424 | MDRKB | E14 (OIL PRODUCER) Perf. Intervals 1415 - 1424 (no unit/datum printed) | p3 | perf
+ZONE | E23 Lower | 1485.0 | 1492.5 | MDRKB | E23 Lower (OIL PRODUCER) Perf. Intervals 1485.0 - 1492.5 (no unit/datum printed) | p4 | perf
+ZONE | E36 | 1557.0 | 1568.0 | MDRKB | E36 (OIL PRODUCER) Perf. Intervals 1557.0 - 1568.0 (no unit/datum printed) | p4 | perf
+PBTD | 1602 |  | PBTD @ 1602 M (datum not printed)
+NOTE | picture p1 | FIELD : DULANG; PREPARED : ZAINI (P-TECH)
+NOTE | picture p3/p4 | zone statuses printed in the status column: E14 CLOSE, E23 Lower OPEN, E36 OPEN
+NOTE | slide 1 obj #29 | CLOSED Sep 2018 (beside E36; not matched to equipment)
+NOTE | slide 1 obj #36 | Baker tubing packoff (635 – 641m WLTHF) (wireline depth — not used as MD)
+NOTE | slide 1 obj #54 | 2.29" GR & 2" LIB tag HUD at 1430m WLTHF. Impression suspected scale (Nov 2022)
+NOTE | slide 1 obj #8 | E22 (label beside the diagram, no interval)
+NOTE | slide 1 obj #19 | Latest Update: June 2023 by Pravin Nair
+NOTE | slide 1 image2.jpeg | photograph of a damaged tubing / pipe end (no data)
+ISSUE | Unclear | header | 'DATE : 25-Oct-01' is the workover diagram date (WELL : DLA-01 (WORKOVER)); mapped to completionDate as the date of this completion
+ISSUE | Missing | header | rig, X-mas tree, packer fluid, RTE, maximum deviation and TD not printed; casing setting depth not printed
+ISSUE | Unclear | picture | depths in m MDRKB (not MDTHF like most A slides); zone intervals and PBTD printed without datum, read as m MDRKB
+ISSUE | Unclear | slide 1 | later statuses (Dummy valve / GLOV 10/64 Aug 2024, OPEN / CLOSED Sep 2018, PXX plug) are slide text boxes matched to rows by vertical position
+ISSUE | Missing | picture | no end-of-tubing label; the single string ends in the GP packer bore (1384.1) — tubing bottom not derived

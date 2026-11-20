@@ -1,0 +1,28 @@
+CORE LABORATORIES MALAYSIA SDN BHD PROCESS CONTROL
+Revision: 003 | Date: 22 January 2007 | Authorisation: Fadli Ramli
+Form: Sample Information
+Company | Petronas Carigali Sdn. Bhd | Date Received | 24 Sep 2010
+Well | Dulang A-14 | Received By | Shukri
+Field | Dulang | Airway Bil No | DO# 109122
+Rig | GAIT-3 | Job Number | 20100151.0
+Sample | Cylinder / Bottle | Reservoir | Depth
+No | vol (cc) | type | No | type | cover | plug | capacity | P (psig) | T ( deg F) | (m MD) | Remarks
+1:01 | 600cc | Sep Condensate | 819614.0 | Leutert | Y | Y | 700cc | 202.27 | 57.0 | na | Sampling date: 1st August 2010
+Sampling time: 19:02 hrs
+1st PVT set
+1:02 | 20L | Sep Gas | 4878.0 | Luxfer | Y | Y | 20L | 202.27 | 57.0 | na | Sampling date: 1st August 2010
+Sampling time: 19:02 hrs
+1st PVT set
+1.03 | 20L | Sep Gas | 4179.0 | Luxfer | Y | Y | 20L | 178.27 | 38.0 | na | Sampling date: 2nd August 2010
+Sampling time: 18:01 hrs
+2nd PVT set
+1.04 | 20L | Sep Gas | 4186.0 | Luxfer | Y | Y | 20L | 176.27 | 39.0 | na | Sampling date: 3nd August 2010
+Sampling time: 00:01 hrs
+3rd PVT set
+n/a | 500cc | Water | n/a | Glass bottle | Y | N | 500cc | n/a | n/a | n/a | Sampling date: 1st August 2010
+Sampling time: 18:30 hrs
+Main Flow
+n/a | 450cc | Water | n/a | Glass bottle | Y | N | 500cc | n/a | n/a | n/a | Sampling date: 2nd August 2010
+Sampling time: 18:00 hrs
+MIT# 1
+--- OCR ---

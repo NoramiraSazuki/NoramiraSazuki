@@ -1,0 +1,145 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A18",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": 5818.57,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a18-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 423.228,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 129.0,
+      "bottomMdM": null,
+      "source": "PDF page 15: 'FLOW COUPLING' @ 129 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 129 m -> 423.228 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-02",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 456.037,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 139.0,
+      "bottomMdM": null,
+      "source": "PDF page 15: 'FLOW COUPLING' @ 139 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 139 m -> 456.037 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-03",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 5262.467,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1604.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 15: 'NIPPLE' @ 1604 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1604 m -> 5262.467 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-04",
+      "type": "mule-shoe",
+      "name": "ENTRY GUIDE",
+      "topMd": 5262.467,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1604.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'ENTRY GUIDE' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 15: 'ENTRY GUIDE' @ 1604 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1604 m -> 5262.467 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-05",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 5469.16,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1667.0,
+      "bottomMdM": null,
+      "source": "PDF page 15: 'PKR' @ 1667 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1667 m -> 5469.16 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-06",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 5547.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1691.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 15: 'NIPPLE' @ 1691 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1691 m -> 5547.9 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-07",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 5574.147,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1699.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'WEG' is not literally a template type; nearest 'Mule Shoe'",
+      "source": "PDF page 15: 'WEG' @ 1699 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1699 m -> 5574.147 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a18-perf-e2a",
+      "type": "perforation",
+      "name": "E2A",
+      "topMd": 5229.659,
+      "bottomMd": 5236.221,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1594.0,
+      "bottomMdM": 1596.0,
+      "zone": "E2A",
+      "source": "PDF page 15: zone 'E2A' interval 1594 - 1596 (OCR passes bc; units as printed); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1594 m -> 5229.659 ft (m x 3.28084, 3 dp); bottomMd 1596 m -> 5236.221 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

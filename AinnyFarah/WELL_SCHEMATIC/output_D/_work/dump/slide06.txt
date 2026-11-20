@@ -1,0 +1,63 @@
+# slide 6 (slides/slide6.xml) hidden=False objects=30
+# notes: 'Way-forward \nTo run CO2 tracer to check gas injecting at where?\n\nFindings/observation\nFor SS\nGLV looks like as per table. Only injecting at SPM#5 GLOV even though the data installed is missing for all valve.\n\nFor LS\nEncountered HUD @ 2195m-mdthf – SGS Jan’16 and GLVC prior MPLT in Jul’16\nEncountered HUD @ 2231m-mdthf – TC prior SCO in Jun’17\n\nOpen\n5'
+[pic id=6144002 'Picture 2' pct=[30.96, 0.0, 69.9, 100.0] hidden=False img=../media/image23.png]
+[sp id=4 'TextBox 3' pct=[64.85, 84.62, 68.83, 90.0] hidden=False]
+    CLOSED
+    (15/2/14)
+[sp id=11 'TextBox 10' pct=[64.93, 69.04, 68.83, 75.05] hidden=False]
+    OPEN
+    (15/2/14)
+[sp id=12 'TextBox 11' pct=[31.75, 39.13, 35.72, 44.13] hidden=False]
+    OPENED
+[sp id=18 'Line Callout 2 17' pct=[69.86, 81.15, 84.84, 88.08] hidden=False]
+    15 Feb’15 ||set CA plug at “D” NO-GO nipple. Encountered HUD at 2116m-MDTHF @SSD#2 but able to pass through.
+[sp id=25 'TextBox 24' pct=[64.89, 56.06, 68.87, 59.62] hidden=False]
+    CLOSED 
+[sp id=27 'TextBox 26' pct=[64.96, 35.32, 68.94, 37.66] hidden=False]
+    CLOSED 
+[sp id=28 'TextBox 27' pct=[31.75, 35.1, 35.73, 38.94] hidden=False]
+    CLOSED 
+[sp id=30 'TextBox 29' pct=[31.8, 50.58, 35.65, 56.15] hidden=False]
+    OPENED
+[sp id=24 'Rectangle 23' pct=[61.83, 24.27, 93.12, 34.68] hidden=False]
+    Jun’15 & July’16
+    SPM#1 GLV 482.4psi, 10/64” 
+    SPM#2 GLV 688.05psi, 12/64” – retrieve DV but recovered BK 2 latch only on surface
+    SPM#3 GLOV 16/64”
+    SPM#4 DV
+    SPM#5 DV
+[sp id=45 'Line Callout 2 44' pct=[14.79, 41.79, 29.99, 47.67] hidden=False]
+    Jul’17 || found leak at 2144.5m-MDDF @ 2129.5m-MDTHF based on shut in passes PLT
+[sp id=49 'Oval 48' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[graphicFrame id=46 'Table 45' pct=[-21.83, 22.27, -1.2, 37.65] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | DV |  | - | - | Missing
+    | 2 | DV |  | - | -  | Missing
+    | 3 | DV |  | - | - | Missing
+    | 4 | DV |  | - | - | Missing
+    | 5 | GLOV |  | - | 16/64 | Missing
+[graphicFrame id=47 'Table 46' pct=[100.77, 22.27, 121.4, 37.65] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | IPO |  | - | - | Missing
+    | 2 | DV |  | - | -  | Missing
+    | 3 | GLOV |  | - | - | Missing
+    | 4 | DV |  | - | - | Missing
+    | 5 | DV |  | - | 16/64 | Missing
+[sp id=58 'TextBox 57' pct=[65.27, 20.51, 84.45, 23.33] hidden=False]
+    CSA Plug at TRSV. Flapper Re-lock open in Sep 2019
+[sp id=67 'Rectangle 66' pct=[49.35, 94.04, 70.67, 95.77] hidden=False]
+    LATEST UPDATE: JAN 2024 BY PRAVIN NAIR
+[sp id=13 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=15 'TextBox 14' pct=[64.93, 41.6, 68.9, 43.94] hidden=False]
+    CLOSED 
+[sp id=19 'TextBox 18' pct=[18.98, 54.38, 31.71, 57.14] hidden=False]
+    CA Plug at ‘D’ no-go (Apr 2024)
+[pic id=2 'Graphic 1' pct=[49.35, 75.35, 50.23, 76.92] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=5 'TextBox 4' pct=[64.48, 75.06, 83.84, 77.88] hidden=False]
+    HUD 2.25” LIB @ 2241m (July 2020). Recovered sand 
+[sp id=7 'TextBox 6' pct=[22.79, 21.71, 35.89, 24.19] hidden=False]
+    TRSV Flapper lock open Sep 2018
+[sp id=14 'TextBox 13' pct=[44.64, 34.94, 47.2, 37.95] hidden=False]
+    2102

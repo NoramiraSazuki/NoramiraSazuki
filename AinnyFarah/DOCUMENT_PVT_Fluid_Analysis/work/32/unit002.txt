@@ -1,0 +1,18 @@
+SUMMARY OF SAMPLESRECEIVED IN LABORATORY
+Separator Gas
+Separator Conditions | Laboratory Opening Conditions
+Cylinder No | Pressure | Temperature | Pressure | Temperature
+PSIG | °F | PSIG | °F
+A 12123 | 187 | 106 | 179 | 70
+A 5401 | 187 | 105 | 173 | 70
+A 12090* | 187 | 106 | 167 | 70
+Separator Liquid
+Cylinder No | Separator Conditions | Laboratory Bubble Point Pressure
+Pressure | Temperature | Pressure | Temperature
+PSIG | °F | PSIG | °F
+1116-3 | 187 | 106 | 182 | 106
+** 22024- 99 | 187 | 105
+* 12689- 83 | 187 | 106 | 181 | 100
+*These samples were used for the subsequent analyses
+**Bottom valve of this cylinder broke and hence sample was lost
+--- OCR ---

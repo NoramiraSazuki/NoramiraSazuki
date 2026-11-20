@@ -1,0 +1,28 @@
+18 | 18 | 18 | 18 | 18
+Summary of Analysis Methods (PVT Analyses) | Summary of Analysis Methods (PVT Analyses cont'd) | Summary of Analysis Methods (PVT Analyses cont'd) | Summary of Analysis Methods (PVT Analyses cont'd) | Summary of Analysis Methods (PVT Analyses cont'd) | Summary of PVT Analysis Data
+Figure 1: Schematic Diagram of Flash Separation Technique
+Constant Composition Expansion at 206°F
+Saturation pressure (bubble-point pressure) | 1100.0 | psig
+Average single phase compressibility | 9.57 | x 10 -6 psi-1
+(From 5000 psig to 1100 psig)
+Density at saturation pressure | 0.7492 | g cm-3
+Differential Vaporisation at 206°F
+Solution gas-oil ratio at saturation pressure (1) | 337.0 | scf/bbl of residue oil @ 60°F
+Relative oil volume at saturation pressure, Bod (2) | 1.233 | vol/vol of residue oil @ 60°F
+Density at saturation pressure | 0.7492 | g/cm3
+Reservoir Fluid Viscosity at 206°F
+Viscosity at saturation pressure | 0.709 | cP @ 1100 | psig
+Multi Stage Separator Test Data
+Pressure | Temperature | Total Solution | Total Formation | Stocktank Oil
+(psig) | (°F) | Gas-oil ratio | Volume Factor | Density
+(scf/bbl) | (bofb) | (g cm-3)
+[1] | [2]
+1100.0 | Saturation Pressure | 206.0 | 307.0 | 1.195
+144.0 | 115.0
+41.0 | 138.0
+5.0 | 135.0
+0.0 | 60.0 | 0.815
+(1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank liquid at 60 oF
+(2) Volume of saturated fluid at 1100 psig and 206°F per volume of stocktank liquid at 60 °F
+page181
+--- OCR ---

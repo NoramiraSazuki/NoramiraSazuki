@@ -1,0 +1,17 @@
+﻿Source Page,Parameter (as printed),Liquid Sample No. 1,Liquid Sample No. 2,Gas Sample No. 1,Gas Sample No. 2
+60,Time Sampled,0030,01:30,0030,01:30
+60,Length of Time Well was Produced,17 hrs 55 min,17 hrs 55 min,17 hrs 55 min,17 hrs 55 min
+60,Container No.,SGP-489098,8554-OSBAN45,S6-15835H; S6-15834H,S6-15839H; S6-68746H
+60,Container Volume,628 cc,628 cc,10 LTS; 10 LTS,10 LTS; 10 LTS
+60,Separator Pressure,150 psig,150 psig,150 psig,150 psig
+60,Separator Temperature,118 °F,117 °F,118 °F,117 °F
+60,Wellhead Pressure,445,446,445,445
+60,Wellhead Temperature (°F),78 °F,78 °F,78 °F,78 °F
+60,Flowing Bottom-hole Pressure (psi),1549 psia,1547 psia,1549 psia,1547 psia
+60,Flowing Bottom-hole Temperature (°F),222 °F,222 °F,222 °F,222 °F
+60,Separator Rate (Sep. bbl/D)*,827.52,844.8,827.52,844.8
+60,Separator Gas Rate (MSCF/D),335.68,329.28,335.68,329.28
+60,Separator GOR (SCF/Sep. bbl),-,-,-,-
+60,Well Rate (STB/D)+,764.6,781.9,764.6,781.9
+60,Well GOR (SCF/STB)+,439,421,439,421
+60,Full Wellstream Water Cut,0,0,0,0

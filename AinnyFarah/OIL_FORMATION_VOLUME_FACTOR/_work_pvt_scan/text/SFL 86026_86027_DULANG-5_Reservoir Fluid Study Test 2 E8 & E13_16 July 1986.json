@@ -1,0 +1,1827 @@
+[
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B2",
+"how": "cell text",
+"text": "QUALITY CHECKS OF SUBSURFACE SAMPLES RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B6",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell C6",
+"how": "cell text",
+"text": "PSRD 744"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell D6",
+"how": "cell text",
+"text": "PSRD 820"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B8",
+"how": "cell text",
+"text": "Opening pressure @ 70°F, psig"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B9",
+"how": "cell text",
+"text": "Water and Mud recovered, cc"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B10",
+"how": "cell text",
+"text": "Bubble point pressure @ 120°F, psig"
+},
+{
+"where": "sheet 'QC SAMPLES IN LAB (P3).' cell B11",
+"how": "cell text",
+"text": "Approximate sample volume, cc"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B2",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLES RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C4",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C6",
+"how": "cell text",
+"text": "SEPARATOR CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell E6",
+"how": "cell text",
+"text": "LABORATORY OPENING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B7",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C7",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell D7",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell E7",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell F7",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B9",
+"how": "cell text",
+"text": "81A1277"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B10",
+"how": "cell text",
+"text": "82A3093"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C12",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C14",
+"how": "cell text",
+"text": "SEPARATOR CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell E14",
+"how": "cell text",
+"text": "LABORATORY BUBBLE POINT CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell G14",
+"how": "cell text",
+"text": "Water Recovered"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B15",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell C15",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell D15",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell E15",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell F15",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell G15",
+"how": "cell text",
+"text": "cc"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B17",
+"how": "cell text",
+"text": "SS1014/80"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY (P7)' cell B18",
+"how": "cell text",
+"text": "SS1009/79"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B1",
+"how": "cell text",
+"text": "Page 8"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B3",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSES OF SEPARATOR PRODUCTS (SET NO.1) AND CALCULATED WELLSTREAM TO HEPTANES PLUS"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell C5",
+"how": "cell text",
+"text": "SS1014/80"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D5",
+"how": "cell text",
+"text": "81A1277"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell C6",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D6",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell F6",
+"how": "cell text",
+"text": "Wellstream*"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B7",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell C7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell E7",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell F7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B8",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B9",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B10",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B11",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B12",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B13",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B14",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B15",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B16",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B17",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B18",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B19",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B21",
+"how": "cell text",
+"text": "Properties of Heptanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B23",
+"how": "cell text",
+"text": "API Gravity @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B24",
+"how": "cell text",
+"text": "Density, GM/CC @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B25",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D25",
+"how": "cell text",
+"text": "103 (assumed)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B27",
+"how": "cell text",
+"text": "Propertis of Total Samples"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B28",
+"how": "cell text",
+"text": "Average Total Mol Weight"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B29",
+"how": "cell text",
+"text": "Density, gm/cc @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D29",
+"how": "cell text",
+"text": "gm/cc"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B31",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air = 1.000) "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B32",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas (BTU per cubic foot of dry gas @ 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B34",
+"how": "cell text",
+"text": "Primary separator gas collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D34",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell E34",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell G34",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B35",
+"how": "cell text",
+"text": "Primary separator liquid collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell D35",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell E35",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell G35",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B37",
+"how": "cell text",
+"text": "*Wellstream composition was calculated using gas/oil ratio of  273SCF/Bbl at 136 °F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 8)' cell B38",
+"how": "cell text",
+"text": "Bubble Point Pressure of this fluid is 1330 psig at 205°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B1",
+"how": "cell text",
+"text": "Page 9"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B3",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSES OF SEPARATOR PRODUCTS (SET NO.2) AND CALCULATED WELLSTREAM TO HEPTANES PLUS"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell C5",
+"how": "cell text",
+"text": "SS1009/79"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D5",
+"how": "cell text",
+"text": "82A3093"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell C6",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D6",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell F6",
+"how": "cell text",
+"text": "Wellstream*"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B7",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell C7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell E7",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell F7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B8",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B9",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B10",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B11",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B12",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B13",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B14",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B15",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B16",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B17",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B18",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B19",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B22",
+"how": "cell text",
+"text": "Properties of Heptanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B24",
+"how": "cell text",
+"text": "API Gravity @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B25",
+"how": "cell text",
+"text": "Density, GM/CC @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B26",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D26",
+"how": "cell text",
+"text": "103 (assumed)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B28",
+"how": "cell text",
+"text": "Propertis of Total Samples"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B29",
+"how": "cell text",
+"text": "Average Total Mol Weight"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B30",
+"how": "cell text",
+"text": "Density, gm/cc @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D30",
+"how": "cell text",
+"text": "gm/cc"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B32",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air = 1.000) "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B33",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas (BTU per cubic foot of dry gas @ 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B35",
+"how": "cell text",
+"text": "Primary separator gas collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D35",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell E35",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell G35",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B36",
+"how": "cell text",
+"text": "Primary separator liquid collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell D36",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell E36",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell G36",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B38",
+"how": "cell text",
+"text": "*Wellstream composition was calculated using gas/oil ratio of  280 SCF/Bbl at 140 °F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 9)' cell B39",
+"how": "cell text",
+"text": "Bubble Point Pressure of this fluid is 1370 psig at 205°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B1",
+"how": "cell text",
+"text": "Page10"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B3",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSES OF SEPARATOR PRODUCTS (SET NO.1) AND CALCULATED WELLSTREAM TO UNDECANS PLUS"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell C5",
+"how": "cell text",
+"text": "SS1009/79"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D5",
+"how": "cell text",
+"text": "82A3093"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell C6",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D6",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell F6",
+"how": "cell text",
+"text": "Wellstream*"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B7",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell C7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell E7",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell F7",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B8",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B9",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B10",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B11",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B12",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B13",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B14",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B15",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B16",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B17",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B18",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B19",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B20",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B21",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B22",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D22",
+"how": "cell text",
+"text": "Trace"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell E22",
+"how": "cell text",
+"text": "Trace"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B23",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B26",
+"how": "cell text",
+"text": "Properties of Heptanes Plus"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B28",
+"how": "cell text",
+"text": "API Gravity @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B29",
+"how": "cell text",
+"text": "Density, GM/CC @ 60°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B30",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D30",
+"how": "cell text",
+"text": "103 (assumed)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B33",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air = 1.000) "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B34",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas (BTU per cubic foot of dry gas @ 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B36",
+"how": "cell text",
+"text": "Primary separator gas collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D36",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell E36",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell G36",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B37",
+"how": "cell text",
+"text": "Primary separator liquid collected @"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell D37",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell E37",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell G37",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B39",
+"how": "cell text",
+"text": "*Wellstream composition was calculated using gas/oil ratio of  280 SCF/Bbl at 140 °F"
+},
+{
+"where": "sheet 'SPWS SAMPLES (PAGE 10)' cell B40",
+"how": "cell text",
+"text": "Bubble Point Pressure of this fluid is 1370 psig at 205°F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B2",
+"how": "cell text",
+"text": "PAGE 11"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B4",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SEPARATOR LIQUID SAMPLE* (SET NO.2) TO UNDECANES PLUS"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B6",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C6",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell D6",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell E6",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell F6",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell G6",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B7",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B9",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell D9",
+"how": "cell text",
+"text": "TR"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B10",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B11",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B12",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B13",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B14",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B15",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B16",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B17",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B18",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B19",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B20",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B21",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B22",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B25",
+"how": "cell text",
+"text": "Properties of heptanes plus"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B26",
+"how": "cell text",
+"text": "API Gravity @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B27",
+"how": "cell text",
+"text": "Density, GM/CC @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B28",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B30",
+"how": "cell text",
+"text": "* Sample from cylinder NO. SS1009/79"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B31",
+"how": "cell text",
+"text": "**Physical properties of this component are theoritical values"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B3",
+"how": "cell text",
+"text": "BUBBLE POINT DETERMINATION OF RECOMBINED RESERVOIR FLUID AT 205°F"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B5",
+"how": "cell text",
+"text": "Recombined Fluid Using Separator Sample Cylinders"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell E5",
+"how": "cell text",
+"text": "Bubble Point Pressure"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell E6",
+"how": "cell text",
+"text": "(psig)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B8",
+"how": "cell text",
+"text": "81A1277 and SS1014/80 (set No.1)*"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B9",
+"how": "cell text",
+"text": "82A3093 and SS1009/79 (set no.2)*"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B11",
+"how": "cell text",
+"text": "* This recombined fluid was selected to be used for a full PVT study"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B14",
+"how": "cell text",
+"text": "VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B16",
+"how": "cell text",
+"text": "1. Saturation pressure (bubble point pressure)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell E16",
+"how": "cell text",
+"text": "1370 PSIG at 205°F"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B17",
+"how": "cell text",
+"text": "2. Specific volume at saturation pressure: ft3/lb"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell E17",
+"how": "cell text",
+"text": ".02094 at 205°F"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B18",
+"how": "cell text",
+"text": "3. Compressibility of saturated oil at reservoir temperature"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B20",
+"how": "cell text",
+"text": "From 5000 to 4000 = 7.7 x 10-6"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B21",
+"how": "cell text",
+"text": "From 4000 to 3000 = 8.33 x 10-6"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B22",
+"how": "cell text",
+"text": "From 3000 to 2000 = 9.48 x 10-6"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B23",
+"how": "cell text",
+"text": "From 2000 to 1500 = 11.01 x 10-6"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B24",
+"how": "cell text",
+"text": "From 1500 to 1370 = 12.29 x 10-6"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B26",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS OF SEPARATOR GAS AT 211°F"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B27",
+"how": "cell text",
+"text": "(Constant Composition Expansion)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B29",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell C29",
+"how": "cell text",
+"text": "RELATIVE VOLUME (1)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell D29",
+"how": "cell text",
+"text": "Y FUNCTION (2)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B30",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell D30",
+"how": "cell text",
+"text": "Z"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B58",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure\n\n\n "
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B59",
+"how": "cell text",
+"text": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B3",
+"how": "cell text",
+"text": "DIFFERENTIAL VAPORIZATION AT 205 °F "
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B5",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell C5",
+"how": "cell text",
+"text": "Solution Gas-Oil Ratio\n(1)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell D5",
+"how": "cell text",
+"text": "Relative Oil Volume\n(2)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell E5",
+"how": "cell text",
+"text": "Relative Total Volume\n(3)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell F5",
+"how": "cell text",
+"text": "Oil Density \n(g cm-3)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell G5",
+"how": "cell text",
+"text": "Deviation Factor / Gas Compress Factor\n(Z)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell H5",
+"how": "cell text",
+"text": "Gas Formation Volume Factor \n(4)"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell I5",
+"how": "cell text",
+"text": "Incremental Gas Gravity"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell D14",
+"how": "cell text",
+"text": "1.000 @ 60 F"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B16",
+"how": "cell text",
+"text": "Gravity of residual oil = 38.0 °API @ 60 F"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B18",
+"how": "cell text",
+"text": "1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F."
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B19",
+"how": "cell text",
+"text": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B20",
+"how": "cell text",
+"text": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+},
+{
+"where": "sheet 'DVT at 205 °F ' cell B21",
+"how": "cell text",
+"text": "4. Cubic feet of gas at indicated pressure and temperature per cubic foot at 14.73 psia and 60°F"
+},
+{
+"where": "sheet 'VISCOSITY at 205 °F ' cell B3",
+"how": "cell text",
+"text": "VISCOSITY AT 205 °F "
+},
+{
+"where": "sheet 'VISCOSITY at 205 °F ' cell B5",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'VISCOSITY at 205 °F ' cell C5",
+"how": "cell text",
+"text": "Oil Viscosity"
+},
+{
+"where": "sheet 'VISCOSITY at 205 °F ' cell D5",
+"how": "cell text",
+"text": "Calculated Gas Viscosity (Centipoise)"
+},
+{
+"where": "sheet 'VISCOSITY at 205 °F ' cell E5",
+"how": "cell text",
+"text": "Oil / Gas Viscosity Ratio"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B3",
+"how": "cell text",
+"text": "MULTI-STAGE SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B5",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell C5",
+"how": "cell text",
+"text": "Temp (F)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell D5",
+"how": "cell text",
+"text": "Gas-Oil Ratio \n(1)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell E5",
+"how": "cell text",
+"text": "Gas-Oil Ratio \n(2)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell F5",
+"how": "cell text",
+"text": "TanK Oil Gravity \n°API @ 60°F"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell G5",
+"how": "cell text",
+"text": "Formation Vol Factor (3)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell H5",
+"how": "cell text",
+"text": "Separation Vol. Factor (4)"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell I5",
+"how": "cell text",
+"text": "Gas Gravity"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell I6",
+"how": "cell text",
+"text": "1.174*"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B7",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell I8",
+"how": "cell text",
+"text": "1.188*"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B9",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell I10",
+"how": "cell text",
+"text": "1.211*"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B11",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell I12",
+"how": "cell text",
+"text": "1.305*"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B13",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B18",
+"how": "cell text",
+"text": "*This gas was collected and its composition was analysed by gas chromatography."
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B19",
+"how": "cell text",
+"text": "(1) Gas/0il Ratio in cubic feet of gas @ 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature."
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B20",
+"how": "cell text",
+"text": "(2) Gas/0il Ratio in cubic feet of gas @ 14.73 psia and 60°F per barrel of stock tank oil @ 60°F."
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B21",
+"how": "cell text",
+"text": "(3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F."
+},
+{
+"where": "sheet 'MULTI SEPARATOR TEST' cell B22",
+"how": "cell text",
+"text": "(4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil @ 60°F."
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B2",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B3",
+"how": "cell text",
+"text": "File"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell C3",
+"how": "cell text",
+"text": "SFL 86027"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B4",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell C4",
+"how": "cell text",
+"text": "Dulang 5 TEST 2"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B7",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSES OF MULTI STAGE SEPARATOR TEST GAS SAMPLES"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell C9",
+"how": "cell text",
+"text": "205 PSIG 160°F"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell E9",
+"how": "cell text",
+"text": "150 PSIG 135°F"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell G9",
+"how": "cell text",
+"text": "145 PSIG 150°F"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell I9",
+"how": "cell text",
+"text": "50 PSIG 149°F"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B10",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell C10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell D10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell E10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell F10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell G10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell H10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell I10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell J10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B25",
+"how": "cell text",
+"text": "Gas gravity (air = 1.000)"
+},
+{
+"where": "sheet 'MULTISTAGE SEPARATOR GAS (CA)' cell B26",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B3",
+"how": "cell text",
+"text": "ATMOSPHERIC PRESSURE SEPARATOR TEST OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B5",
+"how": "cell text",
+"text": "SEPARATOR PRESSURE"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell C5",
+"how": "cell text",
+"text": "TEMP"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell D5",
+"how": "cell text",
+"text": "GAS/OIL RATIO"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell E5",
+"how": "cell text",
+"text": "TANK OIL GRAVITY"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell F5",
+"how": "cell text",
+"text": "FORMATION VOLUME FACTOR"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell G5",
+"how": "cell text",
+"text": "GAS GRAVITY"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell C6",
+"how": "cell text",
+"text": "F"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell D6",
+"how": "cell text",
+"text": "(1)"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell E6",
+"how": "cell text",
+"text": "API @ 60F"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell F6",
+"how": "cell text",
+"text": "(2)"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B8",
+"how": "cell text",
+"text": "to"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell G9",
+"how": "cell text",
+"text": "1.267*"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B14",
+"how": "cell text",
+"text": "* This gas was collected and its composition was analysed by gas chromatography"
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B15",
+"how": "cell text",
+"text": "1. Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60 F. per barrel of oil at indicated pressure and temperature."
+},
+{
+"where": "sheet 'ATMOSPHERIC RFS' cell B16",
+"how": "cell text",
+"text": "2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B2",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B3",
+"how": "cell text",
+"text": "File"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell C3",
+"how": "cell text",
+"text": "SFL 86026/86027"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B4",
+"how": "cell text",
+"text": "Well"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell C4",
+"how": "cell text",
+"text": "Dulang 5 TEST 2"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B7",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSES OF ATMOSPHERIC PRESSURE SEPARATOR TEST GAS SAMPLE"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B10",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell C10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell D10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B25",
+"how": "cell text",
+"text": "Calculated Gas gravity (air = 1.000)"
+},
+{
+"where": "sheet 'ATMOSPHERIC CA' cell B26",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B2",
+"how": "cell text",
+"text": "SUMMARY OF ADJUSTED DATA TO SURFACE CONDITIONS OF 205 PSIG AT 160°F TO 0 PSIG AT 140°F"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B4",
+"how": "cell text",
+"text": "Pressure \n(psig)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell C4",
+"how": "cell text",
+"text": "Solution Gas-Oil Ratio (Rs)\n(1)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell D4",
+"how": "cell text",
+"text": "Formation Vol Factor (Bo)\n(2)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell E4",
+"how": "cell text",
+"text": "Total Formation Vol Factor (Bt)\n(3)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell F4",
+"how": "cell text",
+"text": "Gas Formation Volume Factor\nBg (4)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell G4",
+"how": "cell text",
+"text": "Oil Density @ 211°F\n(5)"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell H4",
+"how": "cell text",
+"text": "Oil/Gas Viscosity Ratio"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B5",
+"how": "cell text",
+"text": "1780*"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B8",
+"how": "cell text",
+"text": "1370**"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B17",
+"how": "cell text",
+"text": "gravity of stock tank oil"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell D17",
+"how": "cell text",
+"text": "38.2 API @ 60F"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B19",
+"how": "cell text",
+"text": "*Reported reservoir pressure @ 205°F"
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B20",
+"how": "cell text",
+"text": "**Bubble point pressure of reservoir fluid @ 205°F."
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B22",
+"how": "cell text",
+"text": "1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per stock tank barrel @ 60°F)."
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B23",
+"how": "cell text",
+"text": "2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barrel @ 60°F)."
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B24",
+"how": "cell text",
+"text": "3) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F."
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B25",
+"how": "cell text",
+"text": "4) Barrels of gas at indicated pressure and reservoir temperature, 211°F per cubic foot @ 14.73 psia and 60°F."
+},
+{
+"where": "sheet 'ADJ.DATA (PAGE 27)' cell B26",
+"how": "cell text",
+"text": "5) Gm/Cc."
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\nTEST 2\n\nDULANG-5\nMALAYSIA\n\nCORE LABORATORIES SDN. BHD.\n\nESSO PRODUCTION MALAYSIA INC.\n\n"
+},
+{
+"where": "picture image2.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "July 16, 1986 CORE LABORATORIES (RF\nReservoir Fluid Division i\n\nEsso Production Malaysia Inc\n\nKompleks Antarabangsa\n\nJalan Sultan Ismail\n\n50250 Kuala Lumpur\nMalaysia\n\nATTENTION: MR G DAVIDSON\n\nSubject : Reservoir Fluid Study\n\nWel] : Dulang 5, Test 2, E-8/13\n(1246,5~1255.5m)\n\nLocation: Malaysia\n\nFiles 3 SFL 86026/86027\n\nGentlemen:\n\nDuplicate. subsurface samples and two sets. of surface samples of\nseparator gas and separator liquid were collected from the’ subject\nwell on February 2 and 3, 1986. These samples were submitted to our\nSingapore laboratory for’ quality checks to determine its validity\nprior to performing a reservoir fluid study. Presented in the\nfollowing report. are the results of the analyses performed on these\nsamples.\n\nWe wish to thank Esso Production Malaysia Inc for this opportunity to\n\nbe of service. Please do not hesitate to contact us enouile you\nrequire further information.\n\nVery truly yours\nCORE LABORATORIES INTERNATIONAL LTD\n\nPadmini Vaiyapuri (Ms)\nSupervisor\n\nReservoir Fluid Laboratory\nEncs: 7 copies\n\nPV/aa:RF6\n"
+}
+]

@@ -1,0 +1,79 @@
+{
+  "headers": [
+    "Entity",
+    "Date",
+    "Gross (BFPD)",
+    "Oil (BOPD)",
+    "WC (%)",
+    "Water (BWPD)",
+    "Freq (Hz)",
+    "Ampere",
+    "Voltage (Volt)",
+    "Pi (psig)",
+    "Tm (deg-F)",
+    "RH (hr)",
+    "Start Date",
+    "End Date",
+    "Well Type",
+    "Test Type",
+    "Duration (hrs)",
+    "Status",
+    "Use In Allocation",
+    "Pressure Mode",
+    "Choke Size",
+    "SP (psig)",
+    "ST (C)",
+    "CHP (psig)",
+    "CHT (C)",
+    "FTHP (psig)",
+    "FTHT (C)",
+    "FLP (psig)",
+    "FLT (C)",
+    "Gas Lift Choke Size",
+    "Gas Lift Rate (Mscf/d)",
+    "Total Gas Rate (Mscf/d)",
+    "Formation Gas Rate (Mscf/d)",
+    "Condensate Rate (bbl/d)",
+    "GOR (scf/bbl)",
+    "FGOR (scf/bbl)",
+    "WOR",
+    "IGLR (scf/bbl)",
+    "TGLR (scf/bbl)",
+    "GUF (scf/bbl)",
+    "Description"
+  ],
+  "files": [
+    {
+      "file": "well_test_monitoring_DULG-A_20261014.xlsx",
+      "tests": 155,
+      "auditEntries": 55,
+      "sourceSha256": "52168c66146df3c30d96075286337ee21ac9ee6839a7e7e4be0cf85eaa6a3768",
+      "updatedSha256": "767559eba28c1ec6d2fc051ee30b61b6af46eb1b5432a23fc902a5c4c61116a3",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-B_20261014.xlsx",
+      "tests": 246,
+      "auditEntries": 27,
+      "sourceSha256": "8eb74303b9859a00531379374504c2746adc510c3d4bafaa7877dbd98dce42a3",
+      "updatedSha256": "bd129de71b46bc7c42949f94e737ea0fdd76e7e43b3880df62559a4da258fcd1",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-C_20261014.xlsx",
+      "tests": 63,
+      "auditEntries": 11,
+      "sourceSha256": "8d9a5156feb95e428b0032ad477c14fed7891af05885cd3c62f7f6087b17a7d1",
+      "updatedSha256": "6b78d03f1393f41009e368e41e1b282aa70827339437a7b514924e1966e9c415",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-D_20261014.xlsx",
+      "tests": 177,
+      "auditEntries": 34,
+      "sourceSha256": "18c3d2b5e44ec9e34962f6e8abadc8168535bcb135498d9a673844774a9c089a",
+      "updatedSha256": "0e1e943c99aaf1bf47a4799d90e6c0cae57f8eddb322edaa3964ee8e561e18de",
+      "validated": true
+    }
+  ]
+}

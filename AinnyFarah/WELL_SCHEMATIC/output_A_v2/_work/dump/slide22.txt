@@ -1,0 +1,30 @@
+# slide 22 (slides/slide22.xml) hidden=False objects=28
+# notes: 'Open\n22'
+[pic id=4098 'Picture 2' pct=[4.26, 1.99, 97.59, 62.22] hidden=False img=../media/image50.png]
+[pic id=4099 'Picture 3' pct=[4.26, 61.99, 97.59, 91.99] hidden=False img=../media/image51.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=9 'TextBox 3' pct=[1.09, 1.21, 20.14, 3.56] hidden=False]
+    Latest Update: Apr 2023
+[sp id=15 'Rectangle 14' pct=[85.67, 45.68, 97.89, 47.42] hidden=False]
+    DV (May 2017)
+[sp id=4 'Rectangle 3' pct=[85.89, 73.45, 97.67, 78.0] hidden=False]
+    2.25" CA plug @1714m-MDTHF (Feb 18)
+[sp id=8 'TextBox 7' pct=[1.09, 54.81, 18.89, 57.51] hidden=False]
+    TOC:1449mMDTHF
+[sp id=20 'TextBox 19' pct=[1.21, 59.66, 19.37, 65.72] hidden=False]
+    E2A: 1610-1622mMDTHF
+[sp id=12 'TextBox 11' pct=[4.48, 38.0, 24.07, 43.55] hidden=False]
+    CS Lock + Storm Choke (200psi). TR flapper locked open Feb 2018
+[sp id=34 'Rectangle 33' pct=[85.67, 48.84, 97.89, 50.58] hidden=False]
+    DV (Feb 2018)
+[sp id=36 'Rectangle 35' pct=[85.56, 52.43, 97.78, 54.17] hidden=False]
+    DV (Feb 2018)
+[sp id=38 'Rectangle 37' pct=[85.56, 56.18, 97.78, 57.92] hidden=False]
+    DV
+[sp id=56 'TextBox 55' pct=[4.26, 28.23, 21.3, 35.97] hidden=False]
+    Baker packoff assembly (52m – 58m WLTHF) to isolate leak at 55m (from ponytail run in Feb 2023)
+[sp id=5 'TextBox 4' pct=[35.73, 62.74, 69.12, 65.1] hidden=False]
+    Cement retainer @ 1682m MDTHF (Sep 2018)
+[sp id=21 'Footer Placeholder 20' pct=None hidden=False]
+    Open

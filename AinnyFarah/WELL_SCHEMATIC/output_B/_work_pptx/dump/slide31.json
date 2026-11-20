@@ -1,0 +1,68 @@
+{
+ "slide": 31,
+ "file": "slides/slide31.xml",
+ "hidden": false,
+ "size": [
+  7739063,
+  10042525
+ ],
+ "notes": "Open\n31",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "11",
+   "name": "Picture 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 587611,
+   "y": 340678,
+   "cx": 6770877,
+   "cy": 8809672,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.59,
+    3.39,
+    95.08,
+    91.12
+   ],
+   "image": "../media/image31.png"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1383471,
+   "y": 2736077,
+   "cx": 5334000,
+   "cy": 1569660,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    17.88,
+    27.24,
+    86.8,
+    42.88
+   ],
+   "text": "FOR B31 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

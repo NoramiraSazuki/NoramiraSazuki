@@ -1,0 +1,71 @@
+# slide 15 (slides/slide15.xml) hidden=False objects=47
+# notes: 'Open\n15'
+[pic id=3074 'Picture 2' pct=[2.41, 4.82, 95.75, 63.62] hidden=False img=../media/image34.png]
+[pic id=3075 'Picture 3' pct=[2.41, 63.16, 95.75, 90.6] hidden=False img=../media/image35.png]
+[sp id=18 'TextBox 17' pct=[85.56, 5.21, 99.73, 9.25] hidden=False]
+    FB – SE1
+[sp id=8 'TextBox 7' pct=[87.51, 65.39, 96.81, 67.24] hidden=False]
+    OPEN (Mar 2012)
+[sp id=14 'TextBox 13' pct=[86.53, 38.43, 100.97, 40.45] hidden=False]
+    GLV 8/64” Ptro 1005 psi
+[sp id=15 'TextBox 14' pct=[88.89, 36.67, 94.31, 39.02] hidden=False]
+    DV
+[sp id=16 'TextBox 15' pct=[87.64, 43.06, 97.78, 45.75] hidden=False]
+    GLV 12/64” (Cemented)
+[sp id=17 'TextBox 16' pct=[87.08, 35.35, 98.19, 37.71] hidden=False]
+    June/2017
+[sp id=19 'TextBox 18' pct=[87.64, 40.25, 98.15, 42.34] hidden=False]
+    Orifice 12/64”
+[sp id=20 'TextBox 19' pct=[87.64, 41.8, 96.44, 43.65] hidden=False]
+    DV (Cemented)
+[sp id=2 'TextBox 1' pct=[3.75, 67.71, 33.33, 73.09] hidden=False]
+    E12/13
+    1680-1690m
+[sp id=22 'TextBox 21' pct=[4.31, 82.15, 33.89, 87.2] hidden=False]
+    E14
+    1700.5-1707.5m
+[sp id=23 'TextBox 22' pct=[4.33, 68.55, 11.48, 72.59] hidden=False]
+    Closed due to MA Plug
+[sp id=28 'TextBox 27' pct=[87.5, 52.75, 97.42, 56.29] hidden=False]
+    OPENED
+    (11/2/2017)
+[sp id=36 'Rectangle 35' pct=[43.14, 44.1, 45.93, 47.44] hidden=False img=../media/image10.jpeg]
+[sp id=38 'Rectangle 37' pct=[69.3, 47.48, 87.33, 51.65] hidden=False]
+    Cement packer (Nov 2016), TOC in annulus = 1584 m MDTHF
+[sp id=34 'TextBox 33' pct=[23.67, 59.29, 48.22, 62.66] hidden=False]
+    2.31” MA Plug set @ WP1 Nipple (June 2016) due to stiff open SSD#3
+[sp id=50 'Rectangle 49' pct=[0.47, 28.57, 12.22, 34.29] hidden=False]
+    Baker Tubing Packoff (June 2021) from 59m – 75m MDTHF 
+[sp id=46 'Rectangle 45' pct=[87.27, 29.74, 100.0, 34.88] hidden=False]
+    WTF Tbg Stop & SC set @ TRSV in Feb 2018. TR flapper lock open in Mar 2016
+[sp id=27 'Rectangle 26' pct=[-12.37, 44.66, 12.37, 46.68] hidden=False]
+    2.29” GR HUD 1588m MDTHF (Jun 2021)
+[sp id=3089 'Rectangle 3088' pct=[53.51, 44.03, 56.11, 47.37] hidden=False img=../media/image10.jpeg]
+[sp id=3098 'Rectangle 3097' pct=[0.0, 39.79, 12.41, 41.32] hidden=False]
+    GLOV (Sep 17)
+[sp id=3105 'Rectangle 3104' pct=[0.0, 38.18, 12.04, 39.64] hidden=False]
+    GLV 8/64” 980psi (Sep 17)
+[sp id=3110 'Rectangle 3109' pct=[0.52, 36.67, 11.93, 38.21] hidden=False]
+    GLV 8/64”  1040 psi (Sep 17)
+[sp id=32 'Rectangle 31' pct=[48.1, 44.04, 50.89, 47.39] hidden=False img=../media/image10.jpeg]
+[sp id=41 'TextBox 40' pct=[56.74, 46.79, 68.74, 51.84] hidden=False]
+    2.31” MA Plug set at SSD#1 (Feb 2018)
+[sp id=56 'TextBox 55' pct=[87.07, 80.67, 96.37, 82.52] hidden=False]
+    OPEN (Mar 2012)
+[sp id=3078 'Rectangle 3077' pct=[0.0, 41.13, 12.41, 42.65] hidden=False]
+    Unknown
+[sp id=3080 'Rectangle 3079' pct=[0.0, 42.74, 12.41, 44.26] hidden=False]
+    Unknown
+[sp id=3094 'TextBox 3093' pct=[0.0, 46.81, 19.17, 49.16] hidden=False]
+    E2A (1594-1596m MDDF)
+[sp id=3097 'TextBox 3096' pct=[4.52, 82.72, 11.67, 86.76] hidden=False]
+    Closed due to MA Plug
+[sp id=3073 'TextBox 3072' pct=[15.19, 48.56, 46.11, 50.92] hidden=False]
+    Cement Retainer @ 1594m MDTHF (Nov 2016)
+[sp id=29 'TextBox 28' pct=[4.34, 53.71, 33.93, 59.09] hidden=False]
+    E7
+    1621-1636m
+[sp id=24 'Footer Placeholder 23' pct=None hidden=False]
+    Open
+[sp id=3 'TextBox 3' pct=[0.0, 0.0, 32.33, 2.52] hidden=False]
+    Latest Update: Dec 2023 by Pravin Nair

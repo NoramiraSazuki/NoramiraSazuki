@@ -1,0 +1,536 @@
+{
+ "slide": 32,
+ "file": "slides/slide32.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n31",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "12",
+   "name": "Group 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5117756,
+   "y": 12700,
+   "cx": 6858001,
+   "cy": 9906001,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.06,
+    0.13,
+    68.0,
+    100.13
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "10",
+   "name": "Picture 9",
+   "path": [
+    "Group 11"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5119941,
+   "y": 12700,
+   "cx": 6855816,
+   "cy": 4715195,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.07,
+    0.13,
+    68.0,
+    47.73
+   ],
+   "image": "../media/image81.png"
+  },
+  {
+   "kind": "pic",
+   "id": "11",
+   "name": "Picture 10",
+   "path": [
+    "Group 11"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5117756,
+   "y": 4721931,
+   "cx": 6839472,
+   "cy": 5196770,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.06,
+    47.67,
+    67.9,
+    100.13
+   ],
+   "image": "../media/image82.png",
+   "crop": {
+    "r": "338"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "Oval 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10153811,
+   "y": 6365815,
+   "cx": 876263,
+   "cy": 264932,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.66,
+    64.26,
+    62.63,
+    66.94
+   ],
+   "text": "OPEN (2016)",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "26",
+   "name": "Rectangle 25",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5421789,
+   "y": 1752600,
+   "cx": 792480,
+   "cy": 3048000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.79,
+    17.69,
+    35.29,
+    48.46
+   ],
+   "text": "222\n224\n225\n\n\n279\n519\n770\n1031\n1300\n1575\n\n\n1703\n\n1710\n\n1715\n\n1801\n1800",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "Rectangle 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5421789,
+   "y": 1473449,
+   "cx": 792480,
+   "cy": 274072,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.79,
+    14.87,
+    35.29,
+    17.64
+   ],
+   "text": "MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "Rectangle 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5421789,
+   "y": 4980373,
+   "cx": 792480,
+   "cy": 4876801,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.79,
+    50.28,
+    35.29,
+    99.51
+   ],
+   "text": "1839-1840\n1852\n\n\n1860\n\n1871-1874\n\n\n1906-1909\n1912\n\n\n1917\n1920-1923\n1931-1934\n1942\n\n\n\n1946-1949\n\n\n\n1955\n\n\n\n1957-1560\n1968\n1969\n\n1976\n\nTD 2011",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "Rectangle 28",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9857785,
+   "y": 9193120,
+   "cx": 1172289,
+   "cy": 254878,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.98,
+    92.8,
+    62.63,
+    95.38
+   ],
+   "text": "PXN PLUG @1973m-MDTHF (Apr 2016)",
+   "geom": "rect"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "30",
+   "name": "Table 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11992954,
+   "y": 1862690,
+   "cx": 3632198,
+   "cy": 1737360,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.1,
+    18.8,
+    88.73,
+    36.34
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "Dummy",
+     "279",
+     "",
+     "",
+     "Oct-2024"
+    ],
+    [
+     "2",
+     "Dummy",
+     "519",
+     "",
+     "",
+     "Oct-2024"
+    ],
+    [
+     "3",
+     "Dummy",
+     "770",
+     "",
+     "",
+     "Oct-2024"
+    ],
+    [
+     "4",
+     "GLV*",
+     "1031",
+     "784.5",
+     "10/64",
+     "15/5/2012"
+    ],
+    [
+     "5",
+     "GLV*",
+     "1300",
+     "795.2",
+     "10/64",
+     "15/5/2012"
+    ],
+    [
+     "6",
+     "GLOV",
+     "1575",
+     "0",
+     "12/64",
+     "15/5/2012"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Rectangle 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6518302,
+   "y": 9270660,
+   "cx": 309565,
+   "cy": 229280,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    37.01,
+    93.59,
+    38.77,
+    95.9
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Text Box 217",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11992954,
+   "y": 9397434,
+   "cx": 1784005,
+   "cy": 459740,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.1,
+    94.87,
+    78.23,
+    99.51
+   ],
+   "text": "E14 (based on Final Well Report)\nMD: 2003 - 2009 mDF",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "TextBox 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9076266,
+   "y": 9609667,
+   "cx": 3031067,
+   "cy": 296333,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.54,
+    97.01,
+    68.75,
+    100.0
+   ],
+   "text": "UPDATED BY PRAVIN NAIR (JULY 2024)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10123334,
+   "y": 5087622,
+   "cx": 1552110,
+   "cy": 254878,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.49,
+    51.36,
+    66.3,
+    53.93
+   ],
+   "text": "CLOSED (JULY 2024)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10153811,
+   "y": 7231876,
+   "cx": 876263,
+   "cy": 264932,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.66,
+    73.01,
+    62.63,
+    75.68
+   ],
+   "text": "OPEN (2016)",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10153811,
+   "y": 3600050,
+   "cx": 671666,
+   "cy": 213433,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.66,
+    36.34,
+    61.47,
+    38.5
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6583374,
+   "y": 5705400,
+   "cx": 244493,
+   "cy": 229281,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    37.38,
+    57.6,
+    38.77,
+    59.91
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "14",
+   "name": "Straight Arrow Connector 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5082030,
+   "y": 5820040,
+   "cx": 1482815,
+   "cy": 114641,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    28.86,
+    58.75,
+    37.28,
+    59.91
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2964180,
+   "y": 5617222,
+   "cx": 2082125,
+   "cy": 1522718,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.83,
+    56.71,
+    28.66,
+    72.08
+   ],
+   "text": "HUD 1855 m MDTHF – when running 42BO (suspected tubing slightly collapse). Pass thru using tbg broach\n\nHUD 1870 m MDTHF – when running FGS",
+   "geom": "rect"
+  }
+ ]
+}

@@ -1,0 +1,357 @@
+[
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C4",
+"how": "cell text",
+"text": "QUALITY CHECKS OF SUBSURFACE SAMPLES"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C6",
+"how": "cell text",
+"text": "Type of sample"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell D6",
+"how": "cell text",
+"text": "Subsurface fluid"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C7",
+"how": "cell text",
+"text": "Cylinder no."
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C8",
+"how": "cell text",
+"text": "Opening pressure at room temperature 20°C ( psig )"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C9",
+"how": "cell text",
+"text": "Brine recovered ( cc )"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C10",
+"how": "cell text",
+"text": "Approximate sample volume (cc )"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell D10",
+"how": "cell text",
+"text": "80 @ 2000 PSIG"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell E10",
+"how": "cell text",
+"text": "40 @ 1500 PSIG"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell F10",
+"how": "cell text",
+"text": "600 @ 3000 PSIG"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell C11",
+"how": "cell text",
+"text": "Dew point pressure at reservoir temperature, 200 °F (psig)"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell D11",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'QC SUB.SAMPLES' cell E11",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'CA TABLE 2' cell B3",
+"how": "cell text",
+"text": "COMPANY :"
+},
+{
+"where": "sheet 'CA TABLE 2' cell C3",
+"how": "cell text",
+"text": "PCSB"
+},
+{
+"where": "sheet 'CA TABLE 2' cell B4",
+"how": "cell text",
+"text": "WELL :"
+},
+{
+"where": "sheet 'CA TABLE 2' cell C4",
+"how": "cell text",
+"text": "DULANG C-25"
+},
+{
+"where": "sheet 'CA TABLE 2' cell B5",
+"how": "cell text",
+"text": "REPORT NO. :"
+},
+{
+"where": "sheet 'CA TABLE 2' cell C5",
+"how": "cell text",
+"text": " PRSS-SR4-95-09"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D8",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SUBSURFACE FLUID"
+},
+{
+"where": "sheet 'CA TABLE 2' cell E10",
+"how": "cell text",
+"text": "MOLE %"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D11",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'CA TABLE 2' cell E12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 2' cell F12",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell E20",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA TABLE 2' cell E21",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D22",
+"how": "cell text",
+"text": "C6+ Hexanes Plus"
+},
+{
+"where": "sheet 'CA TABLE 2' cell E22",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 2' cell D23",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'CA TABLE 3' cell B2",
+"how": "cell text",
+"text": "COMPANY : "
+},
+{
+"where": "sheet 'CA TABLE 3' cell C2",
+"how": "cell text",
+"text": "PCSB"
+},
+{
+"where": "sheet 'CA TABLE 3' cell B3",
+"how": "cell text",
+"text": "WELL :"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C3",
+"how": "cell text",
+"text": "DULANG C-25 (CYLINDER NO: 813651)"
+},
+{
+"where": "sheet 'CA TABLE 3' cell B4",
+"how": "cell text",
+"text": "REPORT NO. : "
+},
+{
+"where": "sheet 'CA TABLE 3' cell C4",
+"how": "cell text",
+"text": "PRSS-SR4-95-09"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C7",
+"how": "cell text",
+"text": "COMPOSITIONAL ANALYSIS OF SUBSURFACE FLUID"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'CA TABLE 3' cell D9",
+"how": "cell text",
+"text": "MOLE%"
+},
+{
+"where": "sheet 'CA TABLE 3' cell E9",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'CA TABLE 3' cell F9",
+"how": "cell text",
+"text": "DENSITY @ 60°F"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'CA TABLE 3' cell D10",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C21",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C24",
+"how": "cell text",
+"text": "C10+ Decanes Plus"
+},
+{
+"where": "sheet 'CA TABLE 3' cell E24",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 3' cell F24",
+"how": "cell text",
+"text": "-"
+},
+{
+"where": "sheet 'CA TABLE 3' cell C25",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID\nSTUDY\n\nDULANG-C25\n\n"
+},
+{
+"where": "picture image2.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\nWELL : DULANG C-25\n\nREPORTED BY\nPVT UNIT\n\nReservoir Technology Section, Production Research Group,\nPETRONAS RESEARCH & SCIENTIFIC SERVICES SDN. BHD.\nLot 1026, PKNS Industrial Estate, 54200 Hulu Kelang, Selangor Darul Ehsan.\n\nFOR\n\nPETRONAS CARIGALI SDN. BHD.\nWisma Peladang, Jalan Bukit Bintang,\nPO Box 12407, 50778 Kuala Lumpur.\n\nDistribution :\nPCSB & PRSS Library\n\n"
+}
+]

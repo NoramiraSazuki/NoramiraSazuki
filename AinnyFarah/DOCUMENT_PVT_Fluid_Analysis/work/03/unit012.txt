@@ -1,0 +1,20 @@
+TABLE 13
+DIFFERENTIAL VAPORIZATION OF RESERVOIR FLUID AT 203F
+Pressure (psig) | Oil volume factor Bo (bbl/Std bbl) | Solution gas-oil ratio Rs (Std cu ft/Std bbl) | Gas volume factor Bg (cu ft/Std cu ft) | Reservoir oil density (g/cm3)
+6000 | 1.196 | 0.824
+5000 | 1.206 | 0.817
+4000 | 1.216 | 0.811
+3000 | 1.226 | 0.804
+2000 | 1.239 | 0.796
+Pi = 1775 | 1.242 | 0.794
+1676 | 1.244 | 0.793
+Pb = 1660 | 1.245 | 425 | 0.792
+1332 | 1.215 | 349 | 1.16 x 10-2 | 0.795
+1077 | 1.188 | 280 | 1.47 x 10-2 | 0.797
+817 | 1.161 | 212 | 1.99 x 10-2 | 0.799
+548 | 1.133 | 144 | 3.05 x 10-2 | 0.801
+270 | 1.103 | 71 | 6.24 x 10-2 | 0.804
+0 | 1.066 | 0 | 0.81
+Residual oil gravity | 0.864 60/60 F
+32.3 API
+--- OCR ---
