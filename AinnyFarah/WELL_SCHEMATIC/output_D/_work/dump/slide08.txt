@@ -1,0 +1,22 @@
+# slide 8 (slides/slide8.xml) hidden=False objects=14
+# notes: 'Open\n7'
+[pic id=6146050 'Picture 2' pct=[30.53, -0.05, 69.47, 100.0] hidden=False img=../media/image28.png]
+[sp id=3 'TextBox 2' pct=[31.39, 54.62, 35.72, 60.0] hidden=False]
+    Tag No Go Nipple (22/3/11)
+[sp id=12 'Oval 11' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=41 'TextBox 40' pct=[64.11, 26.99, 75.43, 29.44] hidden=False]
+    MA Plug set @ WP1 Nipple (Nov 2023)
+[sp id=46 'TextBox 45' pct=[25.96, 41.68, 35.24, 44.43] hidden=False]
+    CA Plug set in Aug 2021
+[sp id=44 'Rectangle 43' pct=[31.54, 44.4, 35.53, 48.97] hidden=False]
+    CLOSED
+    Aug 2021
+[sp id=48 'TextBox 47' pct=[52.87, 93.67, 68.92, 96.68] hidden=False]
+    UPDATED BY PRAVIN NAIR JAN 2024
+[sp id=8 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[pic id=6 'Graphic 5' pct=[50.04, 36.28, 50.83, 37.69] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=7 'Rectangle 6' pct=[68.86, 35.69, 78.66, 39.32] hidden=False]
+    HUD @ 2120m WLTHF (SPM#5) – Bent BK2 (Nov 2010)
+[pic id=9 'Picture 8' pct=[64.58, 38.33, 68.73, 45.9] hidden=False img=../media/image29.jpeg]

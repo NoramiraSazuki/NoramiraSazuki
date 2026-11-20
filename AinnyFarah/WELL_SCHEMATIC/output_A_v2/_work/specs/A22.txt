@@ -1,0 +1,45 @@
+WELL | A22 | 19 | image42.png + image43.png | WELL A-22 : SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+SRC | 19 | image42.png + image43.png | visual transcription of the screenshot pictures (x3 upscale, upper part image42 / lower part image43)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 28 MAY 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | SINGLE INGRAM CACTUS, 3M
+INFO | packerFluid | 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 64.9 DEG
+INFO | rte | 14.52 m
+INFO | completionType | SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+CASING | 18 5/8" 87.5 ppf X-56 @ 604.8 mMDDF | 18.625 | 87.5 | X-56 | 604.8 | MDDF
+CASING | 13 3/8" K-55 @ 1413.8 m MDDF | 13.375 |  | K-55 | 1413.8 | MDDF
+CASING | 9 5/8" N-80 @ 2497.4 mMDDF | 9.625 |  | N-80 | 2497.4 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB | 2.875 | 6.5 | N-80 | - |
+ROW | X | FLOW COUPLING | 139.2 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 139.9 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 293.7 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 611.2 |  | 2.371 |  | ?BK2 latch (LIB Nov 10/07) | status from slide text box obj #19 matched by position | p1
+ROW | X | KBMG-M-SPM | 1406.2 |  | 2.371 |  | ?DV Reset 10/Jul/09 | status from slide text box obj #17 matched by position | p1
+ROW | X | KBMG-M-SPM | 1832.3 |  | 2.371 |  | ?DV | status from slide text box obj #16 matched by position | p1
+ROW | X | KBMG-M-SPM | 2063.9 |  | 2.371 |  | ?DV | status from slide text box obj #12 matched by position | p1
+ROW | X | WP-2DE SSD | 2146.9 |  | 2.312 |  | ?CLOSED | status from slide text box obj #20 matched by position | p1
+ROW | X | SINGLE HYD. PKR GUIB UNI-VII | 2154.6 |  | 2.441 |  |  |  | p1
+ROW | X | WP-2DE SSD | 2162.1 |  | 2.312 |  | ?OPEN (Jul 2009); ?MA plug at SSD#02 (Dec 2016) | statuses from slide text boxes obj #7 / #22 matched by position | p1
+ROW | X | BLAST JOINT | 2165.7 |  | 2.441 |  |  | only one depth printed beside the blast-joint bracket (mapped as top; bottom not printed) | p2
+ROW | X | WP-1 NIPPLE | 2183.8 |  | 2.312 |  |  |  | p2
+ROW | X | CENTRALIZER | 2186.2 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 2186.7 |  | 2.441 |  |  |  | p2
+ROW | X | BAKER 'DB' PERM. PKR GUIB UNI-VII | 2187.4 |  | 2.441 |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 2192.1 |  | 2.250 |  |  |  | p2
+ROW | X | WEG | 2192.4 |  | 2.441 |  |  | end of string | p2
+PBTD | 2497.4 | MDDF | PBTD : 2497.4 mMDDF (header)
+TD | 2482.8 | MDTHF | TD @ 2482.8 m MDTHF
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p2 | LOWER: D-1 (sand label beside the blast joint) ; LOWER: D-1 (sand label at the bottom) — intervals not printed
+NOTE | slide 19 obj #11 | CLOSED (DEC 2016) (beside the upper LOWER: D-1 sand)
+NOTE | slide 19 obj #15 | OPEN (MAY 2012) (beside the lower LOWER: D-1 sand)
+NOTE | slide 19 obj #10 | HUD @2068m-MDTHF (Dec 2016) - sand
+NOTE | slide 19 obj #24 | LAST ENTRY : 25 Dec 2016 | TYPE OF JOB : A-22 : Offload | UPDATED BY : M Zhafran | DATE : 4 Feb 2018
+NOTE | slide 19 obj #2 | Latest Update: Dec 2023 by Pravin Nair
+ISSUE | Unclear | picture p2 | blast joint: only one depth (2165.7) printed beside the bracket — mapped as top, bottom not derived
+ISSUE | Unclear | header | PBTD 2497.4 m MDDF equals the 9 5/8" shoe depth (header); TD 2482.8 m MDTHF (diagram) = 2497.4 - RTE 14.52 — different datums, not shifted
+ISSUE | Unclear | slide 19 | SPM / SSD statuses and the MA plug are slide text boxes matched to rows by vertical position (status column of the diagram is empty)
+ISSUE | Missing | picture | zone intervals not printed for the two LOWER: D-1 sands

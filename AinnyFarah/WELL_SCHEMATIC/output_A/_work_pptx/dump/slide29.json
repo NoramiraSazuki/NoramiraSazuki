@@ -1,0 +1,138 @@
+{
+ "slide": 29,
+ "file": "slides/slide29.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n29",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Picture 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 528346,
+   "y": 182032,
+   "cx": 5801308,
+   "cy": 8810569,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.7,
+    1.99,
+    92.3,
+    98.34
+   ],
+   "image": "../media/image69.emf"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rectangle 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1587500,
+   "y": 5898991,
+   "cx": 742950,
+   "cy": 190660,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.15,
+    64.51,
+    33.98,
+    66.6
+   ],
+   "text": "SSD#2 OPEN",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 74566,
+   "y": 110236,
+   "cx": 1362874,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.09,
+    1.21,
+    20.96,
+    3.56
+   ],
+   "text": "Latest Update: DEC 2015",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "73",
+   "name": "Rectangle 72",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1513840,
+   "y": 3543141,
+   "cx": 822960,
+   "cy": 185579,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.07,
+    38.75,
+    34.07,
+    40.78
+   ],
+   "text": "SSD#1 CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Footer Placeholder 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1437440,
+   "y": 7592439,
+   "cx": 424406,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    20.96,
+    83.03,
+    27.15,
+    85.72
+   ],
+   "text": "E32",
+   "geom": "rect",
+   "fill": "FFFF00"
+  }
+ ]
+}

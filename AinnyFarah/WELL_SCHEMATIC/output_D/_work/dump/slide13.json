@@ -1,0 +1,927 @@
+{
+ "slide": 13,
+ "file": "slides/slide13.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n12",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "35",
+   "name": "Picture 34",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4285255,
+   "y": 0,
+   "cx": 9039628,
+   "cy": 9906000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    24.33,
+    0.0,
+    75.67,
+    100.0
+   ],
+   "image": "../media/image39.emf"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "5",
+   "name": "Table 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12314238,
+   "y": 10117182,
+   "cx": 4783238,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    69.93,
+    102.13,
+    97.09,
+    115.98
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "6",
+   "name": "Table 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 667158,
+   "y": 10171177,
+   "cx": 4783238,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.79,
+    102.68,
+    30.95,
+    116.52
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Oval 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3472397,
+   "y": 7216302,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    19.72,
+    72.85,
+    24.19,
+    78.85
+   ],
+   "text": "CLOSED, SEPT-24",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3511308,
+   "y": 8054790,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    19.94,
+    81.31,
+    24.41,
+    87.32
+   ],
+   "text": "CLOSED, Sept-24",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3515131,
+   "y": 6216487,
+   "cx": 787401,
+   "cy": 595029,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    19.96,
+    62.75,
+    24.43,
+    68.76
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "12",
+   "name": "Table 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 13788874,
+   "y": 2060363,
+   "cx": 3910279,
+   "cy": 1798320,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    78.3,
+    20.8,
+    100.51,
+    38.95
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDDF)",
+     "PTRO (psig)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "GLV",
+     "657.42",
+     "1050",
+     "10/64”",
+     "2018 infill campaign"
+    ],
+    [
+     "2",
+     "GLV",
+     "1059.39",
+     "1015",
+     "10/64”",
+     "2018 infill campaign"
+    ],
+    [
+     "3",
+     "GLV",
+     "1610.59",
+     "990",
+     "10/64”",
+     "2018 infill campaign"
+    ],
+    [
+     "4",
+     "GLOV - orifice",
+     "1931.34",
+     "-",
+     "12/64”",
+     "2018 infill campaign"
+    ]
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "13",
+   "name": "Picture 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 13578120,
+   "y": 3975018,
+   "cx": 4533900,
+   "cy": 2416091,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.1,
+    40.13,
+    102.85,
+    64.52
+   ],
+   "image": "../media/image34.png"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Rectangle 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10544698,
+   "y": 9032132,
+   "cx": 2590800,
+   "cy": 381000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    59.88,
+    91.18,
+    74.59,
+    95.02
+   ],
+   "text": "Updated By: xxxx on DD/MM/YY",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "2",
+   "name": "Picture 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5308599,
+   "y": 6264200,
+   "cx": 700677,
+   "cy": 535439,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.15,
+    63.24,
+    34.12,
+    68.64
+   ],
+   "image": "../media/image40.png"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5381637,
+   "y": 7215139,
+   "cx": 774758,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.56,
+    72.84,
+    34.96,
+    76.25
+   ],
+   "text": "E12A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5397463,
+   "y": 7552481,
+   "cx": 774758,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.65,
+    76.24,
+    35.05,
+    79.66
+   ],
+   "text": "E12A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5381829,
+   "y": 8102546,
+   "cx": 774758,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.56,
+    81.79,
+    34.96,
+    85.21
+   ],
+   "text": "E12B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "TextBox 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4787655,
+   "y": 5673403,
+   "cx": 2106433,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.19,
+    57.27,
+    39.15,
+    61.31
+   ],
+   "text": "HPT SNL 2023  - 5-½\" packer leak at 2083 & 2135 m MDDF",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "22",
+   "name": "Straight Arrow Connector 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6868493,
+   "y": 5861590,
+   "cx": 1328854,
+   "cy": 30825,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    39.0,
+    59.17,
+    46.55,
+    59.48
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "23",
+   "name": "Straight Arrow Connector 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6888654,
+   "y": 5885349,
+   "cx": 1161733,
+   "cy": 857874,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    39.12,
+    59.41,
+    45.71,
+    68.07
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "TextBox 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5283200,
+   "y": 2797696,
+   "cx": 2713288,
+   "cy": 461665,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.0,
+    28.24,
+    45.41,
+    32.9
+   ],
+   "text": "Leak @ SPM 1 &2 (Based on bleed off annulus data during HPTSNL)",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "26",
+   "name": "Graphic 25",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 8398669,
+   "y": 2578100,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.69,
+    26.03,
+    49.11,
+    28.55
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "27",
+   "name": "Graphic 26",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 8385969,
+   "y": 3302000,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.62,
+    33.33,
+    49.04,
+    35.86
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "29",
+   "name": "Graphic 28",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7995537,
+   "y": 7731747,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.4,
+    78.05,
+    46.82,
+    80.58
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "30",
+   "name": "Graphic 29",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 8065294,
+   "y": 6550025,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.8,
+    66.12,
+    47.22,
+    68.65
+   ],
+   "image": "../media/image24.png",
+   "image_alt": "../media/image25.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "Rectangle 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8442192,
+   "y": 8254500,
+   "cx": 299037,
+   "cy": 207600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.94,
+    83.33,
+    49.64,
+    85.42
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6639844,
+   "y": 8507830,
+   "cx": 1312659,
+   "cy": 383342,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    37.7,
+    85.89,
+    45.16,
+    89.76
+   ],
+   "text": "PXN plug set at 2174 WLTHF @ 25-Aug-24",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "19",
+   "name": "Straight Arrow Connector 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7952503,
+   "y": 8441100,
+   "cx": 489689,
+   "cy": 258401,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    45.16,
+    85.21,
+    47.94,
+    87.82
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5282396,
+   "y": 3350482,
+   "cx": 2106433,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.0,
+    33.82,
+    41.96,
+    36.31
+   ],
+   "text": "Leak @ SPM 2 (WLD 2024)  ",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "25",
+   "name": "Graphic 24",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 8148638,
+   "y": 3295444,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.27,
+    33.27,
+    47.69,
+    35.79
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "31",
+   "name": "Graphic 30",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7932825,
+   "y": 5642384,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.05,
+    56.96,
+    46.47,
+    59.48
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "32",
+   "name": "TextBox 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4790438,
+   "y": 5219097,
+   "cx": 2106433,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.2,
+    52.69,
+    39.16,
+    55.17
+   ],
+   "text": "WLD 2024 – temperature cooling",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "33",
+   "name": "Graphic 32",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7947316,
+   "y": 5058047,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.13,
+    51.06,
+    46.55,
+    53.58
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "34",
+   "name": "Graphic 33",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7925371,
+   "y": 4627472,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.0,
+    46.71,
+    46.42,
+    49.24
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "36",
+   "name": "Graphic 35",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 7923598,
+   "y": 4300560,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.99,
+    43.41,
+    46.41,
+    45.94
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "37",
+   "name": "Graphic 36",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 8172794,
+   "y": 3815911,
+   "cx": 250031,
+   "cy": 250031,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.41,
+    38.52,
+    47.83,
+    41.05
+   ],
+   "image": "../media/image41.png",
+   "image_alt": "../media/image42.svg"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "38",
+   "name": "Straight Arrow Connector 37",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6896871,
+   "y": 4266680,
+   "cx": 1024954,
+   "cy": 1071354,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    39.16,
+    43.07,
+    44.98,
+    53.89
+   ]
+  },
+  {
+   "kind": "cxnSp",
+   "id": "41",
+   "name": "Straight Arrow Connector 40",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6907871,
+   "y": 5356780,
+   "cx": 1039445,
+   "cy": 401285,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    39.23,
+    54.08,
+    45.13,
+    58.13
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "45",
+   "name": "TextBox 44",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2270760,
+   "y": 4001472,
+   "cx": 2103121,
+   "cy": 419946,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    12.89,
+    40.39,
+    24.84,
+    44.63
+   ],
+   "text": "2024 – post ZOC - F/L @ 1951 mMDDF\n2023 – SNL – F/L 1710 mWLTHF = 1726 mMDDF",
+   "geom": "rect"
+  }
+ ]
+}

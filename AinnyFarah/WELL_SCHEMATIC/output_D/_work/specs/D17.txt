@@ -1,0 +1,35 @@
+WELL | D17 | 17 | image51.png | WELL D-17 : SINGLE GAS PRODUCER (WELL ID : DULANG D-17)
+SRC | 17 | image51.png | visual transcription of a low-resolution, JPEG-blurred picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 10 June 2010
+INFO | rig | Gait II
+INFO | tubing | 2 7/8" 6.4ppf, L-80 13Cr
+INFO | xmas | Solar Alert, Dual x-mas tree, 5K, FF, 3-1/8" with manual gate valves and pneumatic actuators
+INFO | packerFluid | 9.2 ppg FSW + 0.2% Biocide + 2% Oxygen Scavenger + 2% Corrosion Inhibitor + 3% KCl
+INFO | maxDeviation | 40 deg
+INFO | rte | 14.52 (DRILL FLOOR TO THF)
+INFO | completionType | SINGLE GAS PRODUCER
+CASING | 26" 202 A-36 BTC 185.5m | 26 | 202 | A-36 | 185.5 | m (datum not printed)
+CASING | 13 3/8" 54.5 K-55 BTC 705m | 13.375 | 54.5 | K-55 | 705 | m (datum not printed)
+CASING | 9 5/8" 40 N-80 BTC 1655m | 9.625 | 40 | N-80 | 1655 | m (datum not printed)
+TUBING | 2 7/8" 6.4ppf, L-80 13Cr | 2.875 | 6.4 | L-80 | - |
+ROW | X | Bullplug | 14.0 |  |  |  |  | plug at the top of the second (unused) hanger bore of the dual tree, beside the string | p1
+ROW | X | 2-7/8" Flow Coupling, 13Cr | 142.4 |  | ?2.36 |  |  | MIN ID read '2.36' (blurred; 2.360 likely) | p1
+ROW | X | 2-7/8" TRSV, 5K, 13Cr | 143.3 |  | 2.313 |  |  |  | p1
+ROW | X | 2-7/8" Flow Coupling, 13Cr | 144.5 |  | 2.360 |  |  |  | p1
+ROW | X | 2-7/8" SPM, 13Cr | 511.9 |  | 2.355 |  |  |  | p1
+ROW | X | 2-7/8" X-Nipple, 13 Cr | ?1386.2 |  | 2.313 |  |  | depth blurred ('1366.2' or '1386.2'; sequence suggests 1386.2) | p2
+ROW | X | 2-7/8" FOX Pin x 3-1/2" Fox Box | ?1386.6 |  | 2.441 |  |  | depth blurred | p2
+ROW | X | BHR, 9-5/8", 3-1/2" FOX-K, 13Cr | ?1387.4 |  | ?2.880 |  |  | blurred | p2
+ROW | X | 2-7/8" FOX Pin x 3-1/2" Fox Box | ?1389.2 |  | 2.441 |  |  | blurred | p2
+ROW | X | 2-7/8" XN NIPPLE, 13Cr | ?1395.4 |  | ?2.205 |  |  | blurred | p2
+ROW | X | POP ASSY, 2-7/8" FOX-K BOX, 13Cr | ?1397.6 |  | ?2.380 |  |  | blurred | p2
+ROW | X | EOT | ?1398.1 |  |  |  |  | blurred | p2
+ROW | X | Cement Retainer | 1449.0 |  |  |  |  | 'Others' column | p2
+ZONE | LD1 | 1408.0 | 1414.0 | MDTHF | LD1 Sand 1408.0 / 1414.0 (right-hand depth column m MDTHF) | p2 | perf
+PBTD | 1614 | MDTHF | PBTD : 1614m MDTHF (header)
+TD | 1437 | MDTHF | TD : 1437m MDTHF (header)
+CEMENT | TOC | 1437.0 |  | MDTHF | TOC 1437.0 (above the cement retainer at 1449.0; bottom not printed)
+NOTE | picture header | WELL ID : DULANG D-17; CLIENT : PETRONAS CARIGALI; WATER DEPTH 73 m; DRILL FLOOR TO THF 14.52; NOTE: All depths in m-MDTHF to top of equipment (small print); 09/Sept/2013
+ISSUE | Conflict | picture header | TD 1437m MDTHF is shallower than PBTD 1614m MDTHF and equals the TOC label (1437.0) — both kept as printed
+ISSUE | Unclear | picture | low-resolution JPEG: lower-string depths and several MIN IDs flagged as uncertain reads ('?')

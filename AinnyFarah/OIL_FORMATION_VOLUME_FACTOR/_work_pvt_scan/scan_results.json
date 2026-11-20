@@ -1,0 +1,4592 @@
+[
+ {
+  "file": "82_L_004_DULANG 6G-1_2_PVT Study Report DST 1_Jan 1983.xls",
+  "type": ".xls",
+  "size": 327092,
+  "sha256": "015bff73852e7496834a4442cf569e4c651bb628206a1bcfa94944bf54ccbb78",
+  "status": "scanned",
+  "units": 1089,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'SUMMARY RESULTS' cell B7",
+    "how": "cell text",
+    "matched": "reservoir condition",
+    "label": "The initial reservoir conditions are"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SUMMARY RESULTS' cell B19",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "oil volume factor (bbl/Std bbl) :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLING COND.' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 3' cell B26",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 3' cell B28",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 3' cell B30",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 4' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 6' cell B26",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 6' cell B28",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 6' cell B30",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 7' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 9' cell B26",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 9' cell B28",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 9' cell B30",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 10' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 13' cell B4",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 14' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 17' cell B4",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 26' cell B8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 26' cell B10",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 26' cell B12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 27' cell B8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 27' cell B10",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 27' cell B12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 28' cell B8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 28' cell B10",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 28' cell B12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell C8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell B34",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell B35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell C8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell B34",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell B35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'TABLE 37' cell C6",
+    "how": "cell text",
+    "matched": "Relative volume",
+    "label": "Relative volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 41' cell G6",
+    "how": "cell text",
+    "matched": "VOLUME FACTOR",
+    "label": "OIL VOLUME FACTOR (2)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 41' cell I6",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor (3)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 41' cell J6",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "STO Gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 41' cell C15",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "Gas volume at standard conditions per volume of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 41' cell C16",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "Volume of reservoir fluid at saturation pressure ner volume of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 41' cell C17",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "Volume of stock tank oil at 60°F per volume of separator liquid at separator conditions"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 5,
+  "ocr_chars": 861
+ },
+ {
+  "file": "82_L_033 DULANG 6G-1-1B_PVT Study Report DST 3_Sept 1982.xls",
+  "type": ".xls",
+  "size": 46213,
+  "sha256": "36788878a4aa8dcad3c55439f56be2866aa990af6bea3fc7d70b574e2a2e6bc4",
+  "status": "scanned",
+  "units": 1,
+  "hits": [],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 120
+ },
+ {
+  "file": "82_L_034 DULANG 6G-1-1B_PVT Study Report DST 4_Sept 1982.xls",
+  "type": ".xls",
+  "size": 142498,
+  "sha256": "7722163f46b2ecc59484f0b53aba024770d0e9bd4800adf7423591d84f3de168",
+  "status": "scanned",
+  "units": 436,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'SUMMARY RESULTS' cell B7",
+    "how": "cell text",
+    "matched": "reservoir condition",
+    "label": "The initial reservoir conditions are"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SUMMARY RESULTS' cell B19",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "oil volume factor (bbl/Std bbl) :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLING COND.' cell C26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 6 & 7' cell B4",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 10' cell C12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 10' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "MOLECULAR WT OF DODECANES PLUS IN STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 10' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "GRAVITY OF DODECANES PLUS IN STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 11' cell C12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 11' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "MOLECULAR WT OF DODECANES PLUS IN STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 11' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "GRAVITY OF DODECANES PLUS IN STO"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'TABLE 12' cell C6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 13' cell C6",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "Oil volume factor"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 13' cell C6",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo (bbl/Std bbl)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 13' cell E6",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "Gas volume factor Bg (cu ft/Std cu ft)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 16' cell G6",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 16' cell I6",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 16' cell J6",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "STO gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 16' cell B14",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "(1) Gas volume at standard conditions per volume of stock tank oil at 60"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 16' cell B15",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "(2) Volume of reservoir fluid at saturation pressure per volume of stock tank oil at 60 F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 16' cell B16",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "(3) Volume of stock tank oil at 60 F per volume of separator liquid at separator conditions"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 127
+ },
+ {
+  "file": "82_L_035 DULANG 6G-1-1B_PVT Study Report DST 5_Sept 1982.xls",
+  "type": ".xls",
+  "size": 105489,
+  "sha256": "b4286fabc778b527e2af017063c912acadca08192add9b6108b8294f9234b9e3",
+  "status": "scanned",
+  "units": 257,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLING COND.' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'TABLE 7' cell C6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'TABLE 7' cell C22",
+    "how": "cell text",
+    "matched": "Relative volume",
+    "label": "- Relative volume was obtainered per rapport at the static pressure"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 8' cell B6",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 8' cell B9",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 8' cell B11",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 9' cell B3",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 9' cell C7",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 9' cell B34",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO: 209"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 264
+ },
+ {
+  "file": "83_L_005_DULANG 6G-1_2_PVT Study Report DST 2_Jan 1983.xls",
+  "type": ".xls",
+  "size": 258767,
+  "sha256": "663fc1ed5867fcfa1a71de786aac38d3320d59d99f8738868d0d606d3b609c33",
+  "status": "scanned",
+  "units": 1060,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'SAMPLE SUMMARY' cell B13",
+    "how": "cell text",
+    "matched": "reservoir condition",
+    "label": "The initial reservoir conditions are :"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SAMPLE SUMMARY' cell B22",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "oil volume factor (bbl/std bbl) :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLE SUMMARY (2)' cell B29",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C28",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C30",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE  2387-8' cell C32",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLE SUMMARY (3)' cell B29",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C30",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C32",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE 9214-124' cell C34",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLE SUMMARY (4)' cell B29",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C30",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C32",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE 1116-592' cell C34",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BOTTOMHOLE SAMPLE (5)' cell B29",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'BUBBLE POINT PRESSURE 20524-189' cell C30",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLE TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell J9",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell L10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell C15",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'STO A12137 9214-124' cell C17",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell C19",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell J35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A12137 9214-124' cell J36",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid A12137 9214-124' cell F10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell J9",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell L10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell C15",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'STO A 5034 238714 ' cell C17",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell C19",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell J35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 5034 238714 ' cell J36",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid A 5034 238714' cell F10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell J9",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell L10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell C15",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "1. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'STO A 9127 1116-592' cell C17",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell C19",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell J35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'STO A 9127 1116-592' cell J36",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO :"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid A 9127 1116-592' cell F10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid 2052-189' cell F10",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank Liquid"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid 2052-189' cell D35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO:"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Res. Fluid 2052-189' cell D36",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO :"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "picture image3.png (used in drawing2.xml)",
+    "how": "OCR",
+    "matched": "Bobs",
+    "label": "Bobs ashd\" sand sb0n Boon een"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 7,
+  "ocr_chars": 1193
+ },
+ {
+  "file": "83_L_006_DULANG 6G-1_2_PVT Study Report DST 3_Apr 1983.xls",
+  "type": ".xls",
+  "size": 381314,
+  "sha256": "e49cccb52776f6af109f6a05a1896d30ecf8f10a9b2929ef0fe2315301477e8f",
+  "status": "scanned",
+  "units": 911,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SAMPLING COND.' cell B29",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 2 & 3' cell B39",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 2 & 3' cell B41",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 2 & 3' cell B43",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 4' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 5 & 6' cell B42",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 5 & 6' cell B44",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 5 & 6' cell B46",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 7' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 8 & 9' cell B44",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID STOCK TANK C0NDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 8 & 9' cell B46",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 8 & 9' cell B48",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 10' cell B26",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 13 & 14' cell B4",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 13 & 14' cell B34",
+    "how": "cell text",
+    "matched": "Stock tank",
+    "label": "Stock tank temperature"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 17 & 18' cell B4",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF BOTTOM HOLE SAMPLES TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 26' cell B8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 26' cell B10",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 26' cell B12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 27' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 27' cell B9",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 27' cell B11",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 28' cell B8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'TABLE 28' cell B10",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 28' cell B12",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Stock Tank oil gravity"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 29' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 31' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell C11",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B37",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 33' cell B38",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell C8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell B34",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 35' cell B35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell C8",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK LIQUID"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell B34",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Molecular weight of Dodecanes plus in STO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'TABLE 36' cell B35",
+    "how": "cell text",
+    "matched": "STO",
+    "label": "Gravity of Dodecanes plus in STO"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 11,
+  "ocr_chars": 2126
+ },
+ {
+  "file": "CHEM 86021_DULANG-5_Water & Crude Oil Analysis Report_2 May 1986.xls",
+  "type": ".xls",
+  "size": 53381,
+  "sha256": "f45823c2af2097655ae7bd2420af6318e805d39d123a7a2e2eb6be81654e8413",
+  "status": "scanned",
+  "units": 50,
+  "hits": [],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 118
+ },
+ {
+  "file": "MFL 20100151_DULANG-A14_Reservoir Fluid Study Rev_0_Feb 2011.xls",
+  "type": ".xls",
+  "size": 3074560,
+  "sha256": "0ffa68ca3d9269f2aff39917786d40da373620ac73b2b09e7af7ba13ff3b22ff",
+  "status": "scanned",
+  "units": 2323,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C51",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Water Analysis Data - Stock Tank Sample (sample collected at 18:30 hrs)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C53",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Water Analysis Data - Stock Tank Sample (sample collected at 18:00 hrs)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'D.1' cell F24",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'D.1' cell F26",
+    "how": "cell text",
+    "matched": "Stocktank",
+    "label": "Stocktank oil flow rate"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'D.1' cell F42",
+    "how": "cell text",
+    "matched": "Shrinkage factor",
+    "label": "Shrinkage factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'D.1' cell F43",
+    "how": "cell text",
+    "matched": "Separator Oil",
+    "label": "Separator Oil Flow Rate"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'F.1' cell B62",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume = V / Vsat ie. volume at indicated pressure per volume at dew point pressure."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "Shrinkage",
+    "label": "Shrinkage Measurement"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "shrinkage",
+    "label": "The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktank condition as provided in the"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "relative volume",
+    "label": "The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktank condition as provided in the"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "The shrinkage measurement was performed on separator condensate (Cyl# 819614) to correct the separator liquid flowrate at stocktank condition as provided in the"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "shrinkage",
+    "label": "Since the separator condensate sample was collected at separator temperature below the ambient laboratory temperature, the partial CCE test was performed at var"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "relative volume",
+    "label": "Since the separator condensate sample was collected at separator temperature below the ambient laboratory temperature, the partial CCE test was performed at var"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "relative volume",
+    "label": "The deviation factor, Z, was determined by pumping known volumes of the fluid from the PVT cell at 5000 psig and measuring the gas volumes at standard condition"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 9,
+  "ocr_chars": 1161
+ },
+ {
+  "file": "MFL 20100151_DULANG-A14_SAMPLE INFORMATION_(DO No_ 109122).xls",
+  "type": ".xls",
+  "size": 107008,
+  "sha256": "256aef53fa920585ab3b03970d693e25af3f87365b698a5e4dc7238b0cbbbcec",
+  "status": "scanned",
+  "units": 108,
+  "hits": [],
+  "container": "OLE2/BIFF",
+  "n_pictures": 1,
+  "ocr_chars": 34
+ },
+ {
+  "file": "MFL 20110028_DULANG-A25_Reservoir Fluid Study_Jul 2011.xls",
+  "type": ".xls",
+  "size": 2946560,
+  "sha256": "a72c0ad0c86f7c789d9f355ea8cd5b950ede8e3ffa3d9d66f378b96e3a6948d6",
+  "status": "scanned",
+  "units": 1711,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C22",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C24",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C34",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples from B14 & D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'D.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'Letter'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from Dulang A25, B14 & D26S well a"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dulang A25, B14 & D26S well, were"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-column injection technique. This i"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 9,
+  "ocr_chars": 1918
+ },
+ {
+  "file": "MFL 20110028_DULANG-A25_SAMPLE INFORMATION (DO No_ 127750).xls",
+  "type": ".xls",
+  "size": 112128,
+  "sha256": "35f09865926336d435e53ea98a8b95087cc445199d0e3f08920f2c3de9858f3f",
+  "status": "scanned",
+  "units": 129,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 1,
+  "ocr_chars": 34
+ },
+ {
+  "file": "MFL 20110028_DULANG-B14_Reservoir Fluid Study_Jul 2011.xls",
+  "type": ".xls",
+  "size": 2946560,
+  "sha256": "e6e554478a8585741d43c0ceec0457fcf14da743d813585ee49d02c0134d6850",
+  "status": "scanned",
+  "units": 1711,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C22",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C24",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C34",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples from B14 & D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'D.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'Letter'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from Dulang A25, B14 & D26S well a"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dulang A25, B14 & D26S well, were"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-column injection technique. This i"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 9,
+  "ocr_chars": 1918
+ },
+ {
+  "file": "MFL 20110028_DULANG-B14_SAMPLE INFORMATION (DO No_ 127750).xls",
+  "type": ".xls",
+  "size": 112128,
+  "sha256": "df93f3a2a2a5f363743d25e79e07c461ebd9585a347f402b3735d862c1ea4e9c",
+  "status": "scanned",
+  "units": 129,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 1,
+  "ocr_chars": 34
+ },
+ {
+  "file": "MFL 20110028_DULANG-D26_Reservoir Fluid Study_Jul 2011.xls",
+  "type": ".xls",
+  "size": 2946560,
+  "sha256": "a443e43d97e2cecde842aa8f146987933e6f2a1eb1fe831a01eaf4ddca95c3fa",
+  "status": "scanned",
+  "units": 1711,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C22",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C24",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil Sample from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Contents' cell C34",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples from B14 & D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.1' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from B14"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Compositional Analysis of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'C.3' cell N8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Chromatographic Profile of Stock Tank Oil from D26S"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'D.1' cell B8",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Basic Properties Data for Stock Tank Oil Samples"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'Letter'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, stocktank oil and water samples were collected from Dulang A25, B14 & D26S well a"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "Several reservoir fluid samples consisting of separator liquid, separator gas, water and stock tank oil samples collected from Dulang A25, B14 & D26S well, were"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "Two stocktank oil samples were received and selected for Compositional & Basic Properties Analyses."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "The composition of the stock tank samples were determined by high resolution capillary gas chromatography utilising a cold-on-column injection technique. This i"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 9,
+  "ocr_chars": 1918
+ },
+ {
+  "file": "MFL 20110028_DULANG-D26_SAMPLE INFORMATION (DO No_ 127750).xls",
+  "type": ".xls",
+  "size": 112128,
+  "sha256": "f2c95f9a81948f2387159abf14b2cbd2102a1a9bb845d0e840f07726ae9dd8a3",
+  "status": "scanned",
+  "units": 129,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C34",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Sample Info' cell C37",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "STOCK TANK"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 1,
+  "ocr_chars": 34
+ },
+ {
+  "file": "MFL 20120023_DULANG-B21_Reservoir Fluid Study_OCT 2012.xls",
+  "type": ".xls",
+  "size": 3106816,
+  "sha256": "a5121383cef87023ff24fe7bf26fe9a4739c9e5f46823b2dd00b9636ce9e3407",
+  "status": "scanned",
+  "units": 2338,
+  "hits": [
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'A.1' cell AN24",
+    "how": "cell text",
+    "matched": "Bod",
+    "label": "Relative oil volume at saturation pressure, Bod (2)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'A.1' cell AN24",
+    "how": "cell text",
+    "matched": "Relative oil volume",
+    "label": "Relative oil volume at saturation pressure, Bod (2)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'A.1' cell AS34",
+    "how": "cell text",
+    "matched": "Stocktank",
+    "label": "Stocktank Oil"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'A.1' cell AR35",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "Volume Factor"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'A.1' cell AR36",
+    "how": "cell text",
+    "matched": "bofb",
+    "label": "(bofb)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'A.1' cell AN58",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank liquid at 60 oF"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'A.1' cell AN59",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "(2) Volume of saturated fluid at 1100 psig and 206°F per volume of stocktank liquid at 60 °F"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'D.1' cell K63",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume = V / Vsat ie. volume at indicated pressure per volume at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'D.1' cell K65",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(3) Y-function = (Psat - P ) / ((Pabs)(V/Vsat - 1))."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'E.1' cell E14",
+    "how": "cell text",
+    "matched": "Bod",
+    "label": "Bod(2)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'E.1' cell AU14",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo(1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'E.1' cell M39",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume v Pressure"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'E.1' cell AQ50",
+    "how": "cell text",
+    "matched": "Bofb",
+    "label": "Rs = Rsfb - (Rsdb - Rsd) x (Bofb / Bodb)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'E.1' cell AQ52",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo = Bod x (Bofb/Bodb)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'E.1' cell B62",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "(1) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'E.1' cell B63",
+    "how": "cell text",
+    "matched": "Volume of oil at indicated",
+    "label": "(2) Volume of oil at indicated pressure and temperature per volume of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'E.1' cell B63",
+    "how": "cell text",
+    "matched": "per volume of residual",
+    "label": "(2) Volume of oil at indicated pressure and temperature per volume of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'E.1' cell B64",
+    "how": "cell text",
+    "matched": "per volume of residual",
+    "label": "(3) Volume of oil plus liberated gas at indicated pressure and temperature per volume of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'G.1' cell U7",
+    "how": "cell text",
+    "matched": "Stocktank",
+    "label": "Compositional Analysis of Stocktank Oil to C36+"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'G.1' cell AB8",
+    "how": "cell text",
+    "matched": "Stocktank",
+    "label": "Compositional Analysis of Stocktank Oil to C36+"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'G.1' cell H14",
+    "how": "cell text",
+    "matched": "Bofb",
+    "label": "Bofb (3)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'G.1' cell B63",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2) GOR in cubic feet of gas at 14.73 psia and 60°F per barrel of stocktank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'G.1' cell B64",
+    "how": "cell text",
+    "matched": "Volume of saturated oil at 1",
+    "label": "(3) Volume of saturated oil at 1100 psig and 206°F per volume of stocktank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'G.1' cell B64",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "(3) Volume of saturated oil at 1100 psig and 206°F per volume of stocktank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'G.1' cell B65",
+    "how": "cell text",
+    "matched": "Volume of oil at indicated",
+    "label": "(4) Volume of oil at indicated pressure and temperature per volume of stocktank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'G.1' cell B65",
+    "how": "cell text",
+    "matched": "per volume of stock",
+    "label": "(4) Volume of oil at indicated pressure and temperature per volume of stocktank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stocktank",
+    "label": "The residue or stocktank liquid whole sample molecular weight and density are measured using a cryette and PAAR densitometer respectively. A more detailed expla"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "text box on 'A.1'",
+    "how": "text box",
+    "matched": "stock tank",
+    "label": "Dynamic viscosity measurements were performed on both stock tank oil and live crude as per instructions by a represantative from Hoan Vu JOC. The parameters use"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Bofb",
+    "label": "Bofb = Formation Volume Factor from separator test."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Bodb",
+    "label": "Bodb = Relative Oil Volume for oil remaining from differential vaporisation."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Relative Oil Volume",
+    "label": "Bodb = Relative Oil Volume for oil remaining from differential vaporisation."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Bo",
+    "label": "Bo = FVF/ Relative Oil Volume."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Relative Oil Volume",
+    "label": "Bo = FVF/ Relative Oil Volume."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Bod",
+    "label": "Bod = Relative Oil Volume from differential vaporisation."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "text box on 'E.1'",
+    "how": "text box",
+    "matched": "Relative Oil Volume",
+    "label": "Bod = Relative Oil Volume from differential vaporisation."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "embedded picture 7 (emf)",
+    "how": "EMF native text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume (V/Vr)"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 9,
+  "ocr_chars": 1147
+ },
+ {
+  "file": "MFL 20130041_DULANG-D32_Water Analysis_May 2013.xls",
+  "type": ".xls",
+  "size": 2751488,
+  "sha256": "31f4d0f3c0dab77b052ea3529d9c83a9494b8fef9be95002621015ef970ec918",
+  "status": "scanned",
+  "units": 993,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'B.1' cell E10",
+    "how": "cell text",
+    "matched": "Reservoir Condition",
+    "label": "Reservoir Conditions"
+   }
+  ],
+  "container": "OLE2/BIFF",
+  "n_pictures": 4,
+  "ocr_chars": 434
+ },
+ {
+  "file": "MFL 91184_DULANG-B12_Reservoir Fluid Study_Apr 1992.docx",
+  "type": ".docx",
+  "size": 553047,
+  "sha256": "9103fcc217efd3e5ef23e4af4415a943a0a2af7bfd6f47457f8581311a2a3f75",
+  "status": "scanned",
+  "units": 2629,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header18.xml paragraph 1",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "Page # of 33File MFL 91184Page # of 33File MFL 91184Company: Petronas Carigali Sdn BhdWell : Dulang B-12Company: Petronas Carigali Sdn BhdWell : Dulang B-12ADJU"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header18.xml paragraph 10",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header18.xml paragraph 11",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header19.xml paragraph 1",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "Page # of 33File MFL 91184Page # of 33File MFL 91184Company: Petronas Carigali Sdn BhdWell : Dulang B-12Company: Petronas Carigali Sdn BhdWell : Dulang B-12ADJU"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header19.xml paragraph 10",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/header19.xml paragraph 11",
+    "how": "document text",
+    "matched": "RELATIVE VOLUME",
+    "label": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 110",
+    "how": "document text",
+    "matched": "Stock Tank",
+    "label": "Separator Test 15 Hydrocarbon Analysis of Stock Tank Oil from Single Stage Separator test 16 Nomenclature and Equations to Adjust Differential"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 117",
+    "how": "document text",
+    "matched": "Saturated Oil",
+    "label": "Compressibility of Saturated Oil20"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 120",
+    "how": "document text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume26"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 121",
+    "how": "document text",
+    "matched": "Relative Oil Volume",
+    "label": "Adjustment of Relative Oil Volume27-30"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 158",
+    "how": "document text",
+    "matched": "volume factor",
+    "label": "Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The fluid evolved a total of 410 cubi"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 158",
+    "how": "document text",
+    "matched": "relative oil volume",
+    "label": "Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The fluid evolved a total of 410 cubi"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 158",
+    "how": "document text",
+    "matched": "per barrel of residual",
+    "label": "Subsequently the reservoir fluid was subjected to a differential pressure depletion at the reservoir temperature of 200’F. The fluid evolved a total of 410 cubi"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 159",
+    "how": "document text",
+    "matched": "relative volume",
+    "label": "The gas in solution and oil relative volume data obtained from the differential pressure depletion study has been adjusted to separator conditions, this data is"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 164",
+    "how": "document text",
+    "matched": "formation volume factor",
+    "label": "The reservoir fluid was subjected to a series of single-stage separator test at 112°F to determine the effect of separator pressure on stock tank oil gravity, f"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 164",
+    "how": "document text",
+    "matched": "stock tank",
+    "label": "The reservoir fluid was subjected to a series of single-stage separator test at 112°F to determine the effect of separator pressure on stock tank oil gravity, f"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 166",
+    "how": "document text",
+    "matched": "stock tank",
+    "label": "The stock tank liquid obtained from the single stage separator tests were analysed to heptanes plus and are reported on pages sixteen."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 193",
+    "how": "document text",
+    "matched": "Reservoir Condition",
+    "label": "Reservoir Conditions:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 235",
+    "how": "document text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume at Reservoir Pressure of 1668 PSIG = 1.0000"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 237",
+    "how": "document text",
+    "matched": "per barrel of residual",
+    "label": "Rsdb: Solution Gas/Oil ratio at 1668 psig and 200*F = 410 standard cubic feet of gas at 14.73 psia and 60*F per barrel of residual oil at 60’F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 238",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60\"F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 238",
+    "how": "document text",
+    "matched": "Relative Oil Volume",
+    "label": "Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60\"F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 238",
+    "how": "document text",
+    "matched": "per barrel of residual",
+    "label": "Bodb: Relative Oil Volume at 1668 psig and 200*F = 1.249 barrels of oil per barrel of residual oil at 60\"F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 250",
+    "how": "document text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 252",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb(l)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 275",
+    "how": "document text",
+    "matched": "stock tank",
+    "label": "barrel of stock tank oil at 60’F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 276",
+    "how": "document text",
+    "matched": "per barrel of stock",
+    "label": "(2) Total Solution Gas/Oil Ratio,total standard cubic feet of gas at 14.73 psia and 60’F per barrel of stock tank oil at 60’F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 677",
+    "how": "document text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 741",
+    "how": "document text",
+    "matched": "volume at saturation",
+    "label": "Specific volume at saturation pressure: ft3/lb = 0.02136"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 742",
+    "how": "document text",
+    "matched": "saturated oil",
+    "label": "Compressibility of saturated oil @ reservoir temperature:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 839",
+    "how": "document text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume : V/Vsat is barrels at indicated pressure per barrel at"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 842",
+    "how": "document text",
+    "matched": "V/Vsat",
+    "label": "(Pabs) (V/Vsat-1)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1465",
+    "how": "document text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1592",
+    "how": "document text",
+    "matched": "per barrel of stock",
+    "label": "Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60*F per barrel of stock tank oil at 60*F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1593",
+    "how": "document text",
+    "matched": "Vol. Factor",
+    "label": "Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 1593",
+    "how": "document text",
+    "matched": "saturated oil",
+    "label": "Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1593",
+    "how": "document text",
+    "matched": "per barrel of stock",
+    "label": "Formation Vol. Factor is barrels of saturated oil at 1668 psig and 200’F per barrel of stock tank oil at 60’F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1594",
+    "how": "document text",
+    "matched": "Volume Factor",
+    "label": "Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60#F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1594",
+    "how": "document text",
+    "matched": "per barrel of stock",
+    "label": "Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60#F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1787",
+    "how": "document text",
+    "matched": "STOCK TANK",
+    "label": "HYDROCARBON ANALYSES OF STOCK TANK OIL FROM SINGLE STAGE SEPARATOR TEST"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1969",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo = Oil Formation Volume Factor."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1970",
+    "how": "document text",
+    "matched": "Bob",
+    "label": "Bob = The Value for Bo at saturation pressure."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1971",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb = Formation Volume Factor from field conditions (or optimum) separator flash test."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1972",
+    "how": "document text",
+    "matched": "Bod",
+    "label": "Bod = Relative Oil Volume from differential vaporization test. Bodb = Value of Bod at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 1972",
+    "how": "document text",
+    "matched": "Relative Oil Volume",
+    "label": "Bod = Relative Oil Volume from differential vaporization test. Bodb = Value of Bod at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 1973",
+    "how": "document text",
+    "matched": "Relative Volume",
+    "label": "RV = Relative Volume from pressure-volume relations test."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1974",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "For Bo above saturation pressure:"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1975",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo = R.V. x Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1976",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "For Bo below saturation pressure:"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1977",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1978",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo = Bod"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1979",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1980",
+    "how": "document text",
+    "matched": "BT",
+    "label": "BT = Two-Phase Formation Volume Factor."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1983",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1985",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1986",
+    "how": "document text",
+    "matched": "per barrel of stock",
+    "label": "Rs = Gas in solution, standard cubic feet per barrel of stock tank oil."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 1987",
+    "how": "document text",
+    "matched": "stock tank",
+    "label": "Rsfb = Sum of separator gas and the stock tank gas from field conditions(or optimum) separator flash test,standard cubic feet per barrel of stock tank oil."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1990",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1992",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb,"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1994",
+    "how": "document text",
+    "matched": "Formation Volume Factor",
+    "label": "GFV = Gas Formation Volume Factor from differential vaporization test."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 1997",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2001",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2010",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb:1.237"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2011",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb':1.249"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2079",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2080",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo = Bod ()"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2081",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2092",
+    "how": "document text",
+    "matched": "Bofb",
+    "label": "Bofb:"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2097",
+    "how": "document text",
+    "matched": "Bodb",
+    "label": "Bodb:"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2104",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2105",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2106",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2107",
+    "how": "document text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2151",
+    "how": "document text",
+    "matched": "SATURATED OIL",
+    "label": "COMPRESSIBILITY OF SATURATED OIL AT 200-F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2230",
+    "how": "document text",
+    "matched": "/STB",
+    "label": "SOLUTION GOR, SCF/STB"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2271",
+    "how": "document text",
+    "matched": "/STB",
+    "label": "SOLUTION GOR. SCF/STBSOLUTION GOR. SCF/STB0025025050050075010001250150017507501000125015001750"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2272",
+    "how": "document text",
+    "matched": "/STB",
+    "label": "SOLUTION GOR. SCF/STB"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2273",
+    "how": "document text",
+    "matched": "/STB",
+    "label": "SOLUTION GOR. SCF/STB"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2292",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME DURING DIFFERENTIAL VAPORIZATION"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2293",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME, V/Vr"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2331",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/VstRELATIVE OIL VOLUME. V/VstPRESSURE, PSIGPRESSURE, PSIG"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2332",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2333",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2337",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME, V/VstRELATIVE OIL VOLUME, V/VstPRESSURE, PSIGPRESSURE, PSIG"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2338",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME, V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2339",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME, V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2343",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/VstRELATIVE OIL VOLUME. V/VstADJUSTMENT OF RELATIVE OIL VOLUME CURVE TOADJUSTMENT OF RELATIVE OIL VOLUME CURVE TOSEP. PRESS. OF 150 PSIG "
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2344",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2345",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME. V/Vst"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2346",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "ADJUSTMENT OF RELATIVE OIL VOLUME CURVE TO"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2347",
+    "how": "document text",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "ADJUSTMENT OF RELATIVE OIL VOLUME CURVE TO"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2442",
+    "how": "document text",
+    "matched": "/STB",
+    "label": "GAS OIL RATIO, SCF/STB"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2546",
+    "how": "document text",
+    "matched": "BOB",
+    "label": "COPIES : TONY KENNAIRD/ BOB HELLER/"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2550",
+    "how": "document text",
+    "matched": "Separator Oil",
+    "label": "B.B.CylinderNumberCylinderNumberSampleTypeSampleTypeSampling ConditionSampling ConditionOpening PressureOpening PressureBubble PointBubble Point*1209-A 1216-A W"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2565",
+    "how": "document text",
+    "matched": "Separator Oil",
+    "label": "Separator Gas Separator Gas Separator Oil Separator Oil"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2566",
+    "how": "document text",
+    "matched": "Separator Oil",
+    "label": "Separator Gas Separator Gas Separator Oil Separator Oil"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2837",
+    "how": "document text",
+    "matched": "BOB",
+    "label": "FILE REF : MFL 91184FAX REF : RFL/075/92COPIES : BOB HELLERTONYKENNAIRDFILE REF : MFL 91184FAX REF : RFL/075/92COPIES : BOB HELLERTONYKENNAIRDSUBJECT : DULANG B"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2840",
+    "how": "document text",
+    "matched": "BOB",
+    "label": "COPIES : BOB HELLER"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "word/document.xml paragraph 2844",
+    "how": "document text",
+    "matched": "BOB",
+    "label": "COPIES : BOB HELLER"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "word/document.xml paragraph 2917",
+    "how": "document text",
+    "matched": "/stb",
+    "label": "Assuming the separator liquid bubblepoint pressure has been altered, the separator gas was used to saturate the separator liquid at separator conditions. The re"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "word/document.xml paragraph 2918",
+    "how": "document text",
+    "matched": "reservoir condition",
+    "label": "Please review the findings of our investigation and advise us of your decision regarding the remaining PVT work. Please forward your recommendation to us regard"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "picture image10.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "Bo",
+    "label": "Ra=Rate—(Feco—Ree) Bo te"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "picture image11.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "/STB",
+    "label": "SOLUTTON GOR, SCF/STB"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "picture image15.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "ADJUSTMENT -OF RELATIVE OIL VOLUME CURVE [OQ"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "picture image15.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "Bo",
+    "label": "Beet Bo =B eth WITT"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "picture image16.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "picture image18.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "RELATIVE OIL VOLUME",
+    "label": "RELATIVE OIL VOLUME, V/Vst"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "picture image18.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "Bod",
+    "label": "BELSRESEE SUBAREA REGREERES! o = Bod B HUSTUESRASCESLATASGRESREEE"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "picture image21.png (used in document.xml)",
+    "how": "OCR",
+    "matched": "STOCK TANK",
+    "label": "<— STOCK TANK"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 34,
+  "ocr_chars": 6404
+ },
+ {
+  "file": "MFL 91184_DULANG-B12_Reservoir Fluid Study_Apr 1992.xlsx",
+  "type": ".xlsx",
+  "size": 223261,
+  "sha256": "471d98cb8a067ec745a4ef3440f0c77fd67dce8c436b07e87821a383533e450a",
+  "status": "scanned",
+  "units": 526,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PARTIAL CCE' cell C10",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PARTIAL CCE' cell B40",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE' cell I10",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE' cell B12",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE' cell H40",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE' cell H41",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT at 200°F' cell D10",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'DVT at 200°F' cell H10",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 200°F' cell B24",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 200°F' cell B25",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 200°F' cell B26",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Single Stage Separator Test' cell F12",
+    "how": "cell text",
+    "matched": "TanK Oil",
+    "label": "TanK Oil Gravity °API @ 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Single Stage Separator Test' cell G12",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (Bofb)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Single Stage Separator Test' cell H12",
+    "how": "cell text",
+    "matched": "Vol. Factor",
+    "label": "Separation Vol. Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Single Stage Separator Test' cell B31",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2)           Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Single Stage Separator Test' cell B32",
+    "how": "cell text",
+    "matched": "Vol. Factor",
+    "label": "(3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Single Stage Separator Test' cell B32",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Single Stage Separator Test' cell B32",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Single Stage Separator Test' cell B33",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "(4)           Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Single Stage Separator Test' cell B33",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(4)           Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Stock Tank Oil CA' cell B7",
+    "how": "cell text",
+    "matched": "STOCK TANK",
+    "label": "HYDROCARBON ANALYSES OF STOCK TANK OIL FROM SINGLE STAGE SEPARATOR TEST"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Gas' cell B13",
+    "how": "cell text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Gas' cell B14",
+    "how": "cell text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Adjustment Oil' cell B8",
+    "how": "cell text",
+    "matched": "RELATIVE VOLUME",
+    "label": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell B11",
+    "how": "cell text",
+    "matched": "Bofb",
+    "label": "Bofb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell B12",
+    "how": "cell text",
+    "matched": "Bodb",
+    "label": "Bodb"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell C14",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell D14",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell E14",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Adjustment Oil' cell F14",
+    "how": "cell text",
+    "matched": "Bo",
+    "label": "Bo"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 815
+ },
+ {
+  "file": "PRSS-LS-99-1_DULANG-B21_Reservoir Fluids Study_Mar 1999.xls",
+  "type": ".xls",
+  "size": 150741,
+  "sha256": "08e66ab960f0fdebc05d19761f5834824c4e8781feb5013ed0b262cf5351c02c",
+  "status": "scanned",
+  "units": 456,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'QC SEPARATOR SAMPLES' cell C9",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'QC SEPARATOR SAMPLES' cell C21",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 3)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 3)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 4)' cell B3",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 5)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 5)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 6)' cell I11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 7)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 7)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 8)' cell B3",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 9)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 9)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 10)' cell B3",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 11)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 11)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 12)' cell B3",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 13)' cell D8",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "COMPOSITIONAL ANALYSIS OF SEPARATOR OIL AND GAS SAMPLES AND CALCULATED WELLSTREAM COMPOSITION"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'CA (TABLE 13)' cell F11",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "SEPARATOR OIL"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'EXP&THEORITICAL (TABLE 14)' cell B3",
+    "how": "cell text",
+    "matched": "SEPARATOR OIL",
+    "label": "EXPERIMENTAL AND THEORETICAL COMPOSITION OF SEPARATOR OIL AND GAS AND CORRESPONDING K-VALUES"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 972
+ },
+ {
+  "file": "PRSS-SR4-95-09_DULANG-C25_Reservoir Fluid Study_19 June 1995.xls",
+  "type": ".xls",
+  "size": 79939,
+  "sha256": "4783307ebc83e2e6c14654a52be089e6faeb8947bec38710580b75c7c28dcb24",
+  "status": "scanned",
+  "units": 71,
+  "hits": [],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 423
+ },
+ {
+  "file": "SFL 82033_DULANG-1_Partial Reservoir Fluids Study Test 1_14 June 1982.xls",
+  "type": ".xls",
+  "size": 51358,
+  "sha256": "fac7fe7b7a72abe9dc94501e95f933ad5760df8b0423c7cd56ca64dfdd8a70df",
+  "status": "scanned",
+  "units": 45,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell C5",
+    "how": "cell text",
+    "matched": "RELATIVE VOLUME",
+    "label": "RELATIVE VOLUME"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 41
+ },
+ {
+  "file": "SFL 82034_DULANG-1_Reservoir Fluids Study Test 2_26 July 1982.xls",
+  "type": ".xls",
+  "size": 94720,
+  "sha256": "17881878695c57ae160373357be4dac3ed2ed9126bbafa837c22b6d759f3a006",
+  "status": "scanned",
+  "units": 157,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'VOL. METRIC DATA OF RESV.' cell B6",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Thermal expansion of saturated oil"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'VOL. METRIC DATA OF RESV.' cell B9",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "4. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'VOL. METRIC DATA OF RESV.' cell C18",
+    "how": "cell text",
+    "matched": "RELATIVE VOLUME",
+    "label": "RELATIVE VOLUME (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'VOL. METRIC DATA OF RESV.' cell B41",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'VOL. METRIC DATA OF RESV.' cell B42",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT at 218 °F ' cell D5",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'DVT at 218 °F ' cell H5",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 218 °F ' cell B19",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "1. Cubic feet of gas at 14.65 psia and 60°F. per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 218 °F ' cell B20",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 218 °F ' cell B21",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SINGLE SEPARATOR TEST' cell F5",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity °API @ 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SINGLE SEPARATOR TEST' cell G5",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SINGLE SEPARATOR TEST' cell H5",
+    "how": "cell text",
+    "matched": "Vol. Factor",
+    "label": "Separation Vol. Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell F5",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity °API @ 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell G5",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell H5",
+    "how": "cell text",
+    "matched": "Vol. Factor",
+    "label": "Separation Vol. Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B16",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "2. Gas/Oil Ratio in cubic feet of gas at 14.65 and 60 F. per barrel of stock tank oil at 60 F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B17",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B17",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B17",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "3. Formation Volume Factor is barrels of saturated oil at 1825 psig and 218 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B18",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "4. Separator Volume Factor is barrels of oil at at indicated pressure and temperature per barrel of stock tank oil at 60 F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B18",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "4. Separator Volume Factor is barrels of oil at at indicated pressure and temperature per barrel of stock tank oil at 60 F"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 99
+ },
+ {
+  "file": "SFL 82035_DULANG-1_Compositional Analysis to Undecanes Plus_26 July 1982.xls",
+  "type": ".xls",
+  "size": 65364,
+  "sha256": "04397a7f66f063ef879ceb4c1ec6ad8c25a0570d02a05737aa0c2283231e3f4a",
+  "status": "scanned",
+  "units": 112,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SEPARATOR GAS SAMPLES' cell B42",
+    "how": "cell text",
+    "matched": "separator oil",
+    "label": "*Primary separator gas/separator oil ratio is 342 SCF/Bbl at 148 °F"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 1,
+  "ocr_chars": 118
+ },
+ {
+  "file": "SFL 82055_DULANG-3_Compositional Analysis & Bubble Point Determination_24 Aug 1982.xls",
+  "type": ".xls",
+  "size": 23160,
+  "sha256": "cbd37be329c11b43554d68f080f0f8c3c0ea3e617aa5102da1fae4a26e42b30c",
+  "status": "scanned",
+  "units": 97,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 4' cell E6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 4' cell B17",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 0,
+  "ocr_chars": 0
+ },
+ {
+  "file": "SFL 82056A_DULANG-3_Compositional Analysis To Undecanes Plus Test 1_26 Nov 1982.xls",
+  "type": ".xls",
+  "size": 33703,
+  "sha256": "70b13db253676912c0ce4009853d4d75e670ad10a40db9cd44b71803a592ea5e",
+  "status": "scanned",
+  "units": 177,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 1' cell B44",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Field Stock Tank Liquid Gravity"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 6' cell F6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 6' cell B28",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 0,
+  "ocr_chars": 0
+ },
+ {
+  "file": "SFL 82056_DULANG-3_Reservoir Fluid Study Test 1_10 Sept 1982.xls",
+  "type": ".xls",
+  "size": 46496,
+  "sha256": "ec4c54114490a9ad4d653a232766d4f244139bd4d94ef02c6cd9a2b03bfcb0f4",
+  "status": "scanned",
+  "units": 266,
+  "hits": [
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 1' cell B44",
+    "how": "cell text",
+    "matched": "Stock Tank",
+    "label": "Field Stock Tank Liquid Gravity"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 4' cell F6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 4' cell B28",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 5 ' cell B6",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "2.Specific volume at saturation pressure: ft 2/lb"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 5 ' cell B8",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Thermal expension of saturated oil @ 5000 PSIG ="
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 5 ' cell B11",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 6' cell F6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 6' cell B32",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 6' cell D35",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(Pabs) (V/Vsat-1)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 7' cell F4",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 7' cell G4",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Formation Volume Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 7' cell H4",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "Separation Volume Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 7' cell B16",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2) Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 7' cell B17",
+    "how": "cell text",
+    "matched": "Formation volume factor",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 7' cell B17",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 7' cell B17",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 7' cell B18",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 7' cell B18",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 7' cell B18",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 8' cell B23",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "(1) Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 8' cell B24",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "(2) Barrels of oiI at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 8' cell B25",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "(3) Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 11' cell F6",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity °API @ 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 11' cell G6",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Formation Volume Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 11' cell H6",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "Separator Volume Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 11' cell B16",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2) Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 11' cell B17",
+    "how": "cell text",
+    "matched": "Formation volume factor",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 11' cell B17",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 11' cell B17",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(3) Formation volume factor is barrels of saturated oil at 1982 psig and 224°F per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'Page 11' cell B18",
+    "how": "cell text",
+    "matched": "volume factor",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Page 11' cell B18",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'Page 11' cell B18",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(4) Separator volume factor is barrels of saturated oil at indicated pressure and temperature per barrel of stock tank oil at 60°F"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 0,
+  "ocr_chars": 0
+ },
+ {
+  "file": "SFL 82141_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 5_3 Dec 1982.xls",
+  "type": ".xls",
+  "size": 82450,
+  "sha256": "aaae32b0767354a42f0cc3f1fc8e424d082565b61de2899d47e04995ac17edfb",
+  "status": "scanned",
+  "units": 58,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell E6",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 328
+ },
+ {
+  "file": "SFL 82142_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 4_22 Dec 1982.xls",
+  "type": ".xls",
+  "size": 134686,
+  "sha256": "9176b630a5b54bade12e7a5f4711d539c6fa2bd248435126a914d22e08fcff00",
+  "status": "scanned",
+  "units": 278,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Relative Volume 9024-37' cell D12",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'Relative Volume 9024-37' cell C34",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "1) Relative Volume:V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'COMPRESSIBILITY FACTOR' cell C11",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "2. Specific volume at saturation pressure : ft 3/lb"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'COMPRESSIBILITY FACTOR' cell C12",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Thermal expansion of saturated oil @"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'COMPRESSIBILITY FACTOR' cell C13",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "4. Compressibility of saturated oil @ reservoir temperature : Vol/Vol/PSI:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE 196°F' cell D40",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'CCE 196°F' cell D41",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function = (Psat-P)/(Pabs)(V/Vsat-l)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT 196°F' cell E10",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume (2)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT 196°F' cell F10",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'DVT 196°F' cell I10",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor(4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT 196°F' cell D26",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "Cubic feet of gas at 14.73 psia and 60°F per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT 196°F' cell D27",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT 196°F' cell D28",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SEPARATOR TEST' cell G11",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil Gravity °API @ 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SEPARATOR TEST' cell C31",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "2) Gas/0il Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SEPARATOR TEST' cell C32",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'SEPARATOR TEST' cell C32",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SEPARATOR TEST' cell C32",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "3) Formation Volume Factor is barrels of saturated oil at 1562 psig and 181°F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'SEPARATOR TEST' cell C33",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'SEPARATOR TEST' cell C33",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 296
+ },
+ {
+  "file": "SFL 82143_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 3_12 Jan 1983.xls",
+  "type": ".xls",
+  "size": 89948,
+  "sha256": "30667e891ef7ccace9260d7937251aee645779924b51f15ea2547aa5378dc20e",
+  "status": "scanned",
+  "units": 200,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 13' cell E5",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 13' cell B29",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 13' cell B9",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "Specific volume at saturation pressure :"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 13' cell B11",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "Thermal expansion of saturated oil @"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 13' cell B14",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "Compressibility of saturated oil"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 6 of 13' cell C35",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume : V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 6 of 13' cell E38",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(Pabs)(V/Vsat-1)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'PAGE 9 of 13' cell F5",
+    "how": "cell text",
+    "matched": "Tank Oil",
+    "label": "Tank Oil"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'PAGE 9 of 13' cell G5",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Formation Volume Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'PAGE 9 of 13' cell H5",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "Separator Volume Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'PAGE 9 of 13' cell B24",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2)              Gas/Oil in cubic feet of gas at 14.73 psia and 60°F. per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'PAGE 9 of 13' cell B25",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "(3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 9 of 13' cell B25",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'PAGE 9 of 13' cell B25",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(3)              Formation Volume Factor is barrels of saturated oil at 1593 psia and 203°F. per barrel of stock tank at 69°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'PAGE 9 of 13' cell B26",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "(4)              Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank at 60 F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'PAGE 9 of 13' cell B26",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(4)              Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank at 60 F."
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 270
+ },
+ {
+  "file": "SFL 82144_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 2 2_7 Dec 1982.xls",
+  "type": ".xls",
+  "size": 72692,
+  "sha256": "368ec72d76220ad760b88e24b109e981a09a43ed0b546ed12d691eefeb73c847",
+  "status": "scanned",
+  "units": 79,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell E5",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell B29",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 332
+ },
+ {
+  "file": "SFL 82145_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 4_3 Dec 1982.xls",
+  "type": ".xls",
+  "size": 82394,
+  "sha256": "fd5419e44ef67f241dd0b7a0da9b7be0f3dc134980ead57dcc7ac89e88f4742f",
+  "status": "scanned",
+  "units": 121,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 5' cell B7",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "2. Specific volume at saturation pressure:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 5' cell B9",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Thermal expansion of saturated oil"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 5' cell B12",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "4. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI:"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 5' cell E5",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 5' cell B29",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 5 of 5' cell D32",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(Pabs)(V/Vsat-l)"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 304
+ },
+ {
+  "file": "SFL 82146_DULANG 6G-7_1_Partial Reservoir Fluid Study DST 3_3 Dec 1982.xls",
+  "type": ".xls",
+  "size": 72017,
+  "sha256": "700278cb2c01c2ee1034b7e0b74f2f367af35085e07a3a41cfafe6eb9cbe9a21",
+  "status": "scanned",
+  "units": 80,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell E5",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "Relative Volume"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell B29",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "1) Relative Volume V/Vsat is barrels at indicated pressure per barrel at saturation pressure."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PAGE 4 of 4' cell B31",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function « (Psat-P) (Pabs)(V/Vsat-l)"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 326
+ },
+ {
+  "file": "SFL 86024_86025_DULANG-5_Reservoir Fluid Study Test 1 E-14_16 July 1986.xls",
+  "type": ".xls",
+  "size": 139836,
+  "sha256": "3d11652ae39fa77f3d67d46de056edc8228a73f095f7c5b3d12495d52c2a9a65",
+  "status": "scanned",
+  "units": 340,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B17",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "2. Specific volume at saturation pressure: ft3/lb"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B18",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Compressibility of saturated oil at reservoir temperature"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell C29",
+    "how": "cell text",
+    "matched": "RELATIVE VOLUME",
+    "label": "RELATIVE VOLUME (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B58",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B59",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT at 211 °F ' cell D5",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'DVT at 211 °F ' cell H5",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 211 °F ' cell B18",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 211 °F ' cell B19",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 211 °F ' cell B20",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell E5",
+    "how": "cell text",
+    "matched": "TANK OIL",
+    "label": "TANK OIL GRAVITY"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ATMOSPHERIC RFS' cell F5",
+    "how": "cell text",
+    "matched": "FORMATION VOLUME FACTOR",
+    "label": "FORMATION VOLUME FACTOR"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1225 psig and 211 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell D4",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (Bo)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell E4",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Total Formation Vol Factor (Bt)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell F4",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B16",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "gravity of stock tank oil"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B21",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per stock tank barrel @ 60°F)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B22",
+    "how": "cell text",
+    "matched": "reservoir condition",
+    "label": "2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barre"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B22",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barre"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 276
+ },
+ {
+  "file": "SFL 86026_86027_DULANG-5_Reservoir Fluid Study Test 2 E8 & E13_16 July 1986.xls",
+  "type": ".xls",
+  "size": 169460,
+  "sha256": "616b3cd623311aba76f25c5cb7eda41b15bc3c63c0b1a2beb8816001e3cf0f39",
+  "status": "scanned",
+  "units": 365,
+  "hits": [
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B17",
+    "how": "cell text",
+    "matched": "volume at saturation",
+    "label": "2. Specific volume at saturation pressure: ft3/lb"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B18",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "3. Compressibility of saturated oil at reservoir temperature"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 205F' cell C29",
+    "how": "cell text",
+    "matched": "RELATIVE VOLUME",
+    "label": "RELATIVE VOLUME (1)"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B58",
+    "how": "cell text",
+    "matched": "Relative Volume",
+    "label": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'PVR SEPARATOR GAS AT 205F' cell B59",
+    "how": "cell text",
+    "matched": "V/Vsat",
+    "label": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'DVT at 205 °F ' cell D5",
+    "how": "cell text",
+    "matched": "Relative Oil Volume",
+    "label": "Relative Oil Volume"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'DVT at 205 °F ' cell H5",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 205 °F ' cell B18",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 205 °F ' cell B19",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'DVT at 205 °F ' cell B20",
+    "how": "cell text",
+    "matched": "per barrel of residual",
+    "label": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell F5",
+    "how": "cell text",
+    "matched": "TanK Oil",
+    "label": "TanK Oil Gravity"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell G5",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (3)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell H5",
+    "how": "cell text",
+    "matched": "Vol. Factor",
+    "label": "Separation Vol. Factor (4)"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B20",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(2) Gas/0il Ratio in cubic feet of gas @ 14.73 psia and 60°F per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B21",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "(3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B21",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "(3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B21",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(3) Formation Volume Factor is barrels of saturated oil @ 1370 psig and 205°F per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B22",
+    "how": "cell text",
+    "matched": "Volume Factor",
+    "label": "(4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'MULTI SEPARATOR TEST' cell B22",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "(4) Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil @ 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell E5",
+    "how": "cell text",
+    "matched": "TANK OIL",
+    "label": "TANK OIL GRAVITY"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ATMOSPHERIC RFS' cell F5",
+    "how": "cell text",
+    "matched": "FORMATION VOLUME FACTOR",
+    "label": "FORMATION VOLUME FACTOR"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "saturated oil",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ATMOSPHERIC RFS' cell B16",
+    "how": "cell text",
+    "matched": "per barrel of stock",
+    "label": "2. Formation Volume Factor is barrels of saturated oil at 1370 psig and 205 F per barrel of stock tank oil at 60°F."
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell D4",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Formation Vol Factor (Bo)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell E4",
+    "how": "cell text",
+    "matched": "Vol Factor",
+    "label": "Total Formation Vol Factor (Bt)"
+   },
+   {
+    "item": "Bo (oil formation volume factor)",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell F4",
+    "how": "cell text",
+    "matched": "Formation Volume Factor",
+    "label": "Gas Formation Volume Factor"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B17",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "gravity of stock tank oil"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B22",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "1) Differential data corrected to surface separator conditions of 205 psig and 160°F to 0 psig and 140°F. (Standard cubic feet per stock tank barrel @ 60°F)."
+   },
+   {
+    "item": "Oil volume at reservoir conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B23",
+    "how": "cell text",
+    "matched": "reservoir condition",
+    "label": "2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barre"
+   },
+   {
+    "item": "Oil volume at stock-tank conditions",
+    "where": "sheet 'ADJ.DATA (PAGE 27)' cell B23",
+    "how": "cell text",
+    "matched": "stock tank",
+    "label": "2) Differential data corrected to surface separator conditions of 205 psig and 160°F to. 0 psig and 140°F, (Barrels at reservoir conditions per stock tank barre"
+   }
+  ],
+  "container": "OOXML zip",
+  "n_pictures": 2,
+  "ocr_chars": 1159
+ },
+ {
+  "file": "~$83_L_005_DULANG 6G-1_2_PVT Study Report DST 2_Jan 1983.xls",
+  "type": ".xls",
+  "size": 165,
+  "sha256": "4a5a14c5b0482385d502c03023339910033466eeeac3a83d774e4da106a4332a",
+  "status": "Office lock file (owner-name placeholder, not a document) - not scanned",
+  "units": 0,
+  "hits": []
+ }
+]

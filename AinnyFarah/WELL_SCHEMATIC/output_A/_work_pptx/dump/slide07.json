@@ -1,0 +1,685 @@
+{
+ "slide": 7,
+ "file": "slides/slide7.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n7",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "3",
+   "name": "Group 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 118836,
+   "y": 76200,
+   "cx": 6815970,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.73,
+    0.83,
+    101.12,
+    90.83
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "6146",
+   "name": "Picture 2",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 319314,
+   "y": 76200,
+   "cx": 6400800,
+   "cy": 5760720,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.66,
+    0.83,
+    97.99,
+    63.83
+   ],
+   "image": "../media/image16.png",
+   "crop": {
+    "l": "28483",
+    "t": "8916",
+    "r": "20743",
+    "b": "7864"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "6147",
+   "name": "Picture 3",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 309336,
+   "y": 5784670,
+   "cx": 6400800,
+   "cy": 2521130,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.51,
+    63.26,
+    97.84,
+    90.83
+   ],
+   "image": "../media/image17.png",
+   "crop": {
+    "l": "28409",
+    "t": "46047",
+    "r": "20817",
+    "b": "17532"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    100.52,
+    4.87
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6037975,
+   "y": 5105400,
+   "cx": 679994,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.04,
+    55.83,
+    97.96,
+    60.21
+   ],
+   "text": "OPEN\nJAN 2009",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 7",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6037976,
+   "y": 7239000,
+   "cx": 679994,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.04,
+    79.17,
+    97.96,
+    83.54
+   ],
+   "text": "CLOSED\nJAN 2009",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 324403,
+   "y": 7696200,
+   "cx": 894797,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.73,
+    84.17,
+    17.78,
+    86.86
+   ],
+   "text": "07/Aug/2001",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Rectangle 10",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6019800,
+   "y": 6096000,
+   "cx": 533400,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    87.78,
+    66.67,
+    95.56,
+    71.67
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Rectangle 12",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 442910,
+   "y": 4038600,
+   "cx": 685800,
+   "cy": 609600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    6.46,
+    44.17,
+    16.46,
+    50.83
+   ],
+   "text": "retrieve 2.31\" CSA @141m-MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Rectangle 13",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6005519,
+   "y": 3581400,
+   "cx": 685800,
+   "cy": 609600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    87.57,
+    39.17,
+    97.57,
+    45.83
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5944206,
+   "y": 3600452,
+   "cx": 990600,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.68,
+    39.38,
+    101.12,
+    41.73
+   ],
+   "text": "DV  (Mar/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5943600,
+   "y": 3986215,
+   "cx": 728084,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.67,
+    43.59,
+    97.28,
+    45.95
+   ],
+   "text": "GLV (Jan/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5944206,
+   "y": 4189875,
+   "cx": 740908,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.68,
+    45.82,
+    97.48,
+    49.52
+   ],
+   "text": "GLOV 16/64”\n (Jan/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5943600,
+   "y": 3827919,
+   "cx": 990600,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.67,
+    41.86,
+    101.11,
+    44.22
+   ],
+   "text": "DV  (Mar/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "Rectangle 20",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2229803,
+   "y": 7235188,
+   "cx": 612457,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    32.51,
+    79.12,
+    41.44,
+    82.83
+   ],
+   "text": "‘CA’ Plug  (Jan 2009) ",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "Rectangle 24",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 376193,
+   "y": 5613654,
+   "cx": 793217,
+   "cy": 553212,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.49,
+    61.39,
+    17.05,
+    67.44
+   ],
+   "text": "LD1\n1698 - 1706",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "26",
+   "name": "Rectangle 25",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 320681,
+   "y": 7296148,
+   "cx": 872539,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.68,
+    79.79,
+    17.4,
+    84.79
+   ],
+   "text": "E7 – 1804– 1818",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "Rectangle 5",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5862644,
+   "y": 6252716,
+   "cx": 928681,
+   "cy": 461665,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.49,
+    68.38,
+    99.03,
+    73.43
+   ],
+   "text": "HUD@1726mMDTHF (Apr 2023). Suspect fine sand",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "Text Box 289",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 118836,
+   "y": 106215,
+   "cx": 1846736,
+   "cy": 138499,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.73,
+    1.16,
+    28.66,
+    2.68
+   ],
+   "text": "Updated by Pravin Nair Feb 2023",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1838960,
+   "y": 2950210,
+   "cx": 298450,
+   "cy": 146050,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.81,
+    32.26,
+    31.17,
+    33.86
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 459423,
+   "y": 2873693,
+   "cx": 1328737,
+   "cy": 415498,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    6.7,
+    31.43,
+    26.07,
+    35.97
+   ],
+   "text": "‘B’ Tbg stop + SC (195psi) set @ TRSV profile. TR flapper lock open in April 2015",
+   "geom": "rect",
+   "fill": "FFFF99"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Rectangle 4",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1896110,
+   "y": 7338060,
+   "cx": 167640,
+   "cy": 116840,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.65,
+    80.25,
+    30.09,
+    81.53
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "51",
+   "name": "Graphic 50",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 1911075,
+   "y": 6276613,
+   "cx": 162687,
+   "cy": 162687,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.87,
+    68.64,
+    30.24,
+    70.42
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "Star: 5 Points 3",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1936750,
+   "y": 2501900,
+   "cx": 69850,
+   "cy": 57150,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.24,
+    27.36,
+    29.26,
+    27.99
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2285767,
+   "y": 2349500,
+   "cx": 1231900,
+   "cy": 307777,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.33,
+    25.69,
+    51.29,
+    29.06
+   ],
+   "text": "2 suspected leak points @ 16m & 26m from MIT 2021",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "Footer Placeholder 28",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 848360,
+   "y": 4051375,
+   "cx": 990600,
+   "cy": 307777,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    12.37,
+    44.31,
+    26.81,
+    47.67
+   ],
+   "text": "Mar 2024 : Fluid level @  1432 WLTHF",
+   "geom": "rect"
+  }
+ ]
+}

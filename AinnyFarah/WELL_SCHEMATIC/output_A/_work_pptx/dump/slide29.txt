@@ -1,0 +1,13 @@
+# slide 29 (slides/slide29.xml) hidden=False objects=6
+# notes: 'Open\n29'
+[pic id=4 'Picture 3' pct=[7.7, 1.99, 92.3, 98.34] hidden=False img=../media/image69.emf]
+[sp id=10 'Rectangle 9' pct=[23.15, 64.51, 33.98, 66.6] hidden=False]
+    SSD#2 OPEN
+[sp id=13 'TextBox 3' pct=[1.09, 1.21, 20.96, 3.56] hidden=False]
+    Latest Update: DEC 2015
+[sp id=73 'Rectangle 72' pct=[22.07, 38.75, 34.07, 40.78] hidden=False]
+    SSD#1 CLOSED
+[sp id=11 'Footer Placeholder 10' pct=None hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[20.96, 83.03, 27.15, 85.72] hidden=False]
+    E32

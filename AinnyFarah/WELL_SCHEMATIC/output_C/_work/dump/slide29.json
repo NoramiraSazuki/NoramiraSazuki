@@ -1,0 +1,482 @@
+{
+ "slide": 29,
+ "file": "slides/slide29.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9906000
+ ],
+ "notes": "Open\n29",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "63490",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 415925,
+   "y": 981075,
+   "cx": 6076950,
+   "cy": 8239125,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    6.06,
+    9.9,
+    94.68,
+    93.08
+   ],
+   "image": "../media/image23.png",
+   "crop": {}
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "4",
+   "name": "Table 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4304523,
+   "y": 8133621,
+   "cx": 2020888,
+   "cy": 890588,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.77,
+    82.11,
+    92.23,
+    91.1
+   ],
+   "table": [
+    [
+     "STRING",
+     "LAST ENTRY",
+     "TYPE OF JOB"
+    ],
+    [
+     "C29",
+     "14/4/17",
+     "FGS completed . Injecting at orifice."
+    ],
+    [
+     "C29",
+     "5/2/2015",
+     "FGS completed"
+    ],
+    [
+     "C29",
+     "8/2/2015",
+     "SGS + MIT completed"
+    ],
+    [
+     "C29",
+     "25/2/2016",
+     "MPLT completed"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4694238,
+   "y": 7181850,
+   "cx": 827087,
+   "cy": 323850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.45,
+    72.5,
+    80.51,
+    75.77
+   ],
+   "text": "OPEN SSD #04 (24/10/2017)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4694238,
+   "y": 6505575,
+   "cx": 827087,
+   "cy": 325438,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.45,
+    65.67,
+    80.51,
+    68.96
+   ],
+   "text": "OPEN SSD #03 (24/10/2017)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4694238,
+   "y": 5516563,
+   "cx": 827087,
+   "cy": 325437,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.45,
+    55.69,
+    80.51,
+    58.97
+   ],
+   "text": "OPEN SSD #02 (24/10/2017)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "63526",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4689475,
+   "y": 3062288,
+   "cx": 625492,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.38,
+    30.91,
+    77.5,
+    32.53
+   ],
+   "text": "Dummy 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "63533",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2951163,
+   "y": 5864225,
+   "cx": 503237,
+   "cy": 160338,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.03,
+    59.2,
+    50.37,
+    60.82
+   ],
+   "text": "Pr : 1436 psia",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "63534",
+   "name": "TextBox 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2951163,
+   "y": 6708775,
+   "cx": 503237,
+   "cy": 160338,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.03,
+    67.72,
+    50.37,
+    69.34
+   ],
+   "text": "Pr : 1462 psia",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "63536",
+   "name": "Picture 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 133351,
+   "y": 5100638,
+   "cx": 557118,
+   "cy": 741362,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.94,
+    51.49,
+    10.07,
+    58.97
+   ],
+   "image": "../media/image24.png",
+   "crop": {}
+  },
+  {
+   "kind": "pic",
+   "id": "63537",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 128588,
+   "y": 5857082,
+   "cx": 557118,
+   "cy": 742002,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.88,
+    59.13,
+    10.0,
+    66.62
+   ],
+   "image": "../media/image25.png",
+   "crop": {}
+  },
+  {
+   "kind": "sp",
+   "id": "63538",
+   "name": "Freeform 313",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1627188,
+   "y": 6515100,
+   "cx": 385762,
+   "cy": 58737,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.73,
+    65.77,
+    29.35,
+    66.36
+   ],
+   "text": "",
+   "geom": "custom"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 522288,
+   "y": 6400800,
+   "cx": 787400,
+   "cy": 365125,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.62,
+    64.62,
+    19.1,
+    68.3
+   ],
+   "text": "HUD @ 2415 m MDRKB during MPLT (flowing passes) on 29/10/17. Suspect sand.",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "63540",
+   "name": "Straight Arrow Connector 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1241425,
+   "y": 6551612,
+   "cx": 369888,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    18.1,
+    66.14,
+    23.5,
+    66.14
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4689475,
+   "y": 3232464,
+   "cx": 625492,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.38,
+    32.63,
+    77.5,
+    34.25
+   ],
+   "text": "Dummy 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4714875,
+   "y": 3435974,
+   "cx": 625492,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.75,
+    34.69,
+    77.87,
+    36.31
+   ],
+   "text": "Dummy 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4714875,
+   "y": 3540906,
+   "cx": 625492,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.75,
+    35.75,
+    77.87,
+    37.37
+   ],
+   "text": "Dummy 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "32",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4714875,
+   "y": 3671731,
+   "cx": 625492,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.75,
+    37.07,
+    77.87,
+    38.69
+   ],
+   "text": "Dummy 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "33",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4714875,
+   "y": 3806109,
+   "cx": 723275,
+   "cy": 160493,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.75,
+    38.42,
+    79.3,
+    40.04
+   ],
+   "text": "GLOV 16/64 1/10/2020",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3972719,
+   "y": 9275202,
+   "cx": 2520156,
+   "cy": 409407,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.93,
+    93.63,
+    94.68,
+    97.77
+   ],
+   "text": "LAST ENTRY\t: TS, 31 May 2022\nTYPE OF JOB\t: Downhole sample collection\nHUD\t: 2.29” GR @ 2460 m WLTHF; 2.75” GR able to tag No Go @ 2271 m WLTHF \t\nUPDATED BY\t: Wong Hong Pei – 27th May 2025",
+   "geom": "rect"
+  }
+ ]
+}

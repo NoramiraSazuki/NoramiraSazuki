@@ -1,0 +1,415 @@
+{
+ "slide": 3,
+ "file": "slides/slide3.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9906000
+ ],
+ "notes": "Open\n3",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "10242",
+   "name": "Picture 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 457200,
+   "y": 766763,
+   "cx": 5935663,
+   "cy": 8636000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    6.67,
+    7.74,
+    93.22,
+    94.92
+   ],
+   "image": "../media/image3.jpeg",
+   "crop": {}
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "5",
+   "name": "Table 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4238625,
+   "y": 8666163,
+   "cx": 1830387,
+   "cy": 593724,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.81,
+    87.48,
+    88.5,
+    93.48
+   ],
+   "table": [
+    [
+     "8/8/2015",
+     "",
+     ""
+    ],
+    [
+     "FGS",
+     "TOP GAUGE",
+     "BTM GAUGE"
+    ],
+    [
+     "Max. Pres.( psi)",
+     "1078.044",
+     "1078.934"
+    ],
+    [
+     "Max. Temp ( ºF)",
+     "102.305",
+     "102.981"
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 609600,
+   "y": 8766175,
+   "cx": 938213,
+   "cy": 187325,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    8.89,
+    88.49,
+    22.57,
+    90.38
+   ],
+   "text": "5/4/18  : set PXN plug",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10267",
+   "name": "Text Box 303",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4643438,
+   "y": 3105150,
+   "cx": 1577975,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.71,
+    31.35,
+    90.72,
+    32.05
+   ],
+   "text": "DV ( GLVC on 8/9/2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10272",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4948767,
+   "y": 7873472,
+   "cx": 822855,
+   "cy": 201465,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.16,
+    79.48,
+    84.16,
+    81.52
+   ],
+   "text": "OPEN Oct 2017",
+   "geom": "rect",
+   "fill": "92D050"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "Flowchart: Collate 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1765300,
+   "y": 8786813,
+   "cx": 153988,
+   "cy": 120650,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    25.74,
+    88.7,
+    27.99,
+    89.92
+   ],
+   "text": "",
+   "geom": "flowChartCollate",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "Text Box 303",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4640263,
+   "y": 3224213,
+   "cx": 1577975,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.66,
+    32.55,
+    90.67,
+    33.25
+   ],
+   "text": "DV ( GLVC on 8/9/2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "Text Box 303",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4640262,
+   "y": 3330576,
+   "cx": 1577975,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.66,
+    33.62,
+    90.67,
+    34.33
+   ],
+   "text": "DV ( GLVC on 8/9/2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Text Box 303",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4640261,
+   "y": 3592513,
+   "cx": 1577975,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.66,
+    36.27,
+    90.67,
+    36.97
+   ],
+   "text": "DV ( GLVC on 8/9/2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "Text Box 303",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4640260,
+   "y": 3438525,
+   "cx": 1577975,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.66,
+    34.71,
+    90.67,
+    35.42
+   ],
+   "text": "Ori 16/64 ( GLVC on 8/9/2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3797299,
+   "y": 7343130,
+   "cx": 901701,
+   "cy": 461665,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.37,
+    74.13,
+    68.52,
+    78.79
+   ],
+   "text": "1949m-MDTHF HUD dt sand (11 March 2020)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "Footer Placeholder 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4923367,
+   "y": 6556905,
+   "cx": 822855,
+   "cy": 201465,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    71.79,
+    66.19,
+    83.79,
+    68.23
+   ],
+   "text": "OPEN Oct 2020",
+   "geom": "rect",
+   "fill": "92D050"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4927600,
+   "y": 7255406,
+   "cx": 537633,
+   "cy": 201465,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    71.85,
+    73.24,
+    79.69,
+    75.28
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2965978,
+   "y": 2434382,
+   "cx": 822855,
+   "cy": 153888,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    43.25,
+    24.57,
+    55.25,
+    26.13
+   ],
+   "text": "FXE IV – 22/09/2024 ",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4923366,
+   "y": 5798565,
+   "cx": 822855,
+   "cy": 201465,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    71.79,
+    58.54,
+    83.79,
+    60.57
+   ],
+   "text": "OPEN Oct 2017",
+   "geom": "rect",
+   "fill": "92D050"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 560485,
+   "y": 9407254,
+   "cx": 3160683,
+   "cy": 327526,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    8.17,
+    94.97,
+    54.26,
+    98.27
+   ],
+   "text": "LAST ENTRY\t: TS, 28 May 2022, before last final entry in 2024 to set FXE IV\nTYPE OF JOB\t: Downhole sample collection\nHUD\t: 2.29” GR, 1991 m-WLTHF\nUPDATED BY\t: Wong Hong Pei – 15 May 2025",
+   "geom": "rect"
+  }
+ ]
+}

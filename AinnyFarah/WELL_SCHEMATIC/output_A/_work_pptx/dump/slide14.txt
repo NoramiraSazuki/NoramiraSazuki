@@ -1,0 +1,46 @@
+# slide 14 (slides/slide14.xml) hidden=False objects=23
+# notes: 'Open\n14'
+[pic id=2050 'Picture 2' pct=[3.33, 4.76, 96.67, 42.79] hidden=False img=../media/image30.png]
+[pic id=2051 'Picture 3' pct=[3.33, 42.55, 96.67, 81.42] hidden=False img=../media/image31.png]
+[pic id=2052 'Picture 4' pct=[3.33, 80.94, 96.67, 92.35] hidden=False img=../media/image32.png]
+[pic id=2053 'Picture 5' pct=[3.33, 2.35, 96.67, 7.42] hidden=False img=../media/image33.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.54, 4.87] hidden=False]
+    FB – N3B
+[sp id=12 'TextBox 11' pct=[22.22, 65.16, 44.68, 69.05] hidden=False]
+    E12/13
+    1818.5 – 1834.5
+[sp id=13 'TextBox 12' pct=[22.22, 72.5, 44.68, 76.39] hidden=False]
+    E14
+    1858.5 – 1886.5
+[sp id=14 'TextBox 13' pct=[21.97, 82.79, 44.43, 87.5] hidden=False]
+    E40
+    2315.5 – 2352.5
+[sp id=15 'TextBox 14' pct=[14.88, 66.02, 22.22, 69.05] hidden=False]
+    open
+[sp id=16 'TextBox 15' pct=[14.31, 73.56, 21.65, 76.59] hidden=False]
+    open
+[sp id=17 'TextBox 16' pct=[15.62, 83.77, 22.97, 86.8] hidden=False]
+    open
+[sp id=2 'TextBox 1' pct=[55.56, 43.6, 77.78, 45.96] hidden=False]
+    DV – 16 Aug 17
+[sp id=20 'TextBox 19' pct=[56.67, 39.26, 78.89, 41.61] hidden=False]
+    GLV 12/64’’ – 16 Aug 17
+[sp id=23 'TextBox 22' pct=[84.15, 21.96, 97.48, 27.01] hidden=False]
+    Tool stuck @ 153.5 m-MDTHF.
+    (16 April 2017) 
+[sp id=19 'TextBox 18' pct=[84.44, 47.91, 100.0, 57.0] hidden=False]
+    LOCK OPEN (19 July 2017) RIH 2.34" No-Go Adaptor  and seat @ 144.5 m-MDTHF. confirm TR-SCSSV still not locked open. 
+[sp id=3 'Rectangle 2' pct=[60.0, 19.63, 77.78, 23.33] hidden=False]
+    set 2.31" PXX Plug @ 145 mMDTHF (6/11/17)
+[sp id=5 'Rectangle 4' pct=[0.4, 43.43, 21.97, 45.96] hidden=False]
+    HUD @ 1392 m-THF 4/6/16
+[sp id=25 'Text Box 289' pct=[62.17, 92.22, 95.61, 98.28] hidden=False]
+    LAST ENTRY	: 6  Nov 2017
+    TYPE OF JOB	: A-17L : To perform set plug
+    UPDATED BY	: Ariff Shazwan
+    DATE	: 4 Feb 2018
+[sp id=27 'Footer Placeholder 26' pct=None hidden=False]
+    Open
+[sp id=4 'TextBox 3' pct=[16.52, 23.4, 94.48, 61.43] hidden=False]
+    FOR A17ST1  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-

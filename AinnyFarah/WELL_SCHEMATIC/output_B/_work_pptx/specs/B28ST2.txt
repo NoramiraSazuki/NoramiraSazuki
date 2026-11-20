@@ -1,0 +1,67 @@
+WELL | B28ST2 | 28 | image28.png | WELL NAME: DULANG B-28ST2 (LOCATION : DULANG-B)
+SRC | 28 | image28.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDDF (column headers 'DEPTH m MDDF')
+INFO | completionDate | TBA
+INFO | rig | KM-1
+INFO | maxDeviation | 36.06 DEG @ 504.41 m MDDF / 462.19 m TVDDF
+INFO | tubing | Dual String 3-1/2" L80 13Cr 9.2 PPF JFE-FOX (Upper Completion); 4" L80 13Cr 9.5 PPF VAM FJL (Outer String); 2-7/8" SC L80 13Cr 6.4 PPF JFE-FOX (Inner String); 9-5/8" Cased Hole Gravel Pack wt. 5-1/2" Wire Wrap Screen (Lower Completion)
+INFO | xmas | Conventional Solar Alert 5K Wellhead Dual F-F Trim Christmas Tree
+INFO | completionFluid | 8.5 ppg Drill water + 3% KCL based fluid
+INFO | packerFluid | 8.5 ppg Drill water + 3% KCL based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — SHORT STRING (OIL PRODUCER) / LONG STRING (OIL PRODUCER), Y-block dual completion
+CASING | PRODUCTION CASING 9-5/8" 47 ppf L-80 CS VAM TOP | 9.625 | 47 | L-80 |  | MDDF
+TUBING | 3-1/2" L80 13Cr 9.2 PPF JFE-FOX (Upper Completion) | 3.5 | 9.2 | L80 | Short |
+TUBING | 3-1/2" L80 13Cr 9.2 PPF JFE-FOX (Upper Completion) | 3.5 | 9.2 | L80 | Long |
+TUBING | 2-7/8" SC L80 13Cr 6.4 PPF JFE-FOX (Inner String) | 2.875 | 6.4 | L80 | inner |
+ROW | S | 3-1/2" FLOW COUPLING | 253.70 |  | 2.880 | 3.920 |  |  | p1
+ROW | S | 3-1/2" TRSSSV | 254.54 |  | 2.813 | 5.030 |  |  | p1
+ROW | S | 3-1/2" FLOW COUPLING | 256.03 |  | 2.880 | 3.920 |  |  | p1
+ROW | S | 3-1/2" SPM | 405.75 |  | 2.900 | 5.230 |  |  | p1
+ROW | S | 3-1/2" SPM | 700.42 |  | 2.900 | 5.230 |  |  | p1
+ROW | S | 3-1/2" SPM | 956.77 |  | 2.900 | 5.230 |  |  | p1
+ROW | S | 3-1-2" Orifice | 1098.95 |  | 2.900 | 5.230 |  |  | p1
+ROW | S | 3-1/2" X-Nipple | 1202.60 |  | 2.813 | 3.960 |  |  | p1
+ROW | D | 9-5/8" x 3-1/2" DUAL AHC PACKER | 1222.68 |  | 2.885 | 8.440 |  | printed in the long-string column; drawn across both strings | p1
+ROW | S | ADJUSTABLE UNION | 1245.00 |  |  |  |  | MIN ID column 4.520 and MAX OD column 2.950 (MIN ID > MAX OD: columns appear swapped) — not mapped | p2
+ROW | S | 3-1/2" SSD | 1270.50 |  | 2.813 | 4.550 |  |  | p2
+ROW | S | 3-1/2" XN-NIPPLE | 1288.76 |  | 2.690 | 3.960 |  | last short-string item above the Y-block | p2
+ROW | L | 3-1/2" FLOW COUPLING | 243.73 |  | 2.880 | 3.920 |  |  | p1
+ROW | L | 3-1/2" TRSSSV | 244.56 |  | 2.813 | 5.030 |  |  | p1
+ROW | L | 3-1/2" FLOW COUPLING | 246.05 |  | 2.880 | 3.920 |  |  | p1
+ROW | L | 3-1/2" SPM | 415.09 |  | 2.900 | 5.230 |  |  | p1
+ROW | L | 3-1/2" SPM | 681.10 |  | 2.900 | 5.230 |  |  | p1
+ROW | L | 3-1/2" SPM | 918.82 |  | 2.900 | 5.230 |  |  | p1
+ROW | L | 3-1-2" Orifice | 1108.36 |  | 2.900 | 5.230 |  |  | p1
+ROW | L | 3-1/2" SSD | 1194.28 |  | 2.813 | 4.550 |  |  | p1
+ROW | L | PDG | 1242.26 |  |  |  |  | permanent downhole gauge (highlighted row) | p2
+ROW | D | 3-1/2"x 3-1/2" x 4" x 2-7/8" Y-BLOCK ASSEMBLY | 1293.56 |  | 2.441 | 8.320 |  | joins the short and long strings; single string below | p2
+ROW | Lw | 9-5/8" x 6" QUANTUM Packer | 1296.51 |  | 6.000 | 8.445 |  |  | p2
+ROW | Lw | 5-1/2" Blank Pipes | 1306.79 |  | 4.778 | 8.400 |  |  | p2
+ROW | Lw | 5-1/2" Wire Wrapped Screen + Shunt Tubes | 1330.24 |  | 4.892 | 8.400 |  |  | p2
+ROW | Lw | 9-5/8" x 4" Polished Bore MZ ALLFRAC PACKER | 1353.74 |  | 4.000 | 8.305 |  |  | p2
+ROW | Lw | 4" Seal Bore | 1355.97 |  | 4.000 | 7.000 |  |  | p2
+ROW | Lw | 5-1/2" Blank Pipes | 1357.08 |  | 4.778 | 8.400 |  |  | p2
+ROW | Lw | 5-1/2" Wire Wrapped Screen + Shunt Tubes | 1439.22 |  | 4.892 | 8.400 |  |  | p3
+ROW | X | Slim line 2-7/8" SSD | 1453.64 |  | 2.313 | 3.220 |  | inner string | p3
+ROW | Lw | 9-5/8" x 4" Polished Bore MZ ALLFRAC PACKER | 1474.47 |  | 4.000 | 8.305 |  |  | p3
+ROW | Lw | 3.25" Seal Bore | 1476.71 |  | 3.250 | 7.000 |  |  | p3
+ROW | Lw | 5-1/2" Blank Pipes | 1477.84 |  | 4.778 | 8.400 |  |  | p3
+ROW | Lw | 5-1/2" Wire Wrapped Screen + Shunt Tubes | 1489.60 |  | 4.892 | 8.400 |  | printed below the XN nipple / muleshoe rows (out of sequence) | p3
+ROW | X | 2-7/8" XN-Nipple | 1482.63 |  | 2.205 | 2.313 |  | inner string | p3
+ROW | X | Self Aligning Muleshoe | 1485.17 |  | 2.360 | 3.220 | | end of the inner string | p3
+ROW | Lw | 9-5/8" x 6" Sump Packer | 1514.66 |  | 6.000 | 8.463 |  |  | p3
+ROW | Lw | PBTD / BRIDGE PLUG | 1550.00 |  |  |  |  | bridge plug at PBTD | p3
+SHOE | 9-5/8" CASING SHOE | 1668.00 | MDDF |  | 9-5/8" CASING SHOE 1668.00
+ZONE | E 10-11 | 1336 | 1345 | MDDF | E 10-11 1336 -1345 m MDDF 1219 - 1227 m TVDDF 1226 psi 196 deg F | p2 | interval
+ZONE | E 32-34 | 1445 | 1449 | MDDF | E 32-34 1445 - 1449 m MDDF 1316 - 1319.5 m TVDDF | p3 | interval
+ZONE | E 32-34 | 1465 | 1472 | MDDF | 1465 - 1472 m MDDF 1334 - 1340 m TVDDF 1573 psi 210 deg F | p3 | interval
+ZONE | E 40 | 1499 | 1503 | MDDF | E 40 1499 - 1503 m MDDF 1364.5 - 1368 m TVDDF 1544 psi 212 deg F | p3 | interval
+PBTD | 1550.00 | MDDF | PBTD / BRIDGE PLUG 1550.00 (header PBTD : 1570 m MDDF)
+INT | 2.31” PXN Plug @ 1470m MDTHF (Jul 2017) | 1470 | MDTHF | 6
+INT | 2.2” Slickplug @ 1455m MDTHF (Dec 2017) | 1455 | MDTHF | 7
+NOTE | picture header | TD : TBA; WATER DEPTH : 78.90 Meter; TUBING HANGER : 20 Meter; 4" L80 13Cr 9.5 PPF VAM FJL (Outer String); prepared by ADAM HAREEZI B A AZIZ / AFIQ B A HAMID
+NOTE | slide 28 | overlay boxes: 'SSD#1 CLOSED (2024)', CLOSED / OPENED / CLOSED / OPENED status boxes, 'GLOV (10/64”) Feb 2021', '2.3” drift & 2.25” LIB HUD at 1440m MDTHF (fine sand)', '2.3” GR HUD at 1459m MDTHF fine sand (Dec 2017)', LATEST UPDATE: APRIL 2024 BY PRAVIN NAIR; image29.jpeg (small photo, no data)
+ISSUE | Conflict | picture | PBTD on the diagram 'PBTD / BRIDGE PLUG 1550.00' vs header 'PBTD : 1570 m MDDF' — diagram value used, header recorded
+ISSUE | Conflict | picture p2 | ADJUSTABLE UNION: MIN ID 4.520 > MAX OD 2.950 (columns swapped in the source) — diameters not mapped, both values recorded here
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC with 'DATE OF COMPLETION : TBA' and 'TD : TBA' — treated as the well's schematic; slide overlays (MDTHF) are later status
+ISSUE | Unclear | slide 28 | plug depths in the overlays are m MDTHF while the picture is m MDDF — not mapped to the MDDF axis (no datum shift)

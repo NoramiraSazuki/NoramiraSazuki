@@ -1,0 +1,801 @@
+{
+ "slide": 19,
+ "file": "slides/slide19.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n18",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6157314",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 152400,
+   "cx": 6858000,
+   "cy": 9144000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    1.54,
+    69.47,
+    93.85
+   ],
+   "image": "../media/image53.png",
+   "crop": {
+    "l": "30106",
+    "t": "12260",
+    "r": "29284",
+    "b": "2880"
+   }
+  },
+  {
+   "kind": "cxnSp",
+   "id": "5",
+   "name": "Straight Connector 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9186069,
+   "y": 3276600,
+   "cx": 2362200,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.16,
+    33.08,
+    65.58,
+    33.08
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Oval 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "Rounded Rectangle 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8447658,
+   "y": 5346880,
+   "cx": 304800,
+   "cy": 304800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.97,
+    53.98,
+    49.7,
+    57.05
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "Rounded Rectangle 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8471978,
+   "y": 2338385,
+   "cx": 304800,
+   "cy": 92492,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.11,
+    23.61,
+    49.84,
+    24.54
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "5-Point Star 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2809368,
+   "y": -1445573,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.95,
+    -14.59,
+    17.25,
+    -13.0
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "Oval 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3132492,
+   "y": -1397313,
+   "cx": 134075,
+   "cy": 109220,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    17.79,
+    -14.11,
+    18.55,
+    -13.0
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11362747,
+   "y": 6162674,
+   "cx": 856243,
+   "cy": 628650,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    64.52,
+    62.21,
+    69.39,
+    68.56
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "TextBox 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5550973,
+   "y": 5375455,
+   "cx": 856242,
+   "cy": 508500,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.52,
+    54.26,
+    36.38,
+    59.4
+   ],
+   "text": "CLOSED ",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Line Callout 2 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 118269,
+   "y": 1524001,
+   "cx": 4731892,
+   "cy": 1331332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.67,
+    15.38,
+    27.54,
+    28.82
+   ],
+   "text": "29/6 – 19/7/2016 ||CL leak repair, after CL leak diagnostic, found out that the leak was beyond repair. Suspected CL parted/dislodge at control line fitting below tubing hanger. \nSuccessfully Installed storm choke. At 137m-mdthf \nNote: 1. Storm Choke setting pressure opening 145 psi, & closing pressure 110 psi. 2. Please equalize well pressure prior retrieving Strom Choke.",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5550972,
+   "y": 3809204,
+   "cx": 850034,
+   "cy": 502995,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.52,
+    38.45,
+    36.35,
+    43.53
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "grpSp",
+   "id": "25",
+   "name": "Group 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -7606222,
+   "y": 1530331,
+   "cx": 7353300,
+   "cy": 4557741,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -43.19,
+    15.45,
+    -1.44,
+    61.46
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "11",
+   "name": "Picture 10",
+   "path": [
+    "Group 24"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -7606222,
+   "y": 1530331,
+   "cx": 7353300,
+   "cy": 4557741,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -43.19,
+    15.45,
+    -1.44,
+    61.46
+   ],
+   "image": "../media/image54.png"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "Rounded Rectangle 23",
+   "path": [
+    "Group 24"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -4911205,
+   "y": 2396533,
+   "cx": 3376899,
+   "cy": 873124,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -27.89,
+    24.19,
+    -8.71,
+    33.01
+   ],
+   "text": "",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "sp",
+   "id": "26",
+   "name": "Rounded Rectangle 25",
+   "path": [
+    "Group 24"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -6024198,
+   "y": 2403606,
+   "cx": 1059653,
+   "cy": 873124,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -34.21,
+    24.26,
+    -28.19,
+    33.08
+   ],
+   "text": "",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "Rectangle 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5503069,
+   "y": 2505794,
+   "cx": 897936,
+   "cy": 799302,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    31.25,
+    25.3,
+    36.35,
+    33.36
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "29",
+   "name": "Table 28",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1656124,
+   "y": 2874648,
+   "cx": 3198497,
+   "cy": 1432560,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.4,
+    29.02,
+    27.57,
+    43.48
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "DV",
+     "-",
+     "-",
+     ""
+    ],
+    [
+     "2",
+     "GLOV",
+     "-",
+     "- ",
+     ""
+    ],
+    [
+     "3",
+     "DV (stiff)",
+     "-",
+     "-",
+     ""
+    ],
+    [
+     "4",
+     "DV (stiff)",
+     "-",
+     "-",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "Block Arc 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8433878,
+   "y": 3180987,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.89,
+    32.11,
+    50.06,
+    34.62
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "32",
+   "name": "Line Callout 2 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1261269,
+   "y": 4326516,
+   "cx": 3588892,
+   "cy": 1331332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    7.16,
+    43.68,
+    27.54,
+    57.12
+   ],
+   "text": "3/4/2016 || Tag HUD @ 1949m-mdthf and run LIB. Suspected scale and run pump bailer but recovered nothing. Prior run SGS (set depth at 1947m-mdthf – completed)",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "33",
+   "name": "Line Callout 2 32",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 880269,
+   "y": 5712291,
+   "cx": 3969892,
+   "cy": 1331332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.0,
+    57.66,
+    27.54,
+    71.1
+   ],
+   "text": "The well is producing from E1 since 99/2000 onwards. No record the well is conducting ZOC from E10/11 to E1 only. \n** ASSUMPTION: isolating using plug at D No Go or Nipple. ",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "34",
+   "name": "Rectangle 33",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11367258,
+   "y": 2588188,
+   "cx": 897936,
+   "cy": 993212,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    64.55,
+    26.13,
+    69.65,
+    36.15
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "35",
+   "name": "TextBox 34",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11362746,
+   "y": 5499282,
+   "cx": 856242,
+   "cy": 513919,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    64.52,
+    55.51,
+    69.39,
+    60.7
+   ],
+   "text": "CLOSED ",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "36",
+   "name": "Line Callout 2 35",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12831755,
+   "y": 4800601,
+   "cx": 4025207,
+   "cy": 844833,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.87,
+    48.46,
+    95.72,
+    56.99
+   ],
+   "text": "15/12/2012 || attempted to conduct ZOC but unsuccessful d/t unable to set CA plug at D No Go nipple @2149m-mdthf",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "37",
+   "name": "Line Callout 2 36",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12773845,
+   "y": 3384550,
+   "cx": 4025207,
+   "cy": 759618,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    72.54,
+    34.17,
+    95.39,
+    41.83
+   ],
+   "text": "25/2/2013 ||attempted to fishing BK-2 latch based on LIB impression during TBCLR at 1942m-mdthf/SPM#5 but Failed.\nMay-20. Able to retrieve fish bent latch at SPM5",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "38",
+   "name": "Rounded Rectangle 37",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5351463,
+   "y": 8982470,
+   "cx": 7192700,
+   "cy": 602358,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.39,
+    90.68,
+    71.23,
+    96.76
+   ],
+   "text": "",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "39",
+   "name": "Table 38",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12226133,
+   "y": 156529,
+   "cx": 4966252,
+   "cy": 3108960,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    69.43,
+    1.58,
+    97.63,
+    32.96
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "M MDTHF",
+     "PTRO (psi)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "GLV",
+     "748",
+     "759.6",
+     "8/64",
+     ""
+    ],
+    [
+     "2",
+     "GLV",
+     "1306",
+     "1170",
+     "8/64",
+     "GLVC 2021"
+    ],
+    [
+     "3",
+     "DV (stiffed)",
+     "1533",
+     "-",
+     "-",
+     ""
+    ],
+    [
+     "4",
+     "DV",
+     "1779",
+     "-",
+     "-",
+     "No record. Observed clear mark DV during 2021 GLVC"
+    ],
+    [
+     "5",
+     "GLOV ",
+     "1939",
+     "-",
+     "16/64”",
+     "GLVC 2021"
+    ]
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "27",
+   "name": "Picture 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 17927715,
+   "y": 1531202,
+   "cx": 7319169,
+   "cy": 4593372,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    101.8,
+    15.46,
+    143.37,
+    61.83
+   ],
+   "image": "../media/image55.png"
+  },
+  {
+   "kind": "sp",
+   "id": "41",
+   "name": "Block Arc 40",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8811646,
+   "y": 3260441,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.04,
+    32.91,
+    52.2,
+    35.42
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1728795,
+   "y": 506493,
+   "cx": 3102475,
+   "cy": 914400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.82,
+    5.11,
+    27.43,
+    14.34
+   ],
+   "text": "30/4/20 | | attempted several times managed to\nretrieve stiff CSA Plug at 138  m-THF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

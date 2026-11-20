@@ -1,0 +1,687 @@
+{
+ "slide": 20,
+ "file": "slides/slide20.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n19",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "50",
+   "name": "Picture 49",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4009597,
+   "y": 6126,
+   "cx": 8019445,
+   "cy": 9906000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.77,
+    0.06,
+    68.31,
+    100.06
+   ],
+   "image": "../media/image56.emf"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "4",
+   "name": "Table 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12314238,
+   "y": 10117182,
+   "cx": 4783238,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    69.93,
+    102.13,
+    97.09,
+    115.98
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "6",
+   "name": "Table 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 667158,
+   "y": 10171177,
+   "cx": 4783238,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.79,
+    102.68,
+    30.95,
+    116.52
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Oval 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2941771,
+   "y": 5952066,
+   "cx": 1039453,
+   "cy": 608711,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.7,
+    60.09,
+    22.61,
+    66.23
+   ],
+   "text": "CLOSE, Apr-24",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2954215,
+   "y": 7469938,
+   "cx": 1041788,
+   "cy": 285529,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.78,
+    75.41,
+    22.69,
+    78.29
+   ],
+   "text": "CLOSE, Apr-24",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "11",
+   "name": "Table 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16118605,
+   "y": 2347232,
+   "cx": 3910279,
+   "cy": 1554480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    91.53,
+    23.7,
+    113.73,
+    39.39
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psig)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "Dummy",
+     "631.2",
+     "1030",
+     "10/64”",
+     "14th Aug 2021"
+    ],
+    [
+     "2",
+     "Dummy",
+     "966.9",
+     "975",
+     "10/64”",
+     "14th Aug 2021"
+    ],
+    [
+     "3",
+     "GLV",
+     "1232.1",
+     "935",
+     "10/64”",
+     "2018 infill campaign"
+    ],
+    [
+     "4",
+     "GLOV - orifice",
+     "1454.6",
+     "-",
+     "12/64”",
+     "2018 infill campaign"
+    ]
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "12",
+   "name": "Picture 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12009439,
+   "y": 4267200,
+   "cx": 4533900,
+   "cy": 2416091,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.2,
+    43.08,
+    93.94,
+    67.47
+   ],
+   "image": "../media/image34.png"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "TextBox 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2954215,
+   "y": 5073934,
+   "cx": 1039453,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.78,
+    51.22,
+    22.68,
+    54.02
+   ],
+   "text": "CLOSE, Apr-24",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5012701,
+   "y": 6321014,
+   "cx": 470721,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.46,
+    63.81,
+    31.14,
+    66.61
+   ],
+   "text": "E12B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5096059,
+   "y": 5079960,
+   "cx": 388501,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.94,
+    51.28,
+    31.14,
+    54.08
+   ],
+   "text": "E11",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5013864,
+   "y": 5977107,
+   "cx": 470721,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.47,
+    60.34,
+    31.14,
+    63.13
+   ],
+   "text": "E12A",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "TextBox 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5013890,
+   "y": 7472352,
+   "cx": 470721,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.47,
+    75.43,
+    31.14,
+    78.23
+   ],
+   "text": "E14B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4982803,
+   "y": 9259171,
+   "cx": 470721,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.3,
+    93.47,
+    30.97,
+    96.27
+   ],
+   "text": "E40",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2954215,
+   "y": 9230588,
+   "cx": 1041788,
+   "cy": 285529,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.78,
+    93.18,
+    22.69,
+    96.06
+   ],
+   "text": "OPEN, Apr-24",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5398536,
+   "y": 9220699,
+   "cx": 1041788,
+   "cy": 346249,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.66,
+    93.08,
+    36.57,
+    96.58
+   ],
+   "text": "Perf interval – \n1992 – 2004.5 m MDDF",
+   "geom": "rect",
+   "fill": "70AD47"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "19",
+   "name": "Table 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12009439,
+   "y": 2347232,
+   "cx": 3910279,
+   "cy": 1554480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.2,
+    23.7,
+    90.4,
+    39.39
+   ],
+   "table": [
+    [
+     "SPM",
+     "Type",
+     "Depth (m-MDTHF)",
+     "PTRO (psig)",
+     "Port size",
+     "Date Installed"
+    ],
+    [
+     "1",
+     "Dummy",
+     "631.2",
+     "-",
+     "-",
+     "2021"
+    ],
+    [
+     "2",
+     "Dummy",
+     "966.9",
+     "-",
+     "-",
+     "2021"
+    ],
+    [
+     "3",
+     "GLV",
+     "1232.1",
+     "935",
+     "10/64”",
+     "2018 infill campaign"
+    ],
+    [
+     "4",
+     "GLOV - orifice",
+     "1454.6",
+     "-",
+     "12/64”",
+     "2018 infill campaign"
+    ]
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "23",
+   "name": "Group 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3975098,
+   "y": 8879868,
+   "cx": 2485138,
+   "cy": 289669,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.57,
+    89.64,
+    36.68,
+    92.57
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "Rectangle 19",
+   "path": [
+    "Group 22"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3975098,
+   "y": 8879868,
+   "cx": 2459100,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.57,
+    89.64,
+    36.54,
+    92.44
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [
+    "Group 22"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5000760,
+   "y": 8892538,
+   "cx": 470721,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.4,
+    89.77,
+    31.07,
+    92.57
+   ],
+   "text": "E20",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "TextBox 20",
+   "path": [
+    "Group 22"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3993668,
+   "y": 8882459,
+   "cx": 1019033,
+   "cy": 111535,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.68,
+    89.67,
+    28.46,
+    90.79
+   ],
+   "text": "Perforation interval\nE20 sand (thickeness – 9 m)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "TextBox 21",
+   "path": [
+    "Group 22"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5441203,
+   "y": 8884942,
+   "cx": 1019033,
+   "cy": 111535,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.9,
+    89.69,
+    36.68,
+    90.82
+   ],
+   "text": "Perf interval 1710-1719 m MDDF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2941771,
+   "y": 8875602,
+   "cx": 1041788,
+   "cy": 285529,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.7,
+    89.6,
+    22.62,
+    92.48
+   ],
+   "text": "OPEN, Mar-25",
+   "geom": "rect",
+   "fill": "33CC33"
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+# slide 21 (slides/slide21.xml) hidden=False objects=33
+# notes: 'Open\n21'
+[pic id=3074 'Picture 2' pct=[2.91, 1.35, 96.24, 53.99] hidden=False img=../media/image48.png]
+[pic id=3075 'Picture 3' pct=[2.91, 49.98, 96.24, 88.86] hidden=False img=../media/image49.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=7 'TextBox 6' pct=[26.72, 50.83, 39.37, 55.21] hidden=False]
+    OPEN
+    12/JUL/1992
+[sp id=5 'TextBox 4' pct=[0.46, 33.89, 18.97, 40.29] hidden=False]
+    2.00" Pump Sand Bailer landed at HUD@ 242m-m-MDTHF. Recovered 0.25 kg sand (13/7/17) 
+[sp id=13 'TextBox 12' pct=[-0.3, 46.83, 11.81, 54.58] hidden=False]
+    2.25" CA Plug @ D- No Go profile at 2457m (19/3/2017)
+[sp id=17 'TextBox 3' pct=[0.78, 2.36, 23.27, 4.72] hidden=False]
+    Latest Update: 24 JULY 2017
+[sp id=2 'TextBox 1' pct=[37.91, 86.12, 61.24, 88.64] hidden=False]
+    TD @ 2715.5 m-MDTHF
+[sp id=23 'TextBox 22' pct=[64.87, 17.5, 88.2, 19.85] hidden=False]
+    73.3 Deg @ 652.48 m-MDTHF
+[sp id=34 'TextBox 33' pct=[3.66, 58.39, 15.77, 63.44] hidden=False]
+    Slick Plug Set @ 2532 m-mdthf (21/8/2017)
+[sp id=36 'TextBox 35' pct=[88.16, 47.18, 99.46, 51.55] hidden=False]
+    OPENED
+    23/OCT/17
+[sp id=10 'Rectangle 9' pct=[67.05, 53.85, 84.04, 58.9] hidden=False]
+    HUD @2530m– MDTHF LIB suspected sand (22/10/17)
+[sp id=16 'Rectangle 15' pct=[82.87, 43.83, 99.87, 47.53] hidden=False]
+    Supected wax@2414m – MDTHF(19/2/17)
+[sp id=38 'Rectangle 37' pct=[86.43, 34.65, 99.64, 43.74] hidden=False]
+    DV @SPM#1
+    GLV@SPM#2
+    DV@SPM#3
+    DV@SPM#4
+    GLOV@SPM#5
+    (26/10/17)
+[sp id=24 'Rectangle 23' pct=[103.4, 29.66, 115.49, 36.06] hidden=False]
+    Ret Tbg Stop@2435mMDTHF(26/10/17)
+[sp id=42 'Rectangle 41' pct=[0.03, 39.36, 20.16, 43.07] hidden=False]
+    Suspected scale@2404m-MDTHF(16/7/14)
+[sp id=45 'Rectangle 44' pct=[1.81, 54.67, 17.62, 58.37] hidden=False]
+    Closed SSD @2457m-MDTHF(9/7/16)
+[sp id=48 'Rectangle 47' pct=[-0.48, 44.95, 25.52, 47.31] hidden=False]
+    Retrieve U&L .Tubing Stop(22/2/17)
+[sp id=41 'Text Box 289' pct=[63.94, 92.2, 107.18, 96.24] hidden=False]
+    LAST ENTRY	: 26  Oct 2017
+    TYPE OF JOB	: A-24L : GLVC
+    UPDATED BY	: M Zhafran
+    DATE	: 4 Feb 2018
+[sp id=22 'Footer Placeholder 21' pct=None hidden=False]
+    Open
+[sp id=11 'TextBox 10' pct=[85.55, 25.44, 103.65, 28.81] hidden=False]
+    CSA Plug @ TRSV. Flapper lock open Oct 2016 

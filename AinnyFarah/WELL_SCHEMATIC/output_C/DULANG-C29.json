@@ -1,0 +1,647 @@
+{
+  "wellInfo": {
+    "completionDate": "2012-10",
+    "completionFluid": "(LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL",
+    "completionType": "OIL PRODUCER (Tubing String header); single string",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "71.49 DEG @ 1027.95 M MD DF / 789.70 M TVD DF",
+    "name": "DULANG-C29",
+    "packerFluid": "8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger",
+    "rig": "KM-1",
+    "surfaceCasing": "-",
+    "totalDepth": 8595.801,
+    "trajectoryType": "-",
+    "tubing": "3-1/2\" 13 Cr 9.2 PPF & 2-7/8\" 13Cr 6.4 PPF Inner String; 6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 793.963,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 242.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~350 name 'FLOW COUPLING' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~350 '242' = 242.0 m -> 793.963 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~350 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~350 '3.920' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "trsv-1",
+      "type": "trsv",
+      "name": "TRSSSV",
+      "topMd": 803.806,
+      "bottomMd": null,
+      "outerDiameter": 5.03,
+      "innerDiameter": 2.813,
+      "topMdM": 245.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~377 name 'TRSSSV' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~377 '245' = 245.0 m -> 803.806 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~377 '2.813' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~377 '5.030' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 813.648,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 248.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~405 name 'FLOW COUPLING' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~405 '248' = 248.0 m -> 813.648 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~405 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~405 '3.920' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 1574.803,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 480.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~542 name '3-1/2\" SPM' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~542 '480' = 480.0 m -> 1574.803 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~542 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~542 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 2709.974,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 826.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~587 name '3-1/2\" SPM' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~587 '826' = 826.0 m -> 2709.974 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~587 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~587 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 3848.425,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1173.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~633 name '3-1/2\" SPM' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~633 '1173' = 1173.0 m -> 3848.425 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~633 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~633 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-4",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 4957.349,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1511.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~663 name '3-1/2\" SPM' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~663 '1511' = 1511.0 m -> 4957.349 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~663 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~663 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-5",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 6036.746,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1840.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~692 name '3-1/2\" SPM' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~692 '1840' = 1840.0 m -> 6036.746 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~692 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~692 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'Dummy 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-6",
+      "type": "spm",
+      "name": "3-1/2\" Orifice",
+      "topMd": 7083.334,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 2159.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: row label names the gas-lift orifice set in a side-pocket mandrel (same MIN ID / MAX OD as the SPM rows) -> SPM (Gas Lift) is the nearest type",
+      "actualType": "3-1/2\" Orifice",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~721 name '3-1/2\" Orifice' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~721 '2159' = 2159.0 m -> 7083.334 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~721 '2.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~721 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); status/remark 'GLOV 16/64 1/10/2020 (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "3-1/2\" SSD",
+      "topMd": 7506.562,
+      "bottomMd": null,
+      "outerDiameter": 4.55,
+      "innerDiameter": 2.813,
+      "topMdM": 2288.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~774 name '3-1/2\" SSD' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~774 '2288' = 2288.0 m -> 7506.562 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~774 '2.813' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~774 '4.550' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "7\" x 3-1/2\" AHC Packer",
+      "topMd": 7529.528,
+      "bottomMd": null,
+      "outerDiameter": 5.96,
+      "innerDiameter": 2.9,
+      "topMdM": 2295.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~820 name '7\" x 3-1/2\" AHC Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~820 '2295' = 2295.0 m -> 7529.528 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~820 '2.900' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~820 '5.960' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "nipple-no-go-1",
+      "type": "nipple (no-go)",
+      "name": "3-1/2\" XN-Nipple",
+      "topMd": 7545.932,
+      "bottomMd": null,
+      "outerDiameter": 3.893,
+      "innerDiameter": 2.666,
+      "topMdM": 2300.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: XN nipple (X profile with no-go shoulder; make not stated) -> No-Go Nipple is the nearest type",
+      "actualType": "3-1/2\" XN-Nipple",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~870 name '3-1/2\" XN-Nipple' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~870 '2300' = 2300.0 m -> 7545.932 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~870 '2.666' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~870 '3.893' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "st-slot-locator-1",
+      "type": "st-slot-locator",
+      "name": "3-1/2\" No-Go Locator",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type",
+      "actualType": "3-1/2\" No-Go Locator",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~885 name '3-1/2\" No-Go Locator' (OCR (tesseract psm 11, x3) + visual check); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "3-1/2\" Self Aligning Muleshoe",
+      "topMd": 7631.234,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2326.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~918 name '3-1/2\" Self Aligning Muleshoe' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~918 '2326' = 2326.0 m -> 7631.234 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-2",
+      "type": "packer",
+      "name": "4-1/2\" x 7\" VTA Packer",
+      "topMd": 7634.515,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 3.88,
+      "topMdM": 2327.0,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~960 name '4-1/2\" x 7\" VTA Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~960 '2327' = 2327.0 m -> 7634.515 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~960 '3.880' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~960 '6.000' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "pbr-1",
+      "type": "pbr",
+      "name": "3.88\" Seal Bore Ext",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.967,
+      "innerDiameter": 3.894,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type",
+      "actualType": "3.88\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~974 name '3.88\" Seal Bore Ext' (OCR (tesseract psm 11, x3) + visual check); innerDiameter slide 29 image23.png pixel row ~974 '3.894' (column 'MIN ID IN' = explicit ID); outerDiameter slide 29 image23.png pixel row ~974 '4.967' (column 'MAX OD IN' / 'OD' = explicit OD); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "crossover-1",
+      "type": "crossover",
+      "name": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: sub joining tubulars of different sizes -> Crossover is the nearest type",
+      "actualType": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1033 name '3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin' (OCR (tesseract psm 11, x3) + visual check); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "sliding-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 7900.263,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2408.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1133 name '3.22\" SLIM SSD Inner String' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1133 '2408' = 2408.0 m -> 7900.263 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1133 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-3",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 7874.016,
+      "bottomMd": 7883.859,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2400.0,
+      "bottomMdM": 2403.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1163 name '3 Meter Oil Swell Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1163 '2400-2403' = 2400.0 m -> 7874.016 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); bottomMd slide 29 image23.png pixel row ~1163 '2400-2403' = 2403.0 m -> 7883.859 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum; range end printed with the item); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "pbr-2",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": 7913.386,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 2412.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1312 name '3.25\" Seal Bore Ext' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1312 '2412' = 2412.0 m -> 7913.386 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1312 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-4",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 7926.509,
+      "bottomMd": 7936.352,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2416.0,
+      "bottomMdM": 2419.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1356 name '3 Meter Oil Swell Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1356 '2416-2419' = 2416.0 m -> 7926.509 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); bottomMd slide 29 image23.png pixel row ~1356 '2416-2419' = 2419.0 m -> 7936.352 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum; range end printed with the item); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "sliding-sleeve-3",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 7965.88,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2428.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1372 name '3.22\" SLIM SSD Inner String' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1372 '2428' = 2428.0 m -> 7965.88 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1372 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); status/remark 'OPEN SSD #02 (24/10/2017) (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "pbr-3",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": 7975.722,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 2431.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1473 name '3.25\" Seal Bore Ext' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1473 '2431' = 2431.0 m -> 7975.722 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1473 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-5",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 7975.722,
+      "bottomMd": 7985.565,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2431.0,
+      "bottomMdM": 2434.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1491 name '3 Meter Oil Swell Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1491 '2431-2434' = 2431.0 m -> 7975.722 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); bottomMd slide 29 image23.png pixel row ~1491 '2431-2434' = 2434.0 m -> 7985.565 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum; range end printed with the item); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "sliding-sleeve-4",
+      "type": "sliding-sleeve",
+      "name": "3.22\" SLIM SSD Inner String",
+      "topMd": 8034.777,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2449.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1578 name '3.22\" SLIM SSD Inner String' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1578 '2449' = 2449.0 m -> 8034.777 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1578 '3.22\" SLIM SSD Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); status/remark 'OPEN SSD #03 (24/10/2017) (slide note)'; depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-6",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 8064.305,
+      "bottomMd": 8074.147,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2458.0,
+      "bottomMdM": 2461.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1652 name '3 Meter Oil Swell Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1652 '2458-2461' = 2458.0 m -> 8064.305 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); bottomMd slide 29 image23.png pixel row ~1652 '2458-2461' = 2461.0 m -> 8074.147 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum; range end printed with the item); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "pbr-4",
+      "type": "pbr",
+      "name": "3.25\" Seal Bore Ext",
+      "topMd": 8110.236,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 2472.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\" Seal Bore Ext",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1756 name '3.25\" Seal Bore Ext' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1756 '2472' = 2472.0 m -> 8110.236 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1756 '3.25\" Seal Bore Ext' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-7",
+      "type": "packer",
+      "name": "3 Meter Oil Swell Packer",
+      "topMd": 8100.394,
+      "bottomMd": 8110.236,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2469.0,
+      "bottomMdM": 2472.0,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1802 name '3 Meter Oil Swell Packer' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1802 '2469-2472' = 2469.0 m -> 8100.394 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); bottomMd slide 29 image23.png pixel row ~1802 '2469-2472' = 2472.0 m -> 8110.236 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum; range end printed with the item); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "nipple-no-go-2",
+      "type": "nipple (no-go)",
+      "name": "3.22\" SLIM XN-Nipple Inner String",
+      "topMd": 8136.483,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2480.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: XN nipple (X profile with no-go shoulder; make not stated) -> No-Go Nipple is the nearest type; innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.22\" SLIM XN-Nipple Inner String",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1882 name '3.22\" SLIM XN-Nipple Inner String' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1882 '2480' = 2480.0 m -> 8136.483 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1882 '3.22\" SLIM XN-Nipple Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "mule-shoe-2",
+      "type": "mule-shoe",
+      "name": "3.22\" Self Aligning Muleshoe Inner String",
+      "topMd": 8143.045,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2482.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1897 name '3.22\" Self Aligning Muleshoe Inner String' (OCR (tesseract psm 11, x3) + visual check); topMd slide 29 image23.png pixel row ~1897 '2482' = 2482.0 m -> 8143.045 ft (m MD RKB (depth column header 'DEPTH MD m RKB') — NOT MDTHF; kept on the printed datum); innerDiameter slide 29 image23.png pixel row ~1897 '3.22\" Self Aligning Muleshoe Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (depth column header 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "casing-shoe-1",
+      "type": "casing",
+      "name": "7\" SHOE 2357 m MDDF 1268 TVD DF",
+      "topMd": null,
+      "bottomMd": 7732.94,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": null,
+      "bottomMdM": 2357.0,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd",
+        "innerDiameter"
+      ],
+      "estimationNote": "DATUM: m MDDF as printed (not MD RKB like the equipment column); TVD 1268 m DF; innerDiameter: '7\"' has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1033 name '7\" SHOE 2357 m MDDF 1268 TVD DF' (OCR (tesseract psm 11, x3) + visual check); bottomMd slide 29 image23.png pixel row ~1033 '7\" SHOE 2357 m MDDF 1268 TVD DF' = 2357.0 m -> 7732.94 ft (m MDDF as printed (not MD RKB like the equipment column); TVD 1268 m DF); innerDiameter slide 29 image23.png pixel row ~1033 '7\" SHOE 2357 m MDDF 1268 TVD DF' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter); bottomTvd 1268 m DF x 3.28084 = 4160.105 ft (TVD DF as printed)",
+      "bottomTvd": 4160.105,
+      "bottomTvdM": 1268.0
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "3-1/2\" 13 Cr 9.2 PPF",
+      "topMd": null,
+      "bottomMd": 7631.234,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": null,
+      "bottomMdM": 2326.0,
+      "weight": 9.2,
+      "grade": "13 Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); top not set: depth reference is RKB, not the tubing hanger (0 would not be supported); DERIVED: bottom = depth of the string-end item '3-1/2\" Self Aligning Muleshoe' (mule-shoe-1)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~206 name '3-1/2\" 13 Cr 9.2 PPF' (OCR (tesseract psm 11, x3) + visual check); bottomMd component mule-shoe-1 '3-1/2\" Self Aligning Muleshoe' = 2326.0 m -> 7631.234 ft (m MD RKB (depth column header 'DEPTH MD m RKB'); depth of the end-of-string item); innerDiameter slide 29 image23.png pixel row ~206 '3-1/2\" 13 Cr 9.2 PPF' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "inner-string-tubing-1",
+      "type": "tubing",
+      "name": "2-7/8\" 13Cr 6.4 PPF Inner String",
+      "topMd": null,
+      "bottomMd": 8143.045,
+      "outerDiameter": null,
+      "innerDiameter": 2.875,
+      "topMdM": null,
+      "bottomMdM": 2482.0,
+      "weight": 6.4,
+      "grade": "13Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); inner string top not printed; DERIVED: bottom = depth of the string-end item '3.22\" Self Aligning Muleshoe Inner String' (mule-shoe-2)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~206 name '2-7/8\" 13Cr 6.4 PPF Inner String' (OCR (tesseract psm 11, x3) + visual check); bottomMd component mule-shoe-2 '3.22\" Self Aligning Muleshoe Inner String' = 2482.0 m -> 8143.045 ft (m MD RKB (depth column header 'DEPTH MD m RKB'); depth of the end-of-string item); innerDiameter slide 29 image23.png pixel row ~206 '2-7/8\" 13Cr 6.4 PPF Inner String' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "sand-screen-1",
+      "type": "sand-screen",
+      "name": "6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.5,
+      "topMdM": null,
+      "bottomMdM": null,
+      "weight": 12.6,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: '4-1/2\"' has no ID/OD designation -> recorded as ID (user-defined rule); screen interval not printed -> topMd/bottomMd empty (not derived from the zone list)",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~223 name '6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen' (OCR (tesseract psm 11, x3) + visual check (COMPLETION TUBING header)); innerDiameter slide 29 image23.png pixel row ~223 '6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "christmas-tree-1",
+      "type": "christmas-tree",
+      "name": "Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~123 name 'Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree' (OCR (tesseract psm 11, x3) + visual check)"
+    },
+    {
+      "id": "zone-e7-1",
+      "type": "perforation",
+      "name": "E7 2405-2410 m DF",
+      "topMd": 7890.42,
+      "bottomMd": 7906.824,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2405.0,
+      "bottomMdM": 2410.0,
+      "zone": "E7",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are RKB; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1197 name 'E7 2405-2410 m DF' (OCR (tesseract psm 11, x3) + visual check; DERIVED name: zone + interval); topMd slide 29 image23.png pixel row ~1197 'E 7 MD: 2405-2410 mDF' = 2405.0 m -> 7890.42 ft (m DF as printed); bottomMd slide 29 image23.png pixel row ~1197 'E 7 MD: 2405-2410 mDF' = 2410.0 m -> 7906.824 ft (m DF as printed)",
+      "actualType": "E7 2405-2410 m DF"
+    },
+    {
+      "id": "zone-e10-11-a-1",
+      "type": "perforation",
+      "name": "E10-11 A 2426-2429 m DF",
+      "topMd": 7959.318,
+      "bottomMd": 7969.16,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2426.0,
+      "bottomMdM": 2429.0,
+      "zone": "E10-11 A",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are RKB; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1409 name 'E10-11 A 2426-2429 m DF' (OCR (tesseract psm 11, x3) + visual check; DERIVED name: zone + interval); topMd slide 29 image23.png pixel row ~1409 'E 10-11 A MD: 2426-2429 mDF' = 2426.0 m -> 7959.318 ft (m DF as printed); bottomMd slide 29 image23.png pixel row ~1409 'E 10-11 A MD: 2426-2429 mDF' = 2429.0 m -> 7969.16 ft (m DF as printed)",
+      "actualType": "E10-11 A 2426-2429 m DF"
+    },
+    {
+      "id": "zone-e10-11-b-1",
+      "type": "perforation",
+      "name": "E10-11 B 2440-2458 m DF",
+      "topMd": 8005.25,
+      "bottomMd": 8064.305,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2440.0,
+      "bottomMdM": 2458.0,
+      "zone": "E10-11 B",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are RKB; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1529 name 'E10-11 B 2440-2458 m DF' (OCR (tesseract psm 11, x3) + visual check; DERIVED name: zone + interval); topMd slide 29 image23.png pixel row ~1529 'E 10-11 B MD: 2440-2458 mDF' = 2440.0 m -> 8005.25 ft (m DF as printed); bottomMd slide 29 image23.png pixel row ~1529 'E 10-11 B MD: 2440-2458 mDF' = 2458.0 m -> 8064.305 ft (m DF as printed)",
+      "actualType": "E10-11 B 2440-2458 m DF"
+    },
+    {
+      "id": "zone-e10-11-c-1",
+      "type": "perforation",
+      "name": "E10-11 C 2462-2470 m DF",
+      "topMd": 8077.428,
+      "bottomMd": 8103.675,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2462.0,
+      "bottomMdM": 2470.0,
+      "zone": "E10-11 C",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir zone interval opposite the open-hole screens / zonal isolation (no perforation printed); Perforation is the nearest interval type; DATUM: interval printed in DF; equipment depths are RKB; not shifted",
+      "source": "Dulang C_2023 Updating.pptx > slide 29 image23.png pixel row ~1690 name 'E10-11 C 2462-2470 m DF' (OCR (tesseract psm 11, x3) + visual check; DERIVED name: zone + interval); topMd slide 29 image23.png pixel row ~1690 'E 10-11 C MD: 2462-2470 mDF' = 2462.0 m -> 8077.428 ft (m DF as printed); bottomMd slide 29 image23.png pixel row ~1690 'E 10-11 C MD: 2462-2470 mDF' = 2470.0 m -> 8103.675 ft (m DF as printed)",
+      "actualType": "E10-11 C 2462-2470 m DF"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [
+    {
+      "casingId": null,
+      "md": 8159.449,
+      "type": "float shoe",
+      "name": "Double Valve Float Shoe"
+    }
+  ],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

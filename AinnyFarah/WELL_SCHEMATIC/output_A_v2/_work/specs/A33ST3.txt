@@ -1,0 +1,47 @@
+WELL | A33ST3 | - | sheet 'SCHEM-1' | DULANG A33-ST3 (cell B2) — Well ID / SLOT NO : Dulang A33ST2 WI (cell B4)
+FILE | Dulang A33ST3 Well Schematic.xls
+SRC | - | sheet 'SCHEM-1' | native .xls cell values (xlrd 2.0.1, installed locally in _work/_pylib)
+DATUM | m MDDF (column headers 'DEPTH m-MDDF'; casing table 'DEPTH (m-MDDF)')
+INFO | completionDate | 3rd April 2020
+INFO | rig | Sapura Berani
+INFO | wellhead | Surface Unihead, Solar Alert, Surface, Standard, Single
+INFO | xmas | Solar Alert  5,000 psi
+INFO | completionFluid | 8.5 ppg NaCl filtered to 30 NTU
+INFO | packerFluid | 8.5 ppg NaCl with 2% Corrosion Inhibitor + 2% Oxygen Scavenger + 0.2% Biocide
+INFO | maxDeviation | 58deg @ 1,800m MDDF
+INFO | rte | 15.8 m (ELEVATION (DF to THF))
+INFO | completionType | single string water injector (Well ID ... A33ST2 WI)
+INFO | tubing | Tubing 3-1/2" GRE lined 9.2 L80 JFEFOX; Tubing 3-1/2" - Below 7" AHC 9.2 15CR-125 JFE BEAR
+CASING | 26" Conductor (Existing) 202.0 A-36 Welded | 26 | 202.0 | A-36 | 181.46 | MDDF
+CASING | 16" Casing (Existing) 75.0 J-55 BTC | 16 | 75.0 | J-55 | 188.46 | MDDF
+CASING | 13-3/8" Casing (Existing) 54.5 K-55 BTC | 13.375 | 54.5 | K-55 | 443.26 | MDDF
+CASING | 9-5/8" Casing (Existing) 43.5 L-80 BTC | 9.625 | 43.5 | L-80 | 1355.46 | MDDF
+CASING | 7" Liner TBC | 7 |  |  |  | MDDF (printed 'TBC') | 902.73 | diagram '7"Liner (TOL)' 902.73 (B40/F40)
+TUBING | Tubing 3-1/2" GRE lined 9.2 L80 JFEFOX | 3.5 | 9.2 | L80 | - |
+ROW | X | TUBING HANGER Bear (BOX Down) |  |  | 2.992 |  |  | depth not printed (length 1.52 m); MAX OD printed 'TBC' | O18/M18/S18/T18
+ROW | X | XOVER 3-1/2" BEAR Pin x FOX DTP (BOX) |  |  | 2.545 | 3.833 |  | depth not printed (length 0.46 m) | O19/M19/S19/T19
+ROW | X | OS, FLOW COUPLING, 3-1/2 9.2PPF JFEFOX DTP BOX X 2-7/8 6.4PPF JFEBEAR PIN, 25CR0[80] |  |  | 2.357 | 3.833 |  | depth not printed (length 0.91 m) | O24/M24/S24/T24
+ROW | X | TRSV, 2-7/8 6.4PPF JFEBEAR BXP | 254.61 |  | 2.312 | 4.609 |  | length 1.35 m | O25/K25/M25/S25/T25
+ROW | X | OS, FLOW COUPLING, 2-7/8 6.4PPF JFEBEAR BOX X 3-1/2 9.2PPF JFEFOX DTP BOX |  |  | 2.357 | 3.833 |  | depth not printed (length 0.91 m) | O26/M26/S26/T26
+ROW | X | Crossover - 3-1/2" FOX DTP BOX x 3-1/2 Bear Pin, 25Cr-80KSI |  |  | 2.545 | 3.893 |  | depth not printed (length 0.5 m) | O51/M51/S51/T51
+ROW | X | 7 X 3-1/2 BLUEPACK MAX RH (29-32), 25CR (80), HNBR (90-90-90), 3-1/2 (9.2) JFE Bear BOX x 3-1/2 (9.2) JFE BEAR PIN | 1800.21 |  | 2.885 | 5.909 |  | length 2.44 m; angle 58.0 deg | O52/K52/M52/N52/S52/T52
+ROW | X | Crossover - 3-1/2"  BEAR (B) x 2-7/8" Bear (P), 25CR-80KSI |  |  | 2.441 | 3.833 |  | depth not printed (length 0.5 m) | O54/M54/S54/T54
+ROW | X | OS, LANDING NIPPLE, SELECTIVE, 2.313 OSX, 2-7/8 6.4PPF JFE BEAR BOX X PIN, 25CR[80], 3.385 X 2.313 X 15.1 | 1803.95 |  | 2.205 | 3.385 |  | length 0.42 m | O55/K55/M55/S55/T55
+ROW | X | Crossover - 2-7/8" Bear (B) X 3-1/2" Bear (P), 25CR-80KSI |  |  | 2.441 | 3.833 |  | depth not printed (length 0.5 m) | O56/M56/S56/T56
+ROW | X | 3-1/2" Muleshoe Guide / Drop Sub | 1836.02 |  | 2.9 | 4.0 |  | end of string | O61/K61/S61/T61
+ROW | Lw | ITCP Assembly |  |  |  |  |  | depth not printed (below the muleshoe guide / drop sub) | O62
+ZONE | E34A | 1846 | 1856 | MDDF | E34A 1,846-1,856m MDDF; 1,363.62-1,368.75m TVD; Reservoir Pressure: 1,503 psi, 93deg C | B63/B65 | perf
+PBTD | 1903.0 | MDDF | PBTD 1903.0 (B74/F74)
+TD | 1944.6 | MDDF | TD 1944.6 (B75/F75)
+NOTE | cells B7-B9 | Injection Rate:2500 blpd ; Surface Injection Pressure: 1200psi ; Drill floor height: 30.1m-AMSL (drill-floor elevation — not mapped)
+NOTE | cells O20-O57 | pup joints between the equipment items (12 FT / 6 FT / 4 FT 3-1/2" GRE Lined Fox pups; 5 FT and 6 FT 3-1/2" 9.2# JFE BEAR pups — ID 2.545 / 2.963 / 2.992, OD 3.5 / 3.878 / 3.883) — covered by the tubing component, not mapped individually
+NOTE | cells O48 / O59 | TUBING 3-1/2" 9.2#, FOX GRE, R2 ; TUBING 3-1/2" 9.2#, UHP 15Cr-125, JFE BEAR, R3 (lower 3-1/2" tubing below the 7" AHC, 15CR-125 — top not printed, not mapped as a separate record)
+NOTE | cells I6-T9 | casing tops printed 'Surface' (top not mapped as a number)
+NOTE | cell B14 | Completion Brine: 8.5ppg NaCl
+NOTE | cell B67 | 6.47 (unlabelled computed value beside E34A)
+NOTE | cell O75 | Prepared by : Pravin Nair (Aug 2023)
+NOTE | sheets 'OCTG', 'OCTG Movement', 'Summary OCTG Movement', '   ' | OCTG inventory / movement tables (sheet 'OCTG' is headed 'A23 , OP2') and a symbol legend — not schematic data; hidden sheet 'XX2R&' is empty
+ISSUE | Unclear | cells B2 / B4 | well identity: B2 'DULANG A33-ST3' vs B4 'Well ID / SLOT NO : Dulang A33ST2 WI' — named DULANG-A33ST3 from the title and file name (eDafy lists DULANG-A33ST3); please confirm
+ISSUE | Unclear | input file | the NAS .xls (SHA-256 0551ea4e…) differs from the copy used by the earlier A33ST3 run (b51284bc…); this extraction is from the current file (Prepared by Pravin Nair, Aug 2023)
+ISSUE | Missing | header | 7" liner weight / grade / thread / depths printed 'TBC'; tubing hanger MAX OD 'TBC'; most accessory depths not printed (lengths only)
+ISSUE | Unclear | sheet | ITCP assembly below the muleshoe guide: depth not printed

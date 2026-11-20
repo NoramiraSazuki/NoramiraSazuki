@@ -1,0 +1,569 @@
+{
+ "slide": 20,
+ "file": "slides/slide20.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n20",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 0,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.0,
+    100.52,
+    4.04
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "grpSp",
+   "id": "21",
+   "name": "Group 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 247650,
+   "y": 332601,
+   "cx": 6400800,
+   "cy": 8534400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.61,
+    3.64,
+    96.94,
+    96.97
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "8",
+   "name": "Group 7",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 247650,
+   "y": 332601,
+   "cx": 6400800,
+   "cy": 8534400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.61,
+    3.64,
+    96.94,
+    96.97
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "2050",
+   "name": "Picture 2",
+   "path": [
+    "Group 20",
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 247650,
+   "y": 332601,
+   "cx": 6400800,
+   "cy": 4038228,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.61,
+    3.64,
+    96.94,
+    47.8
+   ],
+   "image": "../media/image44.png",
+   "crop": {
+    "l": "11111",
+    "t": "8889",
+    "r": "5000",
+    "b": "4889"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "2051",
+   "name": "Picture 3",
+   "path": [
+    "Group 20",
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 290039,
+   "y": 3514416,
+   "cx": 6316021,
+   "cy": 3413760,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.23,
+    38.43,
+    96.33,
+    75.77
+   ],
+   "image": "../media/image45.png",
+   "crop": {
+    "l": "11667",
+    "t": "17111",
+    "r": "5556",
+    "b": "10000"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "2052",
+   "name": "Picture 4",
+   "path": [
+    "Group 20",
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 298113,
+   "y": 6785440,
+   "cx": 6316021,
+   "cy": 2081561,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.35,
+    74.21,
+    96.44,
+    96.97
+   ],
+   "image": "../media/image46.png",
+   "crop": {
+    "l": "11772",
+    "t": "44666",
+    "r": "5450",
+    "b": "10889"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "Rectangle 8",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2609850,
+   "y": 411623,
+   "cx": 2057400,
+   "cy": 158044,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.06,
+    4.5,
+    68.06,
+    6.23
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rectangle 9",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 342902,
+   "y": 1028983,
+   "cx": 1128711,
+   "cy": 158044,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.0,
+    11.25,
+    21.46,
+    12.98
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Rectangle 10",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 347665,
+   "y": 1330253,
+   "cx": 1814511,
+   "cy": 148165,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.07,
+    14.55,
+    31.53,
+    16.17
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "Rectangle 11",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4910139,
+   "y": 1330262,
+   "cx": 1595437,
+   "cy": 148166,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    71.6,
+    14.55,
+    94.86,
+    16.17
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Rectangle 12",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3052761,
+   "y": 6871689,
+   "cx": 152400,
+   "cy": 869243,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.51,
+    75.15,
+    46.74,
+    84.66
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 476250,
+   "y": 7128512,
+   "cx": 1981200,
+   "cy": 478764,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    6.94,
+    77.96,
+    35.83,
+    83.19
+   ],
+   "text": "Sand Screen Through Tubing (Length 15.83 m)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5281613,
+   "y": 6738340,
+   "cx": 364202,
+   "cy": 207464,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.01,
+    73.69,
+    82.32,
+    75.96
+   ],
+   "text": "1961",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3948283,
+   "y": 7701391,
+   "cx": 623715,
+   "cy": 207464,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.57,
+    84.22,
+    66.67,
+    86.49
+   ],
+   "text": "END OF SAS",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [
+    "Group 20"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5265560,
+   "y": 7721149,
+   "cx": 478016,
+   "cy": 207464,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    76.78,
+    84.44,
+    83.75,
+    86.71
+   ],
+   "text": "1976.83",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Rectangle 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2762250,
+   "y": 8153400,
+   "cx": 685800,
+   "cy": 152400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.28,
+    89.17,
+    50.28,
+    90.83
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 314325,
+   "y": 7981950,
+   "cx": 2380395,
+   "cy": 307777,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.58,
+    87.29,
+    39.29,
+    90.66
+   ],
+   "text": "Top of Cement 2018 mMDTHF",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 74566,
+   "y": 110236,
+   "cx": 1415772,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.09,
+    1.21,
+    21.73,
+    3.56
+   ],
+   "text": "Latest Update: SEPT 2015",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "Rectangle 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3948283,
+   "y": 8246145,
+   "cx": 1489479,
+   "cy": 197464,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.57,
+    90.18,
+    79.29,
+    92.34
+   ],
+   "text": "HUD@1991m-MDTHF(25/6/17)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4578529,
+   "y": 8612943,
+   "cx": 2069921,
+   "cy": 468151,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.76,
+    94.19,
+    96.94,
+    99.31
+   ],
+   "text": "LAST ENTRY\t: 29  Jun  2016\nTYPE OF JOB\t: A-23 : MPLT\nUPDATED BY\t: M Zhafran\nDATE\t: 4 Feb 2018",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "45",
+   "name": "TextBox 44",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 934268,
+   "y": 2115913,
+   "cx": 5346700,
+   "cy": 3477875,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    13.62,
+    23.14,
+    91.59,
+    61.17
+   ],
+   "text": "FOR A23ST2  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "26",
+   "name": "Footer Placeholder 25",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "pic",
+   "id": "2",
+   "name": "Picture 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -7451087,
+   "y": 217958,
+   "cx": 6832091,
+   "cy": 9144000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -108.65,
+    2.38,
+    -9.03,
+    102.38
+   ],
+   "image": "../media/image47.emf"
+  }
+ ]
+}

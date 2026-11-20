@@ -1,0 +1,109 @@
+{
+  "headers": [
+    "Entity",
+    "Date",
+    "Gross (BFPD)",
+    "Oil (BOPD)",
+    "WC (%)",
+    "Water (BWPD)",
+    "Freq (Hz)",
+    "Ampere",
+    "Voltage (Volt)",
+    "Pi (psig)",
+    "Tm (deg-F)",
+    "RH (hr)",
+    "Start Date",
+    "End Date",
+    "Well Type",
+    "Test Type",
+    "Duration (hrs)",
+    "Status",
+    "Use In Allocation",
+    "Pressure Mode",
+    "Choke Size",
+    "SP (psig)",
+    "ST (C)",
+    "CHP (psig)",
+    "CHT (C)",
+    "FTHP (psig)",
+    "FTHT (C)",
+    "FLP (psig)",
+    "FLT (C)",
+    "Gas Lift Choke Size",
+    "Gas Lift Rate (Mscf/d)",
+    "Total Gas Rate (Mscf/d)",
+    "Formation Gas Rate (Mscf/d)",
+    "Condensate Rate (bbl/d)",
+    "GOR (scf/bbl)",
+    "FGOR (scf/bbl)",
+    "WOR",
+    "IGLR (scf/bbl)",
+    "TGLR (scf/bbl)",
+    "GUF (scf/bbl)",
+    "Description"
+  ],
+  "files": [
+    {
+      "file": "well_test_monitoring_DULG-A_20261015.xlsx",
+      "tests": 99,
+      "statusCounts": {
+        "ACCEPTED": 92,
+        "REJECTED": 7
+      },
+      "allocationCounts": {
+        "N": 11,
+        "Y": 87,
+        "null": 1
+      },
+      "sourceSha256": "7439fabbda6429d53ce1ae90f92c759ce1a218e40a7ddb051793caf56178b065",
+      "updatedSha256": "752ed8deaf7a90f1246407e3f5a9f2cca783e57de9e4eb592290143eba9e03ba",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-B_20261015.xlsx",
+      "tests": 275,
+      "statusCounts": {
+        "ACCEPTED": 244,
+        "REJECTED": 31
+      },
+      "allocationCounts": {
+        "N": 56,
+        "Y": 218,
+        "null": 1
+      },
+      "sourceSha256": "54deacc83526bf3e4cdb5658d6a6b64693c00afbde74269e4bfca6e04d18bcbe",
+      "updatedSha256": "837d0fe3dd1633b86a780134baab6b684373fa8ee1ce41631c9f12283ac2dce8",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-C_20261015.xlsx",
+      "tests": 190,
+      "statusCounts": {
+        "REJECTED": 20,
+        "ACCEPTED": 170
+      },
+      "allocationCounts": {
+        "N": 35,
+        "Y": 155
+      },
+      "sourceSha256": "db8eeb9597f3f286f7e4af428c4fc0f24c1ed365cb2ce5db53a2e4b98e132baf",
+      "updatedSha256": "a0b102efeb781514ed3f59ad1141036b4acb2f7706e9eaee38f527ec544b2e63",
+      "validated": true
+    },
+    {
+      "file": "well_test_monitoring_DULG-D_20261015.xlsx",
+      "tests": 141,
+      "statusCounts": {
+        "REJECTED": 12,
+        "ACCEPTED": 129
+      },
+      "allocationCounts": {
+        "N": 64,
+        "Y": 77
+      },
+      "sourceSha256": "c12eb0764739ba267ca13ce308835a9e3f17c4daec381aac2582fea18fb18e40",
+      "updatedSha256": "282549405afeed6c7d1bda4e457dd038be7f5157ea0a126ef7d0a5e824b6d5ca",
+      "validated": true
+    }
+  ]
+}

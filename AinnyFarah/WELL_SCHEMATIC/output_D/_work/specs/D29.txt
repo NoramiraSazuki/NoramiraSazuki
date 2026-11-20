@@ -1,0 +1,50 @@
+WELL | D29 | 30 | image74.png + image75.png | WELL NAME: DULANG D-29 (LOCATION : DULANG)
+SRC | 30 | image74.png (upper) + image75.png (lower) | visual transcription of the pictures (x3 upscale), OCR cross-check
+DATUM | m MD RKB (column headers 'DEPTH MD m RKB')
+INFO | completionDate | 01-May-12
+INFO | rig | KM-1
+INFO | maxDeviation | 75.47 deg @ 2834 m MD/ 1413 m TVD
+INFO | tubing | 3-1/2" 13 Cr 9.2 PPF & 2-7/8" 13Cr 6.4 PPF Inner String; 6-1/8" Open Hole wt 125 micron 4-1/2" 12.6 PPF PGAM Screen
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree
+INFO | completionFluid | (LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — Tubing String (OIL PRODUCER); single string
+TUBING | 3-1/2" 13 Cr 9.2 PPF | 3.5 | 9.2 | 13 Cr | - |
+TUBING | 2-7/8" 13Cr 6.4 PPF Inner String | 2.875 | 6.4 | 13Cr | inner |
+ROW | X | FLOW COUPLING | 240 |  | 2.880 | 3.920 |  |  | a1
+ROW | X | TRSSSV | 241 |  | 2.813 | 5.030 |  |  | a1
+ROW | X | FLOW COUPLING | 242 |  | 2.880 | 3.920 |  |  | a1
+ROW | X | 3-1/2" SPM | 481 |  | 2.880 | 6.000 |  |  | a2
+ROW | X | 3-1/2" SPM | 857 |  | ?2.880 | ?6.000 |  | MIN ID / MAX OD printed between rows (shared by the SPM group) | a2
+ROW | X | 3-1/2" SPM | 1230 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" SPM | 1603 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" SPM | 1965 |  | ?2.880 | ?6.000 |  | as above | a2
+ROW | X | 3-1/2" Orifice | 2319 |  | 2.880 | 6.000 |  |  | a2
+ROW | X | PDG | 2366 |  |  |  |  | permanent downhole gauge | a2
+ROW | X | 3-1/2" SSD | 2374 |  | 2.813 | 4.550 | CLOSE |  | a2
+ROW | X | 7" x 3-1/2" AHC Packer | 2381 |  | 2.900 | 5.960 |  |  | a2
+ROW | X | 3-1/2" XN-Nipple | 2385 |  | 2.666 | 3.893 |  |  | a2
+ROW | X | 3.25" Self Aligning Muleshoe | 2590 |  |  |  |  | end of the 3-1/2" upper string | b1
+ROW | X | 3-1/2" No-Go Locator |  |  |  |  |  | no depth printed | b1
+ROW | Lw | 4-1/2" x 7" VTA Packer | 2590 |  | 3.880 | 6.000 |  |  | b1
+ROW | Lw | 3 Way Sub : 4-1/2"x 4-1/2"x 2-7/8" Box X Pin X Pin |  |  | 3.250 | 5.250 |  | no depth printed | b1
+ROW | Lw | Oil Swell Packer | 2655 | 2658 | 3.958 | 5.600 |  | depth range '2655 - 2658' | b1
+ROW | X | 2-7/8" SLIM SSD Inner String | 2663 |  | 2.313 | 3.220 | OPEN |  | b1
+ROW | Lw | 4-1/2 Premium Screns (1 jt 30 ft) |  |  | 3.894 | 5.860 |  | in the E10-11 box, no depth | b1
+ROW | X | No-Go Locator Inner String |  |  | 2.410 | 4.210 |  | no depth printed | b1
+ROW | X | 3.25" SEAL ASSY Inner String | 2668 |  | 2.350 | 3.290 |  |  | b1
+ROW | Lw | Oil Swell Packer | 2700 | 2703 | 3.958 | 5.500 |  | depth range '2700 - 2703' | b1
+ROW | X | 3.22" SLIM XN-Nipple Inner String | 2720 |  |  |  |  |  | b1
+ROW | X | 3.22" Self Aligning Muleshoe Inner String | 2721 |  | 2.360 | 3.220 | OPEN | end of the inner string | b1
+ROW | Lw | 4-1/2 Premium Screns (1 jt 30 ft) |  |  |  |  |  | in the E12-13A box, no depth | b2
+FLOAT | Double Valve Float Shoe | 2723 | MD m RKB | Double Valve Float Shoe 2723 (MIN ID 'TBA', MAX OD 5.520)
+SHOE | SHOE 2622 m MDDF 1351 m TVD DF | 2622 | MDDF | 1351 | SHOE 2622 m MDDF / 1351 m TVD DF (7" casing shoe; size not printed)
+CEMENT | TOC | 2725 |  | MD m RKB | TOC 2725 (cement drawn below; bottom not printed)
+ZONE | E10-11 | 2660 | 2665 | MDDF | E10-11 MD: 2660-2665 m MDDF TVD: 1364 - 1365 mRKB | b1 | interval
+ZONE | E12-13A | 2717 | 2725 | MDDF | E12-13A MD: 2717-2725 m MDDF TVD: 1378 - 1383.4 mRKB | b2 | interval
+TD | 2855 | MDDF | TD : 2855 m MDDF (diagram 'TD 2855')
+NOTE | picture header | WATER DEPTH : 74.22 M; TUBING HANGER : 20 meter; DRILL IN FLUID 10.2 ppg Size Salt OPTA-FLO Drill in Fluid (DIF); ENZYME BREAKER 10.2 ppg Formate based fluid enzyme breaker
+NOTE | slide 30 obj #7/#14 | depth labels added over the picture: '2635-2638 2643' and '2648 2680-2683' (no equipment names); slide notes 'CTU SCO / De-commingle E12'
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC — treated as the well's schematic; zones in MD m MDDF / TVD m RKB while equipment is MD m RKB — datums kept as printed, zone TVD not mapped
+ISSUE | Unclear | slide 30 | slide labels '2635-2638 2643' and '2648 2680-2683' differ from the picture depths (2655-2658, 2663, 2700-2703) — later re-spacing? not merged, listed as notes
+ISSUE | Missing | picture | PBTD not printed; casing sizes not given in the header

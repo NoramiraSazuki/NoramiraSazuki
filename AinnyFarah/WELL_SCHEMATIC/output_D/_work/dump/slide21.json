@@ -1,0 +1,157 @@
+{
+ "slide": 21,
+ "file": "slides/slide21.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n20",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6159362",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 0,
+   "cx": 6858000,
+   "cy": 9829800,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.0,
+    69.47,
+    99.23
+   ],
+   "image": "../media/image57.png",
+   "crop": {
+    "l": "31259",
+    "t": "10006",
+    "r": "30821",
+    "b": "6160"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Rectangle 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8953499,
+   "y": 9498456,
+   "cx": 3166175,
+   "cy": 217044,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.84,
+    95.89,
+    68.82,
+    98.08
+   ],
+   "text": "UPDATED JAN 2024 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Oval 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "OP",
+   "geom": "ellipse",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "TextBox 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4589386,
+   "y": 7543800,
+   "cx": 861010,
+   "cy": 608711,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.06,
+    76.15,
+    30.95,
+    82.3
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8077200,
+   "y": 4023360,
+   "cx": 2872740,
+   "cy": 259080,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.87,
+    40.62,
+    62.18,
+    43.23
+   ],
+   "text": "",
+   "geom": "rect"
+  }
+ ]
+}

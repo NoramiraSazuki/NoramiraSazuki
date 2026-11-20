@@ -1,0 +1,335 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A15",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a15-01",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 9166.667,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2794.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 2794 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2794 m -> 9166.667 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-02",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 9540.355,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2907.9,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 2907.9 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 2907.9 m -> 9540.355 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-03",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 2427.165,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 739.8,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 739.8 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 739.8 m -> 2427.165 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-04",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 4163.714,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1269.1,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1269.1 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1269.1 m -> 4163.714 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-05",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 4135.171,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1260.4,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1260.4 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1260.4 m -> 4135.171 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-06",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 5113.189,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1558.5,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1558.5 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1558.5 m -> 5113.189 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-07",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 5073.491,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1546.4,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1546.4 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1546.4 m -> 5073.491 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-08",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 5616.798,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1712.0,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1712.0 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1712.0 m -> 5616.798 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-09",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 5583.99,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1702.0,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'SPM' @ 1702.0 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1702.0 m -> 5583.99 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-10",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6020.998,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1835.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 1835.2 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1835.2 m -> 6020.998 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-11",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6020.998,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1835.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 1835.2 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1835.2 m -> 6020.998 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-12",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 6043.963,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1842.2,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'PKR' @ 1842.2 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1842.2 m -> 6043.963 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-13",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 6129.265,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1868.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 12: 'SSD' @ 1868.2 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1868.2 m -> 6129.265 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-14",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 6129.265,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1868.2,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 12: 'SSD' @ 1868.2 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1868.2 m -> 6129.265 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-15",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6222.441,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1896.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 1896.6 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1896.6 m -> 6222.441 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-16",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 6246.391,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1903.9,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'PKR' @ 1903.9 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1903.9 m -> 6246.391 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-17",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6256.234,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1906.9,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 1906.9 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1906.9 m -> 6256.234 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-18",
+      "type": "sliding-sleeve",
+      "name": "SSD",
+      "topMd": 6261.811,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1908.6,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'SSD' is not literally a template type; nearest 'Sliding Sleeve'",
+      "source": "PDF page 12: 'SSD' @ 1908.6 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1908.6 m -> 6261.811 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-19",
+      "type": "landing-nipple",
+      "name": "NIPPLE",
+      "topMd": 6364.83,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1940.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'NIPPLE' is not literally a template type; nearest 'Landing Nipple'",
+      "source": "PDF page 12: 'NIPPLE' @ 1940.0 (read identically in OCR passes bc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1940.0 m -> 6364.83 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-20",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 6364.83,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1940.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "label 'CENTRALIZER' is not literally a template type; nearest 'Pup Joint'",
+      "source": "PDF page 12: 'CENTRALIZER' @ 1940.0 (read identically in OCR passes abc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 1940.0 m -> 6364.83 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a15-21",
+      "type": "packer",
+      "name": "PKR",
+      "topMd": 1624.016,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 495.0,
+      "bottomMdM": null,
+      "source": "PDF page 12: 'PKR' @ 495 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 495 m -> 1624.016 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

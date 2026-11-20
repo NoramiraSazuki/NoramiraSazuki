@@ -1,0 +1,40 @@
+# slide 26 (slides/slide26.xml) hidden=False objects=22
+# notes: 'Open\n25'
+[pic id=6164482 'Picture 2' pct=[30.53, 3.08, 69.47, 94.62] hidden=False img=../media/image68.png]
+[sp id=17 'Rectangle 16' pct=[30.91, 41.5, 35.67, 46.88] hidden=False]
+    OPEN
+[sp id=21 'Rectangle 20' pct=[62.98, 32.02, 68.75, 37.47] hidden=False]
+    Nov’10
+    SPM#1 GLOV 
+    SPM#2 DV
+[sp id=24 'Rectangle 23' pct=[30.91, 30.31, 37.83, 37.47] hidden=False]
+    Apr’06
+    SPM#1 GLOV 
+    SPM#2 DV
+    SPM#3 DV (assumption)
+[sp id=27 'Oval 26' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=28 'TextBox 27' pct=[64.12, 79.24, 69.01, 85.38] hidden=False]
+    OPENED
+[sp id=29 'TextBox 28' pct=[64.22, 62.77, 69.1, 65.47] hidden=False]
+    OPENED
+[sp id=30 'TextBox 29' pct=[30.78, 40.73, 35.67, 46.88] hidden=False]
+    OPENED
+[sp id=55 'TextBox 54' pct=[27.36, 24.4, 35.82, 29.74] hidden=False]
+    CSA Plug @ TRSV profile (Dec 2020). TR flapper lock open Mar 2017
+[sp id=57 'TextBox 56' pct=[29.06, 37.39, 35.96, 40.94] hidden=False]
+    MA Plug @ SSD#1 (Dec 2020)
+[sp id=60 'TextBox 59' pct=[65.58, 23.38, 74.04, 28.72] hidden=False]
+    CSA Plug @ TRSV profile (Dec 2020). TR flapper lock open Mar 2017
+[sp id=61 'TextBox 60' pct=[65.53, 29.53, 74.14, 33.42] hidden=False]
+    MA Plug @ WP1 Nipple (Dec 2020)
+[sp id=6 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=4 'Rectangle 3' pct=[31.95, 90.58, 68.6, 93.09] hidden=False]
+    UPDATED APR 2024 BY PRAVIN NAIR
+[sp id=2 'TextBox 1' pct=[65.48, 51.11, 77.12, 55.58] hidden=False]
+    Leak detected @ 2906m MDTHF during PLT (Aug 2016) 
+[pic id=3 'Graphic 2' pct=[49.43, 77.75, 50.63, 79.89] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[pic id=7 'Graphic 6' pct=[49.37, 52.96, 50.57, 55.09] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=8 'TextBox 7' pct=[62.25, 72.86, 75.43, 77.64] hidden=False]
+    Unable to re-set CA plug. Suspect the profile worn out (Feb 2017)

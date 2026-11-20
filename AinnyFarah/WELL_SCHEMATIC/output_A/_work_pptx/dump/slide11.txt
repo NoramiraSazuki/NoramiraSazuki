@@ -1,0 +1,21 @@
+# slide 11 (slides/slide11.xml) hidden=False objects=8
+# notes: 'Open\n11'
+[pic id=10244 'Picture 4' pct=[3.33, 2.69, 96.67, 92.69] hidden=False img=../media/image25.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 98.09, 4.87] hidden=False]
+    FB – S3
+[sp id=6 'TextBox 5' pct=[75.45, 0.48, 85.13, 4.52] hidden=False]
+    GIGP
+[sp id=5 'TextBox 4' pct=[88.89, 96.97, 100.0, 100.0] hidden=False]
+    Jan/2013
+[sp id=7 'Rectangle 6' pct=[3.33, 65.83, 40.36, 68.94] hidden=False]
+    E-7
+    2332- 2357
+[sp id=11 'TextBox 3' pct=[1.09, 1.21, 33.42, 3.73] hidden=False]
+    Latest Update: Sep 2023 by Pravin Nair
+[sp id=14 'Text Box 289' pct=[56.76, 93.79, 100.0, 97.83] hidden=False]
+    LAST ENTRY	: 19 Jun 2016
+    TYPE OF JOB	: A-14S : MIT
+    UPDATED BY	: Wong Kian Wai
+    DATE	: 4 Feb 2018
+[sp id=13 'Footer Placeholder 12' pct=None hidden=False]
+    Open

@@ -1,0 +1,28 @@
+# slide 28 (slides/slide28.xml) hidden=False objects=19
+# notes: 'Open\n28'
+[pic id=12289 'Picture 1' pct=[3.33, 1.67, 96.67, 58.51] hidden=False img=../media/image67.png]
+[pic id=12290 'Picture 2' pct=[3.33, 57.99, 96.67, 91.67] hidden=False img=../media/image68.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 98.09, 4.87] hidden=False]
+    FB – S2
+[sp id=7 'TextBox 6' pct=[0.42, 65.67, 14.27, 70.05] hidden=False]
+    OPEN
+    13/MAR/1994
+[sp id=8 'TextBox 7' pct=[66.03, 84.21, 79.87, 88.58] hidden=False]
+    OPEN
+    13/MAR/1994
+[sp id=10 'TextBox 3' pct=[1.09, 1.21, 27.06, 3.56] hidden=False]
+    Latest Update: PRAVIN AUG 2023
+[sp id=11 'Rectangle 10' pct=[7.41, 29.91, 19.91, 33.82] hidden=False]
+     IV @ TRSV. TR Flapper lock open Oct 2016
+[sp id=12303 'TextBox 12302' pct=[60.78, 58.53, 95.67, 61.89] hidden=False]
+    Multiple leak points (MPLT May 2023) @ 2698, 2737, 2795, 2804, 2809m MDTHF
+[sp id=2 'TextBox 1' pct=[35.46, 57.08, 42.41, 59.44] hidden=False]
+    2722.5
+[sp id=14 'TextBox 13' pct=[35.46, 58.75, 42.41, 61.11] hidden=False]
+    2723.5
+[sp id=20 'TextBox 19' pct=[57.22, 41.5, 87.44, 43.69] hidden=False]
+    Leak point (MPLT May 2023) @ 777m MDTHF
+[sp id=28 'TextBox 27' pct=[17.67, 40.05, 44.75, 43.42] hidden=False]
+    Multiple leak points (MPLT May 2023) @ 336m, 358m, 388m, 410m MDTHF
+[sp id=16 'Footer Placeholder 15' pct=None hidden=False]
+    Open

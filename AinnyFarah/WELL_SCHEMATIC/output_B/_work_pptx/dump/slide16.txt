@@ -1,0 +1,275 @@
+# slide 16 (slides/slide16.xml) hidden=False objects=152
+# notes: 'Open\n16'
+[sp id=299 'TextBox 2' pct=[1.74, 0.68, 25.81, 4.66] hidden=False]
+    LAST UPDATE: MAY 2023 BY PRAVIN NAIR
+[pic id=155 'Picture 127' pct=[28.23, 78.66, 45.7, 81.65] hidden=False img=../media/image10.png]
+[pic id=156 'Picture 128' pct=[30.89, 78.8, 42.32, 81.54] hidden=False img=../media/image10.png]
+[pic id=157 'Picture 82' pct=[27.79, 67.86, 45.31, 70.88] hidden=False img=../media/image10.png]
+[pic id=158 'Picture 80' pct=[27.84, 60.99, 45.33, 63.99] hidden=False img=../media/image10.png]
+[sp id=160 'Text Box 4' pct=[47.96, 8.3, 74.36, 13.45] hidden=False]
+    Date	    : 15 January 2002
+    All Depth in	    : m-MDDF
+    RKB	    : 37.3m (to sea level)
+    RKB-THF                                         :  21.19m
+    Max Deviation                              :80.18 @ 1626m-MDDF
+[sp id=161 'Text Box 5' pct=[11.02, 8.35, 43.67, 13.58] hidden=False]
+    Well No. 	: B-16ST3
+    Location	: BB
+    Wellhead 	: Cooper cameron, 3-1/8",3000 psi
+    Tubing	: 2 7/8", 6.4ppf, L-80,  Vam Ace
+[sp id=162 'Text Box 6' pct=[29.37, 4.02, 78.52, 8.87] hidden=False]
+    DULANG UNIT REVISIT I
+     B-16ST3 WELL COMPLETION DIAGRAM
+[sp id=163 'Text Box 7' pct=[80.1, 20.09, 84.37, 90.48] hidden=False]
+    
+    2.313
+    
+    
+    2.313
+    
+    2.441
+    
+    
+    2.441
+    
+    
+    2.441
+    
+    2.441
+    
+    
+    
+    
+    
+    
+    
+    
+    2.441
+    
+    3.880
+    
+    
+    
+    
+    
+    
+    
+    3.250
+    2.313
+    
+    
+    
+    3.250
+    2.250
+    2.441
+[sp id=164 'Rectangle 8' pct=[6.75, 67.94, 29.78, 71.55] hidden=False img=../media/image11.png descr='50%']
+[sp id=170 'Text Box 14' pct=[80.64, 14.29, 84.31, 19.14] hidden=False]
+    MIN
+    I.D
+    (IN)
+[sp id=171 'Text Box 15' pct=[86.87, 14.26, 91.1, 19.11] hidden=False]
+    MAX
+    O.D
+    (IN)
+[sp id=172 'Text Box 16' pct=[46.73, 15.02, 59.36, 18.04] hidden=False]
+    SINGLE  STRING
+[sp id=174 'Text Box 18' pct=[47.16, 20.57, 69.09, 22.15] hidden=False]
+    FLOW COUPLING
+[sp id=175 'Text Box 19' pct=[47.41, 21.85, 58.42, 23.49] hidden=False]
+    TR-SC-SSSV
+[sp id=176 'Text Box 20' pct=[47.3, 27.84, 67.02, 31.01] hidden=False]
+    SPM # 3
+    (W / IPO 8/64 - 845 psi)
+[sp id=177 'Text Box 21' pct=[44.9, 66.58, 71.49, 68.27] hidden=False]
+    SLIMLINE SSD#1 (STIFF OPEN 2023)
+[sp id=178 'Text Box 22' pct=[48.29, 82.63, 63.61, 84.27] hidden=False]
+    7" Liner Shoe
+[sp id=182 'Text Box 26' pct=[72.51, 14.78, 78.5, 19.62] hidden=False]
+    DEPTH
+    (m)
+    MDDF
+[sp id=183 'Rectangle 27' pct=[32.43, 89.79, 41.19, 91.1] hidden=False img=../media/image12.png descr='Wide upward diagonal']
+[pic id=184 'Picture 28' pct=[35.43, 52.12, 37.44, 53.19] hidden=False img=../media/image13.png]
+[pic id=185 'Picture 29' pct=[35.75, 36.78, 37.44, 38.25] hidden=False img=../media/image14.png]
+[pic id=186 'Picture 30' pct=[35.73, 28.31, 37.33, 29.77] hidden=False img=../media/image14.png]
+[pic id=187 'Picture 31' pct=[35.84, 32.67, 37.46, 34.13] hidden=False img=../media/image14.png]
+[pic id=188 'Picture 32' pct=[35.73, 22.45, 37.44, 23.21] hidden=False img=../media/image15.png]
+[pic id=189 'Picture 33' pct=[35.73, 25.86, 37.31, 26.56] hidden=False img=../media/image16.png]
+[pic id=190 'Picture 34' pct=[35.88, 21.36, 37.05, 22.42] hidden=False img=../media/image17.png]
+[pic id=191 'Picture 35' pct=[36.66, 13.44, 38.11, 22.49] hidden=False img=../media/image18.png]
+[sp id=194 'Text Box 38' pct=[47.04, 31.98, 67.28, 36.8] hidden=False]
+    SPM # 2 
+    (W / IPO 12/64 - 885 psi)
+[sp id=195 'Text Box 39' pct=[47.57, 36.15, 66.48, 39.33] hidden=False]
+    SPM # 1
+    (W / GLOV 16/64)
+[sp id=196 'Rectangle 40' pct=[6.75, 60.73, 29.85, 63.55] hidden=False img=../media/image11.png descr='50%']
+[sp id=197 'Text Box 41' pct=[9.07, 61.71, 26.54, 62.63] hidden=False]
+    E 12/13 (2760-2784) (FB S3; WIR)
+[sp id=198 'Rectangle 42' pct=[6.75, 78.04, 29.85, 82.44] hidden=False img=../media/image11.png descr='50%']
+[sp id=199 'Text Box 43' pct=[9.09, 69.43, 25.11, 70.34] hidden=False]
+    E 14  (2806-2846) (FB S3; WIR)
+[pic id=200 'Picture 44' pct=[35.75, 75.21, 36.66, 75.64] hidden=False img=../media/image19.png]
+[pic id=201 'Picture 45' pct=[35.59, 74.61, 37.05, 75.32] hidden=False img=../media/image20.png]
+[sp id=202 'Rectangle 46' pct=[6.71, 84.02, 31.92, 87.64] hidden=False img=../media/image11.png descr='20%']
+[pic id=203 'Picture 47' pct=[30.89, 84.08, 42.32, 86.8] hidden=False img=../media/image10.png]
+[sp id=204 'Text Box 48' pct=[9.6, 84.38, 27.12, 87.1] hidden=False]
+    E 32 (FB S3; NDR)
+    (3160-3170)
+[sp id=205 'Text Box 49' pct=[47.57, 25.43, 55.9, 27.09] hidden=False]
+    X NIPPLE
+[sp id=206 'Text Box 50' pct=[44.57, 73.77, 70.52, 75.46] hidden=False]
+    XN NO GO NIPPLE
+[sp id=207 'Text Box 51' pct=[47.1, 23.32, 69.68, 24.91] hidden=False]
+    FLOW COUPLING
+[pic id=208 'Picture 52' pct=[35.88, 23.28, 37.05, 24.33] hidden=False img=../media/image17.png]
+[sp id=219 'Text Box 63' pct=[50.61, 49.1, 71.28, 51.25] hidden=False]
+    9-5/8" Casing Shoe
+[pic id=236 'Picture 81' pct=[35.43, 66.46, 37.17, 67.66] hidden=False img=../media/image13.png]
+[sp id=264 'Text Box 111' pct=[44.57, 54.36, 70.48, 56.02] hidden=False]
+    7" BWD PKR 4.5" x 3.88" Bore
+[sp id=265 'Text Box 112' pct=[7.32, 55.41, 30.36, 57.08] hidden=False]
+    4-1/2" L-80 LCT B-P Blank
+[sp id=266 'Text Box 113' pct=[45.68, 61.98, 68.82, 63.64] hidden=False]
+    4" P110 NU B-P WWS 8 ga
+[sp id=267 'Text Box 114' pct=[44.45, 64.83, 70.42, 66.47] hidden=False]
+    7" BWD PKR 4.5" x 3.88" Bore
+[sp id=268 'Text Box 115' pct=[7.22, 65.84, 30.3, 67.55] hidden=False]
+    4-1/2" L-80 LCT B-P Blank
+[sp id=269 'Text Box 116' pct=[45.29, 70.31, 68.43, 72.02] hidden=False]
+    4" J-55 NU B-P WWS 8 ga
+[sp id=280 'Text Box 129' pct=[45.54, 89.6, 64.94, 91.26] hidden=False]
+    4-1/2" Liner Shoe
+[sp id=283 'Text Box 132' pct=[8.18, 78.17, 28.68, 82.15] hidden=False]
+    E 23 (FB S3; NDR)
+    (3060-3070)
+    (3100-3110)
+[pic id=284 'Picture 133' pct=[26.61, 42.59, 46.48, 45.29] hidden=False img=../media/image21.png]
+[pic id=285 'Picture 134' pct=[35.43, 40.15, 37.44, 41.2] hidden=False img=../media/image13.png]
+[sp id=286 'Text Box 135' pct=[48.0, 39.9, 67.49, 41.92] hidden=False]
+     SSD#3 (CLOSED)
+[sp id=287 'Text Box 136' pct=[46.52, 43.04, 68.0, 44.99] hidden=False]
+    9-5/8" BHR HYD PKR
+[sp id=288 'Text Box 137' pct=[45.72, 51.77, 70.01, 53.46] hidden=False]
+     SSD#2 (CLOSED)
+[sp id=289 'Text Box 138' pct=[48.14, 46.22, 55.41, 47.9] hidden=False]
+    7" TOL
+[sp id=290 'Text Box 139' pct=[45.54, 77.62, 56.18, 79.29] hidden=False]
+    4-1/2" TOL
+[sp id=291 'Text Box 140' pct=[45.68, 88.13, 53.19, 89.79] hidden=False]
+    PBTD
+[sp id=292 'Text Box 141' pct=[7.53, 72.81, 31.02, 74.41] hidden=False]
+    3.25"  Seal Bore Assembly
+[sp id=293 'Text Box 142' pct=[7.65, 64.62, 31.14, 66.23] hidden=False]
+    3.25"  Seal Bore Assembly 
+[sp id=295 'Text Box 144' pct=[45.03, 72.34, 70.97, 74.0] hidden=False]
+    7" BWD PKR 4.5" x 3.88" Bore                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+[sp id=296 'Text Box 145' pct=[86.36, 20.09, 90.63, 90.66] hidden=False]
+    
+    4.650
+    
+    
+    4.650
+    
+    4.375
+    
+    
+    4.375
+    
+    
+    4.375
+    
+    4.375
+    
+    
+    
+    
+    
+    
+    
+    
+    4.175
+    
+    5.875
+    
+    
+    
+    
+    
+    
+    
+    5.875
+    3.210
+    
+    
+    
+    5.875
+    3.175
+    3.175
+[sp id=297 'Text Box 146' pct=[72.53, 19.85, 77.5, 92.92] hidden=False]
+    
+    155
+    
+    
+    289
+    
+    654
+    
+    
+    1127
+    
+    
+    1629
+    
+    1637
+    
+    
+    1645
+    
+    1657
+    
+    1857
+    
+    2703
+    
+    2727
+    
+    
+    
+    
+    
+    
+    
+    2790
+    2795
+    
+    
+    
+    2852
+    2860
+    2889
+    
+    3001
+    
+    
+    
+    3121
+    
+    
+    
+    3189
+    3223
+[sp id=298 'Text Box 147' pct=[44.9, 75.34, 55.55, 77.03] hidden=False]
+    EOT
+[sp id=318 'TextBox 317' pct=[14.15, 74.18, 33.82, 78.32] hidden=False]
+    Tubing full cut at 2857m MDDF (May 2023) due to unable to retrieve stiff PXN plug body at no-go nipple
+[sp id=328 'TextBox 327' pct=[2.07, 61.16, 8.86, 63.15] hidden=False]
+    CLOSED
+[sp id=330 'TextBox 329' pct=[3.25, 69.05, 8.76, 71.04] hidden=False]
+    OPEN
+[sp id=332 'TextBox 331' pct=[3.74, 79.14, 9.26, 81.13] hidden=False]
+    OPEN
+[sp id=333 'TextBox 332' pct=[3.74, 84.6, 9.26, 86.6] hidden=False]
+    OPEN
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open

@@ -1,0 +1,42 @@
+WELL | B25ST4 | 25 | image25.png | WELL NAME: B25 ST-4 (LOCATION / SLOT: DULANG B PLATFORM /SLOT 25)
+SRC | 25 | image25.png | visual transcription of a low-resolution picture (726x788 px, x3 upscale), OCR cross-check
+DATUM | m MDDF (column 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')
+INFO | completionDate | 11-Aug-22
+INFO | rig | Sapura T9 (TADR)
+INFO | maxDeviation | ?61.96 deg (blurred)
+INFO | wellhead | Solar Alert
+INFO | xmas | Solar Alert 3-1/8" 5K U/HH Trim
+INFO | completionFluid | 8.5ppg Brine (8.33 ppg DW + 3% KCl) filtered to 30 NTU
+INFO | packerFluid | 8.5ppg Brine (8.33 ppg DW + 3% KCl) + 0.2% Biocide + 2% Oxygen Scavenger + 2% Corrosion Inhibitor
+INFO | tubing | PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR 249.40 m-MDDF; PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR 2051.50 m-MDDF
+INFO | completionType | FINAL WELL COMPLETION SCHEMATIC (OIL PRODUCER #1) — Rev: Final, 11-Aug-22
+CASINGX | INTERMEDIATE CASING 9-5/8 40 ppf N-80 BTC | 9.625 | 8.835 | 40 | N-80 | 1000.00 | MDDF
+CASINGX | PRODUCTION CASING #1 7 29 ppf L80 VAMTOP HT (7" 29# L80 VAMTOP HT R3 CSG) | 7.000 | 6.184 | 29 | L80 | 500.00 | MDDF
+CASINGX | PRODUCTION CASING #2 7 29 ppf 13Cr-L80 JFE BEAR (7" 29# 13CR-80MY JFE BEAR R3 CSG) | 7.000 | 6.184 | 29 | 13Cr-L80 | 2155.00 | MDDF
+TUBINGX | PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR | 3.500 | 2.992 | 9.2 | HP2-13Cr-95 | - | 249.40 MDDF
+TUBINGX | PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR | 3.500 | 2.992 | 9.2 | 13Cr-L80 | - | 2051.50 MDDF
+ROW | X | TUBING HANGER, 13-5/8" x 5"-3SA-2G LH x 3-1/2" 9.2# JFEBEAR, w/ 3" HBPV PROFILE | 15.3 |  | 2.950 | 13.470 |  | m-TVDDF 15.3; INC 0.00 | right table
+ROW | X | FLOW COUPLING, 3-1/2", S13CR, JFEBEAR | ?249.4 |  | 2.992 | 3.883 |  | one depth printed for the FC / SCSSV / FC group (TVDDF 246.2, INC 16.00) | right table
+ROW | X | SCSSV, SELF-EQ, 3-1/2", S13CR, JFEBEAR |  |  | 2.813 | 5.000 |  | no own depth (group depth 249.4) | right table
+ROW | X | FLOW COUPLING, 3-1/2", 13CR, JFEBEAR |  |  | 2.992 | 3.883 |  | no own depth | right table
+ROW | Lw | Swell Packer #2 | ?489.0 |  |  |  |  | TVDDF 461.0 (on the 7" casing, outside the tubing) | right table
+ROW | Lw | Swell Packer #1 | ?684.0 |  |  |  |  | TVDDF 630.3 | right table
+ROW | X | SPM, 3-1/2" 13CR JFEBEAR | ?868.0 |  | 2.992 | 5.313 | (GLV 8/64 PTRO: 1025 psi) | TVDDF 751.5; INC 42.00 | right table
+ROW | X | SPM, 3-1/2", 13CR JFEBEAR | ?1479.2 |  | 2.992 | 5.313 | (GLV 8/64 PTRO: 980 psi) | TVDDF 1022.6; INC 79.00 | right table
+ROW | X | SPM, 3-1/2", 13CR JFEBEAR | ?1875.0 |  | 2.992 | 5.313 | (Orifice 12/64) | TVDDF 1140.7; INC 67.90 | right table
+ROW | X | SLIMLINE SSD, 3-1/2", 13CR JFEBEAR | ?1964.1 |  | 2.813 | 4.200 |  | TVDDF 1181.4 | right table
+ROW | X | 7" X 3-1/2" BLUEPACK PACKER, V3 RATING, 13CR JFEBEAR HYDRAULIC SET, PULL-TO-RELEASE | ?2002.4 |  | 2.919 | 5.994 |  | TVDDF 1188.1 | right table
+ROW | X | 2.813" X- LANDING NIPPLE | ?2009.8 |  | 2.813 | 4.040 |  | TVDDF 1190.9 | right table
+ROW | X | SELF-FILLING SUB, 3-1/2", 13CR JFE BEAR | ?2025.3 |  | 2.880 | 4.930 |  | TVDDF 1196.5 | right table
+ROW | X | i-MAGNUM DISC, 3-1/2", 13CR JFE BEAR | ?2030.7 |  | 2.920 | 5.000 |  | TVDDF 1198.5 | right table
+ROW | X | 2.750" XN NIPPLE, 3-1/2", 13CR JFE BEAR | ?2048.5 |  | 2.635 | 4.000 |  | TVDDF 1205.0 | right table
+ROW | X | SELF ALIGNING MULE SHOE, 3-1/2", 13CR JFE BEAR | ?2051.5 |  | 3.015 | 3.960 |  | (end of string); TVDDF 1206.0; matches PRODUCTION TUBING #2 depth 2051.50 | right table
+ROW | Lw | ANNULAR BARRIER PACKER | ?2087.2 |  |  | 8.250 |  | left table (MAX OD 8.250); TVDDF 1218.7 | left table
+ZONE | DL1 SAND | 2055 | 2057 | MDDF | DL1 SAND Top Sand: 2033.5m-MDDF / 1199.5 m-TVDDF; Top Perf: 2055 m-MDDF/ 1207 m-TVDDF; Bottom Perf: 2057 m-MDDF/ 1208 m-TVDDF; Bottom Sand: 2084.1 m-MDDF /1217.56 m-TVDDF; Perf interval: 2 meters; Sand Thickness: 50.6 meters; BHP: 1250 psi, BHT: 194.7deg F | left table | perf
+PBTD | 2113.0 | MDDF | PBTD 2113.0 (TVDDF 1228.6; header PBTD : 2113 m-MDDF)
+TD | 2155 | MDDF | TOTAL DEPTH : 2155 m-MDDF
+NOTE | left table | 13-3/8" 54.5# K55, BTC CSG / 9-5/8" CSG SIDE TRACK WINDOW 515 m-MDDF / 481 m-TVDDF (INC 40.0); 7" CASING PIP TAG 1893 m-MDDF / 1147 m-TVDDF; 7" 29# 13CR-80MY JFE BEAR R3 CSG row at 1651 m-MDDF / 1064 m-TVDDF (INC 73.0; position label on the casing); 'Estimated top of dropped gun' 2099.0 m-MDDF; 'Rathole (DL1 bottom sand to PBTD): 29 m MDDF'; 'Resin Consolidation & Screenless Frac Pack with Resin-Coated Proppant'; DL1 sand top 2033.5 / bottom 2084.1 m-MDDF (sand interval, not mapped as a zone — only the perforation interval is)
+NOTE | picture header | WATER DEPTH : 76.7 m; DFE : 37.1 m-AMSL; DFE-THF : 15.3 m; drift diameters: intermediate 8.679, production casings 6.059, tubing 2.867; Designed by: Diana Madi (Senior Completion Engineer), Daeng Dhamiry (Completion Engineer), Mohd Hisham (Production Technologist); Rev: Final; Date: 11-Aug-22
+NOTE | slide 25 | 'FOR B25 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS - PRAVIN NAIR 2023-'; slide notes 'Updated by Pravin on 11th July 2022'
+ISSUE | Unclear | picture | low-resolution picture: equipment depths and maximum deviation read with low confidence (marked '?'); ID/OD columns readable — a higher-resolution source (Excel in ECMS, per the slide note) should be checked
+ISSUE | Unclear | slide 25 | slide notes say the latest editable diagram is an Excel file in ECMS (not part of this input) — this picture may not be the latest revision

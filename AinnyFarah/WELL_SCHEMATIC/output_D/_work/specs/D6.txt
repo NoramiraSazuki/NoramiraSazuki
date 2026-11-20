@@ -1,0 +1,75 @@
+WELL | D6 | 6 | image23.png | WELL D-06 :DUAL OIL PRODUCER WITH SHORT STR. AND LONG STR. SELECTIVE
+SRC | 6 | image23.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 18 NOVEMBER, 1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 2-7/8" 6.4 PPF N-80 TKC4040
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.3 PPG 3% + NaCl BRINE TREATED WITH 30 GALS. KORROGARD 6500 PER 100 bbls BRINE
+INFO | rte | 14.93 m
+INFO | maxDeviation | 64.0 DEG.@658m-MDTHF
+INFO | completionType | DUAL OIL PRODUCER WITH SHORT STR. AND LONG STR. SELECTIVE
+CASING | 18-5/8" COND. #1, X-56, 87.5 ppf @ m-MDDF | 18.625 | 87.5 | X-56 |  | MDDF
+CASING | 13-3/8" K-55 SURF., 54.5 ppf @ m-MDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9-5/8" N-80 PROD., 40 ppf, BUTT @ 2662.0 m-MDTHF | 9.625 | 40 | N-80 | 2662.0 | MDTHF
+TUBING | 2-7/8" 6.4 PPF N-80 TKC4040 | 2.875 | 6.4 | N-80 | Short |
+TUBING | 2-7/8" 6.4 PPF N-80 TKC4040 | 2.875 | 6.4 | N-80 | Long |
+ROW | S | FLOW COUPLING | 140.3 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 141.1 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 293.6 |  | 2.312 |  |  |  | p1
+ROW | S | KBMM-M SPM | 777.8 |  |  |  | DV 18/Aug/2005 | MIN ID column covered by the status box | p1
+ROW | S | KBMM-M SPM | 1349.1 |  |  |  | DV 10/Aug/2005 |  | p1
+ROW | S | KBMM-M SPM | 1691.3 |  |  |  | DV (Latch stopper) 11/Aug/2005 |  | p1
+ROW | S | KBMM-M SPM | 1957.1 |  |  |  | DV 26/Jul/2007 |  | p1
+ROW | S | KBMM-M SPM | 2080.8 |  |  |  | GLOV16/64" 26/Jul/2007 |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 2116.7 |  | 2.312 |  | CLOSED 27/04/2002 | printed deeper than the dual packer below (2109.9) — kept as printed | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 2109.9 |  | 2.441 |  |  | long side: PKR 4, RELEASE@40,000#. ABOVE TBG. WT., MIN ID 2.441 | p1
+ROW | S | TELESCOPIC JOINT | 2113.6 |  |  |  |  |  | p1
+ROW | S | CAMCO 'CSW-1-DT' SSD | 2116.7 |  | 2.312 |  | OPENED 17/Mar/2011 |  | p1
+ROW | S | WP-1 NIPPLE | 2127.9 |  | 2.312 |  |  |  | p2
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 2136.5 |  | 2.441 |  |  | long side: PKR 3, RELEASE@40000# ABOVE TBG. WT., MIN ID 2.441 | p2
+ROW | S | 'D' NO-GO NIPPLE | 2138.4 |  | 2.250 |  | OPENED 17/Mar/2011 |  | p2
+ROW | S | W/L ENTRY GUIDE | 2138.77 |  | 2.441 |  |  |  | p2
+ROW | S | EOT | 2142.9 |  | 2.441 |  |  |  | p2
+ROW | L | FLOW COUPLING | 150.3 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 151.2 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 303.4 |  | 2.312 |  |  |  | p1
+ROW | L | KBMM-M SPM | 787.7 |  |  |  | DV | MIN ID column covered by the status box | p1
+ROW | L | KBMM-M SPM | 1292.8 |  |  |  | DV |  | p1
+ROW | L | KBMM-M SPM | 1720.5 |  |  |  | UV |  | p1
+ROW | L | KBMM-M SPM | 1995.7 |  |  |  | GLOV 12/64" 28/Sept/2012 |  | p1
+ROW | L | KBMM-M SPM | 2091.2 |  |  |  | DV STIFF |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 2102.6 |  | 2.312 |  | CLOSED 27/04/2002 |  | p1
+ROW | L | CAMCO 'CSW-1-DT' SSD | 2116.7 |  | 2.312 |  | CLOSED 27/04/2002 |  | p1
+ROW | L | BLAST JOINT | 2117.9 | 2133.0 | 2.441 |  |  | depths at both ends of the bracket | p1
+ROW | L | WP-1 NIPPLE | 2134.0 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO 'CSW-1-DT' SSD | 2139.2 |  | 2.312 |  |  |  | p2
+ROW | L | BLAST JOINT | 2140.2 |  | 2.441 |  |  | bottom end of the bracket has no depth | p2
+ROW | L | WP-1 NIPPLE | 2176.4 |  | 2.312 |  |  |  | p2
+ROW | L | CAMCO 'HRP-4-SP' SINGLE HYD.PKR | 2178.1 |  | 2.441 |  |  | short-string column; long side PKR 2, RELEASE@32000# ABOVE TBG. WT. | p2
+ROW | L | CAMCO 'CSW-1-DT' SSD | 2185.7 |  | 2.312 |  | CLOSED 23/Oct/2007 |  | p2
+ROW | L | BLAST JOINT | 2189.4 |  | 2.441 |  |  | bottom end of the bracket has no depth | p2
+ROW | L | WP-1 NIPPLE | 2248.0 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 2253.7 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY | 2254.7 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 2255.0 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM. PKR. | 2256.0 |  | 2.441 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | SEAL BORE EXT. | 2256.9 |  | 2.441 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2258.5 |  | 2.250 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 2259.5 |  | 2.441 |  |  |  | p2
+ROW | L | EOT | 2259.7 |  | 2.441 |  | OPENED 23/Oct/2007 |  | p2
+SHOE | 9 5/8 CSG SHOE |  |  |  | label in the long-string column, no own depth (header 2662.0 m-MDTHF) | p2
+ZONE | E-2 | 2119.5 | 2132 | MDTHF | SAND : E-2 2119.5m - 2132 m-MDTHF | p1 | perf
+ZONE | E-6 | 2142.5 | 2160.5 | MDTHF | SAND : E-6 2142.5 m - 2160.5 m-MDTHF | p2 | perf
+ZONE | E-7 | 2163.3 | 2174.5 | MDTHF | SAND : E-7 2163.3 m - 2174.5 m-MDTHF | p2 | perf
+ZONE | E-10/11 | 2193.0 | 2202.5 | MDTHF | SAND : E-10/11 2193.0 m - 2202.5 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2207.5 | 2227.0 | MDTHF | SAND : E-12/13 2207.5 m - 2227.0 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2230.5 | 2240.5 | MDTHF | 2230.5 m - 2240.5 m-MDTHF | p2 | perf
+ZONE | E-12/13 | 2244.5 | 2248.5 | MDTHF | 2244.5 m - 2248.5 m-MDTHF | p2 | perf
+ZONE | E-14 | 2259.5 | 2274.5 | MDTHF | SAND : E-14 2259.5m - 2274.5 m-MDTHF | p2 | perf
+PBTD | 2634.0 | MDTHF | PBTD@2634.0m-MDTHF
+TD | 2662.0 | MDTHF | TD@2662.0m-MDTHF
+INT | 15 Feb’15 ||set CA plug at “D” NO-GO nipple. Encountered HUD at 2116m-MDTHF @SSD#2 but able to pass through. |  |  | 18
+NOTE | picture p2 | 05/Jul/2013 - Tubing clearance at NoGo @ 2153m-MDTHF; 10/Jul/2013 – MPLT; 22/Sept/2012 Tubing clearance NoGo @ 2258m MDTHF; 02/Sept/2013
+ISSUE | Conflict | picture p1 | short string: CAMCO 'CSW-1-DT' SSD printed at 2116.7 above the dual packer at 2109.9, and again at 2116.7 below the telescopic joint — kept as printed
+ISSUE | Conflict | slide 6 | slide status boxes (#4 CLOSED (15/2/14), #11 OPEN (15/2/14), #12/#30 OPENED, #25/#27/#28 CLOSED) over the picture differ from the picture statuses — listed as notes

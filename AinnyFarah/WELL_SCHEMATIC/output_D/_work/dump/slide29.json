@@ -1,0 +1,157 @@
+{
+ "slide": 29,
+ "file": "slides/slide29.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n28",
+ "objects": [
+  {
+   "kind": "graphicFrame",
+   "id": "5",
+   "name": "Table 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 651669,
+   "y": 381000,
+   "cx": 7018784,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.7,
+    3.85,
+    43.56,
+    17.69
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "6",
+   "name": "Table 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9643269,
+   "y": 385916,
+   "cx": 7018784,
+   "cy": 1371600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    54.76,
+    3.9,
+    94.62,
+    17.74
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "",
+     ""
+    ],
+    [
+     "",
+     ""
+    ]
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Picture 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 213518,
+   "y": 109537,
+   "cx": 6339681,
+   "cy": 9742959,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.21,
+    1.11,
+    37.21,
+    99.46
+   ],
+   "image": "../media/image72.png"
+  },
+  {
+   "kind": "pic",
+   "id": "8",
+   "name": "Picture 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6553199,
+   "y": -444444,
+   "cx": 6612031,
+   "cy": 10794888,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    37.21,
+    -4.49,
+    74.76,
+    104.49
+   ],
+   "image": "../media/image73.png"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

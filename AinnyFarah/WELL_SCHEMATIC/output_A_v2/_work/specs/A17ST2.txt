@@ -1,0 +1,59 @@
+WELL | A17ST2 | - | sheet 'OP5 single A17 DIAL eSTMZ FID' | WELL NAME: DULANG A17-ST2 OP5 — LOCATION / SLOT: DULANG A / 06 — FINAL COMPLETION SCHEMATIC
+FILE | Dulang A17ST2 Well Schematic updated .xlsx
+SRC | - | sheet 'OP5 single A17 DIAL eSTMZ FID' | native Excel cell values (openpyxl, cached values)
+DATUM | m MDDF (column headers 'DEPTH m-MDDF')
+NOTE | cell B18 | Note: All depths are in meter from RKB to top of equipment. (column headers say m-MDDF; drill floor = RKB reference on this rig)
+INFO | completionDate | 2020-05-30
+INFO | rig | SAPURA BERANI
+INFO | wellhead | SOLAR ALERT
+INFO | completionFluid | 8.5 PPG NaCl (+ 3% KCl) filtered to 30 NTU
+INFO | packerFluid | 8.5 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)
+INFO | maxDeviation | 80.3
+INFO | completionType | FINAL COMPLETION SCHEMATIC — single string (OP5 single A17 DIAL eSTMZ)
+CASING | CONDUCTOR (EXISTING) 26" 202 A-36 WELDED | 26 | 202 | A-36 | 182 | MDDF
+CASING | INT. CASING (EXISTING) 13-3/8" 54.5 PPF K-55 BTC | 13.375 | 54.5 | K-55 | 421 | MDDF
+CASING | CASING (EXISTING) 9-5/8" 43.5 PPF L-80 BTC | 9.625 | 43.5 | L-80 | 1513 | MDDF
+CASING | LINER 7" 29 PPF L-80 VAM TOP/BEAR | 7 | 29 | L-80 | 2283 | MDDF (printed '2283', no unit) | 450 | diagram ' TOL (7" LINER) 450' (F34/K34); 'Tie Back 7" Liner' (F28)
+TUBING | TUBING 3-1/2" 9.2 PPF HP2-13CR-95 JFEBEAR | 3.5 | 9.2 | HP2-13CR-95 | - | 250.738 MDDF
+TUBING | TUBING 3-1/2" 9.2 PPF 13CR-L80 JFEBEAR | 3.5 | 9.2 | 13CR-L80 | - | 1660 MDDF
+ROW | X | 3-1/2" SINGLE STRING TUBING HANGER |  |  |  |  |  | depth not printed | U21
+ROW | X | FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80 |  |  | 2.88 | 4.141 |  | depth not printed | U29/Z29/AB29
+ROW | X | TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80 | 250.738 |  | 2.812 | 5 |  |  | U30/S30/Z30/AB30
+ROW | X | FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT 13CR-L80 |  |  | 2.88 | 4.141 |  | depth not printed | U31/Z31/AB31
+ROW | X | 3-1/2" SPM (GLV  : Dummy - Change out made on 20.10.2021) | 829.588 |  | 2.9 | 5.23 |  |  | U42/S42/Z42/AB42
+ROW | X | 3-1/2" AUTO SPM DIAL (JAMMED CLOSE) | 1169.029 |  | 2.963 | 5.15 | (2026-05-02) | date cell U45 | U44/S44/Z44/AB44/U45
+ROW | X | 3-1/2" SPM (GLV: 8/64" PTRO: 1045 psi SN: PMA-DUL- IPO-0005) | 1191.982 |  | 2.9 | 5.23 | (2026-05-14) | date cell U47 | U46/S46/Z46/AB46/U47
+ROW | X | 3-1/2" AUTO SPM DIAL (JAMMED CLOSE) | 1810.45 |  | 2.963 | 5.15 | (2026-05-02) | date cell U49 | U48/S48/Z48/AB48/U49
+ROW | X | 3-1/2" SPM (GLV: Empty - recovered DV but NOT ABLE to set GLOV 10/64" due to low RW - high angle) | 1832.781 |  | 2.9 | 5.23 | (2026-05-14) | label continues in U51; date cell U52 | U50/U51/S50/Z50/AB50/U52
+ROW | X | 7 X 3-1/2 AHR PACKER, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 1853.118 |  | 2.897 | 6 |  |  | U59/S59/Z59/AB59
+ROW | X | LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80 | 1873.214 |  | 2.813 | 4.04 |  |  | U62/S62/Z62/AB62
+ROW | X | NO-GO LOCATOR, 3-1/2 9.2# JFEBEAR B X VAMTOP SC80 P, 13CR-L80 | 1911.049 |  | 3.05 | 4.798 |  |  | U67/S67/Z67/AB67
+ROW | X | SELF ALIGN MULE SHOE, 3-1/2 9.2# VAMTOP SC80 PIN, 13CR-L80 | 1911.54 |  | 3.05 | 3.86 |  | end of string (seals into the VCH packer) | U68/S68/Z68/AB68
+ROW | Lw | VCH PACKER, 7" 26 - 29#, 13CR-L80, HNBR, 10KSI RATING | 1909.947 |  | 3.88 | 6.015 |  | top packer of the eSTMZ lower completion | U71/S71/Z71/AB71
+ROW | Lw | MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING | 1921.164 |  | 2.75 | 5.735 |  |  | U73/S73/Z73/AB73
+ROW | Lw | TOP JOINT PG WRAP MODULAR SCREEN | 1937.236 |  | 2.918 | 4.301 |  |  | U75/S75/Z75/AB75
+ROW | Lw | PRODUCTION JOINT PG WRAP MODULAR SCREEN | 1946.339 |  | 2.918 | 4.301 |  |  | U77/S77/Z77/AB77
+ROW | Lw | "FCS" FRACTURE / CIRCULATION SLEEVE, 13CR | 1955.444 |  | 2.87 | 5.05 |  |  | U79/S79/Z79/AB79
+ROW | Lw | TNT PERMA-SERIES® ISOLATION PACKER, 13CR FLOW-WET, HNBR, 7KSI RATING | 1956.854 |  | 3.875 | 5.875 |  |  | U83/S83/Z83/AB83
+ROW | Lw | MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING | 1965.973 |  | 2.75 | 5.735 |  |  | U88/S88/Z88/AB88
+ROW | Lw | TOP JOINT PG WRAP MODULAR SCREEN | 1971.765 |  | 2.918 | 4.301 |  |  | U90/S90/Z90/AB90
+ROW | Lw | PRODUCTION JOINT PG WRAP MODULAR SCREEN | 1980.868 |  | 2.918 | 4.301 |  |  | U92/S92/Z92/AB92
+ROW | Lw | "FCS" FRACTURE / CIRCULATION SLEEVE, 13CR | 1989.971 |  | 2.87 | 5.05 |  |  | U94/S94/Z94/AB94
+ROW | Lw | SUMP SEAL ASSEMBLY, For 3.88" Bore Packer, 13CR, HNBR | 1992.621 |  | 2.75 | 5.613 |  |  | U98/S98/Z98/AB98
+ROW | Lw | AWV SUMP PACKER , 7 " 26 - 32#, 13CR-80, HNBR, 10KSI RATING | 1992 |  | 3.88 | 5.875 |  | printed 1992, shallower than the sump seal assembly listed above — kept as printed | U99/S99/Z99/AB99
+ZONE | E22A | 1944 | 1951 | MDDF | E22A 1944 - 1951 m MDDF (7 m); 1302.63 - 1303.81 m TVD; 1115.30 psi, 177.8 deg F | B73/B75 | perf
+ZONE | E22B | 1981 | 1988 | MDDF | E22B 1981 - 1988 m MDDF (7 m); 1308.89 - 1310.17 m TVD; 1089.80 psi, 177.8 deg F | B91/B93 | perf
+PBTD | 2241 | MDDF | PBTD 2241 (diagram I108/K108; header G11 2241)
+TD | 2283 | MDDF | TD 2283 (diagram I110/K110; header G10 2283)
+NOTE | cells B13-B14 | WATER DEPTH : 77 m ; DRILL FLOOR HEIGHT : 33 m-AMSL (drill-floor elevation — not mapped)
+NOTE | cells U25/U26 | From Tubing Hanger to TRSV : 3-1/2", 9.2#, HP2-13CR-95, JFE Bear
+NOTE | cells U54-U56 | Run MLT from HUD at 1830m-MDTHF ; Small leak (from SPM#3) observed by MLT Condition#2 run ; 2026-05-01
+NOTE | cells K72 / K78 / K90 / K96 | unlabelled depths 1934.429, 1961.783, 1978.395, 2015.815 in the left depth column beside the E22A / E22B boxes (meaning not stated — not mapped)
+NOTE | cells J75 / J93 / J109 / B76 / B94 | deviation 80.3 / 80.1 / 58 deg ; unlabelled computed values 5.011, 4.871
+NOTE | cells B84 | Distance 30 m
+NOTE | cells U110-Z112 | Designed by: Mahirah/Hidayah (Completion Engineer); Jagaan (Production Technologist); Date: 3rd June 2020; Rev: Draft
+NOTE | workbook media | embedded pictures image1.emf, image2.png, image3.emf (schematic drawing / logo graphics; no values)
+ISSUE | Conflict | header AB15 | tubing table '3-1/2" 9.2 PPF 13CR-L80 JFEBEAR ... 1660' vs string end (mule shoe 1911.54) — table depth kept on the tubing record, not corrected
+ISSUE | Unclear | header AB13 | 7" liner depth printed '2283' without unit/datum (= TD); TOL 450 from the diagram label
+ISSUE | Unclear | sheet | the 'Rev: Draft' design sheet is the source (file named 'updated'); dated status cells 2026-05-01 / 02 / 14 recorded as statuses
+ISSUE | Missing | sheet | tubing hanger and flow-coupling depths not printed

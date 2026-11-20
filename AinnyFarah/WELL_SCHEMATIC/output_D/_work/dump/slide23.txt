@@ -1,0 +1,62 @@
+# slide 23 (slides/slide23.xml) hidden=False objects=34
+# notes: 'Updated by Pravin Nair Venugopalan on 7th June 2022\n\nOpen\n22'
+[pic id=6161410 'Picture 2' pct=[30.68, 0.0, 69.47, 100.0] hidden=False img=../media/image60.png]
+[sp id=7 'Line Callout 2 6' pct=[126.16, 39.8, 136.11, 46.72] hidden=False]
+    Aug’15 || Set MA plug and run MIT. No leak observed
+[sp id=4 'TextBox 3' pct=[-42.07, 30.22, -12.62, 43.26] hidden=False]
+    3 Sep 2015 || MIT survey was conducted on 3 sep 2015, to evaluate integrity of tubular internal surface due to corrosion/erosion along 3-1/2 “ tubing. 
+    TBCLR was conducted using 2.72” drfit and managed to tag top of CA prong at 1626m-mdthf. Starting above 3m with average speed 10m/min. 5 hours to completed.
+[pic id=13 'Picture 12' pct=[-42.15, 44.62, -12.67, 80.58] hidden=False img=../media/image61.png]
+[sp id=14 'TextBox 13' pct=[-42.15, 83.08, -12.67, 92.31] hidden=False]
+    Jul’16 || retrieved MA plug at SSD#1 1561m-mdthf and perform sand bailing (recovered 1.5ltr sand above the CA plug-based on record at 1626m-mdthf)
+    Aug’16 || completed ZOC. Referring to proposal to ZOC from E1/2 to E8, 10/11 and E12/13. but checking with wireline report, looks like only SSD#2 open E1/2. not retrieved CA plug yet.
+[sp id=22 'Line Callout 2 21' pct=[126.16, 54.48, 136.11, 61.41] hidden=False]
+    Aug’15 || Set MA plug and run MIT. No leak observed
+[pic id=5 'Picture 4' pct=[101.23, 19.32, 173.15, 30.22] hidden=False img=../media/image62.emf]
+[pic id=6 'Picture 5' pct=[-21.87, 19.17, -12.67, 29.65] hidden=False img=../media/image63.png]
+[graphicFrame id=24 'Table 23' pct=[69.93, 102.13, 97.09, 115.98] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    |  | 
+    |  | 
+[graphicFrame id=25 'Table 24' pct=[3.79, 102.68, 30.95, 125.65] hidden=False]
+    | Well Invention/Integrity History | 
+    | Date | Activities
+    | 08/12/20 | Performed well test. high formation gas but still unable to sustain flowing without gas lift. - attempted. refer FPC connect. able to flow with high GL rate ~1.8mmscfd but will increase MOL pressure around 100kpag from normal trending. 
+    | 29/06/20 | Completed set pack-off at leak depth interval 32 – 62 mmdthf
+    | May 2022 | Retrieve CA Prong + Plug
+[sp id=26 'Oval 25' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP-WI
+[sp id=27 'TextBox 26' pct=[29.67, 38.08, 35.59, 43.32] hidden=False]
+    SSD#1 closed
+    SSD#2 CLOSED in May 2022
+[sp id=28 'TextBox 27' pct=[30.33, 56.07, 35.22, 62.21] hidden=False]
+    OPENED in May 2022
+[sp id=29 'TextBox 28' pct=[64.33, 83.08, 69.22, 89.22] hidden=False]
+    OPENED
+[sp id=30 'TextBox 29' pct=[64.4, 59.12, 69.29, 65.27] hidden=False]
+    CLOSED
+[graphicFrame id=33 'Table 32' pct=[6.62, 14.39, 28.12, 26.7] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | GLV | 1159.1 | - | 16/64 | 
+    | 2 | GLV | 1354.8 | - | 16/64 | 
+    | 3 | GLOV - Orifice | 1532.5 | - | 12/64 | 12th June 2020
+[pic id=2 'Picture 1' pct=[101.23, 66.57, 130.06, 97.63] hidden=False img=../media/image64.png]
+[sp id=3 'Rectangle 2' pct=[30.33, 32.38, 35.73, 35.34] hidden=False]
+    Packoff set 1324 - 1329 m MDTHF
+[sp id=6161412 'TextBox 6161411' pct=[60.9, 43.27, 68.31, 46.72] hidden=False]
+    2.81” MA Plug c/w prong (set Aug 2015)
+[sp id=6161418 'TextBox 6161417' pct=[55.8, 56.1, 68.56, 58.27] hidden=False]
+    Based on WLD run in 2009, 3 leaks identified.
+[sp id=89 'TextBox 88' pct=[64.55, 37.12, 69.51, 43.26] hidden=False]
+    SSD #1 & #2 CLOSED
+[sp id=106 'TextBox 105' pct=[30.13, 27.81, 35.75, 32.47] hidden=False]
+    Leak at 1317, caliper indicate maximum penetration at 99.5%@1318.9 m)
+[sp id=117 'Rectangle 116' pct=[30.14, 19.21, 35.11, 22.36] hidden=False]
+    Packoff set 27 – 63m MDTHF
+[sp id=123 'Rectangle 122' pct=[68.92, 39.96, 75.32, 42.98] hidden=False]
+    WRDP 1A MLO IV & Tbg stop @ 134m MDTHF. TR flapper locked open in 2017
+[sp id=135 'TextBox 134' pct=[30.15, 21.72, 35.46, 25.44] hidden=False]
+    From WLD 2020, shallow leak at 32m, 48m, 57m, 62m.
+[sp id=11 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

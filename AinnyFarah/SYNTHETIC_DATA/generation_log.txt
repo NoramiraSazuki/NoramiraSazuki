@@ -1,0 +1,330 @@
+Plan: 150 files, total 9,395,001,713 B (9.395 GB); smallest valid marked PDF = 730 B
+Remaining to generate: 150 files, 9,395,001,713 B (9.395 GB); free disk space 37,914,832,896 B (37.9 GB)
+[  1/150] SYNTH_001_Tiny_File_invalid.pdf                  target              15 B  actual              15 B  OK  (0.0s)
+[  2/150] SYNTH_002_Tiny_File_invalid.pdf                  target              28 B  actual              28 B  OK  (0.0s)
+[  3/150] SYNTH_003_Tiny_File_invalid.pdf                  target             127 B  actual             127 B  OK  (0.0s)
+[  4/150] SYNTH_004_Tiny_File_invalid.pdf                  target             194 B  actual             194 B  OK  (0.0s)
+[  5/150] SYNTH_005_Tiny_File_invalid.pdf                  target             361 B  actual             361 B  OK  (0.0s)
+[  6/150] SYNTH_006_Pressure_Survey_valid.pdf              target             766 B  actual             766 B  OK  (0.0s)
+[  7/150] SYNTH_007_Drilling_Daily_Report_valid.pdf        target             836 B  actual             836 B  OK  (0.0s)
+[  8/150] SYNTH_008_Well_Summary_valid.pdf                 target             860 B  actual             860 B  OK  (0.0s)
+[  9/150] SYNTH_009_Seismic_Inventory_valid.pdf            target             896 B  actual             896 B  OK  (0.0s)
+[ 10/150] SYNTH_010_Core_Analysis_valid.pdf                target             959 B  actual             959 B  OK  (0.0s)
+[ 11/150] SYNTH_011_Production_Report_valid.pdf            target           1,046 B  actual           1,046 B  OK  (0.0s)
+[ 12/150] SYNTH_012_Completion_Report_valid.pdf            target           1,273 B  actual           1,273 B  OK  (0.0s)
+[ 13/150] SYNTH_013_Well_Test_Report_valid.pdf             target           1,521 B  actual           1,521 B  OK  (0.0s)
+[ 14/150] SYNTH_014_Pressure_Survey_valid.pdf              target           1,884 B  actual           1,884 B  OK  (0.0s)
+[ 15/150] SYNTH_015_Drilling_Daily_Report_valid.pdf        target           2,168 B  actual           2,168 B  OK  (0.0s)
+[ 16/150] SYNTH_016_Well_Summary_valid.pdf                 target           2,765 B  actual           2,765 B  OK  (0.0s)
+[ 17/150] SYNTH_017_Seismic_Inventory_valid.pdf            target           3,088 B  actual           3,088 B  OK  (0.0s)
+[ 18/150] SYNTH_018_Core_Analysis_valid.pdf                target           3,698 B  actual           3,698 B  OK  (0.0s)
+[ 19/150] SYNTH_019_Production_Report_valid.pdf            target           4,619 B  actual           4,619 B  OK  (0.0s)
+[ 20/150] SYNTH_020_Completion_Report_valid.pdf            target           5,458 B  actual           5,458 B  OK  (0.0s)
+[ 21/150] SYNTH_021_Well_Test_Report_valid.pdf             target           7,480 B  actual           7,480 B  OK  (0.0s)
+[ 22/150] SYNTH_022_Pressure_Survey_valid.pdf              target           8,004 B  actual           8,004 B  OK  (0.0s)
+[ 23/150] SYNTH_023_Drilling_Daily_Report_valid.pdf        target          10,874 B  actual          10,874 B  OK  (0.0s)
+[ 24/150] SYNTH_024_Well_Summary_valid.pdf                 target          11,241 B  actual          11,241 B  OK  (0.0s)
+[ 25/150] SYNTH_025_Seismic_Inventory_valid.pdf            target          15,481 B  actual          15,481 B  OK  (0.1s)
+[ 26/150] SYNTH_026_Core_Analysis_valid.pdf                target          18,565 B  actual          18,565 B  OK  (0.0s)
+[ 27/150] SYNTH_027_Production_Report_valid.pdf            target          21,290 B  actual          21,290 B  OK  (0.0s)
+[ 28/150] SYNTH_028_Completion_Report_valid.pdf            target          26,950 B  actual          26,950 B  OK  (0.8s)
+[ 29/150] SYNTH_029_Well_Test_Report_valid.pdf             target          30,056 B  actual          30,056 B  OK  (0.0s)
+[ 30/150] SYNTH_030_Pressure_Survey_valid.pdf              target          35,790 B  actual          35,790 B  OK  (0.0s)
+[ 31/150] SYNTH_031_Drilling_Daily_Report_valid.pdf        target          45,936 B  actual          45,936 B  OK  (0.0s)
+[ 32/150] SYNTH_032_Well_Summary_valid.pdf                 target          52,367 B  actual          52,367 B  OK  (0.0s)
+[ 33/150] SYNTH_033_Seismic_Inventory_valid.pdf            target          67,830 B  actual          67,830 B  OK  (1.0s)
+[ 34/150] SYNTH_034_Core_Analysis_valid.pdf                target          82,299 B  actual          82,299 B  OK  (0.0s)
+[ 35/150] SYNTH_035_Production_Report_valid.pdf            target          83,797 B  actual          83,797 B  OK  (0.0s)
+[ 36/150] SYNTH_036_Completion_Report_valid.pdf            target         106,743 B  actual         106,743 B  OK  (0.0s)
+[ 37/150] SYNTH_037_Well_Test_Report_valid.pdf             target         112,090 B  actual         112,090 B  OK  (0.6s)
+[ 38/150] SYNTH_038_Pressure_Survey_valid.pdf              target         119,677 B  actual         119,677 B  OK  (0.1s)
+[ 39/150] SYNTH_039_Drilling_Daily_Report_valid.pdf        target         127,356 B  actual         127,356 B  OK  (0.0s)
+[ 40/150] SYNTH_040_Well_Summary_valid.pdf                 target         146,775 B  actual         146,775 B  OK  (0.7s)
+[ 41/150] SYNTH_041_Seismic_Inventory_valid.pdf            target         158,071 B  actual         158,071 B  OK  (0.1s)
+[ 42/150] SYNTH_042_Core_Analysis_valid.pdf                target         161,374 B  actual         161,374 B  OK  (0.0s)
+[ 43/150] SYNTH_043_Production_Report_valid.pdf            target         182,001 B  actual         182,001 B  OK  (0.6s)
+[ 44/150] SYNTH_044_Completion_Report_valid.pdf            target         195,694 B  actual         195,694 B  OK  (0.1s)
+[ 45/150] SYNTH_045_Well_Test_Report_valid.pdf             target         208,295 B  actual         208,295 B  OK  (0.0s)
+[ 46/150] SYNTH_046_Pressure_Survey_valid.pdf              target         230,010 B  actual         230,010 B  OK  (0.9s)
+[ 47/150] SYNTH_047_Drilling_Daily_Report_valid.pdf        target         246,976 B  actual         246,976 B  OK  (0.1s)
+[ 48/150] SYNTH_048_Well_Summary_valid.pdf                 target         255,888 B  actual         255,888 B  OK  (0.0s)
+[ 49/150] SYNTH_049_Seismic_Inventory_valid.pdf            target         278,121 B  actual         278,121 B  OK  (1.1s)
+[ 50/150] SYNTH_050_Core_Analysis_valid.pdf                target         310,724 B  actual         310,724 B  OK  (0.1s)
+[ 51/150] SYNTH_051_Production_Report_valid.pdf            target         317,130 B  actual         317,130 B  OK  (0.0s)
+[ 52/150] SYNTH_052_Completion_Report_valid.pdf            target         351,486 B  actual         351,486 B  OK  (1.4s)
+[ 53/150] SYNTH_053_Well_Test_Report_valid.pdf             target         378,738 B  actual         378,738 B  OK  (0.1s)
+[ 54/150] SYNTH_054_Pressure_Survey_valid.pdf              target         419,040 B  actual         419,040 B  OK  (0.0s)
+[ 55/150] SYNTH_055_Drilling_Daily_Report_valid.pdf        target         432,070 B  actual         432,070 B  OK  (1.4s)
+[ 56/150] SYNTH_056_Well_Summary_valid.pdf                 target         497,631 B  actual         497,631 B  OK  (0.1s)
+[ 57/150] SYNTH_057_Seismic_Inventory_valid.pdf            target         525,892 B  actual         525,892 B  OK  (0.0s)
+[ 58/150] SYNTH_058_Core_Analysis_valid.pdf                target         548,819 B  actual         548,819 B  OK  (1.3s)
+[ 59/150] SYNTH_059_Production_Report_valid.pdf            target         584,872 B  actual         584,872 B  OK  (0.1s)
+[ 60/150] SYNTH_060_Completion_Report_valid.pdf            target         640,509 B  actual         640,509 B  OK  (0.0s)
+[ 61/150] SYNTH_061_Well_Test_Report_valid.pdf             target         728,184 B  actual         728,184 B  OK  (1.0s)
+[ 62/150] SYNTH_062_Pressure_Survey_valid.pdf              target         771,603 B  actual         771,603 B  OK  (0.1s)
+[ 63/150] SYNTH_063_Drilling_Daily_Report_valid.pdf        target         799,664 B  actual         799,664 B  OK  (0.0s)
+[ 64/150] SYNTH_064_Well_Summary_valid.pdf                 target         879,630 B  actual         879,630 B  OK  (1.5s)
+[ 65/150] SYNTH_065_Seismic_Inventory_valid.pdf            target         965,149 B  actual         965,149 B  OK  (0.1s)
+[ 66/150] SYNTH_066_Core_Analysis_valid.pdf                target       1,045,286 B  actual       1,045,286 B  OK  (0.1s)
+[ 67/150] SYNTH_067_Production_Report_valid.pdf            target       1,100,260 B  actual       1,100,260 B  OK  (1.6s)
+[ 68/150] SYNTH_068_Completion_Report_valid.pdf            target       1,183,495 B  actual       1,183,495 B  OK  (0.3s)
+[ 69/150] SYNTH_069_Well_Test_Report_valid.pdf             target       1,227,472 B  actual       1,227,472 B  OK  (0.3s)
+[ 70/150] SYNTH_070_Pressure_Survey_valid.pdf              target       1,366,124 B  actual       1,366,124 B  OK  (2.3s)
+[ 71/150] SYNTH_071_Drilling_Daily_Report_valid.pdf        target       1,423,177 B  actual       1,423,177 B  OK  (0.1s)
+[ 72/150] SYNTH_072_Well_Summary_valid.pdf                 target       1,538,413 B  actual       1,538,413 B  OK  (2.1s)
+[ 73/150] SYNTH_073_Seismic_Inventory_valid.pdf            target       1,606,861 B  actual       1,606,861 B  OK  (0.3s)
+[ 74/150] SYNTH_074_Core_Analysis_valid.pdf                target       1,704,284 B  actual       1,704,284 B  OK  (0.4s)
+[ 75/150] SYNTH_075_Production_Report_valid.pdf            target       1,882,808 B  actual       1,882,808 B  OK  (2.8s)
+[ 76/150] SYNTH_076_Completion_Report_valid.pdf            target       1,940,705 B  actual       1,940,705 B  OK  (0.1s)
+[ 77/150] SYNTH_077_Well_Test_Report_valid.pdf             target       2,185,256 B  actual       2,185,256 B  OK  (2.2s)
+[ 78/150] SYNTH_078_Pressure_Survey_valid.pdf              target       2,269,670 B  actual       2,269,670 B  OK  (0.6s)
+[ 79/150] SYNTH_079_Drilling_Daily_Report_valid.pdf        target       2,398,391 B  actual       2,398,391 B  OK  (0.6s)
+[ 80/150] SYNTH_080_Well_Summary_valid.pdf                 target       2,594,631 B  actual       2,594,631 B  OK  (2.5s)
+[ 81/150] SYNTH_081_Seismic_Inventory_valid.pdf            target       2,706,858 B  actual       2,706,858 B  OK  (0.2s)
+[ 82/150] SYNTH_082_Core_Analysis_valid.pdf                target       2,965,568 B  actual       2,965,568 B  OK  (2.6s)
+[ 83/150] SYNTH_083_Production_Report_valid.pdf            target       3,204,402 B  actual       3,204,402 B  OK  (0.7s)
+[ 84/150] SYNTH_084_Completion_Report_valid.pdf            target       3,430,495 B  actual       3,430,495 B  OK  (0.7s)
+[ 85/150] SYNTH_085_Well_Test_Report_valid.pdf             target       3,689,625 B  actual       3,689,625 B  OK  (3.0s)
+[ 86/150] SYNTH_086_Pressure_Survey_valid.pdf              target       3,887,905 B  actual       3,887,905 B  OK  (0.2s)
+[ 87/150] SYNTH_087_Drilling_Daily_Report_valid.pdf        target       4,028,303 B  actual       4,028,303 B  OK  (3.3s)
+[ 88/150] SYNTH_088_Well_Summary_valid.pdf                 target       4,369,288 B  actual       4,369,288 B  OK  (0.7s)
+[ 89/150] SYNTH_089_Seismic_Inventory_valid.pdf            target       4,597,690 B  actual       4,597,690 B  OK  (0.7s)
+[ 90/150] SYNTH_090_Core_Analysis_valid.pdf                target       4,903,290 B  actual       4,903,290 B  OK  (3.0s)
+[ 91/150] SYNTH_091_Production_Report_valid.pdf            target       5,421,874 B  actual       5,421,874 B  OK  (0.3s)
+[ 92/150] SYNTH_092_Completion_Report_valid.pdf            target       5,827,395 B  actual       5,827,395 B  OK  (4.2s)
+[ 93/150] SYNTH_093_Well_Test_Report_valid.pdf             target       6,093,804 B  actual       6,093,804 B  OK  (0.8s)
+[ 94/150] SYNTH_094_Pressure_Survey_valid.pdf              target       6,332,003 B  actual       6,332,003 B  OK  (0.8s)
+[ 95/150] SYNTH_095_Drilling_Daily_Report_valid.pdf        target       6,881,801 B  actual       6,881,801 B  OK  (3.7s)
+[ 96/150] SYNTH_096_Well_Summary_valid.pdf                 target       7,223,556 B  actual       7,223,556 B  OK  (0.4s)
+[ 97/150] SYNTH_097_Seismic_Inventory_valid.pdf            target       8,207,011 B  actual       8,207,011 B  OK  (5.0s)
+[ 98/150] SYNTH_098_Core_Analysis_valid.pdf                target       8,761,830 B  actual       8,761,830 B  OK  (1.0s)
+[ 99/150] SYNTH_099_Production_Report_valid.pdf            target       9,089,001 B  actual       9,089,001 B  OK  (0.9s)
+[100/150] SYNTH_100_Completion_Report_valid.pdf            target       9,473,975 B  actual       9,473,975 B  OK  (5.4s)
+[101/150] SYNTH_101_Well_Test_Report_valid.pdf             target      10,078,729 B  actual      10,078,729 B  OK  (0.2s)
+[102/150] SYNTH_102_Pressure_Survey_valid.pdf              target      11,019,639 B  actual      11,019,639 B  OK  (0.2s)
+[103/150] SYNTH_103_Drilling_Daily_Report_valid.pdf        target      11,933,707 B  actual      11,933,707 B  OK  (0.2s)
+[104/150] SYNTH_104_Well_Summary_valid.pdf                 target      12,691,478 B  actual      12,691,478 B  OK  (0.2s)
+[105/150] SYNTH_105_Seismic_Inventory_valid.pdf            target      14,197,904 B  actual      14,197,904 B  OK  (0.4s)
+[106/150] SYNTH_106_Core_Analysis_valid.pdf                target      15,433,516 B  actual      15,433,516 B  OK  (0.2s)
+[107/150] SYNTH_107_Production_Report_valid.pdf            target      16,056,969 B  actual      16,056,969 B  OK  (0.3s)
+[108/150] SYNTH_108_Completion_Report_valid.pdf            target      17,410,546 B  actual      17,410,546 B  OK  (0.3s)
+[109/150] SYNTH_109_Well_Test_Report_valid.pdf             target      19,661,519 B  actual      19,661,519 B  OK  (0.4s)
+[110/150] SYNTH_110_Pressure_Survey_valid.pdf              target      20,638,551 B  actual      20,638,551 B  OK  (0.4s)
+[111/150] SYNTH_111_Drilling_Daily_Report_valid.pdf        target      22,488,392 B  actual      22,488,392 B  OK  (0.4s)
+[112/150] SYNTH_112_Well_Summary_valid.pdf                 target      24,884,361 B  actual      24,884,361 B  OK  (0.6s)
+[113/150] SYNTH_113_Seismic_Inventory_valid.pdf            target      26,434,202 B  actual      26,434,202 B  OK  (0.7s)
+[114/150] SYNTH_114_Core_Analysis_valid.pdf                target      28,791,573 B  actual      28,791,573 B  OK  (0.6s)
+[115/150] SYNTH_115_Production_Report_valid.pdf            target      30,307,243 B  actual      30,307,243 B  OK  (0.7s)
+[116/150] SYNTH_116_Completion_Report_valid.pdf            target      32,843,685 B  actual      32,843,685 B  OK  (0.7s)
+[117/150] SYNTH_117_Well_Test_Report_valid.pdf             target      35,605,376 B  actual      35,605,376 B  OK  (0.8s)
+[118/150] SYNTH_118_Pressure_Survey_valid.pdf              target      37,308,731 B  actual      37,308,731 B  OK  (0.8s)
+[119/150] SYNTH_119_Drilling_Daily_Report_valid.pdf        target      40,008,222 B  actual      40,008,222 B  OK  (1.0s)
+[120/150] SYNTH_120_Well_Summary_valid.pdf                 target      44,990,308 B  actual      44,990,308 B  OK  (1.0s)
+[121/150] SYNTH_121_Seismic_Inventory_valid.pdf            target      46,798,458 B  actual      46,798,458 B  OK  (1.2s)
+[122/150] SYNTH_122_Core_Analysis_valid.pdf                target      51,600,323 B  actual      51,600,323 B  OK  (1.0s)
+[123/150] SYNTH_123_Production_Report_valid.pdf            target      57,751,731 B  actual      57,751,731 B  OK  (1.5s)
+[124/150] SYNTH_124_Completion_Report_valid.pdf            target      62,431,576 B  actual      62,431,576 B  OK  (1.4s)
+[125/150] SYNTH_125_Well_Test_Report_valid.pdf             target      65,243,409 B  actual      65,243,409 B  OK  (1.5s)
+[126/150] SYNTH_126_Pressure_Survey_valid.pdf              target      70,222,705 B  actual      70,222,705 B  OK  (1.5s)
+[127/150] SYNTH_127_Drilling_Daily_Report_valid.pdf        target      74,750,606 B  actual      74,750,606 B  OK  (2.0s)
+[128/150] SYNTH_128_Well_Summary_valid.pdf                 target      81,386,357 B  actual      81,386,357 B  OK  (1.9s)
+[129/150] SYNTH_129_Seismic_Inventory_valid.pdf            target      91,693,404 B  actual      91,693,404 B  OK  (2.3s)
+[130/150] SYNTH_130_Core_Analysis_valid.pdf                target      96,650,372 B  actual      96,650,372 B  OK  (2.1s)
+[131/150] SYNTH_131_Production_Report_valid.pdf            target     105,829,389 B  actual     105,829,389 B  OK  (2.1s)
+[132/150] SYNTH_132_Completion_Report_valid.pdf            target     121,075,710 B  actual     121,075,710 B  OK  (2.2s)
+[133/150] SYNTH_133_Well_Test_Report_valid.pdf             target     126,367,025 B  actual     126,367,025 B  OK  (2.7s)
+[134/150] SYNTH_134_Pressure_Survey_valid.pdf              target     151,997,962 B  actual     151,997,962 B  OK  (3.0s)
+[135/150] SYNTH_135_Drilling_Daily_Report_valid.pdf        target     168,928,997 B  actual     168,928,997 B  OK  (4.0s)
+[136/150] SYNTH_136_Well_Summary_valid.pdf                 target     189,159,127 B  actual     189,159,127 B  OK  (4.9s)
+[137/150] SYNTH_137_Seismic_Inventory_valid.pdf            target     203,691,160 B  actual     203,691,160 B  OK  (5.1s)
+[138/150] SYNTH_138_Core_Analysis_valid.pdf                target     213,694,092 B  actual     213,694,092 B  OK  (4.9s)
+[139/150] SYNTH_139_Production_Report_valid.pdf            target     259,581,338 B  actual     259,581,338 B  OK  (6.8s)
+[140/150] SYNTH_140_Completion_Report_valid.pdf            target     286,293,202 B  actual     286,293,202 B  OK  (5.7s)
+[141/150] SYNTH_141_Well_Test_Report_valid.pdf             target     309,170,097 B  actual     309,170,097 B  OK  (6.7s)
+[142/150] SYNTH_142_Pressure_Survey_valid.pdf              target     328,224,833 B  actual     328,224,833 B  OK  (7.7s)
+[143/150] SYNTH_143_Drilling_Daily_Report_valid.pdf        target     369,363,770 B  actual     369,363,770 B  OK  (9.4s)
+[144/150] SYNTH_144_Well_Summary_valid.pdf                 target     434,774,855 B  actual     434,774,855 B  OK  (10.4s)
+[145/150] SYNTH_145_Seismic_Inventory_valid.pdf            target     459,962,424 B  actual     459,962,424 B  OK  (10.0s)
+[146/150] SYNTH_146_Core_Analysis_valid.pdf                target     521,209,350 B  actual     521,209,350 B  OK  (10.8s)
+[147/150] SYNTH_147_Production_Report_valid.pdf            target     674,592,706 B  actual     674,592,706 B  OK  (13.6s)
+[148/150] SYNTH_148_Completion_Report_valid.pdf            target     981,790,841 B  actual     981,790,841 B  OK  (22.3s)
+[149/150] SYNTH_149_Well_Test_Report_valid.pdf             target   1,042,049,717 B  actual   1,042,049,717 B  OK  (16.2s)
+[150/150] SYNTH_150_Pressure_Survey_valid.pdf              target   1,127,138,285 B  actual   1,127,138,285 B  OK  (27.6s)
+
+Validating ...
+  validated SYNTH_001_Tiny_File_invalid.pdf                  PASS (invalid as intended): pypdf UnicodeDecodeError
+  validated SYNTH_002_Tiny_File_invalid.pdf                  PASS (invalid as intended): pypdf PdfReadError
+  validated SYNTH_003_Tiny_File_invalid.pdf                  PASS (invalid as intended): pypdf PdfReadError
+  validated SYNTH_004_Tiny_File_invalid.pdf                  PASS (invalid as intended): pypdf PdfReadError
+  validated SYNTH_005_Tiny_File_invalid.pdf                  PASS (invalid as intended): pypdf UnicodeDecodeError
+  validated SYNTH_006_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_007_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_008_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_009_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_010_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_011_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_012_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_013_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_014_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_015_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_016_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_017_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_018_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_019_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_020_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_021_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1
+  validated SYNTH_022_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_023_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_024_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 1 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_025_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 3 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_026_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 2 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_027_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 2 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_028_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_029_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 3 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_030_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 3 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_031_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 6 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_032_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 6 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_033_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_034_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 6 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_035_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 6 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_036_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 13 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_037_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 1 page(s); image page; marker in metadata + rende
+  validated SYNTH_038_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 11 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_039_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 13 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_040_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 1 page(s); image page; marker in metadata + rende
+  validated SYNTH_041_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 11 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_042_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 21 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_043_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 1 page(s); image page; marker in metadata + rende
+  validated SYNTH_044_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 15 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_045_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 25 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_046_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_047_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 21 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_048_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_049_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_050_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 25 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_051_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 29 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_052_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_053_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_054_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_055_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 4 page(s); image page; marker in metadata + rende
+  validated SYNTH_056_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_057_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_058_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 4 page(s); image page; marker in metadata + rende
+  validated SYNTH_059_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_060_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_061_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_062_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_063_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_064_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 5 page(s); image page; marker in metadata + rende
+  validated SYNTH_065_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 30 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_066_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 137 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_067_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_068_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 73 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_069_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 97 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_070_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 4 page(s); image page; marker in metadata + rende
+  validated SYNTH_071_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 174 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_072_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_073_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 97 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_074_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 113 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_075_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 5 page(s); image page; marker in metadata + rende
+  validated SYNTH_076_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 179 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_077_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 4 page(s); image page; marker in metadata + rende
+  validated SYNTH_078_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_079_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_080_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 5 page(s); image page; marker in metadata + rende
+  validated SYNTH_081_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_082_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 5 page(s); image page; marker in metadata + rende
+  validated SYNTH_083_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_084_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_085_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 7 page(s); image page; marker in metadata + rende
+  validated SYNTH_086_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_087_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 7 page(s); image page; marker in metadata + rende
+  validated SYNTH_088_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_089_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_090_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 7 page(s); image page; marker in metadata + rende
+  validated SYNTH_091_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_092_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 10 page(s); image page; marker in metadata + rend
+  validated SYNTH_093_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_094_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_095_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 11 page(s); image page; marker in metadata + rend
+  validated SYNTH_096_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_097_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 14 page(s); image page; marker in metadata + rend
+  validated SYNTH_098_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_099_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 200 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_100_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 16 page(s); image page; marker in metadata + rend
+  validated SYNTH_101_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_102_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 5 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_103_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 2 page(s); image page; marker in metadata + rende
+  validated SYNTH_104_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 5 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_105_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_106_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 5 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_107_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_108_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 7 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_109_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_110_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 9 page(s); marker text found on page 1; 1 attachm
+  validated SYNTH_111_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 3 page(s); image page; marker in metadata + rende
+  validated SYNTH_112_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 11 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_113_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 6 page(s); image page; marker in metadata + rende
+  validated SYNTH_114_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 13 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_115_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 6 page(s); image page; marker in metadata + rende
+  validated SYNTH_116_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 13 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_117_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 7 page(s); image page; marker in metadata + rende
+  validated SYNTH_118_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 15 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_119_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 10 page(s); image page; marker in metadata + rend
+  validated SYNTH_120_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 19 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_121_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 11 page(s); image page; marker in metadata + rend
+  validated SYNTH_122_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 19 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_123_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 14 page(s); image page; marker in metadata + rend
+  validated SYNTH_124_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 27 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_125_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 14 page(s); image page; marker in metadata + rend
+  validated SYNTH_126_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 29 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_127_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 19 page(s); image page; marker in metadata + rend
+  validated SYNTH_128_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 35 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_129_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 22 page(s); image page; marker in metadata + rend
+  validated SYNTH_130_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 39 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_131_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 15 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_132_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 7 page(s); image page; marker in metadata + rende
+  validated SYNTH_133_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 19 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_134_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 10 page(s); image page; marker in metadata + rend
+  validated SYNTH_135_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 29 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_136_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 17 page(s); image page; marker in metadata + rend
+  validated SYNTH_137_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 37 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_138_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 17 page(s); image page; marker in metadata + rend
+  validated SYNTH_139_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 49 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_140_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 19 page(s); image page; marker in metadata + rend
+  validated SYNTH_141_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 47 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_142_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 27 page(s); image page; marker in metadata + rend
+  validated SYNTH_143_Drilling_Daily_Report_valid.pdf        PASS: opened with pypdf 6.20.1 (strict), 67 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_144_Well_Summary_valid.pdf                 PASS: opened with pypdf 6.20.1 (strict), 36 page(s); image page; marker in metadata + rend
+  validated SYNTH_145_Seismic_Inventory_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 69 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_146_Core_Analysis_valid.pdf                PASS: opened with pypdf 6.20.1 (strict), 36 page(s); image page; marker in metadata + rend
+  validated SYNTH_147_Production_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 90 page(s); marker text found on page 1; 1 attach
+  validated SYNTH_148_Completion_Report_valid.pdf            PASS: opened with pypdf 6.20.1 (strict), 76 page(s); image page; marker in metadata + rend
+  validated SYNTH_149_Well_Test_Report_valid.pdf             PASS: opened with pypdf 6.20.1 (strict), 100 page(s); marker text found on page 1; 1 attac
+  validated SYNTH_150_Pressure_Survey_valid.pdf              PASS: opened with pypdf 6.20.1 (strict), 97 page(s); image page; marker in metadata + rend
+
+File counts by size range
+  10-999 B               10 files (planned 10), 5 intentionally invalid              5,042 B
+  1 KB to <100 KB        25 files (planned 25)            545,480 B
+  100 KB to <1 MB        30 files (planned 30)         11,680,212 B
+  1 MB to <10 MB         35 files (planned 35)        136,562,507 B
+  10 MB to <100 MB       30 files (planned 30)      1,171,313,592 B
+  100 MB to <500 MB      15 files (planned 15)      3,728,113,981 B
+  500 MB to <1 GB         3 files (planned 3)      2,177,592,897 B
+  1 GB to 1.2 GB          2 files (planned 2)      2,169,188,002 B
+  TOTAL                 150 files                         9,395,001,713 B  (9.395 GB)
+  by type: text 42, image 51, mixed 52, intentionally invalid 5
+
+Checks
+  PASS - exactly 150 .pdf files in SYNTHETIC_DATA
+  PASS - every file within its assigned size range
+  PASS - at least one file > 1,000,000,000 bytes
+  PASS - every expected-valid file opens with a PDF parser
+  PASS - intentional invalid files recorded and rejected by the parser
+  PASS - filenames unique
+  PASS - SHA-256 checksums unique
+
+Validation failures: 0
+
+manifest: /Users/farahyusof/Documents/GitHub/NoramiraSazuki/AinnyFarah/SYNTHETIC_DATA/manifest.csv
+exit 0

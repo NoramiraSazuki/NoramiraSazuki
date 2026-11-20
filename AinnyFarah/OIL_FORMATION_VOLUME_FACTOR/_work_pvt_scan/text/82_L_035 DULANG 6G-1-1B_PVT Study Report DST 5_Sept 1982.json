@@ -1,0 +1,1287 @@
+[
+{
+"where": "sheet 'SAMPLING COND.' cell B2",
+"how": "cell text",
+"text": "TABLE 1"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B4",
+"how": "cell text",
+"text": "SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B6",
+"how": "cell text",
+"text": "I. RESERVOIR AND WELL CHARACTERISTICS"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell G6",
+"how": "cell text",
+"text": "SAMPLE(S) VALIDITY"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B8",
+"how": "cell text",
+"text": "Producing zone"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C8",
+"how": "cell text",
+"text": "1205-1220M"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell F8",
+"how": "cell text",
+"text": "SEPARATOR LIQUID SAMPLE(S)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B9",
+"how": "cell text",
+"text": "Static pressure"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C9",
+"how": "cell text",
+"text": "1775 psig"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B10",
+"how": "cell text",
+"text": "Bottom hole temperature"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C10",
+"how": "cell text",
+"text": "198 F"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell F10",
+"how": "cell text",
+"text": "1) Sample bottle no 1116/59"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B11",
+"how": "cell text",
+"text": "Tubing diameter"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C11",
+"how": "cell text",
+"text": "3 1/2\""
+},
+{
+"where": "sheet 'SAMPLING COND.' cell F11",
+"how": "cell text",
+"text": "Bubble point pressure determination at 71 F is 478 psig"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B12",
+"how": "cell text",
+"text": "Casing size"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C12",
+"how": "cell text",
+"text": "9 5/8\""
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B13",
+"how": "cell text",
+"text": "Casing shoe"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C13",
+"how": "cell text",
+"text": "1216 M"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B15",
+"how": "cell text",
+"text": "II. SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B17",
+"how": "cell text",
+"text": "A) SURFACE SAMPLE(S)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B18",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B19",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C19",
+"how": "cell text",
+"text": "40/64\" since 09hrs00"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B20",
+"how": "cell text",
+"text": "Flowing bottom hole pressure "
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C20",
+"how": "cell text",
+"text": "1655.2 psig at 1185.6 M 1150 psig"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B21",
+"how": "cell text",
+"text": "Well head pressure"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C21",
+"how": "cell text",
+"text": "450 psig"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B22",
+"how": "cell text",
+"text": "Separator pressure"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C22",
+"how": "cell text",
+"text": "117 F"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B23",
+"how": "cell text",
+"text": "Well head temperature"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C23",
+"how": "cell text",
+"text": "59 F"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B24",
+"how": "cell text",
+"text": "Separator temperature"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C24",
+"how": "cell text",
+"text": "9820000 St cu ft/day"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B25",
+"how": "cell text",
+"text": "Gas rate (Separator.)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C25",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B26",
+"how": "cell text",
+"text": "Stock tank temperature"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C26",
+"how": "cell text",
+"text": "0. 533"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B27",
+"how": "cell text",
+"text": " Compressibility factor"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C27",
+"how": "cell text",
+"text": "1. 220 (Air=l)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B28",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C28",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B29",
+"how": "cell text",
+"text": "Liquid rate (Separator)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C29",
+"how": "cell text",
+"text": "N/A"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B30",
+"how": "cell text",
+"text": "G.L.R"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C30",
+"how": "cell text",
+"text": "gas A12629-A13506"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B31",
+"how": "cell text",
+"text": "Sample( s) received"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C31",
+"how": "cell text",
+"text": "A5939"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C32",
+"how": "cell text",
+"text": "liq.1116/59"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B34",
+"how": "cell text",
+"text": "B) BOTTOM HOLE SAMPLE (S)"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B35",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C35",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B36",
+"how": "cell text",
+"text": "Choke"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C36",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell B37",
+"how": "cell text",
+"text": "Sample(s) received"
+},
+{
+"where": "sheet 'SAMPLING COND.' cell C37",
+"how": "cell text",
+"text": "NA"
+},
+{
+"where": "sheet 'TABLE 2' cell B2",
+"how": "cell text",
+"text": "TABLE 2"
+},
+{
+"where": "sheet 'TABLE 2' cell B4",
+"how": "cell text",
+"text": "RECEPTION OF SEPARATOR LIQUID SAMPLES"
+},
+{
+"where": "sheet 'TABLE 2' cell C6",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'TABLE 2' cell C7",
+"how": "cell text",
+"text": "1116/59"
+},
+{
+"where": "sheet 'TABLE 2' cell B8",
+"how": "cell text",
+"text": "Opening Pressure (psig)"
+},
+{
+"where": "sheet 'TABLE 2' cell B9",
+"how": "cell text",
+"text": "Temperature ( F)"
+},
+{
+"where": "sheet 'TABLE 2' cell B10",
+"how": "cell text",
+"text": "Water Content (cm3)"
+},
+{
+"where": "sheet 'TABLE 2' cell B11",
+"how": "cell text",
+"text": "Remaining Liquid (cm3) @ 6000 psig"
+},
+{
+"where": "sheet 'TABLE 3' cell B3",
+"how": "cell text",
+"text": "TABLE 3"
+},
+{
+"where": "sheet 'TABLE 3' cell B5",
+"how": "cell text",
+"text": "BUBBLE POINT PRESSURE DETERMINATION AT 71 °F"
+},
+{
+"where": "sheet 'TABLE 3' cell B7",
+"how": "cell text",
+"text": "Separator liquid sample ( Cylinder 1116/59)"
+},
+{
+"where": "sheet 'TABLE 3' cell B9",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'TABLE 3' cell C9",
+"how": "cell text",
+"text": "Pump reading (cm3)"
+},
+{
+"where": "sheet 'TABLE 3' cell B18",
+"how": "cell text",
+"text": "Pb = 478"
+},
+{
+"where": "sheet 'TABLE 3' cell B26",
+"how": "cell text",
+"text": "This sample has been used for physical recombination "
+},
+{
+"where": "sheet 'TABLE 4' cell B2",
+"how": "cell text",
+"text": "TABLE 4"
+},
+{
+"where": "sheet 'TABLE 4' cell C4",
+"how": "cell text",
+"text": "RECEPTION OF SEPARATOR GASES"
+},
+{
+"where": "sheet 'TABLE 4' cell C6",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'TABLE 4' cell D6",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'TABLE 4' cell E6",
+"how": "cell text",
+"text": "CYLINDER"
+},
+{
+"where": "sheet 'TABLE 4' cell C7",
+"how": "cell text",
+"text": "A 5939"
+},
+{
+"where": "sheet 'TABLE 4' cell D7",
+"how": "cell text",
+"text": "A 12629"
+},
+{
+"where": "sheet 'TABLE 4' cell E7",
+"how": "cell text",
+"text": "A 13506"
+},
+{
+"where": "sheet 'TABLE 4' cell B8",
+"how": "cell text",
+"text": "Opening Pressure (psig)"
+},
+{
+"where": "sheet 'TABLE 4' cell B9",
+"how": "cell text",
+"text": "Temperature ( F)"
+},
+{
+"where": "sheet 'TABLE 4' cell B10",
+"how": "cell text",
+"text": "Water Content (cm3)"
+},
+{
+"where": "sheet 'TABLE 4' cell C10",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'TABLE 4' cell D10",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'TABLE 4' cell E10",
+"how": "cell text",
+"text": "NIL"
+},
+{
+"where": "sheet 'TABLE 4' cell B11",
+"how": "cell text",
+"text": "HEAT CONTENT(BTU/cu ft)"
+},
+{
+"where": "sheet 'TABLE 4' cell C11",
+"how": "cell text",
+"text": "384. 89"
+},
+{
+"where": "sheet 'TABLE 4' cell B12",
+"how": "cell text",
+"text": "GPM + (G/CFT)"
+},
+{
+"where": "sheet 'TABLE 4' cell B13",
+"how": "cell text",
+"text": "GPM C4 + (G/CFT)"
+},
+{
+"where": "sheet 'TABLE 4' cell B14",
+"how": "cell text",
+"text": "GPM C5 + (G/CFT)"
+},
+{
+"where": "sheet 'TABLE 4' cell B16",
+"how": "cell text",
+"text": "H2S LESS THAN 0.02 ppm"
+},
+{
+"where": "sheet 'TABLE 5' cell B2",
+"how": "cell text",
+"text": "TABLE 5"
+},
+{
+"where": "sheet 'TABLE 5' cell B4",
+"how": "cell text",
+"text": "MOLECULAR COMPOSITION OF FIELD SEPARATOR GAS(ES)"
+},
+{
+"where": "sheet 'TABLE 5' cell B6",
+"how": "cell text",
+"text": "(mole %)"
+},
+{
+"where": "sheet 'TABLE 5' cell B8",
+"how": "cell text",
+"text": "Components"
+},
+{
+"where": "sheet 'TABLE 5' cell D8",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 5' cell E8",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 5' cell F8",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 5' cell B11",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'TABLE 5' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'TABLE 5' cell B13",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'TABLE 5' cell D13",
+"how": "cell text",
+"text": "Traces\n(0.02ppm)"
+},
+{
+"where": "sheet 'TABLE 5' cell E13",
+"how": "cell text",
+"text": "Traces\n(0.02ppm)"
+},
+{
+"where": "sheet 'TABLE 5' cell F13",
+"how": "cell text",
+"text": "Traces\n(0.02ppm)"
+},
+{
+"where": "sheet 'TABLE 5' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'TABLE 5' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'TABLE 5' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'TABLE 5' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'TABLE 5' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'TABLE 5' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'TABLE 5' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'TABLE 5' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'TABLE 5' cell B22",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'TABLE 5' cell B24",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'TABLE 5' cell B25",
+"how": "cell text",
+"text": "MOLECULAR WEIGHT"
+},
+{
+"where": "sheet 'TABLE 5' cell D25",
+"how": "cell text",
+"text": "35. 003"
+},
+{
+"where": "sheet 'TABLE 5' cell B26",
+"how": "cell text",
+"text": "Gravity (Air=1)"
+},
+{
+"where": "sheet 'TABLE 5' cell D26",
+"how": "cell text",
+"text": "1. 208"
+},
+{
+"where": "sheet 'TABLE 5' cell B28",
+"how": "cell text",
+"text": "Molecular weight of heptanes plus"
+},
+{
+"where": "sheet 'TABLE 5' cell B31",
+"how": "cell text",
+"text": "The cylinder 5939 has been used for physical recombination"
+},
+{
+"where": "sheet 'TABLE 5' cell B33",
+"how": "cell text",
+"text": "VISCOSITY BY HERNING-ZIPPERER FORMULA (cp) at 198°F PRESSURE (psig)"
+},
+{
+"where": "sheet 'TABLE 5' cell B35",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'TABLE 6' cell B2",
+"how": "cell text",
+"text": "TABLE 6"
+},
+{
+"where": "sheet 'TABLE 6' cell B4",
+"how": "cell text",
+"text": " COMPRESSIBILITY FACTOP OF SEPARATOR GASES"
+},
+{
+"where": "sheet 'TABLE 6' cell C6",
+"how": "cell text",
+"text": "A5939"
+},
+{
+"where": "sheet 'TABLE 6' cell E6",
+"how": "cell text",
+"text": "A12629"
+},
+{
+"where": "sheet 'TABLE 6' cell G6",
+"how": "cell text",
+"text": "A13506"
+},
+{
+"where": "sheet 'TABLE 6' cell B7",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'TABLE 6' cell C7",
+"how": "cell text",
+"text": "CHR"
+},
+{
+"where": "sheet 'TABLE 6' cell D7",
+"how": "cell text",
+"text": "EXP"
+},
+{
+"where": "sheet 'TABLE 6' cell E7",
+"how": "cell text",
+"text": "CHR"
+},
+{
+"where": "sheet 'TABLE 6' cell F7",
+"how": "cell text",
+"text": "EXP"
+},
+{
+"where": "sheet 'TABLE 6' cell G7",
+"how": "cell text",
+"text": "CHR"
+},
+{
+"where": "sheet 'TABLE 6' cell H7",
+"how": "cell text",
+"text": "EXP"
+},
+{
+"where": "sheet 'TABLE 6' cell C8",
+"how": "cell text",
+"text": "1. 075"
+},
+{
+"where": "sheet 'TABLE 6' cell E8",
+"how": "cell text",
+"text": "1. 074"
+},
+{
+"where": "sheet 'TABLE 6' cell C9",
+"how": "cell text",
+"text": "0. 979"
+},
+{
+"where": "sheet 'TABLE 6' cell E9",
+"how": "cell text",
+"text": "0. 979"
+},
+{
+"where": "sheet 'TABLE 6' cell H9",
+"how": "cell text",
+"text": "0.8 32"
+},
+{
+"where": "sheet 'TABLE 6' cell C10",
+"how": "cell text",
+"text": "0. 893"
+},
+{
+"where": "sheet 'TABLE 6' cell D10",
+"how": "cell text",
+"text": "0. 716"
+},
+{
+"where": "sheet 'TABLE 6' cell G10",
+"how": "cell text",
+"text": "0. 892"
+},
+{
+"where": "sheet 'TABLE 6' cell H10",
+"how": "cell text",
+"text": "0. 715"
+},
+{
+"where": "sheet 'TABLE 6' cell C11",
+"how": "cell text",
+"text": "0. 830"
+},
+{
+"where": "sheet 'TABLE 6' cell D11",
+"how": "cell text",
+"text": "0. 613"
+},
+{
+"where": "sheet 'TABLE 6' cell E11",
+"how": "cell text",
+"text": "0. 830"
+},
+{
+"where": "sheet 'TABLE 6' cell G11",
+"how": "cell text",
+"text": "0. 828"
+},
+{
+"where": "sheet 'TABLE 6' cell C12",
+"how": "cell text",
+"text": "0. 814"
+},
+{
+"where": "sheet 'TABLE 6' cell D12",
+"how": "cell text",
+"text": "0. 580"
+},
+{
+"where": "sheet 'TABLE 6' cell E12",
+"how": "cell text",
+"text": "0. 814"
+},
+{
+"where": "sheet 'TABLE 6' cell C13",
+"how": "cell text",
+"text": "0. 816"
+},
+{
+"where": "sheet 'TABLE 6' cell E13",
+"how": "cell text",
+"text": "0. 815"
+},
+{
+"where": "sheet 'TABLE 6' cell C14",
+"how": "cell text",
+"text": "0. 838"
+},
+{
+"where": "sheet 'TABLE 6' cell D14",
+"how": "cell text",
+"text": "0. 668"
+},
+{
+"where": "sheet 'TABLE 6' cell E14",
+"how": "cell text",
+"text": "0. 838"
+},
+{
+"where": "sheet 'TABLE 6' cell D15",
+"how": "cell text",
+"text": "0.78 3"
+},
+{
+"where": "sheet 'TABLE 6' cell E15",
+"how": "cell text",
+"text": "0,879"
+},
+{
+"where": "sheet 'TABLE 6' cell G15",
+"how": "cell text",
+"text": "0. 879"
+},
+{
+"where": "sheet 'TABLE 6' cell H15",
+"how": "cell text",
+"text": "0. 781"
+},
+{
+"where": "sheet 'TABLE 6' cell D16",
+"how": "cell text",
+"text": "0. 898"
+},
+{
+"where": "sheet 'TABLE 6' cell E16",
+"how": "cell text",
+"text": "0. 941"
+},
+{
+"where": "sheet 'TABLE 6' cell G16",
+"how": "cell text",
+"text": "0. 941"
+},
+{
+"where": "sheet 'TABLE 6' cell B19",
+"how": "cell text",
+"text": "COMPRESSIBILITY FACTOR OF SEPARATOR GASES"
+},
+{
+"where": "sheet 'TABLE 6' cell C20",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 6' cell D20",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 6' cell E20",
+"how": "cell text",
+"text": "Cylinder"
+},
+{
+"where": "sheet 'TABLE 6' cell B21",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'TABLE 6' cell C21",
+"how": "cell text",
+"text": "A5939"
+},
+{
+"where": "sheet 'TABLE 6' cell D21",
+"how": "cell text",
+"text": "A12629"
+},
+{
+"where": "sheet 'TABLE 6' cell E21",
+"how": "cell text",
+"text": "A13506"
+},
+{
+"where": "sheet 'TABLE 6' cell B22",
+"how": "cell text",
+"text": "(psig)"
+},
+{
+"where": "sheet 'TABLE 6' cell C22",
+"how": "cell text",
+"text": "EXP 198°F"
+},
+{
+"where": "sheet 'TABLE 6' cell D22",
+"how": "cell text",
+"text": "EXP 198°F"
+},
+{
+"where": "sheet 'TABLE 6' cell E22",
+"how": "cell text",
+"text": "EXP 198°F"
+},
+{
+"where": "sheet 'TABLE 6' cell B31",
+"how": "cell text",
+"text": "Note"
+},
+{
+"where": "sheet 'TABLE 6' cell B32",
+"how": "cell text",
+"text": "CHR"
+},
+{
+"where": "sheet 'TABLE 6' cell C32",
+"how": "cell text",
+"text": "COMPRESSIBILITY FACTOR BY CHROMATOGRAPHY"
+},
+{
+"where": "sheet 'TABLE 6' cell B33",
+"how": "cell text",
+"text": "EXP"
+},
+{
+"where": "sheet 'TABLE 6' cell C33",
+"how": "cell text",
+"text": "EXPERIMENTAL COMPRESSIBILITY FACTOR"
+},
+{
+"where": "sheet 'TABLE 7' cell B2",
+"how": "cell text",
+"text": "TABLE 7"
+},
+{
+"where": "sheet 'TABLE 7' cell B4",
+"how": "cell text",
+"text": "DEW POINT PRESSURE DETERMINATION AND CONSTANT MASS STUDY AT 198 °F"
+},
+{
+"where": "sheet 'TABLE 7' cell B6",
+"how": "cell text",
+"text": "Pressure"
+},
+{
+"where": "sheet 'TABLE 7' cell C6",
+"how": "cell text",
+"text": "Relative Volume"
+},
+{
+"where": "sheet 'TABLE 7' cell D6",
+"how": "cell text",
+"text": "Compressibility factor"
+},
+{
+"where": "sheet 'TABLE 7' cell B7",
+"how": "cell text",
+"text": "(psig)"
+},
+{
+"where": "sheet 'TABLE 7' cell C7",
+"how": "cell text",
+"text": "V/VPb"
+},
+{
+"where": "sheet 'TABLE 7' cell D7",
+"how": "cell text",
+"text": "z = PV/Nrt"
+},
+{
+"where": "sheet 'TABLE 7' cell B14",
+"how": "cell text",
+"text": "Pi- 1782"
+},
+{
+"where": "sheet 'TABLE 7' cell D15",
+"how": "cell text",
+"text": "O.817"
+},
+{
+"where": "sheet 'TABLE 7' cell B19",
+"how": "cell text",
+"text": "NOTA"
+},
+{
+"where": "sheet 'TABLE 7' cell C20",
+"how": "cell text",
+"text": "- Too difficult to obtain a dew point"
+},
+{
+"where": "sheet 'TABLE 7' cell C21",
+"how": "cell text",
+"text": "- After awaiting 4 hours, we never saw a retrograde liquid deposit"
+},
+{
+"where": "sheet 'TABLE 7' cell C22",
+"how": "cell text",
+"text": "- Relative volume was obtainered per rapport at the static pressure"
+},
+{
+"where": "sheet 'TABLE 8' cell B2",
+"how": "cell text",
+"text": "TABLE 8"
+},
+{
+"where": "sheet 'TABLE 8' cell B4",
+"how": "cell text",
+"text": "PHYSICAL RECOMBINATION OF SEPARATOR SAMPLES"
+},
+{
+"where": "sheet 'TABLE 8' cell B6",
+"how": "cell text",
+"text": "I. FLASH OF SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'TABLE 8' cell B8",
+"how": "cell text",
+"text": "G.O.R."
+},
+{
+"where": "sheet 'TABLE 8' cell D8",
+"how": "cell text",
+"text": "Std cu ft/bbl"
+},
+{
+"where": "sheet 'TABLE 8' cell B9",
+"how": "cell text",
+"text": "Shrinkage factor  "
+},
+{
+"where": "sheet 'TABLE 8' cell D9",
+"how": "cell text",
+"text": "Std bbl/bbl"
+},
+{
+"where": "sheet 'TABLE 8' cell B10",
+"how": "cell text",
+"text": "Liberated gas gravity"
+},
+{
+"where": "sheet 'TABLE 8' cell D10",
+"how": "cell text",
+"text": "(Air=1)"
+},
+{
+"where": "sheet 'TABLE 8' cell B11",
+"how": "cell text",
+"text": "Stock tank oil gravity"
+},
+{
+"where": "sheet 'TABLE 8' cell D11",
+"how": "cell text",
+"text": "60/60 F"
+},
+{
+"where": "sheet 'TABLE 8' cell B13",
+"how": "cell text",
+"text": "II. CORRECTION OF GAS OIL RATIO"
+},
+{
+"where": "sheet 'TABLE 8' cell B15",
+"how": "cell text",
+"text": "Field G.O.R."
+},
+{
+"where": "sheet 'TABLE 8' cell B16",
+"how": "cell text",
+"text": "Separator gas gravity(from chromatographic analysis)"
+},
+{
+"where": "sheet 'TABLE 8' cell B17",
+"how": "cell text",
+"text": "G lab"
+},
+{
+"where": "sheet 'TABLE 8' cell C17",
+"how": "cell text",
+"text": "1. 208 (Air=1)"
+},
+{
+"where": "sheet 'TABLE 8' cell B19",
+"how": "cell text",
+"text": "Compressibility factor Z at separator conditions"
+},
+{
+"where": "sheet 'TABLE 8' cell B20",
+"how": "cell text",
+"text": "Z lab"
+},
+{
+"where": "sheet 'TABLE 8' cell B31",
+"how": "cell text",
+"text": "III. PHYSICAL RECOMBINATION"
+},
+{
+"where": "sheet 'TABLE 8' cell B32",
+"how": "cell text",
+"text": "Surface samples were physically recombined in the ratio of N/A standard cubic feet of separator gas per barrel of separator liquid "
+},
+{
+"where": "sheet 'TABLE 9' cell B3",
+"how": "cell text",
+"text": "FLASH SEPARATOR LIQUID TO STOCK TANK CONDITIONS"
+},
+{
+"where": "sheet 'TABLE 9' cell B5",
+"how": "cell text",
+"text": "Molecular composition"
+},
+{
+"where": "sheet 'TABLE 9' cell B7",
+"how": "cell text",
+"text": "Components"
+},
+{
+"where": "sheet 'TABLE 9' cell C7",
+"how": "cell text",
+"text": "Stock Tank Liquid"
+},
+{
+"where": "sheet 'TABLE 9' cell D7",
+"how": "cell text",
+"text": "Evolved Gas"
+},
+{
+"where": "sheet 'TABLE 9' cell E7",
+"how": "cell text",
+"text": "Recombined Separator Liquid"
+},
+{
+"where": "sheet 'TABLE 9' cell C8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'TABLE 9' cell D8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'TABLE 9' cell E8",
+"how": "cell text",
+"text": "Mol %"
+},
+{
+"where": "sheet 'TABLE 9' cell B9",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'TABLE 9' cell C9",
+"how": "cell text",
+"text": "0. 00"
+},
+{
+"where": "sheet 'TABLE 9' cell D9",
+"how": "cell text",
+"text": "0. 00"
+},
+{
+"where": "sheet 'TABLE 9' cell E9",
+"how": "cell text",
+"text": "0. 00"
+},
+{
+"where": "sheet 'TABLE 9' cell B10",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'TABLE 9' cell C10",
+"how": "cell text",
+"text": "0. 00"
+},
+{
+"where": "sheet 'TABLE 9' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'TABLE 9' cell D11",
+"how": "cell text",
+"text": "Traces\n(0.02 ppm)"
+},
+{
+"where": "sheet 'TABLE 9' cell E11",
+"how": "cell text",
+"text": "Traces\n(0.02 ppm)"
+},
+{
+"where": "sheet 'TABLE 9' cell B12",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'TABLE 9' cell B13",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'TABLE 9' cell B14",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'TABLE 9' cell B15",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'TABLE 9' cell B16",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'TABLE 9' cell B17",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'TABLE 9' cell B18",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'TABLE 9' cell B19",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B20",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B21",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B22",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B23",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B24",
+"how": "cell text",
+"text": "C11 Undecanes"
+},
+{
+"where": "sheet 'TABLE 9' cell B25",
+"how": "cell text",
+"text": "C12+ Dodecanes Plus"
+},
+{
+"where": "sheet 'TABLE 9' cell B27",
+"how": "cell text",
+"text": "TOTAL"
+},
+{
+"where": "sheet 'TABLE 9' cell B29",
+"how": "cell text",
+"text": "Molecular weight"
+},
+{
+"where": "sheet 'TABLE 9' cell E29",
+"how": "cell text",
+"text": "103. 4"
+},
+{
+"where": "sheet 'TABLE 9' cell B30",
+"how": "cell text",
+"text": "Gravity"
+},
+{
+"where": "sheet 'TABLE 9' cell C30",
+"how": "cell text",
+"text": "0.774 60/60 F"
+},
+{
+"where": "sheet 'TABLE 9' cell D30",
+"how": "cell text",
+"text": "1. 437 (Air = 1)"
+},
+{
+"where": "sheet 'TABLE 9' cell B31",
+"how": "cell text",
+"text": "Molar ratio"
+},
+{
+"where": "sheet 'TABLE 9' cell D31",
+"how": "cell text",
+"text": "35. 19"
+},
+{
+"where": "sheet 'TABLE 9' cell B32",
+"how": "cell text",
+"text": "Mass ratio"
+},
+{
+"where": "sheet 'TABLE 9' cell B34",
+"how": "cell text",
+"text": "Molecular weight of Dodecanes plus in STO: 209"
+},
+{
+"where": "picture image2.png (used in drawing2.xml)",
+"how": "OCR",
+"text": "Corrected G.O.R. : Field G.O.R. x field x 2 field\n\nG lab, x Z lab.\n\n~220 x 0.537\nCorrected G.O.R. : N/A err = N/A Std cu ft /bbl\n\n1.208 x 0.946\n"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "P.V.T STUDY REPORT\nDST 5\n\nDULANG 6G-1.1B\nMALAYSIA\n\nSCHLUMBERGER FLOPETROL\nSEPTEMBER 1982\n\nPETRONAS CARIGALIT SDN. BHD.\n\n"
+}
+]

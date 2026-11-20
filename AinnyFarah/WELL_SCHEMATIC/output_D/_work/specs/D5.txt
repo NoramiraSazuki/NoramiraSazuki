@@ -1,0 +1,63 @@
+WELL | D5 | 5 | image19.png | WELL D-05 : DUAL WATER INJECTOR
+SRC | 5 | image19.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 04 NOVEMBER 1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3½" 9.2 PPF N-80 TKC 4040
+INFO | xmas | INGRAM CACTUS, DUAL, 3M
+INFO | packerFluid | 9.4 PPG 3% KCl + NaCl + 0.05% NALCO TREATED WITH 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 68 DEG
+INFO | completionType | DUAL WATER INJECTOR
+CASING | 18 5/8" COND. #1 @ 717 m | 18.625 |  |  | 717 | m (datum not printed)
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ 1570 m MDDF | 13.375 | 54.5 | K-55 | 1570 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf BTC @ 2675.0 m MDDF | 9.625 | 40 | N-80 | 2675.0 | MDDF
+TUBING | 3½" 9.2 PPF N-80 TKC 4040 | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3½" 9.2 PPF N-80 TKC 4040 | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 138.7 |  | 2.992 |  |  | depth column has 4 values (137.8 beside the control line, 138.7, 141.9, 148.0) for 3 items — row-aligned values used | p1
+ROW | S | TRDP4A-LS SCSSV | 141.9 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 148.0 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 291.2 |  | 2.812 |  |  |  | p1
+ROW | S | KBMM SPM | 664.1 |  | 2.992 |  | UNLOADING VALVE @ 680 psi |  | p1
+ROW | S | CAMCO-CSD-2D SSD | 2350.3 |  | 2.812 |  | CLOSED |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 2365.5 |  |  |  |  |  | p1
+ROW | S | TELESCOPIC JOINT | 2361.6 |  |  |  |  | printed shallower than the packer above | p1
+ROW | S | CAMCO-CSD-2D SSD | 2350.3 |  | 2.812 |  | OPENED 22/Oct/1999 | same depth as the SSD above (repeated value) | p1
+ROW | S | WP-1 NIPPLE | 2439.4 |  | 2.812 |  | CLOSED 22/Oct/1999 |  | p2
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD.PKR | 2444.4 |  |  |  |  |  | p2
+ROW | S | 'D' NO-GO NIPPLE | 2447.5 |  |  |  |  |  | p2
+ROW | S | W/L ENTRY GUIDE | 2447.9 |  |  |  |  |  | p2
+ROW | L | FLOW COUPLING | 148.2 |  | 2.992 |  |  | depth column has 4 values (147.4 above, 148.2, 151.4, 157.8) for 3 items — row-aligned values used | p1
+ROW | L | TRDP4A-LS SCSSV | 151.4 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 157.8 |  | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 292.8 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 673.4 |  | 2.992 |  | UNLOADING VALVE @ 685 psi |  | p1
+ROW | L | CAMCO-CSW-2D-SSD | 2352.7 |  | 2.812 |  | CLOSED |  | p1
+ROW | L | CAMCO-CSW-DD-SSD | 2367.4 |  | 2.812 |  | CLOSED |  | p1
+ROW | L | WP-1 NIPPLE | 2439.4 |  | 2.812 |  |  |  | p2
+ROW | L | CAMCO-CSW-1D-SSD | 2460.9 |  | 2.812 |  | CLOSED |  | p2
+ROW | L | WP-1 NIPPLE | 2494.4 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 2497.6 |  | ?2.994 |  |  | MIN ID read 2.994 (low legibility) | p2
+ROW | L | BAKER 'D-1' PERM PACKER | 2499.4 |  | 4.000 |  |  | short-string column | p2
+ROW | L | SEAL BORE EXT | 2500.7 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2505.3 |  | 2.750 |  |  |  | p2
+ROW | L | WEG | 2506.5 |  | 2.441 |  | OPENED 04/Nov/1995 |  | p2
+SHOE | 9 5/8" CASING SHOE |  |  |  | label in the short-string area, no own depth | p2
+ZONE | E-1 | 2372.1 | 2389.4 | MDTHF | SAND : E-1 2372.1 m - 2389.4 m (datum not printed) | p1 | perf
+ZONE | E-8 | 2468.9 | 2473.4 | MDTHF | SAND : E-8 2468.9 m - 2473.4 m | p2 | perf
+ZONE | E-8 | 2473.9 | 2478.1 | MDTHF | 2473.9 m - 2478.1 m | p2 | perf
+ZONE | E-8 | 2479.7 | 2483.2 | MDTHF | 2479.7 m - 2483.2 m | p2 | perf
+ZONE | E-10/11 | 2527 | 2585 | MDTHF | SAND : E-10/11 2527 m - 2585 m | p2 | perf
+ZONE | E-12/13 | 2512.4 | 2570.4 | MDTHF | SAND : E-12/13 2512.4 m - 2570.4 m (overlaps E-10/11 above) | p2 | perf
+PBTD | 2639.4 |  | PBTD 2639.4 (unit/datum not printed)
+TD | 2675 | MDDF | TD @ 2675.m MDDF
+INT | TUBING PACK-OFF 25/Feb/2011 Wrong depth : 2489 m-MDTHF LEAKS (2498.5, 2494.6, 2492.9 m-MDTHF) |  |  | picture p2 pink box (depth stated as wrong)
+INT | 3” BAKER K-2 TUBING PACK-OFF + 2x15’ SPACER PIPES 1/Mar/2011 @2489.5m MDTHF LEAKS – 2491.4, 2493.1, 2497m MDTHF | 2489.5 | MDTHF | 17
+INT | WRDP-1A MLO IV |  |  | 15
+INT | TR Lock open in 2021. WRDP-1A MLO IV |  |  | 33
+NOTE | picture p2 | 16-Jun-13 PPS TOP GAUGE MAX PRESSURE 2215.67 PSI, MAX TEMPERATURE 188.04 DEG.F; PPS BOTTOM GAUGE MAX PRESSURE 2217.6 PSI, MAX TEMPERATURE 187.16 DEG.F
+NOTE | picture p2 | 14/Jun/2013 Tbg clearance @HUD 2387 m-MDTHF; 15/Jun/2013 SGS; 16/Jun/2013 MIT; 02/Sept/2013
+ISSUE | Unclear | picture p2 | two long-string rows between CENTRALIZER (2497.6) and SEAL BORE EXT are hidden by the pink pack-off box; depths '2498' and '2499.1' visible, names unreadable — not mapped
+ISSUE | Conflict | picture p1 | extra depths 137.8 (short) and 147.4 (long) printed beside the control-line row — not mapped
+ISSUE | Conflict | picture p1 | short-string TELESCOPIC JOINT 2361.6 printed shallower than the dual packer 2365.5; both CAMCO-CSD-2D SSDs printed at 2350.3 — kept as printed
+ISSUE | Conflict | slide 5 | slide status boxes (#6 CLOSED, #7 OPENED, #8 'Opened – to reconfirm', #9 'CLOSED – CONFIRM BY 2021 2017 mit', #10 CLOSED) over the picture differ from the picture statuses — listed as notes

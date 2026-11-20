@@ -1,0 +1,48 @@
+WELL | A32ST1 | 29 | image69.emf | WELL NAME: DULANG A-32ST1 — LOCATION : DULANG — COMPLETION SCHEMATIC
+SRC | 29 | image69.emf | visual transcription of the bitmap embedded in the EMF drawing (no native EMF text; x3 upscale, viewed in 4 parts)
+DATUM | m MD DF (column headers 'DEPTH m DF'; header values in 'M MD DF')
+INFO | completionDate | March 2013
+INFO | rig | KM-1
+INFO | tubing | 3-1/2" x 3-1/2" CS L-80 Lined wt GRE wt 25 Cr Completion Accessories; Long & Short String RiceWarp Lower Completion
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single H-H Trim Christmas Tree
+INFO | completionFluid | 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | maxDeviation | 68.73 DEG @ 2317.96 M MD DF /1425.92 M MD TVD
+INFO | completionType | Dual injector — Short String (WAG Injector) / Long String (Water Injector)
+CASING | PRODUCTION CASING 9-5/8" 40 L-80 CS (DEPTH : TD) | 9.625 | 40 | L-80 | TD | MD DF
+TUBING | 3-1/2" CS L-80 Lined wt GRE (short string) | 3.5 |  | L-80 | Short |
+TUBING | 3-1/2" CS L-80 Lined wt GRE (long string) | 3.5 |  | L-80 | Long |
+ROW | S | FLOW COUPLING | 237 |  | 2.880 | 3.920 |  |  | p1
+ROW | S | TRSSSV | 238 |  | 2.813 | 5.030 |  |  | p1
+ROW | S | FLOW COUPLING | 240 |  | 2.880 | 3.920 |  |  | p1
+ROW | L | FLOW COUPLING | 246 |  | 2.880 | 3.920 |  |  | p1
+ROW | L | TRSSSV | 247 |  | 2.813 | 5.030 |  |  | p1
+ROW | L | FLOW COUPLING | 248 |  | 2.880 | 3.920 |  |  | p1
+ROW | L | DDLAA BOX Top X Bottom 3-1/2" Sliding Side Door | 1947 |  | 2.813 | 4.550 |  |  | p2
+ROW | D | DDLAA BOX Top X Bottom Dual BHD 9-5/8" x 3-1/2" x 3-1/2" | 1957 |  |  |  |  | dual packer across both strings (label and depth in the long-string columns) | p2
+ROW | S | DDLAA BOX Top X Bottom 3-1/2" SSD | 1987 |  | 2.813 | 4.550 | ?SSD#1 CLOSED | status from slide text box obj #73 matched by position | p2
+ROW | D | DDLAA BOX Top X Bottom Dual BHD 9-5/8" x 3-1/2" x 3-1/2" | 2083 |  |  |  |  | dual packer across both strings (label and depth in the long-string columns) | p3
+ROW | S | DDLAA BOX Top X Bottom 3-1/2" SSD | 2086 |  | 2.813 | 4.550 | ?SSD#2 OPEN | status from slide text box obj #10 matched by position | p3
+ROW | S | DDLAA BOX Top X Bottom 3-1/2" Bull Plug | 2089 |  |  |  |  |  | p3
+ROW | S | EOT | 2090 |  |  |  |  | end of string | p3
+ROW | L | DDLAA BOX Top X Bottom Single BHR PACKER 9-5/8" X 3-1/2" | 2290 |  |  |  |  |  | p4
+ROW | L | DDLAA BOX Top X Bottom 3-1/2" Sliding Side Door | 2317 |  | 2.813 | 4.550 |  |  | p4
+ROW | L | DDLAA BOX Top X Bottom 3-1/2" Bull Plug | 2322 |  |  |  |  |  | p4
+ROW | L | EOT | 2322 |  |  |  |  | end of string | p4
+ZONE | E 10-11 | 1992 | 1997 | MD DF | E 10-11 1992 - 1997 m MD DF | p2 | perf
+ZONE | E 14 | 2088 | 2099 | MD DF | E 14 2088 - 2099 m MD DF | p3 | perf
+ZONE | E 34 | 2301 | 2308 | MD DF | E 34 2301 - 2308 m MD DF | p4 | perf
+ZONE | E 34 | 2332 | 2338 | MD DF | E 34 2332 - 2338 m MD DF | p4 | perf
+PBTD | 2410 | MD DF | PBTD 2410 (diagram) ; header PBTD : 2410 M MD DF
+TD | 2445 | MD DF | TD 2445 (diagram) ; header TD : 2445 M MD DF
+NOTE | picture p1 | WATER DEPTH : 73.00 Meter ; TUBING HANGER : 20 Meter (offsets — not mapped to elevations)
+NOTE | picture p1-p2 | 'DOUBLE LINE 20' label beside both strings (control lines) ; 'RICE WRAP' label beside both strings from about the upper dual packer to the long-string end (lower-completion sand-control wrap) — no depths printed
+NOTE | picture p2 | Short String WAG Injector / Long String Water Injector (string labels)
+NOTE | picture p4 | packer symbol across the casing above PBTD — no label and no depth printed (not mapped)
+NOTE | picture p4 | Afiq - May 2013 (drawing author / date)
+NOTE | slide 29 obj #2 | E32 (slide text box beside the E 34 interval)
+NOTE | slide 29 obj #13 | Latest Update: DEC 2015
+ISSUE | Unclear | header | production casing depth printed 'TD' (no numeric shoe depth)
+ISSUE | Unclear | slide 29 obj #2 | slide label 'E32' placed beside the diagram interval labelled 'E 34' — names disagree; diagram name kept
+ISSUE | Unclear | slide 29 | SSD statuses are slide text boxes matched to the short-string SSDs by position
+ISSUE | Missing | picture | tubing weight not printed; MIN ID / MAX OD not printed for packers and bull plugs

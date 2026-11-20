@@ -1,0 +1,77 @@
+WELL | D30 | 31 | image79.png + image80.png | WELL NAME: DULANG D-30 (LOCATION : DULANG)
+SRC | 31 | image79.png (upper) + image80.png (lower) | visual transcription of the pictures (x3 upscale), OCR cross-check
+DATUM | m MD RKB (column headers 'DEPTH MD m RKB')
+INFO | completionDate | 01-Jun-12
+INFO | rig | KM-1
+INFO | maxDeviation | 26.38 DEG @ 429 Meter MD DF / 417 Meter TVD DF
+INFO | tubing | 3-1/2" 13Cr 9.2 PPF & 2-7/8" SC 13Cr 6.4 PPF Inner String; 8.5" Open Hole wt 6-5/8" 125 Micron PGAM Screen + 8" Swell Packer
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Dual F-F Trim Christmas Tree
+INFO | completionFluid | (LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — SHORT STRING (OIL PRODUCER) / LONG STRING (OIL PRODUCER) (Vinod / Nazar May-12)
+TUBING | 3-1/2" 13Cr 9.2 PPF | 3.5 | 9.2 | 13Cr | Short |
+TUBING | 3-1/2" 13Cr 9.2 PPF | 3.5 | 9.2 | 13Cr | Long |
+TUBING | 2-7/8" SC 13Cr 6.4 PPF Inner String | 2.875 | 6.4 | 13Cr | inner |
+ROW | S | 3-1/2" FLOW COUPLING | 242 |  |  |  |  | MIN ID / MAX OD not printed | a1
+ROW | S | 3-1/2" TRSSSV | 243 |  |  |  |  |  | a1
+ROW | S | 3-1/2" FLOW COUPLING | 245 |  |  |  |  |  | a1
+ROW | S | 3-1/2" SPM | 426 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1/2" SPM | 663 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1/2" SPM | 859 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1/2" SPM | 1031 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1/2" SPM | 1176 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1-2" Orifice | 1300 |  | 2.880 | 6.000 |  |  | a1
+ROW | S | 3-1/2" X-NIPPLE | 1310 |  | 2.666 | 3.893 |  | X-nipple MIN ID 2.666 equals the XN-nipple value below — kept as printed | a1
+ROW | D | 9-5/8" x 3-1/2" x 3-1/2" DUAL RDH PACKER | 1315 |  |  |  |  | printed in the long-string column | a2
+ROW | S | 3-1/2" XN-NIPPLE | 1317 |  | 2.666 | 3.893 |  |  | a2
+ROW | S | 3-1/2 Mule Shoe | 1319 |  |  |  |  | end of the short string | a2
+ROW | L | 3-1/2" FLOW COUPLING | 251 |  |  |  |  | long string has no MIN ID / MAX OD columns | a1
+ROW | L | 3-1/2" TRSSSV | 252 |  |  |  |  |  | a1
+ROW | L | 3-1/2" FLOW COUPLING | 254 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SPM | 330 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SPM | 530 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SPM | 724 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SPM | 906 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SPM | 1077 |  |  |  |  |  | a1
+ROW | L | 3-1-2" Orifice | 1235 |  |  |  |  |  | a1
+ROW | L | 3-1/2" SSD | 1307 |  |  |  | CLOSE |  | a1
+ROW | L | PDG | 1322 |  |  |  |  | permanent downhole gauge | a2
+ROW | L | 3-1/2" x-over 2-7/8" | 1326 |  |  |  |  |  | a2
+ROW | Lw | 9-5/8" X 6-5/8" VTA Packer | 1345 |  |  |  |  |  | a2
+ROW | Lw | 3 Meter Oil Swell Packer | 1394 | 1397 |  |  |  | depth range '1394 - 1397' | a2
+ROW | L | No-Go Locator Inner String |  |  |  |  |  | no depth printed | a2
+ROW | L | 3.25" Seal Bore Ext | 1398 |  |  |  |  |  | a2
+ROW | Lw | 3 Meter Oil Swell Packer | 1411 | 1414 |  |  |  | depth range '1411 - 1414' | a2
+ROW | Lw | 3 Meter Oil Swell Packer | 1427 | 1430 |  |  |  | depth range '1427 - 1430' | b1
+ROW | L | 3.22" Slim Line SSD | 1414 |  |  |  | CLOSE | printed below the 1427-1430 swell packer — kept as printed | b1
+ROW | L | 3.22" Self Alingning Muleshoe | 1430 |  |  |  |  |  | b1
+ROW | Lw | 6-5/8" x 6-5/8" x 2-7/8" 3 Way Sub | 1437 |  |  |  |  |  | b1
+ROW | L | 3.22" Slim Line SSD | 1438 |  |  |  | OPEN |  | b1
+ROW | L | 3.25" Seal Bore Ext | 1442 |  |  |  |  |  | b1
+ROW | Lw | 3 Meter Oil Swell Packer | 1446 | 1449 |  |  |  |  | b1
+ROW | L | 3.22" Slim Line SSD | 1456 |  |  |  | OPEN |  | b1
+ROW | L | 3.25" Seal Bore Ext | 1461 |  |  |  |  |  | b1
+ROW | Lw | 3 Meter Oil Swell Packer | 1464 | 1467 |  |  |  |  | b1
+ROW | L | 3.22" Slim line SSD | 1470 |  |  |  | CLOSE |  | b2
+ROW | L | 3.25" Seal Bore Ext | 1474 |  |  |  |  |  | b2
+ROW | Lw | 3 Meter Oil Swell Packer | 1479 | 1482 |  |  |  |  | b2
+ROW | L | Slim line 2-7/8 SSD | 1486 |  |  |  | CLOSE |  | b2
+ROW | L | 3.25" Seal Bore Ext | 1490 |  |  |  |  |  | b2
+ROW | Lw | 3 Meter Oil Swell Packer | 1492 | 1495 |  |  |  |  | b2
+ROW | L | 3.22" XN-Nipple | 1495 |  |  |  |  |  | b2
+ROW | L | 3.25" Self Aligning Muleshoe | 1496 |  |  |  |  | end of the long-string inner string | b2
+FLOAT | Double Valve Float Shoe | 1499 | MD m RKB | Double Valve Float Shoe 1499
+SHOE | Csg Shoe 1389 MD | 1389 | MD | | Csg Shoe 1389 MD (9-5/8" casing shoe; '8-1/2" Open Hole' below)
+ZONE | E6-8 | 1403 | 1407 | RKB | E6-8 MD: 1403 - 1407 mRKB | a2 | interval
+ZONE | E10-11 | 1438 | 1444 | RKB | E10-11 MD: 1438 - 1444 mRKB | b1 | interval
+ZONE | E12-13 A + B | 1453 | 1465 | RKB | E12-13 A + B MD: 1453 - 1465 mRKB | b1 | interval
+ZONE | E12-13 C | 1471 | 1473 | RKB | E12-13 C MD: 1471-1473 mRKB | b2 | interval
+ZONE | E14 | 1486 | 1488 | RKB | E14 MD: 1486-1488 mRKB | b2 | interval
+TD | 1503 | MD DF | TD : 1503 Meter MD DF (diagram 'TD 1503')
+NOTE | picture header | WATER DEPTH : 74.22 Meter; TUBING HANGER : 20 Meter; DRILL IN FLUID 10.2 ppg Size Salt OPTA-FLO Drill in Fluid (DIF); ENZYME BREAKER 10.2 ppg Formate based fluid enzyme breaker
+NOTE | slide 31 image78.png (placed OFF the visible slide area, x 108-147%) | second D-30 schematic 'WELL D-30 : DUAL OIL PRODUCER' — the same completion re-drawn with depths in m-MDTHF (e.g. long SSD 1287, dual RDH packer 1295/1298, Shoe 1369 m-MDTHF, swell packers 1374-1377 / 1391-1394, E6/8 1383 - 1387 m-MDTHF 'OPENED 17/JUN/2012'), SPM statuses DV / GLV 12/64" PPO / GLOV 12/64" PPO; most digits too small to read reliably
+NOTE | slide 31 | slide boxes: '#1 DV (13/7/13) #3 GLV (18/2/14) #4 DV (12/7/13) #5 GLV (13/7/13) #6 GLOV (18/2/14)'; 'SSD#1 CLOSED 24/3/16', 'SSD#2 CLOSED 24/3/16', 'SSD#3 OPEN 24/3/16', 'SSD#4 OPEN 24/3/16'; 'Tag No Go Nipple (25/3/14)'; 'Complete TBCLR, tag XN No Go Nipple @1298mMDTHF, Tag FL@1030mMDTHF (15/10/2014)'; 'D30S-Complete SGS (16/10/2014)'; 'Pump 100 bbls sarapar inside well D30S. Perform injectivity test (28/4/2015)'; SGS 26/3/2014; LATEST UPDATE: APRIL 2016
+ISSUE | Conflict | slide 31 | two revisions of D-30 on one slide: visible PROPOSED schematic (m MD RKB, image79/80) and an off-slide re-drawn schematic in m-MDTHF (image78, partly unreadable) — not merged; visible slide schematic mapped, off-slide one recorded in notes
+ISSUE | Unclear | slide 31 image78 | off-slide picture: small print largely unreadable at the embedded resolution — reported as unreadable content
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC — treated as the well's schematic; status updates after 2012 are on slide boxes (notes)
+ISSUE | Missing | picture | PBTD not printed; casing sizes not given in the header

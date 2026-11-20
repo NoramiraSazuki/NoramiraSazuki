@@ -1,0 +1,61 @@
+WELL | A14 | 11 | image25.png | WELL DULANG A-14 — COMPLETION SCHEMATIC (WELL ID : DULANG A-14)
+SRC | 11 | image25.png | visual transcription of the spreadsheet screenshot (x3 upscale, viewed in 6 parts)
+DATUM | m MDTHF (column header 'DEPTH m MDTHF'; short-string column 'DEPTH m')
+INFO | completionDate | 17-Aug-10
+INFO | rig | GAIT 3
+INFO | tubing | 2-7/8" 6.4 PPF 13Cr FOX
+INFO | xmas | IKS/TIX, DUAL, 5M
+INFO | packerFluid | 9.3 ppg 15% NaCl, 0.2% Biocide, 2% Oxy[cut] 2% Corrosion Inhibitor.
+INFO | maxDeviation | 68 DEG
+INFO | rte | 14.52m
+CASING | CASING 18 5/8" 87.5 X-56 374 | 18.625 | 87.5 | X-56 | 374 | m (datum not printed; column 'DEPTH (m)')
+CASING | CASING 13 3/8" 54.5 K-55 1202 | 13.375 | 54.5 | K-55 | 1202 | m (datum not printed; column 'DEPTH (m)')
+CASING | CASING 9 5/8" 40 N-80 2528 | 9.625 | 40 | N-80 | 2528 | m (datum not printed; column 'DEPTH (m)')
+TUBING | 2-7/8" 6.4 PPF 13Cr FOX (short string) | 2.875 | 6.4 | 13Cr | Short |
+TUBING | 2-7/8" 6.4 PPF 13Cr FOX (long string) | 2.875 | 6.4 | 13Cr | Long |
+ROW | S | 2-7/8" TRSSV | 142.05 |  | 2.313 |  |  |  | p2
+ROW | S | 2-7/8" X- Nipple |  |  | 2.313 |  |  | depth not printed | p3
+ROW | D | 9-5/8" BHD Dual Hyd. Pac[ker] | 1225.61 |  | 2.38 |  |  | dual packer drawn across both strings; label and depth in the long-string columns (label cut at the cell edge) | p3
+ROW | S | 2-7/8" XN-NIPPLE | 1228.63 |  | 2.25 |  |  |  | p3
+ROW | S | 2-7/8" POP ASY | 1229.73 |  | 2.275 |  |  |  | p3
+ROW | S | 2-7/8" Perforated Pup Joint | 1230.01 |  | 2.441 |  |  |  | p3
+ROW | S | 2-7/8" Bull plug | 1231.26 |  |  |  |  | end of string; MIN ID printed '-' | p3
+ROW | L | 2-7/8" TRSSV | 153.97 |  | 2.313 |  |  |  | p2
+ROW | L | 2-7/8" X- Nipple | 1211.44 |  | 2.313 |  |  |  | p3
+ROW | L | 2-7/8" XN-NIPPLE | 1310.95 |  | 2.25 |  |  |  | p3
+ROW | L | 2-7/8" Mule Shoe | 1312.05 |  | 2.441 |  |  |  | p3
+ROW | L | EOT | 1312.25 |  |  |  |  | end of string | p3
+ROW | Lw | 9-5/8" VTA Packer | 1323.64 |  | 5.00 |  |  | gravel-pack / sand-control assembly below the 2010 dual completion | p3
+ROW | Lw | SCREEN |  |  |  |  |  | depth not printed; value 8.25 printed in the 'MIN IN (in)' column is larger than the 9-5/8" casing ID — not recorded as ID (see issues) | p4
+ROW | Lw | 9-5/8" AWD Permanent SUMP PACKER | 1363.1 |  | 5.00 |  |  |  | p4
+ROW | Lw | CEMENT RETAINER | 2299.0 |  |  |  |  | top of the abandoned older completion (below TOC 2284 m-MDTHF) | p4
+ROW | Lw | GUIB UNI-XXVII DUAL HYD PKR | 2306.0 |  | 2.441 |  |  | older dual completion below the cement retainer (in cement) | p4
+ROW | Lw | D' NO-GO NIPPLE |  |  |  |  |  | older short string, depth not printed (in cement) | p4
+ROW | Lw | W/L ENTRY GUIDE |  |  |  |  |  | older short string, depth not printed (in cement) | p4
+ROW | Lw | WPB-2DE' SSD | 2315.8 |  | 2.312 |  |  | older long string (in cement) | p4
+ROW | Lw | BLAST JOINT | 2317.5 | 2362.5 | 2.441 |  |  | older long string; depths printed at both ends of the bracket | p5
+ROW | Lw | WP1' NIPPLE | 2341.4 |  | 2.312 |  |  | older long string; printed 2341.4, inside the blast-joint interval above — kept as printed | p5
+ROW | Lw | CENTRALIZER | 2375.9 |  | 2.441 |  |  | older long string | p6
+ROW | Lw | LOC. SEAL ASSY | 2378.1 |  | 2.441 |  |  | older long string | p6
+ROW | Lw | GUIB MAGNUM HT' PERM. PKR | 2378.9 |  | 4.000 |  |  | label and depth in the short-string columns | p6
+ROW | Lw | SEAL BORE EXT | 2381.0 |  | 4.000 |  |  | older long string | p6
+ROW | Lw | D' NO-GO NIPPLE | 2380.6 |  | 2.250 |  |  | older long string; printed 2380.6, shallower than the seal bore extension above (2381.0) — kept as printed | p6
+ROW | Lw | WEG | 2391.3 |  | 2.441 |  |  | older long string end | p6
+ZONE | B-SAND | 1354 | 1360 | MDTHF | B-SAND 1354-1360 (long-string depth column) | p3 | perf
+ZONE | E-7 | 2332 | 2357 | MDTHF | slide text box obj #7 'E-7 2332- 2357' beside SAND E-7 (no unit/datum printed) | slide obj #7 | perf
+ZONE | E-12/13 | 248.7 | 2486.9 | MDTHF | SAND : E-12/13 NEW ADD PERF MAY 03 248.7-2486.9 m-MDTHF (top printed 248.7 — probably a typo, not corrected) | p6 | perf
+PBTD | 2967.4 | MDTHF | PBTD : 2967.4 m-mdthf (header)
+TD | 2537.9 | MDTHF | TD @ 2537.9m-MDTHF
+CEMENT | Cement above the cement retainer (TOC) | 2284 |  | MDTHF | TOC: 2284m-MDTHF (diagram)
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+NOTE | picture p1 | LOCATION : DULANG; NOTE: All depths in ft-MDTHF to top o[f] (note cut at the cell edge)
+NOTE | slide 11 obj #6 | GIGP
+NOTE | slide 11 obj #5 | Jan/2013
+NOTE | slide 11 obj #14 | LAST ENTRY : 19 Jun 2016 | TYPE OF JOB : A-14S : MIT | UPDATED BY : Wong Kian Wai | DATE : 4 Feb 2018
+NOTE | slide 11 obj #11 | Latest Update: Sep 2023 by Pravin Nair
+ISSUE | Conflict | picture p1 | header note says 'All depths in ft-MDTHF' but the depth columns are headed 'DEPTH m MDTHF' / 'DEPTH m' and the values are metre-scale — read as metres (not reconverted)
+ISSUE | Conflict | header / diagram | PBTD 2967.4 m-mdthf (header) is deeper than TD @ 2537.9 m-MDTHF (diagram) — both kept as printed
+ISSUE | Conflict | picture p6 | E-12/13 interval printed '248.7-2486.9 m-MDTHF' — top 248.7 is inconsistent (probably 2478.7); kept as printed, not corrected
+ISSUE | Unclear | picture p4 | SCREEN: '8.25' in the MIN IN column exceeds the 9-5/8" casing ID — not recorded as innerDiameter (unsupported); screen depth not printed
+ISSUE | Unclear | picture p4-p6 | older dual completion below the cement retainer (2299.0) and TOC (2284) recorded without string assignment (lower completion, in cement)
+ISSUE | Missing | header | casing setting depths printed in 'DEPTH (m)' without datum

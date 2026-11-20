@@ -1,0 +1,8 @@
+# slide 31 (slides/slide31.xml) hidden=False objects=3
+# notes: 'Open\n31'
+[pic id=11 'Picture 10' pct=[7.59, 3.39, 95.08, 91.12] hidden=False img=../media/image31.png]
+[sp id=19 'TextBox 18' pct=[17.88, 27.24, 86.8, 42.88] hidden=False]
+    FOR B31 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open

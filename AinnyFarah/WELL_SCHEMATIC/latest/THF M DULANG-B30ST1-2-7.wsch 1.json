@@ -1,0 +1,973 @@
+{
+  "id": "THF M DULANG-B30ST1",
+  "wellInfo": {
+    "completionDate": "2022-05-30",
+    "completionFluid": "8.5ppg Brine (8.33 ppg DW + 3% KCl filtered to 30 NTU)",
+    "completionType": "PROPOSED WELL COMPLETION SCHEMATIC (OIL PRODUCER #2) — Rev 2, 20-May-22; 9-5/8\" STMZ - 3 ZONES",
+    "depthDatum": "DF",
+    "depthUnit": "m",
+    "dfToThf": 15.4,
+    "dfToThfSource": "Entered in the viewer",
+    "displayDatum": "THF",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "?67.12 deg",
+    "name": "THF M DULANG-B30ST1",
+    "packerFluid": "8.5ppg Brine + 0.2% Biocide + 2% Oxygen Scavenger + 2% Corrosion Inhibitor",
+    "rig": "Sapura T9 (TADR)",
+    "surfaceCasing": "-",
+    "totalDepth": 2085.99993,
+    "trajectoryType": "-",
+    "tubing": "PRODUCTION TUBING #1 3-1/2 9.2 HP2-13Cr-95 JFE BEAR ?250 m-MDDF; PRODUCTION TUBING #2 3-1/2 9.2 13Cr-L80 JFE BEAR ?1840 m-MDDF",
+    "wellhead": "Solar Alert"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "bottomMd": 30.48,
+      "bottomMdM": null,
+      "id": "christmas-tree-1",
+      "innerDiameter": null,
+      "name": "Solar Alert 3-1/8\" 5K U/HH Trim",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png header name 'Solar Alert 3-1/8\" 5K U/HH Trim' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "christmas-tree"
+    },
+    {
+      "bottomMd": 21.00011,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription)",
+      "id": "tubing-hanger-1",
+      "innerDiameter": 2.95,
+      "name": "TUBING HANGER, 13-5/8\" x 5\"-3SA-2G LH x 3-1/2\" 9.2# JFEBEAR, w/ 3\" HBPV PROFILE",
+      "outerDiameter": 13.47,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'TUBING HANGER, 13-5/8\" x 5\"-3SA-2G LH x 3-1/2\" 9.2# JFEBEAR, w/ 3\" HBPV PROFILE' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '21' = 21.0 m -> 68.898 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.950' (column 'MIN ID' = explicit ID); outerDiameter '13.470' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 21.00011,
+      "topMdM": 21,
+      "type": "tubing-hanger"
+    },
+    {
+      "bottomMd": 240.465,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "flow-coupling-1",
+      "innerDiameter": 2.992,
+      "name": "FLOW COUPLING, 3-1/2\", S13CR, JFEBEAR (SLB)",
+      "outerDiameter": 3.885,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'FLOW COUPLING, 3-1/2\", S13CR, JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '250' = 250.0 m -> 820.21 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.992' (column 'MIN ID' = explicit ID); outerDiameter '3.885' (column 'MAX OD' = explicit OD); transcription note: one depth for the FC / SCSSV / FC group (TVDDF 250); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 240.465,
+      "topMdM": 250,
+      "type": "flow-coupling"
+    },
+    {
+      "bottomMd": 30.48,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "scssv-1",
+      "innerDiameter": 2.813,
+      "name": "SCSSV, SELF-EQ, 3-1/2\", S13CR, JFEBEAR (SLB)",
+      "outerDiameter": 5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SCSSV, SELF-EQ, 3-1/2\", S13CR, JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '5.000' (column 'MAX OD' = explicit OD); transcription note: no own depth; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "scssv"
+    },
+    {
+      "bottomMd": 30.48,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "flow-coupling-2",
+      "innerDiameter": 2.992,
+      "name": "FLOW COUPLING, 3-1/2\", S13CR, JFEBEAR (SLB)",
+      "outerDiameter": 3.885,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'FLOW COUPLING, 3-1/2\", S13CR, JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); innerDiameter '2.992' (column 'MIN ID' = explicit ID); outerDiameter '3.885' (column 'MAX OD' = explicit OD); transcription note: no own depth; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "flow-coupling"
+    },
+    {
+      "bottomMd": 757.571,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "spm-1",
+      "innerDiameter": 2.9,
+      "name": "SPM, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 5.23,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SPM, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '763' = 763.0 m -> 2503.281 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.900' (column 'MIN ID' = explicit ID); outerDiameter '5.230' (column 'MAX OD' = explicit OD); status/remark '(GLV 8/64 PTRO: 975psi)'; transcription note: TVDDF ?686; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 757.571,
+      "topMdM": 763,
+      "type": "spm"
+    },
+    {
+      "bottomMd": 1096.00011,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "spm-2",
+      "innerDiameter": 2.9,
+      "name": "SPM, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 5.23,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SPM, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1096' = 1096.0 m -> 3595.801 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.900' (column 'MIN ID' = explicit ID); outerDiameter '5.230' (column 'MAX OD' = explicit OD); status/remark '(GLV 8/64 PTRO: 935psi)'; transcription note: TVDDF ?969; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1096.00011,
+      "topMdM": 1096,
+      "type": "spm"
+    },
+    {
+      "bottomMd": 1302.0001,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "spm-3",
+      "innerDiameter": 2.9,
+      "name": "SPM, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 5.23,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SPM, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1302' = 1302.0 m -> 4271.654 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.900' (column 'MIN ID' = explicit ID); outerDiameter '5.230' (column 'MAX OD' = explicit OD); status/remark '(GLV 8/64 PTRO: 885)'; transcription note: TVDDF ?1086; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1302.0001,
+      "topMdM": 1302,
+      "type": "spm"
+    },
+    {
+      "bottomMd": 1511.99998,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "spm-4",
+      "innerDiameter": 2.9,
+      "name": "SPM, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 5.23,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SPM, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1512' = 1512.0 m -> 4960.63 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.900' (column 'MIN ID' = explicit ID); outerDiameter '5.230' (column 'MAX OD' = explicit OD); status/remark '(Orifice 12/64)'; transcription note: TVDDF ?1177; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1511.99998,
+      "topMdM": 1512,
+      "type": "spm"
+    },
+    {
+      "bottomMd": 1528.00015,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "sliding-sleeve-1",
+      "innerDiameter": 2.813,
+      "name": "SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 4.2,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1528' = 1528.0 m -> 5013.124 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.200' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1528.00015,
+      "topMdM": 1528,
+      "type": "sliding-sleeve"
+    },
+    {
+      "bottomMd": 1540.00012,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "packer-1",
+      "innerDiameter": 2.93,
+      "name": "9-5/8\" X 3-1/2\" FEED THRU PACKER, 25CR JFE BEAR, V0 RATED HYDRAULIC SET, CUT-TO-RELEASE (SLB)",
+      "outerDiameter": 8.66,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '9-5/8\" X 3-1/2\" FEED THRU PACKER, 25CR JFE BEAR, V0 RATED HYDRAULIC SET, CUT-TO-RELEASE (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1540' = 1540.0 m -> 5052.494 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.930' (column 'MIN ID' = explicit ID); outerDiameter '8.660' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1540.00012,
+      "topMdM": 1540,
+      "type": "packer"
+    },
+    {
+      "actualType": "2.813\" X- LANDING NIPPLE (SLB)",
+      "bottomMd": 1542.99996,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: nipple profile without X/R/no-go designation -> Landing Nipple is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "landing-nipple-1",
+      "innerDiameter": 2.813,
+      "name": "2.813\" X- LANDING NIPPLE (SLB)",
+      "outerDiameter": 4.04,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '2.813\" X- LANDING NIPPLE (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1543' = 1543.0 m -> 5062.336 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.040' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1542.99996,
+      "topMdM": 1543,
+      "type": "landing-nipple"
+    },
+    {
+      "actualType": "PDG, DUAL SENSOR (SLB)",
+      "bottomMd": 1550,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNRESOLVED type: UNRESOLVED: permanent downhole gauge (carrier) has no Type_Key; Pup Joint used as placeholder; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "pup-joint-1",
+      "innerDiameter": 2.915,
+      "name": "PDG, DUAL SENSOR (SLB)",
+      "outerDiameter": 5.578,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'PDG, DUAL SENSOR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1550' = 1550.0 m -> 5085.302 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.915' (column 'MIN ID' = explicit ID); outerDiameter '5.578' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1550,
+      "topMdM": 1550,
+      "type": "pup-joint"
+    },
+    {
+      "actualType": "SELF-FILLING SUB, 3-1/2\", 13CR JFE BEAR (SLB)",
+      "bottomMd": 1559.99988,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: self-filling sub -> Circulating Valve is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "circulating-valve-1",
+      "innerDiameter": 2.88,
+      "name": "SELF-FILLING SUB, 3-1/2\", 13CR JFE BEAR (SLB)",
+      "outerDiameter": 4.93,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SELF-FILLING SUB, 3-1/2\", 13CR JFE BEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1560' = 1560.0 m -> 5118.11 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '4.930' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1559.99988,
+      "topMdM": 1560,
+      "type": "circulating-valve"
+    },
+    {
+      "actualType": "i-MAGNUM DISC, 3-1/2\", 13CR JFE BEAR (SLB)",
+      "bottomMd": 1565.99987,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd"
+      ],
+      "estimationNote": "type: i-Magnum disc (glass/ceramic barrier) -> Mechanical Plug is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription)",
+      "id": "mechanical-plug-1",
+      "innerDiameter": 2.92,
+      "name": "i-MAGNUM DISC, 3-1/2\", 13CR JFE BEAR (SLB)",
+      "outerDiameter": 5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'i-MAGNUM DISC, 3-1/2\", 13CR JFE BEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1566' = 1566.0 m -> 5137.795 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.920' (column 'MIN ID' = explicit ID); outerDiameter '5.000' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1565.99987,
+      "topMdM": 1566,
+      "type": "mechanical-plug"
+    },
+    {
+      "actualType": "NO GO LOCATOR (HLB)",
+      "bottomMd": 1573.99995,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "st-slot-locator-1",
+      "innerDiameter": 2.963,
+      "name": "NO GO LOCATOR (HLB)",
+      "outerDiameter": 6.69,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'NO GO LOCATOR (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1574' = 1574.0 m -> 5164.042 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.963' (column 'MIN ID' = explicit ID); outerDiameter '6.690' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1573.99995,
+      "topMdM": 1574,
+      "type": "st-slot-locator"
+    },
+    {
+      "bottomMd": 1634.99988,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "sliding-sleeve-2",
+      "innerDiameter": 2.813,
+      "name": "SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 4.2,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1635' = 1635.0 m -> 5364.173 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.200' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1634.99988,
+      "topMdM": 1635,
+      "type": "sliding-sleeve"
+    },
+    {
+      "bottomMd": 1665.00012,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "seal-assembly-1",
+      "innerDiameter": 2.963,
+      "name": "4.75\" MSN SEAL ASSY (HLB)",
+      "outerDiameter": 4.75,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '4.75\" MSN SEAL ASSY (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1665' = 1665.0 m -> 5462.599 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.963' (column 'MIN ID' = explicit ID); outerDiameter '4.750' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1665.00012,
+      "topMdM": 1665,
+      "type": "seal-assembly"
+    },
+    {
+      "bottomMd": 1666.99991,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "sliding-sleeve-3",
+      "innerDiameter": 2.813,
+      "name": "SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 4.2,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1667' = 1667.0 m -> 5469.16 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.200' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1666.99991,
+      "topMdM": 1667,
+      "type": "sliding-sleeve"
+    },
+    {
+      "actualType": "2.813\" X- LANDING NIPPLE (SLB)",
+      "bottomMd": 1678.99989,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: nipple profile without X/R/no-go designation -> Landing Nipple is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "landing-nipple-2",
+      "innerDiameter": 2.813,
+      "name": "2.813\" X- LANDING NIPPLE (SLB)",
+      "outerDiameter": 4.04,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '2.813\" X- LANDING NIPPLE (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1679' = 1679.0 m -> 5508.53 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.040' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1678.99989,
+      "topMdM": 1679,
+      "type": "landing-nipple"
+    },
+    {
+      "bottomMd": 1714.00007,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "seal-assembly-2",
+      "innerDiameter": 2.963,
+      "name": "4.75\" MSN SEAL ASSY (HLB)",
+      "outerDiameter": 4.75,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '4.75\" MSN SEAL ASSY (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1714' = 1714.0 m -> 5623.36 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.963' (column 'MIN ID' = explicit ID); outerDiameter '4.750' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1714.00007,
+      "topMdM": 1714,
+      "type": "seal-assembly"
+    },
+    {
+      "bottomMd": 1757.00004,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "sliding-sleeve-4",
+      "innerDiameter": 2.813,
+      "name": "SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)",
+      "outerDiameter": 4.2,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name 'SLIMLINE SSD, 3-1/2\" 13CR JFEBEAR (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1757' = 1757.0 m -> 5764.436 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.200' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1757.00004,
+      "topMdM": 1757,
+      "type": "sliding-sleeve"
+    },
+    {
+      "actualType": "2.75\" NO-GO LANDING NIPPLE (SLB)",
+      "bottomMd": 1830.99999,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: nipple profile without X/R/no-go designation -> Landing Nipple is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "landing-nipple-3",
+      "innerDiameter": 2.635,
+      "name": "2.75\" NO-GO LANDING NIPPLE (SLB)",
+      "outerDiameter": 4.04,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '2.75\" NO-GO LANDING NIPPLE (SLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1831' = 1831.0 m -> 6007.218 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.635' (column 'MIN ID' = explicit ID); outerDiameter '4.040' (column 'MAX OD' = explicit OD); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1830.99999,
+      "topMdM": 1831,
+      "type": "landing-nipple"
+    },
+    {
+      "bottomMd": 1840.00012,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "mule-shoe-1",
+      "innerDiameter": 2.94,
+      "name": "3-1/2\" SELF ALIGNING MULE SHOE (HLB)",
+      "outerDiameter": 3.96,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png right table name '3-1/2\" SELF ALIGNING MULE SHOE (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1840' = 1840.0 m -> 6036.746 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '2.940' (column 'MIN ID' = explicit ID); outerDiameter '3.960' (column 'MAX OD' = explicit OD); transcription note: end of the tubing string; matches PRODUCTION TUBING #2 depth; depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1840.00012,
+      "topMdM": 1840,
+      "type": "mule-shoe"
+    },
+    {
+      "bottomMd": 1573.99995,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-packer-1",
+      "innerDiameter": 6,
+      "name": "9-5/8\" 6\" GRAVEL PACK PACKER (HLB)",
+      "outerDiameter": 8.45,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '9-5/8\" 6\" GRAVEL PACK PACKER (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1574' = 1574.0 m -> 5164.042 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '6.000' (column 'MIN ID' = explicit ID); outerDiameter '8.450' (column 'MAX OD' = explicit OD); transcription note: left table (MAX OD / MIN ID columns); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1573.99995,
+      "topMdM": 1574,
+      "type": "packer"
+    },
+    {
+      "actualType": "UPPER SEALBORE EXTENSION (HLB)",
+      "bottomMd": 1578.00015,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: packer extension -> PBR is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-pbr-1",
+      "innerDiameter": 4.75,
+      "name": "UPPER SEALBORE EXTENSION (HLB)",
+      "outerDiameter": 5.55,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'UPPER SEALBORE EXTENSION (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1578' = 1578.0 m -> 5177.166 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '5.550' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1578.00015,
+      "topMdM": 1578,
+      "type": "pbr"
+    },
+    {
+      "actualType": "MCS CLOSING SLEEVE (HLB)",
+      "bottomMd": 1579.99994,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: closing sleeve / shear joint of the gravel-pack/VTA assembly -> Sliding Sleeve is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-sliding-sleeve-1",
+      "innerDiameter": 4.75,
+      "name": "MCS CLOSING SLEEVE (HLB)",
+      "outerDiameter": 7.28,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'MCS CLOSING SLEEVE (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1580' = 1580.0 m -> 5183.727 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '7.280' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1579.99994,
+      "topMdM": 1580,
+      "type": "sliding-sleeve"
+    },
+    {
+      "actualType": "5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR",
+      "bottomMd": 1584.99988,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: blank pipe / flush joint inside the completion -> Tubing is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-tubing-1",
+      "innerDiameter": 4.879,
+      "name": "5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR",
+      "outerDiameter": 5.5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1585' = 1585.0 m -> 5200.131 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.879' (column 'MIN ID' = explicit ID); outerDiameter '5.500' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1584.99988,
+      "topMdM": 1585,
+      "type": "tubing"
+    },
+    {
+      "bottomMd": 1646.99985,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-screen-1",
+      "innerDiameter": 4.888,
+      "name": "5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)",
+      "outerDiameter": 8.25,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1647' = 1647.0 m -> 5403.543 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.888' (column 'MIN ID' = explicit ID); outerDiameter '8.250' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1646.99985,
+      "topMdM": 1647,
+      "type": "screen"
+    },
+    {
+      "bottomMd": 1657.00004,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-packer-2",
+      "innerDiameter": 4.75,
+      "name": "9-5/8\" ISOLATION PACKER (HLB)",
+      "outerDiameter": 8.45,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '9-5/8\" ISOLATION PACKER (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1657' = 1657.0 m -> 5436.352 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '8.450' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1657.00004,
+      "topMdM": 1657,
+      "type": "packer"
+    },
+    {
+      "actualType": "MCS CLOSING SLEEVE (HLB)",
+      "bottomMd": 1659.00013,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: closing sleeve / shear joint of the gravel-pack/VTA assembly -> Sliding Sleeve is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-sliding-sleeve-2",
+      "innerDiameter": 4.75,
+      "name": "MCS CLOSING SLEEVE (HLB)",
+      "outerDiameter": 7.28,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'MCS CLOSING SLEEVE (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1659' = 1659.0 m -> 5442.914 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '7.280' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1659.00013,
+      "topMdM": 1659,
+      "type": "sliding-sleeve"
+    },
+    {
+      "actualType": "5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR",
+      "bottomMd": 1665.99987,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: blank pipe / flush joint inside the completion -> Tubing is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-tubing-2",
+      "innerDiameter": 4.879,
+      "name": "5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR",
+      "outerDiameter": 5.5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '5-1/2\" BLANK PIPE, 13CR-80MY JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1666' = 1666.0 m -> 5465.879 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.879' (column 'MIN ID' = explicit ID); outerDiameter '5.500' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1665.99987,
+      "topMdM": 1666,
+      "type": "tubing"
+    },
+    {
+      "bottomMd": 1700,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-screen-2",
+      "innerDiameter": 4.888,
+      "name": "5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)",
+      "outerDiameter": 8.25,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1700' = 1700.0 m -> 5577.428 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.888' (column 'MIN ID' = explicit ID); outerDiameter '8.250' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1700,
+      "topMdM": 1700,
+      "type": "screen"
+    },
+    {
+      "bottomMd": 1734.99988,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-packer-3",
+      "innerDiameter": 4.75,
+      "name": "9-5/8\" ISOLATION PACKER (HLB)",
+      "outerDiameter": 8.45,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '9-5/8\" ISOLATION PACKER (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1735' = 1735.0 m -> 5692.257 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '8.450' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1734.99988,
+      "topMdM": 1735,
+      "type": "packer"
+    },
+    {
+      "actualType": "MCS CLOSING SLEEVE (HLB)",
+      "bottomMd": 1736.99998,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: closing sleeve / shear joint of the gravel-pack/VTA assembly -> Sliding Sleeve is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-sliding-sleeve-3",
+      "innerDiameter": 4.75,
+      "name": "MCS CLOSING SLEEVE (HLB)",
+      "outerDiameter": 7.28,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'MCS CLOSING SLEEVE (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1737' = 1737.0 m -> 5698.819 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.750' (column 'MIN ID' = explicit ID); outerDiameter '7.280' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1736.99998,
+      "topMdM": 1737,
+      "type": "sliding-sleeve"
+    },
+    {
+      "bottomMd": 1779.99994,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-screen-3",
+      "innerDiameter": 4.888,
+      "name": "5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)",
+      "outerDiameter": 8.25,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '5-1/2\" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1780' = 1780.0 m -> 5839.895 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.888' (column 'MIN ID' = explicit ID); outerDiameter '8.250' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1779.99994,
+      "topMdM": 1780,
+      "type": "screen"
+    },
+    {
+      "actualType": "SNAP LATCH LOCATOR (HLB)",
+      "bottomMd": 1790.00012,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "type: snap latch locator -> ST Slot Locator is the nearest type; UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-st-slot-locator-1",
+      "innerDiameter": 4.888,
+      "name": "SNAP LATCH LOCATOR (HLB)",
+      "outerDiameter": 6.6,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'SNAP LATCH LOCATOR (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1790' = 1790.0 m -> 5872.704 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '4.888' (column 'MIN ID' = explicit ID); outerDiameter '6.600' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1790.00012,
+      "topMdM": 1790,
+      "type": "st-slot-locator"
+    },
+    {
+      "bottomMd": 1790.00012,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription); UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "id": "lc-packer-4",
+      "innerDiameter": 6,
+      "name": "9-5/8\" SUMP PACKER (HLB)",
+      "outerDiameter": 8.22,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name '9-5/8\" SUMP PACKER (HLB)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd '1790' = 1790.0 m -> 5872.704 ft (m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment') (equipment depth column as printed)); innerDiameter '6.000' (column 'MIN ID' = explicit ID); outerDiameter '8.220' (column 'MAX OD' = explicit OD); lower-completion item (no string assigned); depth datum: m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')",
+      "topMd": 1790.00012,
+      "topMdM": 1790,
+      "type": "packer"
+    },
+    {
+      "bottomMd": 600,
+      "bottomMdM": 600,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "K-55",
+      "id": "surface-casing-1",
+      "innerDiameter": 12.415,
+      "name": "INTERMEDIATE CASING 13-3/8 ?68 ppf K-55 BTC",
+      "outerDiameter": 13.375,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'INTERMEDIATE CASING 13-3/8 ?68 ppf K-55 BTC' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd '600' = 600.0 m -> 1968.504 ft (m MDDF (tubular table DEPTH column)); innerDiameter '12.415' (tubular table 'ID (inch)' = explicit ID); outerDiameter '13.375' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "casing",
+      "weight": 68
+    },
+    {
+      "bottomMd": 1650,
+      "bottomMdM": 1650,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "L80",
+      "id": "production-casing-1",
+      "innerDiameter": 8.681,
+      "name": "PRODUCTION CASING 9-5/8 47.0 ppf L80 JFE BEAR",
+      "outerDiameter": 9.625,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'PRODUCTION CASING 9-5/8 47.0 ppf L80 JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd '1650' = 1650.0 m -> 5413.386 ft (m MDDF (tubular table DEPTH column)); innerDiameter '8.681' (tubular table 'ID (inch)' = explicit ID); outerDiameter '9.625' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "casing",
+      "weight": 47
+    },
+    {
+      "bottomMd": 2085.99993,
+      "bottomMdM": 2086,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "13Cr-80",
+      "id": "production-casing-2",
+      "innerDiameter": 8.681,
+      "name": "PRODUCTION CASING 9-5/8 47.0 ppf 13Cr-80 JFE BEAR (9-5/8\" 47# 13CR-80 JFE BEAR CSG SHOE)",
+      "outerDiameter": 9.625,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'PRODUCTION CASING 9-5/8 47.0 ppf 13Cr-80 JFE BEAR (9-5/8\" 47# 13CR-80 JFE BEAR CSG SHOE)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd '2086' = 2086.0 m -> 6843.832 ft (m MDDF (tubular table DEPTH column)); innerDiameter '8.681' (tubular table 'ID (inch)' = explicit ID); outerDiameter '9.625' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "casing",
+      "weight": 47
+    },
+    {
+      "bottomMd": 1790.00012,
+      "bottomMdM": 1790,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "13Cr-L80",
+      "id": "lower-completion-string-1",
+      "innerDiameter": 4.892,
+      "name": "LOWER COMP STRING 5-1/2 17.0 ppf 13Cr-L80 JFE BEAR",
+      "outerDiameter": 5.5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'LOWER COMP STRING 5-1/2 17.0 ppf 13Cr-L80 JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd 'LOWER COMP STRING 5-1/2 17.0 ppf 13Cr-L80 JFE BEAR 1790 MDDF' = 1790.0 m -> 5872.704 ft (m MDDF (tubular table depth = string end)); innerDiameter '4.892' (tubular table 'ID (inch)' = explicit ID); outerDiameter '5.500' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "tubing",
+      "weight": 17
+    },
+    {
+      "bottomMd": 250,
+      "bottomMdM": 250,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "HP2-13Cr-95",
+      "id": "tubing-1",
+      "innerDiameter": 2.992,
+      "name": "PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR",
+      "outerDiameter": 3.5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd 'PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR 250 MDDF' = 250.0 m -> 820.21 ft (m MDDF (tubular table depth = string end)); innerDiameter '2.992' (tubular table 'ID (inch)' = explicit ID); outerDiameter '3.500' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "tubing",
+      "weight": 9.2
+    },
+    {
+      "bottomMd": 1840.00012,
+      "bottomMdM": 1840,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "UNCLEAR READ: value(s) of low legibility (marked '?')",
+      "grade": "13Cr-L80",
+      "id": "tubing-2",
+      "innerDiameter": 2.992,
+      "name": "PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR",
+      "outerDiameter": 3.5,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png tubular table name 'PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); bottomMd 'PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR 1840 MDDF' = 1840.0 m -> 6036.746 ft (m MDDF (tubular table depth = string end)); innerDiameter '2.992' (tubular table 'ID (inch)' = explicit ID); outerDiameter '3.500' (tubular table 'OD (inch)' = explicit OD)",
+      "topMd": 0,
+      "topMdM": null,
+      "type": "tubing",
+      "weight": 9.2
+    },
+    {
+      "bottomMd": 1652.69992,
+      "bottomMdM": 1652.7,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "DATUM: interval printed in MDDF; equipment datum m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment'); not shifted",
+      "id": "zone-e7-1",
+      "innerDiameter": null,
+      "name": "E7 ?1650.7-?1652.7 m MDDF",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'E7 ?1650.7-?1652.7 m MDDF' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd 'E7 SAND - EXTENSION PACK: Perf Interval: 1650.7 m-MDDF - 1652.7 m-MDDF (2 meters) (low legibility)' = 1650.7 m -> 5415.683 ft (m MDDF as printed); bottomMd 'E7 SAND - EXTENSION PACK: Perf Interval: 1650.7 m-MDDF - 1652.7 m-MDDF (2 meters) (low legibility)' = 1652.7 m -> 5422.244 ft (m MDDF as printed); original text: E7 SAND - EXTENSION PACK: Perf Interval: 1650.7 m-MDDF - 1652.7 m-MDDF (2 meters) (low legibility)",
+      "topMd": 1650.70013,
+      "topMdM": 1650.7,
+      "type": "perforation",
+      "zone": "E7"
+    },
+    {
+      "bottomMd": 1704.55005,
+      "bottomMdM": 1704.55,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "DATUM: interval printed in MDDF; equipment datum m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment'); not shifted",
+      "id": "zone-e10a-e11b-1",
+      "innerDiameter": null,
+      "name": "E10A/E11B ?1702.55-?1704.55 m MDDF",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'E10A/E11B ?1702.55-?1704.55 m MDDF' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd 'E10A/E11B SAND - EXTENSION PACK (HYBRID): Perf Interval: 1702.55 m-MDDF - 1704.55 m-MDDF (2 meters) (low legibility)' = 1702.55 m -> 5585.794 ft (m MDDF as printed); bottomMd 'E10A/E11B SAND - EXTENSION PACK (HYBRID): Perf Interval: 1702.55 m-MDDF - 1704.55 m-MDDF (2 meters) (low legibility)' = 1704.55 m -> 5592.356 ft (m MDDF as printed); original text: E10A/E11B SAND - EXTENSION PACK (HYBRID): Perf Interval: 1702.55 m-MDDF - 1704.55 m-MDDF (2 meters) (low legibility)",
+      "topMd": 1702.54996,
+      "topMdM": 1702.55,
+      "type": "perforation",
+      "zone": "E10A/E11B"
+    },
+    {
+      "bottomMd": 1733.00009,
+      "bottomMdM": 1733,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "DATUM: interval printed in MDDF; equipment datum m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment'); not shifted",
+      "id": "zone-e12b-1",
+      "innerDiameter": null,
+      "name": "E12B ?1725-?1733 m MDDF",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'E12B ?1725-?1733 m MDDF' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd 'E12B SAND - CIRCULATING PACK (HYBRID): Perf Interval: 1725 m-MDDF - 1733 m-MDDF (8 meters) (low legibility)' = 1725.0 m -> 5659.449 ft (m MDDF as printed); bottomMd 'E12B SAND - CIRCULATING PACK (HYBRID): Perf Interval: 1725 m-MDDF - 1733 m-MDDF (8 meters) (low legibility)' = 1733.0 m -> 5685.696 ft (m MDDF as printed); original text: E12B SAND - CIRCULATING PACK (HYBRID): Perf Interval: 1725 m-MDDF - 1733 m-MDDF (8 meters) (low legibility)",
+      "topMd": 1725,
+      "topMdM": 1725,
+      "type": "perforation",
+      "zone": "E12B"
+    },
+    {
+      "bottomMd": 1785.65002,
+      "bottomMdM": 1785.65,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "DATUM: interval printed in MDDF; equipment datum m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment'); not shifted",
+      "id": "zone-e14b-1",
+      "innerDiameter": null,
+      "name": "E14B ?1783.65-?1785.65 m MDDF",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png left table name 'E14B ?1783.65-?1785.65 m MDDF' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd 'E14B SAND - EXTENSION PACK: Perf Interval: 1783.65 m-MDDF - 1785.65 m-MDDF (2 meters) (low legibility)' = 1783.65 m -> 5851.87 ft (m MDDF as printed); bottomMd 'E14B SAND - EXTENSION PACK: Perf Interval: 1783.65 m-MDDF - 1785.65 m-MDDF (2 meters) (low legibility)' = 1785.65 m -> 5858.432 ft (m MDDF as printed); original text: E14B SAND - EXTENSION PACK: Perf Interval: 1783.65 m-MDDF - 1785.65 m-MDDF (2 meters) (low legibility)",
+      "topMd": 1783.64992,
+      "topMdM": 1783.65,
+      "type": "perforation",
+      "zone": "E14B"
+    },
+    {
+      "bottomMd": 2015.99987,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd"
+      ],
+      "estimationNote": "DATUM: PBTD printed as 'MDDF', equipment datum m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment'); not shifted",
+      "id": "pbtd-1",
+      "innerDiameter": null,
+      "name": "PBTD ?2016 (left table; header PBTD : ?2016 m-MDDF)",
+      "outerDiameter": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 30 image30.png diagram name 'PBTD ?2016 (left table; header PBTD : ?2016 m-MDDF)' (visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain); topMd 'PBTD ?2016 (left table; header PBTD : ?2016 m-MDDF)' = 2016.0 m -> 6614.173 ft (m MDDF)",
+      "topMd": 2015.99987,
+      "topMdM": 2016,
+      "type": "pbtd"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

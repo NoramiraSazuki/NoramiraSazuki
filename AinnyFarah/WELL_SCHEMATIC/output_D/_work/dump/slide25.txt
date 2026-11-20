@@ -1,0 +1,17 @@
+# slide 25 (slides/slide25.xml) hidden=False objects=13
+# notes: 'Updated by Pravin Nair on 22nd July 2022\n\nOpen\n24'
+[pic id=6163458 'Picture 2' pct=[30.5, 0.0, 69.5, 99.23] hidden=False img=../media/image66.png]
+[sp id=6 'Rectangle 5' pct=[50.0, 96.1, 67.57, 98.39] hidden=False]
+    Updated 23rd Nov 2022 by Pravin Nair
+[sp id=7 'TextBox 6' pct=[25.86, 64.62, 30.74, 70.76] hidden=False]
+    OPENED 13/9/1996
+[sp id=9 'TextBox 8' pct=[68.61, 87.06, 73.5, 93.21] hidden=False]
+    OPENED 13/9/1996
+[sp id=16 'TextBox 15' pct=[64.7, 24.23, 81.0, 30.51] hidden=False]
+    WRDP-1A-MLO set at 149m. Suspected TRSV flapper dislodged, unable to re-lock open Nov 2022
+[pic id=22 'Graphic 21' pct=[49.49, 24.23, 50.93, 26.79] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[pic id=17 'Picture 16' pct=[68.46, 30.09, 74.58, 40.91] hidden=False img=../media/image67.jpeg]
+[sp id=47 'TextBox 46' pct=[23.37, 20.98, 33.84, 28.55] hidden=False]
+    WRDP-1A-MLO set at TRSV profile. TR flapper lock open in Dec 2010
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

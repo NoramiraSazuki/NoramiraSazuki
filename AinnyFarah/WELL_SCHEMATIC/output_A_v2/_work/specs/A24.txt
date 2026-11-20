@@ -1,0 +1,72 @@
+WELL | A24 | 21 | image48.png + image49.png | WELL A-24: DUAL OIL PRODUCER IN 9 5/8" CASING (TYPE 5)
+SRC | 21 | image48.png + image49.png | visual transcription of the screenshot pictures (x3 upscale, upper part image48 / lower part image49)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 15 APRIL 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, DUAL, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 54.91 DEG @ 749.70 mMDDF
+INFO | rte | 14.52 m
+INFO | completionType | DUAL OIL PRODUCER IN 9 5/8" CASING (TYPE 5)
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ 701 m MDDF | 18.625 | 87.5 | X-56 | 701 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ 1218 mMDDF | 13.375 | 54.5 | K-55 | 1218 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ 2049.0 mMDDF | 9.625 | 40 | N-80 | 2049.0 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (short string) | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (long string) | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 131.2 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 132.1 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 290.3 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 754.2 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1428.1 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1388.7 |  | 2.371 |  |  | printed 1388.7, shallower than the SPM listed above it (1428.1) — kept as printed | p1
+ROW | S | KBMG-M SPM | 2195.7 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 2397.8 |  | 2.371 |  |  |  | p1
+ROW | S | WPB-2DE SSD | 2445.8 |  | 2.312 |  | CLOSED |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 2453.6 |  | 2.441 |  |  | dual packer across both strings | p1
+ROW | S | 'D' NO-GO NIPPLE | 2456.5 |  | 2.250 |  |  |  | p1
+ROW | S | W/L ENTRY GUIDE | 2456.8 |  | 2.441 |  |  | end of string | p1
+ROW | L | FLOW COUPLING | 140.3 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 141.2 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 290.0 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 763.9 |  | 2.371 |  | GLV 20/6/96 |  | p1
+ROW | L | KBMG-M SPM | 1465.7 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1945.9 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 2282.2 |  | 2.371 |  | GLV 14/6/96 |  | p1
+ROW | L | KBMG-M SPM | 2406.8 |  | 2.371 |  | GLV 12/6/96 |  | p1
+ROW | L | WPB-2DE SSD | 2445.7 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 2461.1 |  | 2.312 |  | CLOSED; ?OPENED 23/OCT/17 | later status from slide text box obj #36 matched by position | p1
+ROW | L | BLAST JOINT | 2464.7 | 2491.9 | 2.441 |  |  |  | p2
+ROW | L | 'WP1' NIPPLE | 2584.1 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 2589.2 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 2589.7 |  | 2.441 |  |  |  | p2
+ROW | L | GUIB MAGNUM 'HT' PERM. PKR | 2590.4 |  | 4.000 |  |  | label and depth printed in the short-string columns | p2
+ROW | L | SEAL BORE EXT. | 2590.8 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2595.1 |  | 2.250 |  |  |  | p2
+ROW | L | WEG | 2595.5 |  | 2.441 |  |  | end of string | p2
+PBTD | 1957.5 | MD mbrt | PBTD : 1957.5 MD mbrt (header)
+TD | 2715.5 | MDTHF | slide text box obj #2 'TD @ 2715.5 m-MDTHF' placed beside the diagram label 'TD @ 2015.5 m MDTHF' (diagram value is above the completion — slide correction used)
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+INT | Slick Plug Set @ 2532 m-mdthf (21/8/2017) | 2532 | MDTHF | 34
+INT | 2.25" CA Plug @ D- No Go profile at 2457m (19/3/2017) | 2457 |  | 13
+INT | CSA Plug @ TRSV. Flapper lock open Oct 2016 |  |  | 11
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p2 | SAND : LOWER D-1 ; SAND : E-7 (diagram sand boxes without intervals)
+NOTE | picture p2 | diagram label TD @ 2015.5 m MDTHF (superseded by the slide text box TD @ 2715.5 m-MDTHF)
+NOTE | slide 21 obj #23 | 73.3 Deg @ 652.48 m-MDTHF (slide text box beside the header MAXIMUM DEVIATION 54.91 DEG @ 749.70 mMDDF)
+NOTE | slide 21 obj #38 | DV @SPM#1 | GLV@SPM#2 | DV@SPM#3 | DV@SPM#4 | GLOV@SPM#5 | (26/10/17) (SPM numbering not stated — not matched to rows)
+NOTE | slide 21 obj #7 | OPEN 12/JUL/1992 (beside SAND : LOWER D-1)
+NOTE | slide 21 obj #5 | 2.00" Pump Sand Bailer landed at HUD@ 242m-m-MDTHF. Recovered 0.25 kg sand (13/7/17)
+NOTE | slide 21 obj #10 | HUD @2530m– MDTHF LIB suspected sand (22/10/17)
+NOTE | slide 21 obj #16 | Supected wax@2414m – MDTHF(19/2/17)
+NOTE | slide 21 obj #42 | Suspected scale@2404m-MDTHF(16/7/14)
+NOTE | slide 21 obj #45 | Closed SSD @2457m-MDTHF(9/7/16)
+NOTE | slide 21 obj #24 | Ret Tbg Stop@2435mMDTHF(26/10/17) (retrieved — not installed equipment)
+NOTE | slide 21 obj #48 | Retrieve U&L .Tubing Stop(22/2/17) (retrieved)
+NOTE | slide 21 obj #41 | LAST ENTRY : 26 Oct 2017 | TYPE OF JOB : A-24L : GLVC | UPDATED BY : M Zhafran | DATE : 4 Feb 2018
+NOTE | slide 21 obj #17 | Latest Update: 24 JULY 2017
+ISSUE | Conflict | picture p2 / slide 21 obj #2 | TD: diagram 'TD @ 2015.5 m MDTHF' vs slide text box 'TD @ 2715.5 m-MDTHF'; the diagram value is shallower than the completion (to 2595.5 m) — slide value used, diagram value recorded
+ISSUE | Conflict | header | 9 5/8" production shoe 2049.0 m MDDF and PBTD 1957.5 MD mbrt (header) are shallower than the completion (to 2595.5 m MDTHF) — kept as printed
+ISSUE | Conflict | header / slide 21 obj #23 | maximum deviation: header 54.91 DEG @ 749.70 mMDDF vs slide text box 73.3 Deg @ 652.48 m-MDTHF — header value mapped, slide value recorded
+ISSUE | Unclear | picture p1 | short-string SPM printed 1388.7 below an SPM at 1428.1 — kept as printed
+ISSUE | Unclear | slide 21 obj #13 | CA plug depth 2457 m printed without datum (at the short-string 'D' NO-GO 2456.5) — depth not mapped

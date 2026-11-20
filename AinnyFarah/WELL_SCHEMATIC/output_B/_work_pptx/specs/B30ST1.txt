@@ -1,0 +1,65 @@
+WELL | B30ST1 | 30 | image30.png | WELL NAME: B30 ST-1 (LOCATION / SLOT: DULANG B PLATFORM /SLOT 26)
+SRC | 30 | image30.png | visual transcription of a low-resolution picture (632x842 px, x3 upscale), OCR cross-check — many digits uncertain
+DATUM | m MDDF (columns 'DEPTH m-MDDF'; 'Note: All depths are in meter from RKB to top of equipment')
+INFO | completionDate | ?30-May-22
+INFO | rig | Sapura T9 (TADR)
+INFO | maxDeviation | ?67.12 deg
+INFO | wellhead | Solar Alert
+INFO | xmas | Solar Alert 3-1/8" 5K U/HH Trim
+INFO | completionFluid | 8.5ppg Brine (8.33 ppg DW + 3% KCl filtered to 30 NTU)
+INFO | packerFluid | 8.5ppg Brine + 0.2% Biocide + 2% Oxygen Scavenger + 2% Corrosion Inhibitor
+INFO | tubing | PRODUCTION TUBING #1 3-1/2 9.2 HP2-13Cr-95 JFE BEAR ?250 m-MDDF; PRODUCTION TUBING #2 3-1/2 9.2 13Cr-L80 JFE BEAR ?1840 m-MDDF
+INFO | completionType | PROPOSED WELL COMPLETION SCHEMATIC (OIL PRODUCER #2) — Rev 2, 20-May-22; 9-5/8" STMZ - 3 ZONES
+CASINGX | INTERMEDIATE CASING 13-3/8 ?68 ppf K-55 BTC | 13.375 | ?12.415 | ?68 | K-55 | ?600 | MDDF
+CASINGX | PRODUCTION CASING 9-5/8 47.0 ppf L80 JFE BEAR | 9.625 | 8.681 | 47.0 | L80 | ?1650 | MDDF
+CASINGX | PRODUCTION CASING 9-5/8 47.0 ppf 13Cr-80 JFE BEAR (9-5/8" 47# 13CR-80 JFE BEAR CSG SHOE) | 9.625 | 8.681 | 47.0 | 13Cr-80 | ?2086 | MDDF
+TUBINGX | LOWER COMP STRING 5-1/2 17.0 ppf 13Cr-L80 JFE BEAR | 5.500 | ?4.892 | 17.0 | 13Cr-L80 | lower | ?1790 MDDF
+TUBINGX | PRODUCTION TUBING #1 3-1/2 9.2 ppf HP2-13Cr-95 JFE BEAR | 3.500 | 2.992 | 9.2 | HP2-13Cr-95 | - | ?250 MDDF
+TUBINGX | PRODUCTION TUBING #2 3-1/2 9.2 ppf 13Cr-L80 JFE BEAR | 3.500 | 2.992 | 9.2 | 13Cr-L80 | - | ?1840 MDDF
+ROW | X | TUBING HANGER, 13-5/8" x 5"-3SA-2G LH x 3-1/2" 9.2# JFEBEAR, w/ 3" HBPV PROFILE | ?21 |  | 2.950 | 13.470 |  |  | right table
+ROW | X | FLOW COUPLING, 3-1/2", S13CR, JFEBEAR (SLB) | ?250 |  | 2.992 | ?3.885 |  | one depth for the FC / SCSSV / FC group (TVDDF 250) | right table
+ROW | X | SCSSV, SELF-EQ, 3-1/2", S13CR, JFEBEAR (SLB) |  |  | ?2.813 | ?5.000 |  | no own depth | right table
+ROW | X | FLOW COUPLING, 3-1/2", S13CR, JFEBEAR (SLB) |  |  | 2.992 | ?3.885 |  | no own depth | right table
+ROW | X | SPM, 3-1/2" 13CR JFEBEAR (SLB) | ?763 |  | 2.900 | ?5.230 | (GLV 8/64 PTRO: 975psi) | TVDDF ?686 | right table
+ROW | X | SPM, 3-1/2" 13CR JFEBEAR (SLB) | ?1096 |  | 2.900 | ?5.230 | (GLV 8/64 PTRO: 935psi) | TVDDF ?969 | right table
+ROW | X | SPM, 3-1/2" 13CR JFEBEAR (SLB) | ?1302 |  | 2.900 | ?5.230 | (GLV 8/64 PTRO: 885) | TVDDF ?1086 | right table
+ROW | X | SPM, 3-1/2" 13CR JFEBEAR (SLB) | ?1512 |  | 2.900 | ?5.230 | (Orifice 12/64) | TVDDF ?1177 | right table
+ROW | X | SLIMLINE SSD, 3-1/2" 13CR JFEBEAR (SLB) | ?1528 |  | ?2.813 | ?4.200 |  |  | right table
+ROW | X | 9-5/8" X 3-1/2" FEED THRU PACKER, 25CR JFE BEAR, V0 RATED HYDRAULIC SET, CUT-TO-RELEASE (SLB) | ?1540 |  | ?2.930 | ?8.660 |  |  | right table
+ROW | X | 2.813" X- LANDING NIPPLE (SLB) | ?1543 |  | ?2.813 | ?4.040 |  |  | right table
+ROW | X | PDG, DUAL SENSOR (SLB) | ?1550 |  | ?2.915 | ?5.578 |  |  | right table
+ROW | X | SELF-FILLING SUB, 3-1/2", 13CR JFE BEAR (SLB) | ?1560 |  | 2.880 | ?4.930 |  |  | right table
+ROW | X | i-MAGNUM DISC, 3-1/2", 13CR JFE BEAR (SLB) | ?1566 |  | 2.920 | 5.000 |  |  | right table
+ROW | X | NO GO LOCATOR (HLB) | ?1574 |  | ?2.963 | ?6.690 |  |  | right table
+ROW | X | SLIMLINE SSD, 3-1/2" 13CR JFEBEAR (SLB) | ?1635 |  | ?2.813 | ?4.200 |  |  | right table
+ROW | X | 4.75" MSN SEAL ASSY (HLB) | ?1665 |  | ?2.963 | ?4.750 |  |  | right table
+ROW | X | SLIMLINE SSD, 3-1/2" 13CR JFEBEAR (SLB) | ?1667 |  | ?2.813 | ?4.200 |  |  | right table
+ROW | X | 2.813" X- LANDING NIPPLE (SLB) | ?1679 |  | ?2.813 | ?4.040 |  |  | right table
+ROW | X | 4.75" MSN SEAL ASSY (HLB) | ?1714 |  | ?2.963 | ?4.750 |  |  | right table
+ROW | X | SLIMLINE SSD, 3-1/2" 13CR JFEBEAR (SLB) | ?1757 |  | ?2.813 | ?4.200 |  |  | right table
+ROW | X | 2.75" NO-GO LANDING NIPPLE (SLB) | ?1831 |  | ?2.635 | ?4.040 |  |  | right table
+ROW | X | 3-1/2" SELF ALIGNING MULE SHOE (HLB) | ?1840 |  | ?2.940 | ?3.960 |  | end of the tubing string; matches PRODUCTION TUBING #2 depth | right table
+ROW | Lw | 9-5/8" 6" GRAVEL PACK PACKER (HLB) | ?1574 |  | ?6.000 | ?8.450 |  | left table (MAX OD / MIN ID columns) | left table
+ROW | Lw | UPPER SEALBORE EXTENSION (HLB) | ?1578 |  | ?4.750 | ?5.550 |  |  | left table
+ROW | Lw | MCS CLOSING SLEEVE (HLB) | ?1580 |  | ?4.750 | ?7.280 |  |  | left table
+ROW | Lw | 5-1/2" BLANK PIPE, 13CR-80MY JFE BEAR | ?1585 |  | ?4.879 | ?5.500 |  |  | left table
+ROW | Lw | 5-1/2" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB) | ?1647 |  | ?4.888 | ?8.250 |  |  | left table
+ROW | Lw | 9-5/8" ISOLATION PACKER (HLB) | ?1657 |  | ?4.750 | ?8.450 |  |  | left table
+ROW | Lw | MCS CLOSING SLEEVE (HLB) | ?1659 |  | ?4.750 | ?7.280 |  |  | left table
+ROW | Lw | 5-1/2" BLANK PIPE, 13CR-80MY JFE BEAR | ?1666 |  | ?4.879 | ?5.500 |  |  | left table
+ROW | Lw | 5-1/2" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB) | ?1700 |  | ?4.888 | ?8.250 |  |  | left table
+ROW | Lw | 9-5/8" ISOLATION PACKER (HLB) | ?1735 |  | ?4.750 | ?8.450 |  |  | left table
+ROW | Lw | MCS CLOSING SLEEVE (HLB) | ?1737 |  | ?4.750 | ?7.280 |  |  | left table
+ROW | Lw | 5-1/2" WIRE WRAP SCREEN W/CENTRALIZER, 12 GA (HLB) | ?1780 |  | ?4.888 | ?8.250 |  |  | left table
+ROW | Lw | SNAP LATCH LOCATOR (HLB) | ?1790 |  | ?4.888 | ?6.600 |  |  | left table
+ROW | Lw | 9-5/8" SUMP PACKER (HLB) | ?1790 |  | ?6.000 | ?8.220 |  |  | left table
+ZONE | E7 | ?1650.7 | ?1652.7 | MDDF | E7 SAND - EXTENSION PACK: Perf Interval: 1650.7 m-MDDF - 1652.7 m-MDDF (2 meters) (low legibility) | left table | perf
+ZONE | E10A/E11B | ?1702.55 | ?1704.55 | MDDF | E10A/E11B SAND - EXTENSION PACK (HYBRID): Perf Interval: 1702.55 m-MDDF - 1704.55 m-MDDF (2 meters) (low legibility) | left table | perf
+ZONE | E12B | ?1725 | ?1733 | MDDF | E12B SAND - CIRCULATING PACK (HYBRID): Perf Interval: 1725 m-MDDF - 1733 m-MDDF (8 meters) (low legibility) | left table | perf
+ZONE | E14B | ?1783.65 | ?1785.65 | MDDF | E14B SAND - EXTENSION PACK: Perf Interval: 1783.65 m-MDDF - 1785.65 m-MDDF (2 meters) (low legibility) | left table | perf
+PBTD | ?2016 | MDDF | PBTD ?2016 (left table; header PBTD : ?2016 m-MDDF)
+TD | ?2086 | MDDF | TOTAL DEPTH : ?2086 m-MDDF
+NOTE | picture | E20 SAND (BCO) 'Future Perf Interval: 1846 m-MDDF - 1850 m-MDDF (4 meters)' — planned, not mapped as a zone; sand depths / BHP / BHT per zone (illegible in part); 'STMZ Gross Length: 216.0 meter'; Pip Tag #1/#2 and WAB labels (≈1576 / 1688 / 1870 m-MDDF, illegible); left table also lists 13-3/8" CSG SIDETRACK WINDOW (?586 m-MDDF) and 9-5/8" 47# L80 JFE BEAR (?1650); WATER DEPTH : 76.7 m; DFE : 37.1 m-AMSL; DFE-THF : 16.4 m; Designed by: Diana Madi (Senior Completion Engineer), Daeng Dhamiry (Completion Engineer), Mohd Hisham (Production Technologist); Rev 2; Date 20-May-22
+NOTE | slide 30 | 'FOR B30 LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS - PRAVIN NAIR 2023-'
+ISSUE | Unclear | picture | very low-resolution picture (632x842 px): almost all depths, several IDs/ODs and the header values are uncertain reads (marked '?', flagged estimated); the Excel original in ECMS (named on the slide) should be used to confirm — reported as partly unreadable content
+ISSUE | Unclear | picture | PROPOSED schematic (Rev 2) — treated as the well's schematic; the slide says the latest editable diagram is in ECMS (not part of this input)

@@ -1,0 +1,252 @@
+[
+{
+"where": "sheet 'WATER ANALYSIS' cell B2",
+"how": "cell text",
+"text": "DATE"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B3",
+"how": "cell text",
+"text": "COMPANY"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C3",
+"how": "cell text",
+"text": "ESSO PRODUCTION MALAYSIA INC"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B4",
+"how": "cell text",
+"text": "SAMPLE NO"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C4",
+"how": "cell text",
+"text": "CH-054"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B5",
+"how": "cell text",
+"text": "DEPTH"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C5",
+"how": "cell text",
+"text": "1246.5 - 1255.5 m"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B6",
+"how": "cell text",
+"text": "LOCATION & COUNTRY"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C6",
+"how": "cell text",
+"text": "MALAYSIA"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B7",
+"how": "cell text",
+"text": "DATE SAMPLED"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C7",
+"how": "cell text",
+"text": "2 FEBRUARY 1986, TIME: 13.4"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B8",
+"how": "cell text",
+"text": "WELL NAME"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C8",
+"how": "cell text",
+"text": "DULANG 5"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B9",
+"how": "cell text",
+"text": "SAMPLE FROM"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C9",
+"how": "cell text",
+"text": "SEPARATOR"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B10",
+"how": "cell text",
+"text": "DATE ANALYSED"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B11",
+"how": "cell text",
+"text": "OUR JOB NO"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C11",
+"how": "cell text",
+"text": "CHEM 86021"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B12",
+"how": "cell text",
+"text": "ANALYSTS"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C12",
+"how": "cell text",
+"text": "AS"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B14",
+"how": "cell text",
+"text": "ANALYSIS RESULT"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B16",
+"how": "cell text",
+"text": "Appearance Before Filtration"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C16",
+"how": "cell text",
+"text": "Turbid, Brown and a Layer of Oil"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B17",
+"how": "cell text",
+"text": "Appearance After Filtration"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C17",
+"how": "cell text",
+"text": "Clear and Brown"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B18",
+"how": "cell text",
+"text": "\nTotal Dissolved Solids mg/L (Calculated)"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B19",
+"how": "cell text",
+"text": "Specific, Gravity at 75°F"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B20",
+"how": "cell text",
+"text": "Resistivity, ohm-meters at 75°F (Calculated) :"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C20",
+"how": "cell text",
+"text": "0.54 Measured: 0.52"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B21",
+"how": "cell text",
+"text": "Hydrogen Sulphide"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C21",
+"how": "cell text",
+"text": "Absent"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B22",
+"how": "cell text",
+"text": "pH"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B24",
+"how": "cell text",
+"text": "Constituents: "
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C24",
+"how": "cell text",
+"text": "Mg/L"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell D24",
+"how": "cell text",
+"text": "Meg/L"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B25",
+"how": "cell text",
+"text": "Cations :"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B26",
+"how": "cell text",
+"text": "Sodium"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B27",
+"how": "cell text",
+"text": "Calcium"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B28",
+"how": "cell text",
+"text": "Magnesium"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B29",
+"how": "cell text",
+"text": "Barium"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell C29",
+"how": "cell text",
+"text": "< 1.0"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell D29",
+"how": "cell text",
+"text": "< 0.01"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B30",
+"how": "cell text",
+"text": "Total Iron"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B32",
+"how": "cell text",
+"text": "Anions"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B33",
+"how": "cell text",
+"text": "Chloride"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B34",
+"how": "cell text",
+"text": "Sulphate"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B35",
+"how": "cell text",
+"text": "Bicarbonate"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B36",
+"how": "cell text",
+"text": "Carbonate"
+},
+{
+"where": "sheet 'WATER ANALYSIS' cell B37",
+"how": "cell text",
+"text": "Hydroxide"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "WATER AND CRUDE OIL ANALYSIS REPORT\n\nDULANG-5\nMALAYSIA\n\nCORE LABORATORIES\n02 MAY 1986\n\nESSO PRODUCTION MALAYSIA INC.\n\n"
+}
+]

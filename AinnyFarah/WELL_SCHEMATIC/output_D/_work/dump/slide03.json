@@ -1,0 +1,204 @@
+{
+ "slide": 3,
+ "file": "slides/slide3.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n2",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6140931",
+   "name": "Picture 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 10213,
+   "cx": 6858000,
+   "cy": 9590987,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.1,
+    69.47,
+    96.92
+   ],
+   "image": "../media/image12.png",
+   "crop": {
+    "l": "33154",
+    "t": "9801",
+    "r": "30848",
+    "b": "4377"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "Rectangle 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11319669,
+   "y": 9753600,
+   "cx": 914400,
+   "cy": 152400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    64.28,
+    98.46,
+    69.47,
+    100.0
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Oval 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "WI",
+   "geom": "ellipse",
+   "fill": "00B0F0"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Rounded Rectangle 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7128669,
+   "y": 2768600,
+   "cx": 457200,
+   "cy": 228600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.48,
+    27.95,
+    43.08,
+    30.26
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Line Callout 2 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2023271,
+   "y": 2389285,
+   "cx": 2677032,
+   "cy": 582515,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    11.49,
+    24.12,
+    26.69,
+    30.0
+   ],
+   "text": "Jun 19 || TRSV found out jammed open",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "5-Point Star 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 7258209,
+   "y": 3116580,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    41.22,
+    31.46,
+    42.51,
+    33.05
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Line Callout 2 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2023269,
+   "y": 3233420,
+   "cx": 2677033,
+   "cy": 582515,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    11.49,
+    32.64,
+    26.69,
+    38.52
+   ],
+   "text": "Leak @ 170m-MDDF from PLT and MIT – Mar’17",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

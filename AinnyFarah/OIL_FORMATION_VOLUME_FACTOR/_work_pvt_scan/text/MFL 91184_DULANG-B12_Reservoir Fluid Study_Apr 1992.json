@@ -1,0 +1,2632 @@
+[
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E4",
+"how": "cell text",
+"text": "FORMATION: LOWER-D"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B5",
+"how": "cell text",
+"text": "Sample Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B6",
+"how": "cell text",
+"text": "Lab Receive Date:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B7",
+"how": "cell text",
+"text": "Lab:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C7",
+"how": "cell text",
+"text": "CORE LABORATORIES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B8",
+"how": "cell text",
+"text": "Company:"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B10",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLES RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C12",
+"how": "cell text",
+"text": "RESERVOIR FLUID STUDY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C14",
+"how": "cell text",
+"text": "Volume Sample"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D14",
+"how": "cell text",
+"text": "DEPTH"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E14",
+"how": "cell text",
+"text": "LABORATORY OPENING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell G14",
+"how": "cell text",
+"text": "LABORATORY BUBBLE POINT CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell I14",
+"how": "cell text",
+"text": "ADJUSTED LABORATORY BUBBLE POINT CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell K14",
+"how": "cell text",
+"text": "SEPARATOR"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell M14",
+"how": "cell text",
+"text": "RESERVOIR"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B15",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C15",
+"how": "cell text",
+"text": "cc"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D15",
+"how": "cell text",
+"text": "ft"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E15",
+"how": "cell text",
+"text": "PRESSURE (psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell F15",
+"how": "cell text",
+"text": "TEMPERATURE(F°)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell G15",
+"how": "cell text",
+"text": "PRESSURE (psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell H15",
+"how": "cell text",
+"text": "TEMPERATURE (F°)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell I15",
+"how": "cell text",
+"text": "PRESSURE (psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell J15",
+"how": "cell text",
+"text": "TEMPERATURE (F°)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell K15",
+"how": "cell text",
+"text": "PRESSURE (psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell L15",
+"how": "cell text",
+"text": "TEMPERATURE (F°)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell M15",
+"how": "cell text",
+"text": "PRESSURE (psig)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell N15",
+"how": "cell text",
+"text": "TEMPERATURE (F°)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A16",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B16",
+"how": "cell text",
+"text": "1209-A (Separator Gas)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B17",
+"how": "cell text",
+"text": "1216-A (Separator Gas)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell A18",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B18",
+"how": "cell text",
+"text": "WIB-7417"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B19",
+"how": "cell text",
+"text": "WIB-7989"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B23",
+"how": "cell text",
+"text": "*Sample from this cylinder was used for analysis."
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell C1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B7",
+"how": "cell text",
+"text": "RECOMBINED SEPARATOR LIQUID"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell C9",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell D9",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell E9",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell F9",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell G9",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell H9",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B21",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR LIQUID SAMPLES' cell B24",
+"how": "cell text",
+"text": "C10+ Decanes Plus"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell C1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B7",
+"how": "cell text",
+"text": "RECOMBINED SEPARATOR GAS"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell C9",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell D9",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell E9",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell F9",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell G9",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell H9",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B21",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Recom. SEPARATOR GAS SAMPLES' cell B24",
+"how": "cell text",
+"text": "C10+ Decanes Plus"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell C1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B7",
+"how": "cell text",
+"text": "RECOMBINED CALCULATED WELLSTREAM"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell C9",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell D9",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell E9",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell F9",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell G9",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell H9",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B21",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Recom. CALCULATED WELLSTREAM' cell B24",
+"how": "cell text",
+"text": "C10+ Decanes Plus"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell C1",
+"how": "cell text",
+"text": "5 of 33"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B8",
+"how": "cell text",
+"text": "PARTIAL  PRESSURE-VOLUME RELATIONS OF RESERVOIR FLUID AT 2OO°F (Constant Composition Expansion)"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B10",
+"how": "cell text",
+"text": "Pressure (psi)"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell C10",
+"how": "cell text",
+"text": "Relative Volume"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell D10",
+"how": "cell text",
+"text": "Density (g/cm3)"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell E10",
+"how": "cell text",
+"text": "Y- Function"
+},
+{
+"where": "sheet 'PARTIAL CCE' comment E10",
+"how": "comment",
+"text": "Administrator:\nGas Expansion Factor"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell D20",
+"how": "cell text",
+"text": "Reservoir Pressure"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell D24",
+"how": "cell text",
+"text": "Bubble Point Pressure"
+},
+{
+"where": "sheet 'PARTIAL CCE' cell B40",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure\n\n\n "
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell C1",
+"how": "cell text",
+"text": "4 of 33"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B7",
+"how": "cell text",
+"text": "ADJUSTED RESERVOIR FLUID"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell C9",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell D9",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell E9",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell F9",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell G9",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell H9",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B21",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Adj. RESERVOIR FLUID' cell B24",
+"how": "cell text",
+"text": "C10+ Decanes Plus"
+},
+{
+"where": "sheet 'CCE' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'CCE' cell C1",
+"how": "cell text",
+"text": "8 of 33"
+},
+{
+"where": "sheet 'CCE' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'CCE' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'CCE' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'CCE' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'CCE' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'CCE' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'CCE' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'CCE' cell B8",
+"how": "cell text",
+"text": "VOLUMETRIC DATA OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'CCE' cell H8",
+"how": "cell text",
+"text": " PRESSURE-VOLUME RELATIONS OF RESERVOIR FLUID AT 2OO°F (Constant Composition Expansion)"
+},
+{
+"where": "sheet 'CCE' cell B10",
+"how": "cell text",
+"text": "1. Saturation pressure (bubble-point pressure) :"
+},
+{
+"where": "sheet 'CCE' cell E10",
+"how": "cell text",
+"text": "1668 PSIG @ 200 °F"
+},
+{
+"where": "sheet 'CCE' cell H10",
+"how": "cell text",
+"text": "Pressure (psi)"
+},
+{
+"where": "sheet 'CCE' cell I10",
+"how": "cell text",
+"text": "Relative Volume"
+},
+{
+"where": "sheet 'CCE' cell J10",
+"how": "cell text",
+"text": "Density (g/cm3)"
+},
+{
+"where": "sheet 'CCE' cell K10",
+"how": "cell text",
+"text": "Y- Function"
+},
+{
+"where": "sheet 'CCE' comment K10",
+"how": "comment",
+"text": "Administrator:\nGas Expansion Factor"
+},
+{
+"where": "sheet 'CCE' cell B11",
+"how": "cell text",
+"text": "2. Specific volume of saturation pressure:"
+},
+{
+"where": "sheet 'CCE' cell E11",
+"how": "cell text",
+"text": "0.02136 ft 3/1b @ 200 °F"
+},
+{
+"where": "sheet 'CCE' cell B12",
+"how": "cell text",
+"text": "3. Compressibility of saturated oil @ reservoir temperature: Vol/Vol/PSI"
+},
+{
+"where": "sheet 'CCE' cell B13",
+"how": "cell text",
+"text": "From (PSIG)"
+},
+{
+"where": "sheet 'CCE' cell C13",
+"how": "cell text",
+"text": "To (PSIG)"
+},
+{
+"where": "sheet 'CCE' cell D13",
+"how": "cell text",
+"text": "Compressibility"
+},
+{
+"where": "sheet 'CCE' cell E14",
+"how": "cell text",
+"text": "x 10-6"
+},
+{
+"where": "sheet 'CCE' cell E15",
+"how": "cell text",
+"text": "x 10-6"
+},
+{
+"where": "sheet 'CCE' cell E16",
+"how": "cell text",
+"text": "x 10-6"
+},
+{
+"where": "sheet 'CCE' cell E17",
+"how": "cell text",
+"text": "x 10-6"
+},
+{
+"where": "sheet 'CCE' cell H40",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure\n\n\n "
+},
+{
+"where": "sheet 'CCE' cell H41",
+"how": "cell text",
+"text": "(2) Y Function = (Psat-P) / (Pabs) (V/Vsat-1)."
+},
+{
+"where": "sheet 'DVT at 200°F' cell B1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C1",
+"how": "cell text",
+"text": "9 of 33"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B8",
+"how": "cell text",
+"text": "DIFFERENTIAL VAPORIZATION AT 200 °F "
+},
+{
+"where": "sheet 'DVT at 200°F' cell B10",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C10",
+"how": "cell text",
+"text": "Solution Gas-Oil Ratio\n(Rs)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell D10",
+"how": "cell text",
+"text": "Relative Oil Volume\n(Vro)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell E10",
+"how": "cell text",
+"text": "Relative Total Volume\n(Vrt)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell F10",
+"how": "cell text",
+"text": "Oil Density \n(g cm-3)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell G10",
+"how": "cell text",
+"text": "Deviation Factor / Gas Compress Factor\n(Z)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell H10",
+"how": "cell text",
+"text": "Gas Formation Volume Factor \n(Bg)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell I10",
+"how": "cell text",
+"text": "Incremental Gas Gravity\n(Air = 1.000)"
+},
+{
+"where": "sheet 'DVT at 200°F' cell C20",
+"how": "cell text",
+"text": "at 60°F"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B23",
+"how": "cell text",
+"text": "Gravity of residual oil = 39.3 °API @ 60 F"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B24",
+"how": "cell text",
+"text": "1. Cubic feet of gas at 14.73 psia and 60°F. per barrel of residual oil at 60°F."
+},
+{
+"where": "sheet 'DVT at 200°F' cell B25",
+"how": "cell text",
+"text": "2. Barrels of oil at indicated pressure and temperature per barrel of residual oil at 60°F"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B26",
+"how": "cell text",
+"text": "3. Barrels of oil plus liberated gas at indicated pressure and temperature per barrel of residual oil at 60°F"
+},
+{
+"where": "sheet 'DVT at 200°F' cell B27",
+"how": "cell text",
+"text": "4. Cubic feet of gas at indicated pressure and temperature per cubic foot at 14.73 psia and 60°F"
+},
+{
+"where": "sheet 'DVT CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'DVT CA' cell B1",
+"how": "cell text",
+"text": "10 of 33"
+},
+{
+"where": "sheet 'DVT CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'DVT CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'DVT CA' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'DVT CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'DVT CA' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'DVT CA' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'DVT CA' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'DVT CA' cell B9",
+"how": "cell text",
+"text": "Dep. Conditions"
+},
+{
+"where": "sheet 'DVT CA' cell C9",
+"how": "cell text",
+"text": "1450 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA' cell E9",
+"how": "cell text",
+"text": "1200 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA' cell G9",
+"how": "cell text",
+"text": "950 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA' cell I9",
+"how": "cell text",
+"text": "700 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'DVT CA' cell C10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA' cell D10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA' cell E10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA' cell F10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA' cell G10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA' cell H10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA' cell I10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA' cell J10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'DVT CA' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'DVT CA' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'DVT CA' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'DVT CA' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'DVT CA' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'DVT CA' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'DVT CA' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'DVT CA' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'DVT CA' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'DVT CA' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'DVT CA' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'DVT CA' cell B23",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'DVT CA' cell B24",
+"how": "cell text",
+"text": "Gas gravity"
+},
+{
+"where": "sheet 'DVT CA' cell B25",
+"how": "cell text",
+"text": "(air=l.000)"
+},
+{
+"where": "sheet 'DVT CA' cell B26",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'DVT CA (2)' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B1",
+"how": "cell text",
+"text": "11 of 33"
+},
+{
+"where": "sheet 'DVT CA (2)' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'DVT CA (2)' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'DVT CA (2)' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B9",
+"how": "cell text",
+"text": "Dep. Conditions"
+},
+{
+"where": "sheet 'DVT CA (2)' cell C9",
+"how": "cell text",
+"text": "450 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA (2)' cell E9",
+"how": "cell text",
+"text": "220 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA (2)' cell G9",
+"how": "cell text",
+"text": "105 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA (2)' cell I9",
+"how": "cell text",
+"text": "0 PSIG @ 200°F"
+},
+{
+"where": "sheet 'DVT CA (2)' cell J9",
+"how": "cell text",
+"text": "220*F"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'DVT CA (2)' cell C10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA (2)' cell D10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA (2)' cell E10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA (2)' cell F10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA (2)' cell G10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA (2)' cell H10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA (2)' cell I10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'DVT CA (2)' cell J10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B23",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B25",
+"how": "cell text",
+"text": "Gas gravity (air=l.000)"
+},
+{
+"where": "sheet 'DVT CA (2)' cell B26",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'Residual Oil' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Residual Oil' cell B1",
+"how": "cell text",
+"text": "12 of 33"
+},
+{
+"where": "sheet 'Residual Oil' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Residual Oil' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Residual Oil' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Residual Oil' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Residual Oil' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Residual Oil' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Residual Oil' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Residual Oil' cell C8",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSIS OF RESIDUAL OIL FROM DIFFERENTIAL VAPORIZATION"
+},
+{
+"where": "sheet 'Residual Oil' cell C10",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'Residual Oil' cell D10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'Residual Oil' cell E10",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Residual Oil' cell F10",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'Residual Oil' cell G10",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Residual Oil' cell H10",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'Residual Oil' cell I10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Residual Oil' cell C11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Residual Oil' cell C12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Residual Oil' cell C13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Residual Oil' cell C14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Residual Oil' cell C15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Residual Oil' cell C16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Residual Oil' cell C17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Residual Oil' cell C18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Residual Oil' cell C19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Residual Oil' cell C20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Residual Oil' cell C21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Residual Oil' cell C22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Residual Oil' cell C23",
+"how": "cell text",
+"text": "Total"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B1",
+"how": "cell text",
+"text": "13 of 33"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B7",
+"how": "cell text",
+"text": "VISCOSITY AT 200°F "
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell B9",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell C9",
+"how": "cell text",
+"text": "Oil Viscosity"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell D9",
+"how": "cell text",
+"text": "Calculated Gas Viscosity (Centipoise)"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell E9",
+"how": "cell text",
+"text": "Oil / Gas Viscosity Ratio"
+},
+{
+"where": "sheet 'Viscosity at 200°F' cell D17",
+"how": "cell text",
+"text": "Bubble Point Pressure"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B1",
+"how": "cell text",
+"text": "14 of 33"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B10",
+"how": "cell text",
+"text": "SINGLE STAGE SEPARATOR TESTS OF RESERVOIR FLUID SAMPLE"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B12",
+"how": "cell text",
+"text": "Pressure (psig)"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell C12",
+"how": "cell text",
+"text": "Temp (F)"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell D12",
+"how": "cell text",
+"text": "Gas-Oil Ratio \n(Rs)"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell E12",
+"how": "cell text",
+"text": "Gas-Oil Ratio \n(Rsfb)"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell F12",
+"how": "cell text",
+"text": "TanK Oil Gravity °API @ 60°F"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell G12",
+"how": "cell text",
+"text": "Formation Vol Factor (Bofb)"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell H12",
+"how": "cell text",
+"text": "Separation Vol. Factor"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell I12",
+"how": "cell text",
+"text": "Gas Gravity of Flashed Gas"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell E13",
+"how": "cell text",
+"text": "> 247"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell J13",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell J17",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell J21",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell J25",
+"how": "cell text",
+"text": "*"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell F26",
+"how": "cell text",
+"text": "40.6 ’"
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B29",
+"how": "cell text",
+"text": "* Collected and analyzed in the laboratory by gas chromatography."
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B30",
+"how": "cell text",
+"text": "(1)           Gas/Oil Ratio in cubic feet at 14.73 psia and 60°F per barrel of oil at indicated pressure and temperature."
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B31",
+"how": "cell text",
+"text": "(2)           Gas/Oil Ratio in cubic feet of gas at 14.73 psia and 60°F per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B32",
+"how": "cell text",
+"text": "(3)           Formation Vol. Factor is barrels of saturated oil at 1668 psig and 60°F per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'Single Stage Separator Test' cell B33",
+"how": "cell text",
+"text": "(4)           Separator Volume Factor is barrels of oil at indicated pressure and temperature per barrel of stock tank oil at 60°F."
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B1",
+"how": "cell text",
+"text": "15 of 33"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B9",
+"how": "cell text",
+"text": "Sep. Conditions"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell C9",
+"how": "cell text",
+"text": "400 PSIG @ 112°F"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell E9",
+"how": "cell text",
+"text": "250 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell G9",
+"how": "cell text",
+"text": "150 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell I9",
+"how": "cell text",
+"text": "50 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell C10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell D10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell E10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell F10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell G10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell H10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell I10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell J10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell C11",
+"how": "cell text",
+"text": "Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell E11",
+"how": "cell text",
+"text": "Percent"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B12",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B13",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B14",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B15",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B16",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B17",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B18",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B19",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B20",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B21",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B22",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B23",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B24",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B25",
+"how": "cell text",
+"text": "Gas gravity (air=l.000)"
+},
+{
+"where": "sheet 'Single Stage Separator Test CA' cell B26",
+"how": "cell text",
+"text": "Gross heating value (BTU per cubic foot of dry gas at 14.73 psia and 60°F)"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B1",
+"how": "cell text",
+"text": "16 of 33"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B7",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSES OF STOCK TANK OIL FROM SINGLE STAGE SEPARATOR TEST"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B9",
+"how": "cell text",
+"text": "Sep. Conditions"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell C9",
+"how": "cell text",
+"text": "400 PSIG @ 112°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell E9",
+"how": "cell text",
+"text": "250 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell G9",
+"how": "cell text",
+"text": "150 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell I9",
+"how": "cell text",
+"text": "50 PSIG  @ 112°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B10",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell C10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell D10",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell E10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell F10",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell G10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell H10",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell I10",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell J10",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes Plus"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B23",
+"how": "cell text",
+"text": "Total:"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B24",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B25",
+"how": "cell text",
+"text": "Density gm/cc at 60°F"
+},
+{
+"where": "sheet 'Stock Tank Oil CA' cell B26",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'Adjustment Gas' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B1",
+"how": "cell text",
+"text": "18 of 33"
+},
+{
+"where": "sheet 'Adjustment Gas' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Adjustment Gas' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Adjustment Gas' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Adjustment Gas' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B8",
+"how": "cell text",
+"text": "ADJUSTMENT OF GAS IN SOLUTION CURVE TO SEPARATOR CONDITIONS"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B9",
+"how": "cell text",
+"text": "Separator Temperature °F"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D9",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B10",
+"how": "cell text",
+"text": "Separator Pressure Psig"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D10",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B11",
+"how": "cell text",
+"text": "Rsfb"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D11",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B12",
+"how": "cell text",
+"text": "Rsdb"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D12",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B13",
+"how": "cell text",
+"text": "Bofb"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D13",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B14",
+"how": "cell text",
+"text": "Bodb"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D14",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Gas' cell B16",
+"how": "cell text",
+"text": "PRESSURE PSIG"
+},
+{
+"where": "sheet 'Adjustment Gas' cell C16",
+"how": "cell text",
+"text": "Rs"
+},
+{
+"where": "sheet 'Adjustment Gas' cell D16",
+"how": "cell text",
+"text": "Rs"
+},
+{
+"where": "sheet 'Adjustment Gas' cell E16",
+"how": "cell text",
+"text": "Rs"
+},
+{
+"where": "sheet 'Adjustment Gas' cell F16",
+"how": "cell text",
+"text": "Rs"
+},
+{
+"where": "sheet 'Adjustment Oil' cell A1",
+"how": "cell text",
+"text": "Page:"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B1",
+"how": "cell text",
+"text": "19 of 33"
+},
+{
+"where": "sheet 'Adjustment Oil' cell A2",
+"how": "cell text",
+"text": "Report Date:"
+},
+{
+"where": "sheet 'Adjustment Oil' cell A3",
+"how": "cell text",
+"text": "Report No:"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B3",
+"how": "cell text",
+"text": "MFL 91184"
+},
+{
+"where": "sheet 'Adjustment Oil' cell A4",
+"how": "cell text",
+"text": "Well:"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B4",
+"how": "cell text",
+"text": "DULANG-B12"
+},
+{
+"where": "sheet 'Adjustment Oil' cell A5",
+"how": "cell text",
+"text": "Cylinder No:"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B5",
+"how": "cell text",
+"text": "1209-A & WIB-7417"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B8",
+"how": "cell text",
+"text": "ADJUSTMENT OF OIL RELATIVE VOLUME CURVE TO SEPARATOR CONDITIONS"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B9",
+"how": "cell text",
+"text": "Separator Temperature °F"
+},
+{
+"where": "sheet 'Adjustment Oil' cell D9",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B10",
+"how": "cell text",
+"text": "Separator Pressure Psig"
+},
+{
+"where": "sheet 'Adjustment Oil' cell D10",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B11",
+"how": "cell text",
+"text": "Bofb"
+},
+{
+"where": "sheet 'Adjustment Oil' cell D11",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B12",
+"how": "cell text",
+"text": "Bodb"
+},
+{
+"where": "sheet 'Adjustment Oil' cell D12",
+"how": "cell text",
+"text": ":"
+},
+{
+"where": "sheet 'Adjustment Oil' cell B14",
+"how": "cell text",
+"text": "PRESSURE PSIG"
+},
+{
+"where": "sheet 'Adjustment Oil' cell C14",
+"how": "cell text",
+"text": "Bo"
+},
+{
+"where": "sheet 'Adjustment Oil' cell D14",
+"how": "cell text",
+"text": "Bo"
+},
+{
+"where": "sheet 'Adjustment Oil' cell E14",
+"how": "cell text",
+"text": "Bo"
+},
+{
+"where": "sheet 'Adjustment Oil' cell F14",
+"how": "cell text",
+"text": "Bo"
+},
+{
+"where": "picture image1.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "RESERVOIR FLUID STUDY\n\nDULANG-B12\nMALAYSIA\n\nCORE LABORATORIES\nAPRIL 1992\n\nPETRONAS CARIGALI SDN. BHD.\n\n"
+},
+{
+"where": "picture image2.JPG (used in drawing1.xml)",
+"how": "OCR",
+"text": "DOCUMENT TRANSMITTAL\n\nPETROLEUM ENGINEERING DEPARTMENT\nPETRONAS CARIGAL! SDN. BHD.\n\n12TH FLOOR, WISMA PELADANG\n\nJALAN BUKIT BINTANG,\n\nPET! SURAT 12407, 50776 KUALA LUMPUR.\nTEL : 03-2426022/2488088\n\nTELEFAX : 03-2425810\n\nTro : Mr Mylan Radulovich DATE : 4 November 1993\nEsso Production Malaysia Inc. OUR REF. No\n\nKompleks Antarabangsa YOUR REF.NO 3: WW\n\nKuala Lumpur\n\ngUBJ : Reservoir Fluid Study ~- Dulang B-12\nWE ARE SENDING YOU THE FOLLOWING ITEM\n\n. | DOCUMENT\nP PTI |\nCOPIES DESCRIPTION aaah\n\nREMARKS/COMMENT :\n\nPLEASE ACKNOWLEDGE RECEIPT OF ABOVE ITEMS BY SIGNING AND RETURNING THE COPY OF THE TRANSMITTAL\n\n4 November 1993\n\nDATE : _. RECEIVED BY : __\nSIGNATURE\nTRANSMNTED BY :\nISMAIL OMAR DATE :\n\nDT/SS#3/RZ\n"
+}
+]

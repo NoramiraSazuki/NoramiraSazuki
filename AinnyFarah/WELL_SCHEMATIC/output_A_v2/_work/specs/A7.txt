@@ -1,0 +1,42 @@
+WELL | A7 | 6 | image14.png + image15.png | WELL A-7 : SINGLE OIL PRODUCER (TYPE 1)
+SRC | 6 | image14.png + image15.png | visual transcription of the screenshot pictures (x3 upscale, upper part image14 / lower part image15)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 14 APRIL 1991
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, SINGLE, 3M
+INFO | packerFluid | 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 48.63 DEG @ 931.80 MDDF
+INFO | rte | 14.13 m
+INFO | completionType | SINGLE OIL PRODUCER (TYPE 1)
+CASING | 13 3/8" K-55, 54.5 ppf @ 377 m MDDF | 13.375 | 54.5 | K-55 | 377 | MDDF
+CASING | 9 5/8" N-80, 40 ppf @ 917 m MDDF | 9.625 | 40 | N-80 | 917 | MDDF
+CASING | 7" 23 ppf, K-55 @ 1813 m MDDF | 7 | 23 | K-55 | 1813 | MDDF
+TUBING | 2 7/8" N-80 NK3SB | 2.875 |  | N-80 | - |
+ROW | X | FLOW COUPLING | 141.8 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 142.6 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 293.5 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 614.3 |  | 2.371 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 1118.0 |  | 2.371 |  |  |  | p2
+ROW | X | KBMG-M-SPM | 1422.5 |  | 2.371 |  | ?GLOV (10/64) – Apr 2017 | status from slide text box obj #13 matched by position | p2
+ROW | X | KBMG-M-SPM | 1564.6 |  | 2.371 |  | ?GLOV (12/64) – Apr 2017 | status from slide text box obj #12 matched by position | p2
+ROW | X | WP-2DE SSD | 1687.6 |  | 2.312 |  | CLOSED |  | p2
+ROW | X | CENTRALIZER | 1695.6 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 1696.1 |  | 2.441 |  |  |  | p2
+ROW | X | GUIB MAGNUM 'GT' PACKER | 1696.9 |  | 4.000 |  |  |  | p2
+ROW | X | SEAL BORE EXT | 1700.6 |  | 4.000 |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 1701.2 |  | 2.250 |  |  |  | p2
+ROW | X | WEG | 1701.2 |  | 2.441 |  |  | end of string; same depth as the 'D' NO-GO NIPPLE as printed | p2
+ZONE | E-34 & E-36 | 1716 | 1730 | MDTHF | SAND: E-34 & E-36 1716-1730 (no unit/datum printed) | p2 | perf
+ZONE | E-34 & E-36 | 1734 | 1742 | MDTHF | SAND: E-34 & E-36 1734-1742 (no unit/datum printed) | p2 | perf
+PBTD | 1782 | MDDF | PBTD : 1782 m MDDF (header)
+TD | 1804.0 | MDTHF | TD @ 1804.0 m MDTHF
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p2 | 7" 23 PPF CASING label on the diagram (no depth)
+NOTE | picture p2 | DOGLEG (DEPTH) : 103.25 - 135.0, 208.3 - 358.7
+NOTE | slide 6 obj #10 | Tbg stop + SC set @ TRSV profile. TR flapper lock open in 2018
+NOTE | slide 6 obj #11 | HUD@1732m MDTHF (May 2023). Suspect fine sand
+NOTE | slide 6 obj #7 | Latest Update: November 2023 by Pravin Nair
+ISSUE | Unclear | picture p2 | 'D' NO-GO NIPPLE and WEG both printed at 1701.2 — kept as printed
+ISSUE | Unclear | picture p2 | zone intervals printed without unit/datum; read as m MDTHF like the depth columns
+ISSUE | Unclear | slide 6 | GLOV statuses (Apr 2017) are slide text boxes matched to SPM rows by vertical position

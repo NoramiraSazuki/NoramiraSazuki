@@ -1,0 +1,39 @@
+# slide 25 (slides/slide25.xml) hidden=False objects=23
+# notes: 'Open\n25'
+[pic id=7170 'Picture 2' pct=[4.09, 4.17, 96.67, 41.58] hidden=False img=../media/image56.png]
+[pic id=7172 'Picture 4' pct=[3.33, 41.42, 96.67, 75.12] hidden=False img=../media/image57.png]
+[pic id=7173 'Picture 5' pct=[3.33, 74.39, 96.67, 94.17] hidden=False img=../media/image58.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE2
+[sp id=15 'TextBox 14' pct=[-6.43, 64.84, 6.43, 69.55] hidden=False]
+    E14
+    2170 - 2186
+[sp id=16 'TextBox 15' pct=[-8.05, 76.47, 5.83, 81.18] hidden=False]
+    E20
+    2218 - 2226
+[sp id=21 'TextBox 20' pct=[-9.88, 46.87, 6.46, 57.14] hidden=False]
+    E10/11
+    2100 – 2106
+    E12/13
+    2120 – 2126
+    2129 – 2140
+[sp id=24 'TextBox 3' pct=[1.09, 1.21, 40.45, 3.9] hidden=False]
+    Latest Update: MAY 2023 BY PRAVIN NAIR
+[sp id=4 'Rectangle 3' pct=[34.72, 71.51, 51.94, 75.14] hidden=False]
+    2.29” Gauge Ring & 2.25” LIB HUD @ 2137m-WLTHF & recovered fine sand (Nov 2017)
+[sp id=5 'Rectangle 4' pct=[43.15, 47.08, 55.51, 53.33] hidden=False]
+    SSD#2 @ 2069m-WLTHF OPEN (NOV 17)
+[sp id=6 'Rectangle 5' pct=[44.63, 37.15, 59.17, 41.13] hidden=False]
+    SSD#1 CLOSED @ 2042m-WLTHF
+[sp id=56 'Rectangle 55' pct=[43.06, 60.42, 55.7, 65.21] hidden=False]
+    SSD#3 @ 2131m-WLTHF OPEN
+[sp id=11 'TextBox 10' pct=[30.04, 56.81, 54.26, 60.51] hidden=False]
+    2.2” slickplug set at 2119m MDTHF (Nov 2020) to isolate E14 & E20
+[sp id=23 'TextBox 22' pct=[-8.98, 65.07, -1.67, 67.26] hidden=False]
+    CLOSED
+[sp id=30 'TextBox 29' pct=[-10.09, 76.6, -2.78, 78.79] hidden=False]
+    CLOSED
+[sp id=32 'TextBox 31' pct=[-11.11, 47.08, -5.0, 49.27] hidden=False]
+    OPEN
+[sp id=22 'Footer Placeholder 21' pct=None hidden=False]
+    Open

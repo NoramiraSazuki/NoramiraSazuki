@@ -1,0 +1,95 @@
+# slide 32 (slides/slide32.xml) hidden=False objects=20
+# notes: 'Open\n31'
+[pic id=10 'Picture 9' pct=[29.07, 0.13, 68.0, 47.73] hidden=False img=../media/image81.png]
+[pic id=11 'Picture 10' pct=[29.06, 47.67, 67.9, 100.13] hidden=False img=../media/image82.png]
+[sp id=17 'Oval 16' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=24 'TextBox 23' pct=[57.66, 64.26, 62.63, 66.94] hidden=False]
+    OPEN (2016)
+[sp id=26 'Rectangle 25' pct=[30.79, 17.69, 35.29, 48.46] hidden=False]
+    222
+    224
+    225
+    
+    
+    279
+    519
+    770
+    1031
+    1300
+    1575
+    
+    
+    1703
+    
+    1710
+    
+    1715
+    
+    1801
+    1800
+[sp id=27 'Rectangle 26' pct=[30.79, 14.87, 35.29, 17.64] hidden=False]
+    MDTHF
+[sp id=28 'Rectangle 27' pct=[30.79, 50.28, 35.29, 99.51] hidden=False]
+    1839-1840
+    1852
+    
+    
+    1860
+    
+    1871-1874
+    
+    
+    1906-1909
+    1912
+    
+    
+    1917
+    1920-1923
+    1931-1934
+    1942
+    
+    
+    
+    1946-1949
+    
+    
+    
+    1955
+    
+    
+    
+    1957-1560
+    1968
+    1969
+    
+    1976
+    
+    TD 2011
+[sp id=29 'Rectangle 28' pct=[55.98, 92.8, 62.63, 95.38] hidden=False]
+    PXN PLUG @1973m-MDTHF (Apr 2016)
+[graphicFrame id=30 'Table 29' pct=[68.1, 18.8, 88.73, 36.34] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | Dummy | 279 |  |  | Oct-2024
+    | 2 | Dummy | 519 |  |  | Oct-2024
+    | 3 | Dummy | 770 |  |  | Oct-2024
+    | 4 | GLV* | 1031 | 784.5 | 10/64 | 15/5/2012
+    | 5 | GLV* | 1300 | 795.2 | 10/64 | 15/5/2012
+    | 6 | GLOV | 1575 | 0 | 12/64 | 15/5/2012
+[sp id=2 'Text Box 217' pct=[68.1, 94.87, 78.23, 99.51] hidden=False]
+    E14 (based on Final Well Report)
+    MD: 2003 - 2009 mDF
+[sp id=8 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=13 'TextBox 12' pct=[51.54, 97.01, 68.75, 100.0] hidden=False]
+    UPDATED BY PRAVIN NAIR (JULY 2024)
+[sp id=4 'TextBox 3' pct=[57.49, 51.36, 66.3, 53.93] hidden=False]
+    CLOSED (JULY 2024)
+[sp id=5 'TextBox 4' pct=[57.66, 73.01, 62.63, 75.68] hidden=False]
+    OPEN (2016)
+[sp id=6 'TextBox 5' pct=[57.66, 36.34, 61.47, 38.5] hidden=False]
+    CLOSED
+[sp id=20 'TextBox 19' pct=[16.83, 56.71, 28.66, 72.08] hidden=False]
+    HUD 1855 m MDTHF – when running 42BO (suspected tubing slightly collapse). Pass thru using tbg broach
+    
+    HUD 1870 m MDTHF – when running FGS

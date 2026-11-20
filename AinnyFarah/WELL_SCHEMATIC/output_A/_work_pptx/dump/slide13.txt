@@ -1,0 +1,27 @@
+# slide 13 (slides/slide13.xml) hidden=False objects=13
+# notes: 'Open\n13'
+[pic id=1026 'Picture 2' pct=[3.33, 1.67, 96.67, 59.86] hidden=False img=../media/image28.png]
+[pic id=1027 'Picture 3' pct=[3.33, 59.48, 96.67, 91.67] hidden=False img=../media/image29.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE1
+[sp id=2 'TextBox 1' pct=[4.05, 82.5, 33.95, 87.21] hidden=False]
+    E6/7
+    1939.5 – 1948
+[sp id=9 'TextBox 8' pct=[4.13, 51.67, 34.03, 56.38] hidden=False]
+    LD1
+    1832.5  - 1836.5
+[sp id=10 'TextBox 9' pct=[4.13, 67.9, 34.03, 76.32] hidden=False]
+    E2
+    1911  -1914.5
+    1916 – 1918.5
+    1921.5 – 1924.5
+[sp id=12 'TextBox 11' pct=[-0.89, 70.3, 6.48, 73.33] hidden=False]
+    close
+[sp id=13 'TextBox 12' pct=[-0.89, 83.64, 6.45, 86.67] hidden=False]
+    open
+[sp id=16 'TextBox 3' pct=[0.0, 0.0, 32.33, 2.52] hidden=False]
+    Latest Update: Dec 2023 by Pravin Nair
+[sp id=15 'Rectangle 14' pct=[2.67, 48.24, 12.44, 51.61] hidden=False]
+    Closed (June 2013)
+[sp id=7 'Rectangle 6' pct=[56.89, 62.24, 79.44, 66.79] hidden=False]
+    2.29” drift & 2.25” LIB HUD @ 1907m MDTHF Sep 2017 (Scale impression)

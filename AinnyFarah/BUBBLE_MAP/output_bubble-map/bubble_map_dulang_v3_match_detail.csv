@@ -1,0 +1,725 @@
+well,reservoir_unit,reservoir,template_rows,n_rows,source_well,match,source_zone,source_rows,pay_ft,porosity,sw,pay_note,por_note,sw_note,status
+DULG-A001,SE1-E34,E34,2-108,107,DULANG-A1,.smk,E34.smk,3000,9.09120764,,,,row 3000 null -999.25,row 3000 null -999.25,populated: Pay Thickness
+DULG-A001,SE1-E36,E36,109-215,107,DULANG-A1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A001W01,SE1-E14,E14,216-488,273,,none,,,,,,,,,well not in RES records
+DULG-A001W01,SE1-E23,E23,489-762,274,,none,,,,,,,,,well not in RES records
+DULG-A001W01,SE1-E36,E36,763-1049,287,,none,,,,,,,,,well not in RES records
+DULG-A002,S3-E12/13,E12/13,1050-1440,391,DULANG-A2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A002,S3-E14,E14,1441-1719,279,DULANG-A2,.smk,E14.smk,6105,5.6430448,,,,row 6105 null -999.25,row 6105 null -999.25,populated: Pay Thickness
+DULG-A002,S3-E2,E2,1720-2127,408,DULANG-A2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A002,S3-E7,E7,2128-2535,408,DULANG-A2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A003,N3-E36,E36,2536-2579,44,DULANG-A3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A004,N3-E14,E14,2580-2905,326,DULANG-A4,.smk,E14.smk,10805,5.74147,,,,row 10805 null -999.25,row 10805 null -999.25,populated: Pay Thickness
+DULG-A004,N3-E12/13,E12/13,2906-3242,337,DULANG-A4,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A004S01,SE2-E40A,E40A,3243-3502,130,DULANG-A4ST1,exact,E40A,11104,37.1063004,0.284,0.81,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A004S01,SE2-E47A,E47A,3308-3567,130,DULANG-A4ST1,exact,E47A,11117,61.90288912,0.241,0.729,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A004S01,SE2-E34A,E34A,3373-3437,65,DULANG-A4ST1,exact,E34A,11093,35.73162844,0.289,0.549,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A005,SE2-E23,E23,3568-3603,36,DULANG-A5,.smk,E23.smk,11331,5.1804463599999995,0.288,0.694,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A005,SE2-E34,E34,3604-3634,31,DULANG-A5,.smk,E34.smk,11375,7.71981652,,,,row 11375 null -999.25,row 11375 null -999.25,populated: Pay Thickness
+DULG-A005W01,SE2-E22A,E22A,3635-4011,377,,none,,,,,,,,,well not in RES records
+DULG-A005W01,SE2-E22B,E22B,4012-4257,246,,none,,,,,,,,,well not in RES records
+DULG-A006,SE1-E14,E14,4258-4667,410,DULANG-A6,.smk,E14.smk,"11580, 11582",,,,CONFLICT row 11580=1.923; row 11582=2.3,row 11580 null -999.25; row 11582 null -999.25,row 11580 null -999.25; row 11582 null -999.25,"matched, no usable value"
+DULG-A007,SE1-E34,E34,4668-5061,394,DULANG-A7,.smk,E34.smk,11958,8.56955408,,,,row 11958 null -999.25,row 11958 null -999.25,populated: Pay Thickness
+DULG-A007,SE1-E36,E36,5062-5350,289,DULANG-A7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A008S01,N3-E10/11,E10/11,5351-5471,121,DULANG-A8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A008S01,N3-E7,E7,5472-5717,246,DULANG-A8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A008S01,N3-LD1,LD1,5718-5991,274,DULANG-A8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A009,SE1-E2,E2,5992-6387,396,DULANG-A9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A009,SE1-E7,E7,6388-6783,396,DULANG-A9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A010S02,S3-E12/13,E12/13,6784-7004,221,,none,,,,,,,,,well not in RES records
+DULG-A010S02,S3-E14,E14,7005-7225,221,,none,,,,,,,,,well not in RES records
+DULG-A010S02,S3-E7,E7,7226-7616,391,,none,,,,,,,,,well not in RES records
+DULG-A011S01,N3-E10/11,E10/11,7617-7931,315,DULANG-A11S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A011S01,N3-E34,E34,7932-8246,315,DULANG-A11S1,.smk,E34.smk,"3785, 3786",,0.288,0.321,CONFLICT row 3785=3.381; row 3786=4.4,,,"populated: Porosity,Water Saturation"
+DULG-A011S02,N3B2-E14,E14,8247-8318,72,,none,,,,,,,,,well not in RES records
+DULG-A012,N3-E7,E7,8319-8381,63,DULANG-A12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A012S01,N3-E32,E32,8382-8406,25,DULANG-A12S1,exact,E32,"4249, 4253",,0.227,,CONFLICT row 4249=11.521; row 4253=30.3,,CONFLICT row 4249=0.781; row 4253=0.782,populated: Porosity
+DULG-A012S01,N3-E34,E34,8407-8516,110,DULANG-A12S1,.smk,E34.smk,"4273, 4275",,,,CONFLICT row 4273=2.92; row 4275=7.7,row 4273 null -999.25; row 4275 null -999.25,row 4273 null -999.25; row 4275 null -999.25,"matched, no usable value"
+DULG-A012S01,SE2-E23,E23,8517-8776,260,DULANG-A12S1,.smk,E23.smk,"4229, 4232",,0.395,0.2,CONFLICT row 4229=1.487; row 4232=4.2,,,"populated: Porosity,Water Saturation"
+DULG-A012S01,SE2-E32,E32,8777-9040,264,DULANG-A12S1,exact,E32,"4249, 4253",,0.227,,CONFLICT row 4249=11.521; row 4253=30.3,,CONFLICT row 4249=0.781; row 4253=0.782,populated: Porosity
+DULG-A012S01,SE2-E36,E36,9041-9304,264,DULANG-A12S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A014,S3-E10/11,E10/11,9305-9506,202,DULANG-A14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A014,S3-E12/13,E12/13,9507-9610,104,DULANG-A14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A014,S3-MIDB,MIDB,9611-10187,364,DULANG-A14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A014,S3-E7,E7,9793-10005,213,DULANG-A14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A015,N3-E7,E7,10188-10594,407,DULANG-A15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A015,N3-LD1,LD1,10595-10866,272,DULANG-A15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A015,N3-LD3,LD3,10867-11258,392,DULANG-A15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A016,SE1-E7,E7,11259-11654,396,DULANG-A16,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A016,SE1-E2,E2,11655-11906,252,DULANG-A16,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A016,SE1-LD1,LD1,11907-12297,391,DULANG-A16,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-E14,E14,12298-12414,117,DULANG-A17,.smk,E14.smk,"5132, 5135",,,,CONFLICT row 5132=1.586; row 5135=2.1,row 5132 null -999.25; row 5135 null -999.25,row 5132 null -999.25; row 5135 null -999.25,"matched, no usable value"
+DULG-A017,N3-E40/42,E40/42,12415-12531,117,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-E7,E7,12532-12641,110,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-E12/13,E12/13,12642-12758,117,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-LD1,LD1,12759-12873,115,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-LD2,LD2,12874-12875,2,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017,N3-LD3,LD3,12876-12990,115,DULANG-A17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017S01,N3-E14,E14,12991-13178,188,DULANG-A17S1,.smk,E14.smk,"5326, 5328",,,,CONFLICT row 5326=2.083; row 5328=5.6,row 5326 null -999.25; row 5328 null -999.25,row 5326 null -999.25; row 5328 null -999.25,"matched, no usable value"
+DULG-A017S01,N3-E40/42,E40/42,13179-13366,188,DULANG-A17S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017S01,N3-E12/13,E12/13,13367-13553,187,DULANG-A17S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A017S02,SE1-E22A,E22A,13554-13617,64,DULANG-A17ST2,exact,E22A,5566,20.2427828,0.201,0.377,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A017S02,SE1-E22B,E22B,13618-13681,64,DULANG-A17ST2,exact,E22B,5568,61.870080720000004,0.248,0.537,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A018,SE1-E12/13,E12/13,13682-13961,280,DULANG-A18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A018,SE1-E14,E14,13962-14241,280,DULANG-A18,.smk,E14.smk,"5769, 5772",,,,CONFLICT row 5769=1.863; row 5772=2.4,row 5769 null -999.25; row 5772 null -999.25,row 5769 null -999.25; row 5772 null -999.25,"matched, no usable value"
+DULG-A018,SE1-E7,E7,14242-14741,391,DULANG-A18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A018,SE1-E2,E2,14344-14452,109,DULANG-A18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A019,N3-E7,E7,14742-15141,400,DULANG-A19,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A019,N3-LD1,LD1,15142-15289,148,DULANG-A19,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A019,N3-LD3,LD3,15290-15531,242,DULANG-A19,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A020,N3-E34,E34,15532-15916,385,DULANG-A20,.smk,E34.smk,"6449, 6451",,,,CONFLICT row 6449=2.662; row 6451=2.9,row 6449 null -999.25; row 6451 null -999.25,row 6449 null -999.25; row 6451 null -999.25,"matched, no usable value"
+DULG-A020,N3-E7,E7,15917-16250,334,DULANG-A20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A021,N3-E14,E14,16251-16623,373,DULANG-A21,.smk,E14.smk,"6652, 6655",,,,CONFLICT row 6652=1.89; row 6655=2.4,row 6652 null -999.25; row 6655 null -999.25,row 6652 null -999.25; row 6655 null -999.25,"matched, no usable value"
+DULG-A021,N3-E10/11,E10/11,16624-16938,315,DULANG-A21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A021,N3-LD1,LD1,16939-17340,402,DULANG-A21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A021,N3-LD2,LD2,17341-17508,168,DULANG-A21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A022,N3-LD1,LD1,17509-17899,391,DULANG-A22,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A023S01,N3-E7,E7,17900-18093,194,DULANG-A23S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A023S01,N3-LD1,LD1,18094-18287,194,DULANG-A23S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A023S01W01,N3-LD1,LD1,18288-18300,13,,none,,,,,,,,,well not in RES records
+DULG-A023S02,N3C-E34A,E34A,18301-18365,65,DULANG-A23ST2,exact,E34A,7098,31.16798,0.251,0.686,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A023S02,N3C-E14B,E14B,18366-18430,65,DULANG-A23ST2,exact,E14B,7057,57.004595,0.306,0.447,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A024,N3-E7,E7,18431-18792,362,DULANG-A24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A024,N3-LD1,LD1,18793-19245,453,DULANG-A24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A025,N3-E14,E14,19246-19535,290,DULANG-A25,.smk,E14.smk,"7432, 7434",,,,CONFLICT row 7432=2.636; row 7434=4.4,row 7432 null -999.25; row 7434 null -999.25,row 7432 null -999.25; row 7434 null -999.25,"matched, no usable value"
+DULG-A025,N3-E2,E2,19536-19623,88,DULANG-A25,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A026,SE2-E40/42,E40/42,19624-19829,206,DULANG-A26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A026,SE2-E48,E48,19830-20038,209,DULANG-A26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A026,SE2-E20/22,E20/22,20039-20249,211,DULANG-A26,exact,E20/22,"7659, 7660",,0.27,,CONFLICT row 7659=19.13; row 7660=48.5,,CONFLICT row 7659=0.449; row 7660=0.451,populated: Porosity
+DULG-A026,SE2-E23,E23,20250-20466,217,DULANG-A26,.smk,E23.smk,"7676, 7678",,0.33,0.22,CONFLICT row 7676=1.059; row 7678=2.6,,,"populated: Porosity,Water Saturation"
+DULG-A026S01,N3-E34,E34,20467-20618,152,DULANG-A26S1,.smk,E34.smk,"7996, 7998",,0.2,1.0,CONFLICT row 7996=2.234; row 7998=2.4,,,"populated: Porosity,Water Saturation"
+DULG-A026S01,N3-E40,E40,20619-20627,9,DULANG-A26S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A027,N3-E7,E7,20628-20976,349,DULANG-A27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A027,N3-LD1,LD1,20977-21325,349,DULANG-A27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A027,N3-LD2,LD2,21326-21674,349,DULANG-A27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A027,N3-LD3,LD3,21675-21872,198,DULANG-A27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A028S01,SE2-E34,E34,21873-21959,87,DULANG-A28S1,.smk,E34.smk,"8838, 8842",,,,CONFLICT row 8838=3.254; row 8842=6.7,row 8838 null -999.25; row 8842 null -999.25,row 8838 null -999.25; row 8842 null -999.25,"matched, no usable value"
+DULG-A028S01,SE2-E36,E36,21960-22046,87,DULANG-A28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A028S01,SE2-E12/13,E12/13,22047-22488,221,DULANG-A28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A028S01,SE2-E23,E23,22123-22198,76,DULANG-A28S1,.smk,E23.smk,"8794, 8797",,,,CONFLICT row 8794=2.254; row 8797=4.6,row 8794 null -999.25; row 8797 null -999.25,row 8794 null -999.25; row 8797 null -999.25,"matched, no usable value"
+DULG-A028S01,SE2-E10/11,E10/11,22199-22343,145,DULANG-A28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A028S01,SE2-E14,E14,22489-22727,239,DULANG-A28S1,.smk,E14.smk,"8741, 8745",,,,CONFLICT row 8741=0.771; row 8745=1.6,row 8741 null -999.25; row 8745 null -999.25,row 8741 null -999.25; row 8745 null -999.25,"matched, no usable value"
+DULG-A028S01,SE2-E20/22,E20/22,22728-22969,242,DULANG-A28S1,exact,E20/22,8777,60.53805968,0.256,0.782,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-A029,S3-E12/13,E12/13,22970-23154,185,DULANG-A29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A029,S3-E14,E14,23155-23339,185,DULANG-A29,.smk,E14.smk,"9081, 9084",,,,CONFLICT row 9081=2.25; row 9084=4.3,row 9081 null -999.25; row 9084 null -999.25,row 9081 null -999.25; row 9084 null -999.25,"matched, no usable value"
+DULG-A029,S3-E2,E2,23340-23478,139,DULANG-A29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A029,S3-E7,E7,23479-23650,172,DULANG-A29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A029W01,S3-E12/13,E12/13,23651-23701,51,,none,,,,,,,,,well not in RES records
+DULG-A029W01,S3-E14,E14,23702-23752,51,,none,,,,,,,,,well not in RES records
+DULG-A029W01,S3-E2,E2,23753-23925,173,,none,,,,,,,,,well not in RES records
+DULG-A029W01,S3-E7,E7,23926-24119,194,,none,,,,,,,,,well not in RES records
+DULG-A030,SE1-E14,E14,24120-24485,366,DULANG-A30,.smk,E14.smk,"9581, 9583",,0.256,0.806,CONFLICT row 9581=2.138; row 9583=3.59,,,"populated: Porosity,Water Saturation"
+DULG-A030,SE1-E2,E2,24486-24889,373,DULANG-A30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A030,SE1-LD3,LD3,24517-25566,373,DULANG-A30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A030,SE1-E7,E7,24890-25224,335,DULANG-A30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A031,S2-E12/13,E12/13,25567-25702,136,,none,,,,,,,,,well not in RES records
+DULG-A031,S2-E14,E14,25703-25838,136,,none,,,,,,,,,well not in RES records
+DULG-A031,S2-E7,E7,25839-26948,288,,none,,,,,,,,,well not in RES records
+DULG-A031,S3-E12/13,E12/13,25975-26317,343,,none,,,,,,,,,well not in RES records
+DULG-A031,S3-E14,E14,26318-26660,343,,none,,,,,,,,,well not in RES records
+DULG-A031,S3-E7,E7,26661-27164,352,,none,,,,,,,,,well not in RES records
+DULG-A032,N3-E12/13,E12/13,27165-27580,209,DULANG-A32,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A032,N3-E14,E14,27372-27578,207,DULANG-A32,.smk,E14.smk,"9824, 9827",,,,CONFLICT row 9824=1.913; row 9827=4.2,row 9824 null -999.25; row 9827 null -999.25,row 9824 null -999.25; row 9827 null -999.25,"matched, no usable value"
+DULG-A032,N3-E7,E7,27581-27781,201,DULANG-A32,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A032S01,N3-E34,E34,27782-27907,126,DULANG-A32S1,.smk,E34.smk,10104,12.073491200000001,,,,row 10104 null -999.25,row 10104 null -999.25,populated: Pay Thickness
+DULG-A032S01,N3-E10/11,E10/11,27908-28050,143,DULANG-A32S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A032S01,N3-E14,E14,28051-28193,143,DULANG-A32S1,.smk,E14.smk,"10019, 10020",,,,CONFLICT row 10019=2.811; row 10020=7.7,row 10019 null -999.25; row 10020 null -999.25,row 10019 null -999.25; row 10020 null -999.25,"matched, no usable value"
+DULG-A033S02,N3-E7,E7,28194-28278,85,DULANG-A33S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A033S02,SE2-E12/13,E12/13,28279-28455,177,DULANG-A33S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-A033S02,SE2-E23,E23,28456-28543,88,DULANG-A33S2,.smk,E23.smk,10433,6.1679791999999996,,,,row 10433 null -999.25,row 10433 null -999.25,populated: Pay Thickness
+DULG-A033S03,SE2-E34A,E34A,28544-28608,65,DULANG-A33ST3,exact,E34A,10633,42.4212612,0.262,0.92,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B001,N2-E10/11,E10/11,28609-28879,271,DULANG-B1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B001,N2-E11A,E11A,28880-28990,111,DULANG-B1,exact,E11A,"12542, 12546",,0.271,0.9,CONFLICT row 12542=2.612; row 12546=2.7,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E11B,E11B,28991-29101,111,DULANG-B1,exact,E11B,"12548, 12551",,0.303,0.612,CONFLICT row 12548=5.905; row 12551=6.1,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E12/13,E12/13,29102-29372,271,DULANG-B1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B001,N2-E12A,E12A,29373-29483,111,DULANG-B1,exact,E12A,"12558, 12561",,0.313,0.475,CONFLICT row 12558=6.98; row 12561=7.2,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E12B,E12B,29484-29594,111,DULANG-B1,exact,E12B,12566,17.50984308,0.317,0.457,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B001,N2-E13,E13,29595-29705,111,DULANG-B1,exact,E13,"12570, 12573",,0.306,0.594,CONFLICT row 12570=4.856; row 12573=5.0,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E14,E14,29706-29976,271,DULANG-B1,.smk,E14.smk,"12577, 12579",,0.368,0.547,CONFLICT row 12577=0.972; row 12579=1.0,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E14B,E14B,29977-30087,111,DULANG-B1,exact,E14B,"12588, 12589",,0.319,0.4,CONFLICT row 12588=8.566; row 12589=8.8,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E20,E20,30088-30485,398,DULANG-B1,exact,E20,12599,31.08923984,0.226,0.829,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B001,N2-E22A,E22A,30486-30596,111,DULANG-B1,exact,E22A,"12617, 12619",,0.242,0.69,CONFLICT row 12617=9.979; row 12619=10.2,,,"populated: Porosity,Water Saturation"
+DULG-B001,N2-E8,E8,30597-31030,323,DULANG-B1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B001,N2-E10,E10,30667-30777,111,DULANG-B1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B001,N2-LD1,LD1,31031-31436,406,DULANG-B1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B002S01,S2-E10/11,E10/11,31437-31839,403,DULANG-B2S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B002S01,S2-E12/13,E12/13,31840-32118,279,DULANG-B2S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B002S01,S2-E14,E14,32119-32521,403,DULANG-B2S1,.smk,E14.smk,"17794, 17795",,,,CONFLICT row 17794=3.047; row 17795=3.5,row 17794 null -999.25; row 17795 null -999.25,row 17794 null -999.25; row 17795 null -999.25,"matched, no usable value"
+DULG-B002S01,S2-E8,E8,32522-32924,403,DULANG-B2S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B002S01,S2-E1,E1,32925-33341,417,DULANG-B2S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B003,N3-E12/13,E12/13,33342-34971,459,DULANG-B3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B003,N3-E14,E14,33564-35208,459,DULANG-B3,.smk,E14.smk,"18030, 18033",,0.233,0.984,CONFLICT row 18030=1.202; row 18033=2.2,,,"populated: Porosity,Water Saturation"
+DULG-B003,N3-E34,E34,33786-35344,355,DULANG-B3,.smk,E34.smk,18126,6.98490836,,,,row 18126 null -999.25,row 18126 null -999.25,populated: Pay Thickness
+DULG-B003,N3-E36,E36,34090-35395,355,DULANG-B3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B003,N3-E40/42,E40/42,34394-34734,341,DULANG-B3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B003,N3-E7,E7,35209-35293,85,DULANG-B3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B004,S2-E10/11,E10/11,35396-37403,558,DULANG-B4,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B004,S2-E12/13,E12/13,35539-37752,492,DULANG-B4,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B004,S2-E14,E14,35682-38105,496,DULANG-B4,.smk,E14.smk,"19050, 19052",,0.266,0.54,CONFLICT row 19050=2.107; row 19052=2.5,,,"populated: Porosity,Water Saturation"
+DULG-B004,S2-E32,E32,35825-36212,388,DULANG-B4,exact,E32,"19114, 19117",,0.293,0.278,CONFLICT row 19114=15.275; row 19117=17.4,,,"populated: Porosity,Water Saturation"
+DULG-B004,S2-E34,E34,36213-36600,388,DULANG-B4,.smk,E34.smk,19133,3.7598426399999996,,,,row 19133 null -999.25,row 19133 null -999.25,populated: Pay Thickness
+DULG-B004,S2-E36,E36,36601-36988,388,DULANG-B4,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B005,S3-E12/13,E12/13,38106-39934,504,DULANG-B5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B005,S3-E14,E14,38342-40202,504,DULANG-B5,.smk,E14.smk,"19286, 19287",,0.183,0.989,CONFLICT row 19286=1.458; row 19287=3.3,,,"populated: Porosity,Water Saturation"
+DULG-B005,S3-E20/22,E20/22,38578-38940,363,DULANG-B5,exact,E20/22,"19323, 19326",,0.292,0.39,CONFLICT row 19323=5.566; row 19326=12.5,,,"populated: Porosity,Water Saturation"
+DULG-B005,S3-E23,E23,38941-39303,363,DULANG-B5,exact,E23,"19340, 19341",,0.192,0.864,CONFLICT row 19340=2.673; row 19341=6.0,,,"populated: Porosity,Water Saturation"
+DULG-B005,S3-E32,E32,39304-39666,363,DULANG-B5,exact,E32,"19371, 19375",,0.301,0.454,CONFLICT row 19371=18.079; row 19375=40.5,,,"populated: Porosity,Water Saturation"
+DULG-B005,S3-E7,E7,40203-40573,371,DULANG-B5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B005W01,S3-E12/13,E12/13,40574-40588,15,,none,,,,,,,,,well not in RES records
+DULG-B005W01,S3-E14,E14,40589-40603,15,,none,,,,,,,,,well not in RES records
+DULG-B005W01,S3-E20/22,E20/22,40604-40618,15,,none,,,,,,,,,well not in RES records
+DULG-B005W01,S3-E23,E23,40619-40633,15,,none,,,,,,,,,well not in RES records
+DULG-B005W01,S3-E32,E32,40634-40648,15,,none,,,,,,,,,well not in RES records
+DULG-B005W01,S3-E7,E7,40649-40663,15,,none,,,,,,,,,well not in RES records
+DULG-B006,N1-E14B,E14B,40664-40707,44,DULANG-B6,exact,E14B,"19517, 19519",,0.326,0.317,CONFLICT row 19517=12.181; row 19519=18.7,,,"populated: Porosity,Water Saturation"
+DULG-B006,N1-E12B,E12B,40708-40752,45,DULANG-B6,exact,E12B,"19494, 19497",,0.295,0.511,CONFLICT row 19494=13.113; row 19497=20.1,,,"populated: Porosity,Water Saturation"
+DULG-B006,N1-E13,E13,40753-40797,45,DULANG-B6,exact,E13,"19500, 19502",,0.289,0.605,CONFLICT row 19500=2.216; row 19502=3.4,,,"populated: Porosity,Water Saturation"
+DULG-B006W01,N1-E2A,E2A,40798-41031,234,,none,,,,,,,,,well not in RES records
+DULG-B006W01,N1-LD1,LD1,41032-41520,257,,none,,,,,,,,,well not in RES records
+DULG-B006W01,N1-LD3,LD3,41040-41535,247,,none,,,,,,,,,well not in RES records
+DULG-B007,N3-E10/11,E10/11,41536-41946,411,DULANG-B7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B007,N3-E12/13,E12/13,41947-42357,411,DULANG-B7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B007,N3-E14,E14,42358-42768,411,DULANG-B7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B007,N3-E7,E7,42769-43159,391,DULANG-B7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B008S01,N3-E7,E7,43160-43548,389,DULANG-B8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B008S01,N3-LD1,LD1,43549-43936,388,DULANG-B8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B009,N2-E11A,E11A,43937-45657,200,DULANG-B9,exact,E11A,"20077, 20078",,0.218,0.892,CONFLICT row 20077=7.811; row 20078=10.9,,,"populated: Porosity,Water Saturation"
+DULG-B009,N2-E12A,E12A,44026-46042,200,DULANG-B9,exact,E12A,"20088, 20089",,0.258,0.621,CONFLICT row 20088=3.968; row 20089=5.5,,,"populated: Porosity,Water Saturation"
+DULG-B009,N2-E12B,E12B,44115-46153,200,DULANG-B9,exact,E12B,"20091, 20094",,0.3,0.393,CONFLICT row 20091=8.452; row 20094=11.7,,,"populated: Porosity,Water Saturation"
+DULG-B009,N2-E13,E13,44204-46264,200,DULANG-B9,exact,E13,20097,9.01246748,0.229,0.825,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B009,N2-E14B,E14B,44293-44619,327,DULANG-B9,exact,E14B,"20114, 20116",,0.3,0.692,CONFLICT row 20114=10.66; row 20116=14.7,,,"populated: Porosity,Water Saturation"
+DULG-B009,N2-E20,E20,44620-45021,402,DULANG-B9,exact,E20,20122,40.05249472,0.263,0.463,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B009,N3-E14,E14,45022-45122,101,DULANG-B9,.smk,E14.smk,"20100, 20104",,0.25,0.656,CONFLICT row 20100=2.024; row 20104=2.8,,,"populated: Porosity,Water Saturation"
+DULG-B009,N2-E1,E1,45123-45409,287,DULANG-B9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B009,N2-E10/11,E10/11,45410-45546,137,DULANG-B9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B009,N2-E12/13,E12/13,45658-45931,274,DULANG-B9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B009,N3-E12/13,E12/13,46265-46364,100,DULANG-B9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B010,N3-E14,E14,46365-46505,141,DULANG-B10,.smk,E14.smk,"12794, 12798",,,,CONFLICT row 12794=2.273; row 12798=3.9,row 12794 null -999.25; row 12798 null -999.25,row 12794 null -999.25; row 12798 null -999.25,"matched, no usable value"
+DULG-B010,N3-E12/13,E12/13,46506-46649,144,DULANG-B10,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B010,N3-MIDB,MIDB,46650-46811,162,DULANG-B10,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B011,S2-E12/13,E12/13,46812-47202,391,DULANG-B11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B011,S2-E14,E14,47203-47567,365,DULANG-B11,.smk,E14.smk,"12980, 12983",,0.267,0.586,CONFLICT row 12980=2.841; row 12983=3.39,,,"populated: Porosity,Water Saturation"
+DULG-B011,S2-E7,E7,47568-48230,547,DULANG-B11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B011,S2-E6,E6,47711-47826,116,DULANG-B11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B012,N3-E1,E1,48231-48624,394,DULANG-B12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B012,N3-LD1,LD1,48625-48892,268,DULANG-B12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B012,N3-LD3,LD3,48893-49160,268,DULANG-B12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B013,S2-E12/13,E12/13,49161-49248,88,DULANG-B13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B013,S2-E14,E14,49249-49336,88,DULANG-B13,.smk,E14.smk,"13323, 13327",,,,CONFLICT row 13323=2.388; row 13327=4.09,row 13323 null -999.25; row 13327 null -999.25,row 13323 null -999.25; row 13327 null -999.25,"matched, no usable value"
+DULG-B013,S2-E7,E7,49337-49344,8,DULANG-B13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B013,S2-LD1,LD1,49345-49456,112,DULANG-B13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B013W01,S2-E12/13,E12/13,49457-49713,257,,none,,,,,,,,,well not in RES records
+DULG-B013W01,S2-E14,E14,49714-49991,278,,none,,,,,,,,,well not in RES records
+DULG-B013W01,S2-E7,E7,49992-50676,542,,none,,,,,,,,,well not in RES records
+DULG-B013W01,S2-LD1,LD1,50263-50947,414,,none,,,,,,,,,well not in RES records
+DULG-B014,N3-E10/11,E10/11,50948-51311,364,DULANG-B14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B014,N3-E1,E1,51312-51711,400,DULANG-B14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B014,N3-E6,E6,51712-52111,400,DULANG-B14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B014,N3-E7,E7,52112-52511,400,DULANG-B14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B015,S2-E12/13,E12/13,52512-52869,358,DULANG-B15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B015,S2-E1,E1,52870-53264,395,DULANG-B15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B016S03,N3-E7,E7,53265-53376,112,DULANG-B16S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B016S03,N3-LD2,LD2,53377-53488,112,DULANG-B16S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B016S03,S3-E12/13,E12/13,53489-53749,261,DULANG-B16S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B016S03,S3-E14,E14,53750-54010,261,DULANG-B16S3,.smk,E14.smk,"14057, 14058",,0.187,0.848,CONFLICT row 14057=1.128; row 14058=4.4,,,"populated: Porosity,Water Saturation"
+DULG-B016S03,S3-E23/32,E23/32,54011-54016,6,DULANG-B16S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E14,E14,54017-54079,63,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E34,E34,54080-54142,63,DULANG-B17S3,.smk,E34.smk,14530,4.9540684,,,,row 14530 null -999.25,row 14530 null -999.25,populated: Pay Thickness
+DULG-B017S03,S1-E36,E36,54143-54205,63,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E40/42,E40/42,54206-54268,63,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E6,E6,54269-54418,150,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E7,E7,54419-54568,150,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E8,E8,54569-54718,150,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S2-E12/13,E12/13,54719-56246,295,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S2-E14,E14,54760-54997,238,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S2-E34,E34,54998-55235,238,DULANG-B17S3,.smk,E34.smk,14530,4.9540684,,,,row 14530 null -999.25,row 14530 null -999.25,populated: Pay Thickness
+DULG-B017S03,S2-E36,E36,55236-55473,238,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S2-E40/42,E40/42,55474-55710,237,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E12/13,E12/13,55711-55728,18,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-E2,E2,55729-55860,132,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03,S1-LD1,LD1,55861-55992,132,DULANG-B17S3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B017S03W01,S2-E12/13,E12/13,56247-56261,15,,none,,,,,,,,,well not in RES records
+DULG-B017S03W01,S2-E14,E14,56262-56276,15,,none,,,,,,,,,well not in RES records
+DULG-B017S03W01,S2-E34,E34,56277-56291,15,,none,,,,,,,,,well not in RES records
+DULG-B017S03W01,S2-E36,E36,56292-56306,15,,none,,,,,,,,,well not in RES records
+DULG-B017S03W01,S2-E40/42,E40/42,56307-56321,15,,none,,,,,,,,,well not in RES records
+DULG-B018,S2-E12/13,E12/13,56322-56687,366,DULANG-B18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B018,S2-E10/11,E10/11,56688-57065,378,DULANG-B18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B018,S2-E2,E2,57066-57442,377,DULANG-B18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B018,S2-E8,E8,57443-57820,378,DULANG-B18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B018W01,S2-E10/11,E10/11,57821-57835,15,,none,,,,,,,,,well not in RES records
+DULG-B018W01,S2-E12/13,E12/13,57836-57850,15,,none,,,,,,,,,well not in RES records
+DULG-B018W01,S2-E2,E2,57851-57865,15,,none,,,,,,,,,well not in RES records
+DULG-B019,N1-E14B,E14B,57866-58234,369,DULANG-B19,exact,E14B,14868,44.20603816,0.317,0.34,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B019,N1-E22B,E22B,58235-58422,188,DULANG-B19,exact,E22B,"14899, 14902",,0.195,0.889,CONFLICT row 14899=2.98; row 14902=3.7,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E23A,E23A,58423-58610,188,DULANG-B19,exact,E23A,"14922, 14926",,0.176,1.0,CONFLICT row 14922=1.533; row 14926=1.9,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E23B,E23B,58611-58730,120,DULANG-B19,exact,E23B,"14927, 14930",,0.27,0.527,CONFLICT row 14927=4.036; row 14930=5.0,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E32,E32,58731-58918,188,DULANG-B19,exact,E32,14937,45.42651064,0.303,0.261,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B019,N1-E1,E1,58919-59103,185,DULANG-B19,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B019,N1-E11A,E11A,59104-59317,214,DULANG-B19,exact,E11A,"14830, 14833",,0.235,0.844,CONFLICT row 14830=11.306; row 14833=14.2,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E12A,E12A,59318-59515,198,DULANG-B19,exact,E12A,"14841, 14843",,0.322,0.348,CONFLICT row 14841=2.47; row 14843=3.1,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E12B,E12B,59516-59713,198,DULANG-B19,exact,E12B,"14847, 14849",,0.339,0.222,CONFLICT row 14847=6.144; row 14849=7.7,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E13,E13,59714-59911,198,DULANG-B19,exact,E13,"14852, 14853",,0.327,0.2,CONFLICT row 14852=2.637; row 14853=3.3,,,"populated: Porosity,Water Saturation"
+DULG-B019,N1-E2A,E2A,59912-60096,185,DULANG-B19,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B020,N3-E10/11,E10/11,60097-60363,267,DULANG-B20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B020,N3-E12/13,E12/13,60364-60636,273,DULANG-B20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B020,N3-E20/22,E20/22,60637-60894,258,DULANG-B20,exact,E20/22,15195,12.851050279999999,0.357,0.318,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B020,N3-E1,E1,60895-61003,109,DULANG-B20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B020,N3-E7,E7,61004-61273,270,DULANG-B20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B020,N3-E8,E8,61274-61647,374,DULANG-B20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B021,S2-E10/11,E10/11,61648-62853,385,DULANG-B21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B021,S2-E12/13,E12/13,61828-63058,385,DULANG-B21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B021,S2-E14,E14,62008-63263,385,DULANG-B21,.smk,E14.smk,"15386, 15388",,,,CONFLICT row 15386=1.744; row 15388=2.0,row 15386 null -999.25; row 15388 null -999.25,row 15386 null -999.25; row 15388 null -999.25,"matched, no usable value"
+DULG-B021,S2-E20/22,E20/22,62188-63299,209,DULANG-B21,exact,E20/22,"15421, 15423",,0.373,0.2,CONFLICT row 15421=7.403; row 15423=8.5,,,"populated: Porosity,Water Saturation"
+DULG-B021,S2-E34,E34,62361-62546,186,DULANG-B21,.smk,E34.smk,"15486, 15489",,,,CONFLICT row 15486=2.112; row 15489=2.4,row 15486 null -999.25; row 15489 null -999.25,row 15486 null -999.25; row 15489 null -999.25,"matched, no usable value"
+DULG-B021,S2-E7,E7,62547-63651,454,DULANG-B21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B022,N3-E12/13,E12/13,63652-64580,529,DULANG-B22,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B022,N3-E14,E14,63795-64194,400,DULANG-B22,.smk,E14.smk,"15674, 15678",,,,CONFLICT row 15674=1.895; row 15678=5.4,row 15674 null -999.25; row 15678 null -999.25,row 15674 null -999.25; row 15678 null -999.25,"matched, no usable value"
+DULG-B023,N3-LD3,LD3,64581-64869,289,DULANG-B23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B023,N3-MIDB,MIDB,64870-65339,192,DULANG-B23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B023,N3-LD1,LD1,64966-65243,278,DULANG-B23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024,N3-LD1,LD1,65340-65574,235,DULANG-B24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024,N3-LD2,LD2,65575-65809,235,DULANG-B24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024S02,S2-E10/11,E10/11,65810-65840,31,DULANG-B24S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024S02,S2-E12/13,E12/13,65841-65866,26,DULANG-B24S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024S02,S2-E14,E14,65867-65890,24,DULANG-B24S2,.smk,E14.smk,"16248, 16252",,,,CONFLICT row 16248=2.456; row 16252=2.5,row 16248 null -999.25; row 16252 null -999.25,row 16248 null -999.25; row 16252 null -999.25,"matched, no usable value"
+DULG-B024S02,S2-E23,E23,65891-65917,27,DULANG-B24S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B024S02,S2-E34,E34,65918-66029,112,DULANG-B24S2,.smk,E34.smk,16337,6.78477712,0.178,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B024S02,S2-E40,E40,66030-66090,61,DULANG-B24S2,exact,E40,"16352, 16355",,0.338,0.234,CONFLICT row 16352=10.83; row 16355=11.0,,,"populated: Porosity,Water Saturation"
+DULG-B025S01,S2-E1,E1,66091-66384,294,DULANG-B25S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B025S01,S2-E10/11,E10/11,66385-66678,294,DULANG-B25S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B025S01,S2-E12/13,E12/13,66679-66972,294,DULANG-B25S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B025S01,S2-E14,E14,66973-67266,294,DULANG-B25S1,.smk,E14.smk,"16666, 16670",,0.275,0.92,CONFLICT row 16666=2.092; row 16670=2.39,,,"populated: Porosity,Water Saturation"
+DULG-B025S01,S2-LD1,LD1,67267-67559,293,DULANG-B25S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B025S04,S2-LD1,LD1,67560-67599,40,DULANG-B25ST4,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026,N3-E10/11,E10/11,67600-67680,81,DULANG-B26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026,N3-E12/13,E12/13,67681-67735,55,DULANG-B26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026,N3-E14,E14,67736-67790,55,DULANG-B26,.smk,E14.smk,16916,5.25918652,0.179,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-B026,N3-E1,E1,67791-67847,57,DULANG-B26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026,N3-E6,E6,67848-67904,57,DULANG-B26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026,N3-E7,E7,67905-67961,57,DULANG-B26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B026W01,N3-E10/11,E10/11,67962-68245,284,,none,,,,,,,,,well not in RES records
+DULG-B026W01,N3-E12/13,E12/13,68246-68528,283,,none,,,,,,,,,well not in RES records
+DULG-B026W01,N3-E14,E14,68529-68812,284,,none,,,,,,,,,well not in RES records
+DULG-B026W01,N3-E1,E1,68813-69103,291,,none,,,,,,,,,well not in RES records
+DULG-B026W01,N3-E6,E6,69104-69251,148,,none,,,,,,,,,well not in RES records
+DULG-B026W01,N3-E7,E7,69252-69399,148,,none,,,,,,,,,well not in RES records
+DULG-B027,S1-E10,E10,69400-69510,111,DULANG-B27,exact,E10,"17047, 17051",,0.24,1.0,CONFLICT row 17047=26.262; row 17051=39.9,,,"populated: Porosity,Water Saturation"
+DULG-B027,S1-E10/11,E10/11,69511-69728,218,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B027,S1-E11B,E11B,69729-69839,111,DULANG-B27,exact,E11B,"17059, 17061",,0.221,0.995,CONFLICT row 17059=12.094; row 17061=18.3,,,"populated: Porosity,Water Saturation"
+DULG-B027,S1-E12/13,E12/13,69840-70057,218,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B027,S1-E12A,E12A,70058-70168,111,DULANG-B27,exact,E12A,"17069, 17072",,0.164,1.0,CONFLICT row 17069=5.3; row 17072=8.0,,,"populated: Porosity,Water Saturation"
+DULG-B027,S1-E12B,E12B,70169-70279,111,DULANG-B27,exact,E12B,"17075, 17077",,0.179,1.0,CONFLICT row 17075=6.513; row 17077=9.8,,,"populated: Porosity,Water Saturation"
+DULG-B027,S1-E13,E13,70280-70390,111,DULANG-B27,exact,E13,"17080, 17084",,0.2,1.0,CONFLICT row 17080=12.597; row 17084=18.9,,,"populated: Porosity,Water Saturation"
+DULG-B027,S1-E6,E6,70391-70801,155,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B027,S1-E7,E7,70483-70493,11,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B027,S1-E8,E8,70494-70711,218,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B027,S1-LD1,LD1,70712-71109,335,DULANG-B27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B028,S2-E34,E34,71110-71197,88,DULANG-B28,.smk,E34.smk,"17331, 17335",,,,CONFLICT row 17331=2.009; row 17335=2.6,row 17331 null -999.25; row 17335 null -999.25,row 17331 null -999.25; row 17335 null -999.25,"matched, no usable value"
+DULG-B028,S2-E36,E36,71198-71384,187,DULANG-B28,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B028,S2-E40/42,E40/42,71385-71471,87,DULANG-B28,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B028,S2-E7,E7,71472-71638,167,DULANG-B28,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B028,S2-LD1,LD1,71639-71672,34,DULANG-B28,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B028S02,S2-E32,E32,71673-71795,123,,none,,,,,,,,,well not in RES records
+DULG-B028S02,S2-E34,E34,71796-71918,123,,none,,,,,,,,,well not in RES records
+DULG-B028S02,S2-E40,E40,71919-71949,31,,none,,,,,,,,,well not in RES records
+DULG-B028S02,S2-E10/11,E10/11,71950-72097,148,,none,,,,,,,,,well not in RES records
+DULG-B029,N3-E10/11,E10/11,72098-72456,359,DULANG-B29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B029,N3-E12/13,E12/13,72457-72806,350,DULANG-B29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B029,N3-E14,E14,72807-72839,33,DULANG-B29,.smk,E14.smk,"17535, 17537",,0.182,0.981,CONFLICT row 17535=1.022; row 17537=1.6,,,"populated: Porosity,Water Saturation"
+DULG-B029,N3-LD1,LD1,72840-73170,331,DULANG-B29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B030,S2-E7,E7,73171-73465,295,DULANG-B30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B030,S2-LD1,LD1,73466-73734,269,DULANG-B30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B030S01,N3A-E11A/E11B,E11A/E11B,73735-73776,42,,none,,,,,,,,,well not in RES records
+DULG-B030S01,N3A-E12B,E12B,73777-73818,42,,none,,,,,,,,,well not in RES records
+DULG-B030S01,N3A-E14B,E14B,73819-73860,42,,none,,,,,,,,,well not in RES records
+DULG-B030S01,N3A-E7,E7,73861-73902,42,,none,,,,,,,,,well not in RES records
+DULG-B031,N3-E12/13,E12/13,73903-74235,333,DULANG-B31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B031,N3-E14,E14,74236-74567,332,DULANG-B31,.smk,E14.smk,"18449, 18450",,,,CONFLICT row 18449=3.195; row 18450=7.0,row 18449 null -999.25; row 18450 null -999.25,row 18449 null -999.25; row 18450 null -999.25,"matched, no usable value"
+DULG-B031,N3-E10/11,E10/11,74568-74864,297,DULANG-B31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B031,N3-E2,E2,74865-75161,297,DULANG-B31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B031S01,N3A-E11/12,E11/12,75162-75203,42,DULANG-B31ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B031S01,N3A-E14,E14,75204-75245,42,DULANG-B31ST1,.smk,E14.smk,18577,4.48490828,,,,row 18577 missing,row 18577 missing,populated: Pay Thickness
+DULG-B031S01,N3A-E6/7,E6/7,75246-75287,42,DULANG-B31ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-B032S01,N3-E10/11,E10/11,75288-76691,435,,none,,,,,,,,,well not in RES records
+DULG-B032S01,N3-E12/13,E12/13,75379-77035,435,,none,,,,,,,,,well not in RES records
+DULG-B032S01,N3-E14,E14,75470-77379,435,,none,,,,,,,,,well not in RES records
+DULG-B032S01,N3-E34,E34,75561-75875,315,,none,,,,,,,,,well not in RES records
+DULG-B032S01,N3-E36,E36,75876-76190,315,,none,,,,,,,,,well not in RES records
+DULG-B032S01,N3-E40/42,E40/42,76191-76347,157,,none,,,,,,,,,well not in RES records
+DULG-C001,S1-E10/11,E10/11,77380-77634,255,DULANG-C1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C001,S1-E11A,E11A,77635-77745,111,DULANG-C1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C001,S1-E11B,E11B,77746-77856,111,DULANG-C1,exact,E11B,"20305, 20308",,0.266,0.507,CONFLICT row 20305=9.449; row 20308=18.0,,,"populated: Porosity,Water Saturation"
+DULG-C001,S1-E12A,E12A,77857-78222,366,DULANG-C1,exact,E12A,"20315, 20318",,0.228,0.856,CONFLICT row 20315=4.441; row 20318=8.5,,,"populated: Porosity,Water Saturation"
+DULG-C001,S1-E12B,E12B,78223-78333,111,DULANG-C1,exact,E12B,"20320, 20325",,0.279,0.426,CONFLICT row 20320=10.831; row 20325=20.8,,,"populated: Porosity,Water Saturation"
+DULG-C001,S1-E13,E13,78334-78444,111,DULANG-C1,exact,E13,"20328, 20329",,0.255,0.615,CONFLICT row 20328=9.302; row 20329=18.0,,,"populated: Porosity,Water Saturation"
+DULG-C001,S1-E10,E10,78445-78523,79,DULANG-C1,exact,E10,20294,63.12992328,0.302,0.311,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C001,S1-E6,E6,78524-78898,375,DULANG-C1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C001,S1-E7,E7,78899-79195,297,DULANG-C1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C002,N1-E10,E10,79196-79564,369,DULANG-C2,exact,E10,"22177, 22181",,0.248,0.766,CONFLICT row 22177=5.651; row 22181=8.8,,,"populated: Porosity,Water Saturation"
+DULG-C002,N1-E2A,E2A,79565-79724,160,DULANG-C2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C002,N1-LD1,LD1,79725-80048,324,DULANG-C2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003,S1-E10,E10,80049-80231,183,DULANG-C3,exact,E10,"24387, 24389",,0.223,0.983,CONFLICT row 24387=7.585; row 24389=12.2,,,"populated: Porosity,Water Saturation"
+DULG-C003,S1-E6,E6,80232-80414,183,DULANG-C3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003,S1-E7,E7,80415-80597,183,DULANG-C3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003,S1-E2A,E2A,80598-80783,186,DULANG-C3,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003S01,S1-E10,E10,80784-80908,125,DULANG-C3ST1,exact,E10,"24803, 24807",,0.217,0.966,CONFLICT row 24803=8.72; row 24807=20.5,,,"populated: Porosity,Water Saturation"
+DULG-C003S01,S1-E11A,E11A,80909-80988,80,DULANG-C3ST1,exact,E11A,"24814, 24818",,0.272,0.773,CONFLICT row 24814=3.446; row 24818=8.1,,,"populated: Porosity,Water Saturation"
+DULG-C003S01,S1-E11B,E11B,80989-81068,80,DULANG-C3ST1,exact,E11B,"24819, 24824",,0.281,0.586,CONFLICT row 24819=5.32; row 24824=12.5,,,"populated: Porosity,Water Saturation"
+DULG-C003S01,S1-E12B,E12B,81069-81088,20,DULANG-C3ST1,exact,E12B,24837,44.44553948,0.278,0.964,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C003S01,S1-E2A,E2A,81089-81184,96,DULANG-C3ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003S01,S1-E6,E6,81185-81229,45,DULANG-C3ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C003S01,S1-E7,E7,81230-81274,45,DULANG-C3ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C004S01,N1-E10,E10,81275-81830,423,DULANG-C4S1,exact,E10,"25218, 25219",,0.24,0.71,CONFLICT row 25218=12.61; row 25219=26.0,,,"populated: Porosity,Water Saturation"
+DULG-C004S01,N1-E2A,E2A,81634-82097,320,DULANG-C4S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C004S01,N1-E2B,E2B,81687-82356,304,DULANG-C4S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C004S01,N1-E8,E8,81732-81739,8,DULANG-C4S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C004S01,N1-LD3,LD3,81740-82400,53,DULANG-C4S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C004S01,N1-LD1,LD1,82357-82374,18,DULANG-C4S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C005,S1-E10/11,E10/11,82401-82619,219,DULANG-C5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C005,S1-E12/13,E12/13,82620-82838,219,DULANG-C5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C005,S1-E6,E6,82839-83123,232,DULANG-C5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C005,S1-E7,E7,82876-83319,233,DULANG-C5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C005,S1-LD1,LD1,82913-83679,376,DULANG-C5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C006,N1-E10/11,E10/11,83680-83687,8,DULANG-C6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C006,N1-E11B,E11B,83688-83808,121,DULANG-C6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C006,N1-E12B,E12B,83809-83925,117,DULANG-C6,exact,E12B,25559,41.666667999999994,0.252,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C006,N1-E13,E13,83926-84041,116,DULANG-C6,exact,E13,25563,21.653544,0.249,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C006,N1-E2A,E2A,84042-84308,244,DULANG-C6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C006,N1-LD1,LD1,84057-84594,301,DULANG-C6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C006,N1-E2,E2,84072-84079,8,DULANG-C6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E10/11,E10/11,84595-84860,266,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E11A,E11A,84861-84971,111,DULANG-C7,exact,E11A,"25679, 25683",,0.227,0.869,CONFLICT row 25679=6.502; row 25683=6.7,,,"populated: Porosity,Water Saturation"
+DULG-C007,S1-E11B,E11B,84972-85082,111,DULANG-C7,exact,E11B,"25685, 25689",,0.254,0.712,CONFLICT row 25685=6.891; row 25689=7.1,,,"populated: Porosity,Water Saturation"
+DULG-C007,S1-E12/13,E12/13,85083-85345,263,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E12A,E12A,85346-85456,111,DULANG-C7,exact,E12A,"25696, 25699",,0.226,0.887,CONFLICT row 25696=3.786; row 25699=3.9,,,"populated: Porosity,Water Saturation"
+DULG-C007,S1-E12B,E12B,85457-85567,111,DULANG-C7,exact,E12B,"25701, 25705",,0.273,0.693,CONFLICT row 25701=11.555; row 25705=11.9,,,"populated: Porosity,Water Saturation"
+DULG-C007,S1-E2,E2,85568-85616,49,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E6,E6,85617-86380,493,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E2A,E2A,85728-85998,271,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C007,S1-E7,E7,86381-86651,271,DULANG-C7,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C008S01,N2-E12A,E12A,86652-86958,307,DULANG-C8S1,exact,E12A,"25873, 25875",,0.193,1.0,CONFLICT row 25873=7.841; row 25875=13.5,,,"populated: Porosity,Water Saturation"
+DULG-C008S01,N2-E12B,E12B,86959-87286,328,DULANG-C8S1,exact,E12B,"25877, 25881",,0.281,1.0,CONFLICT row 25877=13.667; row 25881=23.5,,,"populated: Porosity,Water Saturation"
+DULG-C008S01,N2-E2A,E2A,87287-87456,170,DULANG-C8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C008S01,N2-LD1,LD1,87457-88068,488,DULANG-C8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C008S01,N2-E2,E2,87617-87740,124,DULANG-C8S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C009,S1-E10/11,E10/11,88069-88277,209,DULANG-C9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C009,S1-E12/13,E12/13,88278-88632,355,DULANG-C9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C009,S1-E6,E6,88633-89491,499,DULANG-C9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C009,S1-E8,E8,88758-89865,499,DULANG-C9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C009,S1-E2,E2,88883-89117,235,DULANG-C9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C010S02,S1-E12B,E12B,89866-90223,358,DULANG-C10S2,exact,E12B,"20659, 20660",,0.236,1.0,CONFLICT row 20659=15.571; row 20660=28.8,,,"populated: Porosity,Water Saturation"
+DULG-C010S02,S1-E6,E6,90224-91050,469,DULANG-C10S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C010S02,S1-E7,E7,90335-91408,469,DULANG-C10S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C010S02,S1-E10/11,E10/11,90446-90692,247,DULANG-C10S2,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C011,N2-E10/11,E10/11,91409-91654,246,DULANG-C11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C011,N2-E11A,E11A,91655-91765,111,DULANG-C11,exact,E11A,20794,25.96128692,0.215,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C011,N2-E11B,E11B,91766-91876,111,DULANG-C11,exact,E11B,"20800, 20803",,0.22,1.0,CONFLICT row 20800=4.457; row 20803=8.7,,,"populated: Porosity,Water Saturation"
+DULG-C011,N2-E14,E14,91877-92120,244,DULANG-C11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C011,N2-E14B,E14B,92121-92231,111,DULANG-C11,exact,E14B,"20834, 20836",,0.266,1.0,CONFLICT row 20834=8.576; row 20836=17.6,,,"populated: Porosity,Water Saturation"
+DULG-C011,N2-LD1,LD1,92232-92936,356,DULANG-C11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C011,N2-E1,E1,92249-92597,349,DULANG-C11,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-E10,E10,92937-93047,111,DULANG-C12,exact,E10,"20955, 20958",,0.171,1.0,CONFLICT row 20955=4.018; row 20958=5.1,,,"populated: Porosity,Water Saturation"
+DULG-C012,S1-E10/11,E10/11,93048-93286,239,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-E11A,E11A,93287-93397,111,DULANG-C12,exact,E11A,"20966, 20969",,0.218,0.796,CONFLICT row 20966=6.382; row 20969=8.1,,,"populated: Porosity,Water Saturation"
+DULG-C012,S1-E11B,E11B,93398-93508,111,DULANG-C12,exact,E11B,"20973, 20976",,0.208,0.851,CONFLICT row 20973=5.91; row 20976=7.5,,,"populated: Porosity,Water Saturation"
+DULG-C012,S1-E6,E6,93509-93858,350,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-E7,E7,93859-94208,350,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-LD1,LD1,94209-94943,475,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-E2A,E2A,94320-94579,260,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C012,S1-LD3,LD3,94944-95166,223,DULANG-C12,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C013,N1-LD1,LD1,95167-95517,351,DULANG-C13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C014,S1-E10,E10,95518-95628,111,DULANG-C14,exact,E10,21280,24.0649614,0.18,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C014,S1-E10/11,E10/11,95629-95726,98,DULANG-C14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C014,S1-E11A,E11A,95727-95837,111,DULANG-C14,exact,E11A,"21293, 21297",,0.24,0.767,CONFLICT row 21293=5.792; row 21297=8.8,,,"populated: Porosity,Water Saturation"
+DULG-C014,S1-E2A,E2A,95838-97025,470,DULANG-C14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C014,S1-E6,E6,95949-96307,359,DULANG-C14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C014,S1-E7,E7,96308-96666,359,DULANG-C14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C014,S1-LD1,LD1,97026-97381,356,DULANG-C14,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-E10,E10,97382-97492,111,DULANG-C15,exact,E10,"21465, 21467",,0.289,0.343,CONFLICT row 21465=11.113; row 21467=24.9,,,"populated: Porosity,Water Saturation"
+DULG-C015,S1-E10/11,E10/11,97493-97850,358,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-E11A,E11A,97851-97961,111,DULANG-C15,exact,E11A,"21476, 21480",,0.282,0.366,CONFLICT row 21476=15.714; row 21480=34.9,,,"populated: Porosity,Water Saturation"
+DULG-C015,S1-E12/13,E12/13,97962-98172,211,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-E12A,E12A,98173-98283,111,DULANG-C15,exact,E12A,21490,13.6318902,0.22,0.682,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C015,S1-E12B,E12B,98284-98394,111,DULANG-C15,exact,E12B,"21492, 21497",,0.28,0.414,CONFLICT row 21492=12.5; row 21497=27.5,,,"populated: Porosity,Water Saturation"
+DULG-C015,S1-E6,E6,98395-99448,471,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-E7,E7,98506-98619,114,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-E8,E8,98620-98977,358,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C015,S1-LD1,LD1,98978-99805,468,DULANG-C15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C016,N1-E10,E10,99806-99981,176,DULANG-C16,exact,E10,"21607, 21610",,0.246,1.0,CONFLICT row 21607=7.16; row 21610=8.1,,,"populated: Porosity,Water Saturation"
+DULG-C016,N1-E12B,E12B,99982-100184,203,DULANG-C16,exact,E12B,"21633, 21637",,0.24,1.0,CONFLICT row 21633=10.006; row 21637=11.3,,,"populated: Porosity,Water Saturation"
+DULG-C016,N1-E8,E8,100185-100387,203,DULANG-C16,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C016,N1-LD1,LD1,100388-100562,175,DULANG-C16,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C016W01,N1-E10,E10,100563-100673,111,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-E111A,E111A,100674-100784,111,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-E11B,E11B,100785-100895,111,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-E12B,E12B,100896-101038,143,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-E13,E13,101039-101113,75,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-E6/8,E6/8,101114-101145,32,,none,,,,,,,,,well not in RES records
+DULG-C016W01,N1-LD1,LD1,101146-101288,143,,none,,,,,,,,,well not in RES records
+DULG-C017,S1-E10/11,E10/11,101289-101515,227,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-E12/13,E12/13,101516-101742,227,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-E2,E2,101743-101848,106,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-E6,E6,101849-102467,302,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-E7,E7,101949-102669,302,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-LD1,LD1,102049-102885,227,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C017,S1-E2A,E2A,102060-102265,206,DULANG-C17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C018,N1-E1,E1,102886-103870,504,DULANG-C18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C018,N1-E11A,E11A,103029-103981,137,DULANG-C18,exact,E11A,"21931, 21934",,0.254,,CONFLICT row 21931=7.27; row 21934=14.0,,CONFLICT row 21931=0.572; row 21934=0.571,populated: Porosity
+DULG-C018,N1-E11B,E11B,103055-104092,137,DULANG-C18,exact,E11B,"21937, 21939",,0.282,0.404,CONFLICT row 21937=6.933; row 21939=13.4,,,"populated: Porosity,Water Saturation"
+DULG-C018,N1-E12A,E12A,103081-104203,363,DULANG-C18,exact,E12A,"21947, 21950",,0.211,0.903,CONFLICT row 21947=5.739; row 21950=11.1,,,"populated: Porosity,Water Saturation"
+DULG-C018,N1-E2,E2,103333-103475,143,DULANG-C18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C018,N1-E8,E8,103476-104664,134,DULANG-C18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C018,N1-E2A,E2A,104204-104564,361,DULANG-C18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C019S02,S1-E2,E2,104665-104696,32,,none,,,,,,,,,well not in RES records
+DULG-C019S02,S1-E6,E6,104697-105051,355,,none,,,,,,,,,well not in RES records
+DULG-C019S02,S1-E7,E7,105052-105376,325,,none,,,,,,,,,well not in RES records
+DULG-C019S02,S1-LD1,LD1,105377-106154,509,,none,,,,,,,,,well not in RES records
+DULG-C019S02,S1-E2A,E2A,105520-105788,269,,none,,,,,,,,,well not in RES records
+DULG-C020,S1-E10/11,E10/11,106155-106391,237,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C020,S1-E11B,E11B,106392-106502,111,DULANG-C20,exact,E11B,"22339, 22343",,0.239,0.903,CONFLICT row 22339=3.091; row 22343=5.8,,,"populated: Porosity,Water Saturation"
+DULG-C020,S1-E2,E2,106503-106534,32,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C020,S1-E6,E6,106535-106885,351,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C020,S1-E7,E7,106886-107236,351,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C020,S1-LD1,LD1,107237-108093,500,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C020,S1-E2A,E2A,107380-107736,357,DULANG-C20,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-E10,E10,108094-108204,111,DULANG-C21,exact,E10,22490,19.05839956,0.301,0.952,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C021,S1-E10/11,E10/11,108205-108466,262,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-E11A,E11A,108467-108577,111,DULANG-C21,exact,E11A,22506,12.6476382,0.211,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C021,S1-E11B,E11B,108578-108688,111,DULANG-C21,exact,E11B,"22511, 22512",,0.21,1.0,CONFLICT row 22511=6.122; row 22512=10.0,,,"populated: Porosity,Water Saturation"
+DULG-C021,S1-E12/13,E12/13,108689-108950,262,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-E12A,E12A,108951-109061,111,DULANG-C21,exact,E12A,22521,20.108268359999997,0.215,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C021,S1-E12B,E12B,109062-109172,111,DULANG-C21,exact,E12B,"22527, 22529",,0.194,1.0,CONFLICT row 22527=13.692; row 22529=22.2,,,"populated: Porosity,Water Saturation"
+DULG-C021,S1-E13,E13,109173-109283,111,DULANG-C21,exact,E13,"22533, 22536",,0.211,1.0,CONFLICT row 22533=5.76; row 22536=9.3,,,"populated: Porosity,Water Saturation"
+DULG-C021,S1-E6,E6,109284-109656,373,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-E7,E7,109657-110029,373,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-LD1,LD1,110030-110823,454,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C021,S1-E2A,E2A,110141-110480,340,DULANG-C21,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C022S01,S1-E2,E2,110824-111200,183,,none,,,,,,,,,well not in RES records
+DULG-C022S01,S1-E6,E6,110867-111017,151,,none,,,,,,,,,well not in RES records
+DULG-C022S01,S1-LD1,LD1,111018-111340,183,,none,,,,,,,,,well not in RES records
+DULG-C022S02,S1-E10/11,E10/11,111341-111497,157,,none,,,,,,,,,well not in RES records
+DULG-C022S02,S1-E6,E6,111498-111654,157,,none,,,,,,,,,well not in RES records
+DULG-C022S02,S1-E8,E8,111655-111683,29,,none,,,,,,,,,well not in RES records
+DULG-C023,S1-E10/11,E10/11,111684-111765,82,DULANG-C23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C023,S1-E11A,E11A,111766-111876,111,DULANG-C23,exact,E11A,"23064, 23065",,0.25,0.799,CONFLICT row 23064=6.489; row 23065=11.7,,,"populated: Porosity,Water Saturation"
+DULG-C023,S1-E2A,E2A,111877-113061,436,DULANG-C23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C023,S1-E6,E6,111988-113172,430,DULANG-C23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C023,S1-E7,E7,112307-113283,430,DULANG-C23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C023,S1-LD1,LD1,112626-113610,438,DULANG-C23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C024,S1-E10,E10,113611-113721,111,DULANG-C24,exact,E10,"23179, 23182",,,,CONFLICT row 23179=6.199; row 23182=12.1,row 23179 null -999.25; row 23182 null -999.25,row 23179 null -999.25; row 23182 null -999.25,"matched, no usable value"
+DULG-C024,S1-E10/11,E10/11,113722-113981,260,DULANG-C24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C024,S1-E6,E6,113982-114253,272,DULANG-C24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C024,S1-E7,E7,114254-114525,272,DULANG-C24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C024,S1-LD1,LD1,114526-115280,384,DULANG-C24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C024,S1-E2A,E2A,114626-114996,371,DULANG-C24,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C025W01,S1-E2A,E2A,115281-115453,173,,none,,,,,,,,,well not in RES records
+DULG-C025W01,S1-LD1,LD1,115454-115737,284,,none,,,,,,,,,well not in RES records
+DULG-C026,S1-E6,E6,115738-116096,359,DULANG-C26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C026,S1-E7,E7,116097-116454,358,DULANG-C26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C026,S1-E2A,E2A,116455-116813,359,DULANG-C26,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C027,N1-E14A,E14A,116814-116875,62,DULANG-C27,exact,E14A,"23806, 23808",,0.197,0.868,CONFLICT row 23806=4.994; row 23808=12.2,,,"populated: Porosity,Water Saturation"
+DULG-C027,N1-E32,E32,116876-117195,320,DULANG-C27,exact,E32,"23874, 23878",,0.279,0.303,CONFLICT row 23874=11.132; row 23878=26.6,,,"populated: Porosity,Water Saturation"
+DULG-C027,N1-E11A,E11A,117196-117239,44,DULANG-C27,exact,E11A,23765,33.34645776,0.266,0.537,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C027,N1-E12A,E12A,117240-117541,302,DULANG-C27,exact,E12A,"23783, 23786",,0.244,0.807,CONFLICT row 23783=3.513; row 23786=8.5,,,"populated: Porosity,Water Saturation"
+DULG-C027,N1-E12B,E12B,117542-117609,68,DULANG-C27,exact,E12B,"23787, 23791",,0.28,0.482,CONFLICT row 23787=8.734; row 23791=21.2,,,"populated: Porosity,Water Saturation"
+DULG-C027,N1-E13,E13,117610-117677,68,DULANG-C27,exact,E13,"23793, 23797",,0.241,0.727,CONFLICT row 23793=2.011; row 23797=4.9,,,"populated: Porosity,Water Saturation"
+DULG-C027,N1-E8,E8,117678-117794,117,DULANG-C27,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C028S01,N1-E32,E32,117795-117950,156,DULANG-C28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C028S01,N1-E40/42,E40/42,117951-118106,156,DULANG-C28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C028S01,N1-E40A,E40A,118107-118217,111,DULANG-C28S1,exact,E40A,"24093, 24096",,0.307,0.919,CONFLICT row 24093=12.212; row 24096=15.4,,,"populated: Porosity,Water Saturation"
+DULG-C028S01,N1-LD1,LD1,118218-118579,362,DULANG-C28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C028S01,N1-LD3,LD3,118580-118827,248,DULANG-C28S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C029,S1-E10,E10,118828-118938,111,DULANG-C29,exact,E10,"24244, 24245",,0.191,0.754,CONFLICT row 24244=10.5; row 24245=3.697,,,"populated: Porosity,Water Saturation"
+DULG-C029,S1-E10/11,E10/11,118939-118984,46,DULANG-C29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C029,S1-E11A,E11A,118985-119095,111,DULANG-C29,exact,E11A,"24261, 24265",,0.316,0.234,CONFLICT row 24261=7.169; row 24265=20.7,,,"populated: Porosity,Water Saturation"
+DULG-C029,S1-E11B,E11B,119096-119206,111,DULANG-C29,exact,E11B,"24267, 24269",,0.251,,CONFLICT row 24267=9.313; row 24269=27.7,,CONFLICT row 24267=0.674; row 24269=0.678,populated: Porosity
+DULG-C029,S1-E7,E7,119207-119363,157,DULANG-C29,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C031,S1-E10/11,E10/11,119364-119404,41,DULANG-C31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C031,S1-E11B,E11B,119405-119515,111,DULANG-C31,exact,E11B,24661,21.0137802,0.198,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-C031,S1-E12/13,E12/13,119516-119556,41,DULANG-C31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-C031,S1-E12A,E12A,119557-119667,111,DULANG-C31,exact,E12A,"24671, 24674",,0.231,1.0,CONFLICT row 24671=9.396; row 24674=22.1,,,"populated: Porosity,Water Saturation"
+DULG-C031,S1-E12B,E12B,119668-119778,111,DULANG-C31,exact,E12B,"24677, 24679",,0.21,1.0,CONFLICT row 24677=12.084; row 24679=28.4,,,"populated: Porosity,Water Saturation"
+DULG-C031,S1-E14B,E14B,119779-119889,111,DULANG-C31,exact,E14B,"24694, 24695",,0.297,0.989,CONFLICT row 24694=10.397; row 24695=24.4,,,"populated: Porosity,Water Saturation"
+DULG-D001,VIII-E1,E1,119890-120983,234,DULANG-D1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D001,VIII-E12A,E12A,119939-120163,225,DULANG-D1,exact,E12A,"26229, 26230",,0.211,0.945,CONFLICT row 26229=7.595; row 26230=10.2,,,"populated: Porosity,Water Saturation"
+DULG-D001,VIII-E12B,E12B,120164-120388,225,DULANG-D1,exact,E12B,"26233, 26236",,0.281,0.341,CONFLICT row 26233=6.108; row 26236=8.2,,,"populated: Porosity,Water Saturation"
+DULG-D001,VIII-E13,E13,120389-120613,225,DULANG-D1,exact,E13,"26239, 26242",,0.258,,CONFLICT row 26239=9.657; row 26242=13.0,,CONFLICT row 26239=0.514; row 26242=0.513,populated: Porosity
+DULG-D001,VIII-E14B,E14B,120614-120798,185,DULANG-D1,exact,E14B,"26254, 26257",,0.285,0.543,CONFLICT row 26254=12.655; row 26257=17.1,,,"populated: Porosity,Water Saturation"
+DULG-D001,VIII-E2A,E2A,120984-121265,282,DULANG-D1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D002,IX-E14B,E14B,121266-121527,262,DULANG-D2,exact,E14B,"29169, 29171",27.847769919999998,0.339,0.323,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D002S01,IX-E11A,E11A,121528-121616,89,DULANG-D2ST1,exact,E11A,"31839, 31840, 31842",,,,CONFLICT row 31839=8.588; row 31840=8.589; row 31842=9.0,CONFLICT row 31839=0.29; row 31840=0.282; row 31842=0.29,CONFLICT row 31839=0.379; row 31840=0.421; row 31842=0.379,"matched, no usable value"
+DULG-D002S01,IX-E12A,E12A,121617-121705,89,DULANG-D2ST1,exact,E12A,"31861, 31863",,,,CONFLICT row 31861=6.871; row 31863=4.008,CONFLICT row 31861=0.246; row 31863=0.284,CONFLICT row 31861=0.53; row 31863=0.439,"matched, no usable value"
+DULG-D002S01,IX-E14B,E14B,121706-121794,89,DULANG-D2ST1,exact,E14B,"31905, 31908, 31909",,,,CONFLICT row 31905=8.21; row 31908=8.21; row 31909=8.6,CONFLICT row 31905=0.312; row 31908=0.314; row 31909=0.314,CONFLICT row 31905=0.316; row 31908=0.303; row 31909=0.303,"matched, no usable value"
+DULG-D003S01,VIII-E10,E10,121795-121998,204,DULANG-D3S1,exact,E10,"32657, 32658",,0.274,0.994,CONFLICT row 32657=16.166; row 32658=21.5,,,"populated: Porosity,Water Saturation"
+DULG-D003S01,VIII-E11A,E11A,121999-122202,204,DULANG-D3S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D003S01,VIII-E12A,E12A,122203-122507,305,DULANG-D3S1,exact,E12A,32674,25.95800608,0.204,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D003S01,VIII-E12B,E12B,122508-122812,305,DULANG-D3S1,exact,E12B,"32679, 32682",,0.269,1.0,CONFLICT row 32679=10.173; row 32682=13.5,,,"populated: Porosity,Water Saturation"
+DULG-D003S01,VIII-E13,E13,122813-123117,305,DULANG-D3S1,exact,E13,"32684, 32687",,0.264,1.0,CONFLICT row 32684=6.783; row 32687=9.0,,,"populated: Porosity,Water Saturation"
+DULG-D003S01,VIII-E14B,E14B,123118-123222,105,DULANG-D3S1,exact,E14B,32698,43.13648432,0.282,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D004,VIII-E11A,E11A,123223-124165,484,DULANG-D4,exact,E11A,"32830, 32834",,0.277,0.422,CONFLICT row 32830=5.342; row 32834=8.0,,,"populated: Porosity,Water Saturation"
+DULG-D004,VIII-E12B,E12B,123361-123530,170,DULANG-D4,exact,E12B,"32854, 32857",,0.255,0.617,CONFLICT row 32854=5.785; row 32857=8.7,,,"populated: Porosity,Water Saturation"
+DULG-D004,VIII-E13,E13,123531-123700,170,DULANG-D4,exact,E13,"32860, 32862",,0.284,0.446,CONFLICT row 32860=8.899; row 32862=13.4,,,"populated: Porosity,Water Saturation"
+DULG-D004,VIII-E14B,E14B,123701-123819,119,DULANG-D4,exact,E14B,"32876, 32877",,0.32,0.357,CONFLICT row 32876=10.514; row 32877=15.8,,,"populated: Porosity,Water Saturation"
+DULG-D005,IX-E1,E1,124166-124173,8,DULANG-D5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D005,IX-E11A,E11A,124174-124452,279,DULANG-D5,exact,E11A,"33032, 33033",,0.203,0.978,CONFLICT row 33032=6.679; row 33033=10.9,,,"populated: Porosity,Water Saturation"
+DULG-D005,IX-E12A,E12A,124453-124799,347,DULANG-D5,exact,E12A,"33049, 33052",,0.27,0.935,CONFLICT row 33049=8.83; row 33052=14.4,,,"populated: Porosity,Water Saturation"
+DULG-D005,IX-E12B,E12B,124800-124994,195,DULANG-D5,exact,E12B,"33053, 33056",,0.268,0.929,CONFLICT row 33053=16.649; row 33056=27.2,,,"populated: Porosity,Water Saturation"
+DULG-D005,IX-E13,E13,124995-125189,195,DULANG-D5,exact,E13,"33059, 33062",,0.252,0.889,CONFLICT row 33059=11.298; row 33062=18.5,,,"populated: Porosity,Water Saturation"
+DULG-D005,IX-E7,E7,125190-125455,16,DULANG-D5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D005,IX-E10/11,E10/11,125198-125205,8,DULANG-D5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D005,IX-E1A,E1A,125206-125447,242,DULANG-D5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D005,IX-E8,E8,125456-125775,320,DULANG-D5,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D006,VIII-E11A,E11A,125776-126107,332,DULANG-D6,exact,E11A,"33220, 33223",,0.302,0.372,CONFLICT row 33220=9.076; row 33223=14.5,,,"populated: Porosity,Water Saturation"
+DULG-D006,VIII-E12A,E12A,126108-126439,332,DULANG-D6,exact,E12A,"33233, 33236",,0.287,0.665,CONFLICT row 33233=7.811; row 33236=12.5,,,"populated: Porosity,Water Saturation"
+DULG-D006,VIII-E12B,E12B,126440-126771,332,DULANG-D6,exact,E12B,"33239, 33240",,0.345,0.289,CONFLICT row 33239=9.296; row 33240=14.9,,,"populated: Porosity,Water Saturation"
+DULG-D006,VIII-E13,E13,126772-127103,332,DULANG-D6,exact,E13,"33242, 33245",,0.33,0.33,CONFLICT row 33242=2.868; row 33245=4.6,,,"populated: Porosity,Water Saturation"
+DULG-D006,VIII-E14B,E14B,127104-127313,210,DULANG-D6,exact,E14B,"33258, 33262",,0.342,0.281,CONFLICT row 33258=12.422; row 33262=19.9,,,"populated: Porosity,Water Saturation"
+DULG-D006,VIII-E2A,E2A,127314-127625,312,DULANG-D6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D006,VIII-E6,E6,127626-127984,359,DULANG-D6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D006,VIII-E7,E7,127985-128311,327,DULANG-D6,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D007S01,IX-E1,E1,128312-129267,432,DULANG-D7S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D007S01,IX-E11A,E11A,128399-128509,111,DULANG-D7S1,exact,E11A,"33517, 33519",,0.266,0.535,CONFLICT row 33517=8.095; row 33519=10.4,,,"populated: Porosity,Water Saturation"
+DULG-D007S01,IX-E12A,E12A,128510-128777,268,DULANG-D7S1,exact,E12A,"33523, 33526",,0.261,0.497,CONFLICT row 33523=6.142; row 33526=7.9,,,"populated: Porosity,Water Saturation"
+DULG-D007S01,IX-E12B,E12B,128778-128810,33,DULANG-D7S1,exact,E12B,33529,34.937665159999995,0.242,0.508,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D007S01,IX-E13,E13,128811-128835,25,DULANG-D7S1,exact,E13,"33532, 33534",,0.28,0.658,CONFLICT row 33532=6.917; row 33534=8.9,,,"populated: Porosity,Water Saturation"
+DULG-D007S01,IX-E2,E2,128836-129612,432,DULANG-D7S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D008,IX-E11A,E11A,129613-129932,320,DULANG-D8,exact,E11A,"33669, 33671",,0.267,0.443,CONFLICT row 33669=7.414; row 33671=14.0,,,"populated: Porosity,Water Saturation"
+DULG-D008,IX-E11B,E11B,129933-130260,328,DULANG-D8,exact,E11B,"33674, 33678",,0.246,0.63,CONFLICT row 33674=5.879; row 33678=11.1,,,"populated: Porosity,Water Saturation"
+DULG-D008,IX-E12A,E12A,130261-130554,294,DULANG-D8,exact,E12A,"33686, 33691",,0.276,0.431,CONFLICT row 33686=9.329; row 33691=17.6,,,"populated: Porosity,Water Saturation"
+DULG-D008,IX-E12B,E12B,130555-130840,286,DULANG-D8,exact,E12B,33693,15.853018879999999,0.283,0.451,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D008,IX-E13,E13,130841-131126,286,DULANG-D8,exact,E13,"33698, 33700",,0.286,0.494,CONFLICT row 33698=11.339; row 33700=21.3,,,"populated: Porosity,Water Saturation"
+DULG-D008,IX-E10,E10,131127-131461,335,DULANG-D8,exact,E10,33661,28.33989592,0.266,0.469,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D009,VIII-E11A,E11A,131462-131763,302,DULANG-D9,exact,E11A,33813,25.00984332,0.286,0.419,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D009,VIII-E12A,E12A,131764-131880,117,DULANG-D9,exact,E12A,"33822, 33826",,0.199,0.974,CONFLICT row 33822=7.224; row 33826=11.4,,,"populated: Porosity,Water Saturation"
+DULG-D009,VIII-E12B,E12B,131881-131997,117,DULANG-D9,exact,E12B,"33829, 33830",,0.272,0.539,CONFLICT row 33829=6.457; row 33830=10.2,,,"populated: Porosity,Water Saturation"
+DULG-D009,VIII-E13,E13,131998-132114,117,DULANG-D9,exact,E13,33834,35.452757039999995,0.272,0.545,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D009,VIII-E1,E1,132115-132463,349,DULANG-D9,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D010,VIII-E14B,E14B,132464-132499,36,DULANG-D10,exact,E14B,"26463, 26466",,0.287,1.0,CONFLICT row 26463=16.323; row 26466=41.9,,,"populated: Porosity,Water Saturation"
+DULG-D010,VIII-E10,E10,132500-132502,3,DULANG-D10,exact,E10,"26409, 26413",,0.245,0.719,CONFLICT row 26409=5.192; row 26413=12.9,,,"populated: Porosity,Water Saturation"
+DULG-D010,VIII-E11A,E11A,132503-132729,227,DULANG-D10,exact,E11A,"26421, 26422",,0.236,0.802,CONFLICT row 26421=8.543; row 26422=21.3,,,"populated: Porosity,Water Saturation"
+DULG-D010,VIII-E11B,E11B,132730-132956,227,DULANG-D10,exact,E11B,"26426, 26429",,0.225,0.761,CONFLICT row 26426=7.871; row 26429=19.6,,,"populated: Porosity,Water Saturation"
+DULG-D010S01,VIII-E10,E10,132957-133049,93,DULANG-D10ST1,exact,E10,"26614, 26617",,0.251,0.695,CONFLICT row 26614=3.429; row 26617=6.0,,,"populated: Porosity,Water Saturation"
+DULG-D010S01,VIII-E11A,E11A,133050-133142,93,DULANG-D10ST1,exact,E11A,"26627, 26629",,0.279,0.934,CONFLICT row 26627=10.28; row 26629=18.0,,,"populated: Porosity,Water Saturation"
+DULG-D010S01,VIII-E12A,E12A,133143-133235,93,DULANG-D10ST1,exact,E12A,"26645, 26646",,0.226,0.931,CONFLICT row 26645=7.977; row 26646=14.0,,,"populated: Porosity,Water Saturation"
+DULG-D010S01,VIII-E12B,E12B,133236-133328,93,DULANG-D10ST1,exact,E12B,"26651, 26654",,0.295,1.0,CONFLICT row 26651=14.815; row 26654=26.0,,,"populated: Porosity,Water Saturation"
+DULG-D011,IX-E10,E10,133329-134356,356,DULANG-D11,exact,E10,"26790, 26792",,0.264,,CONFLICT row 26790=7.329; row 26792=16.2,,CONFLICT row 26790=0.725; row 26792=0.724,populated: Porosity
+DULG-D011,IX-E12A,E12A,133352-133683,332,DULANG-D11,exact,E12A,26803,21.066273640000002,0.233,0.983,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D011,IX-E12B,E12B,133684-134023,340,DULANG-D11,exact,E12B,"26810, 26813",,0.259,0.845,CONFLICT row 26810=4.479; row 26813=9.7,,,"populated: Porosity,Water Saturation"
+DULG-D012,IX-E12A,E12A,134357-134573,217,DULANG-D12,exact,E12A,"26953, 26956",,0.194,0.821,CONFLICT row 26953=3.711; row 26956=4.4,,,"populated: Porosity,Water Saturation"
+DULG-D012,IX-E12B,E12B,134574-134770,197,DULANG-D12,exact,E12B,"26958, 26961",,0.205,0.725,CONFLICT row 26958=11.147; row 26961=13.2,,,"populated: Porosity,Water Saturation"
+DULG-D012,IX-E13,E13,134771-134967,197,DULANG-D12,exact,E13,"26965, 26966",,0.223,0.67,CONFLICT row 26965=8.458; row 26966=10.0,,,"populated: Porosity,Water Saturation"
+DULG-D012,IX-E01,E01,134968-135017,50,DULANG-D12,.smk,E01.smk,26899,3.81561692,,,,row 26899 null -999.25,row 26899 null -999.25,populated: Pay Thickness
+DULG-D012,IX-E11A,E11A,135018-135220,203,DULANG-D12,exact,E11A,"26942, 26945",,0.202,0.732,CONFLICT row 26942=9.515; row 26945=11.3,,,"populated: Porosity,Water Saturation"
+DULG-D012S01,IX-E11,E11,135221-135309,89,DULANG-D12ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D012S01,IX-E12A,E12A,135310-135398,89,DULANG-D12ST1,exact,E12A,"27153, 27156",,0.299,0.461,CONFLICT row 27153=7.486; row 27156=11.5,,,"populated: Porosity,Water Saturation"
+DULG-D012S01,IX-E6,E6,135399-135476,78,DULANG-D12ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D013,IX-E12B,E12B,135477-135528,52,DULANG-D13,exact,E12B,"27335, 27339",,0.262,0.502,CONFLICT row 27335=7.9; row 27339=7.782,,,"populated: Porosity,Water Saturation"
+DULG-D013,IX-E13,E13,135529-135588,60,DULANG-D13,exact,E13,"27340, 27341",,0.269,0.513,CONFLICT row 27340=8.373; row 27341=8.5,,,"populated: Porosity,Water Saturation"
+DULG-D013,IX-E14B,E14B,135589-135800,212,DULANG-D13,exact,E14B,"27359, 27362",,0.302,0.433,CONFLICT row 27359=8.372; row 27362=8.5,,,"populated: Porosity,Water Saturation"
+DULG-D013,IX-E6,E6,135801-136046,246,DULANG-D13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D013,IX-E7,E7,136047-136292,246,DULANG-D13,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D013S01,VIII-E11A,E11A,136293-136381,89,DULANG-D13ST1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D013S01,VIII-E12A,E12A,136382-136470,89,DULANG-D13ST1,exact,E12A,"27535, 27538",,0.286,0.402,CONFLICT row 27535=7.118; row 27538=21.6,,,"populated: Porosity,Water Saturation"
+DULG-D013S01,VIII-E12B,E12B,136471-136559,89,DULANG-D13ST1,exact,E12B,27540,25.541339400000002,0.314,0.281,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D014,IX-E14B,E14B,136560-136838,279,DULANG-D14,exact,E14B,"27754, 27759",,0.245,0.99,CONFLICT row 27754=10.234; row 27759=17.5,,,"populated: Porosity,Water Saturation"
+DULG-D014,IX-E10,E10,136839-137055,217,DULANG-D14,exact,E10,"27720, 27723",,0.194,0.916,CONFLICT row 27720=6.653; row 27723=11.7,,,"populated: Porosity,Water Saturation"
+DULG-D014,IX-E12A,E12A,137056-137383,328,DULANG-D14,exact,E12A,"27734, 27736",,0.201,0.71,CONFLICT row 27734=6.731; row 27736=11.7,,,"populated: Porosity,Water Saturation"
+DULG-D014,IX-E12B,E12B,137384-137494,111,DULANG-D14,exact,E12B,27740,16.6666672,0.222,0.568,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D014,IX-E13,E13,137495-137605,111,DULANG-D14,exact,E13,"27743, 27746",,0.222,0.746,CONFLICT row 27743=9.329; row 27746=16.1,,,"populated: Porosity,Water Saturation"
+DULG-D015,VIII-E13,E13,137606-137634,29,DULANG-D15,exact,E13,27926,12.84776944,0.318,0.291,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D015,VIII-E14B,E14B,137635-137967,333,DULANG-D15,exact,E14B,"27944, 27946",,0.332,0.315,CONFLICT row 27944=6.114; row 27946=9.2,,,"populated: Porosity,Water Saturation"
+DULG-D015,VIII-E6,E6,137968-138451,415,DULANG-D15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D015,VIII-E7,E7,138037-138797,415,DULANG-D15,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D016,IX-E12B,E12B,138798-139623,436,DULANG-D16,exact,E12B,28192,27.84120824,0.305,0.402,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D016,IX-E13,E13,138898-139951,428,DULANG-D16,exact,E13,"28198, 28199",,0.313,0.44,CONFLICT row 28198=8.488; row 28199=8.6,,,"populated: Porosity,Water Saturation"
+DULG-D016,IX-E14B,E14B,138998-139287,290,DULANG-D16,exact,E14B,28211,24.61614252,0.321,0.448,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D017,VIII-E10,E10,139952-140103,152,DULANG-D17,exact,E10,"28375, 28376",,0.216,0.84,CONFLICT row 28375=5.373; row 28376=6.8,,,"populated: Porosity,Water Saturation"
+DULG-D017,VIII-E11A,E11A,140104-140255,152,DULANG-D17,exact,E11A,"28389, 28392",,0.269,0.494,CONFLICT row 28389=6.556; row 28392=8.3,,,"populated: Porosity,Water Saturation"
+DULG-D017,VIII-E12A,E12A,140256-140407,152,DULANG-D17,exact,E12A,"28406, 28409",,0.268,0.551,CONFLICT row 28406=5.681; row 28409=7.2,,,"populated: Porosity,Water Saturation"
+DULG-D017,VIII-E12B,E12B,140408-140559,152,DULANG-D17,exact,E12B,28411,33.3661428,0.292,0.429,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D017,VIII-E13,E13,140560-140711,152,DULANG-D17,exact,E13,"28418, 28419",,0.297,0.401,CONFLICT row 28418=5.12; row 28419=6.5,,,"populated: Porosity,Water Saturation"
+DULG-D017,VIII-E14B,E14B,140712-140863,152,DULANG-D17,exact,E14B,"28435, 28437",,0.32,0.315,CONFLICT row 28435=7.162; row 28437=9.1,,,"populated: Porosity,Water Saturation"
+DULG-D017,VIII-E2A,E2A,140864-141009,146,DULANG-D17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D017,VIII-E6,E6,141010-141167,158,DULANG-D17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D017,VIII-E7,E7,141168-141325,158,DULANG-D17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D017,VIII-LD1,LD1,141326-141500,175,DULANG-D17,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D018,VIII-E11A,E11A,141501-141824,324,DULANG-D18,exact,E11A,"28562, 28567",,0.272,0.563,CONFLICT row 28562=6.965; row 28567=7.1,,,"populated: Porosity,Water Saturation"
+DULG-D018,VIII-E12A,E12A,141825-142148,324,DULANG-D18,exact,E12A,"28574, 28576",,0.212,0.91,CONFLICT row 28574=6.378; row 28576=6.5,,,"populated: Porosity,Water Saturation"
+DULG-D018,VIII-E12B,E12B,142149-142472,324,DULANG-D18,exact,E12B,"28580, 28583",,0.293,0.546,CONFLICT row 28580=6.476; row 28583=6.6,,,"populated: Porosity,Water Saturation"
+DULG-D018,VIII-E13,E13,142473-142796,324,DULANG-D18,exact,E13,28584,27.040683280000003,0.307,0.413,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D018,VIII-E14B,E14B,142797-142830,34,DULANG-D18,exact,E14B,"28599, 28603",,0.327,0.393,CONFLICT row 28599=6.869; row 28603=7.0,,,"populated: Porosity,Water Saturation"
+DULG-D018,VIII-E6,E6,142831-143180,350,DULANG-D18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D018,VIII-E7,E7,143181-143397,217,DULANG-D18,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D019H01,VIII-E1,E1,143398-144090,352,,none,,,,,,,,,well not in RES records
+DULG-D019H01,VIII-E13,E13,143450-143790,341,,none,,,,,,,,,well not in RES records
+DULG-D019H01,VIII-E11A,E11A,144091-144127,37,,none,,,,,,,,,well not in RES records
+DULG-D020H01,IX-E14B,E14B,144128-144389,262,,none,,,,,,,,,well not in RES records
+DULG-D020H01,IX-E1,E1,144390-144628,239,,none,,,,,,,,,well not in RES records
+DULG-D020S01,VIII-E11A,E11A,144629-144696,68,DULANG-D20ST1,exact,E11A,"29653, 29654",,,,CONFLICT row 29653=7.475; row 29654=7.635,CONFLICT row 29653=0.288; row 29654=0.289,CONFLICT row 29653=0.459; row 29654=0.426,"matched, no usable value"
+DULG-D020S01,VIII-E12A,E12A,144697-144785,89,DULANG-D20ST1,exact,E12A,"29678, 29682, 29684",,,,CONFLICT row 29678=4.679; row 29682=4.708; row 29684=10.0,CONFLICT row 29678=0.29; row 29682=0.289; row 29684=0.289,CONFLICT row 29678=0.722; row 29682=0.716; row 29684=0.716,"matched, no usable value"
+DULG-D020S01,VIII-E12B,E12B,144786-144874,89,DULANG-D20ST1,exact,E12B,"29689, 29690, 29694",,,,CONFLICT row 29689=10.047; row 29690=9.972; row 29694=22.0,CONFLICT row 29689=0.326; row 29690=0.322; row 29694=0.322,CONFLICT row 29689=0.404; row 29690=0.429; row 29694=0.431,"matched, no usable value"
+DULG-D020S01,VIII-E14B,E14B,144875-144963,89,DULANG-D20ST1,exact,E14B,"29721, 29723, 29727",,,,CONFLICT row 29721=8.073; row 29723=7.919; row 29727=20.0,CONFLICT row 29721=0.303; row 29723=0.308; row 29727=0.302,CONFLICT row 29721=0.523; row 29723=0.504; row 29727=0.525,"matched, no usable value"
+DULG-D021S01,IX-E12B,E12B,144964-145315,352,DULANG-D21S1,exact,E12B,"29997, 30000",,0.311,0.444,CONFLICT row 29997=4.478; row 30000=9.3,,,"populated: Porosity,Water Saturation"
+DULG-D022,IX-E10,E10,145316-145443,128,DULANG-D22,exact,E10,"30126, 30129",,0.204,1.0,CONFLICT row 30126=6.943; row 30129=27.3,,,"populated: Porosity,Water Saturation"
+DULG-D022,IX-E12A,E12A,145444-145571,128,DULANG-D22,exact,E12A,"30143, 30148",,0.254,0.702,CONFLICT row 30143=7.661; row 30148=27.1,,,"populated: Porosity,Water Saturation"
+DULG-D022,IX-E12B,E12B,145572-145691,120,DULANG-D22,exact,E12B,"30149, 30154",,0.297,0.778,CONFLICT row 30149=7.341; row 30154=26.4,,,"populated: Porosity,Water Saturation"
+DULG-D022,IX-E13,E13,145692-145811,120,DULANG-D22,exact,E13,"30156, 30159",,0.29,0.977,CONFLICT row 30156=11.398; row 30159=41.8,,,"populated: Porosity,Water Saturation"
+DULG-D023,IX-E14B,E14B,145812-146119,308,DULANG-D23,exact,E14B,30321,37.7788726,0.327,0.933,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D023,IX-E1,E1,146120-146378,259,DULANG-D23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D023,IX-E11A,E11A,146379-146503,125,DULANG-D23,exact,E11A,"30283, 30284",,0.256,0.749,CONFLICT row 30283=7.701; row 30284=8.2,,,"populated: Porosity,Water Saturation"
+DULG-D023,IX-E12A,E12A,146504-146628,125,DULANG-D23,exact,E12A,"30294, 30297",,0.28,0.626,CONFLICT row 30294=3.572; row 30297=3.8,,,"populated: Porosity,Water Saturation"
+DULG-D023,IX-E12B,E12B,146629-146745,117,DULANG-D23,exact,E12B,"30306, 30307",,0.284,0.594,CONFLICT row 30306=7.524; row 30307=8.0,,,"populated: Porosity,Water Saturation"
+DULG-D023,IX-E13,E13,146746-146862,117,DULANG-D23,exact,E13,"30308, 30312",,0.294,0.552,CONFLICT row 30308=6.968; row 30312=7.4,,,"populated: Porosity,Water Saturation"
+DULG-D023,IX-E2,E2,146863-146870,8,DULANG-D23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D023,IX-E8,E8,146871-146878,8,DULANG-D23,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D024S01,VIII-E11A,E11A,146879-147056,178,DULANG-D24S1,exact,E11A,30548,21.97178548,0.311,0.909,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D024S01,VIII-E12A,E12A,147057-147234,178,DULANG-D24S1,exact,E12A,"30563, 30565",,0.26,0.999,CONFLICT row 30563=7.884; row 30565=13.5,,,"populated: Porosity,Water Saturation"
+DULG-D024S01,VIII-E12B,E12B,147235-147412,178,DULANG-D24S1,exact,E12B,"30569, 30571",,0.317,0.997,CONFLICT row 30569=10.014; row 30571=17.1,,,"populated: Porosity,Water Saturation"
+DULG-D024S01,VIII-E13,E13,147413-147590,178,DULANG-D24S1,exact,E13,30572,29.468504879999998,0.292,0.944,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D024S01,VIII-E14B,E14B,147591-147768,178,DULANG-D24S1,exact,E14B,30587,42.96916148,0.235,0.998,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D024S01,VIII-E1,E1,147769-147950,182,DULANG-D24S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D024S01,VIII-E2A,E2A,147951-148132,182,DULANG-D24S1,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D024S02,VIII-E10,E10,148133-148276,144,DULANG-D24S2,exact,E10,30685,41.31889896,0.196,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D024S02,VIII-E11A,E11A,148277-148420,144,DULANG-D24S2,exact,E11A,"30697, 30698",,0.274,0.974,CONFLICT row 30697=10.861; row 30698=18.8,,,"populated: Porosity,Water Saturation"
+DULG-D024S02,VIII-E12A,E12A,148421-148564,144,DULANG-D24S2,exact,E12A,"30710, 30714",,0.22,1.0,CONFLICT row 30710=9.988; row 30714=17.3,,,"populated: Porosity,Water Saturation"
+DULG-D024S02,VIII-E12B,E12B,148565-148708,144,DULANG-D24S2,exact,E12B,"30716, 30718",,0.252,1.0,CONFLICT row 30716=11.252; row 30718=19.5,,,"populated: Porosity,Water Saturation"
+DULG-D024S02,VIII-E13,E13,148709-148852,144,DULANG-D24S2,exact,E13,"30720, 30725",,0.228,1.0,CONFLICT row 30720=7.963; row 30725=13.8,,,"populated: Porosity,Water Saturation"
+DULG-D024S02,VIII-E14B,E14B,148853-148996,144,DULANG-D24S2,exact,E14B,30739,50.3280856,0.269,1.0,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D025,IX-E12A,E12A,148997-149256,260,DULANG-D25,exact,E12A,"30886, 30888",,0.278,0.857,CONFLICT row 30886=5.568; row 30888=9.4,,,"populated: Porosity,Water Saturation"
+DULG-D025,IX-E12B,E12B,149257-149524,268,DULANG-D25,exact,E12B,"30891, 30894",,0.22,0.999,CONFLICT row 30891=9.612; row 30894=16.2,,,"populated: Porosity,Water Saturation"
+DULG-D025,IX-E13,E13,149525-149784,260,DULANG-D25,exact,E13,"30896, 30900",,,0.909,CONFLICT row 30896=11.484; row 30900=19.3,CONFLICT row 30896=0.305; row 30900=0.304,,populated: Water Saturation
+DULG-D025,IX-E11A,E11A,149785-150092,308,DULANG-D25,exact,E11A,"30870, 30871",,0.269,0.982,CONFLICT row 30870=7.644; row 30871=13.0,,,"populated: Porosity,Water Saturation"
+DULG-D026S01,IX-E12A,E12A,150093-150422,330,DULANG-D26S1,exact,E12A,31071,21.1778222,0.257,0.533,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D026S01,IX-E12B,E12B,150423-150752,330,DULANG-D26S1,exact,E12B,"31078, 31079",,0.308,,CONFLICT row 31078=5.647; row 31079=14.6,,CONFLICT row 31078=0.358; row 31079=0.357,populated: Porosity
+DULG-D026S01,IX-E13,E13,150753-150936,184,DULANG-D26S1,exact,E13,"31083, 31085",,0.263,0.718,CONFLICT row 31083=9.253; row 31085=23.7,,,"populated: Porosity,Water Saturation"
+DULG-D026S01,IX-E10,E10,150937-151248,312,DULANG-D26S1,exact,E10,"31051, 31055",,0.292,0.486,CONFLICT row 31051=7.684; row 31055=20.5,,,"populated: Porosity,Water Saturation"
+DULG-D027,VIII-E11A,E11A,151249-151262,14,DULANG-D27,exact,E11A,"31245, 31247",,0.249,0.512,CONFLICT row 31245=5.232; row 31247=7.1,,,"populated: Porosity,Water Saturation"
+DULG-D027,VIII-E12A,E12A,151263-151412,150,DULANG-D27,exact,E12A,"31260, 31263",,0.2,0.916,CONFLICT row 31260=5.887; row 31263=8.0,,,"populated: Porosity,Water Saturation"
+DULG-D027,VIII-E12B,E12B,151413-151562,150,DULANG-D27,exact,E12B,"31265, 31268",,0.264,0.376,CONFLICT row 31265=6.103; row 31268=8.3,,,"populated: Porosity,Water Saturation"
+DULG-D028,IX-E12A,E12A,151563-151710,148,DULANG-D28,exact,E12A,"31407, 31412",,0.245,1.0,CONFLICT row 31407=6.165; row 31412=18.1,,,"populated: Porosity,Water Saturation"
+DULG-D028,IX-E12B,E12B,151711-151850,140,DULANG-D28,exact,E12B,"31413, 31417",,0.276,1.0,CONFLICT row 31413=9.815; row 31417=28.8,,,"populated: Porosity,Water Saturation"
+DULG-D028,IX-E13,E13,151851-151990,140,DULANG-D28,exact,E13,"31419, 31422",,0.268,0.979,CONFLICT row 31419=15.282; row 31422=44.9,,,"populated: Porosity,Water Saturation"
+DULG-D028,IX-E14B,E14B,151991-152138,148,DULANG-D28,exact,E14B,"31433, 31435",,0.285,0.999,CONFLICT row 31433=8.878; row 31435=26.0,,,"populated: Porosity,Water Saturation"
+DULG-D029,IX-E11A,E11A,152139-152301,163,DULANG-D29,exact,E11A,31578,17.0767722,0.224,0.626,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D029,IX-E12A,E12A,152302-152464,163,DULANG-D29,exact,E12A,31590,22.73950204,0.228,0.633,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D030,VIII-E11A,E11A,152465-152626,162,DULANG-D30,exact,E11A,"32184, 32185",,0.282,0.356,CONFLICT row 32184=7.318; row 32185=8.2,,,"populated: Porosity,Water Saturation"
+DULG-D030,VIII-E12A,E12A,152627-152788,162,DULANG-D30,exact,E12A,"32201, 32204",,0.254,0.55,CONFLICT row 32201=4.726; row 32204=5.3,,,"populated: Porosity,Water Saturation"
+DULG-D030,VIII-E12B,E12B,152789-152950,162,DULANG-D30,exact,E12B,"32205, 32208",,0.278,0.343,CONFLICT row 32205=11.853; row 32208=13.3,,,"populated: Porosity,Water Saturation"
+DULG-D030,VIII-E13,E13,152951-153112,162,DULANG-D30,exact,E13,"32211, 32213",,0.284,0.831,CONFLICT row 32211=6.145; row 32213=6.9,,,"populated: Porosity,Water Saturation"
+DULG-D030,VIII-E14B,E14B,153113-153117,5,DULANG-D30,exact,E14B,"32226, 32228",,0.294,0.783,CONFLICT row 32226=5.694; row 32228=6.4,,,"populated: Porosity,Water Saturation"
+DULG-D030,VIII-E6,E6,153118-153279,162,DULANG-D30,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D031,VIII-E11A,E11A,153280-153442,163,DULANG-D31,exact,E11A,"32354, 32358",,0.274,0.322,CONFLICT row 32354=8.465; row 32358=15.2,,,"populated: Porosity,Water Saturation"
+DULG-D031,VIII-E12A,E12A,153443-153605,163,DULANG-D31,exact,E12A,"32373, 32375",,0.264,0.382,CONFLICT row 32373=8.582; row 32375=15.3,,,"populated: Porosity,Water Saturation"
+DULG-D031,VIII-E12B,E12B,153606-153768,163,DULANG-D31,exact,E12B,"32378, 32380",,0.284,0.278,CONFLICT row 32378=7.115; row 32380=12.6,,,"populated: Porosity,Water Saturation"
+DULG-D031,VIII-E14B,E14B,153769-153910,142,DULANG-D31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D031,VIII-E6,E6,153911-154073,163,DULANG-D31,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D032,VIII-E10,E10,154074-154111,38,DULANG-D32,exact,E10,"32493, 32495",,0.203,0.897,CONFLICT row 32493=6.385; row 32495=12.3,,,"populated: Porosity,Water Saturation"
+DULG-D032,VIII-E11A,E11A,154112-154149,38,DULANG-D32,exact,E11A,"32506, 32509",,0.325,0.211,CONFLICT row 32506=7.628; row 32509=14.7,,,"populated: Porosity,Water Saturation"
+DULG-D032,VIII-E12A,E12A,154150-154292,143,DULANG-D32,exact,E12A,32522,27.395014,0.279,0.407,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D032,VIII-E12B,E12B,154293-154435,143,DULANG-D32,exact,E12B,"32526, 32528",,0.329,0.247,CONFLICT row 32526=8.048; row 32528=15.5,,,"populated: Porosity,Water Saturation"
+DULG-D032,VIII-E13,E13,154436-154578,143,DULANG-D32,exact,E13,32531,17.7329402,0.304,0.548,,,,"populated: Pay Thickness,Porosity,Water Saturation"
+DULG-D032,VIII-E14B,E14B,154579-154616,38,DULANG-D32,exact,E14B,"32549, 32551",,0.328,0.551,CONFLICT row 32549=6.461; row 32551=12.4,,,"populated: Porosity,Water Saturation"
+DULG-D032,VIII-E2A,E2A,154617-154778,162,DULANG-D32,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D032,VIII-E6,E6,154779-154940,162,DULANG-D32,none,,,,,,,,,reservoir not in RES records for this well
+DULG-D032,VIII-E7,E7,154941-155102,162,DULANG-D32,none,,,,,,,,,reservoir not in RES records for this well

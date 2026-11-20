@@ -1,0 +1,10 @@
+# slide 17 (slides/slide17.xml) hidden=False objects=5
+# notes: 'Open\n16'
+[pic id=6155266 'Picture 2' pct=[30.53, 0.0, 69.47, 100.0] hidden=False img=../media/image51.png]
+[sp id=4 'TextBox 3' pct=[62.47, 67.69, 68.61, 73.08] hidden=False]
+    2.30” GR Tag No Go Nipple
+    	(27/4/14)
+[sp id=7 'TextBox 6' pct=[33.07, 75.77, 37.96, 81.92] hidden=False]
+    OPENED
+[sp id=8 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

@@ -1,0 +1,52 @@
+WELL | A8 | 7 | image16.png + image17.png | WELL A-8 : SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+SRC | 7 | image16.png + image17.png | visual transcription of the screenshot pictures (x3 upscale, upper part image16 / lower part image17)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 7 MAY 1991
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | SINGLE INGRAM CACTUS, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 58.8 DEG @ 762.10 MDDF
+INFO | rte | 14.13 m
+INFO | completionType | SINGLE SELECTIVE OIL PRODUCER (TYPE 3)
+CASING | 13 3/8" K-55 @ 370 m MDDF | 13.375 |  | K-55 | 370 | MDDF
+CASING | 9 5/8" N-80 @ 945.0 m MDDF | 9.625 |  | N-80 | 945.0 | MDDF
+CASING | 7" 23 ppf, K-55 @ 1965.2 m MDDF | 7 | 23 | K-55 | 1965.2 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB | 2.875 | 6.5 | N-80 | - |
+ROW | X | FLOW COUPLING | 140.1 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 140.8 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 295.4 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 560.9 |  | 2.371 |  | ?DV (Mar/07) | red note '25.03.07 - set dummy valve, retrieve the GLV from SPM#1'; status 'DV (Mar/07)' from slide text box obj #15/#20 matched by position | p1
+ROW | X | KBMG-M-SPM | 1123.8 |  | 2.371 |  | ?DV (Mar/07) | red note '25.03.07 - set dummy valve at SPM#2'; status from slide text box matched by position | p1
+ROW | X | KBMG-M-SPM | 1427.6 |  | 2.371 |  | ?GLV (Jan/07) | red note '10.01.07 GLV SET AT 143?m, SPM#3 Type: TR1 18.06 Port size: 8/16" Ptro: 300psi Model: RIPO' (low legibility); status from slide text box obj #16 matched by position | p1
+ROW | X | KBMG-M-SPM | 1569.6 |  | 2.371 |  | ?GLOV 16/64" (Jan/07) | status from slide text box obj #19 matched by position | p1
+ROW | X | WP-2DE SSD | 1673.5 |  | 2.312 |  | CLOSED |  | p1
+ROW | X | SINGLE HYD. PKR GUIB UNI-VII | 1681.6 |  | 2.441 |  |  |  | p1
+ROW | X | WP-2DE SSD | 1688.9 |  | 2.312 |  | OPENED 22/11/1994; ?OPEN JAN 2009 | 'OPEN JAN 2009' from slide text box obj #7 matched by position | p1
+ROW | X | BLAST JOINT | 1692.8 | 1710.5 | 2.441 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 1725.2 |  | 2.312 |  | (PCSB) 'MA' PLUG 22/11/1994 |  | p2
+ROW | X | CENTRALIZER | 1730.4 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 1732.0 |  | 2.441 |  |  |  | p2
+ROW | X | GUIB MAGNUM 'GT' PACKER | 1732.9 |  | 4.000 |  |  |  | p2
+ROW | X | SEAL BORE EXT | 1733.5 |  | 4.000 |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 1740.1 |  | 2.250 |  | ?'CA' Plug (Jan 2009); ?CLOSED JAN 2009 | slide text boxes obj #21 / #8 matched to this row by position | p2
+ROW | X | WEG | 1740.4 |  | 2.441 |  |  | end of string | p2
+ZONE | LD1 | 1698 | 1706 | MDTHF | slide text box obj #25 'LD1 1698 - 1706' beside SAND: LOWER D1 (no unit/datum printed) | slide obj #25 | perf
+ZONE | E7 | 1804 | 1818 | MDTHF | slide text box obj #26 'E7 – 1804– 1818' beside SAND: E-7 (HIGH GOR) E10/11 Add perf (no unit/datum printed) | slide obj #26 | perf
+PBTD | 2282 |  | PBTD @ 2282 m (diagram; header: PBTD : 1937 mMDDF)
+TD | 2329 | MDTHF | TD @ 2329 m MDTHF
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | picture p2 | 7" 23 PPF CASING label on the diagram (no depth)
+NOTE | picture p1 | SAND: LOWER D1 (label beside the blast joint)
+NOTE | picture p2 | SAND: E-7 (HIGH GOR) E10/11 Add perf
+NOTE | picture p1 | red note: 10.01.07 GLV SET AT 143?m, SPM #3; Type: TR1 18.06; Port size: 8/16"; Ptro: 300psi; Model: RIPO
+NOTE | slide 7 obj #13 | retrieve 2.31" CSA @141m-MDTHF (retrieved — not installed equipment)
+NOTE | slide 7 obj #24 | 'B' Tbg stop + SC (195psi) set @ TRSV profile. TR flapper lock open in April 2015
+NOTE | slide 7 obj #12 | 2 suspected leak points @ 16m & 26m from MIT 2021
+NOTE | slide 7 obj #9 | Mar 2024 : Fluid level @ 1432 WLTHF (wireline depth — not used as MD)
+NOTE | slide 7 obj #6 | HUD@1726mMDTHF (Apr 2023). Suspect fine sand
+NOTE | slide 7 obj #10 | 07/Aug/2001
+NOTE | slide 7 obj #31 | Updated by Pravin Nair Feb 2023
+ISSUE | Conflict | header / diagram | PBTD 1937 m MDDF (header) vs PBTD @ 2282 m (diagram, datum not printed) — diagram value used, header recorded; 7" shoe in the header (1965.2 m MDDF) is shallower than TD 2329 m MDTHF — header casing depths may be outdated
+ISSUE | Unclear | slide 7 | zone intervals LD1 1698-1706 and E7 1804-1818 printed without unit/datum in slide text boxes; read as m MDTHF like the depth columns
+ISSUE | Unclear | slide 7 | statuses DV (Mar/07), GLV (Jan/07), GLOV 16/64" (Jan/07), OPEN/CLOSED JAN 2009 and 'CA' Plug (Jan 2009) are slide text boxes matched to rows by vertical position

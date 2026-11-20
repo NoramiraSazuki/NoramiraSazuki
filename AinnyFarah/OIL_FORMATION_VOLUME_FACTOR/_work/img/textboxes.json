@@ -1,0 +1,78 @@
+[
+ {
+  "sheet": "Front",
+  "text": "Print all Pages"
+ },
+ {
+  "sheet": "Front",
+  "text": "Page Setup"
+ },
+ {
+  "sheet": "Front",
+  "text": "Generate PDF \nReport"
+ },
+ {
+  "sheet": "Front",
+  "text": "Black Fonts"
+ },
+ {
+  "sheet": "Front",
+  "text": "Add Section to \nFinal Report "
+ },
+ {
+  "sheet": "Front",
+  "text": "Go To Help"
+ },
+ {
+  "sheet": "Front",
+  "text": "Delete Introduced Range Names"
+ },
+ {
+  "sheet": "Front",
+  "text": "Note; This name appears on the disclaimer.\n"
+ },
+ {
+  "sheet": "Letter",
+  "text": "\n5 August 2004\n\n\nMurphy Sarawak Oil Co. Ltd.\n\n\nMalaysia\n\n\nAttention :  \n\nDear Sirs,\n\nSubject : Reservoir Fluid Analysis Report; Kikeh-4 ST1; our file MFL 23064B.\n\nSeveral sub-surface reservoir oil samples, collected during wireline logging of the Kikeh-4 ST1 well, were received in our Kuala Lumpur laboratory for use in a reservoir fluid study.  Presented in the following report are the reslts of all analysis requested.\n\nCore Laboratories Malaysia Sdn Bhd appreciates this opportunity to have been of service to Murphy Sarawak Oil Co. Ltd.  Should any questions arise concerning the data presented in this report, or if Core Laboratories may be of assistance in any other matter, please do not hesitate to contact us.\n\n\nYours sincerely,\n\nCore Laboratories Malaysia Sdn Bhd\n\n\n\n\n\nGurdev Gurdial\nManager - Reservoir Fluids \n\n\n\n"
+ },
+ {
+  "sheet": "Letter",
+  "text": "\n\n\nMAY 2013\n\nPETRONAS Carigali Sdn. Bhd.\nPeninsular Malaysia Resource (PEM),\nLevel 13 Tower 2,\nPETRONAS Twin Towers,\nKuala Lumpur City Center, \n50088 Kuala Lumpur,\nMalaysia.\n\nAttention : Luqman Abd. Rahman (Reservoir Engineer - Dulang)\n\nSubject : Water Analysis, DLD-32L Well\n                Our Ref: MFL 20130041\n\nTwo (2) bottomhole water samples were collected from DLD-32L well and forwarded to our Kuala Lumpur laboratory for water analysis. \n\nCore Laboratories Malaysia Sdn. Bhd. appreciates this opportunity to have been of service to PETRONAS Carigali Sdn. Bhd. Should any questions arise concerning the data presented in this report, or if Core Laboratories Malaysia Sdn. Bhd. may be of assistance in any other matter, please do not hesitate to contact us.\n\n\n\n\n\n\n\nYours sincerely,\n\nCore Laboratories Malaysia Sdn Bhd\n\n\n\n\nGurdev Gurdial\nManager\nReservoir Fluids Group"
+ },
+ {
+  "sheet": "A.1",
+  "text": "Samples Received\nTwo (2) bottomhole water samples were collected from DLD-32L well and forwarded to our Kuala Lumpur laboratory for API 12 ion Water Analysis, Salinity, Resistivity, pH, Specific Gravity, Total Dissolved Solids and Scaling Potential analyses.\n\nGas-Water Ratio by Flash Separation Technique\nA known volume of the bottomhole water sample was flashed to atmospheric pressure and laboratory temperature (20°C). The dissolved gas from the bottomhole water sample was collected  by using flash/separation technique.The dissolved gas was then analysed through extended gas analysis technique.  Utilizing the volumetric data from the flash/separation technique, Gas-Water-Ratio (GWR) was calculated. The schematic diagram of flash separation technique is presented as Figure 1 on page A.3 of this report. After completion of the flash process for GWR, the balance of bottomhole water sample was flashed to atmospheric and collected as stocktank water for further water analysis.\n\nWater Compositional Analysis\nSalinity\nConductivity and salinity measures waters ability to conduct electricity, which provides a measure of what is dissolved in water. Salinity is estimated from conductivity measurement. Since salts in water conduct current, conductivity is proportional to the salt-concentration. A complex mathematical equation is utilized to calculate or estimate salinity from conductivity. This equation accounts for the temperature dependence of conductivity.\n\nElemental Analysis \nThe sample was filtered through a Whatman No. 5 filter paper and a dilution was made, using distilled water, according to their salinity. This is to ensure that all the elements are in the correct range for ICP analysis.  The result was presented in mg/l on the ICP (Inductively Coupled Plasma Atomic Emission Spectroscopy) for all detectable elements found in formation waters, seawaters and drilling fluids. A routine water analysis consists of determining the following ions by ICP technique – sodium, potassium, calcium, magnesium, barium, strontium, dissolved iron, sulphate (as total sulphur), phosphorus, silicon, boron, aluminium and lithium.\n\nChloride Content\nThe diluted sample was then analysed for chloride content by titration with silver nitrate solution using an ion selective electrode. Before usage, the instrument was calibrated by running a quality control sample.\n\npH / Bicarbonate / Carbonate Determinations\npH and bicarbonate determinations were performed by ion selective electrode. The instrument was first calibrated using pH 10, 7 and 4 buffers and checked by using a bicarbonate quality control sample. The pH and bicarbonate determinations was performed on filtered undiluted sample. The pH of a sample was initially determined using an ion selective electrode.  If pH is above 8.1, the sample is titrated with sulphuric acid for carbonate down to pH 8.1 then down to pH 4.1 for bicarbonate.\n\nTotal Iron Determinations\nThe measurement was performed on unfiltered & undiluted sample.  A 10ml aliquot of water was sub-sampled and heated on a hotplate after the addition of hydrochloric acid.  The sample was filtered into a 100 ml flask and made up to the mark with distilled water (x 10 dilution). The sample was then read on the ICP for total iron concentration.\n\nSpecific Gravity & Density\nThis analysis was performed using a density meter on a filtered & undiluted sample. The temperature was set at 15.6°C and the specific gravity was reported at 60°F. \n\n\n\n"
+ },
+ {
+  "sheet": "A.1",
+  "text": "(70°F)"
+ },
+ {
+  "sheet": "A.1",
+  "text": "\nResistivity Determinations\nThe  resistivity determination was performed on filtered & undiluted sample using a null point method and noting the temperature reading.  The resistivity was reported as a calculated value at 60°F.\n\nGas Compositions\nGas compositions were determined using extended gas chromatography by the GPA 2286 method using a multi-column gas chromatograph system.  A single partial pressure charge was passed through the sampling valve and charged to each analytical column. The TCD (Thermal Conductivity Detector) reads O2, N2 and C1 from the molecular sieve column followed by C2, CO2, C3, iC4, nC4, iC5, nC5 from the porous polymer column. The FID (Flame Ionization Detector) reads up to Cn+ from the capillary column independently. A temperature programme was used in order to provide optimum detection and resolution of the dodecanes plus components. \n"
+ },
+ {
+  "sheet": "D.2",
+  "text": "Notes:\nSulphate results are calculated from total sulphur determined by inductively coupled plasma emission spectrometry.\n\n"
+ },
+ {
+  "sheet": "D.2",
+  "text": ""
+ },
+ {
+  "sheet": "E.1",
+  "text": "Notes:\nSulphate results are calculated from total sulphur determined by inductively coupled plasma emission spectrometry.\n\n"
+ },
+ {
+  "sheet": "E.1",
+  "text": ""
+ },
+ {
+  "sheet": 19,
+  "text": "Note :\nThe residue mole weight and density values ( eg heptanes plus, undecanes plus, eicosanes plus) are calculated so that the calculated average mole weights and densities correspond with the measured values. This can lead to anomalous residue mole weights and densities where the Katz and Firoozabadi values may not be suitable for the isomer groups detected.\n"
+ },
+ {
+  "sheet": 19,
+  "text": "Note :\nThe gas mole % compositions were calculated from the measured weight % compositions using the most detailed analysis results, involving as many of the above components as were identified.  The reported component mole % compositions were then sub-grouped into the generic carbon number components.\n"
+ }
+]

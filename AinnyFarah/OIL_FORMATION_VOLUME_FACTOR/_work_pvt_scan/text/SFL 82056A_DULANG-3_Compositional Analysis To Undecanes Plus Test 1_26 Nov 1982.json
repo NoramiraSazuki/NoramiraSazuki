@@ -1,0 +1,887 @@
+[
+{
+"where": "sheet 'Page 1' cell H1",
+"how": "cell text",
+"text": "File: "
+},
+{
+"where": "sheet 'Page 1' cell I1",
+"how": "cell text",
+"text": "SFL82056A"
+},
+{
+"where": "sheet 'Page 1' cell H2",
+"how": "cell text",
+"text": "Date Sampled:  "
+},
+{
+"where": "sheet 'Page 1' cell B5",
+"how": "cell text",
+"text": "Formation Characteristic"
+},
+{
+"where": "sheet 'Page 1' cell B6",
+"how": "cell text",
+"text": "Formation Name"
+},
+{
+"where": "sheet 'Page 1' cell J6",
+"how": "cell text",
+"text": "E40/42"
+},
+{
+"where": "sheet 'Page 1' cell B7",
+"how": "cell text",
+"text": "Date First Well Completed"
+},
+{
+"where": "sheet 'Page 1' cell B8",
+"how": "cell text",
+"text": "Original Reservoir Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B9",
+"how": "cell text",
+"text": "Original Produced Gas-011 Ratio"
+},
+{
+"where": "sheet 'Page 1' cell B10",
+"how": "cell text",
+"text": "Production Rate"
+},
+{
+"where": "sheet 'Page 1' cell B11",
+"how": "cell text",
+"text": "Separstar Pressure and Temperature"
+},
+{
+"where": "sheet 'Page 1' cell B12",
+"how": "cell text",
+"text": "Oil Gravity at 60°F"
+},
+{
+"where": "sheet 'Page 1' cell B13",
+"how": "cell text",
+"text": "Datum"
+},
+{
+"where": "sheet 'Page 1' cell B14",
+"how": "cell text",
+"text": "Original Gas Cap"
+},
+{
+"where": "sheet 'Page 1' cell B18",
+"how": "cell text",
+"text": "Well Characteristic"
+},
+{
+"where": "sheet 'Page 1' cell B19",
+"how": "cell text",
+"text": "Elevation"
+},
+{
+"where": "sheet 'Page 1' cell B20",
+"how": "cell text",
+"text": "Total Depth"
+},
+{
+"where": "sheet 'Page 1' cell B21",
+"how": "cell text",
+"text": "Producing Interval"
+},
+{
+"where": "sheet 'Page 1' cell B22",
+"how": "cell text",
+"text": "Tubing Size and Depth"
+},
+{
+"where": "sheet 'Page 1' cell J22",
+"how": "cell text",
+"text": "4744-4760. 4772-4780 FT"
+},
+{
+"where": "sheet 'Page 1' cell B23",
+"how": "cell text",
+"text": "Open Flow Potential"
+},
+{
+"where": "sheet 'Page 1' cell B24",
+"how": "cell text",
+"text": "Productivity Index"
+},
+{
+"where": "sheet 'Page 1' cell B25",
+"how": "cell text",
+"text": "Last Reservoir Pressure"
+},
+{
+"where": "sheet 'Page 1' cell J25",
+"how": "cell text",
+"text": "2027 PSIG @ 4692 FT"
+},
+{
+"where": "sheet 'Page 1' cell C26",
+"how": "cell text",
+"text": "Date"
+},
+{
+"where": "sheet 'Page 1' cell C27",
+"how": "cell text",
+"text": "Reservolr Temperature"
+},
+{
+"where": "sheet 'Page 1' cell J27",
+"how": "cell text",
+"text": "224°F  @ 4692 FT"
+},
+{
+"where": "sheet 'Page 1' cell C28",
+"how": "cell text",
+"text": "Status of Well"
+},
+{
+"where": "sheet 'Page 1' cell C29",
+"how": "cell text",
+"text": "Pressure Gauge"
+},
+{
+"where": "sheet 'Page 1' cell B37",
+"how": "cell text",
+"text": "Sampling Condition"
+},
+{
+"where": "sheet 'Page 1' cell B38",
+"how": "cell text",
+"text": "Flowing Tubing Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B39",
+"how": "cell text",
+"text": "Flowing Bottom Hole Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B40",
+"how": "cell text",
+"text": "Primary Separator Pressure"
+},
+{
+"where": "sheet 'Page 1' cell J40",
+"how": "cell text",
+"text": "180 PSIG"
+},
+{
+"where": "sheet 'Page 1' cell B41",
+"how": "cell text",
+"text": "Primary Separator Temperature"
+},
+{
+"where": "sheet 'Page 1' cell J41",
+"how": "cell text",
+"text": "142 (124)°F"
+},
+{
+"where": "sheet 'Page 1' cell B42",
+"how": "cell text",
+"text": "Secondary Separator Pressure"
+},
+{
+"where": "sheet 'Page 1' cell B43",
+"how": "cell text",
+"text": "Secondary Separator Temperature"
+},
+{
+"where": "sheet 'Page 1' cell B44",
+"how": "cell text",
+"text": "Field Stock Tank Liquid Gravity"
+},
+{
+"where": "sheet 'Page 1' cell B45",
+"how": "cell text",
+"text": "Primary Separator gas Production Rate"
+},
+{
+"where": "sheet 'Page 1' cell J45",
+"how": "cell text",
+"text": "563.9 MMSCF/Day"
+},
+{
+"where": "sheet 'Page 1' cell C46",
+"how": "cell text",
+"text": "Pressure Base"
+},
+{
+"where": "sheet 'Page 1' cell J46",
+"how": "cell text",
+"text": "14.73 PSIA"
+},
+{
+"where": "sheet 'Page 1' cell C47",
+"how": "cell text",
+"text": "Temperature Base"
+},
+{
+"where": "sheet 'Page 1' cell J47",
+"how": "cell text",
+"text": "60°F"
+},
+{
+"where": "sheet 'Page 1' cell C48",
+"how": "cell text",
+"text": "Compressibility factor (Fpv)"
+},
+{
+"where": "sheet 'Page 1' cell C49",
+"how": "cell text",
+"text": "Gas Gravity (laboratory)"
+},
+{
+"where": "sheet 'Page 1' cell C50",
+"how": "cell text",
+"text": "Gas Gravity Factor (Fg)"
+},
+{
+"where": "sheet 'Page 1' cell C51",
+"how": "cell text",
+"text": "Separator Liquid Production Rate @ 142°F"
+},
+{
+"where": "sheet 'Page 1' cell J51",
+"how": "cell text",
+"text": "1598 BBLS/Day"
+},
+{
+"where": "sheet 'Page 1' cell B52",
+"how": "cell text",
+"text": "Primary Separator/Gas Separator Liquid Ratio"
+},
+{
+"where": "sheet 'Page 1' cell J52",
+"how": "cell text",
+"text": "352.9S SCF/Bbl"
+},
+{
+"where": "sheet 'Page 1' cell E53",
+"how": "cell text",
+"text": "or"
+},
+{
+"where": "sheet 'Page 1' cell J53",
+"how": "cell text",
+"text": "Bbls/MMSCF"
+},
+{
+"where": "sheet 'Page 1' cell B54",
+"how": "cell text",
+"text": "Sampled by"
+},
+{
+"where": "sheet 'Page 1' cell B55",
+"how": "cell text",
+"text": "Remarks:"
+},
+{
+"where": "sheet 'Page 2' cell B3",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLE RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'Page 2' cell B6",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'Page 2' cell E7",
+"how": "cell text",
+"text": "Separator Conditions"
+},
+{
+"where": "sheet 'Page 2' cell J7",
+"how": "cell text",
+"text": "Laboratory Opening Conditions"
+},
+{
+"where": "sheet 'Page 2' cell B8",
+"how": "cell text",
+"text": "Cylinder No"
+},
+{
+"where": "sheet 'Page 2' cell D8",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 2' cell G8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'Page 2' cell J8",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 2' cell M8",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'Page 2' cell B9",
+"how": "cell text",
+"text": "*A-12463"
+},
+{
+"where": "sheet 'Page 2' cell B10",
+"how": "cell text",
+"text": "A-12464"
+},
+{
+"where": "sheet 'Page 2' comment F11",
+"how": "comment",
+"text": "Author:\n"
+},
+{
+"where": "sheet 'Page 2' cell B13",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'Page 2' cell E14",
+"how": "cell text",
+"text": "Separator Conditions"
+},
+{
+"where": "sheet 'Page 2' cell J14",
+"how": "cell text",
+"text": "Laboratory Bubble Point Pressure"
+},
+{
+"where": "sheet 'Page 2' cell B15",
+"how": "cell text",
+"text": "Cylinder No"
+},
+{
+"where": "sheet 'Page 2' cell D15",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 2' cell G15",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'Page 2' cell J15",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 2' cell M15",
+"how": "cell text",
+"text": "Temperature"
+},
+{
+"where": "sheet 'Page 2' cell B16",
+"how": "cell text",
+"text": "*WIA 6292"
+},
+{
+"where": "sheet 'Page 2' cell B17",
+"how": "cell text",
+"text": "WIA 7562"
+},
+{
+"where": "sheet 'Page 2' cell B24",
+"how": "cell text",
+"text": "*samples in these cylinders were used for the reservoir fluid Study"
+},
+{
+"where": "sheet 'Page 3' cell B3",
+"how": "cell text",
+"text": "Hydrocarbon Anlaysis of Separator Products and Calculated Well Stream"
+},
+{
+"where": "sheet 'Page 3' cell B5",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 3' cell E5",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'Page 3' cell G5",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'Page 3' cell I5",
+"how": "cell text",
+"text": "Well Stream"
+},
+{
+"where": "sheet 'Page 3' cell B6",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 3' cell E6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 3' cell G6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 3' cell H6",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Page 3' cell I6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 3' cell B7",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Page 3' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Page 3' cell B9",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Page 3' cell B10",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Page 3' cell B11",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Page 3' cell B12",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Page 3' cell B13",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Page 3' cell B14",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Page 3' cell B15",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Page 3' cell B16",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Page 3' cell B17",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Page 3' cell B18",
+"how": "cell text",
+"text": "C7+ Heptanes Plus"
+},
+{
+"where": "sheet 'Page 3' cell B21",
+"how": "cell text",
+"text": "Properties of Heptanes plus"
+},
+{
+"where": "sheet 'Page 3' cell B23",
+"how": "cell text",
+"text": "API gravity @ 60°F"
+},
+{
+"where": "sheet 'Page 3' cell B24",
+"how": "cell text",
+"text": "Specific gravity @ 60/60°F"
+},
+{
+"where": "sheet 'Page 3' cell B25",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'Page 3' cell G25",
+"how": "cell text",
+"text": "103 (assumed)"
+},
+{
+"where": "sheet 'Page 3' cell B28",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air= 1.000)"
+},
+{
+"where": "sheet 'Page 3' cell B29",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas"
+},
+{
+"where": "sheet 'Page 3' cell I29",
+"how": "cell text",
+"text": "BTU"
+},
+{
+"where": "sheet 'Page 3' cell B30",
+"how": "cell text",
+"text": "per cubic foot of dry gas @ 14.73 psia and 60°F"
+},
+{
+"where": "sheet 'Page 3' cell B32",
+"how": "cell text",
+"text": "Primary Separator gas collected @"
+},
+{
+"where": "sheet 'Page 3' cell F32",
+"how": "cell text",
+"text": "180 psig"
+},
+{
+"where": "sheet 'Page 3' cell G32",
+"how": "cell text",
+"text": "and"
+},
+{
+"where": "sheet 'Page 3' cell H32",
+"how": "cell text",
+"text": "124°F"
+},
+{
+"where": "sheet 'Page 3' cell B33",
+"how": "cell text",
+"text": "Primary Separator liquid collected @"
+},
+{
+"where": "sheet 'Page 3' cell F33",
+"how": "cell text",
+"text": "180 psig"
+},
+{
+"where": "sheet 'Page 3' cell G33",
+"how": "cell text",
+"text": "and"
+},
+{
+"where": "sheet 'Page 3' cell H33",
+"how": "cell text",
+"text": "142°F"
+},
+{
+"where": "sheet 'Page 3' cell B35",
+"how": "cell text",
+"text": "Primary Separator gas/separator liquid ratio"
+},
+{
+"where": "sheet 'Page 3' cell G35",
+"how": "cell text",
+"text": "352.9 SCF/Bbl @ 142°F"
+},
+{
+"where": "sheet 'Page 4' cell B3",
+"how": "cell text",
+"text": "Hydrocarbon Anlaysis of Separator Products and Calculated Well Stream"
+},
+{
+"where": "sheet 'Page 4' cell B5",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 4' cell E5",
+"how": "cell text",
+"text": "Separator Liquid"
+},
+{
+"where": "sheet 'Page 4' cell G5",
+"how": "cell text",
+"text": "Separator Gas"
+},
+{
+"where": "sheet 'Page 4' cell I5",
+"how": "cell text",
+"text": "Well Stream"
+},
+{
+"where": "sheet 'Page 4' cell B6",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 4' cell E6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 4' cell G6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 4' cell H6",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'Page 4' cell I6",
+"how": "cell text",
+"text": "Mol Percent"
+},
+{
+"where": "sheet 'Page 4' cell B7",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Page 4' cell B8",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Page 4' cell B9",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Page 4' cell B10",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Page 4' cell B11",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Page 4' cell B12",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Page 4' cell B13",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Page 4' cell B14",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Page 4' cell B15",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Page 4' cell B16",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Page 4' cell B17",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Page 4' cell B18",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'Page 4' cell B19",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Page 4' cell B20",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Page 4' cell B21",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Page 4' cell B22",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'Page 4' cell B26",
+"how": "cell text",
+"text": "Heptanes of Properties plus"
+},
+{
+"where": "sheet 'Page 4' cell B28",
+"how": "cell text",
+"text": "* Physical properties of these components are theoretical values."
+},
+{
+"where": "sheet 'Page 5' cell B2",
+"how": "cell text",
+"text": "Hydrocarbon Anlaysis of Separator Liquid Sample"
+},
+{
+"where": "sheet 'Page 5' cell B4",
+"how": "cell text",
+"text": "Component"
+},
+{
+"where": "sheet 'Page 5' cell D4",
+"how": "cell text",
+"text": "Mol%"
+},
+{
+"where": "sheet 'Page 5' cell E4",
+"how": "cell text",
+"text": "Wt%"
+},
+{
+"where": "sheet 'Page 5' cell F4",
+"how": "cell text",
+"text": "Density"
+},
+{
+"where": "sheet 'Page 5' cell G4",
+"how": "cell text",
+"text": "°Api @ 60°F"
+},
+{
+"where": "sheet 'Page 5' cell H4",
+"how": "cell text",
+"text": "MW"
+},
+{
+"where": "sheet 'Page 5' cell B5",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'Page 5' cell B6",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'Page 5' cell B7",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'Page 5' cell B8",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'Page 5' cell B9",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'Page 5' cell B10",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'Page 5' cell B11",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'Page 5' cell B12",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'Page 5' cell B13",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'Page 5' cell B14",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'Page 5' cell B15",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'Page 5' cell B16",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'Page 5' cell B17",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'Page 5' cell B18",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'Page 5' cell B19",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'Page 5' cell B20",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'Page 6' cell B3",
+"how": "cell text",
+"text": "Pressure-Volume Relation at 224°F"
+},
+{
+"where": "sheet 'Page 6' cell B6",
+"how": "cell text",
+"text": "Pressure, PSIG"
+},
+{
+"where": "sheet 'Page 6' cell F6",
+"how": "cell text",
+"text": "Relative Volume (1)"
+},
+{
+"where": "sheet 'Page 6' cell C15",
+"how": "cell text",
+"text": "bubble point pressure"
+},
+{
+"where": "sheet 'Page 6' cell B28",
+"how": "cell text",
+"text": "(1) Relative Volume: V/Vsat is barrels at indicated pressure per barrel at saturation pressure"
+},
+{
+"where": "text box/shape in xl/drawings/drawing1.xml",
+"how": "drawing text",
+"text": "COMPOSITIONAL ANALYSIS  TO UNDECANES PLUS TEST 1 DULANG-3 MALAYSIA CORE LABORATORIES ESSO PRODUCTION MALAYSIA INC."
+}
+]

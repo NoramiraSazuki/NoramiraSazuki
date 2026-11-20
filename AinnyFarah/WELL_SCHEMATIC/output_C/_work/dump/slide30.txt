@@ -1,0 +1,6 @@
+# slide 30 (slides/slide30.xml) hidden=False objects=2
+# notes: ''
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open
+[sp id=3 'TextBox 2' pct=[34.37, 40.71, 96.15, 45.06] hidden=False]
+    C30 doesn’t exist

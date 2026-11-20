@@ -1,0 +1,69 @@
+WELL | A30 | 27 | image62.png + image63.png | WELL A-30: DUAL OIL PRODUCER/WATER INJECTOR WITH SHORT STRING SELECTIVE
+SRC | 27 | image62.png + image63.png | visual transcription of the screenshot pictures (x3 upscale, upper part image62 / lower part image63)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 15 MARCH 1994
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3 1/2" 9.2 PPF N-80 TKC 40/40
+INFO | xmas | INGRAM CACTUS, DUAL 3 1/8" X 3 1/8" X 11", 3M
+INFO | packerFluid | 8.8 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 55.3 DEG
+INFO | rte | 14.52 m
+INFO | completionType | DUAL OIL PRODUCER/WATER INJECTOR WITH SHORT STRING SELECTIVE
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ m MDDF | 18.625 | 87.5 | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ mMDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" 40 ppf, K-55, BTC @ mMDDF | 9.625 | 40 | K-55 |  | MDDF
+TUBING | 3 1/2" 9.2 PPF N-80 TKC 40/40 (short string) | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3 1/2" 9.2 PPF N-80 TKC 40/40 (long string) | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 126.2 |  | 2.812 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 126.9 |  | 2.812 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 288.8 |  | 2.812 |  |  |  | p1
+ROW | S | KBMG-M SPM | 682.9 |  | 2.920 |  | GLV 21/6/96 |  | p1
+ROW | S | KBMG-M SPM | 1051.0 |  | 2.920 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1343.4 |  | 2.920 |  | GLV 21/6/96 |  | p1
+ROW | S | KBMG-M SPM | 1559.3 |  | 2.920 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1653.6 |  | 2.920 |  | GLV 21/6/96 |  | p1
+ROW | S | CSW-10-T | 1659.3 |  | 2.812 |  | CLOSED | label printed 'CSW-10-T' (probably CSW-1D-T sliding sleeve) — kept as printed | p1
+ROW | D | OTIS RDH DUAL HYD. PKR (PKR-3) | 1669.9 |  |  |  |  | dual packer across both strings | p1
+ROW | S | TELESCOPIC JOINT | 1671.3 |  |  |  |  |  | p1
+ROW | S | 'CSW-1D'-T-SSD | 1678.8 |  | 2.812 |  | CLOSED OCT 03; ?OPEN 14/AUG/2009 | later status from slide text box obj #7 matched by position | p1
+ROW | S | WP-1 NIPPLE | 1755.4 |  | 2.812 |  |  |  | p1
+ROW | D | OTIS RDH DUAL HYD. PKR (PKR-2) | 1763.9 |  |  |  |  | dual packer across both strings | p1
+ROW | S | 'D' NO-GO NIPPLE | 1766.6 |  | 2.750 |  | OPENED OCT 03; ?CLOSED 14/AUG/2009 | later status from slide text box obj #8 matched by position | p2
+ROW | S | W/L ENTRY GUIDE | 1767.0 |  | 2.970 |  |  | end of string | p2
+ROW | L | FLOW COUPLING | 135.0 |  |  |  |  | MIN ID not printed on this row | p1
+ROW | L | TRDP-4A SCSSV | 135.9 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 139.2 |  |  |  |  | MIN ID not printed on this row | p1
+ROW | L | WP-1 NIPPLE | 298.5 |  | 2.812 |  |  |  | p1
+ROW | L | KBMG-M SPM | 691.9 |  | 2.920 |  | SET DV 20/6/96 |  | p1
+ROW | L | CWS-1D-T-SSD | 1661.7 |  | 2.812 |  | CLOSED |  | p1
+ROW | L | CWS-1D-T-SSD | 1681.5 |  | 2.812 |  | CLOSED 8/7/95 |  | p1
+ROW | L | BLAST JOINT | 1685.5 | 1755.9 | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 1759.0 |  | 2.812 |  |  |  | p1
+ROW | L | CWS-1D-T-SSD | 1769.7 |  | 2.812 |  | CLOSED 20/10/94 |  | p2
+ROW | L | BLAST JOINT | 1773.7 | 1797.7 | 2.992 |  |  |  | p2
+ROW | L | WP-1 NIPPLE | 1904.9 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 1910.6 |  |  |  |  |  | p2
+ROW | L | BAKER G-H4 SEAL ASSY. | 1912.2 |  |  |  |  |  | p2
+ROW | L | BAKER D-1 PERM. PKR (PKR-1) | 1913.5 |  |  |  |  | label and depth printed in the short-string columns; the packer sits on the long string below the short-string end | p2
+ROW | L | SEAL BORE EXT. | 1913.8 |  |  |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1918.9 |  | 2.750 |  |  |  | p2
+ROW | L | WEG | 1919.2 |  | 2.970 |  |  | end of string | p2
+ZONE | LD-3 | 1688.5 | 1692.0 | MDTHF | SAND : LD-3 & E-2 PERFT: LD3 1688.5 - 1692.0 m (no datum printed) | p1 | perf
+ZONE | E-2 | 1740.0 | 1744.0 | MDTHF | : E-2 1740.0 - 1744.0 m (no datum printed) | p1 | perf
+ZONE | E-2 | 1746.0 | 1749.0 | MDTHF | 1746.0 - 1749.0 m (no datum printed) | p1 | perf
+ZONE | E-7 | 1775.5 | 1786.5 | MDTHF | SAND : E-7 PERFT: 1775.5 - 1786.5 m (no datum printed) | p2 | perf
+ZONE | E-14 | 1928.0 | 1943.5 | MDTHF | SAND : E-14 (WATER INJECTOR) PERFT: 1928.0 - 1943.5 m (no datum printed) | p2 | perf
+PBTD | 2017.5 | MDDF | PBTD : 2017.5 m MDDF (header)
+TD | 2049.5 | MDTHF | TD @ 2049.5 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | slide 27 obj #9 | OPEN 21/MAR/1994 (slide text box near the long-string lower completion; not matched to a row)
+NOTE | slide 27 obj #11 | Sand HUD @ 1676m MDTHF (Apr 2017) – 2.29" Gauge Ring
+NOTE | slide 27 obj #13353 | 44ft Fish (125 wire + 20' Toolstring Fish LIH (MA Plug + W1 RT + SSJ + 2'NRS + KJ + 5'NRS + KJ + 5'NRS + SJ + RS + Flo Petrol Cutter + Go-devil + Flo petrol cutter + 4' drop bar (Top of Fish at 1616m WLTHF) – Mar 2019 (partly outside the slide)
+NOTE | slide 27 obj #14 | 12 leak spots @ 645, 653.5, 670, 673.5, 820, 1027.7, 1036, 1026, 1545, 1611, 1708 & 1726 mMDTHF (MPLT Jan 2011)
+NOTE | slide 27 obj #12 | Latest Update: DEC 2023 BY PRAVIN NAIR
+NOTE | slide 27 obj #3 | Jan/2013
+ISSUE | Missing | header | casing setting depths left blank on the schematic ('@ m MDDF')
+ISSUE | Unclear | picture p1/p2 | perforation intervals printed in 'm' without datum; read as m MDTHF like the depth columns
+ISSUE | Unclear | slide 27 | later statuses OPEN / CLOSED 14/AUG/2009 are slide text boxes matched to the short-string SSD 1678.8 and 'D' NO-GO 1766.6 by vertical position
+ISSUE | Unclear | picture p1 | long-string FLOW COUPLING rows (135.0, 139.2) have no MIN ID printed; packers and lower-completion items have no MIN ID printed

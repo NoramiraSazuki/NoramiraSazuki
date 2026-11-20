@@ -1,0 +1,447 @@
+{
+  "wellInfo": {
+    "completionDate": "2002-01-15",
+    "completionFluid": "-",
+    "completionType": "SINGLE STRING (B-16ST3 WELL COMPLETION DIAGRAM)",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "80.18 @ 1626m-MDDF",
+    "name": "DULANG-B16ST3",
+    "packerFluid": "-",
+    "rig": "-",
+    "surfaceCasing": "-",
+    "totalDepth": null,
+    "trajectoryType": "-",
+    "tubing": "2 7/8\", 6.4ppf, L-80,  Vam Ace",
+    "wellhead": "Cooper cameron, 3-1/8\",3000 psi"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 508.53,
+      "bottomMd": null,
+      "outerDiameter": 4.65,
+      "innerDiameter": 2.313,
+      "topMdM": 155.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #174/#297 name 'FLOW COUPLING' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '155' = 155.0 m -> 508.53 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.313' (column 'MIN ID' = explicit ID); outerDiameter '4.650' (column 'MAX OD' = explicit OD); transcription note: one depth / ID / OD printed for the FLOW COUPLING – TR-SC-SSSV – FLOW COUPLING group, on the first label's line; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #207 name 'FLOW COUPLING' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); transcription note: no own depth; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "nipple-x-1",
+      "type": "nipple (x)",
+      "name": "X NIPPLE",
+      "topMd": 948.163,
+      "bottomMd": null,
+      "outerDiameter": 4.65,
+      "innerDiameter": 2.313,
+      "topMdM": 289.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #205/#297 name 'X NIPPLE' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '289' = 289.0 m -> 948.163 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.313' (column 'MIN ID' = explicit ID); outerDiameter '4.650' (column 'MAX OD' = explicit OD); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "SPM # 3",
+      "topMd": 2145.669,
+      "bottomMd": null,
+      "outerDiameter": 4.375,
+      "innerDiameter": 2.441,
+      "topMdM": 654.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #176/#297 name 'SPM # 3' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '654' = 654.0 m -> 2145.669 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '4.375' (column 'MAX OD' = explicit OD); status/remark '(W / IPO 8/64 - 845 psi)'; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "SPM # 2",
+      "topMd": 3697.507,
+      "bottomMd": null,
+      "outerDiameter": 4.375,
+      "innerDiameter": 2.441,
+      "topMdM": 1127.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #194/#297 name 'SPM # 2' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '1127' = 1127.0 m -> 3697.507 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '4.375' (column 'MAX OD' = explicit OD); status/remark '(W / IPO 12/64 - 885 psi)'; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "SPM # 1",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #195 name 'SPM # 1' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); status/remark '(W / GLOV 16/64)'; transcription note: depth 1629 is printed between the SPM # 1 and SSD#3 labels — not assigned; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "SSD#3",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.375,
+      "innerDiameter": 2.441,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #286 name 'SSD#3' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '4.375' (column 'MAX OD' = explicit OD); status/remark 'CLOSED'; transcription note: depth 1629 ambiguous (SPM # 1 or SSD#3); ID/OD on that line; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "9-5/8\" BHR HYD PKR",
+      "topMd": 5370.735,
+      "bottomMd": null,
+      "outerDiameter": 4.375,
+      "innerDiameter": 2.441,
+      "topMdM": 1637.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: 'BHR' (hydraulic-set retrievable packer) -> Packer",
+      "actualType": "9-5/8\" BHR HYD PKR",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #287/#297 name '9-5/8\" BHR HYD PKR' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '1637' = 1637.0 m -> 5370.735 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.441' (column 'MIN ID' = explicit ID); outerDiameter '4.375' (column 'MAX OD' = explicit OD); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "sliding-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "SSD#2",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #288 name 'SSD#2' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); status/remark 'CLOSED'; transcription note: depth 1657 printed between the '9-5/8\" Casing Shoe' and SSD#2 labels — taken as the casing shoe; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "lc-packer-1",
+      "type": "packer",
+      "name": "7\" BWD PKR 4.5\" x 3.88\" Bore",
+      "topMd": 6092.52,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 1857.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "topMd"
+      ],
+      "estimationNote": "UNCLEAR READ: depth digits of low legibility (marked '?' in the transcription)",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #264/#297 name '7\" BWD PKR 4.5\" x 3.88\" Bore' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '1857' = 1857.0 m -> 6092.52 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); transcription note: first of three BWD packers; depth on its line; lower-completion item (no string assigned); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "lc-pbr-1",
+      "type": "pbr",
+      "name": "3.25\"  Seal Bore Assembly",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\"  Seal Bore Assembly",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #293 name '3.25\"  Seal Bore Assembly' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); innerDiameter '3.25\"  Seal Bore Assembly' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); lower-completion item (no string assigned); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "lc-packer-2",
+      "type": "packer",
+      "name": "7\" BWD PKR 4.5\" x 3.88\" Bore",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #267 name '7\" BWD PKR 4.5\" x 3.88\" Bore' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); transcription note: second BWD packer, no depth; depth datum: m MDDF ('All Depth in : m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "sliding-sleeve-3",
+      "type": "sliding-sleeve",
+      "name": "SLIMLINE SSD#1",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #177 name 'SLIMLINE SSD#1' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); status/remark 'STIFF OPEN 2023'; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "lc-pbr-2",
+      "type": "pbr",
+      "name": "3.25\"  Seal Bore Assembly",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "innerDiameter"
+      ],
+      "estimationNote": "type: sealbore extension -> PBR is the nearest type; innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "actualType": "3.25\"  Seal Bore Assembly",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #292 name '3.25\"  Seal Bore Assembly' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); innerDiameter '3.25\"  Seal Bore Assembly' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); lower-completion item (no string assigned); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "lc-packer-3",
+      "type": "packer",
+      "name": "7\" BWD PKR 4.5\" x 3.88\" Bore",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #295 name '7\" BWD PKR 4.5\" x 3.88\" Bore' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); transcription note: third BWD packer, no depth; depth datum: m MDDF ('All Depth in : m-MDDF'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "nipple-no-go-1",
+      "type": "nipple (no-go)",
+      "name": "XN NO GO NIPPLE",
+      "topMd": 9153.544,
+      "bottomMd": null,
+      "outerDiameter": 5.875,
+      "innerDiameter": 3.25,
+      "topMdM": 2790.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #206/#297 name 'XN NO GO NIPPLE' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '2790' = 2790.0 m -> 9153.544 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '3.250' (column 'MIN ID' = explicit ID); outerDiameter '5.875' (column 'MAX OD' = explicit OD); transcription note: ID/OD 3.250/5.875 printed on the same line (look like seal-bore values); depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "eot-1",
+      "type": "eot",
+      "name": "EOT",
+      "topMd": 9169.948,
+      "bottomMd": null,
+      "outerDiameter": 3.21,
+      "innerDiameter": 2.313,
+      "topMdM": 2795.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #298/#297 name 'EOT' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '2795' = 2795.0 m -> 9169.948 ft (m MDDF ('All Depth in : m-MDDF') (equipment depth column as printed)); innerDiameter '2.313' (column 'MIN ID' = explicit ID); outerDiameter '3.210' (column 'MAX OD' = explicit OD); transcription note: end of the tubing string; depth datum: m MDDF ('All Depth in : m-MDDF')"
+    },
+    {
+      "id": "liner-1",
+      "type": "liner",
+      "name": "7\" TOL / 7\" Liner Shoe",
+      "topMd": 5396.982,
+      "bottomMd": 9356.956,
+      "outerDiameter": null,
+      "innerDiameter": 7.0,
+      "topMdM": 1645.0,
+      "bottomMdM": 2852.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text header name '7\" TOL / 7\" Liner Shoe' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '7\" TOL (label, depth 1645 printed beside it)' = 1645.0 m -> 5396.982 ft (TOL from the diagram label (m MDTHF)); bottomMd '7\" TOL / 7\" Liner Shoe' = 2852.0 m -> 9356.956 ft (m MDDF as printed); innerDiameter '7' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "liner-2",
+      "type": "liner",
+      "name": "4-1/2\" TOL / 4-1/2\" Liner Shoe",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.5,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text header name '4-1/2\" TOL / 4-1/2\" Liner Shoe' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); innerDiameter '4.5' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "casing-shoe-1",
+      "type": "casing",
+      "name": "9-5/8\" Casing Shoe",
+      "topMd": null,
+      "bottomMd": 5436.352,
+      "outerDiameter": null,
+      "innerDiameter": 9.625,
+      "topMdM": null,
+      "bottomMdM": 1657.0,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: size without ID/OD designation -> ID (user-defined rule)",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text diagram name '9-5/8\" Casing Shoe' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); bottomMd '9-5/8\" Casing Shoe (depth 1657 on the line below the label)' = 1657.0 m -> 5436.352 ft (m MDDF as printed); innerDiameter '9-5/8\" Casing Shoe' (USER-DEFINED RULE: size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "2 7/8\", 6.4ppf, L-80,  Vam Ace",
+      "topMd": null,
+      "bottomMd": 9169.948,
+      "outerDiameter": null,
+      "innerDiameter": 2.875,
+      "topMdM": null,
+      "bottomMdM": 2795.0,
+      "weight": 6.4,
+      "grade": "L-80",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: bottom = row marked as the end of the string in the transcription 'EOT' (eot-1); top not set: depth reference is m MDDF ('All Depth in : m-MDDF'), not the tubing hanger (0 would not be supported)",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text header name '2 7/8\", 6.4ppf, L-80,  Vam Ace' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); bottomMd 'EOT' = 2795.0 m -> 9169.948 ft (m MDDF ('All Depth in : m-MDDF'); depth of 'EOT' (eot-1)); innerDiameter '2 7/8\", 6.4ppf, L-80,  Vam Ace' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "zone-e-12-13-1",
+      "type": "perforation",
+      "name": "E 12/13 2760-2784 m MDDF",
+      "topMd": 9055.118,
+      "bottomMd": 9133.859,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2760.0,
+      "bottomMdM": 2784.0,
+      "zone": "E 12/13",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type",
+      "actualType": "E 12/13 2760-2784 m MDDF",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #197 name 'E 12/13 2760-2784 m MDDF' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd 'E 12/13 (2760-2784) (FB S3; WIR)' = 2760.0 m -> 9055.118 ft (m MDDF as printed); bottomMd 'E 12/13 (2760-2784) (FB S3; WIR)' = 2784.0 m -> 9133.859 ft (m MDDF as printed); original text: E 12/13 (2760-2784) (FB S3; WIR)"
+    },
+    {
+      "id": "zone-e-14-1",
+      "type": "perforation",
+      "name": "E 14 2806-2846 m MDDF",
+      "topMd": 9206.037,
+      "bottomMd": 9337.271,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2806.0,
+      "bottomMdM": 2846.0,
+      "zone": "E 14",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type",
+      "actualType": "E 14 2806-2846 m MDDF",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #199 name 'E 14 2806-2846 m MDDF' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd 'E 14  (2806-2846) (FB S3; WIR)' = 2806.0 m -> 9206.037 ft (m MDDF as printed); bottomMd 'E 14  (2806-2846) (FB S3; WIR)' = 2846.0 m -> 9337.271 ft (m MDDF as printed); original text: E 14  (2806-2846) (FB S3; WIR)"
+    },
+    {
+      "id": "zone-e-23-1",
+      "type": "perforation",
+      "name": "E 23 3060-3070 m MDDF",
+      "topMd": 10039.37,
+      "bottomMd": 10072.179,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 3060.0,
+      "bottomMdM": 3070.0,
+      "zone": "E 23",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type",
+      "actualType": "E 23 3060-3070 m MDDF",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #283 name 'E 23 3060-3070 m MDDF' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd 'E 23 (FB S3; NDR) (3060-3070)' = 3060.0 m -> 10039.37 ft (m MDDF as printed); bottomMd 'E 23 (FB S3; NDR) (3060-3070)' = 3070.0 m -> 10072.179 ft (m MDDF as printed); original text: E 23 (FB S3; NDR) (3060-3070)"
+    },
+    {
+      "id": "zone-e-23-2",
+      "type": "perforation",
+      "name": "E 23 3100-3110 m MDDF",
+      "topMd": 10170.604,
+      "bottomMd": 10203.412,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 3100.0,
+      "bottomMdM": 3110.0,
+      "zone": "E 23",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type",
+      "actualType": "E 23 3100-3110 m MDDF",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #283 name 'E 23 3100-3110 m MDDF' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd '(3100-3110)' = 3100.0 m -> 10170.604 ft (m MDDF as printed); bottomMd '(3100-3110)' = 3110.0 m -> 10203.412 ft (m MDDF as printed); original text: (3100-3110)"
+    },
+    {
+      "id": "zone-e-32-1",
+      "type": "perforation",
+      "name": "E 32 3160-3170 m MDDF",
+      "topMd": 10367.454,
+      "bottomMd": 10400.263,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 3160.0,
+      "bottomMdM": 3170.0,
+      "zone": "E 32",
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type",
+      "actualType": "E 32 3160-3170 m MDDF",
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text #204 name 'E 32 3160-3170 m MDDF' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd 'E 32 (FB S3; NDR) (3160-3170)' = 3160.0 m -> 10367.454 ft (m MDDF as printed); bottomMd 'E 32 (FB S3; NDR) (3160-3170)' = 3170.0 m -> 10400.263 ft (m MDDF as printed); original text: E 32 (FB S3; NDR) (3160-3170)"
+    },
+    {
+      "id": "pbtd-1",
+      "type": "pbtd",
+      "name": "PBTD (label; 3001 printed on its line)",
+      "topMd": 9845.801,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 3001.0,
+      "bottomMdM": null,
+      "source": "Dulang B Well Schematic updated .pptx > slide 16 native slide text diagram name 'PBTD (label; 3001 printed on its line)' (native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)); topMd 'PBTD (label; 3001 printed on its line)' = 3001.0 m -> 9845.801 ft (m MDDF)"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

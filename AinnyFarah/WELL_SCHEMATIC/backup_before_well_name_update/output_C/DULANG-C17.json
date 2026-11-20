@@ -1,0 +1,27 @@
+{
+  "wellInfo": {
+    "completionDate": "-",
+    "completionFluid": "-",
+    "completionType": "P & A",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "-",
+    "name": "DULANG-C17",
+    "packerFluid": "-",
+    "rig": "-",
+    "surfaceCasing": "-",
+    "totalDepth": null,
+    "trajectoryType": "-",
+    "tubing": "-",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

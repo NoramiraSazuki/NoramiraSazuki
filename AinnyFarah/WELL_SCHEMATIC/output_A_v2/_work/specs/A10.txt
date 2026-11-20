@@ -1,0 +1,71 @@
+WELL | A10 | 8 | image18.png + image19.png | WELL A-10: (RD/ST-2) DUAL OIL PRODUCER (TYPE 8)
+SRC | 8 | image18.png + image19.png | visual transcription of the screenshot pictures (x3 upscale, upper part image18 / lower part image19)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 14 AUGUST 1991
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, DUAL, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 67.4 DEG @ 1688.90 MDDF
+INFO | rte | 14.62 m
+INFO | completionType | (RD/ST-2) DUAL OIL PRODUCER (TYPE 8)
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ 369.0 m MDDF | 18.625 | 87.5 | X-56 | 369.0 | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ 1315.0 mMDDF | 13.375 | 54.5 | K-55 | 1315.0 | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ 2197.0 mMDDF | 9.625 | 40 | N-80 | 2197.0 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (short string) | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (long string) | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 128.57 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 129.38 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 274.99 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 549.99 |  | 2.371 |  | ?GLV (Jul/99) | status from slide text box obj #15 matched by position | p1
+ROW | S | KBMG-M SPM | 1228.54 |  | 2.371 |  | ?DV | status from slide text box obj #29 matched by position | p1
+ROW | S | KBMG-M SPM | 1523.16 |  | 2.371 |  | ?GLV 10/64" | status from slide text box obj #16 matched by position | p1
+ROW | S | KBMG-M SPM | 1911.98 |  | 2.371 |  | ?GLV PTRO 16/64" (Aug 14) | status from slide text box obj #17 matched by position | p1
+ROW | S | KBMG-M SPM | 2142.48 |  | 2.371 |  | ?GLOV 16/64'' (Aug 14) | status from slide text box obj #28 matched by position | p1
+ROW | S | WPB-2DE SSD | 2219.35 |  | 2.312 |  | CLOSED |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 2225.70 |  |  |  |  | dual packer across both strings; short-string column prints 2225.70, long-string column prints 2240.32 at the same packer symbol | p1
+ROW | S | 'D' NO-GO NIPPLE | 2228.69 |  |  |  |  | MIN ID not printed | p1
+ROW | S | W/L ENTRY GUIDE | 2229.26 |  |  |  |  | end of string; MIN ID not printed | p1
+ROW | L | FLOW COUPLING | 136.42 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 138.03 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 321.38 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 633.38 |  | 2.371 |  | ?DV – 13 Aug 14 | status from slide text box obj #22 matched by position | p1
+ROW | L | KBMG-M SPM | 1247.98 |  | 2.371 |  | ?DV – May 96 | status from slide text box obj #26 matched by position | p1
+ROW | L | KBMG-M SPM | 1600.70 |  | 2.371 |  | ?DV – 13 Aug 14 | status from slide text box obj #23 matched by position | p1
+ROW | L | KBMG-M SPM | 1919.06 |  | 2.371 |  | ?DV – May 96 | status from slide text box obj #27 matched by position | p1
+ROW | L | KBMG-M SPM | 2131.42 |  | 2.371 |  | ?DV – 13 Aug 14 | status from slide text box obj #24 matched by position | p1
+ROW | L | WPB-2DE SSD | 2218.63 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 2253.17 |  | 2.312 |  |  |  | p1
+ROW | L | BLAST JOINT | 2256.76 |  | 2.441 |  |  | only one depth printed beside the blast-joint bracket (bottom not printed) | p1
+ROW | L | WP1 NIPPLE | 2297.10 |  | 2.312 |  |  |  | p1
+ROW | L | CENTRALIZER | 2297.73 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 2298.25 |  | 2.441 |  |  |  | p2
+ROW | L | GUIB MAGNUM 'HT' PERM. PKR | 2284.48 |  | 2.441 |  |  | label and depth printed in the short-string columns; printed 2284.48, shallower than the seal assembly above (2298.25) — kept as printed | p2
+ROW | L | SEAL BORE EXT. | 2298.40 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 2382.59 |  | 2.250 |  |  |  | p2
+ROW | L | WEG | 2383.16 |  | 2.441 |  |  | end of string | p2
+ROW | Lw | GUIB MAGNUM 'HT' PERM. PKR | 2401.38 |  | 4.000 |  |  | below the long-string end (stacked packer pair) | p2
+ROW | Lw | GUIB MAGNUM 'HT' PERM. PKR | 2402.38 |  |  |  |  | below the long-string end (stacked packer pair); MIN ID not printed | p2
+ZONE | E-7 | 2260.38 | 2293.38 | MDTHF | SAND : E-7 PERF: 2260.38 - 2293.38 (no unit/datum printed) | p1 | perf
+ZONE | SQUEEZE | 2321.10 | 2327.10 | MDTHF | SQUEEZE (label beside the interval 2321.10 - 2327.10, perforation symbol drawn) | p2 | interval
+ZONE | E-12/13 | 2380.38 | 2398.38 | MDTHF | SAND : E-12/13 PERF: 2380.38 - 2398.38 (no unit/datum printed) | p2 | perf
+ZONE | E14 | 2438 | 2442 | MDTHF | slide text box obj #11 'E14 2438 – 2442 m-MDTHF 08/Sept/2004' | slide obj #11 | perf
+PBTD | 2651.0 | MDDF | PBTD : 2651.0 m MDDF (header)
+TD | 2666.1 | MDTHF | TD @ 2666.1 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p1 | SQUEEZE (label above 'D' NO-GO NIPPLE 2228.69, perforation symbol beside the short-string end — no interval printed)
+NOTE | picture p2 | DOGLEG (DEPTH): 103.25, 203.0 - 229.3, 247.7 - 609.2
+NOTE | slide 8 obj #20 / #25 | Mar/2005 (short-string status column) ; May/1996 (long-string status column)
+NOTE | slide 8 obj #7 | OPEN 15/AUG/1991 (beside E-7 / short-string end)
+NOTE | slide 8 obj #8 | OPEN 15/AUG/1991 (beside E-12/13)
+NOTE | slide 8 obj #9 | OPEN 07/AUG/204 (beside the lower perforations / E14; year printed '204')
+NOTE | slide 8 obj #12 | WAG PILOT
+NOTE | slide 8 obj #4 | RIH 2.27" GR & 2.25" LIB HUD at 2361 m-MDTHF. Suspect sand (Aug 2015)
+NOTE | slide 8 obj #31 | Latest Update: June 2018
+ISSUE | Conflict | picture p1 | dual packer GUIB UNI-XXVII: short-string column 2225.70 vs long-string column 2240.32 at the same symbol — represented once at 2225.70 (short-string tally), 2240.32 recorded
+ISSUE | Conflict | header / diagram | 9 5/8" production casing shoe 2197.0 m MDDF (header) is shallower than the completion (long string to 2383.16 m MDTHF, TD 2666.1 m MDTHF) — title says (RD/ST-2); header casing may describe the original hole; kept as printed
+ISSUE | Unclear | picture p2 | long-string 'HT' PERM. PKR printed 2284.48, shallower than the seal assembly (2298.25) it receives — kept as printed
+ISSUE | Unclear | picture p1 | long-string blast joint has only one depth (2256.76) printed — bottom not derived
+ISSUE | Unclear | slide 8 | GLV / DV statuses are slide text boxes matched to SPM rows by vertical position
+ISSUE | Unclear | slide 8 | well identity: title '(RD/ST-2)' — eDafy lists A10R1S2; file named DULANG-A10 from the well label 'WELL A-10'

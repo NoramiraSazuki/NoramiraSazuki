@@ -1,0 +1,45 @@
+C1	'A23 , OP2'
+B2	'Tubing (2-3/8" to 4-1/2" or at times could be 5-1/2" or 7")'
+C2	'PRF Quantity'
+B3	'3-1/2" 9.2# L80 GRE LINED, FOX, R2'
+C3	220.0
+D3	'Primary: SMF/KSB/03-044'
+B4	'3-1/2" 9.2# L80 GRE LINED, FOX, R2'
+C4	103.0
+D4	'B/U Plan:SMF/KSB/03-044'
+B5	'3-1/2", 9.2#, UHP 15Cr-125 JFE BEAR , R3'
+C5	5.0
+D5	'Order New MITA\n(GP/LOG-MD/NAA/0419/128'
+B7	'Pup Joint for Spacing (P x B)'
+B9	'3-1/2” 9.2ppf L80 JFE FOX, 2FT'
+C9	2.0
+B10	'3-1/2” 9.2ppf L80 JFE FOX, 4FT'
+C10	2.0
+B11	'3-1/2” 9.2ppf L80 JFE FOX, 6FT'
+C11	6.0
+B12	'3-1/2” 9.2ppf L80 JFE FOX, 8FT'
+C12	1.0
+B13	'3-1/2” 9.2ppf L80 JFE FOX, 10FT'
+C13	2.0
+B14	'3-1/2” 9.2ppf L80 JFE FOX, 12FT'
+C14	3.0
+B15	'3-1/2” 9.2ppf L80 JFE FOX, 15FT'
+C15	1.0
+B16	'3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 4FT'
+C16	9.0
+B17	'3-1/2” 9.2ppf L80 JFE FOX PIN x PIN, 12FT'
+C17	2.0
+B19	'Corossion bearing, CBR'
+C19	400.0
+D19	'Primary + back Up\nSMF/KSB19/07-099'
+B21	'Crossover - Water Bushing'
+B22	'3-1/2" 9.2# FOX Pin x NC50/Specific DP TBC by rig (B)'
+C22	2.0
+D22	'OMS Manufacture'
+B24	'Lifting Sub (Transferring tubing across High Line for TADU Operations)'
+B25	'3-1/2" 9.6# FOX BOX AISI 41XX '
+C25	30.0
+D25	'transferred from labuan, Good VTI\nSMF/LSB/19-119'
+B27	'Landing String'
+B29	'OTHER RELATED ACCESSORIES OR MATERIALS\n'
+C29	'QUANTITY REQUIRED (JTS/PCS)'

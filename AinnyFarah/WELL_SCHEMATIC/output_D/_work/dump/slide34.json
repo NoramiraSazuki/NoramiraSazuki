@@ -1,0 +1,128 @@
+{
+ "slide": 34,
+ "file": "slides/slide34.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Title 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "",
+   "geom": null
+  },
+  {
+   "kind": "pic",
+   "id": "3",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": "A screenshot of a computer\n\nDescription automatically generated",
+   "x": 4037970,
+   "y": -2751,
+   "cx": 5810878,
+   "cy": 4784276,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.93,
+    -0.03,
+    55.93,
+    48.27
+   ],
+   "image": "../media/image84.png",
+   "crop": {
+    "l": "62041",
+    "t": "15317",
+    "r": "11408",
+    "b": "11597"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Picture 3",
+   "path": [],
+   "hidden": false,
+   "descr": "A screenshot of a computer\n\nDescription automatically generated",
+   "x": 4076339,
+   "y": 4720818,
+   "cx": 5809614,
+   "cy": 5093249,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.15,
+    47.66,
+    56.14,
+    99.07
+   ],
+   "image": "../media/image85.png",
+   "crop": {
+    "l": "62040",
+    "t": "9016",
+    "r": "11037",
+    "b": "13661"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "5",
+   "name": "Picture 4",
+   "path": [],
+   "hidden": false,
+   "descr": "A table with numbers and letters\n\nDescription automatically generated",
+   "x": 4137464,
+   "y": 4349695,
+   "cx": 5644468,
+   "cy": 1036638,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    23.49,
+    43.91,
+    55.55,
+    54.37
+   ],
+   "image": "../media/image86.png"
+  },
+  {
+   "kind": "pic",
+   "id": "6",
+   "name": "Picture 5",
+   "path": [],
+   "hidden": false,
+   "descr": "A screenshot of a computer\n\nDescription automatically generated",
+   "x": 10415700,
+   "y": -2771,
+   "cx": 6471083,
+   "cy": 9912411,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    59.15,
+    -0.03,
+    95.89,
+    100.04
+   ],
+   "image": "../media/image87.png",
+   "crop": {
+    "l": "62302",
+    "t": "8468",
+    "r": "22703",
+    "b": "7879"
+   }
+  }
+ ]
+}

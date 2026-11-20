@@ -1,0 +1,185 @@
+{
+ "slide": 11,
+ "file": "slides/slide11.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n11",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "10244",
+   "name": "Picture 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 245534,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    2.69,
+    96.67,
+    92.69
+   ],
+   "image": "../media/image25.png",
+   "crop": {}
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 859531,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    98.09,
+    4.87
+   ],
+   "text": "FB – S3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6",
+   "name": "TextBox 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5174340,
+   "y": 43542,
+   "cx": 663964,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    75.45,
+    0.48,
+    85.13,
+    4.52
+   ],
+   "text": "GIGP",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "TextBox 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6096253,
+   "y": 8867001,
+   "cx": 761747,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.89,
+    96.97,
+    100.0,
+    100.0
+   ],
+   "text": "Jan/2013",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 6019800,
+   "cx": 2539491,
+   "cy": 283885,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    65.83,
+    40.36,
+    68.94
+   ],
+   "text": "E-7\n2332- 2357",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 74566,
+   "y": 110236,
+   "cx": 2217274,
+   "cy": 230832,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.09,
+    1.21,
+    33.42,
+    3.73
+   ],
+   "text": "Latest Update: Sep 2023 by Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3892612,
+   "y": 8576564,
+   "cx": 2965388,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.76,
+    93.79,
+    100.0,
+    97.83
+   ],
+   "text": "LAST ENTRY\t: 19 Jun 2016\nTYPE OF JOB\t: A-14S : MIT\nUPDATED BY\t: Wong Kian Wai\nDATE\t: 4 Feb 2018",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Footer Placeholder 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

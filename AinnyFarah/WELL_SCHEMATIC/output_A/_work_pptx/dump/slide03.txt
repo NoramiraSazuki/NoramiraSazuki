@@ -1,0 +1,42 @@
+# slide 3 (slides/slide3.xml) hidden=False objects=20
+# notes: '3'
+[pic id=2050 'Picture 2' pct=[2.69, 2.51, 96.02, 46.97] hidden=False img=../media/image6.png]
+[pic id=2051 'Picture 3' pct=[3.54, 46.93, 96.02, 86.36] hidden=False img=../media/image7.png]
+[sp id=18 'TextBox 17' pct=[75.68, 1.6, 88.21, 5.64] hidden=False]
+    FB – S3
+[sp id=19 'TextBox 18' pct=[87.49, 58.94, 95.65, 62.65] hidden=False]
+    OPEN 
+    Oct 2016
+[sp id=20 'TextBox 19' pct=[88.21, 75.15, 96.38, 78.85] hidden=False]
+    CLOSE
+    Oct 2016
+[sp id=22 'TextBox 21' pct=[3.78, 44.8, 12.78, 48.5] hidden=False]
+    OPEN
+    June 2012
+[sp id=32 'TextBox 31' pct=[1.85, 33.52, 12.29, 37.22] hidden=False]
+    No clear GLV data
+[sp id=2 'Rectangle 1' pct=[3.77, 50.0, 33.77, 55.0] hidden=False]
+    E2 - 1906.4 – 1910.4 mdTHF
+    E7 -  1931 - 1944
+[sp id=23 'Rectangle 22' pct=[4.41, 61.03, 34.41, 66.03] hidden=False]
+    E12/13 – 1990 – 1995
+    1998 - 2001
+[sp id=24 'Rectangle 23' pct=[3.29, 76.35, 33.29, 81.35] hidden=False]
+    E14 – 2015– 2025
+[sp id=4 'TextBox 3' pct=[1.85, 39.51, 12.81, 43.21] hidden=False]
+    CLOSED (March 2015)
+[sp id=5 'TextBox 4' pct=[94.94, 96.75, 99.55, 99.45] hidden=False]
+    10
+[sp id=2054 'TextBox 2053' pct=[1.7, 29.5, 13.48, 33.2] hidden=False]
+    2.31” CSA Plug (Feb 2023)
+[sp id=86 'TextBox 85' pct=[57.33, 78.22, 69.11, 81.92] hidden=False]
+    2.25” CA Plug @ No-Go
+[sp id=94 'TextBox 93' pct=[88.0, 41.34, 95.48, 43.69] hidden=False]
+    CLOSED
+[sp id=3 'Rectangle 2' pct=[86.88, 32.93, 100.0, 40.02] hidden=False]
+    GLV 12/64” (Apr/08)
+    DV (Jun/06)
+    DV (Jun/06)
+    GLOV 12/64” (Apr/08)
+[sp id=14 'Footer Placeholder 13' pct=None hidden=False]
+    Open

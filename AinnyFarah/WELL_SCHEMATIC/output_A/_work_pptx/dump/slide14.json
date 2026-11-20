@@ -1,0 +1,564 @@
+{
+ "slide": 14,
+ "file": "slides/slide14.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n14",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "10",
+   "name": "Group 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 214652,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    2.35,
+    96.67,
+    92.35
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "8",
+   "name": "Group 7",
+   "path": [
+    "Group 9"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 435431,
+   "cx": 6400800,
+   "cy": 8008821,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    4.76,
+    96.67,
+    92.35
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "2050",
+   "name": "Picture 2",
+   "path": [
+    "Group 9",
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 435431,
+   "cx": 6400800,
+   "cy": 3477296,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    4.76,
+    96.67,
+    42.79
+   ],
+   "image": "../media/image30.png",
+   "crop": {
+    "l": "8889",
+    "t": "14222",
+    "r": "6111",
+    "b": "5778"
+   }
+  },
+  {
+   "kind": "grpSp",
+   "id": "7",
+   "name": "Group 6",
+   "path": [
+    "Group 9",
+    "Group 7"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 3890650,
+   "cx": 6400800,
+   "cy": 4553602,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    42.55,
+    96.67,
+    92.35
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "2051",
+   "name": "Picture 3",
+   "path": [
+    "Group 9",
+    "Group 7",
+    "Group 6"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 3890650,
+   "cx": 6400800,
+   "cy": 3554569,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    42.55,
+    96.67,
+    81.42
+   ],
+   "image": "../media/image31.png",
+   "crop": {
+    "l": "8889",
+    "t": "11778",
+    "r": "6111",
+    "b": "6444"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "2052",
+   "name": "Picture 4",
+   "path": [
+    "Group 9",
+    "Group 7",
+    "Group 6"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 7401063,
+   "cx": 6400800,
+   "cy": 1043189,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    80.94,
+    96.67,
+    92.35
+   ],
+   "image": "../media/image32.png",
+   "crop": {
+    "l": "8889",
+    "t": "60444",
+    "r": "6111",
+    "b": "15556"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "2053",
+   "name": "Picture 5",
+   "path": [
+    "Group 9"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 214652,
+   "cx": 6400800,
+   "cy": 463639,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    2.35,
+    96.67,
+    7.42
+   ],
+   "image": "../media/image33.png",
+   "crop": {
+    "l": "3228",
+    "t": "15333",
+    "r": "11772",
+    "b": "74000"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 1027845,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    100.54,
+    4.87
+   ],
+   "text": "FB – N3B",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1524000,
+   "y": 5957862,
+   "cx": 1540458,
+   "cy": 356105,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.22,
+    65.16,
+    44.68,
+    69.05
+   ],
+   "text": "E12/13\n1818.5 – 1834.5",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "TextBox 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1524000,
+   "y": 6629400,
+   "cx": 1540458,
+   "cy": 356105,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.22,
+    72.5,
+    44.68,
+    76.39
+   ],
+   "text": "E14\n1858.5 – 1886.5",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "TextBox 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1506721,
+   "y": 7570112,
+   "cx": 1540456,
+   "cy": 430888,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    21.97,
+    82.79,
+    44.43,
+    87.5
+   ],
+   "text": "E40\n2315.5 – 2352.5",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1020336,
+   "y": 6036968,
+   "cx": 503664,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.88,
+    66.02,
+    22.22,
+    69.05
+   ],
+   "text": "open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 981285,
+   "y": 6725989,
+   "cx": 503664,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.31,
+    73.56,
+    21.65,
+    76.59
+   ],
+   "text": "open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1071333,
+   "y": 7659606,
+   "cx": 503664,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.62,
+    83.77,
+    22.97,
+    86.8
+   ],
+   "text": "open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3810000,
+   "y": 3986849,
+   "cx": 1524000,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.56,
+    43.6,
+    77.78,
+    45.96
+   ],
+   "text": "DV – 16 Aug 17",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3886200,
+   "y": 3589705,
+   "cx": 1524000,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.67,
+    39.26,
+    78.89,
+    41.61
+   ],
+   "text": "GLV 12/64’’ – 16 Aug 17",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "TextBox 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5770944,
+   "y": 2007806,
+   "cx": 914400,
+   "cy": 461665,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    84.15,
+    21.96,
+    97.48,
+    27.01
+   ],
+   "text": "Tool stuck @ 153.5 m-MDTHF.\n(16 April 2017) ",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5791200,
+   "y": 4380846,
+   "cx": 1066800,
+   "cy": 830997,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    84.44,
+    47.91,
+    100.0,
+    57.0
+   ],
+   "text": "LOCK OPEN (19 July 2017) RIH 2.34\" No-Go Adaptor  and seat @ 144.5 m-MDTHF. confirm TR-SCSSV still not locked open. ",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Rectangle 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4114800,
+   "y": 1794775,
+   "cx": 1219200,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    60.0,
+    19.63,
+    77.78,
+    23.33
+   ],
+   "text": "set 2.31\" PXX Plug @ 145 mMDTHF (6/11/17)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Rectangle 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 27559,
+   "y": 3971461,
+   "cx": 1479162,
+   "cy": 230832,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.4,
+    43.43,
+    21.97,
+    45.96
+   ],
+   "text": "HUD @ 1392 m-THF 4/6/16",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4263580,
+   "y": 8432677,
+   "cx": 2293240,
+   "cy": 553998,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.17,
+    92.22,
+    95.61,
+    98.28
+   ],
+   "text": "LAST ENTRY\t: 6  Nov 2017\nTYPE OF JOB\t: A-17L : To perform set plug\nUPDATED BY\t: Ariff Shazwan\nDATE\t: 4 Feb 2018",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "Footer Placeholder 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1132665,
+   "y": 2139539,
+   "cx": 5346700,
+   "cy": 3477875,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    16.52,
+    23.4,
+    94.48,
+    61.43
+   ],
+   "text": "FOR A17ST1  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS\n- PRAVIN NAIR  2023-",
+   "geom": "rect",
+   "fill": "FF0000"
+  }
+ ]
+}

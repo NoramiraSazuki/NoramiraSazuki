@@ -1,0 +1,25 @@
+# slide 27 (slides/slide27.xml) hidden=False objects=17
+# notes: 'Open\n27'
+[pic id=13313 'Picture 1' pct=[4.02, 1.67, 97.35, 63.25] hidden=False img=../media/image62.png]
+[pic id=13314 'Picture 2' pct=[4.02, 62.18, 97.35, 91.67] hidden=False img=../media/image63.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE1
+[sp id=3 'TextBox 2' pct=[88.89, 96.97, 100.0, 100.0] hidden=False]
+    Jan/2013
+[sp id=7 'TextBox 6' pct=[0.0, 47.02, 13.56, 51.4] hidden=False]
+    OPEN
+    14/AUG/2009
+[sp id=8 'TextBox 7' pct=[0.0, 60.99, 13.56, 65.37] hidden=False]
+    CLOSED
+    14/AUG/2009
+[sp id=9 'TextBox 8' pct=[67.55, 84.79, 81.39, 89.17] hidden=False]
+    OPEN
+    21/MAR/1994
+[sp id=12 'TextBox 3' pct=[0.0, 0.48, 32.31, 2.83] hidden=False]
+    Latest Update: DEC 2023 BY PRAVIN NAIR
+[sp id=11 'Rectangle 10' pct=[64.44, 47.02, 89.14, 50.0] hidden=False]
+    Sand HUD @ 1676m MDTHF (Apr 2017) – 2.29” Gauge Ring
+[sp id=13353 'Rectangle 13352' pct=[-20.0, 34.33, 5.46, 46.19] hidden=False]
+    44ft Fish (125 wire + 20’ Toolstring Fish LIH (MA Plug + W1 RT + SSJ + 2’NRS + KJ + 5’NRS + KJ + 5’NRS + SJ + RS + Flo Petrol Cutter + Go-devil + Flo petrol cutter + 4’ drop bar (Top of Fish at 1616m WLTHF) – Mar 2019
+[sp id=14 'Rectangle 13' pct=[56.85, 38.57, 101.09, 41.54] hidden=False]
+    12 leak spots @ 645, 653.5, 670, 673.5, 820, 1027.7, 1036, 1026, 1545, 1611, 1708 & 1726 mMDTHF (MPLT Jan 2011)

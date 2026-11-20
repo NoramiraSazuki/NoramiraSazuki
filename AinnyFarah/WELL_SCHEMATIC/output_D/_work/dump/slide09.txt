@@ -1,0 +1,21 @@
+# slide 9 (slides/slide9.xml) hidden=False objects=17
+# notes: 'OP converted to WI - 2015\n\nOpen\n8'
+[pic id=6147074 'Picture 2' pct=[30.36, 0.0, 69.3, 99.23] hidden=False img=../media/image30.png]
+[sp id=8 'TextBox 7' pct=[63.99, 61.1, 68.64, 68.46] hidden=False]
+    OPENED
+[sp id=9 'TextBox 8' pct=[31.16, 43.03, 35.82, 50.39] hidden=False]
+    OPENED
+[sp id=12 'TextBox 11' pct=[63.99, 45.28, 68.64, 52.65] hidden=False]
+    CLOSED
+[sp id=13 'TextBox 12' pct=[64.04, 81.69, 68.7, 89.05] hidden=False]
+    CLOSED
+[sp id=15 'Line Callout 2 14' pct=[71.64, 70.77, 88.08, 77.69] hidden=False]
+    Set MA Plug at WP-1 Nipple to isolate E12/13. confirmed SSD#3 in open condition and SSD#1, #2 in closed condition. 
+[sp id=20 'Line Callout 2 19' pct=[71.64, 54.18, 88.08, 61.1] hidden=False]
+    Leak identified during PLT and MIT in Jun/Jul 2016, then packoff after ZOC to isolate E12/13
+[sp id=21 'Line Callout 2 20' pct=[71.64, 36.1, 88.08, 43.03] hidden=False]
+    Unable to retrieve DV @ SPM#3
+[sp id=22 'Oval 21' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    WI
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

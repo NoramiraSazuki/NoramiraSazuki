@@ -1,0 +1,40 @@
+WELL | D24ST2 | 24 | image65.png | WELL D-24ST2 : SINGLE WAG INJECTOR
+SRC | 24 | image65.png | visual transcription of the picture (x3 upscale; header text very small), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m-MDTHF')
+INFO | completionDate | June 2012
+INFO | rig | KM-1
+INFO | maxDeviation | 71.76 DEG @ 942.18 MD DF / 640.63 TVD DF
+INFO | tubing | 4 1/2" CS L-80 Lined wt GRE wt 25 Cr Completion Accessories RiceWarp Lower Completion
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single H-H Trim Christmas Tree
+INFO | completionFluid | 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | SINGLE WAG INJECTOR (Tubing STRING (WAG Injector))
+CASING | 9-5/8" 47 L-80 CS ?1493 | 9.625 | 47 | L-80 | ?1493 | m (datum not printed; digits very small)
+CASING | 7" Liner 29 L-80 CS TD | 7 | 29 | L-80 |  | DEPTH column 'TD' | 1323.53 | 7" Liner 1323.53 m-MDTHF (diagram label at the liner top)
+TUBING | 4 1/2" CS L-80 Lined wt GRE | 4.5 |  | L-80 | - |
+ROW | X | FLOW COUPLING | 222 |  |  |  | FLOW COUPLING - DDLAA BOX - TOP & BOTTOM | MIN ID / MAX OD columns empty | p1
+ROW | X | TRSSSV | 224 |  |  |  |  |  | p1
+ROW | X | FLOW COUPLING | 226 |  |  |  | FLOW COUPLING - DDLAA BOX - TOP & BOTTOM |  | p1
+ROW | X | SSD | 2278 |  |  |  | SSD - DDLAA BOX - TOP & BOTTOM |  | p1
+ROW | X | AHC Packer | 2280 |  |  |  | 7" x 4 1/2" AHC PACKER DDLAA BOX - TOP & BOTTOM |  | p2
+ROW | X | SSD | 2284 |  |  |  | SSD - DDLAA BOX - TOP & BOTTOM |  | p2
+ROW | X | AHC Packer | 2326 |  |  |  | 7" x 4 1/2" AHC PACKER DDLAA BOX - TOP & BOTTOM |  | p2
+ROW | X | Zone Master | 2332 |  |  |  | Zone Master - DDLAA BOX - TOP & BOTTOM | slide note: 'Retrieved Zonemaster #1 @ 2333m MDTHF to surface in Oct 2022' | p2
+ROW | X | AHC Packer | 2378 |  |  |  | 7" x 4 1/2" AHC PACKER DDLAA BOX - TOP & BOTTOM |  | p2
+ROW | X | Zone Master | 2396 |  |  |  | Zone Master - DDLAA BOX - TOP & BOTTOM | slide note: 'Retrieved Zonemaster #2 @ 2385m to surface in Oct 2022' | p2
+ROW | X | BULL PLUG - DDLAA BOX - TOP & BOTTOM |  |  |  |  |  | Remarks column at the bottom of the string, no depth printed | p2
+SHOE | 9-5/8" Casing Shoe | 1473.53 | MDTHF |  | 9-5/8" Casing Shoe 1473.53 m-MDTHF (diagram label)
+ZONE | E10/11 | 2286 | 2288 | MDTHF | E10/11 2286 – 2288 m-MDTHF | p2 | perf
+ZONE | E10/11 | 2293 | 2296 | MDTHF | 2293 – 2296 m-MDTHF | p2 | perf
+ZONE | E10/11 | 2308 | 2322 | MDTHF | 2308 – 2322 m-MDTHF | p2 | perf
+ZONE | E12/13A | 2334 | 2348 | MDTHF | E12/13A 2334 – 2348 m-MDTHF | p2 | perf
+ZONE | E12/13B | 2351 | 2369 | MDTHF | E12/13B 2351 – 2369 m-MDTHF | p2 | perf
+ZONE | E12/13C | 2371 | 2376 | MDTHF | E12/13C 2371 – 2376 m-MDTHF | p2 | perf
+ZONE | E14 | 2396 | 2412 | MDTHF | E14 2396 – 2412 m-MDTHF | p2 | perf
+PBTD | 2462.0 | MDTHF | PBTD 2462.0 m-MDTHF (header PBTD : 2482 M MD DF)
+TD | 2506 | MD DF | TD : 2506 M MD DF (header, small print)
+NOTE | picture | WATER DEPTH : 74.22 Meter; TUBING HANGER : 20 Meter; 'DOULINE 20' / 'Rice Wrap' bands beside the string; status boxes 'OPEN / WAG 17/MAR/2013' at each zone; 02/JUN/2013 MIT (waiting for report)
+NOTE | slide 24 | 'DO NOT DELETE REMARK: Zonemasters were retrieved & not set back in well as per SE Aiman post MPLT 2022'; LATEST UPDATE: OCTOBER 2022 BY PRAVIN NAIR
+ISSUE | Conflict | slide 24 obj #18/#13/#7 | both Zone Masters shown on the picture (2332, 2396) were retrieved in Oct 2022 per slide notes and not set back — kept from the picture (revision 2013) with this conflict flagged, not deleted
+ISSUE | Unclear | picture header | header text very small: 9-5/8" casing depth read '1493' (uncertain); TD 2506 / PBTD 2482 M MD DF read from small print
+ISSUE | Unclear | picture | MIN ID / MAX OD columns are empty for every row

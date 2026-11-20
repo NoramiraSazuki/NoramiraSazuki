@@ -1,0 +1,42 @@
+WELL | D3 | 3 | image12.png | WELL D-03 : SINGLE WATER INJECTOR (TYPE 1)
+SRC | 3 | image12.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 03 OCTOBER, 1995
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF, N-80 , TKC-4040
+INFO | xmas | INGRAM CACTUS, SINGLE 3-1/8" X 11", 3000 PSI
+INFO | packerFluid | 9.3 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 67.7 DEG
+INFO | rte | 14.93m
+INFO | completionType | SINGLE WATER INJECTOR (TYPE 1)
+CASING | 26"DRIVE PIPE A-36 CONN.202 PPF@185.5m-MDDF | 26 | 202 | A-36 | 185.5 | MDDF
+CASING | 18-5/8" X-56 cOND 87.5 ppf @ 640.0m-MDDF | 18.625 | 87.5 | X-56 | 640.0 | MDDF
+CASING | 13 3/8" K-55 SURF. 54.6 PPF, BUTT @ 1713 m MDDF | 13.375 | 54.6 | K-55 | 1713 | MDDF
+CASING | 9 5/8" N-80 PROD.40 PPF @ 2502.0 m MDDF | 9.625 | 40 | N-80 | 2502.0 | MDDF
+TUBING | 3-1/2" 9.2 PPF, N-80 , TKC-4040 | 3.5 | 9.2 | N-80 | - |
+ROW | X | FLOW COUPLING | 145.7 |  | 2.867 |  |  |  | p1
+ROW | X | TRDP-4A-LS- SCSSV | 146.5 |  | 2.812 |  |  |  | p1
+ROW | X | FLOW COUPLING | 149.8 |  | 2.867 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 299.8 |  | 2.812 |  |  |  | p1
+ROW | X | KBMM-M SPM | 635.3 |  | 2.992 |  | DV |  | p1
+ROW | X | 'CSW-1-DT' SSD | 2308.1 |  | 2.812 |  |  |  | p2
+ROW | X | CENTRALIZER | 2312.1 |  | 2.992 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY | 2313.7 |  | 2.867 |  |  |  | p2
+ROW | X | BAKER PERM. PACKER | 2315.0 |  | 2.992 |  |  | MIN ID printed 2.992" | p2
+ROW | X | SEAL BORE EXT | 2315.3 |  | 2.992 |  |  |  | p2
+ROW | X | END OF SEAL BORE EXT | 2319.0 |  | 2.992 |  |  |  | p2
+ROW | X | D' NO-GO NIPPLE W/2.69 ID | 2319.9 |  | 2.75 |  |  | CONFLICT: label states '2.69 ID', MIN ID column 2.75" — column value used, label kept in name | p2
+ROW | X | WEG | 2320.9 |  |  |  |  |  | p2
+ROW | X | END OF TUBING | 2321.1 |  | 2.992 |  |  |  | p2
+ZONE | E-10/11 | 2335 | 2340 | MDTHF | SAND E-10/11 2335 - 2340 (no unit/datum printed; SAND column under 'DEPTH m MDTHF') | p2 | perf
+ZONE | E-10/11 | 2342 | 2350.7 | MDTHF | 2342 -2350.7 | p2 | perf
+ZONE | E-10/11 | 2343 | 2351 | MDTHF | 2343 -2351 (overlaps the interval above) | p2 | perf
+ZONE | E-12/13 | 2363.8 | 2370 | MDTHF | SAND E-12/13 2363.8 - 2370 | p2 | perf
+ZONE | E-12/13 | 2372.5 | 2390.7 | MDTHF | 2372.5 - 2390.7 | p2 | perf
+ZONE | E-12/13 | 2405 | 2416 | MDTHF | 2405 - 2416 | p2 | perf
+PBTD | 2456.0 | MDTHF | PBTD @ 2456.0m-MDTHF (header: PBTD : 2471.0 m MDDF)
+TD | 2495 | MDTHF | TD @ 2495m-MDTHF
+NOTE | slide 3 obj #13 | Jun 19 || TRSV found out jammed open
+ISSUE | Conflict | picture header | labels swapped in the source: 'MAXIMUM DEVIATION : 14.93m' and 'RTE TO TUBING HANGER : 67.7 DEG' — mapped by unit (deviation = 67.7 DEG, RTE = 14.93 m), both recorded
+ISSUE | Unclear | picture p2 | zone intervals printed without unit/datum; read as m MDTHF from the depth column header; E-10/11 '2342 -2350.7' and '2343 -2351' overlap — kept as printed
+ISSUE | Unclear | picture p2 | PBTD on the diagram 2456.0 m-MDTHF vs header 2471.0 m MDDF (different datums, not compared) — diagram value used

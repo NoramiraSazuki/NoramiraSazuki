@@ -1,0 +1,61 @@
+WELL | A20 | 17 | image38.png + image39.png | WELL A-20: DUAL OIL PRODUCER IN 9 5/8" CASING (TYPE 5)
+SRC | 17 | image38.png + image39.png | visual transcription of the screenshot pictures (x3 upscale, upper part image38 / lower part image39)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 23 APRIL 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | INGRAM CACTUS, DUAL, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 23.4 DEG
+INFO | rte | 14.52 m
+INFO | completionType | DUAL OIL PRODUCER IN 9 5/8" CASING (TYPE 5)
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ MD mbrt | 18.625 | 87.5 | X-56 |  | MD mbrt
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ MD mbrt | 13.375 | 54.5 | K-55 |  | MD mbrt
+CASING | 9 5/8" N-80 PROD., 40 ppf @ MD mbrt | 9.625 | 40 | N-80 |  | MD mbrt
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (short string) | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (long string) | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 123.8 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 124.6 |  | 2.312 |  |  |  | p1
+ROW | S | FLOW COUPLING | 126.5 |  | 2.441 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 270.6 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 560.5 |  | 2.371 |  |  |  | p1
+ROW | S | KBMG-M SPM | 1241.3 |  | 2.371 |  |  |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 1250.5 |  | 2.441 |  |  | dual packer across both strings | p1
+ROW | S | 'D' NO-GO NIPPLE | 1254.3 |  | 2.250 |  |  |  | p1
+ROW | S | W/L ENTRY GUIDE | 1255.0 |  | 2.441 |  |  | end of string | p1
+ROW | L | FLOW COUPLING | 132.8 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 133.6 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 280.0 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 551.1 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 804.5 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 929.3 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1144.3 |  | 2.371 |  |  |  | p1
+ROW | L | KBMG-M SPM | 1232.6 |  | 2.371 |  |  |  | p1
+ROW | L | WPB-2DE SSD | 1242.3 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 1262.2 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | BLAST JOINT | 1265.8 | 1289.8 | 2.441 |  |  |  | p1
+ROW | L | 'WP1' NIPPLE | 1412.0 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 1416.4 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1417.9 |  | 2.441 |  |  |  | p2
+ROW | L | 9 5/8 BAKER 'DB' PERM. PKR | 1418.4 |  | 4.000 |  |  | upper of two stacked packers; label and depth in the short-string columns | p2
+ROW | L | SEAL BORE EXT. | 1423.5 |  | 4.000 |  |  | printed opposite the upper packer | p2
+ROW | L | 9 5/8 BAKER 'DB' PERM. PKR | 1421.5 |  | 4.000 |  |  | lower of two stacked packers; label and depth in the short-string columns | p2
+ROW | L | SEAL BORE EXT. | 1421.8 |  | 4.000 |  |  | printed opposite the lower packer | p2
+ROW | L | 'D' NO-GO NIPPLE | 1427.3 |  | 2.250 |  |  |  | p2
+ROW | L | WEG | 1427.9 |  | 2.441 |  |  | end of string | p2
+ZONE | E34 | 1445 |  | MDTHF | slide text box obj #46 'Add Perf (E34) 1445m MDTHF 19/APR/2007' (single depth; bottom not printed) | slide obj #46 | perf
+TD | 1505.5 | MDTHF | TD @ 1505.5 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+INT | WFT Slickplug set @ 126m MDTHF (Nov 2017) | 126 | MDTHF | 5
+INT | IV set @ TRSV profile (Jun 2022). TR flapper lock open in Sep 2013 |  |  | 13
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | picture p1/p2 | SAND : E-7 (beside the long-string blast joint) ; SAND : E-34 (beside the lower packers) — intervals not printed on the diagram
+NOTE | slide 17 obj #8 | OPEN (GI) 30/APR/1992 (beside SAND : E-7)
+NOTE | slide 17 obj #9 | OPEN 30/APR/1992 (beside SAND : E-34)
+NOTE | slide 17 obj #14 | No clear GLV data
+NOTE | slide 17 obj #60 | Packer Leak (Leakpoint survey 2011)
+NOTE | slide 17 obj #21 | Latest Update: JULY 2023 BY PRAVIN NAIR
+ISSUE | Missing | header | casing setting depths and PBTD blank on the schematic (unit printed 'MD mbrt')
+ISSUE | Unclear | picture p2 | stacked packers / seal bore extensions printed out of depth order (1418.4 / 1423.5 / 1421.5 / 1421.8) — kept as printed
+ISSUE | Unclear | slide 17 obj #46 | E34 add-perf: only the top depth 1445 m MDTHF printed — bottom left empty
+ISSUE | Unclear | slide 17 obj #13 | 'IV' (insert valve) at the TRSV profile — no depth printed

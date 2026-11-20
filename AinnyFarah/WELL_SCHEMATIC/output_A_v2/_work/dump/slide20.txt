@@ -1,0 +1,32 @@
+# slide 20 (slides/slide20.xml) hidden=False objects=23
+# notes: 'Open\n20'
+[sp id=18 'TextBox 17' pct=[85.56, 0.0, 100.52, 4.04] hidden=False]
+    FB – N3C
+[pic id=2050 'Picture 2' pct=[3.61, 3.64, 96.94, 47.8] hidden=False img=../media/image44.png]
+[pic id=2051 'Picture 3' pct=[4.23, 38.43, 96.33, 75.77] hidden=False img=../media/image45.png]
+[pic id=2052 'Picture 4' pct=[4.35, 74.21, 96.44, 96.97] hidden=False img=../media/image46.png]
+[sp id=16 'TextBox 15' pct=[6.94, 77.96, 35.83, 83.19] hidden=False]
+    Sand Screen Through Tubing (Length 15.83 m)
+[sp id=17 'TextBox 16' pct=[77.01, 73.69, 82.32, 75.96] hidden=False]
+    1961
+[sp id=19 'TextBox 18' pct=[57.57, 84.22, 66.67, 86.49] hidden=False]
+    END OF SAS
+[sp id=20 'TextBox 19' pct=[76.78, 84.44, 83.75, 86.71] hidden=False]
+    1976.83
+[sp id=23 'TextBox 22' pct=[4.58, 87.29, 39.29, 90.66] hidden=False]
+    Top of Cement 2018 mMDTHF
+[sp id=24 'TextBox 3' pct=[1.09, 1.21, 21.73, 3.56] hidden=False]
+    Latest Update: SEPT 2015
+[sp id=6 'Rectangle 5' pct=[57.57, 90.18, 79.29, 92.34] hidden=False]
+    HUD@1991m-MDTHF(25/6/17)
+[sp id=25 'Text Box 289' pct=[66.76, 94.19, 96.94, 99.31] hidden=False]
+    LAST ENTRY	: 29  Jun  2016
+    TYPE OF JOB	: A-23 : MPLT
+    UPDATED BY	: M Zhafran
+    DATE	: 4 Feb 2018
+[sp id=45 'TextBox 44' pct=[13.62, 23.14, 91.59, 61.17] hidden=False]
+    FOR A23ST2  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=26 'Footer Placeholder 25' pct=None hidden=False]
+    Open
+[pic id=2 'Picture 1' pct=[-108.65, 2.38, -9.03, 102.38] hidden=False img=../media/image47.emf]

@@ -1,0 +1,134 @@
+{
+ "slide": 17,
+ "file": "slides/slide17.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "Open\n16",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6155266",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5376069,
+   "y": 0,
+   "cx": 6858000,
+   "cy": 9906000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.53,
+    0.0,
+    69.47,
+    100.0
+   ],
+   "image": "../media/image51.png",
+   "crop": {
+    "l": "31130",
+    "t": "9391",
+    "r": "28900",
+    "b": "2675"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11000232,
+   "y": 6705601,
+   "cx": 1081437,
+   "cy": 533400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.47,
+    67.69,
+    68.61,
+    73.08
+   ],
+   "text": "2.30” GR Tag No Go Nipple\n\t(27/4/14)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "Rectangle 4",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11091069,
+   "y": 9640956,
+   "cx": 990600,
+   "cy": 237067,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.98,
+    97.32,
+    68.61,
+    99.72
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5823875,
+   "y": 7506222,
+   "cx": 861010,
+   "cy": 608711,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    33.07,
+    75.77,
+    37.96,
+    81.92
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "33CC33"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

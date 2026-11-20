@@ -1,0 +1,39 @@
+# slide 3 (slides/slide3.xml) hidden=False objects=17
+# notes: 'Open\n3'
+[pic id=10242 'Picture 1' pct=[6.67, 7.74, 93.22, 94.92] hidden=False img=../media/image3.jpeg]
+[graphicFrame id=5 'Table 4' pct=[61.81, 87.48, 88.5, 93.48] hidden=False]
+    | 8/8/2015 |  | 
+    | FGS | TOP GAUGE | BTM GAUGE
+    | Max. Pres.( psi) | 1078.044 | 1078.934
+    | Max. Temp ( ºF) | 102.305 | 102.981
+[sp id=2 'TextBox 1' pct=[8.89, 88.49, 22.57, 90.38] hidden=False]
+    5/4/18  : set PXN plug
+[sp id=10267 'Text Box 303' pct=[67.71, 31.35, 90.72, 32.05] hidden=False]
+    DV ( GLVC on 8/9/2020)
+[sp id=10272 'TextBox 14' pct=[72.16, 79.48, 84.16, 81.52] hidden=False]
+    OPEN Oct 2017
+[sp id=20 'Text Box 303' pct=[67.66, 32.55, 90.67, 33.25] hidden=False]
+    DV ( GLVC on 8/9/2020)
+[sp id=21 'Text Box 303' pct=[67.66, 33.62, 90.67, 34.33] hidden=False]
+    DV ( GLVC on 8/9/2020)
+[sp id=22 'Text Box 303' pct=[67.66, 36.27, 90.67, 36.97] hidden=False]
+    DV ( GLVC on 8/9/2020)
+[sp id=23 'Text Box 303' pct=[67.66, 34.71, 90.67, 35.42] hidden=False]
+    Ori 16/64 ( GLVC on 8/9/2020)
+[sp id=24 'TextBox 23' pct=[55.37, 74.13, 68.52, 78.79] hidden=False]
+    1949m-MDTHF HUD dt sand (11 March 2020)
+[sp id=4 'Footer Placeholder 3' pct=None hidden=False]
+    Open
+[sp id=6 'TextBox 14' pct=[71.79, 66.19, 83.79, 68.23] hidden=False]
+    OPEN Oct 2020
+[sp id=7 'TextBox 14' pct=[71.85, 73.24, 79.69, 75.28] hidden=False]
+    CLOSED
+[sp id=8 'TextBox 14' pct=[43.25, 24.57, 55.25, 26.13] hidden=False]
+    FXE IV – 22/09/2024 
+[sp id=9 'TextBox 14' pct=[71.79, 58.54, 83.79, 60.57] hidden=False]
+    OPEN Oct 2017
+[sp id=10 'Text Box 289' pct=[8.17, 94.97, 54.26, 98.27] hidden=False]
+    LAST ENTRY	: TS, 28 May 2022, before last final entry in 2024 to set FXE IV
+    TYPE OF JOB	: Downhole sample collection
+    HUD	: 2.29” GR, 1991 m-WLTHF
+    UPDATED BY	: Wong Hong Pei – 15 May 2025

@@ -1,0 +1,35 @@
+# slide 2 (slides/slide2.xml) hidden=False objects=16
+# notes: 'Open\n2'
+[pic id=3074 'Picture 2' pct=[4.43, 1.67, 96.67, 64.67] hidden=False img=../media/image4.png]
+[pic id=3075 'Picture 3' pct=[3.33, 64.67, 94.47, 91.67] hidden=False img=../media/image5.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=23 'TextBox 22' pct=[85.56, 34.64, 100.0, 36.82] hidden=False]
+    BK2 latch  (Oct/07)
+[sp id=24 'TextBox 23' pct=[85.55, 37.81, 98.41, 40.0] hidden=False]
+    DV             (Apr/08)
+[sp id=33 'TextBox 32' pct=[85.56, 36.2, 98.91, 38.39] hidden=False]
+    GLV             (Oct/07)
+[sp id=34 'TextBox 33' pct=[85.56, 39.47, 98.6, 41.65] hidden=False]
+    GLV            (Oct/07)
+[sp id=14 'Rectangle 13' pct=[5.95, 55.83, 34.05, 61.35] hidden=False]
+    E12/13 –  1906- 1916
+[sp id=15 'Rectangle 14' pct=[5.95, 81.24, 34.05, 85.0] hidden=False]
+    E14 –  1933- 1954
+[sp id=17 'TextBox 16' pct=[0.0, 39.3, 8.14, 48.55] hidden=False]
+    TOF 1045 mMDTHF
+    3/6/2013
+    (bottom part of tubing stop)
+[sp id=4 'TextBox 3' pct=[86.09, 30.8, 100.0, 36.52] hidden=False]
+    set CS plug at TRDP-4A SCSSV @ 139m-mdthf. 
+    (13/5/2015)
+[sp id=27 'Text Box 289' pct=[67.79, 90.95, 95.57, 96.33] hidden=False]
+    LAST ENTRY	: 13 Jun 2015
+    TYPE OF JOB	: A-04L : MPLT
+    UPDATED BY	: Ariff Shazwan
+    DATE	: 22 July 2018
+[sp id=2 'TextBox 1' pct=[0.85, 22.64, 98.9, 60.68] hidden=False]
+    FOR A04ST1  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=11 'Footer Placeholder 10' pct=None hidden=False]
+    Open

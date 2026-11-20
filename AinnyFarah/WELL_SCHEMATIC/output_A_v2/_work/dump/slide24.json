@@ -1,0 +1,631 @@
+{
+ "slide": 24,
+ "file": "slides/slide24.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n24",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "TextBox 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6553200,
+   "y": 8839200,
+   "cx": 250390,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    95.56,
+    96.67,
+    99.21,
+    99.36
+   ],
+   "text": "9",
+   "geom": "rect"
+  },
+  {
+   "kind": "grpSp",
+   "id": "3",
+   "name": "Group 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -282688,
+   "y": 117902,
+   "cx": 7140688,
+   "cy": 8189293,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -4.12,
+    1.29,
+    100.0,
+    90.85
+   ]
+  },
+  {
+   "kind": "grpSp",
+   "id": "6",
+   "name": "Group 5",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 374791,
+   "cx": 6400800,
+   "cy": 7932404,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    4.1,
+    96.67,
+    90.85
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "6146",
+   "name": "Picture 2",
+   "path": [
+    "Group 2",
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 374791,
+   "cx": 6400800,
+   "cy": 5283336,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    4.1,
+    96.67,
+    61.88
+   ],
+   "image": "../media/image53.png",
+   "crop": {
+    "l": "28889",
+    "t": "9778",
+    "r": "21111",
+    "b": "10889"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "6147",
+   "name": "Picture 3",
+   "path": [
+    "Group 2",
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 5609502,
+   "cx": 6400800,
+   "cy": 2697693,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    61.35,
+    96.67,
+    90.85
+   ],
+   "image": "../media/image54.png",
+   "crop": {
+    "l": "28889",
+    "t": "46444",
+    "r": "21111",
+    "b": "13048"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5831757,
+   "y": 543502,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.04,
+    5.94,
+    100.0,
+    9.98
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 285750,
+   "y": 3467100,
+   "cx": 609600,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.17,
+    37.92,
+    13.06,
+    39.94
+   ],
+   "text": "DV - 2014",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 292701,
+   "y": 3599051,
+   "cx": 531796,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.27,
+    39.36,
+    12.02,
+    41.38
+   ],
+   "text": "DV - 2021",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 96253,
+   "y": 3884860,
+   "cx": 914400,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.4,
+    42.49,
+    14.74,
+    44.5
+   ],
+   "text": "GLOV (12/64”) - 2021",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Rectangle 12",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 189518,
+   "y": 117902,
+   "cx": 3429000,
+   "cy": 253916,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.76,
+    1.29,
+    52.76,
+    4.07
+   ],
+   "text": "LAST UPDATED: PRAVIN NAIR APR 2023",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "4",
+   "name": "Rectangle 3",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3147460,
+   "y": 3114976,
+   "cx": 198120,
+   "cy": 83820,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.89,
+    34.07,
+    48.78,
+    34.98
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 101600,
+   "y": 2586789,
+   "cx": 1257300,
+   "cy": 415498,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.48,
+    28.29,
+    19.81,
+    32.83
+   ],
+   "text": "‘B’ Tubing stop & storm choke set at TRSV. TR Flapper lock open in Jun 2014",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "33",
+   "name": "TextBox 32",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -88899,
+   "y": 3754451,
+   "cx": 1016000,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -1.3,
+    41.06,
+    13.52,
+    43.08
+   ],
+   "text": "GLV (12/64”) 915psi - 2021",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "56",
+   "name": "Graphic 55",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 3162359,
+   "y": 4178306,
+   "cx": 162687,
+   "cy": 162687,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.11,
+    45.69,
+    48.48,
+    47.47
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "58",
+   "name": "TextBox 57",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 625642,
+   "y": 4231106,
+   "cx": 1800058,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.12,
+    46.27,
+    35.37,
+    49.3
+   ],
+   "text": "HUD @ 2378m MDTHF with 2.29” GR / 2” LIB. Impression tubing parted / SSD profile (Nov 2022)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "6152",
+   "name": "Picture 6151",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": -282688,
+   "y": 4109622,
+   "cx": 565376,
+   "cy": 589378,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -4.12,
+    44.94,
+    4.12,
+    51.39
+   ],
+   "image": "../media/image55.png"
+  },
+  {
+   "kind": "pic",
+   "id": "6156",
+   "name": "Graphic 6155",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 3352859,
+   "y": 6426206,
+   "cx": 162687,
+   "cy": 162687,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.89,
+    70.28,
+    51.26,
+    72.06
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "6157",
+   "name": "TextBox 6156",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1397000,
+   "y": 6377407,
+   "cx": 1530350,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    20.37,
+    69.74,
+    42.69,
+    72.77
+   ],
+   "text": "2.29” Gauge Ring HUD at 2522m MDTHF, suspected due to high well deviation",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "6167",
+   "name": "Rectangle 6166",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3515760,
+   "y": 3108626,
+   "cx": 198120,
+   "cy": 83820,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.27,
+    34.0,
+    54.15,
+    34.91
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "6169",
+   "name": "TextBox 6168",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5499100,
+   "y": 2567739,
+   "cx": 1358900,
+   "cy": 415498,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    80.19,
+    28.08,
+    100.0,
+    32.63
+   ],
+   "text": "‘B’ Tubing stop & storm choke (70psi) set at TRSV. TR Flapper lock open in Apr 2015",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "6177",
+   "name": "TextBox 6176",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5943600,
+   "y": 3867927,
+   "cx": 914400,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.67,
+    42.3,
+    100.0,
+    44.32
+   ],
+   "text": "GLOV (16/64”) - 2019",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6179",
+   "name": "TextBox 6178",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6070599,
+   "y": 3732460,
+   "cx": 592667,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.52,
+    40.82,
+    97.16,
+    42.84
+   ],
+   "text": "DV- 2019",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6183",
+   "name": "TextBox 6182",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6079065,
+   "y": 3571593,
+   "cx": 567267,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.64,
+    39.06,
+    96.91,
+    41.08
+   ],
+   "text": "DV- 2019",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "6186",
+   "name": "TextBox 6185",
+   "path": [
+    "Group 2"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6070598,
+   "y": 3419193,
+   "cx": 567267,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.52,
+    37.39,
+    96.79,
+    39.41
+   ],
+   "text": "DV- 2019",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "Footer Placeholder 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "slide": 30,
+ "file": "slides/slide30.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9906000
+ ],
+ "notes": "",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Footer Placeholder 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2357120,
+   "y": 4032607,
+   "cx": 4236720,
+   "cy": 430887,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    34.37,
+    40.71,
+    96.15,
+    45.06
+   ],
+   "text": "C30 doesn’t exist",
+   "geom": "rect"
+  }
+ ]
+}

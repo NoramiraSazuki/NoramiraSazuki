@@ -1,0 +1,39 @@
+# slide 30 (slides/slide30.xml) hidden=False objects=24
+# notes: 'Open\n30'
+[pic id=1026 'Picture 2' pct=[3.33, 1.67, 96.67, 66.53] hidden=False img=../media/image70.png]
+[pic id=1027 'Picture 3' pct=[3.33, 65.92, 96.67, 91.67] hidden=False img=../media/image71.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE2
+[sp id=7 'TextBox 6' pct=[19.61, 83.06, 28.31, 85.75] hidden=False]
+    CLOSED
+[sp id=10 'TextBox 9' pct=[5.03, 45.01, 25.68, 49.05] hidden=False]
+    Tubing leak detected at 1089, 1552.7 & 1588.6 Mmdthf from Leak Point survey (Nov 2021)
+[sp id=12 'TextBox 3' pct=[1.08, 1.21, 24.6, 3.56] hidden=False]
+    Latest Update: 29 August 2017
+[sp id=16 'TextBox 15' pct=[107.95, 65.18, 121.91, 69.56] hidden=False]
+    SSD#1 CLOSED
+    9/4/17
+[sp id=20 'TextBox 19' pct=[51.04, 64.9, 70.12, 67.6] hidden=False]
+    OPEN/CLOSED (TBC)
+[sp id=21 'TextBox 20' pct=[54.18, 75.66, 70.7, 80.04] hidden=False]
+    2.25” CA Plug (Aug 2016)
+[sp id=22 'TextBox 21' pct=[43.94, 51.9, 67.78, 56.27] hidden=False]
+    SPM #3 (Orifice. 10/64”)
+    4/11/17
+[sp id=23 'TextBox 22' pct=[46.16, 39.76, 70.0, 44.14] hidden=False]
+    SPM #2 (10/64.Ptro=1054)
+    4/11/17
+[sp id=24 'TextBox 23' pct=[46.41, 34.4, 70.25, 38.77] hidden=False]
+    SPM #1 (Dummy)
+    4/11/17
+[sp id=39 'TextBox 38' pct=[43.83, 9.26, 60.62, 11.95] hidden=False]
+    RKB-THF= 15.37m
+[sp id=61 'TextBox 60' pct=[50.79, 58.79, 60.37, 61.48] hidden=False]
+    CLOSED
+[sp id=1030 'TextBox 1029' pct=[21.65, 69.62, 29.14, 72.32] hidden=False]
+    OPEN
+[sp id=3 'TextBox 2' pct=[1.96, 11.04, 100.0, 49.07] hidden=False]
+    FOR A33ST3  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-
+[sp id=15 'Footer Placeholder 14' pct=None hidden=False]
+    Open

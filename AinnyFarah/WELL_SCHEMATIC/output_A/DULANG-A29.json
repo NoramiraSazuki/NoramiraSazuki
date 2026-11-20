@@ -1,0 +1,52 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A29",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a29-01",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 564.304,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 172.0,
+      "bottomMdM": null,
+      "source": "PDF page 26: 'FLOW COUPLING' @ 172 (read identically in OCR passes ab; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 172 m -> 564.304 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a29-02",
+      "type": "packer",
+      "name": "PACKER",
+      "topMd": 190.289,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 58.0,
+      "bottomMdM": null,
+      "source": "PDF page 26: 'PACKER' @ 58 (read identically in OCR passes ab; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 58 m -> 190.289 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

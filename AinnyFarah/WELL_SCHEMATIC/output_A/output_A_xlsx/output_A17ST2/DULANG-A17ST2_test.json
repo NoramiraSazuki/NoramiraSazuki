@@ -1,0 +1,390 @@
+{
+  "wellInfo": {
+    "completionDate": "2020-05-30",
+    "completionFluid": "8.5 PPG NaCl (+ 3% KCl) filtered to 30 NTU",
+    "completionType": "Single string",
+    "groundElevation": null,
+    "kbElevation": 108.268,
+    "maxDeviation": "80.3 deg",
+    "name": "DULANG-A17ST2",
+    "packerFluid": "8.5 PPG NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CORROSION INHIBITOR)",
+    "rig": "SAPURA BERANI",
+    "surfaceCasing": "-",
+    "totalDepth": 7490.157,
+    "trajectoryType": "Deviated",
+    "tubing": "3-1/2\" 9.2 PPF HP2-13CR-95 JFEBEAR; 3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR",
+    "wellhead": "SOLAR ALERT"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "conductor",
+      "type": "casing",
+      "name": "CONDUCTOR (EXISTING)",
+      "topMd": null,
+      "bottomMd": 597.113,
+      "outerDiameter": 26,
+      "innerDiameter": null,
+      "weight": 202.0,
+      "grade": "A-36",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name P9; bottomMd AB9=182.0 m MDDF; outerDiameter V9 '26\"'; weight X9; grade Y9; casing-table 'DEPTH' value mapped to bottomMd as the setting (shoe) depth — interpretation, review"
+    },
+    {
+      "id": "int-casing",
+      "type": "casing",
+      "name": "INT. CASING (EXISTING)",
+      "topMd": null,
+      "bottomMd": 1381.234,
+      "outerDiameter": 13.375,
+      "innerDiameter": null,
+      "weight": 54.5,
+      "grade": "K-55",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name P10; bottomMd AB10=421.0 m MDDF; outerDiameter V10 '13-3/8\"'; weight X10; grade Y10; casing-table 'DEPTH' value mapped to bottomMd as the setting (shoe) depth — interpretation, review"
+    },
+    {
+      "id": "casing",
+      "type": "casing",
+      "name": "CASING (EXISTING)",
+      "topMd": null,
+      "bottomMd": 4963.911,
+      "outerDiameter": 9.625,
+      "innerDiameter": null,
+      "weight": 43.5,
+      "grade": "L-80",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name P11; bottomMd AB11=1513.0 m MDDF; outerDiameter V11 '9-5/8\"'; weight X11; grade Y11; casing-table 'DEPTH' value mapped to bottomMd as the setting (shoe) depth — interpretation, review"
+    },
+    {
+      "id": "liner-7",
+      "type": "liner",
+      "name": "LINER",
+      "topMd": 1476.378,
+      "bottomMd": 7490.157,
+      "outerDiameter": 7,
+      "innerDiameter": null,
+      "weight": 29.0,
+      "grade": "L-80",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name P13; topMd K34=450.0 m MDDF; bottomMd AB13=2283.0 m MDDF; outerDiameter V13 '7\"'; weight X13; grade Y13; top = diagram label F34 ' TOL (7\" LINER)' / K34; bottom = header AB13 (formula =K110, i.e. set equal to TD) — casing-table 'DEPTH' value mapped to bottomMd as the setting (shoe) depth — interpretation, review"
+    },
+    {
+      "id": "tubing-upper",
+      "type": "tubing",
+      "name": "3-1/2\", 9.2#, HP2-13CR-95, JFE Bear",
+      "topMd": null,
+      "bottomMd": 822.631,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "grade": "HP2-13CR-95",
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "bottomMd DERIVED: header row 14 DEPTH = formula =S30 (TRSV) and label U25 'From Tubing Hanger to TRSV'",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U26; bottomMd AB14=250.738 m MDDF; outerDiameter V14 '3-1/2\"'; weight X14; grade Y14; header tubing row 14; top (tubing hanger depth) not printed"
+    },
+    {
+      "id": "tubing-lower",
+      "type": "tubing",
+      "name": "3-1/2\" 9.2 PPF 13CR-L80 JFEBEAR",
+      "topMd": 822.631,
+      "bottomMd": null,
+      "outerDiameter": 3.5,
+      "innerDiameter": null,
+      "weight": 9.2,
+      "grade": "13CR-L80",
+      "estimated": true,
+      "estimatedFields": [
+        "topMd"
+      ],
+      "estimationNote": "topMd DERIVED: upper tubing ends at TRSV (U25); header AB15 formula =ROUNDUP(S71-S30,0) starts at S30",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name V15+X15+Y15+Z15; topMd S30=250.738 m MDDF; outerDiameter V15 '3-1/2\"'; weight X15; grade Y15; header tubing row 15 (no diagram label; name = header cells joined); bottom NOT mapped — conflicting candidates, see report"
+    },
+    {
+      "id": "tubing-hanger",
+      "type": "tubing-hanger",
+      "name": "3-1/2\" SINGLE STRING TUBING HANGER",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U21"
+    },
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT, 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.141,
+      "innerDiameter": 2.88,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U29; outerDiameter AB29; innerDiameter Z29"
+    },
+    {
+      "id": "trsv",
+      "type": "trsv",
+      "name": "TRMAXX-5E, 3-1/2 9.2# JFEBEAR B X P, 2.812 X-TYPE, 13CR-L80",
+      "topMd": 822.631,
+      "bottomMd": null,
+      "outerDiameter": 5.0,
+      "innerDiameter": 2.812,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U30; topMd S30=250.738 m MDDF; outerDiameter AB30; innerDiameter Z30"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING, 3-1/2 9.2# JFEBEAR B X P, 3FT 13CR-L80",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.141,
+      "innerDiameter": 2.88,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U31; outerDiameter AB31; innerDiameter Z31"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV  : Dummy - Change out made on 20.10.2021)",
+      "topMd": 2721.745,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U42; topMd S42=829.588 m MDDF; outerDiameter AB42; innerDiameter Z42"
+    },
+    {
+      "id": "spm-dial-1",
+      "type": "spm",
+      "name": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "topMd": 3835.397,
+      "bottomMd": null,
+      "outerDiameter": 5.15,
+      "innerDiameter": 2.963,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: 'AUTO SPM DIAL' is a side-pocket mandrel variant -> SPM (Gas Lift)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U44; topMd S44=1169.029 m MDDF; outerDiameter AB44; innerDiameter Z44"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV: 8/64\" PTRO: 1045 psi SN: PMA-DUL- IPO-0005)",
+      "topMd": 3910.702,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U46; topMd S46=1191.982 m MDDF; outerDiameter AB46; innerDiameter Z46"
+    },
+    {
+      "id": "spm-dial-2",
+      "type": "spm",
+      "name": "3-1/2\" AUTO SPM DIAL (JAMMED CLOSE)",
+      "topMd": 5939.797,
+      "bottomMd": null,
+      "outerDiameter": 5.15,
+      "innerDiameter": 2.963,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: 'AUTO SPM DIAL' is a side-pocket mandrel variant -> SPM (Gas Lift)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U48; topMd S48=1810.45 m MDDF; outerDiameter AB48; innerDiameter Z48"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM (GLV: Empty - recovered DV but NOT ABLE to set GLOV 10/64\"  due to low RW - high angle)",
+      "topMd": 6013.061,
+      "bottomMd": null,
+      "outerDiameter": 5.23,
+      "innerDiameter": 2.9,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U50+U51; topMd S50=1832.781 m MDDF; outerDiameter AB50; innerDiameter Z50; name continues on U51 (same sentence)"
+    },
+    {
+      "id": "ahr-packer",
+      "type": "packer",
+      "name": "7 X 3-1/2 AHR PACKER, 3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 6079.783,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.897,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U59; topMd S59=1853.118 m MDDF; outerDiameter AB59; innerDiameter Z59"
+    },
+    {
+      "id": "landing-nipple",
+      "type": "landing-nipple",
+      "name": "LANDING NIPPLE, 2.813 OSX,  3-1/2 9.2# JFEBEAR B X P, 13CR-L80",
+      "topMd": 6145.715,
+      "bottomMd": null,
+      "outerDiameter": 4.04,
+      "innerDiameter": 2.813,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U62; topMd S62=1873.214 m MDDF; outerDiameter AB62; innerDiameter Z62"
+    },
+    {
+      "id": "mule-shoe",
+      "type": "mule-shoe",
+      "name": "SELF ALIGN MULE SHOE, 3-1/2 9.2# VAMTOP SC80 PIN, 13CR-L80",
+      "topMd": 6271.457,
+      "bottomMd": null,
+      "outerDiameter": 3.86,
+      "innerDiameter": 3.05,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U68; topMd S68=1911.54 m MDDF; outerDiameter AB68; innerDiameter Z68"
+    },
+    {
+      "id": "vch-packer",
+      "type": "packer",
+      "name": "VCH PACKER, 7\" 26 - 29#, 13CR-L80, HNBR, 10KSI RATING",
+      "topMd": 6266.23,
+      "bottomMd": null,
+      "outerDiameter": 6.015,
+      "innerDiameter": 3.88,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U71; topMd S71=1909.947 m MDDF; outerDiameter AB71; innerDiameter Z71"
+    },
+    {
+      "id": "mcsz-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "topMd": 6303.031,
+      "bottomMd": null,
+      "outerDiameter": 5.735,
+      "innerDiameter": 2.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: closing sleeve (shifts to open/close ports) -> Sliding Sleeve is the closest type",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U73; topMd S73=1921.164 m MDDF; outerDiameter AB73; innerDiameter Z73"
+    },
+    {
+      "id": "screen-1-top-joint",
+      "type": "screen",
+      "name": "TOP JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6355.761,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U75; topMd S75=1937.236 m MDDF; outerDiameter AB75; innerDiameter Z75"
+    },
+    {
+      "id": "screen-1-production-joint",
+      "type": "screen",
+      "name": "PRODUCTION JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6385.627,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U77; topMd S77=1946.339 m MDDF; outerDiameter AB77; innerDiameter Z77"
+    },
+    {
+      "id": "fcs-1",
+      "type": "circulating-valve",
+      "name": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "topMd": 6415.499,
+      "bottomMd": null,
+      "outerDiameter": 5.05,
+      "innerDiameter": 2.87,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: 'FRACTURE / CIRCULATION SLEEVE' -> Circulating Valve (closest by 'circulation'; Sliding Sleeve also possible)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U79; topMd S79=1955.444 m MDDF; outerDiameter AB79; innerDiameter Z79"
+    },
+    {
+      "id": "tnt-isolation-packer",
+      "type": "packer",
+      "name": "TNT PERMA-SERIES® ISOLATION PACKER, 13CR FLOW-WET, HNBR, 7KSI RATING",
+      "topMd": 6420.125,
+      "bottomMd": null,
+      "outerDiameter": 5.875,
+      "innerDiameter": 3.875,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U83; topMd S83=1956.854 m MDDF; outerDiameter AB83; innerDiameter Z83"
+    },
+    {
+      "id": "mcsz-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "MCSZ CLOSING SLEEVE, 13CR, 10KSI RATING",
+      "topMd": 6450.043,
+      "bottomMd": null,
+      "outerDiameter": 5.735,
+      "innerDiameter": 2.75,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: closing sleeve (shifts to open/close ports) -> Sliding Sleeve is the closest type",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U88; topMd S88=1965.973 m MDDF; outerDiameter AB88; innerDiameter Z88"
+    },
+    {
+      "id": "screen-2-top-joint",
+      "type": "screen",
+      "name": "TOP JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6469.045,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U90; topMd S90=1971.765 m MDDF; outerDiameter AB90; innerDiameter Z90"
+    },
+    {
+      "id": "screen-2-production-joint",
+      "type": "screen",
+      "name": "PRODUCTION JOINT PG WRAP MODULAR SCREEN",
+      "topMd": 6498.911,
+      "bottomMd": null,
+      "outerDiameter": 4.301,
+      "innerDiameter": 2.918,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U92; topMd S92=1980.868 m MDDF; outerDiameter AB92; innerDiameter Z92"
+    },
+    {
+      "id": "fcs-2",
+      "type": "circulating-valve",
+      "name": "\"FCS\" FRACTURE / CIRCULATION SLEEVE, 13CR",
+      "topMd": 6528.776,
+      "bottomMd": null,
+      "outerDiameter": 5.05,
+      "innerDiameter": 2.87,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type is the closest available: 'FRACTURE / CIRCULATION SLEEVE' -> Circulating Valve (closest by 'circulation'; Sliding Sleeve also possible)",
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U94; topMd S94=1989.971 m MDDF; outerDiameter AB94; innerDiameter Z94"
+    },
+    {
+      "id": "sump-seal-assembly",
+      "type": "seal-assembly",
+      "name": "SUMP SEAL ASSEMBLY, For 3.88\" Bore Packer, 13CR, HNBR",
+      "topMd": 6537.47,
+      "bottomMd": null,
+      "outerDiameter": 5.613,
+      "innerDiameter": 2.75,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U98; topMd S98=1992.621 m MDDF; outerDiameter AB98; innerDiameter Z98"
+    },
+    {
+      "id": "awv-sump-packer",
+      "type": "packer",
+      "name": "AWV SUMP PACKER , 7 \" 26 - 32#, 13CR-80, HNBR, 10KSI RATING",
+      "topMd": 6535.433,
+      "bottomMd": null,
+      "outerDiameter": 5.875,
+      "innerDiameter": 3.88,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name U99; topMd S99=1992.0 m MDDF; outerDiameter AB99; innerDiameter Z99"
+    },
+    {
+      "id": "pbtd",
+      "type": "pbtd",
+      "name": "PBTD",
+      "topMd": 7352.362,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "Dulang A17ST2 Well Schematic updated .xlsx > sheet 'OP5 single A17 DIAL eSTMZ FID' > name I108; topMd K108=2241.0 m MDDF"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

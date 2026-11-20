@@ -1,0 +1,710 @@
+{
+  "wellInfo": {
+    "completionDate": "6 MARCH 1991",
+    "completionFluid": "-",
+    "completionType": "DUAL OIL PRODUCER WITH LONG STRING SELECTIVE (TYPE 6)",
+    "groundElevation": 0,
+    "kbElevation": 0,
+    "maxDeviation": "62.3 DEG",
+    "name": "DULANG-A2",
+    "packerFluid": "9.0 PPG3% KCI + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR",
+    "rig": "TIOMAN 1",
+    "surfaceCasing": "13 3/8\" K-55 SURF., 54.5 ppf @ 1172 m MDDF",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "2 7/8\" 6.5 PPF N-80 NK3SB",
+    "wellhead": "INGRAM CACTUS, DUAL, 3M"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "casing-conductor",
+      "type": "casing",
+      "name": "18 5/8\" X-56 COND.",
+      "topMd": null,
+      "bottomMd": 592.0,
+      "outerDiameter": 18.625,
+      "innerDiameter": null,
+      "grade": "X-56",
+      "weight": 87.5,
+      "estimated": true,
+      "estimatedFields": [
+        "outerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: fraction of '18 _/_\"' illegible in all readings; 18-5/8 is the standard size for 87.5 ppf X-56 conductor",
+      "source": "PDF page 3 (label 'WELL A-2'): Header 'CASING:' line 1 — '18 ?/?\" X-56 COND. 87.5 ppf @ 592 m MDDF'; grade, weight, shoe depth DIRECT (11-14 readings); top not printed; depth reference m MDDF (as printed in the header; different reference from the m MDTHF equipment depths — not shifted); depths in metres as printed (no conversion)",
+      "actualType": "18 5/8\" X-56 COND."
+    },
+    {
+      "id": "casing-surface",
+      "type": "casing",
+      "name": "13 3/8\" K-55 SURF.",
+      "topMd": null,
+      "bottomMd": 1172.0,
+      "outerDiameter": 13.375,
+      "innerDiameter": null,
+      "grade": "K-55",
+      "weight": 54.5,
+      "estimated": true,
+      "estimatedFields": [
+        "outerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: fraction of '13 _/_\"' illegible; 13-3/8 is the standard size for 54.5 ppf K-55",
+      "source": "PDF page 3 (label 'WELL A-2'): Header 'CASING:' line 2 — '13 ?/?\" K-55 SURF., 54.5 ppf @ 1172 m MDDF'; grade, weight, shoe depth DIRECT; top not printed; depth reference m MDDF (as printed in the header; different reference from the m MDTHF equipment depths — not shifted); depths in metres as printed (no conversion)",
+      "actualType": "13 3/8\" K-55 SURF."
+    },
+    {
+      "id": "casing-production",
+      "type": "casing",
+      "name": "9 5/8\" N-80 PROD.",
+      "topMd": null,
+      "bottomMd": 2150.0,
+      "outerDiameter": 9.625,
+      "innerDiameter": null,
+      "grade": "N-80",
+      "weight": 40,
+      "estimated": true,
+      "estimatedFields": [
+        "outerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: fraction of '9 _/_\"' illegible; 9-5/8 is the standard size for 40 ppf N-80",
+      "source": "PDF page 3 (label 'WELL A-2'): Header 'CASING:' line 3 — '9 ?/?\" N-80 PROD., 40 ppf @ 2150 m MDDF'; diagram bottom label '9 ?/?\" CASING SHOE' (no depth on the label); top not printed; depth reference m MDDF (as printed in the header; different reference from the m MDTHF equipment depths — not shifted); depths in metres as printed (no conversion)",
+      "actualType": "9 5/8\" N-80 PROD."
+    },
+    {
+      "id": "tubing",
+      "type": "tubing",
+      "name": "2 7/8\" 6.5 PPF N-80 NK3SB",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 2.875,
+      "innerDiameter": null,
+      "grade": "N-80",
+      "weight": 6.5,
+      "estimated": true,
+      "estimatedFields": [
+        "outerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: fraction of '2 _/_\"' illegible; 2-7/8 is the standard size for 6.5 ppf N-80 tubing",
+      "string": "Short & Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Header 'TUBING :' — '6.5 PPF N-80 NK3SB' DIRECT (12-14 readings; 'N-60' once); one spec printed for the dual completion -> string 'Short & Long' (ASSUMED applies to both); no tubing depths printed",
+      "actualType": "2 7/8\" 6.5 PPF N-80 NK3SB"
+    },
+    {
+      "id": "xmas-tree",
+      "type": "christmas-tree",
+      "name": "INGRAM CACTUS, DUAL, 3M",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3 (label 'WELL A-2'): Header 'X-MAS TREE:' — DIRECT (12 readings); no depth",
+      "actualType": "INGRAM CACTUS, DUAL, 3M"
+    },
+    {
+      "id": "s-flow-coupling",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 132.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string row 1 — DIRECT; ID from the 'MIN ID' column; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "FLOW COUPLING"
+    },
+    {
+      "id": "s-scssv",
+      "type": "scssv",
+      "name": "TRDP-4A SCSSV",
+      "topMd": 133.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string row 2 — depth/ID DIRECT; name INTERPRETED: short-side readings 'TROP-4A' (4) / 'TRDOP-4A', long side 'TRDP-4A' (3) — same model assumed; typed box at the left of rows 2-3: '2.31” CSA Plug (Feb 2023)' (see s-csa-plug); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "TRDP-4A SCSSV"
+    },
+    {
+      "id": "s-wp1-nipple",
+      "type": "landing-nipple",
+      "name": "WP-1 NIPPLE",
+      "topMd": 182.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; WP-1 nipple -> landing-nipple",
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string row 3 — DIRECT ('WP-1' 7 / 'VVP-1' 6 readings, VV = W); ID from the 'MIN ID' column; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WP-1 NIPPLE"
+    },
+    {
+      "id": "s-spm-1",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 668.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string SPM 1 — DIRECT; typed box beside the short-string SPM rows: 'No clear GLV data'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "s-spm-2",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1183.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string SPM 2 — depth INTERPRETED: 1183.6 (6 readings) vs 1193.6 (2); 'No clear GLV data'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "s-spm-3",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1470.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string SPM 3 — DIRECT (8 readings); 'No clear GLV data'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "s-spm-4",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1623.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read '5.371'/'9 371' on this row; 2.371 as the other KBMG-M rows",
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string SPM 4 — depth 1623.6 read 2x ('16036' once, out-of-sequence alternatives none); 'No clear GLV data'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "s-spm-5",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1709.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string SPM 5 — DIRECT (6 readings); 'No clear GLV data'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "s-ssd",
+      "type": "sliding-sleeve",
+      "name": "WPB-2DE SSD",
+      "topMd": 1882.1,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string — DIRECT; status column on image 'CLOSED'; typed box 'CLOSED' / '(March 2015)'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WPB-2DE SSD"
+    },
+    {
+      "id": "dual-packer",
+      "type": "packer",
+      "name": "DUAL HYD. PKR",
+      "topMd": 1887.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "string": "Short & Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Shared dual packer (one component) — name/depth DIRECT (1887.7 4x vs 1987.7 2x, the latter out of sequence); model line above it read 'GUIB UNI-XXVII' (2) / 'GUIB UNI-XXVI' (2) — unresolved, not added to the name; no ID read; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "DUAL HYD. PKR"
+    },
+    {
+      "id": "s-nogo-nipple",
+      "type": "nipple (no-go)",
+      "name": "'D' NOGO NIPPLE",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.25,
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string below the dual packer — name INTERPRETED from ''D'NOGO NIPPLE' / ''D' MOGO MIPPLE' / ''D' NMO-GO'; ID 2.250 DIRECT; depth UNRESOLVED: read '1090.5' in 6 sources, which is out of sequence (between 1887.7 and 1890.9) — left empty; status on image 'Open'; typed box 'OPEN' / 'June 2012'",
+      "actualType": "'D' NOGO NIPPLE"
+    },
+    {
+      "id": "s-wl-entry-guide",
+      "type": "mule-shoe",
+      "name": "WL ENTRY GUIDE",
+      "topMd": 1890.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; wireline entry guide (end of short string) -> mule-shoe",
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Short string last item — DIRECT ('WL' 2 / 'VL' 2); ID from the 'MIN ID' column; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WL ENTRY GUIDE"
+    },
+    {
+      "id": "l-flow-coupling",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 143.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string row 1 — DIRECT; ID from the 'MIN ID' column; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "FLOW COUPLING"
+    },
+    {
+      "id": "l-scssv",
+      "type": "scssv",
+      "name": "TRDP-4A SCSSV",
+      "topMd": 143.7,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string row 2 — DIRECT; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "TRDP-4A SCSSV"
+    },
+    {
+      "id": "l-wp1-nipple",
+      "type": "landing-nipple",
+      "name": "WP-1 NIPPLE",
+      "topMd": 297.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; WP-1 nipple -> landing-nipple",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string row 3 — DIRECT; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WP-1 NIPPLE"
+    },
+    {
+      "id": "l-spm-1",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 677.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string SPM 1 — DIRECT; typed note in the long-string status column, 1st of 4 (association by order/position, flagged): 'GLV 12/64” (Apr/08)'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "l-spm-2",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1173.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read 2.371 once ('2.971', '2.374' elsewhere)",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string SPM 2 — depth INTERPRETED: 1173.8 (6) vs 1173.6 (2); typed note 2nd of 4: 'DV (Jun/06)'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "l-spm-3",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1470.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read 2.371 once",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string SPM 3 — depth 1470.4 (3; '14704' 4 more, decimal point lost); typed note 3rd of 4: 'DV (Jun/06)'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "l-spm-4",
+      "type": "spm",
+      "name": "KBMG-M SPM",
+      "topMd": 1613.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.371,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read '237' / '2.301' / '2a'; 2.371 as the other KBMG-M rows",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string SPM 4 — depth DIRECT (4); typed note 4th of 4: 'GLOV 12/64” (Apr/08)'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "KBMG-M SPM"
+    },
+    {
+      "id": "l-ssd-1",
+      "type": "sliding-sleeve",
+      "name": "WPB-2DE SSD",
+      "topMd": 1881.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read '2312' / '9.312'",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string above the dual packer — depth 1881.6 (4; '1981.8' once, out of sequence); status on image 'CLOSED'; typed box 'CLOSED'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WPB-2DE SSD"
+    },
+    {
+      "id": "l-ssd-2",
+      "type": "sliding-sleeve",
+      "name": "'WPB-2DE' SSD",
+      "topMd": 1899.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string below the dual packer — DIRECT (4); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "'WPB-2DE' SSD"
+    },
+    {
+      "id": "l-blast-joint-1",
+      "type": "blast-joint",
+      "name": "BLAST JOINT",
+      "topMd": 1902.6,
+      "bottomMd": 1914.8,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string across SAND: E-2 & E-7 — label DIRECT; interval INTERPRETED from the depth-column sequence 1902.6 (6) / BLAST JOINT / 1914.8 (4); no ID read; 1914.8 - 1925.4 has no label (not added); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "BLAST JOINT"
+    },
+    {
+      "id": "l-blast-joint-2",
+      "type": "blast-joint",
+      "name": "BLAST JOINT",
+      "topMd": 1925.4,
+      "bottomMd": 1947.7,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string across SAND: E-2 & E-7 — label DIRECT; interval INTERPRETED from 1925.4 (3) / 1947.7 (2 + '19477', 'joa7 7') on the 'BLAST JOINT 2.441' row; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "BLAST JOINT"
+    },
+    {
+      "id": "l-wp1-nipple-2",
+      "type": "landing-nipple",
+      "name": "WP1 NIPPLE",
+      "topMd": 1970.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; WP1 nipple -> landing-nipple",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — DIRECT (8); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WP1 NIPPLE"
+    },
+    {
+      "id": "l-single-packer",
+      "type": "packer",
+      "name": "GUIB UNI-VII SINGLE. HYD. PKR",
+      "topMd": 1976.4,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Label on the left-hand column ('GUIB UNI-VII' line above 'SINGLE. HYD. PKR', joined) — DIRECT; string 'Long' INTERPRETED: depth is below the short-string end (1890.9); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "GUIB UNI-VII SINGLE. HYD. PKR"
+    },
+    {
+      "id": "l-ssd-3",
+      "type": "sliding-sleeve",
+      "name": "'WPB-2DE' SSD",
+      "topMd": 1982.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — DIRECT (5); typed box in the status column on this row: 'OPEN' / 'Oct 2016'; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "'WPB-2DE' SSD"
+    },
+    {
+      "id": "l-blast-joint-3",
+      "type": "blast-joint",
+      "name": "BLAST JOINT",
+      "topMd": 1987.9,
+      "bottomMd": 2002.2,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read '2444' / '2441' / '5444'",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string across SAND: E-12/13 — label and interval DIRECT (1987.9 4, 2002.2 7); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "BLAST JOINT"
+    },
+    {
+      "id": "l-wp1-nipple-3",
+      "type": "landing-nipple",
+      "name": "WP1 NIPPLE",
+      "topMd": 2003.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.312,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; WP1 nipple -> landing-nipple",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — DIRECT (6; '9003.2' once); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WP1 NIPPLE"
+    },
+    {
+      "id": "l-centralizer",
+      "type": "pup-joint",
+      "name": "CENTRALIZER",
+      "topMd": 2006.8,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; tubing centralizer -> pup-joint (no centralizer Type_Key; template 'centralizers' section has no record structure)",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — label DIRECT; depth INTERPRETED: 2006.8 (4) vs 2008.8 (3); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "CENTRALIZER"
+    },
+    {
+      "id": "l-seal-assy",
+      "type": "seal-assembly",
+      "name": "LOC. SEAL ASSY.",
+      "topMd": 2008.3,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — DIRECT (7-8); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "LOC. SEAL ASSY."
+    },
+    {
+      "id": "l-perm-packer",
+      "type": "packer",
+      "name": "GUIB MAGNUM HT PERM. PKR",
+      "topMd": 2008.9,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Label on the left-hand column ('GUIB MAGNUM' line above \"'HT PERM. PKR\", joined; leading quote dropped) — DIRECT; ID 4.000 from the left MIN ID column; string 'Long' INTERPRETED (below the short-string end); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "GUIB MAGNUM HT PERM. PKR"
+    },
+    {
+      "id": "l-seal-bore-ext",
+      "type": "pbr",
+      "name": "SEAL BORE EXT.",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 4.0,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; seal bore extension -> pbr",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string below the permanent packer — DIRECT; no depth printed",
+      "actualType": "SEAL BORE EXT."
+    },
+    {
+      "id": "l-nogo-nipple",
+      "type": "nipple (no-go)",
+      "name": "'D' NO-GO NIPPLE",
+      "topMd": 2012.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.25,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "INTERPRETED: ID read '2250' / '9950'",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string — depth 2012.6 (5) vs 2012.8 (1); typed box in the status column on this row: 'CLOSE' / 'Oct 2016'; see l-ca-plug; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "'D' NO-GO NIPPLE"
+    },
+    {
+      "id": "l-weg",
+      "type": "mule-shoe",
+      "name": "WEG",
+      "topMd": 2013.2,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 2.441,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; WEG (wireline entry guide) -> mule-shoe",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Long string last item — DIRECT (7); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "WEG"
+    },
+    {
+      "id": "pbtd",
+      "type": "pbtd",
+      "name": "PBTD: 2124 m MDDF",
+      "topMd": 2124.0,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "source": "PDF page 3 (label 'WELL A-2'): Header — DIRECT (8); depth reference m MDDF (as printed in the header; different reference from the m MDTHF equipment depths — not shifted); depths in metres as printed (no conversion)",
+      "actualType": "PBTD: 2124 m MDDF"
+    },
+    {
+      "id": "perf-e2",
+      "type": "perforation",
+      "name": "E2 - 1906.4 – 1910.4 mdTHF",
+      "topMd": 1906.4,
+      "bottomMd": 1910.4,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E2",
+      "interval": "1906.4 – 1910.4",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed text layer beside 'SAND: E-2 & E-7' — DIRECT; string 'Long' INTERPRETED (below the short-string end); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "E2 - 1906.4 – 1910.4 mdTHF"
+    },
+    {
+      "id": "perf-e7",
+      "type": "perforation",
+      "name": "E7 - 1931 - 1944",
+      "topMd": 1931.0,
+      "bottomMd": 1944.0,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E7",
+      "interval": "1931 - 1944",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed text layer — DIRECT; unit not printed on this line, m MDTHF ASSUMED as the E2 line; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "E7 - 1931 - 1944"
+    },
+    {
+      "id": "perf-e12-13-a",
+      "type": "perforation",
+      "name": "E12/13 – 1990 – 1995",
+      "topMd": 1990.0,
+      "bottomMd": 1995.0,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E12/13",
+      "interval": "1990 – 1995",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed text layer beside 'SAND: E-12/13' — DIRECT; unit ASSUMED m MDTHF; kept separate from the 1998 - 2001 interval; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "E12/13 – 1990 – 1995"
+    },
+    {
+      "id": "perf-e12-13-b",
+      "type": "perforation",
+      "name": "1998 - 2001",
+      "topMd": 1998.0,
+      "bottomMd": 2001.0,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E12/13",
+      "interval": "1998 - 2001",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed text layer directly below the E12/13 line — DIRECT; zone E12/13 INTERPRETED by position; unit ASSUMED m MDTHF; depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "1998 - 2001"
+    },
+    {
+      "id": "perf-e14",
+      "type": "perforation",
+      "name": "E14 – 2015 – 2025",
+      "topMd": 2015.0,
+      "bottomMd": 2025.0,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "zone": "E14",
+      "interval": "2015 – 2025",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed text layer beside 'SAND: E-14' — DIRECT; unit ASSUMED m MDTHF; below the plugged long-string No-Go (see l-ca-plug); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "E14 – 2015 – 2025"
+    },
+    {
+      "id": "s-csa-plug",
+      "type": "mechanical-plug",
+      "name": "2.31” CSA Plug (Feb 2023)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; CSA plug -> mechanical-plug",
+      "string": "Short",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed box in the short-string status column between rows 2-3 (SCSSV 133.7 / WP-1 nipple 182.7) — DIRECT name and partial date; string 'Short' INTERPRETED by position; depth not printed and the row is ambiguous — left empty",
+      "actualType": "2.31” CSA Plug (Feb 2023)"
+    },
+    {
+      "id": "l-ca-plug",
+      "type": "mechanical-plug",
+      "name": "2.25” CA Plug @ No-Go",
+      "topMd": 2012.6,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "APPROX-TYPE: no exact Type_Key; CA plug -> mechanical-plug",
+      "string": "Long",
+      "source": "PDF page 3 (label 'WELL A-2'): Typed box under the long-string depth column — DIRECT name; depth ASSUMED = long-string 'D' NO-GO NIPPLE 2012.6 (box says '@ No-Go', sits beside that row; the short string also has a 2.250 No-Go, position decides); depth reference m MDTHF (column header 'DEPTH m MDTHF'); depths in metres as printed (no conversion)",
+      "actualType": "2.25” CA Plug @ No-Go"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

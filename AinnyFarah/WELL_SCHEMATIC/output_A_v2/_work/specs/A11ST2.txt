@@ -1,0 +1,46 @@
+WELL | A11ST2 | - | sheet 'OP1 A11 STMZ' | WELL NAME: Dulang A11ST2 — FINAL COMPLETION SCHEMATIC (WELL : A11-ST2)
+FILE | Dulang A11ST2 Well Schematic.xlsx
+SRC | - | sheet 'OP1 A11 STMZ' | native Excel cell values (openpyxl, cached values) and drawing text boxes (xl/drawings/drawing1.xml)
+DATUM | m MDDF (column headers 'DEPTH m MDDF')
+INFO | completionDate | 2019-11-30
+INFO | completionType | Single String 3-1/2"
+INFO | xmas | Solar Alert single tree 11" 5K RX54 x 3-1/8" 5K
+INFO | wellhead | Solar Alert 11" 5K RX54 Top x 13-5/8" Seg. Clamp btm
+INFO | tubing | 3-1/2" 9.2ppf L80-13Cr JFE BEAR
+INFO | completionFluid | 8.5 ppg NaCl filtered to 30 NTU
+INFO | packerFluid | 8.5 ppg NaCl (+ 0.2% BIOCIDE + 2% OXYGEN SCAVANGER + 2% CI
+INFO | maxDeviation | 64.8 degree
+CASING | 18-5/8", 87.5ppf, X-56, VETCO RL-4C @ 563m MDDF | 18.625 | 87.5 | X-56 | 563 | MDDF
+CASING | 13-3/8" , 54.5ppf, K-55 BTC @ 1105.38m MDDF (casing window) | 13.375 | 54.5 | K-55 | 1105.38 | MDDF
+CASING | 9-5/8", 47 ppf, L-80 JFE Bear @ 2185m MDDF | 9.625 | 47 | L-80 | 2185 | MDDF
+TUBING | 3-1/2" 9.2ppf L80-13Cr JFE BEAR | 3.5 | 9.2 | L80-13Cr | - |
+ROW | X | HHTrim 3-1/2" Single String Tubing Hanger | 0 |  |  |  |  | depth 0 printed in the depth column (P21) | T21/P21
+ROW | X | 3-1/2" Flow Coupling S13Cr |  |  | 2.88 | 3.898 |  | depth not printed | T26/X26/Z26
+ROW | X | 3-1/2" TRSCSSSV NE  S13Cr | 247.01 |  | 2.813 | 5.03 |  | angle 17 deg (R27) | T27/P27/X27/Z27
+ROW | X | 3-1/2" Flow Coupling  S13Cr |  |  | 2.88 | 3.898 |  | depth not printed | T28/X28/Z28
+ROW | X | 3-1/2" IPO  13Cr 10/64 | 712.9 |  | 2.875 | 5.797 | PTRO :990 | angle 64.8 deg (R32) | T32/P32/X32/Z32/T33
+ROW | X | 3-1/2" IPO  13Cr 10/64 | 1233.425 |  | 2.875 | 5.797 | PTRO :955 | angle 61.7 deg | T35/P35/X35/Z35/T36
+ROW | X | 3-1/2" IPO  13Cr 10/64 | 1616.888 |  | 2.875 | 5.797 | PTRO :930 | angle 62.3 deg | T38/P38/X38/Z38/T39
+ROW | X | 3-1/2" ORIFICE  13Cr 12/64 | 1962.07 |  | 2.875 | 5.797 |  | angle 55 deg | T41/P41/X41/Z41
+ROW | X | 3-1/2" SSD 13Cr | 1979.18 |  | 2.813 | 4.55 |  | angle 55 deg | T45/P45/X45/Z45
+ROW | X | 9-5/8" X 3-1/2" AHR Packer 13Cr (Cut-to-release) | 1995.044 |  | 2.897 | 8.47 |  | angle 55 deg | T50/P50/X50/Z50
+ROW | X | 3-1/2" X Landing Nipple 13Cr | 1997.77 |  | 2.813 | 3.903 |  | angle 55 deg | T52/P52/X52/Z52
+ROW | X | 3-1/2" No-go Nipple 13Cr | 2014.81 |  | 2.69 | 3.903 | ?2.75" XN-Lock + Bypass X-Over + Shock Absorber + PPS gauges set at XN Nipple (Set on 28th October 2023) | gauge note (cells T78-T79 and drawing text box) placed at the XN nipple — the no-go nipple is the only XN-type profile in the string | T55/P55/X55/Z55
+ROW | X | 3-1/2" WEG | 2019.011 |  | 3 | 3.92 |  | end of string; angle 53 deg | T57/P57/X57/Z57
+ROW | Lw | 9-5/8" GP VGH Packer Assy 13Cr | 2065.515 |  | 6 | 8.45 |  | gravel-pack lower completion across E14 | T65/P65/X65/Z65
+ROW | Lw | UPP SEAL BORE EXTENSION, 4.75, 13Cr | 2069.227 |  | 4.75 | 5.55 |  |  | T66/P66/X66/Z66
+ROW | Lw | 5-1/2" WWS, Centralizer OD:8.25 | 2095.529 |  | 4.818 | 8.25 |  | screen top as printed; OD column = centralizer OD 8.25 | T69/P69/X69/Z69
+ROW | Lw | Collet Seal Assembly |  |  | 4.818 | 6.6 |  | depth not printed | T72/X72/Z72
+ROW | Lw | AWG 9-5/8" wireline set Packer with tail pipe, 13Cr | 2115 |  | 5.99 | 8.22 |  | sump packer | T73/P73/X73/Z73
+ZONE | E14 | 2100 | 2112.2 | MDDF | E14 1223 - 1236 mTVDS ; 2100 - 2112.2 mMDDF ( 12.2m ) ; 1400 psi, 201.2 degF | F68/F69/F70/F71 | perf
+PBTD | 2156 | MDDF | PBTD : 2156 mMDDF (G16)
+TD | 2185 | MDDF | TD 2185 (F82/L82)
+NOTE | cells B8-B10 | WELL : A11-ST2 ; FIELD : Dulang ; LOCATION : Dulang -A
+NOTE | cells F61/F62 | E7/E10/E11 Behind Casing Opportunity (no interval printed)
+NOTE | cells T23 / T30 | 3-1/2" 9.2ppf L80-13Cr L80 - 13Cr JFE BEAR (tubing joints, MIN ID 2.992 / MAX OD 3.5)
+NOTE | drawing text box | 2.75" XN-Lock + Bypass X-Over + Shock Absorber + PPS gauges set at XN Nipple — For Extended SGS operations — Set on 28th October 2023
+NOTE | cells T77-T82 | Update by Hashimi 11th Jan 2024 ; Prepared by: Mahirah/Hidayah/Izuddin (Completion Engineer) ; Jagaan (Ptech) ; Revised Date : 24/02/2020
+NOTE | workbook media | embedded pictures image1.emf, image2.png, image3.png, image4.jpeg (schematic drawing / logo graphics; no values)
+ISSUE | Unclear | cell T13 | packer fluid text ends '+ 2% CI' (cut in the cell) — kept as printed
+ISSUE | Unclear | sheet | the XN gauge note names 'XN Nipple'; matched to the 3-1/2" No-go Nipple 2014.81 (ID 2.69) — position not printed
+ISSUE | Missing | sheet | flow-coupling and collet-seal-assembly depths not printed; screen bottom not printed

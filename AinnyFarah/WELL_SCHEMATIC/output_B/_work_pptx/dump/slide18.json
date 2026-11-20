@@ -1,0 +1,7310 @@
+{
+ "slide": 18,
+ "file": "slides/slide18.xml",
+ "hidden": false,
+ "size": [
+  7739063,
+  10042525
+ ],
+ "notes": "Open\n18",
+ "objects": [
+  {
+   "kind": "sp",
+   "id": "39939",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 0,
+   "cx": 2849078,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    0.0,
+    36.81,
+    2.45
+   ],
+   "text": "LAST UPDATE: Dec 2023 by PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "grpSp",
+   "id": "39940",
+   "name": "Group 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 714375,
+   "y": 714375,
+   "cx": 6465888,
+   "cy": 8196263,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.23,
+    7.11,
+    92.78,
+    88.73
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "39944",
+   "name": "Text Box 32",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5260975,
+   "y": 1852613,
+   "cx": 1508125,
+   "cy": 155575,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.98,
+    18.45,
+    87.47,
+    20.0
+   ],
+   "text": "13.755 m",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39945",
+   "name": "Rectangle 2",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": "25%",
+   "x": 3554413,
+   "y": 8450263,
+   "cx": 814387,
+   "cy": 247650,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.93,
+    84.14,
+    56.45,
+    86.61
+   ],
+   "text": "",
+   "geom": "rect",
+   "image": "../media/image1.png"
+  },
+  {
+   "kind": "sp",
+   "id": "39946",
+   "name": "Line 3",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1597025,
+   "y": 2365375,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    20.64,
+    23.55,
+    20.64,
+    88.59
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39947",
+   "name": "Line 4",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6327775,
+   "y": 2368550,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    81.76,
+    23.59,
+    81.76,
+    88.62
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39948",
+   "name": "Line 5",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5932488,
+   "y": 2365375,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    76.66,
+    23.55,
+    76.66,
+    88.59
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39949",
+   "name": "Text Box 6",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1196975,
+   "y": 2478088,
+   "cx": 311150,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.47,
+    24.68,
+    19.49,
+    25.61
+   ],
+   "text": "STATUS",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39950",
+   "name": "Text Box 7",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2200275,
+   "y": 2481263,
+   "cx": 588963,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.43,
+    24.71,
+    36.04,
+    25.64
+   ],
+   "text": "SHORT STRING",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39951",
+   "name": "Text Box 8",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3062288,
+   "y": 2435225,
+   "cx": 361950,
+   "cy": 182563,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    39.57,
+    24.25,
+    44.25,
+    26.07
+   ],
+   "text": "DEPTH\nm MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39952",
+   "name": "Text Box 9",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5995988,
+   "y": 2425700,
+   "cx": 249237,
+   "cy": 200025,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.48,
+    24.15,
+    80.7,
+    26.15
+   ],
+   "text": "MIN ID\n(in)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39953",
+   "name": "Text Box 10",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6416675,
+   "y": 2478088,
+   "cx": 309563,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.91,
+    24.68,
+    86.91,
+    25.61
+   ],
+   "text": "STATUS",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39954",
+   "name": "Line 11",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3549650,
+   "y": 2889250,
+   "cx": 0,
+   "cy": 5810250,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.87,
+    28.77,
+    45.87,
+    86.63
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39955",
+   "name": "Line 12",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4367213,
+   "y": 2889250,
+   "cx": 0,
+   "cy": 5810250,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.43,
+    28.77,
+    56.43,
+    86.63
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39956",
+   "name": "Line 13",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3409950,
+   "y": 2889250,
+   "cx": 1082675,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.06,
+    28.77,
+    58.05,
+    28.77
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39957",
+   "name": "Line 14",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3554413,
+   "y": 8701088,
+   "cx": 815975,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.93,
+    86.64,
+    56.47,
+    86.64
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39958",
+   "name": "Freeform 15",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3422650,
+   "y": 8610600,
+   "cx": 125413,
+   "cy": 88900,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.23,
+    85.74,
+    45.85,
+    86.63
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39959",
+   "name": "Freeform 16",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4367213,
+   "y": 8610600,
+   "cx": 125412,
+   "cy": 88900,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.43,
+    85.74,
+    58.05,
+    86.63
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39960",
+   "name": "Line 17",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3552825,
+   "y": 8456613,
+   "cx": 817563,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.91,
+    84.21,
+    56.47,
+    84.21
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39961",
+   "name": "Text Box 18",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1684338,
+   "y": 2433638,
+   "cx": 249237,
+   "cy": 200025,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    21.76,
+    24.23,
+    24.98,
+    26.23
+   ],
+   "text": "MIN ID\n(in)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39962",
+   "name": "Line 19",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2020888,
+   "y": 2368550,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.11,
+    23.59,
+    26.11,
+    88.62
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39963",
+   "name": "Line 20",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2976563,
+   "y": 2365375,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    38.46,
+    23.55,
+    38.46,
+    88.59
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39964",
+   "name": "Text Box 21",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4483100,
+   "y": 2435225,
+   "cx": 361950,
+   "cy": 182563,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.93,
+    24.25,
+    62.61,
+    26.07
+   ],
+   "text": "DEPTH\nm MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39965",
+   "name": "Text Box 22",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5145088,
+   "y": 2436813,
+   "cx": 538162,
+   "cy": 182562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.48,
+    24.26,
+    73.44,
+    26.08
+   ],
+   "text": "COMPLETION\nLONG STRING",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39966",
+   "name": "Line 23",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4900613,
+   "y": 2365375,
+   "cx": 0,
+   "cy": 6530975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    63.32,
+    23.55,
+    63.32,
+    88.59
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39967",
+   "name": "Line 24",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3789363,
+   "y": 2889250,
+   "cx": 0,
+   "cy": 3138488,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.96,
+    28.77,
+    48.96,
+    60.02
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39968",
+   "name": "Text Box 25",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2147888,
+   "y": 2911475,
+   "cx": 690562,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.75,
+    28.99,
+    36.68,
+    29.92
+   ],
+   "text": "¼\" CONTROL LINE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39969",
+   "name": "Text Box 26",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1508125,
+   "y": 1323975,
+   "cx": 2422525,
+   "cy": 155575,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    19.49,
+    13.18,
+    50.79,
+    14.73
+   ],
+   "text": "TIOMAN 3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39970",
+   "name": "Text Box 27",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1743075,
+   "y": 1474788,
+   "cx": 2189163,
+   "cy": 155575,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.52,
+    14.69,
+    50.81,
+    16.23
+   ],
+   "text": "2 7/8\" 6.5 PPF N-80 NK3SB",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39971",
+   "name": "Text Box 28",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1901825,
+   "y": 1609725,
+   "cx": 2030413,
+   "cy": 157163,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    24.57,
+    16.03,
+    50.81,
+    17.59
+   ],
+   "text": "WKM, DUAL, 3M",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39972",
+   "name": "Text Box 29",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1997075,
+   "y": 1814513,
+   "cx": 1935163,
+   "cy": 355600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    25.81,
+    18.07,
+    50.81,
+    21.61
+   ],
+   "text": "9.6 PPG 3% KCI + NaCI + 0.05% NALCO\n3900 BIOCIDE & CORR. INHIBITOR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39973",
+   "name": "Text Box 30",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4556125,
+   "y": 1201738,
+   "cx": 2208213,
+   "cy": 336550,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.87,
+    11.97,
+    87.41,
+    15.32
+   ],
+   "text": "18 5/8\" X-56 COND. 87.5 ppf  @  355  m MDDF\n13 3/8\" K-55 SURF., 54.5 ppf @  934  m MDDF\n9 5/8\" N-80 PROD., 40 ppf @  1866 m MDDF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39974",
+   "name": "Text Box 31",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4483100,
+   "y": 1738313,
+   "cx": 2282825,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.93,
+    17.31,
+    87.43,
+    18.23
+   ],
+   "text": "         1836     m MDDF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39975",
+   "name": "Text Box 33",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5048250,
+   "y": 2008188,
+   "cx": 1724025,
+   "cy": 155575,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.23,
+    20.0,
+    87.51,
+    21.55
+   ],
+   "text": "50.3 DEG",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39976",
+   "name": "Rectangle 34",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3736975,
+   "y": 3209925,
+   "cx": 111125,
+   "cy": 144463,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.29,
+    31.96,
+    49.72,
+    33.4
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "39977",
+   "name": "Freeform 35",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3759200,
+   "y": 3138488,
+   "cx": 53975,
+   "cy": 68262,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.57,
+    31.25,
+    49.27,
+    31.93
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39978",
+   "name": "Freeform 36",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3700463,
+   "y": 2887663,
+   "cx": 80962,
+   "cy": 268287,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.82,
+    28.75,
+    48.86,
+    31.43
+   ],
+   "text": "",
+   "geom": "custom"
+  },
+  {
+   "kind": "sp",
+   "id": "39979",
+   "name": "Line 37",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 2890838,
+   "cx": 0,
+   "cy": 3160712,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    28.79,
+    53.21,
+    60.26
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39980",
+   "name": "Freeform 38",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4141788,
+   "y": 2887663,
+   "cx": 71437,
+   "cy": 268287,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.52,
+    28.75,
+    54.44,
+    31.43
+   ],
+   "text": "",
+   "geom": "custom"
+  },
+  {
+   "kind": "sp",
+   "id": "39981",
+   "name": "Freeform 39",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3551238,
+   "y": 4613275,
+   "cx": 230187,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.89,
+    45.94,
+    48.86,
+    46.47
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39982",
+   "name": "Freeform 40",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3551238,
+   "y": 4665663,
+   "cx": 230187,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.89,
+    46.46,
+    48.86,
+    47.01
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39983",
+   "name": "Freeform 41",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3790950,
+   "y": 4613275,
+   "cx": 320675,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.98,
+    45.94,
+    53.13,
+    46.47
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39984",
+   "name": "Freeform 42",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3790950,
+   "y": 4665663,
+   "cx": 320675,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.98,
+    46.46,
+    53.13,
+    47.01
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39985",
+   "name": "Freeform 43",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4121150,
+   "y": 4613275,
+   "cx": 242888,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.25,
+    45.94,
+    56.39,
+    46.47
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39986",
+   "name": "Freeform 44",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4121150,
+   "y": 4665663,
+   "cx": 242888,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.25,
+    46.46,
+    56.39,
+    47.01
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39987",
+   "name": "Rectangle 45",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3736975,
+   "y": 6016625,
+   "cx": 103188,
+   "cy": 122238,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.29,
+    59.91,
+    49.62,
+    61.13
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "39988",
+   "name": "Line 46",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3760788,
+   "y": 6018213,
+   "cx": 0,
+   "cy": 115887,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    48.59,
+    59.93,
+    48.59,
+    61.08
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39989",
+   "name": "Line 47",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3814763,
+   "y": 6018213,
+   "cx": 0,
+   "cy": 115887,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    49.29,
+    59.93,
+    49.29,
+    61.08
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39990",
+   "name": "Line 48",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3735388,
+   "y": 6134100,
+   "cx": 20637,
+   "cy": 42863,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.27,
+    61.08,
+    48.53,
+    61.51
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39991",
+   "name": "Line 49",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3756025,
+   "y": 6176963,
+   "cx": 80963,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.53,
+    61.51,
+    49.58,
+    61.51
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39992",
+   "name": "Line 50",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3836988,
+   "y": 6134100,
+   "cx": 0,
+   "cy": 41275,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.58,
+    61.08,
+    49.58,
+    61.49
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39993",
+   "name": "Line 51",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3954463,
+   "y": 6175375,
+   "cx": 0,
+   "cy": 1893888,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.1,
+    61.49,
+    51.1,
+    80.35
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39994",
+   "name": "Line 52",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3956050,
+   "y": 6048375,
+   "cx": 161925,
+   "cy": 125413,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    51.12,
+    60.23,
+    53.21,
+    61.48
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "39995",
+   "name": "Rectangle 53",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4062413,
+   "y": 3209925,
+   "cx": 112712,
+   "cy": 144463,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.49,
+    31.96,
+    53.95,
+    33.4
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "39996",
+   "name": "Freeform 54",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4090988,
+   "y": 3138488,
+   "cx": 53975,
+   "cy": 68262,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.86,
+    31.25,
+    53.56,
+    31.93
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39997",
+   "name": "Oval 55",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4068763,
+   "y": 3492500,
+   "cx": 101600,
+   "cy": 112713,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.57,
+    34.78,
+    53.89,
+    35.9
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "39998",
+   "name": "Freeform 56",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 3670300,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    36.55,
+    53.89,
+    37.56
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "39999",
+   "name": "Oval 57",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4067175,
+   "y": 4921250,
+   "cx": 100013,
+   "cy": 117475,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.55,
+    49.0,
+    53.85,
+    50.17
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40000",
+   "name": "Line 58",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4132263,
+   "y": 4962525,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.39,
+    49.42,
+    53.39,
+    49.79
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40001",
+   "name": "Line 59",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4100513,
+   "y": 4962525,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.98,
+    49.42,
+    52.98,
+    49.79
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40002",
+   "name": "Freeform 60",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3546475,
+   "y": 7281863,
+   "cx": 819150,
+   "cy": 127000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.83,
+    72.51,
+    56.41,
+    73.77
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40003",
+   "name": "Line 61",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8072438,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    80.38,
+    46.97,
+    80.38
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40004",
+   "name": "Line 62",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8105775,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    80.71,
+    46.97,
+    80.71
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40005",
+   "name": "Line 63",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8139113,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    81.05,
+    46.97,
+    81.05
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40006",
+   "name": "Line 64",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8177213,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    81.43,
+    46.97,
+    81.43
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40007",
+   "name": "Line 65",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8208963,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    81.74,
+    46.97,
+    81.74
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40008",
+   "name": "Line 66",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 8242300,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    82.07,
+    46.97,
+    82.07
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40009",
+   "name": "Text Box 67",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3154363,
+   "y": 3108325,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.76,
+    30.95,
+    43.34,
+    31.87
+   ],
+   "text": "127.2",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40010",
+   "name": "Text Box 68",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3154363,
+   "y": 3233738,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.76,
+    32.2,
+    43.34,
+    33.12
+   ],
+   "text": "128.1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40011",
+   "name": "Text Box 69",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3154363,
+   "y": 3455988,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.76,
+    34.41,
+    43.34,
+    35.33
+   ],
+   "text": "281.7",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40012",
+   "name": "Text Box 70",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3154363,
+   "y": 3633788,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.76,
+    36.18,
+    43.34,
+    37.1
+   ],
+   "text": "608.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40013",
+   "name": "Text Box 71",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4403725,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    43.85,
+    43.61,
+    44.78
+   ],
+   "text": "1619.4",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40014",
+   "name": "Text Box 72",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4624388,
+   "cx": 241300,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    46.05,
+    43.61,
+    46.98
+   ],
+   "text": "1627.7",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40015",
+   "name": "Text Box 73",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4937125,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    49.16,
+    43.61,
+    50.08
+   ],
+   "text": "1633.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40016",
+   "name": "Text Box 74",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2163763,
+   "y": 3100388,
+   "cx": 658812,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.96,
+    30.87,
+    36.47,
+    31.81
+   ],
+   "text": "FLOW COUPLING",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40017",
+   "name": "Text Box 75",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2182813,
+   "y": 3225800,
+   "cx": 620712,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.21,
+    32.12,
+    36.23,
+    33.05
+   ],
+   "text": "TRDP-4A SCSSV",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40018",
+   "name": "Text Box 76",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2243138,
+   "y": 3460750,
+   "cx": 498475,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.98,
+    34.46,
+    35.43,
+    35.38
+   ],
+   "text": "WP-1 NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40019",
+   "name": "Text Box 77",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 787400,
+   "y": 3638550,
+   "cx": 762000,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    10.17,
+    36.23,
+    20.02,
+    37.16
+   ],
+   "text": "GLV 12/64 PTRO 720",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40020",
+   "name": "Text Box 78",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2025650,
+   "y": 4567238,
+   "cx": 950913,
+   "cy": 198437,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.17,
+    45.48,
+    38.46,
+    47.45
+   ],
+   "text": "GUIB.  UNI-XXVII\nDUAL HYD. PKR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40021",
+   "name": "Text Box 79",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2159000,
+   "y": 6022975,
+   "cx": 668338,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.9,
+    59.97,
+    36.53,
+    60.89
+   ],
+   "text": "'D' NO-GO NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40022",
+   "name": "Text Box 80",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2143125,
+   "y": 6140450,
+   "cx": 698500,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.69,
+    61.14,
+    36.72,
+    62.08
+   ],
+   "text": "W/L ENTRY GUIDE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40023",
+   "name": "Text Box 81",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3108325,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    30.95,
+    24.72,
+    31.87
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40024",
+   "name": "Text Box 82",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3225800,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    32.12,
+    24.72,
+    33.04
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40025",
+   "name": "Text Box 83",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3478213,
+   "cx": 198438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    34.63,
+    24.72,
+    35.57
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40026",
+   "name": "Text Box 84",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3665538,
+   "cx": 198438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    36.5,
+    24.72,
+    37.43
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40027",
+   "name": "Text Box 85",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 4406900,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    43.88,
+    24.72,
+    44.8
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40028",
+   "name": "Rectangle 86",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1223963,
+   "y": 5041900,
+   "cx": 1692275,
+   "cy": 417513,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.82,
+    50.21,
+    37.68,
+    54.36
+   ],
+   "text": "SAND : E-2 (FB S2; NDR)\nPERFT: 1639.74 m - 1643.74 m",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40029",
+   "name": "Line 87",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 5062538,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    50.41,
+    38.42,
+    50.41
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40030",
+   "name": "Text Box 88",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 7707313,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    76.75,
+    24.72,
+    77.66
+   ],
+   "text": "4.000",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40031",
+   "name": "Rectangle 89",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1127125,
+   "y": 7977188,
+   "cx": 1771650,
+   "cy": 531812,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.56,
+    79.43,
+    37.46,
+    84.73
+   ],
+   "text": "SAND : E-12/13 (FB S2; WIR)\nPERFT : 1744.4 m - 1760.24 m",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40032",
+   "name": "Text Box 90",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4529138,
+   "y": 3108325,
+   "cx": 198437,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.52,
+    30.95,
+    61.09,
+    31.87
+   ],
+   "text": "137.5",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40033",
+   "name": "Text Box 91",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4529138,
+   "y": 3230563,
+   "cx": 198437,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.52,
+    32.17,
+    61.09,
+    33.1
+   ],
+   "text": "138.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40034",
+   "name": "Text Box 92",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4527550,
+   "y": 3508375,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.5,
+    34.94,
+    61.07,
+    35.85
+   ],
+   "text": "292.9",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40035",
+   "name": "Text Box 93",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4486275,
+   "y": 4927600,
+   "cx": 284163,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    57.97,
+    49.07,
+    61.64,
+    50.0
+   ],
+   "text": "1632.28",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40036",
+   "name": "Text Box 94",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 6330950,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    63.04,
+    61.37,
+    63.97
+   ],
+   "text": "1694.4",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40037",
+   "name": "Text Box 95",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 8043863,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    80.1,
+    61.37,
+    81.01
+   ],
+   "text": "1743.0",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40038",
+   "name": "Text Box 96",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 8178800,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    81.44,
+    61.37,
+    82.37
+   ],
+   "text": "1743.6",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40039",
+   "name": "Text Box 97",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5060950,
+   "y": 3108325,
+   "cx": 658813,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.39,
+    30.95,
+    73.91,
+    31.87
+   ],
+   "text": "FLOW COUPLING",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40040",
+   "name": "Text Box 98",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5078413,
+   "y": 3230563,
+   "cx": 622300,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.62,
+    32.17,
+    73.66,
+    33.1
+   ],
+   "text": "TRDP-4A SCSSV",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40041",
+   "name": "Text Box 99",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5137150,
+   "y": 3513138,
+   "cx": 500063,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.38,
+    34.98,
+    72.84,
+    35.9
+   ],
+   "text": "WP-1 NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40042",
+   "name": "Text Box 100",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6373813,
+   "y": 3646488,
+   "cx": 806450,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.36,
+    36.31,
+    92.78,
+    37.23
+   ],
+   "text": "GLV  12/64 PTRO 720 ",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40043",
+   "name": "Text Box 101",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5291138,
+   "y": 8183563,
+   "cx": 196850,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.37,
+    81.49,
+    70.91,
+    82.42
+   ],
+   "text": "WEG",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40044",
+   "name": "Text Box 102",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5081588,
+   "y": 2911475,
+   "cx": 690562,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.66,
+    28.99,
+    74.58,
+    29.92
+   ],
+   "text": "¼\" CONTROL LINE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40045",
+   "name": "Text Box 103",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 3108325,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    30.95,
+    80.33,
+    31.87
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40046",
+   "name": "Text Box 104",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 3230563,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    32.17,
+    80.33,
+    33.1
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40047",
+   "name": "Text Box 105",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 3513138,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    34.98,
+    80.31,
+    35.9
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40048",
+   "name": "Text Box 106",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 3659188,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    36.44,
+    80.31,
+    37.37
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40049",
+   "name": "Text Box 107",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 4429125,
+   "cx": 200025,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    44.1,
+    80.31,
+    45.04
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40050",
+   "name": "Text Box 108",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 4937125,
+   "cx": 200025,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    49.16,
+    80.33,
+    50.09
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40051",
+   "name": "Text Box 109",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 6343650,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    63.17,
+    80.33,
+    64.08
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40052",
+   "name": "Text Box 110",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 8043863,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    80.1,
+    80.33,
+    81.01
+   ],
+   "text": "2.250",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40053",
+   "name": "Text Box 111",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 8178800,
+   "cx": 200025,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    81.44,
+    80.33,
+    82.37
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40054",
+   "name": "Text Box 112",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6407150,
+   "y": 4941888,
+   "cx": 325438,
+   "cy": 79375,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.79,
+    49.21,
+    86.99,
+    50.0
+   ],
+   "text": "CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40055",
+   "name": "Text Box 113",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2185988,
+   "y": 1192213,
+   "cx": 1700212,
+   "cy": 120650,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.25,
+    11.87,
+    50.22,
+    13.07
+   ],
+   "text": "20 JANUARY 1992",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40056",
+   "name": "Oval 114",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 3455988,
+   "cx": 101600,
+   "cy": 112712,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    34.41,
+    49.56,
+    35.54
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40057",
+   "name": "Freeform 115",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 3635375,
+   "cx": 52388,
+   "cy": 103188,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    36.2,
+    48.92,
+    37.23
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40058",
+   "name": "Line 116",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5254625,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    52.32,
+    46.97,
+    52.32
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40059",
+   "name": "Line 117",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5287963,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    52.66,
+    46.97,
+    52.66
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40060",
+   "name": "Line 118",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5321300,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    52.99,
+    46.97,
+    52.99
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40061",
+   "name": "Line 119",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5359400,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    53.37,
+    46.97,
+    53.37
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40062",
+   "name": "Line 120",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5392738,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    53.7,
+    46.97,
+    53.7
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40063",
+   "name": "Line 121",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5156200,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    51.34,
+    46.97,
+    51.34
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40064",
+   "name": "Line 122",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5189538,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    51.68,
+    46.97,
+    51.68
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40065",
+   "name": "Line 123",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 5222875,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    52.01,
+    46.97,
+    52.01
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40066",
+   "name": "Text Box 124",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4519613,
+   "y": 3662363,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.4,
+    36.47,
+    60.98,
+    37.39
+   ],
+   "text": "618.4",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40067",
+   "name": "Text Box 125",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4498975,
+   "y": 4427538,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.13,
+    44.09,
+    61.25,
+    45.0
+   ],
+   "text": "1619.4",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40068",
+   "name": "Oval 126",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4070350,
+   "y": 5521325,
+   "cx": 101600,
+   "cy": 114300,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.59,
+    54.98,
+    53.91,
+    56.12
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40069",
+   "name": "Oval 127",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 5484813,
+   "cx": 101600,
+   "cy": 112712,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    54.62,
+    49.56,
+    55.74
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40070",
+   "name": "Oval 128",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3741738,
+   "y": 4916488,
+   "cx": 100012,
+   "cy": 119062,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.35,
+    48.96,
+    49.64,
+    50.14
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40071",
+   "name": "Line 129",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3806825,
+   "y": 4957763,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.19,
+    49.37,
+    49.19,
+    49.75
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40072",
+   "name": "Line 130",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3775075,
+   "y": 4957763,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.78,
+    49.37,
+    48.78,
+    49.75
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40073",
+   "name": "Rectangle 131",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3754438,
+   "y": 4816475,
+   "cx": 71437,
+   "cy": 69850,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.51,
+    47.96,
+    49.44,
+    48.66
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40074",
+   "name": "Oval 132",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3905250,
+   "y": 6310313,
+   "cx": 100013,
+   "cy": 117475,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.46,
+    62.84,
+    51.75,
+    64.01
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40075",
+   "name": "Line 133",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3968750,
+   "y": 6351588,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.28,
+    63.25,
+    51.28,
+    63.63
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40076",
+   "name": "Line 134",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3937000,
+   "y": 6351588,
+   "cx": 0,
+   "cy": 38100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.87,
+    63.25,
+    50.87,
+    63.63
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40077",
+   "name": "Text Box 135",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2120900,
+   "y": 4800600,
+   "cx": 742950,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.41,
+    47.8,
+    37.01,
+    48.72
+   ],
+   "text": "TELESCOPIC JOINT",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40078",
+   "name": "Text Box 136",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2206625,
+   "y": 4932363,
+   "cx": 571500,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.51,
+    49.11,
+    35.9,
+    50.05
+   ],
+   "text": "'WPB-2DE' SSD",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40079",
+   "name": "Text Box 137",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 4930775,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    49.1,
+    24.72,
+    50.02
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40080",
+   "name": "Text Box 138",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1189038,
+   "y": 4933950,
+   "cx": 325437,
+   "cy": 77788,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.36,
+    49.13,
+    19.57,
+    49.91
+   ],
+   "text": "CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40081",
+   "name": "Text Box 139",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 5495925,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    54.73,
+    43.61,
+    55.66
+   ],
+   "text": "1677.6",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40082",
+   "name": "Text Box 140",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 5500688,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    54.77,
+    24.72,
+    55.69
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40083",
+   "name": "Text Box 141",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2243138,
+   "y": 5495925,
+   "cx": 498475,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.98,
+    54.73,
+    35.43,
+    55.66
+   ],
+   "text": "WP-1 NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40084",
+   "name": "Text Box 142",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 5778500,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    57.54,
+    43.61,
+    58.47
+   ],
+   "text": "1684.1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40085",
+   "name": "Text Box 143",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 6010275,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    59.85,
+    43.61,
+    60.78
+   ],
+   "text": "1687.0",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40086",
+   "name": "Text Box 144",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 6134100,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    61.08,
+    43.61,
+    62.01
+   ],
+   "text": "1687.7",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40087",
+   "name": "Text Box 145",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2036763,
+   "y": 7631113,
+   "cx": 920750,
+   "cy": 223837,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.32,
+    75.99,
+    38.22,
+    78.22
+   ],
+   "text": "GUIB MAGNUM\n'HT' PERM. PKR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40088",
+   "name": "Line 146",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6611938,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    65.84,
+    46.97,
+    65.84
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40089",
+   "name": "Line 147",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6645275,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    66.17,
+    46.97,
+    66.17
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40090",
+   "name": "Line 148",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6681788,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    66.53,
+    46.97,
+    66.53
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40091",
+   "name": "Line 149",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6715125,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    66.87,
+    46.97,
+    66.87
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40092",
+   "name": "Line 150",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6443663,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    64.16,
+    46.97,
+    64.16
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40093",
+   "name": "Line 151",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6470650,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    64.43,
+    46.97,
+    64.43
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40094",
+   "name": "Line 152",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6496050,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    64.69,
+    46.97,
+    64.69
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40095",
+   "name": "Line 153",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6521450,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    64.94,
+    46.97,
+    64.94
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40096",
+   "name": "Line 154",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3457575,
+   "y": 6415088,
+   "cx": 177800,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    44.68,
+    63.88,
+    46.97,
+    63.88
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40097",
+   "name": "Text Box 155",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 5535613,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    55.12,
+    80.33,
+    56.04
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40098",
+   "name": "Text Box 156",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4500563,
+   "y": 5540375,
+   "cx": 242887,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.15,
+    55.17,
+    61.29,
+    56.1
+   ],
+   "text": "1677.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40099",
+   "name": "Text Box 157",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5140325,
+   "y": 5545138,
+   "cx": 498475,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.42,
+    55.22,
+    72.86,
+    56.15
+   ],
+   "text": "WP-1 NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40100",
+   "name": "Text Box 158",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6407150,
+   "y": 6345238,
+   "cx": 325438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.79,
+    63.18,
+    86.99,
+    64.12
+   ],
+   "text": "CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40101",
+   "name": "Text Box 159",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5140325,
+   "y": 6680200,
+   "cx": 498475,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.42,
+    66.52,
+    72.86,
+    67.44
+   ],
+   "text": "BLAST JOINT",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40102",
+   "name": "Text Box 160",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 6691313,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    66.63,
+    80.33,
+    67.55
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40103",
+   "name": "Text Box 161",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5054600,
+   "y": 8047038,
+   "cx": 669925,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.31,
+    80.13,
+    73.97,
+    81.06
+   ],
+   "text": "'D' NO-GO NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40104",
+   "name": "Text Box 162",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 7308850,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    72.78,
+    61.37,
+    73.71
+   ],
+   "text": "1739.0",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40105",
+   "name": "Text Box 163",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5118100,
+   "y": 7319963,
+   "cx": 542925,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.13,
+    72.89,
+    73.15,
+    73.81
+   ],
+   "text": "CENTRALIZER",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40106",
+   "name": "Text Box 164",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 7319963,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    72.89,
+    80.33,
+    73.81
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40107",
+   "name": "Oval 165",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4065588,
+   "y": 4400550,
+   "cx": 100012,
+   "cy": 119063,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.53,
+    43.82,
+    53.83,
+    45.0
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40108",
+   "name": "Line 166",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4130675,
+   "y": 4443413,
+   "cx": 0,
+   "cy": 36512,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.37,
+    44.25,
+    53.37,
+    44.61
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40109",
+   "name": "Line 167",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4098925,
+   "y": 4443413,
+   "cx": 0,
+   "cy": 36512,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.96,
+    44.25,
+    52.96,
+    44.61
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40110",
+   "name": "Oval 168",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3741738,
+   "y": 4389438,
+   "cx": 100012,
+   "cy": 119062,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.35,
+    43.71,
+    49.64,
+    44.89
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40111",
+   "name": "Line 169",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3806825,
+   "y": 4432300,
+   "cx": 0,
+   "cy": 36513,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.19,
+    44.14,
+    49.19,
+    44.5
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40112",
+   "name": "Line 170",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3775075,
+   "y": 4432300,
+   "cx": 0,
+   "cy": 36513,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.78,
+    44.14,
+    48.78,
+    44.5
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40113",
+   "name": "Rectangle 171",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3821113,
+   "y": 7558088,
+   "cx": 271462,
+   "cy": 401637,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.37,
+    75.26,
+    52.88,
+    79.26
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40114",
+   "name": "Rectangle 172",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3819525,
+   "y": 7629525,
+   "cx": 271463,
+   "cy": 34925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.35,
+    75.97,
+    52.86,
+    76.32
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40115",
+   "name": "Rectangle 173",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3819525,
+   "y": 7704138,
+   "cx": 271463,
+   "cy": 34925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.35,
+    76.72,
+    52.86,
+    77.06
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40116",
+   "name": "Rectangle 174",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3819525,
+   "y": 7778750,
+   "cx": 271463,
+   "cy": 34925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.35,
+    77.46,
+    52.86,
+    77.81
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40117",
+   "name": "Rectangle 175",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3819525,
+   "y": 7853363,
+   "cx": 271463,
+   "cy": 34925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.35,
+    78.2,
+    52.86,
+    78.55
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40118",
+   "name": "Rectangle 176",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3819525,
+   "y": 7927975,
+   "cx": 271463,
+   "cy": 34925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.35,
+    78.94,
+    52.86,
+    79.29
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40119",
+   "name": "Line 177",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3821113,
+   "y": 7594600,
+   "cx": 0,
+   "cy": 385763,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    49.37,
+    75.62,
+    49.37,
+    79.47
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40120",
+   "name": "Freeform 178",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3803650,
+   "y": 7564438,
+   "cx": 307975,
+   "cy": 31750,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.15,
+    75.32,
+    53.13,
+    75.64
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40121",
+   "name": "Rectangle 179",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3906838,
+   "y": 8064500,
+   "cx": 103187,
+   "cy": 117475,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.48,
+    80.3,
+    51.82,
+    81.47
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40122",
+   "name": "Line 180",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3930650,
+   "y": 8066088,
+   "cx": 0,
+   "cy": 112712,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    50.79,
+    80.32,
+    50.79,
+    81.44
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40123",
+   "name": "Line 181",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3984625,
+   "y": 8066088,
+   "cx": 0,
+   "cy": 112712,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    51.49,
+    80.32,
+    51.49,
+    81.44
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40124",
+   "name": "Line 182",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3905250,
+   "y": 8177213,
+   "cx": 19050,
+   "cy": 42862,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.46,
+    81.43,
+    50.71,
+    81.85
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40125",
+   "name": "Line 183",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3925888,
+   "y": 8221663,
+   "cx": 80962,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.73,
+    81.87,
+    51.77,
+    81.87
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40126",
+   "name": "Line 184",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4006850,
+   "y": 8177213,
+   "cx": 0,
+   "cy": 41275,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.77,
+    81.43,
+    51.77,
+    81.84
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40127",
+   "name": "Line 185",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4092575,
+   "y": 7594600,
+   "cx": 0,
+   "cy": 385763,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": false,
+   "pct": [
+    52.88,
+    75.62,
+    52.88,
+    79.47
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40128",
+   "name": "Oval 186",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3903663,
+   "y": 6904038,
+   "cx": 101600,
+   "cy": 112712,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.44,
+    68.75,
+    51.75,
+    69.87
+   ],
+   "text": "",
+   "geom": "ellipse",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40129",
+   "name": "Text Box 187",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 7542213,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    75.1,
+    61.37,
+    76.02
+   ],
+   "text": "1739.0",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40130",
+   "name": "Text Box 188",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5060950,
+   "y": 7553325,
+   "cx": 657225,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    65.39,
+    75.21,
+    73.89,
+    76.13
+   ],
+   "text": "LOC. SEAL ASSY.",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40131",
+   "name": "Text Box 189",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 7553325,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    75.21,
+    80.33,
+    76.13
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40132",
+   "name": "Text Box 190",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 6913563,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    68.84,
+    80.33,
+    69.76
+   ],
+   "text": "2.312",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40133",
+   "name": "Text Box 191",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4514850,
+   "y": 6916738,
+   "cx": 239713,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.34,
+    68.87,
+    61.44,
+    69.79
+   ],
+   "text": "1737.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40134",
+   "name": "Text Box 192",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5140325,
+   "y": 6926263,
+   "cx": 498475,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.42,
+    68.97,
+    72.86,
+    69.9
+   ],
+   "text": "WP-1 NIPPLE",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40135",
+   "name": "Freeform 193",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3549650,
+   "y": 7648575,
+   "cx": 266700,
+   "cy": 106363,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.87,
+    76.16,
+    49.31,
+    77.22
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40136",
+   "name": "Freeform 194",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3549650,
+   "y": 7753350,
+   "cx": 266700,
+   "cy": 106363,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.87,
+    77.21,
+    49.31,
+    78.26
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40137",
+   "name": "Freeform 195",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4092575,
+   "y": 7648575,
+   "cx": 274638,
+   "cy": 106363,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.88,
+    76.16,
+    56.43,
+    77.22
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40138",
+   "name": "Freeform 196",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4092575,
+   "y": 7753350,
+   "cx": 274638,
+   "cy": 106363,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.88,
+    77.21,
+    56.43,
+    78.26
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40139",
+   "name": "Text Box 197",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4797425,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    47.77,
+    43.61,
+    48.7
+   ],
+   "text": "1628.8",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40140",
+   "name": "Freeform 198",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3551238,
+   "y": 5756275,
+   "cx": 230187,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.89,
+    57.32,
+    48.86,
+    57.86
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40141",
+   "name": "Freeform 199",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3551238,
+   "y": 5808663,
+   "cx": 230187,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    45.89,
+    57.84,
+    48.86,
+    58.39
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40142",
+   "name": "Freeform 200",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3790950,
+   "y": 5756275,
+   "cx": 320675,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.98,
+    57.32,
+    53.13,
+    57.86
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40143",
+   "name": "Freeform 201",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3790950,
+   "y": 5808663,
+   "cx": 320675,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.98,
+    57.84,
+    53.13,
+    58.39
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40144",
+   "name": "Freeform 202",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4121150,
+   "y": 5756275,
+   "cx": 242888,
+   "cy": 53975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.25,
+    57.32,
+    56.39,
+    57.86
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40145",
+   "name": "Freeform 203",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4121150,
+   "y": 5808663,
+   "cx": 242888,
+   "cy": 55562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.25,
+    57.84,
+    56.39,
+    58.39
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40146",
+   "name": "Rectangle 204",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3937000,
+   "y": 6542088,
+   "cx": 33338,
+   "cy": 331787,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.87,
+    65.14,
+    51.3,
+    68.45
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40147",
+   "name": "Line 205",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 5434013,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    54.11,
+    38.42,
+    54.11
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40148",
+   "name": "Text Box 206",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1189038,
+   "y": 4414838,
+   "cx": 325437,
+   "cy": 79375,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.36,
+    43.96,
+    19.57,
+    44.75
+   ],
+   "text": "CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40149",
+   "name": "Text Box 207",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6407150,
+   "y": 4411663,
+   "cx": 325438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.79,
+    43.93,
+    86.99,
+    44.85
+   ],
+   "text": "CLOSED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40150",
+   "name": "Text Box 208",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2025650,
+   "y": 5724525,
+   "cx": 950913,
+   "cy": 198438,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.17,
+    57.0,
+    38.46,
+    58.98
+   ],
+   "text": "GUIB. UNI-XXVII\nDUAL HYD. PKR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40151",
+   "name": "Text Box 209",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 7912100,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    78.79,
+    61.37,
+    79.72
+   ],
+   "text": "1740.7",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40152",
+   "name": "Text Box 210",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5113338,
+   "y": 7915275,
+   "cx": 617537,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.07,
+    78.82,
+    74.05,
+    79.73
+   ],
+   "text": "SEAL BORE EXT",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40153",
+   "name": "Text Box 211",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3154363,
+   "y": 3779838,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.76,
+    37.64,
+    43.34,
+    38.56
+   ],
+   "text": "964.5",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40154",
+   "name": "Text Box 212",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 787400,
+   "y": 3786188,
+   "cx": 762000,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    10.17,
+    37.7,
+    20.02,
+    38.63
+   ],
+   "text": "GLV 12/64 PTRO 780",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40155",
+   "name": "Text Box 213",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3813175,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    37.97,
+    24.72,
+    38.89
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40156",
+   "name": "Freeform 214",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 3783013,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    37.67,
+    48.92,
+    38.68
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40157",
+   "name": "Text Box 215",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 3905250,
+   "cx": 241300,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    38.89,
+    43.61,
+    39.82
+   ],
+   "text": "1253.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40158",
+   "name": "Text Box 216",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 787400,
+   "y": 3913188,
+   "cx": 762000,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    10.17,
+    38.97,
+    20.02,
+    39.88
+   ],
+   "text": "GLV 12/64 PTRO 960",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40159",
+   "name": "Text Box 217",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 3940175,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    39.23,
+    24.72,
+    40.15
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40160",
+   "name": "Text Box 218",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4068763,
+   "cx": 241300,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    40.52,
+    43.61,
+    41.45
+   ],
+   "text": "1455.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40161",
+   "name": "Text Box 219",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2238375,
+   "y": 4081463,
+   "cx": 509588,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.92,
+    40.64,
+    35.51,
+    41.57
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40162",
+   "name": "Text Box 220",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 4102100,
+   "cx": 198438,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    40.85,
+    24.72,
+    41.76
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40163",
+   "name": "Freeform 221",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 4070350,
+   "cx": 52388,
+   "cy": 103188,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    40.53,
+    48.92,
+    41.56
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40164",
+   "name": "Freeform 222",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 3922713,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    39.06,
+    48.92,
+    40.07
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40165",
+   "name": "Text Box 223",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 7712075,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    76.79,
+    43.61,
+    77.71
+   ],
+   "text": "1793.1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40166",
+   "name": "Rectangle 224",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1109663,
+   "y": 8505825,
+   "cx": 1873250,
+   "cy": 404813,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.34,
+    84.7,
+    38.54,
+    88.73
+   ],
+   "text": "9 5/8\" CASING SHOE",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40167",
+   "name": "Line 225",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 7969250,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    79.36,
+    38.42,
+    79.36
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40168",
+   "name": "Line 226",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 8526463,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    84.9,
+    38.42,
+    84.9
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40169",
+   "name": "Text Box 227",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1089025,
+   "y": 714375,
+   "cx": 5757863,
+   "cy": 265113,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.07,
+    7.11,
+    88.47,
+    9.75
+   ],
+   "text": "WELL B-18 : DUAL OIL PRODUCER WITH SHORT STRING SELECTIVE (TYPE 8)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40170",
+   "name": "Text Box 228",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3133725,
+   "y": 4211638,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    40.49,
+    41.94,
+    43.61,
+    42.85
+   ],
+   "text": "1599.6",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40171",
+   "name": "Text Box 230",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 4243388,
+   "cx": 198438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    42.25,
+    24.72,
+    43.19
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40172",
+   "name": "Freeform 231",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3733800,
+   "y": 4213225,
+   "cx": 52388,
+   "cy": 103188,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.25,
+    41.95,
+    48.92,
+    42.98
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40173",
+   "name": "Rectangle 232",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4100513,
+   "y": 5118100,
+   "cx": 33337,
+   "cy": 307975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.98,
+    50.96,
+    53.42,
+    54.03
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40174",
+   "name": "Text Box 233",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 5097463,
+   "cx": 241300,
+   "cy": 90487,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    50.76,
+    61.37,
+    51.66
+   ],
+   "text": "1636.3",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40175",
+   "name": "Freeform 234",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4800600,
+   "y": 5118100,
+   "cx": 60325,
+   "cy": 276225,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    62.03,
+    50.96,
+    62.81,
+    53.71
+   ],
+   "text": "",
+   "geom": "custom"
+  },
+  {
+   "kind": "sp",
+   "id": "40176",
+   "name": "Text Box 235",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4508500,
+   "y": 5362575,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.26,
+    53.4,
+    61.37,
+    54.32
+   ],
+   "text": "1645.2",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40177",
+   "name": "Text Box 236",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5138738,
+   "y": 5181600,
+   "cx": 500062,
+   "cy": 173038,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.4,
+    51.6,
+    72.86,
+    53.32
+   ],
+   "text": "BLAST JOINT",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40178",
+   "name": "Text Box 237",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6018213,
+   "y": 5233988,
+   "cx": 198437,
+   "cy": 90487,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.76,
+    52.12,
+    80.33,
+    53.02
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40179",
+   "name": "Rectangle 238",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3775075,
+   "y": 5118100,
+   "cx": 33338,
+   "cy": 307975,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.78,
+    50.96,
+    49.21,
+    54.03
+   ],
+   "text": "",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40180",
+   "name": "Text Box 239",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 5767388,
+   "cx": 198438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    57.43,
+    24.72,
+    58.36
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40181",
+   "name": "Text Box 240",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 6118225,
+   "cx": 198438,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    60.92,
+    24.72,
+    61.86
+   ],
+   "text": "2.441",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40182",
+   "name": "Text Box 241",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1714500,
+   "y": 5999163,
+   "cx": 198438,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    22.15,
+    59.74,
+    24.72,
+    60.67
+   ],
+   "text": "2.250",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40183",
+   "name": "Text Box 242",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2220913,
+   "y": 4398963,
+   "cx": 544512,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.7,
+    43.8,
+    35.73,
+    44.72
+   ],
+   "text": "WPB-2DE SSD",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40184",
+   "name": "Text Box 243",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5141913,
+   "y": 4413250,
+   "cx": 544512,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.44,
+    43.95,
+    73.48,
+    44.88
+   ],
+   "text": "WPB-2DE SSD",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40185",
+   "name": "Text Box 244",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6016625,
+   "y": 7907338,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.74,
+    78.74,
+    80.33,
+    79.67
+   ],
+   "text": "4.000",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40186",
+   "name": "Text Box 245",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5127625,
+   "y": 4922838,
+   "cx": 571500,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.26,
+    49.02,
+    73.64,
+    49.95
+   ],
+   "text": "'WPB-2DE' SSD",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40187",
+   "name": "Text Box 246",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5127625,
+   "y": 6323013,
+   "cx": 571500,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.26,
+    62.96,
+    73.64,
+    63.88
+   ],
+   "text": "'WPB-2DE' SSD",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40188",
+   "name": "Freeform 247",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 3816350,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    38.0,
+    53.89,
+    39.01
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40189",
+   "name": "Text Box 248",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6396038,
+   "y": 3792538,
+   "cx": 762000,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.65,
+    37.76,
+    92.49,
+    38.68
+   ],
+   "text": "GLV 10/64 PTRO 820",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40190",
+   "name": "Text Box 249",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 3805238,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    37.89,
+    80.31,
+    38.82
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40191",
+   "name": "Text Box 250",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4519613,
+   "y": 3808413,
+   "cx": 200025,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.4,
+    37.92,
+    60.98,
+    38.84
+   ],
+   "text": "974.6",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40192",
+   "name": "Freeform 251",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 3956050,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    39.39,
+    53.89,
+    40.4
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40193",
+   "name": "Text Box 252",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6396038,
+   "y": 3932238,
+   "cx": 762000,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.65,
+    39.16,
+    92.49,
+    40.09
+   ],
+   "text": "GLV 10/64 PTRO 880",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40194",
+   "name": "Text Box 253",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 3944938,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    39.28,
+    80.31,
+    40.21
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40195",
+   "name": "Text Box 254",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4498975,
+   "y": 3948113,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.13,
+    39.31,
+    61.25,
+    40.23
+   ],
+   "text": "1262.9",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40196",
+   "name": "Freeform 255",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 4102100,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    40.85,
+    53.89,
+    41.86
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40197",
+   "name": "Text Box 256",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6396038,
+   "y": 4078288,
+   "cx": 762000,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.65,
+    40.61,
+    92.49,
+    41.54
+   ],
+   "text": "GLV 10/64 PTRO 940",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40198",
+   "name": "Text Box 257",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 4090988,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    40.74,
+    80.31,
+    41.67
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40199",
+   "name": "Text Box 258",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4498975,
+   "y": 4094163,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.13,
+    40.77,
+    61.25,
+    41.69
+   ],
+   "text": "1474.5",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40200",
+   "name": "Freeform 259",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4117975,
+   "y": 4238625,
+   "cx": 52388,
+   "cy": 101600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    53.21,
+    42.21,
+    53.89,
+    43.22
+   ],
+   "text": "",
+   "geom": "custom",
+   "fill": "000000"
+  },
+  {
+   "kind": "sp",
+   "id": "40201",
+   "name": "Text Box 260",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6580188,
+   "y": 4214813,
+   "cx": 395287,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.03,
+    41.97,
+    90.13,
+    42.89
+   ],
+   "text": "GLOV 8/64",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40202",
+   "name": "Text Box 261",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6015038,
+   "y": 4227513,
+   "cx": 200025,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    77.72,
+    42.1,
+    80.31,
+    43.03
+   ],
+   "text": "2.371",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40203",
+   "name": "Text Box 262",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 4498975,
+   "y": 4230688,
+   "cx": 241300,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.13,
+    42.13,
+    61.25,
+    43.04
+   ],
+   "text": "1609.2",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40204",
+   "name": "Text Box 263",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 3595688,
+   "y": 8710613,
+   "cx": 781050,
+   "cy": 185737,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.46,
+    86.74,
+    56.55,
+    88.59
+   ],
+   "text": "TD @ 1852 m MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40205",
+   "name": "Rectangle 264",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1114425,
+   "y": 6316663,
+   "cx": 1838325,
+   "cy": 546100,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    14.4,
+    62.9,
+    38.15,
+    68.34
+   ],
+   "text": "SAND : E-10/11 (FB S2; WIR)\nPERFT : 1701.24 m - 1715.24 m\n               1717.24 m - 1722.24 m\n               1725.24 m - 1735.24 m",
+   "geom": "rect",
+   "fill": "FFFFFF"
+  },
+  {
+   "kind": "sp",
+   "id": "40206",
+   "name": "Line 265",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 6389688,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    63.63,
+    38.42,
+    63.63
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40207",
+   "name": "Line 266",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1108075,
+   "y": 6778625,
+   "cx": 1865313,
+   "cy": 0,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": true,
+   "pct": [
+    14.32,
+    67.5,
+    38.42,
+    67.5
+   ],
+   "text": "",
+   "geom": "line"
+  },
+  {
+   "kind": "sp",
+   "id": "40208",
+   "name": "Text Box 268",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2238375,
+   "y": 4221163,
+   "cx": 509588,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.92,
+    42.03,
+    35.51,
+    42.95
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40209",
+   "name": "Text Box 269",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2230438,
+   "y": 3937000,
+   "cx": 511175,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.82,
+    39.2,
+    35.43,
+    40.14
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40210",
+   "name": "Text Box 270",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2211388,
+   "y": 3759200,
+   "cx": 509587,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.57,
+    37.43,
+    35.16,
+    38.37
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40211",
+   "name": "Text Box 271",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 2211388,
+   "y": 3613150,
+   "cx": 509587,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    28.57,
+    35.98,
+    35.16,
+    36.91
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40212",
+   "name": "Text Box 272",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5167313,
+   "y": 4121150,
+   "cx": 511175,
+   "cy": 93663,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.77,
+    41.04,
+    73.37,
+    41.97
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40213",
+   "name": "Text Box 273",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5167313,
+   "y": 4260850,
+   "cx": 511175,
+   "cy": 92075,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.77,
+    42.43,
+    73.37,
+    43.34
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40214",
+   "name": "Text Box 274",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5160963,
+   "y": 3976688,
+   "cx": 509587,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.69,
+    39.6,
+    73.27,
+    40.53
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40215",
+   "name": "Text Box 275",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5141913,
+   "y": 3798888,
+   "cx": 509587,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.44,
+    37.83,
+    73.03,
+    38.76
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40216",
+   "name": "Text Box 276",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 5141913,
+   "y": 3652838,
+   "cx": 509587,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.44,
+    36.37,
+    73.03,
+    37.31
+   ],
+   "text": "KBMG-M SPM",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40217",
+   "name": "Text Box 277",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 714375,
+   "y": 4090988,
+   "cx": 847725,
+   "cy": 93662,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    9.23,
+    40.74,
+    20.18,
+    41.67
+   ],
+   "text": "20/64” GLOV 26/2/04",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40218",
+   "name": "Text Box 206",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1179513,
+   "y": 4271963,
+   "cx": 325437,
+   "cy": 79375,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.24,
+    42.54,
+    19.45,
+    43.33
+   ],
+   "text": "DV",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40219",
+   "name": "Text Box 206",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 1208088,
+   "y": 6092825,
+   "cx": 325437,
+   "cy": 77788,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    15.61,
+    60.67,
+    19.82,
+    61.44
+   ],
+   "text": "OPENED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "40220",
+   "name": "Text Box 206",
+   "path": [
+    "Group 1"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 6397625,
+   "y": 8188325,
+   "cx": 325438,
+   "cy": 79375,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    82.67,
+    81.54,
+    86.87,
+    82.33
+   ],
+   "text": "OPENED",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39941",
+   "name": "Text Box 133",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -2814638,
+   "y": 7319963,
+   "cx": 2508250,
+   "cy": 184150,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -36.37,
+    72.89,
+    -3.96,
+    74.72
+   ],
+   "text": "LAST TC\t: SS, 18/04/2017\nTYPE OF JOB\t: TBCLR tag No GO @1697m-MDWLTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "39942",
+   "name": "Text Box 133",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -2841625,
+   "y": 7777163,
+   "cx": 2636837,
+   "cy": 276225,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -36.72,
+    77.44,
+    -2.65,
+    80.19
+   ],
+   "text": "LAST TC\t: LS, 16/04/2017\nTYPE OF JOB\t:  TBCLR tag No Go @ 1753m-MDWLTHF\t",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "284",
+   "name": "TextBox 283",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6251575,
+   "y": 6561138,
+   "cx": 969963,
+   "cy": 415925,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    80.78,
+    65.33,
+    93.31,
+    69.48
+   ],
+   "text": "17/04/17: \nInstall tubing packoff 1728-1732 m-MDTHF",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "286",
+   "name": "Text Box 209",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4505324,
+   "y": 3303415,
+   "cx": 2679701,
+   "cy": 189085,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    58.22,
+    32.89,
+    92.84,
+    34.78
+   ],
+   "text": "CS Lock + Storm Choke @ TRSV (June 2023). Flapper lock open Feb 2017",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "288",
+   "name": "Rectangle: Rounded Corners 287",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4038600,
+   "y": 3241040,
+   "cx": 167640,
+   "cy": 81280,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.18,
+    32.27,
+    54.35,
+    33.08
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "40254",
+   "name": "Rectangle 40253",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3917950,
+   "y": 6718300,
+   "cx": 82550,
+   "cy": 127000,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    50.63,
+    66.9,
+    51.69,
+    68.16
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Text Box 209",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 385368,
+   "y": 3177662,
+   "cx": 1328287,
+   "cy": 242871,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.98,
+    31.64,
+    22.14,
+    34.06
+   ],
+   "text": "2-7/8” Paragon Nippleless Plug set at 252m MDDF (Oct 2023)",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Rectangle: Rounded Corners 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3708132,
+   "y": 3237831,
+   "cx": 167640,
+   "cy": 81280,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.91,
+    32.24,
+    50.08,
+    33.05
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "pic",
+   "id": "274",
+   "name": "Graphic 273",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 3601561,
+   "y": 4759218,
+   "cx": 202936,
+   "cy": 202936,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.54,
+    47.39,
+    49.16,
+    49.41
+   ],
+   "image": null,
+   "image_alt": "../media/image4.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "276",
+   "name": "TextBox 275",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 419100,
+   "y": 4545956,
+   "cx": 1531620,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    5.42,
+    45.27,
+    25.21,
+    48.03
+   ],
+   "text": "2.29” Gauge Ring HUD @ 1631m WLTHF\n2.25” LIB tag ‘D’ No-Go (Feb 2023)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "Footer Placeholder 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "Rectangle 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 95205,
+   "y": 246344,
+   "cx": 7410735,
+   "cy": 9280478,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    1.23,
+    2.45,
+    96.99,
+    94.86
+   ],
+   "text": "ALREADY WORKOVER TO ESP COMPLETION. REFER TO ECMS FOR LATEST SCHEMATIC \n\n- PRAVIN NAIR -",
+   "geom": "rect"
+  }
+ ]
+}

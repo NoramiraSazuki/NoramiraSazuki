@@ -1,0 +1,562 @@
+[
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B2",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C2",
+"how": "cell text",
+"text": "2 of 4"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B3",
+"how": "cell text",
+"text": "File"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C3",
+"how": "cell text",
+"text": "SFL 82035"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B4",
+"how": "cell text",
+"text": "Well "
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C4",
+"how": "cell text",
+"text": "Dulang-1"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C5",
+"how": "cell text",
+"text": "Test 2"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B7",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLES RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C9",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C10",
+"how": "cell text",
+"text": "SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E10",
+"how": "cell text",
+"text": "LABORATORY OPENING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B11",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C11",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D11",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E11",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell F11",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B12",
+"how": "cell text",
+"text": "A 5293*"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B13",
+"how": "cell text",
+"text": "A 5469"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C16",
+"how": "cell text",
+"text": "SEPARATOR LIQUID"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C17",
+"how": "cell text",
+"text": "SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E17",
+"how": "cell text",
+"text": "LABORATORY BUBBLE CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B18",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C18",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D18",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E18",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell F18",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B19",
+"how": "cell text",
+"text": "33*"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B20",
+"how": "cell text",
+"text": "65A0001A"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E20",
+"how": "cell text",
+"text": "--"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell F20",
+"how": "cell text",
+"text": "--"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B23",
+"how": "cell text",
+"text": "Cylinder 33 contained 66cc water"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B24",
+"how": "cell text",
+"text": "Cylinder 65A0001A burst during quality check"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B2",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C2",
+"how": "cell text",
+"text": "3 of 4"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B3",
+"how": "cell text",
+"text": "File"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C3",
+"how": "cell text",
+"text": "SFL 82035"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B4",
+"how": "cell text",
+"text": "Well "
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C4",
+"how": "cell text",
+"text": "Dulang-1"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C5",
+"how": "cell text",
+"text": "Test 2"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B7",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSIS OF SEPARATOR PRODUCTS AND CALCULATED WELL STREAM"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C9",
+"how": "cell text",
+"text": "SEPARATOR LIQUID"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D9",
+"how": "cell text",
+"text": "SEPARATOR GAS"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell F9",
+"how": "cell text",
+"text": "WELLSTREAM"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B10",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell E10",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell F10",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B11",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B12",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B13",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B14",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B15",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B16",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B17",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B18",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B19",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B20",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B21",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B22",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B23",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B24",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B25",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B26",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B30",
+"how": "cell text",
+"text": "Properties of Heptanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B32",
+"how": "cell text",
+"text": "API Gravity @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B33",
+"how": "cell text",
+"text": "Density, GM/CC @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B34",
+"how": "cell text",
+"text": "Molecular Weight"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D34",
+"how": "cell text",
+"text": "103 (assumed)"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B36",
+"how": "cell text",
+"text": "Calculated separator gas gravity (air = 1.000) "
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B37",
+"how": "cell text",
+"text": "Calculated gross heating value for separator gas per cubic foot of dry gas @ 14.73 psia and 60°F"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D37",
+"how": "cell text",
+"text": "BTU"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B39",
+"how": "cell text",
+"text": "Primary separator gas collected @"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D39",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell E39",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell G39",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B40",
+"how": "cell text",
+"text": "Primary separator liquid collected @"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D40",
+"how": "cell text",
+"text": "psig"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell E40",
+"how": "cell text",
+"text": "and "
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell G40",
+"how": "cell text",
+"text": "°F"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B42",
+"how": "cell text",
+"text": "*Primary separator gas/separator oil ratio is 342 SCF/Bbl at 148 °F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B2",
+"how": "cell text",
+"text": "Page"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C2",
+"how": "cell text",
+"text": "4 of 4"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B3",
+"how": "cell text",
+"text": "File"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C3",
+"how": "cell text",
+"text": "SFL 82035"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B4",
+"how": "cell text",
+"text": "Well "
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C4",
+"how": "cell text",
+"text": "Dulang-1"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C5",
+"how": "cell text",
+"text": "Test 2"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B7",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSIS OF SEPARATOR LIQUID SAMPLE"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B9",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell C9",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell D9",
+"how": "cell text",
+"text": "WEIGHT %"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell E9",
+"how": "cell text",
+"text": "DENSITY"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell F9",
+"how": "cell text",
+"text": "API @ 60°F"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell G9",
+"how": "cell text",
+"text": "MOL WEIGHT"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B10",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B11",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B12",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B13",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B14",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B15",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B16",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B17",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B18",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B19",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B20",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B21",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B22",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B23",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B24",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'SEPARATOR LIQUID SAMPLES' cell B25",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "COMPOSITIONAL ANALYSIS\nTO UNDECANES PLUS\nTEST 2\n\nDULANG-1\nMALAYSIA\n\nCORE LABORATORIES\n\nESSO PRODUCTION MALAYSIA INC.\n\n"
+}
+]

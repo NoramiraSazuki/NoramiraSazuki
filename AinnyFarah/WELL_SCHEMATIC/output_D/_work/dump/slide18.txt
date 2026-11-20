@@ -1,0 +1,33 @@
+# slide 18 (slides/slide18.xml) hidden=False objects=23
+# notes: 'Updated as of 2017\n\nOpen\n17'
+[sp id=22 'Oval 21' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[pic id=21 'Picture 2' pct=[30.94, 4.01, 69.86, 99.4] hidden=False img=../media/image52.png]
+[sp id=24 'TextBox 23' pct=[44.35, 60.96, 49.11, 65.52] hidden=False]
+     Tag D-nogo @ 1360m MDTHF (13/1/2019)
+[sp id=25 'TextBox 24' pct=[32.27, 36.54, 36.6, 38.85] hidden=False]
+        Close
+[sp id=26 'TextBox 25' pct=[32.34, 42.85, 36.67, 45.16] hidden=False]
+        Close
+[sp id=27 'TextBox 26' pct=[32.27, 55.96, 36.6, 58.27] hidden=False]
+        Open
+[sp id=28 'TextBox 27' pct=[63.82, 36.42, 68.15, 38.72] hidden=False]
+        Close
+[sp id=29 'TextBox 28' pct=[63.83, 42.31, 68.16, 44.62] hidden=False]
+        Close
+[sp id=30 'TextBox 29' pct=[63.82, 58.65, 68.15, 60.96] hidden=False]
+        Close
+[sp id=31 'TextBox 30' pct=[63.82, 69.6, 68.15, 71.91] hidden=False]
+        Open
+[sp id=33 'TextBox 32' pct=[63.7, 86.87, 68.02, 90.19] hidden=False]
+        Close
+[sp id=36 'Rectangle 35' pct=[31.93, 33.27, 37.13, 34.81] hidden=False]
+    #4 DV (7/8/05)
+[sp id=53 'TextBox 52' pct=[32.4, 38.63, 39.06, 41.58] hidden=False]
+    MA Pug@ SSD@2
+[sp id=54 'TextBox 53' pct=[63.82, 23.38, 69.23, 27.05] hidden=False]
+    MA Plug @ WP1 Nipple
+[sp id=56 'TextBox 55' pct=[63.54, 83.12, 70.89, 86.54] hidden=False]
+    CA Plug set in 2002 @ No-Go
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

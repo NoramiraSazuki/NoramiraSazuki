@@ -1,0 +1,27 @@
+# slide 17 (slides/slide17.xml) hidden=False objects=18
+# notes: 'Open\n17'
+[pic id=5122 'Picture 2' pct=[1.09, 1.67, 94.42, 58.33] hidden=False img=../media/image38.png]
+[pic id=5123 'Picture 3' pct=[1.09, 57.77, 94.42, 86.67] hidden=False img=../media/image39.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=8 'TextBox 7' pct=[0.0, 50.21, 12.36, 54.25] hidden=False]
+    OPEN (GI)
+    30/APR/1992
+[sp id=9 'TextBox 8' pct=[1.49, 77.46, 12.52, 81.17] hidden=False]
+    OPEN
+    30/APR/1992
+[sp id=14 'TextBox 13' pct=[86.67, 34.63, 97.11, 38.33] hidden=False]
+    No clear GLV data
+[sp id=21 'TextBox 3' pct=[0.0, 0.0, 32.82, 2.36] hidden=False]
+    Latest Update: JULY 2023 BY PRAVIN NAIR
+[sp id=5 'Rectangle 4' pct=[79.63, 24.54, 96.0, 27.91] hidden=False]
+    WFT Slickplug set @ 126m MDTHF (Nov 2017)
+[sp id=13 'TextBox 12' pct=[-2.81, 24.88, 17.52, 28.24] hidden=False]
+    IV set @ TRSV profile (Jun 2022). TR flapper lock open in Sep 2013
+[sp id=46 'TextBox 45' pct=[19.05, 79.96, 35.55, 82.99] hidden=False]
+    Add Perf (E34) 1445m MDTHF
+    19/APR/2007
+[sp id=60 'TextBox 59' pct=[15.11, 40.0, 40.22, 42.19] hidden=False]
+    Packer Leak (Leakpoint survey 2011)
+[sp id=16 'Footer Placeholder 15' pct=None hidden=False]
+    Open

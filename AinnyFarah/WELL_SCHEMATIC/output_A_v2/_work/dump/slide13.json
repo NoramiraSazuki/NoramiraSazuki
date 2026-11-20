@@ -1,0 +1,328 @@
+{
+ "slide": 13,
+ "file": "slides/slide13.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n13",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "6",
+   "name": "Group 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 152400,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    1.67,
+    96.67,
+    91.67
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "1026",
+   "name": "Picture 2",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 152400,
+   "cx": 6400800,
+   "cy": 5321395,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    1.67,
+    96.67,
+    59.86
+   ],
+   "image": "../media/image28.png",
+   "crop": {
+    "l": "28889",
+    "t": "10667",
+    "r": "21111",
+    "b": "12889"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "1027",
+   "name": "Picture 3",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 228600,
+   "y": 5438438,
+   "cx": 6400800,
+   "cy": 2943562,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.33,
+    59.48,
+    96.67,
+    91.67
+   ],
+   "image": "../media/image29.png",
+   "crop": {
+    "l": "28889",
+    "t": "44667",
+    "r": "21111",
+    "b": "13048"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 971741,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    99.73,
+    4.87
+   ],
+   "text": "FB – SE1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 1",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 277847,
+   "y": 7543800,
+   "cx": 2050347,
+   "cy": 430887,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.05,
+    82.5,
+    33.95,
+    87.21
+   ],
+   "text": "E6/7\n1939.5 – 1948",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 283278,
+   "y": 4724400,
+   "cx": 2050347,
+   "cy": 430887,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.13,
+    51.67,
+    34.03,
+    56.38
+   ],
+   "text": "LD1\n1832.5  - 1836.5",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 283278,
+   "y": 6209110,
+   "cx": 2050347,
+   "cy": 769441,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.13,
+    67.9,
+    34.03,
+    76.32
+   ],
+   "text": "E2\n1911  -1914.5\n1916 – 1918.5\n1921.5 – 1924.5",
+   "geom": "rect",
+   "fill": "FFFF00"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -61068,
+   "y": 6428601,
+   "cx": 505267,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -0.89,
+    70.3,
+    6.48,
+    73.33
+   ],
+   "text": "close",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "TextBox 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -61068,
+   "y": 7647801,
+   "cx": 503664,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -0.89,
+    83.64,
+    6.45,
+    86.67
+   ],
+   "text": "open",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 0,
+   "cx": 2217274,
+   "cy": 230832,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    0.0,
+    32.33,
+    2.52
+   ],
+   "text": "Latest Update: Dec 2023 by Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "Rectangle 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 182880,
+   "y": 4411310,
+   "cx": 670560,
+   "cy": 307777,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.67,
+    48.24,
+    12.44,
+    51.61
+   ],
+   "text": "Closed (June 2013)",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Graphic 3",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 3337560,
+   "y": 6088380,
+   "cx": 160020,
+   "cy": 160020,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.67,
+    66.58,
+    51.0,
+    68.33
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "Rectangle 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3901440,
+   "y": 5691470,
+   "cx": 1546860,
+   "cy": 415498,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.89,
+    62.24,
+    79.44,
+    66.79
+   ],
+   "text": "2.29” drift & 2.25” LIB HUD @ 1907m MDTHF Sep 2017 (Scale impression)",
+   "geom": "rect",
+   "fill": "FF0000"
+  }
+ ]
+}

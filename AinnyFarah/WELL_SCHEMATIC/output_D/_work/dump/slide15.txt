@@ -1,0 +1,39 @@
+# slide 15 (slides/slide15.xml) hidden=False objects=17
+# notes: 'Updated on 4/12/2023 by Andek Amien\n\nSep’18, redress tubing packoff – no indication of WC changes, suspect is not properly set but the liquid improved based on WT measurement.\n\nRemarks CO2 Tracer (19 feb 2019)\nSS\nInjecting at SPM#2 while it was DV (leaking)\nLS\nInjecting at SPM#1 while it was PPO (based on setting it should be close but injecting – suspecting valve leaking)\n\nOpen\n14'
+[pic id=6153218 'Picture 2' pct=[30.45, 2.31, 68.53, 100.0] hidden=False img=../media/image44.png]
+[sp id=8 'TextBox 7' pct=[62.75, 59.91, 67.07, 65.29] hidden=False]
+     CLOSED
+[sp id=11 'TextBox 10' pct=[30.91, 30.29, 35.37, 40.0] hidden=False]
+    Refer to latest table
+[sp id=18 'TextBox 17' pct=[62.73, 30.86, 67.19, 39.54] hidden=False]
+    Refer to latest table
+[sp id=22 'TextBox 21' pct=[31.48, 40.0, 35.34, 43.33] hidden=False]
+    CLOSED
+[sp id=24 'TextBox 23' pct=[62.75, 59.59, 67.63, 65.73] hidden=False]
+    CLOSED – stiff SSD
+[graphicFrame id=25 'Table 24' pct=[70.59, 27.89, 96.58, 44.35] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | DV | 741 | - | - | June 2024
+    | 2 | PPO | 1260 | 720 | 12/64 | June 2024
+    | 3 | DV | 1664 | - | - | June 2024
+    | 4 | GLOV | 1769 | 0 | 14/64 | June 2024
+[graphicFrame id=26 'Table 25' pct=[1.47, 27.25, 29.8, 42.02] hidden=False]
+    | SPM | Type | Depth (m-MDTHF) | PTRO (psi) | Port size | Date Installed
+    | 1 | DV | 722 | - | - | 3 June 2024
+    | 2 | PPO | 1241 | 780 | 10/64 | 3 June 2024
+    | 3 | DV | 1644 | - | - | 3 June 2024
+    | 4 | GLOV | 1760 | - | 12/64 | 3 June 2024
+[sp id=9 'TextBox 8' pct=[54.84, 87.28, 63.97, 92.85] hidden=False]
+        7th Sept 2023. 2.29” GR tag Nogo  at 1914m, 1-7/8” sinker bar tag TD at 2224m. 
+[sp id=51 'TextBox 50' pct=[62.96, 41.72, 68.66, 47.28] hidden=False]
+    CLOSED
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'TextBox 1' pct=[30.62, 44.08, 35.51, 48.16] hidden=False]
+    OPENED
+[sp id=3 'TextBox 2' pct=[63.06, 81.15, 67.17, 83.5] hidden=False]
+    OPENED
+[sp id=4 'TextBox 3' pct=[62.68, 38.53, 66.54, 41.86] hidden=False]
+    CLOSED
+[sp id=6 'Rectangle 5' pct=[26.95, 88.77, 44.06, 92.85] hidden=False]
+    UPDATED BY PRAVIN NAIR JULY 2024

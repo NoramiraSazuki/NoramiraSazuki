@@ -1,0 +1,385 @@
+PETRONAS
+
+WELL NAME: DULANG C-03ST1
+
+CARIGALI
+
+LOCATION : DULANG
+
+PROPOSED COMPLETION SCHEMATIC
+
+DATE OF COMPLETION
+
+December 2012
+
+RIG
+
+KM-1
+
+X-MAS TREE
+
+Conventional Solar Alert 5K Wellhead
+
+TD
+
+2108 M MD DF
+
+& Single F-F Trim Christmas Tree
+
+MAXIMUM DEVIATION
+
+66.75 DEG @ 2108 M MDDF / 1335 M TVDDF
+
+DRILLIN FLUID
+
+10.2 ppg Size Salt OPTA-FLO Drill in Fluid (OIF)
+
+WATER DEPTH
+
+76.50 M
+
+ENZYME BREAKER
+
+10.2 ppg Formate based fluid enzyme breaker
+
+TUBING HANGER
+
+20 Meter DF
+
+COMPLETION FLUID
+
+(LOWER COMPLETION)
+
+10.2 ppg Sodium Formate (treated with fluid loss)
+
+COMPLETION ITUBING
+
+3-1/2" 13 Cr 9.2 PPF & 2-7/8" 13Cr 6.4 PPF Inner String
+
+(UPPER COMPLETION)
+
+8.5 ppg KCL
+
+6-1/8" Open Hole wt 125 micron 4-1/2" 12.6 PPF
+
+PACKER FLUID
+
+8.5 ppg Drill water + KCI based fluid + 0.1% vol.
+
+PGAM Screen
+
+Bacteride + 2% vol. CONQOR 303A
+
+Corrosion Inhibitor + 1% vol. O2 scavenger
+
+eee |
+
+Tubing String
+
+(OIL PRODUCER)
+
+Remarks / Status
+
+aes be bed
+
+222
+
+FLOW COUPLING
+
+2.880
+
+3.920
+
+224
+
+RSSSV
+
+2.813
+
+5.030
+
+225
+
+FLOW COUPLING
+
+2.880
+
+3.920
+
+398
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+700
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+994
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+1273
+
+3-1/2" SPM
+
+2.880
+
+6.000
+
+3-1/2" Orifice
+
+2.880
+
+6.000
+
+1535
+
+DS
+
+1775
+
+3-1/2" SSD
+
+2.813
+
+4.550
+
+SSD-1 Closed
+
+EEE
+
+1780
+
+7" x 3-1/2" AHC Packer
+
+2.900
+
+5.960
+
+—o
+
+Mee a
+
+3-1/2" XN-Nipple
+
+2.666
+
+3.893
+
+3-1/2" No-Go Locator
+
+3.880
+
+6.000
+
+1842
+
+3-1/2" Self Aligning Muleshoe
+
+1844
+
+-1/2" x 7" VTA Packer
+
+3.894
+
+4.967
+
+3.88" ID Bore NO Seal Ext
+
+3 Way Sub:
+
+4-1/2"x 4-1/2"x 2-7/8"
+
+Box X Pin X Pin
+
+1246 TVD DF
+
+—
+
+SSD-2 Open
+
+1887-1890
+
+3 Meter Oil Swell Packer
+
+“t
+
+1896
+
+3.22" SLIM SSD Inner String
+
+‘a
+
+4a
+
+E2
+
+KI
+
+Ky)
+
+IS]
+
+Ny]
+
+MD: 1911-1922 mDF
+
+“J
+
+4)
+
+{1894 - 1902 m MDTHF
+
+1914-1917
+
+3 Meter Oil Swell Packer
+
+=
+
+:
+
+1919
+
+3.25" Seal Bore Ext with Seal Unit
+
+—
+
+No-Go Locator Inner String
+
+—_:
+
+1935-1938
+
+3 Meter Oil Swell Packer
+
+{
+
+{I
+
+1946
+
+SSD-3 Closed
+
+3.22" SLIM SSD Inner String
+
+{
+
+Ze
+
+{I
+
+E6
+
+{1938 -1943 m MDTHF)
+
+MD: 1958-1963 mDF
+
+E7
+
+as
+
+|
+
+Mt
+
+MD: 1969-1974 mDF
+
+(1949 - 1954 m MDTHF)
+
+1956
+
+3.25" Seal Bore Ext with Seal Unit
+
+1961-1964
+
+3 Meter Oil Swell Packer
+
+1968
+
+3.22" SLIM SSD Inner String
+
+H
+
+SSD-4 Closed
+
+=
+
+Hl
+
+E10-11
+
+MD: 1987-1989 mDF
+
+a
+
+(1967 - 1969 m MDTHF)
+
+3.25" Seal Bore Ext with Seal Unit
+
+1971
+
+1976-1979
+
+3 Meter Oil Swell Packer
+
+1990
+
+3.22" SLIM SSD Inner String
+
+{I
+
+il
+
+E10-11
+
+SSD-5 Closed
+
+MD: 2001-2040 mDF
+
+z
+
+(1981 - 2020 m MDTHF)
+
+i
+
+|
+
+2022-2025
+
+—
+
+3 Meter Oil Swell Packer
+
+2027
+
+3.25" Seal Bore Ext with Seal Unit
+
+2029
+
+3.22" SUM XN-Nipple Inner String
+
+2035
+
+3.22" Self Aligning Muleshoe
+
+Inner String
+
+I!
+
+2040
+
+Double Valve Float Shoe
+
+—— =

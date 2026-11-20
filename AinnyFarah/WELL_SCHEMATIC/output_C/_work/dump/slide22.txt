@@ -1,0 +1,51 @@
+# slide 22 (slides/slide22.xml) hidden=False objects=26
+# notes: 'Open\n22'
+[sp id=13 'TextBox 12' pct=[75.76, 72.6, 94.49, 75.45] hidden=False]
+    HUD at @1580m-Mdthf(1/3/2016)
+[pic id=49169 'Picture 5' pct=[9.31, 7.9, 90.69, 89.9] hidden=False img=../media/image17.emf]
+[sp id=49172 'TextBox 1' pct=[71.34, 54.92, 82.67, 58.65] hidden=False]
+    Open SSD#2 
+    08/03/2020
+[sp id=49166 'TextBox 1' pct=[70.89, 65.54, 84.2, 70.66] hidden=False]
+    CLOSED due to water SSD#3 
+    17/10/2016
+[sp id=49167 'TextBox 1' pct=[71.52, 40.84, 85.22, 44.57] hidden=False]
+    CLOSED SSD#1 
+    17/10/2016
+[sp id=49168 'TextBox 1' pct=[71.2, 73.64, 84.65, 78.76] hidden=False]
+    OPEN
+    SSD#4 
+    (23/10/2016)
+[sp id=17 'Rectangle 16' pct=[3.8, 79.3, 20.93, 84.41] hidden=False]
+     Set 2.31"PXN Plug @ 1602 mMDTHF (22/10/2016)
+[sp id=49164 'Text Box 314' pct=[5.51, 39.82, 22.64, 40.75] hidden=False]
+    GLOV, 12/64”, 23
+[sp id=22 'Text Box 314' pct=[71.41, 30.46, 88.54, 31.39] hidden=False]
+    Dummy 9/9/2023
+[sp id=25 'Text Box 314' pct=[2.15, 36.55, 22.99, 37.48] hidden=False]
+    IPO PTRO 1130 psi, 12/64”, 23
+[sp id=5 'Rectangle 4' pct=[3.8, 65.37, 19.22, 70.5] hidden=False]
+    HUD Sand @1573mMDTHF (3 Sept 2023)
+[sp id=3 'Footer Placeholder 2' pct=None hidden=False]
+    Open
+[sp id=26 'Text Box 314' pct=[71.52, 32.75, 88.65, 33.68] hidden=False]
+    Dummy 9/9/2023
+[sp id=27 'Text Box 314' pct=[71.52, 35.14, 88.65, 36.07] hidden=False]
+    Dummy 9/9/2023
+[sp id=28 'Text Box 314' pct=[71.69, 37.52, 88.82, 38.45] hidden=False]
+    GLV 9/9/2023
+[sp id=30 'Text Box 314' pct=[71.8, 39.51, 88.93, 40.44] hidden=False]
+    GLOV 9/9/2023
+[sp id=6 'TextBox 5' pct=[70.89, 62.89, 85.23, 65.47] hidden=False]
+    2.29” GR HUD  @ 1572m-WLTHF (31/8/2023)
+[sp id=7 'TextBox 6' pct=[70.92, 25.27, 85.22, 27.86] hidden=False]
+    NO FLUID LEVEL DETECTED (8/9/2023)
+[sp id=9 'TextBox 8' pct=[70.89, 82.27, 85.23, 84.86] hidden=False]
+    TOP PXN Plug @ 1601m-THF (1/6/2017)
+[sp id=8 'Text Box 289' pct=[64.2, 88.65, 102.58, 91.96] hidden=False]
+    LAST ENTRY	: 25th September 2024
+    TYPE OF JOB	: Exercise & LO TRSV
+    HUD	: 2.29” GR 1572m-WLTHF 
+    UPDATED BY	: M ‘Ammar Hussaini – 19th May 2025
+[sp id=10 'TextBox 9' pct=[70.88, 27.97, 85.22, 30.56] hidden=False]
+    2.31” FXE Insert Valve @ 139m-MDTHF (24/9/2024)

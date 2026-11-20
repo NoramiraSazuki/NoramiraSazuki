@@ -1,0 +1,219 @@
+[
+ {
+  "page": 1,
+  "well": "DULANG-A1",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'DLA-01' (sources a,b,c,d,t); 6 components; wellInfo filled: []; items with no agreed depth: 5; OD/ID columns found: []"
+ },
+ {
+  "page": 2,
+  "well": "DULANG-A4",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-4' (sources a,c,layer30,t); 1 components; wellInfo filled: ['totalDepth']; items with no agreed depth: 4; OD/ID columns found: []"
+ },
+ {
+  "page": 3,
+  "well": "DULANG-A2",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected maxDeviation": "627.3 DEG"
+  },
+  "detail": "PDF label 'A-2' (sources d,h3); 25 components; wellInfo filled: ['completionDate']; items with no agreed depth: 5; OD/ID columns found: ['ID']"
+ },
+ {
+  "page": 4,
+  "well": "DULANG-A5",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-5' (sources a,c,d,layer5,t); 2 components; wellInfo filled: []; items with no agreed depth: 2; OD/ID columns found: []"
+ },
+ {
+  "page": 5,
+  "well": "",
+  "status": "SKIPPED — well name unreadable or conflicting (no single name read identically in 2 sources)",
+  "detail": "readings: ['(none)']"
+ },
+ {
+  "page": 6,
+  "well": "DULANG-A7",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected completionDate": "44 APRIL 1991"
+  },
+  "detail": "PDF label 'A-7' (sources a,b,d); 3 components; wellInfo filled: ['rig', 'totalDepth']; items with no agreed depth: 1; OD/ID columns found: ['ID']"
+ },
+ {
+  "page": 7,
+  "well": "",
+  "status": "SKIPPED — well name unreadable or conflicting (no single name read identically in 2 sources)",
+  "detail": "readings: ['A-6->Dulang_A6 [b]', 'A-8->Dulang_A8 [c,d]']"
+ },
+ {
+  "page": 8,
+  "well": "DULANG-A10",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected completionDate": "44 AUGUST 1994"
+  },
+  "detail": "PDF label 'A-10' (sources a,b,c,d,t); 15 components; wellInfo filled: ['totalDepth']; items with no agreed depth: 2; OD/ID columns found: []"
+ },
+ {
+  "page": 9,
+  "well": "DULANG-A11ST",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected completionDate": "43 SEPTEMBER 1994"
+  },
+  "detail": "PDF label 'A-11ST' (sources v1,v2,v3,v4); 0 components; wellInfo filled: []; items with no agreed depth: 5; OD/ID columns found: []"
+ },
+ {
+  "page": 10,
+  "well": "DULANG-A12ST1",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-12ST1' (sources a,b,c,d); 0 components; wellInfo filled: ['maxDeviation', 'wellhead']; items with no agreed depth: 24; OD/ID columns found: []"
+ },
+ {
+  "page": 11,
+  "well": "DULANG-A14",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected completionDate": "47-Aug-10"
+  },
+  "detail": "PDF label 'A-14' (sources b,layer14,t); 8 components; wellInfo filled: ['maxDeviation', 'totalDepth']; items with no agreed depth: 8; OD/ID columns found: ['ID']"
+ },
+ {
+  "page": 12,
+  "well": "DULANG-A15",
+  "status": "WRITTEN",
+  "rejected": {
+   "rejected maxDeviation": "¢6.7 DEG"
+  },
+  "detail": "PDF label 'A-15' (sources b,t); 21 components; wellInfo filled: []; items with no agreed depth: 2; OD/ID columns found: []"
+ },
+ {
+  "page": 13,
+  "well": "DULANG-A16",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-16' (sources b,d); 6 components; wellInfo filled: ['completionDate']; items with no agreed depth: 8; OD/ID columns found: []"
+ },
+ {
+  "page": 14,
+  "well": "DULANG-A17ST1",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-17st1' (sources a,b,c,d); 0 components; wellInfo filled: ['maxDeviation']; items with no agreed depth: 7; OD/ID columns found: []"
+ },
+ {
+  "page": 15,
+  "well": "DULANG-A18",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-18' (sources a,t); 8 components; wellInfo filled: ['totalDepth']; items with no agreed depth: 6; OD/ID columns found: []"
+ },
+ {
+  "page": 16,
+  "well": "",
+  "status": "SKIPPED — well name unreadable or conflicting (no single name read identically in 2 sources)",
+  "detail": "readings: ['A-14->Dulang_A14 [a,c]', 'A-19->Dulang_A19 [b]']"
+ },
+ {
+  "page": 17,
+  "well": "DULANG-A20",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-20' (sources b,c,t); 6 components; wellInfo filled: []; items with no agreed depth: 1; OD/ID columns found: []"
+ },
+ {
+  "page": 18,
+  "well": "DULANG-A21",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-21' (sources a,c,layer26); 10 components; wellInfo filled: []; items with no agreed depth: 5; OD/ID columns found: []"
+ },
+ {
+  "page": 19,
+  "well": "DULANG-A22",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-22' (sources a,b,c,layer20,t); 0 components; wellInfo filled: []; items with no agreed depth: 5; OD/ID columns found: []"
+ },
+ {
+  "page": 20,
+  "well": "DULANG-A23",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A23' (sources a,c,d,layer13); 2 components; wellInfo filled: ['completionDate', 'maxDeviation']; items with no agreed depth: 1; OD/ID columns found: []"
+ },
+ {
+  "page": 21,
+  "well": "DULANG-A24",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-24' (sources a,b,d,layer40,t); 5 components; wellInfo filled: ['maxDeviation', 'totalDepth']; items with no agreed depth: 2; OD/ID columns found: []"
+ },
+ {
+  "page": 22,
+  "well": "DULANG-A25",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-25' (sources a,b,c,d); 1 components; wellInfo filled: []; items with no agreed depth: 7; OD/ID columns found: []"
+ },
+ {
+  "page": 23,
+  "well": "DULANG-A26ST1",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-26ST1' (sources d,f4); 0 components; wellInfo filled: []; items with no agreed depth: 0; OD/ID columns found: []"
+ },
+ {
+  "page": 24,
+  "well": "DULANG-A27",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-27' (sources c,t); 7 components; wellInfo filled: []; items with no agreed depth: 1; OD/ID columns found: []"
+ },
+ {
+  "page": 25,
+  "well": "DULANG-A28",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'DLA#28' (sources b,c,d); 1 components; wellInfo filled: []; items with no agreed depth: 11; OD/ID columns found: []"
+ },
+ {
+  "page": 26,
+  "well": "DULANG-A29",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'DLG A 29' (sources layer35,layer7); 2 components; wellInfo filled: []; items with no agreed depth: 10; OD/ID columns found: []"
+ },
+ {
+  "page": 27,
+  "well": "",
+  "status": "SKIPPED — well name unreadable or conflicting (no single name read identically in 2 sources)",
+  "detail": "readings: ['A-30->Dulang_A30 [c]']"
+ },
+ {
+  "page": 28,
+  "well": "DULANG-A31",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-31' (sources b,d); 3 components; wellInfo filled: []; items with no agreed depth: 5; OD/ID columns found: []"
+ },
+ {
+  "page": 29,
+  "well": "DULANG-A32ST1",
+  "status": "WRITTEN",
+  "rejected": {},
+  "detail": "PDF label 'A-32ST1' (sources a,c); 0 components; wellInfo filled: []; items with no agreed depth: 4; OD/ID columns found: ['OD']"
+ },
+ {
+  "page": 30,
+  "well": "",
+  "status": "SKIPPED — well name unreadable or conflicting (no single name read identically in 2 sources)",
+  "detail": "readings: ['A-33st2->Dulang_A33ST2 [t]']"
+ }
+]

@@ -1,0 +1,36 @@
+# slide 19 (slides/slide19.xml) hidden=False objects=19
+# notes: 'Open\n19'
+[pic id=1026 'Picture 2' pct=[3.36, 1.32, 96.69, 62.82] hidden=False img=../media/image42.png]
+[pic id=1027 'Picture 3' pct=[4.38, 62.27, 96.69, 91.32] hidden=False img=../media/image43.png]
+[sp id=18 'TextBox 17' pct=[85.56, 0.83, 100.52, 4.87] hidden=False]
+    FB – N3C
+[sp id=7 'TextBox 6' pct=[86.07, 57.23, 101.1, 59.92] hidden=False]
+    OPEN (Jul 2009)
+[sp id=12 'TextBox 11' pct=[88.19, 46.88, 98.33, 49.23] hidden=False]
+    DV
+[sp id=16 'TextBox 15' pct=[88.33, 44.58, 98.47, 46.94] hidden=False]
+    DV
+[sp id=17 'TextBox 16' pct=[85.97, 42.6, 107.22, 44.96] hidden=False]
+    DV Reset 10/Jul/09
+[sp id=19 'TextBox 18' pct=[85.97, 39.58, 99.44, 43.29] hidden=False]
+    BK2 latch 
+    (LIB Nov 10/07)
+[sp id=15 'TextBox 14' pct=[0.87, 84.46, 17.57, 87.15] hidden=False]
+    OPEN (MAY 2012)
+[sp id=20 'TextBox 19' pct=[87.01, 49.09, 98.58, 51.61] hidden=False]
+    CLOSED
+[sp id=10 'Rectangle 9' pct=[2.33, 43.76, 21.68, 47.64] hidden=False]
+     HUD @2068m-MDTHF (Dec 2016) - sand
+[sp id=22 'Rectangle 21' pct=[41.0, 59.09, 66.89, 61.0] hidden=False]
+    MA plug at SSD#02 (Dec 2016)
+[sp id=24 'Text Box 289' pct=[59.68, 93.33, 102.92, 97.37] hidden=False]
+    LAST ENTRY	: 25  Dec 2016
+    TYPE OF JOB	: A-22 : Offload
+    UPDATED BY	: M Zhafran
+    DATE	: 4 Feb 2018
+[sp id=25 'Footer Placeholder 24' pct=None hidden=False]
+    Open
+[sp id=2 'TextBox 3' pct=[0.0, 0.0, 29.22, 2.36] hidden=False]
+    Latest Update: Dec 2023 by Pravin Nair
+[sp id=11 'TextBox 10' pct=[3.34, 64.92, 14.91, 68.96] hidden=False]
+    CLOSED (DEC 2016)

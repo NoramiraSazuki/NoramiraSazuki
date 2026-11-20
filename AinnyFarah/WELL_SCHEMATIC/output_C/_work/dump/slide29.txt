@@ -1,0 +1,42 @@
+# slide 29 (slides/slide29.xml) hidden=False objects=20
+# notes: 'Open\n29'
+[pic id=63490 'Picture 2' pct=[6.06, 9.9, 94.68, 93.08] hidden=False img=../media/image23.png]
+[graphicFrame id=4 'Table 3' pct=[62.77, 82.11, 92.23, 91.1] hidden=False]
+    | STRING | LAST ENTRY | TYPE OF JOB
+    | C29 | 14/4/17 | FGS completed . Injecting at orifice.
+    | C29 | 5/2/2015 | FGS completed
+    | C29 | 8/2/2015 | SGS + MIT completed
+    | C29 | 25/2/2016 | MPLT completed
+[sp id=7 'TextBox 6' pct=[68.45, 72.5, 80.51, 75.77] hidden=False]
+    OPEN SSD #04 (24/10/2017)
+[sp id=8 'TextBox 7' pct=[68.45, 65.67, 80.51, 68.96] hidden=False]
+    OPEN SSD #03 (24/10/2017)
+[sp id=9 'TextBox 8' pct=[68.45, 55.69, 80.51, 58.97] hidden=False]
+    OPEN SSD #02 (24/10/2017)
+[sp id=63526 'Rectangle 1' pct=[68.38, 30.91, 77.5, 32.53] hidden=False]
+    Dummy 1/10/2020
+[sp id=63533 'TextBox 2' pct=[43.03, 59.2, 50.37, 60.82] hidden=False]
+    Pr : 1436 psia
+[sp id=63534 'TextBox 20' pct=[43.03, 67.72, 50.37, 69.34] hidden=False]
+    Pr : 1462 psia
+[pic id=63536 'Picture 1' pct=[1.94, 51.49, 10.07, 58.97] hidden=False img=../media/image24.png]
+[pic id=63537 'Picture 2' pct=[1.88, 59.13, 10.0, 66.62] hidden=False img=../media/image25.png]
+[sp id=5 'TextBox 4' pct=[7.62, 64.62, 19.1, 68.3] hidden=False]
+    HUD @ 2415 m MDRKB during MPLT (flowing passes) on 29/10/17. Suspect sand.
+[sp id=29 'Rectangle 1' pct=[68.38, 32.63, 77.5, 34.25] hidden=False]
+    Dummy 1/10/2020
+[sp id=30 'Rectangle 1' pct=[68.75, 34.69, 77.87, 36.31] hidden=False]
+    Dummy 1/10/2020
+[sp id=31 'Rectangle 1' pct=[68.75, 35.75, 77.87, 37.37] hidden=False]
+    Dummy 1/10/2020
+[sp id=32 'Rectangle 1' pct=[68.75, 37.07, 77.87, 38.69] hidden=False]
+    Dummy 1/10/2020
+[sp id=33 'Rectangle 1' pct=[68.75, 38.42, 79.3, 40.04] hidden=False]
+    GLOV 16/64 1/10/2020
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open
+[sp id=3 'Text Box 289' pct=[57.93, 93.63, 94.68, 97.77] hidden=False]
+    LAST ENTRY	: TS, 31 May 2022
+    TYPE OF JOB	: Downhole sample collection
+    HUD	: 2.29” GR @ 2460 m WLTHF; 2.75” GR able to tag No Go @ 2271 m WLTHF 	
+    UPDATED BY	: Wong Hong Pei – 27th May 2025

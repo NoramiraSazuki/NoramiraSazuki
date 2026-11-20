@@ -1,0 +1,24 @@
+# slide 14 (slides/slide14.xml) hidden=False objects=11
+# notes: 'well already abandoned. \n\nOpen\n13'
+[pic id=6152194 'Picture 2' pct=[30.29, 0.0, 69.47, 97.69] hidden=False img=../media/image43.png]
+[sp id=4 'TextBox 3' pct=[30.96, 53.08, 35.29, 58.46] hidden=False]
+    Retrieve CA Plug
+    	(13/11/12)
+[graphicFrame id=5 'Table 4' pct=[30.53, 93.85, 49.13, 100.0] hidden=False]
+    | LONG | SGS: 10/10/2007 | FGS: 1/8/2003
+    | SHORT | SGS: 26/4/2004 | FGS: -
+[sp id=6 'TextBox 5' pct=[30.64, 59.23, 35.29, 63.85] hidden=False]
+    	OPENED
+    	(13/11/12)
+[sp id=7 'Rectangle 6' pct=[62.12, 95.3, 67.74, 97.69] hidden=False]
+    21 Aug 2014
+[sp id=9 'Rectangle 8' pct=[29.01, 31.54, 39.18, 33.08] hidden=False]
+    #3  Recovered GLOV (5/10/12)
+[sp id=2 'Rectangle 1' pct=[38.32, 59.23, 45.67, 65.38] hidden=False]
+    1 Aug 2014: RIH 2.25" Sand Pump Bailer and HUD @ 2398m MDTHF, fine sand
+[sp id=10 'Rectangle 9' pct=[63.41, 29.23, 69.04, 33.08] hidden=False]
+    5 Aug 2014:Rih 1.875" N/stem + 2.72" Tubing Swage to HUD @ 154 m-MDTHF
+[sp id=8 'Rounded Rectangle 7' pct=[19.87, 28.31, 78.29, 48.31] hidden=False]
+    ABANDONMENT
+[sp id=14 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

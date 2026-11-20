@@ -1,0 +1,18 @@
+# slide 6 (slides/slide6.xml) hidden=False objects=13
+# notes: 'Open\n6'
+[sp id=17 'Footer Placeholder 16' pct=None hidden=False]
+    Open
+[pic id=1026 'Picture 2' pct=[5.56, 2.16, 95.56, 52.44] hidden=False img=../media/image14.png]
+[pic id=1027 'Picture 3' pct=[6.36, 52.08, 94.75, 95.5] hidden=False img=../media/image15.png]
+[sp id=9 'TextBox 8' pct=[85.56, 0.83, 99.73, 4.87] hidden=False]
+    FB – SE1
+[sp id=7 'TextBox 3' pct=[1.09, 1.21, 38.19, 3.73] hidden=False]
+    Latest Update: November 2023 by Pravin Nair
+[sp id=10 'TextBox 9' pct=[5.56, 35.82, 26.22, 39.18] hidden=False]
+    Tbg stop + SC set @ TRSV profile. TR flapper lock open in 2018
+[sp id=11 'Rectangle 10' pct=[38.82, 84.71, 54.89, 89.76] hidden=False]
+    HUD@1732m MDTHF (May 2023). Suspect fine sand
+[sp id=12 'TextBox 11' pct=[84.56, 58.83, 93.67, 61.53] hidden=False]
+    GLOV (12/64) – Apr 2017
+[sp id=13 'TextBox 12' pct=[84.67, 54.92, 93.78, 57.61] hidden=False]
+    GLOV (10/64) – Apr 2017

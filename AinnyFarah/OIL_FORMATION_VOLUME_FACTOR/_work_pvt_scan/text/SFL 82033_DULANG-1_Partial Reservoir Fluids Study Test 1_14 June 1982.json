@@ -1,0 +1,227 @@
+[
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B2",
+"how": "cell text",
+"text": "SUMMARY OF SAMPLES RECEIVED IN LABORATORY"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C4",
+"how": "cell text",
+"text": "SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C6",
+"how": "cell text",
+"text": "SAMPLING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E6",
+"how": "cell text",
+"text": "LABORATORY OPENING CONDITIONS"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B7",
+"how": "cell text",
+"text": "CYLINDER NO"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell C7",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell D7",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell E7",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell F7",
+"how": "cell text",
+"text": "TEMPERATURE"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B9",
+"how": "cell text",
+"text": "A 5757 (1)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B10",
+"how": "cell text",
+"text": "A 5784 (2)"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B14",
+"how": "cell text",
+"text": "(1) Black oil drained grom gas cylinder = 10 mls"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B15",
+"how": "cell text",
+"text": "(2) This cylinder utilized for study"
+},
+{
+"where": "sheet 'SAMPLE SUMMARY' cell B17",
+"how": "cell text",
+"text": "Total Air % = 0.00"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B3",
+"how": "cell text",
+"text": "HYDROCARBON ANALYSIS OF SEPARATOR GAS SAMPLES"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B5",
+"how": "cell text",
+"text": "COMPONENT"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C5",
+"how": "cell text",
+"text": "MOL %"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell D5",
+"how": "cell text",
+"text": "GPM"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B6",
+"how": "cell text",
+"text": "H2S Hydrogen Sulphide"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B7",
+"how": "cell text",
+"text": "CO2 Carbon Dioxide"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B8",
+"how": "cell text",
+"text": "N2 Nitrogen"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B9",
+"how": "cell text",
+"text": "C1 Methane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B10",
+"how": "cell text",
+"text": "C2 Ethane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B11",
+"how": "cell text",
+"text": "C3 Propane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B12",
+"how": "cell text",
+"text": "iC4 i-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B13",
+"how": "cell text",
+"text": "nC4 n-Butane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B14",
+"how": "cell text",
+"text": "iC5 i-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B15",
+"how": "cell text",
+"text": "nC5 n-Pentane"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B16",
+"how": "cell text",
+"text": "C6 Hexanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B17",
+"how": "cell text",
+"text": "C7 Heptanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B18",
+"how": "cell text",
+"text": "C8 Octanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B19",
+"how": "cell text",
+"text": "C9 Nonanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B20",
+"how": "cell text",
+"text": "C10 Decanes"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B21",
+"how": "cell text",
+"text": "C11+ Undecanes Plus"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell C21",
+"how": "cell text",
+"text": "TR"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B24",
+"how": "cell text",
+"text": "Calculated gas gravity (air = 1.000)"
+},
+{
+"where": "sheet 'SEPARATOR GAS SAMPLES' cell B25",
+"how": "cell text",
+"text": "Calculated gross heating value (BTU per cubic foot of dry gas at 14.65 psia and 60°F)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B2",
+"how": "cell text",
+"text": "PRESSURE-VOLUME RELATIONS OF SEPARATOR GAS AT 218°F"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B3",
+"how": "cell text",
+"text": "(Constant Composition Expansion)"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B5",
+"how": "cell text",
+"text": "PRESSURE"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell C5",
+"how": "cell text",
+"text": "RELATIVE VOLUME"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell D5",
+"how": "cell text",
+"text": "DEVIATION FACTOR"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell B6",
+"how": "cell text",
+"text": "PSIG"
+},
+{
+"where": "sheet 'PVR SEPARATOR GAS AT 218F' cell D6",
+"how": "cell text",
+"text": "Z"
+},
+{
+"where": "picture image1.png (used in drawing1.xml)",
+"how": "OCR",
+"text": "PARTIAL RESERVOIR\nFLUID STUDY\n\nDULANG-1\n\n"
+}
+]

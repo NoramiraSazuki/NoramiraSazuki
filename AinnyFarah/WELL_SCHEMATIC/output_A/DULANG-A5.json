@@ -1,0 +1,52 @@
+{
+  "wellInfo": {
+    "completionDate": "",
+    "completionFluid": "",
+    "completionType": "",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "",
+    "name": "DULANG-A5",
+    "packerFluid": "",
+    "rig": "",
+    "surfaceCasing": "",
+    "totalDepth": null,
+    "trajectoryType": "",
+    "tubing": "",
+    "wellhead": ""
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "dulang_a5-01",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 104.987,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 32.0,
+      "bottomMdM": null,
+      "source": "PDF page 4: 'SPM' @ 32 (read identically in OCR passes ac; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 32 m -> 104.987 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    },
+    {
+      "id": "dulang_a5-02",
+      "type": "spm",
+      "name": "SPM",
+      "topMd": 173.885,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 53.0,
+      "bottomMdM": null,
+      "source": "PDF page 4: 'SPM' @ 53 (read identically in OCR passes bc; depth units as printed on the page); UNIT CONVERSION 2026-11-11: depth printed in metres; topMd 53 m -> 173.885 ft (m x 3.28084, 3 dp); original metres in topMdM/bottomMdM"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [],
+  "centralizers": [],
+  "floatEquipment": [],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

@@ -1,0 +1,420 @@
+{
+ "slide": 27,
+ "file": "slides/slide27.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n27",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "6",
+   "name": "Group 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 275772,
+   "y": 152400,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.02,
+    1.67,
+    97.35,
+    91.67
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "13313",
+   "name": "Picture 1",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 275772,
+   "y": 152400,
+   "cx": 6400800,
+   "cy": 5630779,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.02,
+    1.67,
+    97.35,
+    63.25
+   ],
+   "image": "../media/image62.png",
+   "crop": {
+    "l": "28889",
+    "t": "11555",
+    "r": "21111",
+    "b": "7556"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "13314",
+   "name": "Picture 2",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 275772,
+   "y": 5685945,
+   "cx": 6400800,
+   "cy": 2696055,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.02,
+    62.18,
+    97.35,
+    91.67
+   ],
+   "image": "../media/image63.png",
+   "crop": {
+    "l": "28889",
+    "t": "49333",
+    "r": "21111",
+    "b": "11937"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 971741,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    99.73,
+    4.87
+   ],
+   "text": "FB – SE1",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "3",
+   "name": "TextBox 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6096253,
+   "y": 8867001,
+   "cx": 761747,
+   "cy": 276999,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.89,
+    96.97,
+    100.0,
+    100.0
+   ],
+   "text": "Jan/2013",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 4299858,
+   "cx": 930062,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    47.02,
+    13.56,
+    51.4
+   ],
+   "text": "OPEN\n14/AUG/2009",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "8",
+   "name": "TextBox 7",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 5577114,
+   "cx": 930063,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    60.99,
+    13.56,
+    65.37
+   ],
+   "text": "CLOSED\n14/AUG/2009",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4632538,
+   "y": 7753290,
+   "cx": 949298,
+   "cy": 400110,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    67.55,
+    84.79,
+    81.39,
+    89.17
+   ],
+   "text": "OPEN\n21/MAR/1994",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 43561,
+   "cx": 2215671,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    0.48,
+    32.31,
+    2.83
+   ],
+   "text": "Latest Update: DEC 2023 BY PRAVIN NAIR",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "Rectangle 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4419177,
+   "y": 4299785,
+   "cx": 1693755,
+   "cy": 272215,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    64.44,
+    47.02,
+    89.14,
+    50.0
+   ],
+   "text": "Sand HUD @ 1676m MDTHF (Apr 2017) – 2.29” Gauge Ring",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "13320",
+   "name": "Graphic 13319",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 3548513,
+   "y": 4388853,
+   "cx": 214162,
+   "cy": 214162,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    51.74,
+    48.0,
+    54.87,
+    50.34
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "13347",
+   "name": "Graphic 13346",
+   "path": [],
+   "hidden": false,
+   "descr": "Fish with solid fill",
+   "x": 3196590,
+   "y": 3752850,
+   "cx": 175260,
+   "cy": 175260,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    46.61,
+    41.04,
+    49.17,
+    42.96
+   ],
+   "image": null,
+   "image_alt": "../media/image64.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "13353",
+   "name": "Rectangle 13352",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -1371600,
+   "y": 3139440,
+   "cx": 1745827,
+   "cy": 1083733,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -20.0,
+    34.33,
+    5.46,
+    46.19
+   ],
+   "text": "44ft Fish (125 wire + 20’ Toolstring Fish LIH (MA Plug + W1 RT + SSJ + 2’NRS + KJ + 5’NRS + KJ + 5’NRS + SJ + RS + Flo Petrol Cutter + Go-devil + Flo petrol cutter + 4’ drop bar (Top of Fish at 1616m WLTHF) – Mar 2019",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "pic",
+   "id": "4",
+   "name": "Graphic 3",
+   "path": [],
+   "hidden": false,
+   "descr": "Star with solid fill",
+   "x": 3583284,
+   "y": 3262299,
+   "cx": 143951,
+   "cy": 143951,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.25,
+    35.68,
+    54.35,
+    37.25
+   ],
+   "image": null,
+   "image_alt": "../media/image65.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "5",
+   "name": "Graphic 4",
+   "path": [],
+   "hidden": false,
+   "descr": "Star with solid fill",
+   "x": 3581482,
+   "y": 3482450,
+   "cx": 143951,
+   "cy": 143951,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.22,
+    38.08,
+    54.32,
+    39.66
+   ],
+   "image": null,
+   "image_alt": "../media/image65.svg"
+  },
+  {
+   "kind": "pic",
+   "id": "13",
+   "name": "Graphic 12",
+   "path": [],
+   "hidden": false,
+   "descr": "Star with solid fill",
+   "x": 3583283,
+   "y": 4891866,
+   "cx": 143951,
+   "cy": 143951,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    52.25,
+    53.5,
+    54.35,
+    55.07
+   ],
+   "image": null,
+   "image_alt": "../media/image66.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "14",
+   "name": "Rectangle 13",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 3898728,
+   "y": 3526449,
+   "cx": 3033960,
+   "cy": 272215,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    56.85,
+    38.57,
+    101.09,
+    41.54
+   ],
+   "text": "12 leak spots @ 645, 653.5, 670, 673.5, 820, 1027.7, 1036, 1026, 1545, 1611, 1708 & 1726 mMDTHF (MPLT Jan 2011)",
+   "geom": "rect",
+   "fill": "FF0000"
+  }
+ ]
+}

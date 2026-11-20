@@ -1,0 +1,593 @@
+{
+ "slide": 13,
+ "columns": [
+  [
+   49.0,
+   "DEPTH_L"
+  ],
+  [
+   63.0,
+   "NAME_L"
+  ],
+  [
+   77.0,
+   "MINID_L"
+  ],
+  [
+   85.5,
+   "STATUS_L"
+  ]
+ ],
+ "cells": [
+  {
+   "id": "30771",
+   "col": "NAME_L",
+   "y": 31.34,
+   "x": 63.08,
+   "h": 0.83,
+   "text": "¼\" CONTROL LINE",
+   "name": "Text Box 51",
+   "path": []
+  },
+  {
+   "id": "30761",
+   "col": "DEPTH_L",
+   "y": 36.2,
+   "x": 45.87,
+   "h": 0.83,
+   "text": "136.4",
+   "name": "Text Box 41",
+   "path": []
+  },
+  {
+   "id": "30783",
+   "col": "MINID_L",
+   "y": 36.2,
+   "x": 77.4,
+   "h": 0.83,
+   "text": "2.441",
+   "name": "Text Box 63",
+   "path": []
+  },
+  {
+   "id": "30772",
+   "col": "NAME_L",
+   "y": 36.21,
+   "x": 63.15,
+   "h": 0.82,
+   "text": "FLOW COUPLING",
+   "name": "Text Box 52",
+   "path": []
+  },
+  {
+   "id": "11",
+   "col": "STATUS_L",
+   "y": 37.3,
+   "x": 89.33,
+   "h": 3.41,
+   "text": "2.31” Storm Choke (jammed open) @ 137m-MDTHF (14/5/2024)",
+   "name": "TextBox 10",
+   "path": []
+  },
+  {
+   "id": "30762",
+   "col": "DEPTH_L",
+   "y": 37.84,
+   "x": 45.87,
+   "h": 0.81,
+   "text": "147.1",
+   "name": "Text Box 42",
+   "path": []
+  },
+  {
+   "id": "30773",
+   "col": "NAME_L",
+   "y": 37.84,
+   "x": 63.15,
+   "h": 0.81,
+   "text": "TRDP-4A SCSSV",
+   "name": "Text Box 53",
+   "path": []
+  },
+  {
+   "id": "30784",
+   "col": "MINID_L",
+   "y": 37.84,
+   "x": 77.4,
+   "h": 0.81,
+   "text": "2.312",
+   "name": "Text Box 64",
+   "path": []
+  },
+  {
+   "id": "30763",
+   "col": "DEPTH_L",
+   "y": 42.77,
+   "x": 45.87,
+   "h": 0.83,
+   "text": "291.3",
+   "name": "Text Box 43",
+   "path": []
+  },
+  {
+   "id": "30774",
+   "col": "NAME_L",
+   "y": 42.77,
+   "x": 63.13,
+   "h": 0.83,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 54",
+   "path": []
+  },
+  {
+   "id": "30785",
+   "col": "MINID_L",
+   "y": 42.77,
+   "x": 77.4,
+   "h": 0.83,
+   "text": "2.312",
+   "name": "Text Box 65",
+   "path": []
+  },
+  {
+   "id": "10",
+   "col": "STATUS_L",
+   "y": 45.29,
+   "x": 89.42,
+   "h": 2.58,
+   "text": "Fluid Level @ 430m-MDTHF (1/5/2024)",
+   "name": "TextBox 9",
+   "path": []
+  },
+  {
+   "id": "30829",
+   "col": "RIGHT_MARGIN",
+   "y": 47.82,
+   "x": 90.92,
+   "h": 1.58,
+   "text": "  19/1/19 GLVC\nIPO P/S 10/64\" PTRO 944 psig ",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "6",
+   "col": "RIGHT_MARGIN",
+   "y": 48.36,
+   "x": 115.74,
+   "h": 1.59,
+   "text": " 25/7/18 GLVC\nIPO P/S 10/64\" PTRO 871.42 psig ",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "30764",
+   "col": "DEPTH_L",
+   "y": 48.66,
+   "x": 45.87,
+   "h": 0.83,
+   "text": "664.9",
+   "name": "Text Box 44",
+   "path": []
+  },
+  {
+   "id": "30786",
+   "col": "MINID_L",
+   "y": 48.66,
+   "x": 77.4,
+   "h": 0.83,
+   "text": "2.371",
+   "name": "Text Box 66",
+   "path": []
+  },
+  {
+   "id": "30775",
+   "col": "NAME_L",
+   "y": 48.7,
+   "x": 63.08,
+   "h": 0.83,
+   "text": "KBMM-SPM",
+   "name": "Text Box 55",
+   "path": []
+  },
+  {
+   "id": "5",
+   "col": "STATUS_L",
+   "y": 51.34,
+   "x": 90.27,
+   "h": 1.59,
+   "text": " 19/1/19 GLVC\nIPO P/S 10/64' PTRO 900 psig",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "30765",
+   "col": "DEPTH_L",
+   "y": 52.14,
+   "x": 45.58,
+   "h": 0.82,
+   "text": "1327.8",
+   "name": "Text Box 45",
+   "path": []
+  },
+  {
+   "id": "30787",
+   "col": "MINID_L",
+   "y": 52.14,
+   "x": 77.4,
+   "h": 0.82,
+   "text": "2.371",
+   "name": "Text Box 67",
+   "path": []
+  },
+  {
+   "id": "30776",
+   "col": "NAME_L",
+   "y": 52.34,
+   "x": 63.11,
+   "h": 0.84,
+   "text": "KBMM-SPM",
+   "name": "Text Box 56",
+   "path": []
+  },
+  {
+   "id": "30845",
+   "col": "RIGHT_MARGIN",
+   "y": 52.41,
+   "x": 115.09,
+   "h": 1.59,
+   "text": " 25/7/18 GLVC\nIPO P/S 10/64' PTRO 860.17 psig",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "8",
+   "col": "STATUS_L",
+   "y": 54.05,
+   "x": 89.47,
+   "h": 2.58,
+   "text": "2.29” GR HUD @ 1602m-WLTHF (16/9/2022)",
+   "name": "TextBox 7",
+   "path": []
+  },
+  {
+   "id": "30766",
+   "col": "DEPTH_L",
+   "y": 55.47,
+   "x": 46.0,
+   "h": 0.83,
+   "text": "1605.7",
+   "name": "Text Box 46",
+   "path": []
+  },
+  {
+   "id": "30788",
+   "col": "MINID_L",
+   "y": 55.47,
+   "x": 77.48,
+   "h": 0.83,
+   "text": "2.371",
+   "name": "Text Box 68",
+   "path": []
+  },
+  {
+   "id": "30777",
+   "col": "NAME_L",
+   "y": 55.52,
+   "x": 63.14,
+   "h": 0.83,
+   "text": "KBMM-SPM",
+   "name": "Text Box 57",
+   "path": []
+  },
+  {
+   "id": "30846",
+   "col": "RIGHT_MARGIN",
+   "y": 56.95,
+   "x": 114.63,
+   "h": 4.76,
+   "text": "  \nBK 12/64” IPO 500#\nValve stiffed during GLVC 25/7/18.Can’t set orifice \n\n",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "7",
+   "col": "RIGHT_MARGIN",
+   "y": 57.06,
+   "x": 90.78,
+   "h": 2.37,
+   "text": " 20/1/19 GLVC ( DV )\nSet Pack off due to broken GLV @ SPM #3",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "130",
+   "col": "LEFT_MARGIN",
+   "y": 62.3,
+   "x": -17.18,
+   "h": 3.96,
+   "text": "GLV bend at SPM#3 image from camera run on 7/8/17",
+   "name": "Rectangle 129",
+   "path": []
+  },
+  {
+   "id": "30817",
+   "col": "MINID_L",
+   "y": 64.28,
+   "x": 77.8,
+   "h": 0.84,
+   "text": "2.312",
+   "name": "Text Box 98",
+   "path": []
+  },
+  {
+   "id": "30816",
+   "col": "NAME_L",
+   "y": 64.41,
+   "x": 63.07,
+   "h": 0.81,
+   "text": "CSW-1D-T CAMCO SSD",
+   "name": "Text Box 97",
+   "path": []
+  },
+  {
+   "id": "30818",
+   "col": "STATUS_L",
+   "y": 64.48,
+   "x": 85.41,
+   "h": 3.16,
+   "text": "18/1/19\nOpened  to set GL straddle 12/64”",
+   "name": "Text Box 99",
+   "path": []
+  },
+  {
+   "id": "132",
+   "col": "RIGHT_MARGIN",
+   "y": 65.14,
+   "x": 118.34,
+   "h": 8.27,
+   "text": "18/1/19\nTag fluid level @ 1460 m MDTHF when try to open SSD#1, Observed THP increase from 800 – 850 psig.\n-set tbg stop @ 1620 m MDTHF\n-Lower WTFD pack of @1619.5 m MDTHF\n- Set upper pack off @1615.5  m MDTHF",
+   "name": "Rectangle 131",
+   "path": []
+  },
+  {
+   "id": "30815",
+   "col": "DEPTH_L",
+   "y": 65.25,
+   "x": 47.97,
+   "h": 0.82,
+   "text": "1617.1",
+   "name": "Text Box 96",
+   "path": []
+  },
+  {
+   "id": "30767",
+   "col": "DEPTH_L",
+   "y": 70.22,
+   "x": 46.0,
+   "h": 0.83,
+   "text": "1624.0",
+   "name": "Text Box 47",
+   "path": []
+  },
+  {
+   "id": "30789",
+   "col": "MINID_L",
+   "y": 70.22,
+   "x": 77.8,
+   "h": 0.83,
+   "text": "2.441",
+   "name": "Text Box 69",
+   "path": []
+  },
+  {
+   "id": "30778",
+   "col": "NAME_L",
+   "y": 70.32,
+   "x": 63.09,
+   "h": 0.84,
+   "text": "CENTRALIZER",
+   "name": "Text Box 58",
+   "path": []
+  },
+  {
+   "id": "30768",
+   "col": "DEPTH_L",
+   "y": 73.21,
+   "x": 46.0,
+   "h": 0.82,
+   "text": "1625.6",
+   "name": "Text Box 48",
+   "path": []
+  },
+  {
+   "id": "30779",
+   "col": "NAME_L",
+   "y": 73.21,
+   "x": 63.08,
+   "h": 0.82,
+   "text": "LOC. SEAL ASSY. ",
+   "name": "Text Box 59",
+   "path": []
+  },
+  {
+   "id": "30790",
+   "col": "MINID_L",
+   "y": 73.23,
+   "x": 77.8,
+   "h": 0.83,
+   "text": "2.441",
+   "name": "Text Box 70",
+   "path": []
+  },
+  {
+   "id": "30791",
+   "col": "MINID_L",
+   "y": 74.65,
+   "x": 77.8,
+   "h": 0.83,
+   "text": "4.000",
+   "name": "Text Box 71",
+   "path": []
+  },
+  {
+   "id": "30819",
+   "col": "DEPTH_L",
+   "y": 74.79,
+   "x": 46.0,
+   "h": 0.83,
+   "text": "1625.8",
+   "name": "Text Box 100",
+   "path": []
+  },
+  {
+   "id": "30795",
+   "col": "NAME_L",
+   "y": 74.92,
+   "x": 63.09,
+   "h": 1.42,
+   "text": "9 5/8\" - 4 BORE\nBAKER PERM PACKER",
+   "name": "Text Box 75",
+   "path": []
+  },
+  {
+   "id": "30794",
+   "col": "MINID_L",
+   "y": 76.87,
+   "x": 77.8,
+   "h": 0.82,
+   "text": "4.000",
+   "name": "Text Box 74",
+   "path": []
+  },
+  {
+   "id": "30780",
+   "col": "NAME_L",
+   "y": 76.89,
+   "x": 63.09,
+   "h": 0.84,
+   "text": "SEAL BORE EXT",
+   "name": "Text Box 60",
+   "path": []
+  },
+  {
+   "id": "30769",
+   "col": "DEPTH_L",
+   "y": 78.83,
+   "x": 45.91,
+   "h": 0.84,
+   "text": "1627.8",
+   "name": "Text Box 49",
+   "path": []
+  },
+  {
+   "id": "30792",
+   "col": "MINID_L",
+   "y": 78.91,
+   "x": 77.72,
+   "h": 0.84,
+   "text": "2.250",
+   "name": "Text Box 72",
+   "path": []
+  },
+  {
+   "id": "30781",
+   "col": "NAME_L",
+   "y": 78.96,
+   "x": 63.04,
+   "h": 0.84,
+   "text": "'D' NO-GO NIPPLE",
+   "name": "Text Box 61",
+   "path": []
+  },
+  {
+   "id": "30838",
+   "col": "LEFT_MARGIN",
+   "y": 79.25,
+   "x": 7.87,
+   "h": 4.91,
+   "text": "LD-1 kh \n1769.89 mD-ft\nAve Por 24%\n\nEchometer 18/5/18\n1154 psig",
+   "name": "Text Box 120",
+   "path": []
+  },
+  {
+   "id": "30770",
+   "col": "DEPTH_L",
+   "y": 80.2,
+   "x": 45.91,
+   "h": 0.82,
+   "text": "1634.4",
+   "name": "Text Box 50",
+   "path": []
+  },
+  {
+   "id": "30782",
+   "col": "NAME_L",
+   "y": 80.24,
+   "x": 63.16,
+   "h": 0.84,
+   "text": "CONICAL MULE SHOE",
+   "name": "Text Box 62",
+   "path": []
+  },
+  {
+   "id": "30793",
+   "col": "MINID_L",
+   "y": 80.25,
+   "x": 77.72,
+   "h": 0.82,
+   "text": "2.441",
+   "name": "Text Box 73",
+   "path": []
+  },
+  {
+   "id": "30760",
+   "col": "LEFT_MARGIN",
+   "y": 80.27,
+   "x": 17.41,
+   "h": 3.27,
+   "text": "SAND: LD-1\n (FB N1; GIR Reservoir)",
+   "name": "Text Box 40",
+   "path": []
+  },
+  {
+   "id": "129",
+   "col": "LEFT_MARGIN",
+   "y": 83.63,
+   "x": 16.91,
+   "h": 3.38,
+   "text": "PERFT:\n1638.67 m -1648.67 m",
+   "name": "TextBox 128",
+   "path": []
+  },
+  {
+   "id": "30742",
+   "col": "LEFT_MARGIN",
+   "y": 85.24,
+   "x": 32.55,
+   "h": 0.84,
+   "text": "TD @ 2106.2 m MDTHF",
+   "name": "Text Box 22",
+   "path": []
+  },
+  {
+   "id": "30842",
+   "col": "LEFT_MARGIN",
+   "y": 93.41,
+   "x": 19.84,
+   "h": 1.63,
+   "text": "21/5/14: SGS at N1 LD1/3 ",
+   "name": "TextBox 1",
+   "path": []
+  },
+  {
+   "id": "30844",
+   "col": "LEFT_MARGIN",
+   "y": 95.0,
+   "x": 21.09,
+   "h": 2.69,
+   "text": "Last MIT conducted: 28 Apr 2014 \nMax Penetration : 18.7% @ 1516.76MDTHF",
+   "name": "Rectangle 126",
+   "path": []
+  }
+ ]
+}

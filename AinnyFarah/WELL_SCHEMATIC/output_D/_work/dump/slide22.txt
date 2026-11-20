@@ -1,0 +1,18 @@
+# slide 22 (slides/slide22.xml) hidden=False objects=11
+# notes: 'Open\n21'
+[pic id=6160386 'Picture 2' pct=[30.53, 0.0, 69.47, 99.87] hidden=False img=../media/image58.png]
+[sp id=7 'TextBox 6' pct=[25.61, 76.15, 30.5, 82.3] hidden=False]
+    OPENED
+[sp id=5 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open
+[sp id=2 'Rectangle 1' pct=[28.41, 27.35, 40.05, 30.26] hidden=False]
+    CSA Plug @ TRSV (Nov 2019)
+[pic id=4 'Graphic 3' pct=[43.56, 27.69, 44.76, 29.83] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=6 'Rectangle 5' pct=[28.61, 30.68, 40.43, 35.3] hidden=False]
+    2” LIB HUD @ 145m MDTHF, suspect flapper jammed closed (Oct 2023)
+[sp id=12 'Rectangle 11' pct=[31.57, 96.51, 55.18, 98.25] hidden=False]
+    UPDATED FEB 2024 BY PRAVIN NAIR
+[pic id=3 'Graphic 2' pct=[43.31, 38.59, 44.51, 40.73] hidden=False img=../media/image24.png descr='Warning with solid fill']
+[sp id=8 'Rectangle 7' pct=[45.27, 39.15, 65.81, 41.08] hidden=False]
+    2.25” LIB HUD @ 1572m MDTHF, pump bailer recovered sand (Feb 2015)
+[pic id=9 'Picture 8' pct=[27.36, 33.76, 32.45, 42.53] hidden=False img=../media/image59.jpeg]

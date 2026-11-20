@@ -1,0 +1,1709 @@
+{
+ "slide": 14,
+ "columns": [
+  [
+   16.24,
+   "STATUS_S"
+  ],
+  [
+   22.335,
+   "MINID_S"
+  ],
+  [
+   31.494999999999997,
+   "NAME_S"
+  ],
+  [
+   41.47,
+   "DEPTH_S"
+  ],
+  [
+   60.45,
+   "DEPTH_L"
+  ],
+  [
+   70.45,
+   "NAME_L"
+  ],
+  [
+   79.875,
+   "MINID_L"
+  ],
+  [
+   85.88,
+   "STATUS_L"
+  ]
+ ],
+ "cells": [
+  {
+   "id": "33111",
+   "col": "DEPTH_L",
+   "y": 29.71,
+   "x": 57.28,
+   "h": 1.18,
+   "text": "C 14 L Converted to WI\nDec’17",
+   "name": "Text Box 307",
+   "path": []
+  },
+  {
+   "id": "347",
+   "col": "DEPTH_S",
+   "y": 29.77,
+   "x": 46.73,
+   "h": 0.69,
+   "text": "C 14SS Idle Well",
+   "name": "Text Box 307",
+   "path": []
+  },
+  {
+   "id": "7",
+   "col": "STATUS_L",
+   "y": 30.81,
+   "x": 90.52,
+   "h": 2.59,
+   "text": "Fluid Level @ 620m-WLTHF (2/12/2017)",
+   "name": "TextBox 6",
+   "path": []
+  },
+  {
+   "id": "32803",
+   "col": "NAME_S",
+   "y": 31.23,
+   "x": 31.45,
+   "h": 0.83,
+   "text": "¼\" CONTROL LINE",
+   "name": "Text Box 35",
+   "path": []
+  },
+  {
+   "id": "32874",
+   "col": "NAME_L",
+   "y": 31.23,
+   "x": 70.62,
+   "h": 0.83,
+   "text": "¼\" CONTROL LINE",
+   "name": "Text Box 106",
+   "path": []
+  },
+  {
+   "id": "13",
+   "col": "STATUS_S",
+   "y": 32.43,
+   "x": 11.57,
+   "h": 2.58,
+   "text": "2.34” CSA Plug @ 150m-WLTHF (2/5/2018)",
+   "name": "TextBox 12",
+   "path": []
+  },
+  {
+   "id": "32844",
+   "col": "NAME_S",
+   "y": 32.97,
+   "x": 31.46,
+   "h": 0.82,
+   "text": "FLOW COUPLING",
+   "name": "Text Box 76",
+   "path": []
+  },
+  {
+   "id": "32868",
+   "col": "NAME_L",
+   "y": 33.03,
+   "x": 70.12,
+   "h": 0.69,
+   "text": "FLOW COUPLING",
+   "name": "Text Box 100",
+   "path": []
+  },
+  {
+   "id": "32837",
+   "col": "DEPTH_S",
+   "y": 33.04,
+   "x": 41.61,
+   "h": 0.82,
+   "text": "147.9",
+   "name": "Text Box 69",
+   "path": []
+  },
+  {
+   "id": "32850",
+   "col": "MINID_S",
+   "y": 33.04,
+   "x": 22.39,
+   "h": 0.82,
+   "text": "2.441",
+   "name": "Text Box 82",
+   "path": []
+  },
+  {
+   "id": "32861",
+   "col": "DEPTH_L",
+   "y": 33.04,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "156.9",
+   "name": "Text Box 93",
+   "path": []
+  },
+  {
+   "id": "32876",
+   "col": "MINID_L",
+   "y": 33.04,
+   "x": 79.84,
+   "h": 0.82,
+   "text": "2.441",
+   "name": "Text Box 108",
+   "path": []
+  },
+  {
+   "id": "32845",
+   "col": "NAME_S",
+   "y": 34.13,
+   "x": 31.45,
+   "h": 0.83,
+   "text": "TRDP-4A SCSSV",
+   "name": "Text Box 77",
+   "path": []
+  },
+  {
+   "id": "32862",
+   "col": "DEPTH_L",
+   "y": 34.17,
+   "x": 59.97,
+   "h": 0.81,
+   "text": "157.8",
+   "name": "Text Box 94",
+   "path": []
+  },
+  {
+   "id": "32869",
+   "col": "NAME_L",
+   "y": 34.17,
+   "x": 70.13,
+   "h": 0.71,
+   "text": "TRDP-4A SCSSV",
+   "name": "Text Box 101",
+   "path": []
+  },
+  {
+   "id": "32877",
+   "col": "MINID_L",
+   "y": 34.17,
+   "x": 79.84,
+   "h": 0.81,
+   "text": "2.313",
+   "name": "Text Box 109",
+   "path": []
+  },
+  {
+   "id": "32851",
+   "col": "MINID_S",
+   "y": 34.19,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 83",
+   "path": []
+  },
+  {
+   "id": "32838",
+   "col": "DEPTH_S",
+   "y": 34.2,
+   "x": 41.61,
+   "h": 0.84,
+   "text": "148.8",
+   "name": "Text Box 70",
+   "path": []
+  },
+  {
+   "id": "32839",
+   "col": "DEPTH_S",
+   "y": 35.49,
+   "x": 41.61,
+   "h": 0.83,
+   "text": "278.5",
+   "name": "Text Box 71",
+   "path": []
+  },
+  {
+   "id": "32846",
+   "col": "NAME_S",
+   "y": 35.55,
+   "x": 31.46,
+   "h": 0.83,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 78",
+   "path": []
+  },
+  {
+   "id": "32863",
+   "col": "DEPTH_L",
+   "y": 35.69,
+   "x": 59.94,
+   "h": 0.84,
+   "text": "293.9",
+   "name": "Text Box 95",
+   "path": []
+  },
+  {
+   "id": "32852",
+   "col": "MINID_S",
+   "y": 35.71,
+   "x": 22.39,
+   "h": 0.82,
+   "text": "2.313",
+   "name": "Text Box 84",
+   "path": []
+  },
+  {
+   "id": "32870",
+   "col": "NAME_L",
+   "y": 35.73,
+   "x": 70.11,
+   "h": 0.71,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 102",
+   "path": []
+  },
+  {
+   "id": "32878",
+   "col": "MINID_L",
+   "y": 35.73,
+   "x": 79.81,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 110",
+   "path": []
+  },
+  {
+   "id": "12",
+   "col": "STATUS_S",
+   "y": 35.89,
+   "x": 11.55,
+   "h": 2.59,
+   "text": "Fluid Level @ 730m-MDTHF (21/3/2011)",
+   "name": "TextBox 11",
+   "path": []
+  },
+  {
+   "id": "33034",
+   "col": "NAME_L",
+   "y": 37.52,
+   "x": 70.11,
+   "h": 0.69,
+   "text": "KBMM SPM",
+   "name": "Text Box 266",
+   "path": []
+  },
+  {
+   "id": "33035",
+   "col": "MINID_L",
+   "y": 37.53,
+   "x": 79.81,
+   "h": 0.83,
+   "text": "2.371",
+   "name": "Text Box 267",
+   "path": []
+  },
+  {
+   "id": "33036",
+   "col": "DEPTH_L",
+   "y": 37.55,
+   "x": 59.86,
+   "h": 0.83,
+   "text": "659.3",
+   "name": "Text Box 268",
+   "path": []
+  },
+  {
+   "id": "32840",
+   "col": "DEPTH_S",
+   "y": 37.59,
+   "x": 41.61,
+   "h": 0.83,
+   "text": "647.7",
+   "name": "Text Box 72",
+   "path": []
+  },
+  {
+   "id": "33086",
+   "col": "STATUS_L",
+   "y": 37.72,
+   "x": 84.56,
+   "h": 0.59,
+   "text": "DV",
+   "name": "Text Box 318",
+   "path": []
+  },
+  {
+   "id": "32847",
+   "col": "NAME_S",
+   "y": 37.73,
+   "x": 31.45,
+   "h": 0.83,
+   "text": "KBMM SPM",
+   "name": "Text Box 79",
+   "path": []
+  },
+  {
+   "id": "32853",
+   "col": "MINID_S",
+   "y": 37.77,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "2.371",
+   "name": "Text Box 85",
+   "path": []
+  },
+  {
+   "id": "33090",
+   "col": "STATUS_S",
+   "y": 37.77,
+   "x": 16.41,
+   "h": 0.58,
+   "text": "DV, 8/12/06",
+   "name": "Text Box 322",
+   "path": []
+  },
+  {
+   "id": "33037",
+   "col": "DEPTH_S",
+   "y": 38.98,
+   "x": 41.61,
+   "h": 0.82,
+   "text": "972.4",
+   "name": "Text Box 269",
+   "path": []
+  },
+  {
+   "id": "32871",
+   "col": "NAME_L",
+   "y": 39.02,
+   "x": 70.11,
+   "h": 0.69,
+   "text": "KBMM SPM",
+   "name": "Text Box 103",
+   "path": []
+  },
+  {
+   "id": "32879",
+   "col": "MINID_L",
+   "y": 39.02,
+   "x": 79.81,
+   "h": 0.81,
+   "text": "2.371",
+   "name": "Text Box 111",
+   "path": []
+  },
+  {
+   "id": "32899",
+   "col": "DEPTH_L",
+   "y": 39.04,
+   "x": 59.86,
+   "h": 0.84,
+   "text": "982.8",
+   "name": "Text Box 131",
+   "path": []
+  },
+  {
+   "id": "33038",
+   "col": "NAME_S",
+   "y": 39.12,
+   "x": 31.45,
+   "h": 0.84,
+   "text": "KBMM SPM",
+   "name": "Text Box 270",
+   "path": []
+  },
+  {
+   "id": "33039",
+   "col": "MINID_S",
+   "y": 39.17,
+   "x": 22.39,
+   "h": 0.81,
+   "text": "2.371",
+   "name": "Text Box 271",
+   "path": []
+  },
+  {
+   "id": "33089",
+   "col": "STATUS_S",
+   "y": 39.17,
+   "x": 13.51,
+   "h": 0.59,
+   "text": "R-IPO, 12/64\", 940#,7/12/06",
+   "name": "Text Box 321",
+   "path": []
+  },
+  {
+   "id": "33087",
+   "col": "STATUS_L",
+   "y": 39.2,
+   "x": 84.93,
+   "h": 0.59,
+   "text": "DV ",
+   "name": "Text Box 319",
+   "path": []
+  },
+  {
+   "id": "33041",
+   "col": "DEPTH_S",
+   "y": 40.27,
+   "x": 41.62,
+   "h": 0.81,
+   "text": "1270.0",
+   "name": "Text Box 273",
+   "path": []
+  },
+  {
+   "id": "33042",
+   "col": "NAME_S",
+   "y": 40.39,
+   "x": 31.45,
+   "h": 0.82,
+   "text": "KBMM SPM",
+   "name": "Text Box 274",
+   "path": []
+  },
+  {
+   "id": "33088",
+   "col": "STATUS_S",
+   "y": 40.41,
+   "x": 14.73,
+   "h": 0.6,
+   "text": "GLOV, 16/64\", 7/12/06",
+   "name": "Text Box 320",
+   "path": []
+  },
+  {
+   "id": "33043",
+   "col": "MINID_S",
+   "y": 40.45,
+   "x": 22.39,
+   "h": 0.84,
+   "text": "2.371",
+   "name": "Text Box 275",
+   "path": []
+  },
+  {
+   "id": "33085",
+   "col": "STATUS_L",
+   "y": 40.48,
+   "x": 84.63,
+   "h": 0.59,
+   "text": "DV",
+   "name": "Text Box 317",
+   "path": []
+  },
+  {
+   "id": "33027",
+   "col": "MINID_L",
+   "y": 40.5,
+   "x": 79.81,
+   "h": 0.81,
+   "text": "2.371",
+   "name": "Text Box 259",
+   "path": []
+  },
+  {
+   "id": "33026",
+   "col": "NAME_L",
+   "y": 40.52,
+   "x": 70.11,
+   "h": 0.71,
+   "text": "KBMM SPM",
+   "name": "Text Box 258",
+   "path": []
+  },
+  {
+   "id": "33028",
+   "col": "DEPTH_L",
+   "y": 40.53,
+   "x": 59.86,
+   "h": 0.84,
+   "text": "1279.8",
+   "name": "Text Box 260",
+   "path": []
+  },
+  {
+   "id": "33045",
+   "col": "DEPTH_S",
+   "y": 41.66,
+   "x": 41.62,
+   "h": 0.82,
+   "text": "1471.5",
+   "name": "Text Box 277",
+   "path": []
+  },
+  {
+   "id": "33094",
+   "col": "STATUS_L",
+   "y": 41.73,
+   "x": 84.63,
+   "h": 0.59,
+   "text": "DV",
+   "name": "Text Box 326",
+   "path": []
+  },
+  {
+   "id": "33046",
+   "col": "NAME_S",
+   "y": 41.78,
+   "x": 31.45,
+   "h": 0.84,
+   "text": "KBMM SPM",
+   "name": "Text Box 278",
+   "path": []
+  },
+  {
+   "id": "33047",
+   "col": "MINID_S",
+   "y": 41.84,
+   "x": 22.39,
+   "h": 0.81,
+   "text": "2.371",
+   "name": "Text Box 279",
+   "path": []
+  },
+  {
+   "id": "33030",
+   "col": "NAME_L",
+   "y": 41.94,
+   "x": 70.11,
+   "h": 0.7,
+   "text": "KBMM SPM",
+   "name": "Text Box 262",
+   "path": []
+  },
+  {
+   "id": "33031",
+   "col": "MINID_L",
+   "y": 41.95,
+   "x": 79.81,
+   "h": 0.82,
+   "text": "2.371",
+   "name": "Text Box 263",
+   "path": []
+  },
+  {
+   "id": "33032",
+   "col": "DEPTH_L",
+   "y": 41.97,
+   "x": 59.86,
+   "h": 0.84,
+   "text": "1500.4",
+   "name": "Text Box 264",
+   "path": []
+  },
+  {
+   "id": "33083",
+   "col": "DEPTH_L",
+   "y": 43.25,
+   "x": 59.49,
+   "h": 0.81,
+   "text": "1520",
+   "name": "Text Box 315",
+   "path": []
+  },
+  {
+   "id": "32841",
+   "col": "DEPTH_S",
+   "y": 44.23,
+   "x": 41.62,
+   "h": 0.84,
+   "text": "1521.3",
+   "name": "Text Box 73",
+   "path": []
+  },
+  {
+   "id": "32854",
+   "col": "MINID_S",
+   "y": 44.27,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 86",
+   "path": []
+  },
+  {
+   "id": "32963",
+   "col": "NAME_S",
+   "y": 44.27,
+   "x": 31.46,
+   "h": 0.83,
+   "text": "CSW-1DT SSD",
+   "name": "Text Box 195",
+   "path": []
+  },
+  {
+   "id": "33016",
+   "col": "STATUS_S",
+   "y": 44.28,
+   "x": 16.24,
+   "h": 0.7,
+   "text": "CLOSED",
+   "name": "Text Box 248",
+   "path": []
+  },
+  {
+   "id": "32969",
+   "col": "NAME_L",
+   "y": 44.34,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "CSW-1-DT SSD",
+   "name": "Text Box 201",
+   "path": []
+  },
+  {
+   "id": "32900",
+   "col": "DEPTH_L",
+   "y": 44.39,
+   "x": 59.86,
+   "h": 0.84,
+   "text": "1521.3",
+   "name": "Text Box 132",
+   "path": []
+  },
+  {
+   "id": "32880",
+   "col": "MINID_L",
+   "y": 44.41,
+   "x": 79.81,
+   "h": 0.81,
+   "text": "2.313",
+   "name": "Text Box 112",
+   "path": []
+  },
+  {
+   "id": "15",
+   "col": "STATUS_S",
+   "y": 44.65,
+   "x": 14.58,
+   "h": 1.62,
+   "text": "CLOSED (4/8/12)",
+   "name": "TextBox 4",
+   "path": []
+  },
+  {
+   "id": "33021",
+   "col": "STATUS_L",
+   "y": 44.66,
+   "x": 85.87,
+   "h": 0.83,
+   "text": "CLOSED",
+   "name": "Text Box 253",
+   "path": []
+  },
+  {
+   "id": "32842",
+   "col": "DEPTH_S",
+   "y": 46.42,
+   "x": 41.62,
+   "h": 0.83,
+   "text": "1528.1",
+   "name": "Text Box 74",
+   "path": []
+  },
+  {
+   "id": "33053",
+   "col": "NAME_S",
+   "y": 46.42,
+   "x": 31.55,
+   "h": 1.41,
+   "text": "CAMCO 'HSD-3-SP'\nDUAL HYD. PKR",
+   "name": "Text Box 285",
+   "path": []
+  },
+  {
+   "id": "33017",
+   "col": "DEPTH_L",
+   "y": 46.45,
+   "x": 59.85,
+   "h": 0.83,
+   "text": "PKR 4",
+   "name": "Text Box 249",
+   "path": []
+  },
+  {
+   "id": "32974",
+   "col": "DEPTH_S",
+   "y": 48.23,
+   "x": 41.62,
+   "h": 0.82,
+   "text": "1531.2",
+   "name": "Text Box 206",
+   "path": []
+  },
+  {
+   "id": "32910",
+   "col": "NAME_S",
+   "y": 48.26,
+   "x": 31.46,
+   "h": 0.82,
+   "text": "TELESCOPIC JOINT",
+   "name": "Text Box 142",
+   "path": []
+  },
+  {
+   "id": "33022",
+   "col": "MINID_S",
+   "y": 48.27,
+   "x": 22.39,
+   "h": 0.84,
+   "text": "2.441",
+   "name": "Text Box 254",
+   "path": []
+  },
+  {
+   "id": "33107",
+   "col": "STATUS_S",
+   "y": 49.18,
+   "x": 14.61,
+   "h": 1.62,
+   "text": "CLOSED (4/8/12)",
+   "name": "TextBox 4",
+   "path": []
+  },
+  {
+   "id": "32864",
+   "col": "DEPTH_L",
+   "y": 49.44,
+   "x": 59.97,
+   "h": 0.84,
+   "text": "1543.2",
+   "name": "Text Box 96",
+   "path": []
+  },
+  {
+   "id": "32872",
+   "col": "NAME_L",
+   "y": 49.44,
+   "x": 70.12,
+   "h": 0.7,
+   "text": "CSW-1-DT SSD",
+   "name": "Text Box 104",
+   "path": []
+  },
+  {
+   "id": "32912",
+   "col": "MINID_S",
+   "y": 49.45,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "2.312",
+   "name": "Text Box 144",
+   "path": []
+  },
+  {
+   "id": "32911",
+   "col": "NAME_S",
+   "y": 49.48,
+   "x": 31.45,
+   "h": 0.82,
+   "text": "'CSW-1DT' SSD",
+   "name": "Text Box 143",
+   "path": []
+  },
+  {
+   "id": "32886",
+   "col": "STATUS_L",
+   "y": 49.5,
+   "x": 85.87,
+   "h": 0.71,
+   "text": "CLOSED",
+   "name": "Text Box 118",
+   "path": []
+  },
+  {
+   "id": "32843",
+   "col": "DEPTH_S",
+   "y": 49.52,
+   "x": 41.62,
+   "h": 0.84,
+   "text": "1543.4",
+   "name": "Text Box 75",
+   "path": []
+  },
+  {
+   "id": "32881",
+   "col": "MINID_L",
+   "y": 49.53,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 113",
+   "path": []
+  },
+  {
+   "id": "33054",
+   "col": "DEPTH_L",
+   "y": 50.81,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1556.1",
+   "name": "Text Box 286",
+   "path": []
+  },
+  {
+   "id": "33060",
+   "col": "DEPTH_S",
+   "y": 50.81,
+   "x": 41.7,
+   "h": 0.82,
+   "text": "1547.2",
+   "name": "Text Box 292",
+   "path": []
+  },
+  {
+   "id": "33057",
+   "col": "NAME_L",
+   "y": 51.83,
+   "x": 70.13,
+   "h": 0.71,
+   "text": "BLAST JOINT",
+   "name": "Text Box 289",
+   "path": []
+  },
+  {
+   "id": "33059",
+   "col": "MINID_L",
+   "y": 51.88,
+   "x": 79.84,
+   "h": 0.82,
+   "text": "2.441",
+   "name": "Text Box 291",
+   "path": []
+  },
+  {
+   "id": "32857",
+   "col": "MINID_S",
+   "y": 51.92,
+   "x": 25.39,
+   "h": 3.85,
+   "text": "SAND : LD-1, (FB S1-B, NDR Reservoir)\nPERFT : 1550.4 m - 1554.3 m MDTHF\n1370 PSI -FGS 14/2/05 \n900 PSI - SGS 7/7/09\n1250psi - FGS Mac 2011",
+   "name": "Rectangle 89",
+   "path": []
+  },
+  {
+   "id": "33071",
+   "col": "DEPTH_S",
+   "y": 51.97,
+   "x": 37.12,
+   "h": 1.17,
+   "text": "BLAST JOINT",
+   "name": "Text Box 303",
+   "path": []
+  },
+  {
+   "id": "33078",
+   "col": "LEFT_MARGIN",
+   "y": 52.09,
+   "x": 8.7,
+   "h": 2.11,
+   "text": "LD-1 kh \n4705.53 mD-ft\nAve Por 27%",
+   "name": "Text Box 310",
+   "path": []
+  },
+  {
+   "id": "33056",
+   "col": "DEPTH_L",
+   "y": 53.22,
+   "x": 59.97,
+   "h": 0.84,
+   "text": "1575.3",
+   "name": "Text Box 288",
+   "path": []
+  },
+  {
+   "id": "33062",
+   "col": "DEPTH_S",
+   "y": 53.22,
+   "x": 41.7,
+   "h": 0.84,
+   "text": "1556.2",
+   "name": "Text Box 294",
+   "path": []
+  },
+  {
+   "id": "32932",
+   "col": "MINID_L",
+   "y": 54.41,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 164",
+   "path": []
+  },
+  {
+   "id": "32933",
+   "col": "DEPTH_L",
+   "y": 54.45,
+   "x": 59.88,
+   "h": 0.83,
+   "text": "1577.8",
+   "name": "Text Box 165",
+   "path": []
+  },
+  {
+   "id": "32915",
+   "col": "NAME_S",
+   "y": 54.46,
+   "x": 31.46,
+   "h": 0.82,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 147",
+   "path": []
+  },
+  {
+   "id": "32913",
+   "col": "DEPTH_S",
+   "y": 54.48,
+   "x": 41.62,
+   "h": 0.82,
+   "text": "1577.9",
+   "name": "Text Box 145",
+   "path": []
+  },
+  {
+   "id": "32934",
+   "col": "NAME_L",
+   "y": 54.5,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 166",
+   "path": []
+  },
+  {
+   "id": "32914",
+   "col": "MINID_S",
+   "y": 54.51,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 146",
+   "path": []
+  },
+  {
+   "id": "33019",
+   "col": "DEPTH_L",
+   "y": 55.98,
+   "x": 59.85,
+   "h": 0.83,
+   "text": "PKR 3",
+   "name": "Text Box 251",
+   "path": []
+  },
+  {
+   "id": "33052",
+   "col": "NAME_S",
+   "y": 56.12,
+   "x": 31.55,
+   "h": 1.41,
+   "text": "CAMCO 'HSD-3-SP'\nDUAL HYD. PKR",
+   "name": "Text Box 284",
+   "path": []
+  },
+  {
+   "id": "32916",
+   "col": "DEPTH_S",
+   "y": 56.17,
+   "x": 41.62,
+   "h": 0.84,
+   "text": "1585.1",
+   "name": "Text Box 148",
+   "path": []
+  },
+  {
+   "id": "32917",
+   "col": "DEPTH_S",
+   "y": 58.12,
+   "x": 41.62,
+   "h": 0.83,
+   "text": "1588.9",
+   "name": "Text Box 149",
+   "path": []
+  },
+  {
+   "id": "32848",
+   "col": "NAME_S",
+   "y": 58.23,
+   "x": 31.45,
+   "h": 0.83,
+   "text": "'D' NO-GO NIPPLE",
+   "name": "Text Box 80",
+   "path": []
+  },
+  {
+   "id": "32855",
+   "col": "MINID_S",
+   "y": 58.26,
+   "x": 22.39,
+   "h": 0.82,
+   "text": "2.250",
+   "name": "Text Box 87",
+   "path": []
+  },
+  {
+   "id": "32918",
+   "col": "DEPTH_S",
+   "y": 59.35,
+   "x": 41.62,
+   "h": 0.82,
+   "text": "1589.3",
+   "name": "Text Box 150",
+   "path": []
+  },
+  {
+   "id": "32849",
+   "col": "NAME_S",
+   "y": 59.41,
+   "x": 31.46,
+   "h": 0.83,
+   "text": "W/L ENTRY GUIDE",
+   "name": "Text Box 81",
+   "path": []
+  },
+  {
+   "id": "32856",
+   "col": "MINID_S",
+   "y": 59.45,
+   "x": 22.39,
+   "h": 0.82,
+   "text": "2.441",
+   "name": "Text Box 88",
+   "path": []
+  },
+  {
+   "id": "33064",
+   "col": "DEPTH_S",
+   "y": 60.5,
+   "x": 41.62,
+   "h": 0.81,
+   "text": "1589.6",
+   "name": "Text Box 296",
+   "path": []
+  },
+  {
+   "id": "32865",
+   "col": "DEPTH_L",
+   "y": 60.52,
+   "x": 59.97,
+   "h": 0.83,
+   "text": "1608.7",
+   "name": "Text Box 97",
+   "path": []
+  },
+  {
+   "id": "32935",
+   "col": "NAME_L",
+   "y": 60.55,
+   "x": 70.14,
+   "h": 0.69,
+   "text": "'CSW-1-DT' SSD",
+   "name": "Text Box 167",
+   "path": []
+  },
+  {
+   "id": "33063",
+   "col": "NAME_S",
+   "y": 60.56,
+   "x": 31.46,
+   "h": 0.84,
+   "text": "END OF TUBING",
+   "name": "Text Box 295",
+   "path": []
+  },
+  {
+   "id": "32882",
+   "col": "MINID_L",
+   "y": 60.62,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 114",
+   "path": []
+  },
+  {
+   "id": "9",
+   "col": "STATUS_L",
+   "y": 60.83,
+   "x": 85.98,
+   "h": 0.71,
+   "text": "CLOSED",
+   "name": "Text Box 234",
+   "path": []
+  },
+  {
+   "id": "32975",
+   "col": "DEPTH_L",
+   "y": 61.86,
+   "x": 59.97,
+   "h": 0.84,
+   "text": "1612.6",
+   "name": "Text Box 207",
+   "path": []
+  },
+  {
+   "id": "32936",
+   "col": "NAME_L",
+   "y": 63.28,
+   "x": 70.13,
+   "h": 0.71,
+   "text": "BLAST JOINT",
+   "name": "Text Box 168",
+   "path": []
+  },
+  {
+   "id": "32937",
+   "col": "MINID_L",
+   "y": 63.38,
+   "x": 79.84,
+   "h": 0.84,
+   "text": "2.441",
+   "name": "Text Box 169",
+   "path": []
+  },
+  {
+   "id": "33079",
+   "col": "LEFT_MARGIN",
+   "y": 63.41,
+   "x": 8.7,
+   "h": 2.11,
+   "text": "E-2 kh \n71.49 mD-ft\nAve Por 25%",
+   "name": "Text Box 311",
+   "path": []
+  },
+  {
+   "id": "32920",
+   "col": "MINID_S",
+   "y": 63.45,
+   "x": 25.47,
+   "h": 3.91,
+   "text": "SAND : E-2,  (FB S1-B, WIR Reservoir)\nPERFT:  1614.3 m - 1620.8 m MDTHF\n1700 PSI - SGS 26/5/04\n1440 PSI -FGS 14/2/05 ",
+   "name": "Rectangle 152",
+   "path": []
+  },
+  {
+   "id": "32977",
+   "col": "DEPTH_L",
+   "y": 64.53,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1621.6",
+   "name": "Text Box 209",
+   "path": []
+  },
+  {
+   "id": "10",
+   "col": "STATUS_L",
+   "y": 65.22,
+   "x": 90.52,
+   "h": 2.59,
+   "text": "2.313” MA Plug @ 1622m-WLTHF (3/12/2017)",
+   "name": "TextBox 9",
+   "path": []
+  },
+  {
+   "id": "32967",
+   "col": "DEPTH_L",
+   "y": 65.36,
+   "x": 60.05,
+   "h": 0.82,
+   "text": "1621.6",
+   "name": "Text Box 199",
+   "path": []
+  },
+  {
+   "id": "32968",
+   "col": "NAME_L",
+   "y": 65.45,
+   "x": 70.12,
+   "h": 0.7,
+   "text": "WP-1 NIPPLE",
+   "name": "Text Box 200",
+   "path": []
+  },
+  {
+   "id": "33023",
+   "col": "DEPTH_L",
+   "y": 67.23,
+   "x": 59.85,
+   "h": 0.81,
+   "text": "PKR 2",
+   "name": "Text Box 255",
+   "path": []
+  },
+  {
+   "id": "33024",
+   "col": "NAME_S",
+   "y": 67.3,
+   "x": 31.57,
+   "h": 1.4,
+   "text": "CAMCO 'HRP-4-SP'\nSINGLE HYD. PKR",
+   "name": "Text Box 256",
+   "path": []
+  },
+  {
+   "id": "33011",
+   "col": "DEPTH_S",
+   "y": 67.35,
+   "x": 41.62,
+   "h": 0.82,
+   "text": "1626.5",
+   "name": "Text Box 243",
+   "path": []
+  },
+  {
+   "id": "33000",
+   "col": "MINID_L",
+   "y": 68.62,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.313",
+   "name": "Text Box 232",
+   "path": []
+  },
+  {
+   "id": "32999",
+   "col": "DEPTH_L",
+   "y": 68.66,
+   "x": 59.97,
+   "h": 0.83,
+   "text": "1630.7",
+   "name": "Text Box 231",
+   "path": []
+  },
+  {
+   "id": "33001",
+   "col": "NAME_L",
+   "y": 68.7,
+   "x": 70.14,
+   "h": 0.7,
+   "text": "'CSW-1-DT' SSD",
+   "name": "Text Box 233",
+   "path": []
+  },
+  {
+   "id": "33002",
+   "col": "STATUS_L",
+   "y": 68.71,
+   "x": 85.89,
+   "h": 0.7,
+   "text": "CLOSED",
+   "name": "Text Box 234",
+   "path": []
+  },
+  {
+   "id": "33080",
+   "col": "LEFT_MARGIN",
+   "y": 69.52,
+   "x": 8.7,
+   "h": 2.12,
+   "text": "E-6 kh \n695.51 mD-ft\nAve Por 24%",
+   "name": "Text Box 312",
+   "path": []
+  },
+  {
+   "id": "33008",
+   "col": "DEPTH_L",
+   "y": 69.69,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1632.0",
+   "name": "Text Box 240",
+   "path": []
+  },
+  {
+   "id": "33003",
+   "col": "NAME_L",
+   "y": 70.59,
+   "x": 70.13,
+   "h": 0.69,
+   "text": "BLAST JOINT",
+   "name": "Text Box 235",
+   "path": []
+  },
+  {
+   "id": "33004",
+   "col": "MINID_L",
+   "y": 70.69,
+   "x": 79.84,
+   "h": 0.84,
+   "text": "2.313",
+   "name": "Text Box 236",
+   "path": []
+  },
+  {
+   "id": "33012",
+   "col": "MINID_S",
+   "y": 70.88,
+   "x": 25.65,
+   "h": 5.58,
+   "text": "SAND: E-6/7,  (FB S1-B, WIR Reservoir)\nPERFT: 1633.6 m - 1636.6 m MDTHF\n1638.0 m - 1642.3 mMDTHF\n1644.0 m - 1647.3 m MDTHF\n1652.3 m - 1655.3 m MDTHF\n1656.6 m - 1661.7 m MDTHF\n1690 PSI - SGS 6/4/03\n1428psi - FGS mac 2011",
+   "name": "Rectangle 244",
+   "path": []
+  },
+  {
+   "id": "33010",
+   "col": "DEPTH_L",
+   "y": 71.13,
+   "x": 59.97,
+   "h": 0.83,
+   "text": "1665.1",
+   "name": "Text Box 242",
+   "path": []
+  },
+  {
+   "id": "33110",
+   "col": "STATUS_L",
+   "y": 71.56,
+   "x": 85.81,
+   "h": 3.32,
+   "text": "Leak found at 1632.9 m  based on MIT 2015",
+   "name": "Text Box 307",
+   "path": []
+  },
+  {
+   "id": "33005",
+   "col": "MINID_L",
+   "y": 72.34,
+   "x": 79.84,
+   "h": 0.84,
+   "text": "2.313",
+   "name": "Text Box 237",
+   "path": []
+  },
+  {
+   "id": "33081",
+   "col": "LEFT_MARGIN",
+   "y": 72.36,
+   "x": 8.7,
+   "h": 2.1,
+   "text": "E-7 kh \n203.78 mD-ft\nAve Por 23%",
+   "name": "Text Box 313",
+   "path": []
+  },
+  {
+   "id": "33006",
+   "col": "DEPTH_L",
+   "y": 72.39,
+   "x": 59.88,
+   "h": 0.81,
+   "text": "1667.7",
+   "name": "Text Box 238",
+   "path": []
+  },
+  {
+   "id": "33007",
+   "col": "NAME_L",
+   "y": 72.44,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "'WP-1' NIPPLE",
+   "name": "Text Box 239",
+   "path": []
+  },
+  {
+   "id": "33058",
+   "col": "DEPTH_L",
+   "y": 73.81,
+   "x": 59.88,
+   "h": 0.83,
+   "text": "1669.6",
+   "name": "Text Box 290",
+   "path": []
+  },
+  {
+   "id": "32939",
+   "col": "NAME_L",
+   "y": 73.9,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "CENTRALIZER",
+   "name": "Text Box 171",
+   "path": []
+  },
+  {
+   "id": "32940",
+   "col": "MINID_L",
+   "y": 73.9,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.441",
+   "name": "Text Box 172",
+   "path": []
+  },
+  {
+   "id": "33066",
+   "col": "DEPTH_L",
+   "y": 74.84,
+   "x": 59.97,
+   "h": 0.84,
+   "text": "1671.6",
+   "name": "Text Box 298",
+   "path": []
+  },
+  {
+   "id": "33067",
+   "col": "NAME_L",
+   "y": 74.94,
+   "x": 70.14,
+   "h": 0.71,
+   "text": "SEAL LOCATOR",
+   "name": "Text Box 299",
+   "path": []
+  },
+  {
+   "id": "32964",
+   "col": "DEPTH_L",
+   "y": 75.79,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1671.8",
+   "name": "Text Box 196",
+   "path": []
+  },
+  {
+   "id": "32965",
+   "col": "NAME_L",
+   "y": 75.9,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "SEAL ASSY.",
+   "name": "Text Box 197",
+   "path": []
+  },
+  {
+   "id": "32966",
+   "col": "MINID_L",
+   "y": 75.9,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "2.441",
+   "name": "Text Box 198",
+   "path": []
+  },
+  {
+   "id": "32919",
+   "col": "NAME_S",
+   "y": 76.61,
+   "x": 31.53,
+   "h": 1.4,
+   "text": "9 5/8\" MODEL D-1\nBAKER PERM. PKR",
+   "name": "Text Box 151",
+   "path": []
+  },
+  {
+   "id": "32859",
+   "col": "MINID_S",
+   "y": 76.72,
+   "x": 22.39,
+   "h": 0.83,
+   "text": "4.000",
+   "name": "Text Box 91",
+   "path": []
+  },
+  {
+   "id": "33051",
+   "col": "DEPTH_S",
+   "y": 76.75,
+   "x": 41.62,
+   "h": 0.81,
+   "text": "1672.7",
+   "name": "Text Box 283",
+   "path": []
+  },
+  {
+   "id": "33020",
+   "col": "DEPTH_L",
+   "y": 77.0,
+   "x": 59.85,
+   "h": 0.81,
+   "text": "PKR 1",
+   "name": "Text Box 252",
+   "path": []
+  },
+  {
+   "id": "32978",
+   "col": "DEPTH_L",
+   "y": 78.12,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1674.8",
+   "name": "Text Box 210",
+   "path": []
+  },
+  {
+   "id": "32875",
+   "col": "NAME_L",
+   "y": 78.22,
+   "x": 70.72,
+   "h": 0.7,
+   "text": "BTM SEAL BORE EXT.",
+   "name": "Text Box 107",
+   "path": []
+  },
+  {
+   "id": "32884",
+   "col": "MINID_L",
+   "y": 78.23,
+   "x": 79.84,
+   "h": 0.83,
+   "text": "4.000",
+   "name": "Text Box 116",
+   "path": []
+  },
+  {
+   "id": "32866",
+   "col": "DEPTH_L",
+   "y": 79.71,
+   "x": 59.97,
+   "h": 0.84,
+   "text": "1679.0",
+   "name": "Text Box 98",
+   "path": []
+  },
+  {
+   "id": "32883",
+   "col": "MINID_L",
+   "y": 79.71,
+   "x": 79.84,
+   "h": 0.84,
+   "text": "2.250",
+   "name": "Text Box 115",
+   "path": []
+  },
+  {
+   "id": "32938",
+   "col": "NAME_L",
+   "y": 79.73,
+   "x": 70.12,
+   "h": 0.7,
+   "text": "'D' NO-GO NIPPLE",
+   "name": "Text Box 170",
+   "path": []
+  },
+  {
+   "id": "32867",
+   "col": "DEPTH_L",
+   "y": 80.9,
+   "x": 59.97,
+   "h": 0.83,
+   "text": "1680.1",
+   "name": "Text Box 99",
+   "path": []
+  },
+  {
+   "id": "32873",
+   "col": "NAME_L",
+   "y": 80.96,
+   "x": 70.13,
+   "h": 0.7,
+   "text": "CONICAL MULE SHOE",
+   "name": "Text Box 105",
+   "path": []
+  },
+  {
+   "id": "32885",
+   "col": "MINID_L",
+   "y": 81.09,
+   "x": 79.84,
+   "h": 0.84,
+   "text": "2.441",
+   "name": "Text Box 117",
+   "path": []
+  },
+  {
+   "id": "33068",
+   "col": "DEPTH_L",
+   "y": 81.82,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1680.3",
+   "name": "Text Box 300",
+   "path": []
+  },
+  {
+   "id": "33069",
+   "col": "NAME_L",
+   "y": 82.06,
+   "x": 70.13,
+   "h": 0.69,
+   "text": "END OF TUBING",
+   "name": "Text Box 301",
+   "path": []
+  },
+  {
+   "id": "33082",
+   "col": "LEFT_MARGIN",
+   "y": 82.66,
+   "x": 8.7,
+   "h": 2.12,
+   "text": "E-10/11 kh \n2597.20 mD-ft\nAve Por 25%",
+   "name": "Text Box 314",
+   "path": []
+  },
+  {
+   "id": "32860",
+   "col": "MINID_S",
+   "y": 82.72,
+   "x": 25.21,
+   "h": 6.52,
+   "text": "SAND : E-10/11, (FB S1-B, WIR Reservoir)\nPERFT : 1683.1 m - 1701.6 m MDTHF",
+   "name": "Rectangle 92",
+   "path": []
+  },
+  {
+   "id": "33065",
+   "col": "DEPTH_S",
+   "y": 83.0,
+   "x": 41.83,
+   "h": 1.76,
+   "text": "PBTD\n1766.6",
+   "name": "Text Box 297",
+   "path": []
+  },
+  {
+   "id": "33018",
+   "col": "NAME_L",
+   "y": 83.81,
+   "x": 70.12,
+   "h": 0.71,
+   "text": "9 5/8\" CASING SHOE",
+   "name": "Text Box 250",
+   "path": []
+  },
+  {
+   "id": "33070",
+   "col": "DEPTH_L",
+   "y": 83.87,
+   "x": 59.97,
+   "h": 0.82,
+   "text": "1804.6",
+   "name": "Text Box 302",
+   "path": []
+  },
+  {
+   "id": "8",
+   "col": "STATUS_L",
+   "y": 84.34,
+   "x": 90.53,
+   "h": 1.76,
+   "text": "All SSD CLOSED (2/12/2017)",
+   "name": "TextBox 7",
+   "path": []
+  },
+  {
+   "id": "32897",
+   "col": "DEPTH_L",
+   "y": 85.24,
+   "x": 51.18,
+   "h": 0.84,
+   "text": "TD @ 1811.6 m MDTHF ",
+   "name": "Text Box 129",
+   "path": []
+  }
+ ]
+}

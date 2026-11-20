@@ -1,0 +1,22 @@
+# slide 23 (slides/slide23.xml) hidden=False objects=14
+# notes: 'Open\n23'
+[pic id=4 'Content Placeholder 3' pct=[3.93, 0.0, 98.72, 88.83] hidden=False img=../media/image52.emf]
+[sp id=3 'TextBox 3' pct=[4.9, 1.21, 37.23, 3.73] hidden=False]
+    Latest Update: July 2023 by Pravin Nair
+[sp id=2 'Rectangle 1' pct=[30.79, 77.82, 71.48, 81.06] hidden=False]
+     2” LIB HUD @1621m – MDTHF. Bailer recovered sand (2017)
+[sp id=11 'Rectangle 10' pct=[63.01, 44.25, 81.04, 46.94] hidden=False]
+    CLOSED (June 2018)
+[sp id=23 'Rectangle 22' pct=[63.31, 56.75, 81.33, 59.44] hidden=False]
+    OPEN (June 2018)
+[sp id=29 'Rectangle 28' pct=[63.53, 64.19, 81.56, 66.88] hidden=False]
+    CLOSED (July 2017)
+[sp id=73 'TextBox 72' pct=[3.93, 57.11, 19.26, 60.48] hidden=False]
+    Set slickplug at 1590m WLTHF (Jul 2018)
+[sp id=87 'TextBox 86' pct=[3.48, 50.22, 18.96, 53.59] hidden=False]
+    Tubing punch @ 1582 - 1592m MDDF (Jul 2018)
+[sp id=13 'Footer Placeholder 12' pct=None hidden=False]
+    Open
+[sp id=5 'TextBox 4' pct=[3.5, 28.75, 101.55, 66.79] hidden=False]
+    FOR A26ST1  LATEST EDITABLE DIAGRAM, PLEASE REFER TO EXCEL FILE IN ECMS
+    - PRAVIN NAIR  2023-

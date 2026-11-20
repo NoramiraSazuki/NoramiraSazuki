@@ -1,0 +1,74 @@
+WELL | A18 | 15 | image34.png + image35.png | WELL A-18: DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+SRC | 15 | image34.png + image35.png | visual transcription of the screenshot pictures (x3 upscale, upper part image34 / lower part image35)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 3 FEBRUARY 1992
+INFO | rig | TIOMAN 1
+INFO | tubing | 2 7/8" 6.5 PPF N-80 NK3SB
+INFO | xmas | WKM, DUAL, 3M
+INFO | packerFluid | 9.6 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | maxDeviation | 47.3 DEG
+INFO | rte | 14.52 m
+INFO | completionType | DUAL OIL PRODUCER WITH LONG STRING SELECTIVE
+CASING | 18 5/8" X-56 COND. 87.5 ppf @ m MDDF | 18.625 | 87.5 | X-56 |  | MDDF
+CASING | 13 3/8" K-55 SURF., 54.5 ppf @ mMDDF | 13.375 | 54.5 | K-55 |  | MDDF
+CASING | 9 5/8" N-80 PROD., 40 ppf @ m MDDF | 9.625 | 40 | N-80 |  | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (short string) | 2.875 | 6.5 | N-80 | Short |
+TUBING | 2 7/8" 6.5 PPF N-80 NK3SB (long string) | 2.875 | 6.5 | N-80 | Long |
+ROW | S | FLOW COUPLING | 129 |  | 2.441 |  |  |  | p1
+ROW | S | TRDP-4A SCSSV | 130 |  | 2.312 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 284 |  | 2.312 |  |  |  | p1
+ROW | S | KBMG-M SPM | 620 |  | 2.371 |  | ?GLV 8/64" 1040 psi (Sep 17) | status from slide text box obj #3110 matched by position | p1
+ROW | S | KBMG-M SPM | 957 |  | 2.371 |  | ?GLV 8/64" 980psi (Sep 17) | status from slide text box obj #3105 matched by position | p1
+ROW | S | KBMG-M SPM | 1216 |  | 2.371 |  | ?GLOV (Sep 17) | status from slide text box obj #3098 matched by position | p1
+ROW | S | KBMG-M SPM | 1409 |  | 2.371 |  | ?Unknown | status from slide text box obj #3078 matched by position | p1
+ROW | S | KBMG-M SPM | 1553 |  | 2.371 |  | ?Unknown | status from slide text box obj #3080 matched by position | p1
+ROW | S | WPB-2DE SSD | 1592 |  | 2.312 |  | CLOSED |  | p1
+ROW | D | GUIB UNI-XXVII DUAL HYD. PKR | 1600 |  |  |  |  | dual packer across both strings | p1
+ROW | S | 'D' NO-GO NIPPLE | 1604 |  | 2.250 |  |  |  | p1
+ROW | S | W/L ENTRY GUIDE | 1604 |  | 2.441 |  |  | end of string; same depth as the 'D' NO-GO NIPPLE as printed | p1
+ROW | L | FLOW COUPLING | 139 |  | 2.441 |  |  |  | p1
+ROW | L | TRDP-4A SCSSV | 140 |  | 2.312 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 294 |  | 2.312 |  |  |  | p1
+ROW | L | KBMG-M SPM | 639 |  | 2.371 |  | 12/64" 450 p[si] (cut at the picture edge); ?DV | later status from slide text box obj #15 matched by position (June/2017) | p1
+ROW | L | KBMG-M SPM | 966 |  | 2.371 |  | ?GLV 8/64" Ptro 1005 psi | status from slide text box obj #14 matched by position | p1
+ROW | L | KBMG-M SPM | 1236 |  | 2.371 |  | ?Orifice 12/64" | status from slide text box obj #19 matched by position | p1
+ROW | L | KBMG-M SPM | 1438 |  | 2.371 |  | ?DV (Cemented) | status from slide text box obj #20 matched by position | p1
+ROW | L | KBMG-M SPM | 1582 |  | 2.371 |  | 12/64" 500 p[si] 28/2/5 (cut at the picture edge); ?GLV 12/64" (Cemented) | later status from slide text box obj #16 matched by position | p1
+ROW | L | WPB-2DE SSD | 1592 |  | 2.312 |  | CLOSED |  | p1
+ROW | L | 'WPB-2DE' SSD | 1608 |  | 2.312 |  | CLOSED; ?OPENED (11/2/2017) | later status from slide text box obj #28 matched by position | p1
+ROW | L | BLAST JOINT | 1612 | 1625 | 2.441 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 1650 |  | 2.312 |  |  |  | p1
+ROW | L | BAKER 'FH' SINGLE HYD. PKR | 1667 |  | 2.441 |  |  | label and depth printed in the short-string columns; the packer is on the long string | p2
+ROW | L | 'WPB-2DE' SSD | 1675 |  | 2.312 |  | OPENED; ?OPEN (Mar 2012) | slide text box obj #8 matched by position | p2
+ROW | L | BLAST JOINT | 1679 | 1691 | 2.441 |  |  |  | p2
+ROW | L | WP-1 NIPPLE | 1691 |  | 2.312 |  |  |  | p2
+ROW | L | CENTRALIZER | 1692 |  | 2.441 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY. | 1693 |  | 2.441 |  |  |  | p2
+ROW | L | BAKER 'DB' PERM. PKR | 1693 |  | 4.000 |  |  | label and depth printed in the short-string columns | p2
+ROW | L | SEAL BORE EXT. | 1694 |  | 4.000 |  |  |  | p2
+ROW | L | 'D' NO-GO NIPPLE | 1698 |  | 2.250 |  | OPENED; ?OPEN (Mar 2012) | slide text box obj #56 matched by position | p2
+ROW | L | WEG | 1699 |  | 2.441 |  |  | end of string | p2
+ZONE | E7 | 1621 | 1636 | MDTHF | slide text box obj #29 'E7 1621-1636m' beside SAND : E-7 (unit m, datum not printed) | slide obj #29 | perf
+ZONE | E12/13 | 1680 | 1690 | MDTHF | slide text box obj #2 'E12/13 1680-1690m' beside SAND : E12/13 (unit m, datum not printed) | slide obj #2 | perf
+ZONE | E14 | 1700.5 | 1707.5 | MDTHF | slide text box obj #22 'E14 1700.5-1707.5m' beside SAND : E-14 (unit m, datum not printed) | slide obj #22 | perf
+ZONE | E2A | 1594 | 1596 | MDDF | slide text box obj #3094 'E2A (1594-1596m MDDF)' | slide obj #3094 | perf
+PBTD | 1788 | MDDF | PBTD : 1788 m MDDF (header)
+TD | 1773.5 | MDTHF | TD @ 1773.5 m MDTHF
+SHOE | 9 5/8" CASING SHOE |  | MDTHF |  | 9 5/8" CASING SHOE (label without depth)
+INT | Cement Retainer @ 1594m MDTHF (Nov 2016) | 1594 | MDTHF | 3073
+INT | Baker Tubing Packoff (June 2021) from 59m – 75m MDTHF | 59 | MDTHF | 50
+INT | 2.31" MA Plug set @ WP1 Nipple (June 2016) due to stiff open SSD#3 |  |  | 34
+INT | 2.31" MA Plug set at SSD#1 (Feb 2018) |  |  | 41
+NOTE | picture p1 | 1/4" CONTROL LINE on both strings (to the SCSSVs)
+NOTE | slide 15 obj #36 / #32 / #3089 | three rectangles with a sand/cement fill texture (image10.jpeg) drawn across the annuli at about 1584 – 1594 m (cement packer / retainer area) — no data
+NOTE | slide 15 obj #38 | Cement packer (Nov 2016), TOC in annulus = 1584 m MDTHF
+NOTE | slide 15 obj #46 | WTF Tbg Stop & SC set @ TRSV in Feb 2018. TR flapper lock open in Mar 2016
+NOTE | slide 15 obj #27 | 2.29" GR HUD 1588m MDTHF (Jun 2021)
+NOTE | slide 15 obj #23 / #3097 | Closed due to MA Plug (beside SAND : E12/13 and SAND : E-14)
+NOTE | slide 15 obj #17 | June/2017 (long-string status column header)
+NOTE | slide 15 obj #3 | Latest Update: Dec 2023 by Pravin Nair
+ISSUE | Missing | header | casing setting depths blank on the schematic
+ISSUE | Unclear | slide 15 | zone intervals E7 / E12/13 / E14 printed in m without datum; read as m MDTHF like the depth columns; E2A printed in m MDDF — not shifted
+ISSUE | Unclear | slide 15 | later SPM / SSD statuses (Sep 17, June 2017, Mar 2012, 11/2/2017) are slide text boxes matched to rows by vertical position
+ISSUE | Conflict | header / diagram | PBTD 1788 m MDDF (header) vs TD @ 1773.5 m MDTHF (diagram) — different datums, not shifted; PBTD - RTE 14.52 m = 1773.48 m, i.e. equal to the TD value
+ISSUE | Unclear | slide 15 obj #50 | Baker tubing packoff spans 59 – 75 m MDTHF; mapped with top 59 m (string not stated); bottom not mapped

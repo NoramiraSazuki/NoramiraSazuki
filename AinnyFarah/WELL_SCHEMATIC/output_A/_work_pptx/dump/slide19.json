@@ -1,0 +1,453 @@
+{
+ "slide": 19,
+ "file": "slides/slide19.xml",
+ "hidden": false,
+ "size": [
+  6858000,
+  9144000
+ ],
+ "notes": "Open\n19",
+ "objects": [
+  {
+   "kind": "grpSp",
+   "id": "6",
+   "name": "Group 5",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 230374,
+   "y": 121082,
+   "cx": 6400800,
+   "cy": 8229600,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.36,
+    1.32,
+    96.69,
+    91.32
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "1026",
+   "name": "Picture 2",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 230374,
+   "y": 121082,
+   "cx": 6400800,
+   "cy": 5622727,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.36,
+    1.32,
+    96.69,
+    62.82
+   ],
+   "image": "../media/image42.png",
+   "crop": {
+    "l": "28333",
+    "t": "10667",
+    "r": "21111",
+    "b": "8444"
+   }
+  },
+  {
+   "kind": "pic",
+   "id": "1027",
+   "name": "Picture 3",
+   "path": [
+    "Group 5"
+   ],
+   "hidden": false,
+   "descr": null,
+   "x": 300712,
+   "y": 5693789,
+   "cx": 6330462,
+   "cy": 2656893,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    4.38,
+    62.27,
+    96.69,
+    91.32
+   ],
+   "image": "../media/image43.png",
+   "crop": {
+    "l": "28889",
+    "t": "48222",
+    "r": "21111",
+    "b": "13556"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "TextBox 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5867400,
+   "y": 76200,
+   "cx": 1026243,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.56,
+    0.83,
+    100.52,
+    4.87
+   ],
+   "text": "FB – N3C",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "7",
+   "name": "TextBox 6",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5902685,
+   "y": 5233248,
+   "cx": 1031051,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    86.07,
+    57.23,
+    101.1,
+    59.92
+   ],
+   "text": "OPEN (Jul 2009)",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6048375,
+   "y": 4286250,
+   "cx": 695325,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.19,
+    46.88,
+    98.33,
+    49.23
+   ],
+   "text": "DV",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 6057900,
+   "y": 4076700,
+   "cx": 695325,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    88.33,
+    44.58,
+    98.47,
+    46.94
+   ],
+   "text": "DV",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "17",
+   "name": "TextBox 16",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5895975,
+   "y": 3895725,
+   "cx": 1457325,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.97,
+    42.6,
+    107.22,
+    44.96
+   ],
+   "text": "DV Reset 10/Jul/09",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5895975,
+   "y": 3619500,
+   "cx": 923925,
+   "cy": 338554,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    85.97,
+    39.58,
+    99.44,
+    43.29
+   ],
+   "text": "BK2 latch \n(LIB Nov 10/07)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 59832,
+   "y": 7722870,
+   "cx": 1144864,
+   "cy": 246221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.87,
+    84.46,
+    17.57,
+    87.15
+   ],
+   "text": "OPEN (MAY 2012)",
+   "geom": "rect",
+   "fill": "99FFCC"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5967204,
+   "y": 4488507,
+   "cx": 793337,
+   "cy": 230832,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    87.01,
+    49.09,
+    98.58,
+    51.61
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "Rectangle 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 160020,
+   "y": 4001533,
+   "cx": 1326886,
+   "cy": 354701,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    2.33,
+    43.76,
+    21.68,
+    47.64
+   ],
+   "text": " HUD @2068m-MDTHF (Dec 2016) - sand",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Rectangle 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2811780,
+   "y": 5403501,
+   "cx": 1775460,
+   "cy": 174339,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    41.0,
+    59.09,
+    66.89,
+    61.0
+   ],
+   "text": "MA plug at SSD#02 (Dec 2016)",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "Text Box 289",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 4092909,
+   "y": 8533884,
+   "cx": 2965388,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    59.68,
+    93.33,
+    102.92,
+    97.37
+   ],
+   "text": "LAST ENTRY\t: 25  Dec 2016\nTYPE OF JOB\t: A-22 : Offload\nUPDATED BY\t: M Zhafran\nDATE\t: 4 Feb 2018",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "Footer Placeholder 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "text": "Open",
+   "geom": null
+  },
+  {
+   "kind": "sp",
+   "id": "2",
+   "name": "TextBox 3",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 0,
+   "y": 0,
+   "cx": 2004075,
+   "cy": 215444,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.0,
+    0.0,
+    29.22,
+    2.36
+   ],
+   "text": "Latest Update: Dec 2023 by Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "pic",
+   "id": "3",
+   "name": "Graphic 2",
+   "path": [],
+   "hidden": false,
+   "descr": "Warning with solid fill",
+   "x": 1851719,
+   "y": 4330706,
+   "cx": 162687,
+   "cy": 162687,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    27.0,
+    47.36,
+    29.37,
+    49.14
+   ],
+   "image": null,
+   "image_alt": "../media/image3.svg"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "Rectangle 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 1834516,
+   "y": 5299075,
+   "cx": 161924,
+   "cy": 95885,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    26.75,
+    57.95,
+    29.11,
+    59.0
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "11",
+   "name": "TextBox 10",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 229344,
+   "y": 5936307,
+   "cx": 793337,
+   "cy": 369332,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    3.34,
+    64.92,
+    14.91,
+    68.96
+   ],
+   "text": "CLOSED (DEC 2016)",
+   "geom": "rect",
+   "fill": "FF0000"
+  }
+ ]
+}

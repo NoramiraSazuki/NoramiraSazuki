@@ -1,0 +1,51 @@
+WELL | D25 | 25 | image66.png | WELL D-25 :DUAL WAG INJECTOR SHORT STRING AND LONG STRING
+SRC | 25 | image66.png | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 13 SEPTEMBER, 1996
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 3-1/2" 9.2 PPF N-80, NK3SB
+INFO | xmas | INGRAM CACTUS, DUAL 3-1/8" X 3-1/8" X 11" X 3000#
+INFO | packerFluid | 9.2 PPG 3% KCl + NaCl + 0.05% NALCO 3900 BIOCIDE & CORR. INHIBITOR
+INFO | rte | 14.63 m
+INFO | maxDeviation | 69.7 DEG.@1218m-1295m-MDTHF
+INFO | completionType | DUAL WAG INJECTOR SHORT STRING AND LONG STRING
+CASING | 18-5/8" COND. #1, K-55, 87.5 ppf @ 600m-MDDF | 18.625 | 87.5 | K-55 | 600 | MDDF
+CASING | 13-3/8" K-55 SURF., 54.5 ppf @ 1329m-MDDF | 13.375 | 54.5 | K-55 | 1329 | MDDF
+CASING | 9-5/8" N-80 PROD., 40 ppf, BUTT @ 2604 m-MDDF | 9.625 | 40 | N-80 | 2604 | MDDF
+TUBING | 3-1/2" 9.2 PPF N-80, NK3SB | 3.5 | 9.2 | N-80 | Short |
+TUBING | 3-1/2" 9.2 PPF N-80, NK3SB | 3.5 | 9.2 | N-80 | Long |
+ROW | S | FLOW COUPLING | 139.1 |  | 2.992 |  |  |  | p1
+ROW | S | TRDP-4A-LS-RO SCSSV | 139.9 |  | 2.812 |  |  |  | p1
+ROW | S | FLOW COUPLING | 141.2 |  | 2.992 |  |  |  | p1
+ROW | S | WP-1 NIPPLE | 293.0 |  | 2.812 |  |  |  | p1
+ROW | S | KBMM SPM | 1435.3 |  | 2.920 |  | GLV |  | p1
+ROW | S | CAMCO 'CSW-1D-T' SSD | 2388.1 |  | 2.812 |  |  |  | p1
+ROW | D | CAMCO 'HSD-3-SP' DUAL HYD. PKR | 2404.5 |  | 2.867 |  |  | long side: PKR 2, RELEASE@60000# ABOVE TBG. WT., MIN ID 2.867 | p1
+ROW | S | 'D' NO-GO NIPPLE SEAL BORE | 2408.3 |  | 2.750 |  |  |  | p2
+ROW | S | W/L ENTRY GUIDE | 2408.6 |  | 2.992 |  |  |  | p2
+ROW | S | EOT | 2408.8 |  | 2.992 |  | OPENED 13/SEPT/1996 |  | p2
+ROW | L | FLOW COUPLING | 147.9 |  | 2.992 |  |  |  | p1
+ROW | L | TRDP-4A-LS-RO SCSSV | 148.9 |  | 2.812 |  |  |  | p1
+ROW | L | FLOW COUPLING | 150.2 |  | 2.992 |  |  |  | p1
+ROW | L | WP-1 NIPPLE | 302.1 |  | 2.812 |  |  |  | p1
+ROW | L | KBMM SPM | 1754.8 |  | 2.920 |  | GLV |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2397.2 |  | 2.812 |  |  |  | p1
+ROW | L | CAMCO 'CSW-1D-T' SSD | 2418.4 |  | 2.812 |  |  |  | p2
+ROW | L | WP-1 NIPPLE | 2436.7 |  | 2.812 |  |  |  | p2
+ROW | L | CENTRALIZER | 2441.6 |  | 2.992 |  |  |  | p2
+ROW | L | LOC. SEAL ASSY | 2443.1 |  | 2.992 |  |  |  | p2
+ROW | L | BAKER SEAL ASSY | 2444.7 |  | 2.867 |  |  |  | p2
+ROW | L | BAKER 'D-1' PERM. PKR. | 2444.3 |  | 2.867 |  |  | short-string column; long side PKR 1 | p2
+ROW | L | 'D' NO-GO NIPPLE SEAL BORE | 2448.6 |  | 2.750 |  |  |  | p2
+ROW | L | OTIS MULE SHOE | 2449.7 |  | 2.992 |  |  |  | p2
+ROW | L | EOT | 2449.9 |  | 2.992 |  | OPENED 13/SEPT/1996 |  | p2
+SHOE | 9 5/8 CSG SHOE |  |  |  | label in the long-string column, no own depth (header 2604 m-MDDF) | p2
+ZONE | E-10/11 | 2425.8 | 2441.8 | MDTHF | SAND : E-10/11 2425.8 m - 2441.8 m-MDTHF | p2 | perf
+ZONE | E-12/13 L-1 | 2449.8 | 2455.8 | MDTHF | SAND : E-12/13 L-1: 2449.8 m - 2455.8 m-MDTHF | p2 | perf
+ZONE | E-12/13 L-2 | 2456.8 | 2471.3 | MDTHF | L-2: 2456.8 m - 2471.3 m-MDTHF | p2 | perf
+ZONE | E-12/13 L-3 | 2473.8 | 2491.3 | MDTHF | L-3: 2473.8 m - 2491.3 m-MDTHF | p2 | perf
+PBTD | 2555.3 | MDTHF | PBTD @2555.3m-MDTHF
+TD | 2589.3 | MDTHF | TD@2589.3m-MDTHF
+INT | WRDP-1A-MLO set at TRSV profile. TR flapper lock open in Dec 2010 |  |  | 47
+INT | WRDP-1A-MLO set at 149m. Suspected TRSV flapper dislodged, unable to re-lock open Nov 2022 | 149 | (datum not printed) | 16
+NOTE | picture p2 | 16/APR/2013: SCSSV suspected jammed closed.

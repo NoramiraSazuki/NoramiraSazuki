@@ -1,0 +1,32 @@
+# slide 16 (slides/slide16.xml) hidden=False objects=13
+# notes: 'Open\n16'
+[pic id=36866 'Picture 2' pct=[1.69, 8.88, 99.17, 86.12] hidden=False img=../media/image13.png]
+[sp id=36867 'Text Box 184' pct=[10.49, 5.82, 87.41, 8.57] hidden=False]
+    WELL C-16
+[sp id=36868 'Rounded Rectangle 5' pct=[1.74, 86.12, 56.88, 92.95] hidden=False]
+    Well was completed on December 2012 as WAG injector.
+    Well was recompleted as a single selective WAG injector at LD1, E6/8, E10/11 and E12/13 sands.
+    Currently injecting into all zones and actual injection achieved target rate. 
+[sp id=36873 'Text Box 296' pct=[40.0, 51.01, 52.8, 51.83] hidden=False]
+    Closed on 20/8/17
+[sp id=36874 'Text Box 296' pct=[42.55, 75.35, 55.35, 76.16] hidden=False]
+    Opened on 29/6/22
+[sp id=36875 'Text Box 296' pct=[42.55, 62.96, 55.35, 63.8] hidden=False]
+    Open on 17/7/17
+[sp id=2 'Footer Placeholder 1' pct=None hidden=False]
+    Open
+[sp id=3 'TextBox 2' pct=[82.44, 26.23, 98.31, 28.82] hidden=False]
+    Fluid Level @ 113m-MDTHF (30/10/2022)
+[sp id=4 'TextBox 3' pct=[82.44, 36.94, 98.31, 39.52] hidden=False]
+    2.78” GR HUD @ 1359m-MDTHF  (27/6/2022)
+[sp id=5 'TextBox 4' pct=[82.44, 40.49, 98.31, 43.08] hidden=False]
+    Bull Plug @ 1516m-MDTHF  (30/10/2022)
+[sp id=6 'TextBox 5' pct=[82.44, 54.83, 98.31, 56.59] hidden=False]
+    SSD#2 OPENED  (30/10/2022)
+[sp id=7 'TextBox 6' pct=[82.44, 23.57, 98.31, 26.15] hidden=False]
+    Storm Choke Jammed Open  (30/7/2022)
+[sp id=8 'Text Box 289' pct=[59.02, 86.73, 97.4, 90.04] hidden=False]
+    LAST ENTRY	: 4th November 2022
+    TYPE OF JOB	: MPLT
+    HUD	: 2.78” GR 1359m-MDTHF 
+    UPDATED BY	: M ‘Ammar Hussaini – 19th May 2025

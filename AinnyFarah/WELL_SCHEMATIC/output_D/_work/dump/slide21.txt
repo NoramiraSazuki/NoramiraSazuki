@@ -1,0 +1,11 @@
+# slide 21 (slides/slide21.xml) hidden=False objects=6
+# notes: 'Open\n20'
+[pic id=6159362 'Picture 2' pct=[30.53, 0.0, 69.47, 99.23] hidden=False img=../media/image57.png]
+[sp id=5 'Rectangle 4' pct=[50.84, 95.89, 68.82, 98.08] hidden=False]
+    UPDATED JAN 2024 BY PRAVIN NAIR
+[sp id=13 'Oval 12' pct=[92.84, 3.08, 97.6, 11.54] hidden=False]
+    OP
+[sp id=14 'TextBox 13' pct=[26.06, 76.15, 30.95, 82.3] hidden=False]
+    OPENED
+[sp id=15 'BJPseudoFooter' pct=[0.72, 94.87, 2.4, 96.74] hidden=False]
+    Open

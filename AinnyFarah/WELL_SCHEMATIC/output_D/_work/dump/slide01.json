@@ -1,0 +1,842 @@
+{
+ "slide": 1,
+ "file": "slides/slide1.xml",
+ "hidden": false,
+ "size": [
+  17610138,
+  9906000
+ ],
+ "notes": "OP converted to WI - 2015\n\nOpen\n0",
+ "objects": [
+  {
+   "kind": "pic",
+   "id": "6138882",
+   "name": "Picture 2",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5345519,
+   "y": 76200,
+   "cx": 6400799,
+   "cy": 9642764,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.35,
+    0.77,
+    66.7,
+    98.11
+   ],
+   "image": "../media/image7.png",
+   "crop": {
+    "l": "29587",
+    "t": "9169",
+    "r": "30103",
+    "b": "1292"
+   }
+  },
+  {
+   "kind": "sp",
+   "id": "10",
+   "name": "TextBox 9",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10805319,
+   "y": 3293534,
+   "cx": 762000,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.36,
+    33.25,
+    65.69,
+    37.86
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "12",
+   "name": "TextBox 11",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10805319,
+   "y": 3951283,
+   "cx": 762000,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.36,
+    39.89,
+    65.69,
+    44.5
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "13",
+   "name": "Rounded Rectangle 12",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5198791,
+   "y": 9265960,
+   "cx": 7192700,
+   "cy": 602358,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.52,
+    93.54,
+    70.37,
+    99.62
+   ],
+   "text": "",
+   "geom": "roundRect"
+  },
+  {
+   "kind": "sp",
+   "id": "15",
+   "name": "TextBox 14",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10805319,
+   "y": 5562600,
+   "cx": 762000,
+   "cy": 457200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.36,
+    56.15,
+    65.69,
+    60.77
+   ],
+   "text": "CLOSED",
+   "geom": "rect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "16",
+   "name": "TextBox 15",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10805317,
+   "y": 6704017,
+   "cx": 762000,
+   "cy": 579433,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.36,
+    67.68,
+    65.69,
+    73.53
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "19",
+   "name": "TextBox 18",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10803521,
+   "y": 7298073,
+   "cx": 944773,
+   "cy": 968221,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.35,
+    73.67,
+    66.71,
+    83.45
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "18",
+   "name": "Line Callout 2 17",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12462669,
+   "y": 6451141,
+   "cx": 2362200,
+   "cy": 832309,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    70.77,
+    65.12,
+    84.18,
+    73.53
+   ],
+   "text": "MPLT Apr 2017 Leak @ 1640m-MDTHF / 1655m-MDDF",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "20",
+   "name": "TextBox 19",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10805317,
+   "y": 8280583,
+   "cx": 762000,
+   "cy": 579433,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    61.36,
+    83.59,
+    65.69,
+    89.44
+   ],
+   "text": "OPEN",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "21",
+   "name": "Rounded Rectangle 20",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8612190,
+   "y": 8486772,
+   "cx": 182951,
+   "cy": 212766,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.9,
+    85.67,
+    49.94,
+    87.82
+   ],
+   "text": "",
+   "geom": "roundRect",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "22",
+   "name": "Line Callout 2 21",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12462669,
+   "y": 7631603,
+   "cx": 2362200,
+   "cy": 832309,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    70.77,
+    77.04,
+    84.18,
+    85.44
+   ],
+   "text": "Set 2.25\" CA Plug at D-nogo @ 1679m-MDTHF in Mar 2015 but PLT in Apr 2017 show the plug is not holding.",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "23",
+   "name": "Block Arc 22",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8658094,
+   "y": 4724400,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.17,
+    47.69,
+    51.33,
+    50.2
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "24",
+   "name": "Line Callout 2 23",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12500769,
+   "y": 3970333,
+   "cx": 2362200,
+   "cy": 832309,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    70.99,
+    40.08,
+    84.4,
+    48.48
+   ],
+   "text": "HUD @ 1553m-MDTHF, LIB impression Scale during TBCLR biocide injection Jun19",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "26",
+   "name": "Block Arc 25",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8322665,
+   "y": 3028382,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.26,
+    30.57,
+    49.42,
+    33.08
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "27",
+   "name": "TextBox 26",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5261769,
+   "y": 5242247,
+   "cx": 762000,
+   "cy": 579433,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.88,
+    52.92,
+    34.21,
+    58.77
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "28",
+   "name": "TextBox 27",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5269389,
+   "y": 3890166,
+   "cx": 762000,
+   "cy": 579433,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    29.92,
+    39.27,
+    34.25,
+    45.12
+   ],
+   "text": "OPENED",
+   "geom": "rect",
+   "fill": "00B050"
+  },
+  {
+   "kind": "sp",
+   "id": "29",
+   "name": "TextBox 28",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 5340204,
+   "y": 2477201,
+   "cx": 1861326,
+   "cy": 1050615,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    30.32,
+    25.01,
+    40.89,
+    35.61
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "25",
+   "name": "Line Callout 2 24",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2442369,
+   "y": 2711019,
+   "cx": 2677033,
+   "cy": 582515,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    13.87,
+    27.37,
+    29.07,
+    33.25
+   ],
+   "text": "HUD @ 1505m-MDTHF, LIB impression Scale during attempt for ZOC in Mar 2019",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "30",
+   "name": "TextBox 29",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9719469,
+   "y": 2673009,
+   "cx": 2320235,
+   "cy": 605901,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.19,
+    26.98,
+    68.37,
+    33.1
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "31",
+   "name": "TextBox 30",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 10485825,
+   "y": 8832716,
+   "cx": 1081491,
+   "cy": 433244,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    59.54,
+    89.17,
+    65.69,
+    93.54
+   ],
+   "text": "",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "35",
+   "name": "5-Point Star 34",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8590955,
+   "y": 7307600,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    48.78,
+    73.77,
+    50.08,
+    75.36
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "36",
+   "name": "5-Point Star 35",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8406609,
+   "y": 2720564,
+   "cx": 228600,
+   "cy": 157480,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    47.74,
+    27.46,
+    49.04,
+    29.05
+   ],
+   "text": "",
+   "geom": "star5",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "37",
+   "name": "Line Callout 2 36",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 2442368,
+   "y": 1959068,
+   "cx": 2677033,
+   "cy": 582515,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    13.87,
+    19.78,
+    29.07,
+    25.66
+   ],
+   "text": "PLT Apr 2017, indicate injection thru SPM#2",
+   "geom": "borderCallout2"
+  },
+  {
+   "kind": "sp",
+   "id": "38",
+   "name": "Oval 37",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 16348869,
+   "y": 304800,
+   "cx": 838200,
+   "cy": 838200,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    92.84,
+    3.08,
+    97.6,
+    11.54
+   ],
+   "text": "WI",
+   "geom": "ellipse",
+   "fill": "00B0F0"
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "32",
+   "name": "Table 31",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": -7360954,
+   "y": 1930831,
+   "cx": 7018784,
+   "cy": 2402840,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    -41.8,
+    19.49,
+    -1.94,
+    43.75
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History (SS)",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "13-Jul-19",
+     "\"PERFORM PREVENTIVE AND CORRECTIVE MAINTENANCE AT DULANG DELTA       \""
+    ],
+    [
+     "31-Mar-2019",
+     "ZOC (suspended)\nRIH with 2.28\" Tubing Broach 3X from HUD @ 1466m-MDTHF. WOL, manage to pass through to 1519m-MDTHF. POOH. RIH with 2.25\" LIB to HUD @ 1505m-MDTHF, print of scale at side of LIB."
+    ],
+    [
+     "26-Apr-17",
+     "MPLT \nCompleted MPLT injection mode from interval 1500m to 1570m-MDTHF."
+    ]
+   ]
+  },
+  {
+   "kind": "graphicFrame",
+   "id": "33",
+   "name": "Table 32",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 18257880,
+   "y": 1107811,
+   "cx": 7018784,
+   "cy": 5994400,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    103.68,
+    11.18,
+    143.53,
+    71.7
+   ],
+   "table": [
+    [
+     "Well Invention/Integrity History (LS)",
+     ""
+    ],
+    [
+     "Date",
+     "Activities"
+    ],
+    [
+     "27-Sep-19",
+     "\"PERFORM PREVENTIVE AND CORRECTIVE MAINTENANCE AT DULANG DELTA       \""
+    ],
+    [
+     "26-Jun-19",
+     "BIOCIDE INJECTION\nConduct TCC with 2.29\"G.ring get held up @ 1518m-MDTHF.WOL pass through and get held up @ 1553m-MDTHF.RIH 2.25\" LIB get Impression of scale @ 1553m-MDTHF. RIH 2.20 Dummy slickplug get HUD @ 1566m-MDTHF.DB pumping rig up."
+    ],
+    [
+     "28-Apr-17",
+     "MPLT Injection Mode\nCompleted MPLT Injection Mode logged from 1500m to 1678m-MDTHF."
+    ],
+    [
+     "27-Apr-17",
+     "Tbg. Clearance For MPLT\nCompleted tubing clearance for MPLT. Tagged sand@ 1680m-MDTHF and take sample - Confirm sand."
+    ],
+    [
+     "25-Aug-15",
+     "TBCLR and MIT\nRIH 2.29\" Drift and HUD @1676m-MDTHF. RIH 2.25\" LIB to HUD and impression sand at LIB.\nCompleted perform MIT log up from @1673m-MDTHF to surface."
+    ],
+    [
+     "23-Mar-15",
+     "To perform ZONC\nCompleted to perfom ZONC with set 2.25\" CA Plug at D-nogo @ 1679m-MDTHF and open SSD#4 @ 1627m-MDTHF. Offload 17 lifts from Standford Alpha on to maindeck DLD and arrange accordingly."
+    ],
+    [
+     "22-Mar-15",
+     "To perfrom TBCLR prior ZONC\nCompleted to close all SSD and attempted to set CA Plug but HUD at SSD#1 & SSD#2."
+    ]
+   ]
+  },
+  {
+   "kind": "sp",
+   "id": "39",
+   "name": "Block Arc 38",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 8658094,
+   "y": 2794000,
+   "cx": 381000,
+   "cy": 248218,
+   "rot": 180.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    49.17,
+    28.21,
+    51.33,
+    30.71
+   ],
+   "text": "",
+   "geom": "blockArc",
+   "fill": "FF0000"
+  },
+  {
+   "kind": "sp",
+   "id": "9",
+   "name": "TextBox 8",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9753600,
+   "y": 2743200,
+   "cx": 2159000,
+   "cy": 412750,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    55.39,
+    27.69,
+    67.65,
+    31.86
+   ],
+   "text": "HUD @ 1347m WLTHF (multiple times), suspected either scale or tubing partially parted",
+   "geom": "rect"
+  },
+  {
+   "kind": "cxnSp",
+   "id": "41",
+   "name": "Straight Arrow Connector 40",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 9008067,
+   "y": 2918109,
+   "cx": 745533,
+   "cy": 31466,
+   "rot": 0.0,
+   "flipV": true,
+   "flipH": true,
+   "pct": [
+    51.15,
+    29.46,
+    55.39,
+    29.78
+   ]
+  },
+  {
+   "kind": "pic",
+   "id": "48",
+   "name": "Picture 47",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 13091637,
+   "y": 2374900,
+   "cx": 1013260,
+   "cy": 1130300,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    74.34,
+    23.97,
+    80.1,
+    35.38
+   ],
+   "image": "../media/image8.png"
+  },
+  {
+   "kind": "pic",
+   "id": "50",
+   "name": "Picture 49",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 12054999,
+   "y": 2392363,
+   "cx": 1015438,
+   "cy": 1068388,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    68.45,
+    24.15,
+    74.22,
+    34.94
+   ],
+   "image": "../media/image9.png"
+  },
+  {
+   "kind": "sp",
+   "id": "52",
+   "name": "TextBox 51",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 11726224,
+   "y": 8614447,
+   "cx": 5969812,
+   "cy": 167802,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    66.59,
+    86.96,
+    100.49,
+    88.66
+   ],
+   "text": "Last job: TCC (Suspended due to HUD at 1347m)\nDate: 24th Nov 2022\nUpdated by: Pravin Nair",
+   "geom": "rect"
+  },
+  {
+   "kind": "sp",
+   "id": "5",
+   "name": "BJPseudoFooter",
+   "path": [],
+   "hidden": false,
+   "descr": null,
+   "x": 127000,
+   "y": 9398000,
+   "cx": 295915,
+   "cy": 184666,
+   "rot": 0.0,
+   "flipV": false,
+   "flipH": false,
+   "pct": [
+    0.72,
+    94.87,
+    2.4,
+    96.74
+   ],
+   "text": "Open",
+   "geom": "rect"
+  }
+ ]
+}

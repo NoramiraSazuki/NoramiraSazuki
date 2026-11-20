@@ -1,0 +1,530 @@
+{
+  "wellInfo": {
+    "completionDate": "2012-05-01",
+    "completionFluid": "(LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL",
+    "completionType": "PROPOSED COMPLETION SCHEMATIC — Tubing String (OIL PRODUCER); single string",
+    "groundElevation": null,
+    "kbElevation": null,
+    "maxDeviation": "75.47 deg @ 2834 m MD/ 1413 m TVD",
+    "name": "DULANG-D29",
+    "packerFluid": "8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger",
+    "rig": "KM-1",
+    "surfaceCasing": "-",
+    "totalDepth": 9366.798,
+    "trajectoryType": "-",
+    "tubing": "3-1/2\" 13 Cr 9.2 PPF & 2-7/8\" 13Cr 6.4 PPF Inner String; 6-1/8\" Open Hole wt 125 micron 4-1/2\" 12.6 PPF PGAM Screen",
+    "wellhead": "-"
+  },
+  "surveys": [],
+  "components": [
+    {
+      "id": "christmas-tree-1",
+      "type": "christmas-tree",
+      "name": "Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png header name 'Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree' (visual transcription of the pictures (x3 upscale), OCR cross-check)"
+    },
+    {
+      "id": "flow-coupling-1",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 787.402,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 240.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a1 name 'FLOW COUPLING' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '240' = 240.0 m -> 787.402 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '3.920' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "trsv-1",
+      "type": "trsv",
+      "name": "TRSSSV",
+      "topMd": 790.682,
+      "bottomMd": null,
+      "outerDiameter": 5.03,
+      "innerDiameter": 2.813,
+      "topMdM": 241.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a1 name 'TRSSSV' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '241' = 241.0 m -> 790.682 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '5.030' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "flow-coupling-2",
+      "type": "flow-coupling",
+      "name": "FLOW COUPLING",
+      "topMd": 793.963,
+      "bottomMd": null,
+      "outerDiameter": 3.92,
+      "innerDiameter": 2.88,
+      "topMdM": 242.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a1 name 'FLOW COUPLING' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '242' = 242.0 m -> 793.963 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '3.920' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-1",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 1578.084,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 481.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SPM' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '481' = 481.0 m -> 1578.084 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-2",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 2811.68,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 857.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SPM' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '857' = 857.0 m -> 2811.68 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); transcription note: MIN ID / MAX OD printed between rows (shared by the SPM group); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-3",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 4035.433,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1230.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SPM' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '1230' = 1230.0 m -> 4035.433 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); transcription note: as above; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-4",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 5259.187,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1603.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SPM' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '1603' = 1603.0 m -> 5259.187 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); transcription note: as above; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-5",
+      "type": "spm",
+      "name": "3-1/2\" SPM",
+      "topMd": 6446.851,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 1965.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "outerDiameter"
+      ],
+      "estimationNote": "UNCLEAR: MIN ID / MAX OD value not aligned with the row or of low legibility (marked '?')",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SPM' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '1965' = 1965.0 m -> 6446.851 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); transcription note: as above; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "spm-6",
+      "type": "spm",
+      "name": "3-1/2\" Orifice",
+      "topMd": 7608.268,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 2.88,
+      "topMdM": 2319.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: row label names the gas-lift orifice set in a side-pocket mandrel (same MIN ID / MAX OD as the SPM rows) -> SPM (Gas Lift) is the nearest type",
+      "actualType": "3-1/2\" Orifice",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" Orifice' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2319' = 2319.0 m -> 7608.268 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "pup-joint-1",
+      "type": "pup-joint",
+      "name": "PDG",
+      "topMd": 7762.467,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2366.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "UNRESOLVED type: UNRESOLVED: permanent downhole gauge (carrier) has no Type_Key; Pup Joint used as placeholder",
+      "actualType": "PDG",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name 'PDG' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2366' = 2366.0 m -> 7762.467 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); transcription note: permanent downhole gauge; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "sliding-sleeve-1",
+      "type": "sliding-sleeve",
+      "name": "3-1/2\" SSD",
+      "topMd": 7788.714,
+      "bottomMd": null,
+      "outerDiameter": 4.55,
+      "innerDiameter": 2.813,
+      "topMdM": 2374.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" SSD' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2374' = 2374.0 m -> 7788.714 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.813' (column 'MIN ID' = explicit ID); outerDiameter '4.550' (column 'MAX OD' = explicit OD); status/remark 'CLOSE'; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "packer-1",
+      "type": "packer",
+      "name": "7\" x 3-1/2\" AHC Packer",
+      "topMd": 7811.68,
+      "bottomMd": null,
+      "outerDiameter": 5.96,
+      "innerDiameter": 2.9,
+      "topMdM": 2381.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '7\" x 3-1/2\" AHC Packer' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2381' = 2381.0 m -> 7811.68 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.900' (column 'MIN ID' = explicit ID); outerDiameter '5.960' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "nipple-no-go-1",
+      "type": "nipple (no-go)",
+      "name": "3-1/2\" XN-Nipple",
+      "topMd": 7824.803,
+      "bottomMd": null,
+      "outerDiameter": 3.893,
+      "innerDiameter": 2.666,
+      "topMdM": 2385.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png a2 name '3-1/2\" XN-Nipple' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2385' = 2385.0 m -> 7824.803 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.666' (column 'MIN ID' = explicit ID); outerDiameter '3.893' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "mule-shoe-1",
+      "type": "mule-shoe",
+      "name": "3.25\" Self Aligning Muleshoe",
+      "topMd": 8497.376,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.25,
+      "topMdM": 2590.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.25\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3.25\" Self Aligning Muleshoe' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2590' = 2590.0 m -> 8497.376 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '3.25\" Self Aligning Muleshoe' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); transcription note: end of the 3-1/2\" upper string; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "st-slot-locator-1",
+      "type": "st-slot-locator",
+      "name": "3-1/2\" No-Go Locator",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type",
+      "actualType": "3-1/2\" No-Go Locator",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3-1/2\" No-Go Locator' (visual transcription of the pictures (x3 upscale), OCR cross-check); transcription note: no depth printed; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "lc-packer-1",
+      "type": "packer",
+      "name": "4-1/2\" x 7\" VTA Packer",
+      "topMd": 8497.376,
+      "bottomMd": null,
+      "outerDiameter": 6.0,
+      "innerDiameter": 3.88,
+      "topMdM": 2590.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '4-1/2\" x 7\" VTA Packer' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2590' = 2590.0 m -> 8497.376 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '3.880' (column 'MIN ID' = explicit ID); outerDiameter '6.000' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "lc-crossover-1",
+      "type": "crossover",
+      "name": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.25,
+      "innerDiameter": 3.25,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: pin x box sub joining connections -> Crossover is the nearest type",
+      "actualType": "3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3 Way Sub : 4-1/2\"x 4-1/2\"x 2-7/8\" Box X Pin X Pin' (visual transcription of the pictures (x3 upscale), OCR cross-check); innerDiameter '3.250' (column 'MIN ID' = explicit ID); outerDiameter '5.250' (column 'MAX OD' = explicit OD); transcription note: no depth printed; lower-completion item (no string assigned); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "lc-packer-2",
+      "type": "packer",
+      "name": "Oil Swell Packer",
+      "topMd": 8710.63,
+      "bottomMd": 8720.473,
+      "outerDiameter": 5.6,
+      "innerDiameter": 3.958,
+      "topMdM": 2655.0,
+      "bottomMdM": 2658.0,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name 'Oil Swell Packer' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2655' = 2655.0 m -> 8710.63 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); bottomMd '2658' = 2658.0 m -> 8720.473 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '3.958' (column 'MIN ID' = explicit ID); outerDiameter '5.600' (column 'MAX OD' = explicit OD); transcription note: depth range '2655 - 2658'; depth datum: m MD RKB (column headers 'DEPTH MD m RKB'); NOTE: depth range printed for the swell packer element (top - bottom); lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "sliding-sleeve-2",
+      "type": "sliding-sleeve",
+      "name": "2-7/8\" SLIM SSD Inner String",
+      "topMd": 8736.877,
+      "bottomMd": null,
+      "outerDiameter": 3.22,
+      "innerDiameter": 2.313,
+      "topMdM": 2663.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '2-7/8\" SLIM SSD Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2663' = 2663.0 m -> 8736.877 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.313' (column 'MIN ID' = explicit ID); outerDiameter '3.220' (column 'MAX OD' = explicit OD); status/remark 'OPEN'; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "lc-screen-1",
+      "type": "screen",
+      "name": "4-1/2 Premium Screns (1 jt 30 ft)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 5.86,
+      "innerDiameter": 3.894,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '4-1/2 Premium Screns (1 jt 30 ft)' (visual transcription of the pictures (x3 upscale), OCR cross-check); innerDiameter '3.894' (column 'MIN ID' = explicit ID); outerDiameter '5.860' (column 'MAX OD' = explicit OD); transcription note: in the E10-11 box, no depth; depth datum: m MD RKB (column headers 'DEPTH MD m RKB'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "st-slot-locator-2",
+      "type": "st-slot-locator",
+      "name": "No-Go Locator Inner String",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": 4.21,
+      "innerDiameter": 2.41,
+      "topMdM": null,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "type"
+      ],
+      "estimationNote": "type: no-go locator -> ST Slot Locator is the nearest type",
+      "actualType": "No-Go Locator Inner String",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name 'No-Go Locator Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); innerDiameter '2.410' (column 'MIN ID' = explicit ID); outerDiameter '4.210' (column 'MAX OD' = explicit OD); transcription note: no depth printed; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "seal-assembly-1",
+      "type": "seal-assembly",
+      "name": "3.25\" SEAL ASSY Inner String",
+      "topMd": 8753.281,
+      "bottomMd": null,
+      "outerDiameter": 3.29,
+      "innerDiameter": 2.35,
+      "topMdM": 2668.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3.25\" SEAL ASSY Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2668' = 2668.0 m -> 8753.281 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.350' (column 'MIN ID' = explicit ID); outerDiameter '3.290' (column 'MAX OD' = explicit OD); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "lc-packer-3",
+      "type": "packer",
+      "name": "Oil Swell Packer",
+      "topMd": 8858.268,
+      "bottomMd": 8868.111,
+      "outerDiameter": 5.5,
+      "innerDiameter": 3.958,
+      "topMdM": 2700.0,
+      "bottomMdM": 2703.0,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name 'Oil Swell Packer' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2700' = 2700.0 m -> 8858.268 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); bottomMd '2703' = 2703.0 m -> 8868.111 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '3.958' (column 'MIN ID' = explicit ID); outerDiameter '5.500' (column 'MAX OD' = explicit OD); transcription note: depth range '2700 - 2703'; depth datum: m MD RKB (column headers 'DEPTH MD m RKB'); NOTE: depth range printed for the swell packer element (top - bottom); lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "nipple-no-go-2",
+      "type": "nipple (no-go)",
+      "name": "3.22\" SLIM XN-Nipple Inner String",
+      "topMd": 8923.885,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": 3.22,
+      "topMdM": 2720.0,
+      "bottomMdM": null,
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter"
+      ],
+      "estimationNote": "innerDiameter: label size 3.22\" has no ID/OD designation -> recorded as ID (user-defined rule)",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3.22\" SLIM XN-Nipple Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2720' = 2720.0 m -> 8923.885 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '3.22\" SLIM XN-Nipple Inner String' (USER-DEFINED RULE: label size without ID/OD designation -> innerDiameter); depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "mule-shoe-2",
+      "type": "mule-shoe",
+      "name": "3.22\" Self Aligning Muleshoe Inner String",
+      "topMd": 8927.166,
+      "bottomMd": null,
+      "outerDiameter": 3.22,
+      "innerDiameter": 2.36,
+      "topMdM": 2721.0,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name '3.22\" Self Aligning Muleshoe Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd '2721' = 2721.0 m -> 8927.166 ft (m MD RKB (column headers 'DEPTH MD m RKB') (equipment depth column as printed)); innerDiameter '2.360' (column 'MIN ID' = explicit ID); outerDiameter '3.220' (column 'MAX OD' = explicit OD); status/remark 'OPEN'; transcription note: end of the inner string; depth datum: m MD RKB (column headers 'DEPTH MD m RKB')"
+    },
+    {
+      "id": "lc-screen-2",
+      "type": "screen",
+      "name": "4-1/2 Premium Screns (1 jt 30 ft)",
+      "topMd": null,
+      "bottomMd": null,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": null,
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b2 name '4-1/2 Premium Screns (1 jt 30 ft)' (visual transcription of the pictures (x3 upscale), OCR cross-check); transcription note: in the E12-13A box, no depth; depth datum: m MD RKB (column headers 'DEPTH MD m RKB'); NOTE: lower-completion item (gravel-pack / screen / swell-packer assembly, no string assigned)"
+    },
+    {
+      "id": "casing-shoe-1",
+      "type": "casing",
+      "name": "SHOE 2622 m MDDF 1351 m TVD DF",
+      "topMd": null,
+      "bottomMd": 8602.362,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": null,
+      "bottomMdM": 2622.0,
+      "estimated": true,
+      "estimatedFields": [
+        "bottomMd"
+      ],
+      "estimationNote": "DATUM: shoe printed in MDDF; not shifted; casing size not printed with the shoe",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png diagram name 'SHOE 2622 m MDDF 1351 m TVD DF' (visual transcription of the pictures (x3 upscale), OCR cross-check); bottomMd 'SHOE 2622 m MDDF / 1351 m TVD DF (7\" casing shoe; size not printed)' = 2622.0 m -> 8602.362 ft (m MDDF as printed); bottomTvd 1351.0 m TVD DF x 3.28084 = 4432.415 ft (TVD as printed)",
+      "bottomTvd": 4432.415,
+      "bottomTvdM": 1351.0
+    },
+    {
+      "id": "tubing-1",
+      "type": "tubing",
+      "name": "3-1/2\" 13 Cr 9.2 PPF",
+      "topMd": null,
+      "bottomMd": 8497.376,
+      "outerDiameter": null,
+      "innerDiameter": 3.5,
+      "topMdM": null,
+      "bottomMdM": 2590.0,
+      "weight": 9.2,
+      "grade": "13 Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: bottom = row marked as the end of the string in the transcription '3.25\" Self Aligning Muleshoe' (mule-shoe-1); top not set: depth reference is m MD RKB (column headers 'DEPTH MD m RKB'), not the tubing hanger (0 would not be supported)",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png header name '3-1/2\" 13 Cr 9.2 PPF' (visual transcription of the pictures (x3 upscale), OCR cross-check); bottomMd '3.25\" Self Aligning Muleshoe' = 2590.0 m -> 8497.376 ft (m MD RKB (column headers 'DEPTH MD m RKB'); depth of '3.25\" Self Aligning Muleshoe' (mule-shoe-1)); innerDiameter '3-1/2\" 13 Cr 9.2 PPF' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "inner-string-tubing-1",
+      "type": "tubing",
+      "name": "2-7/8\" 13Cr 6.4 PPF Inner String",
+      "topMd": null,
+      "bottomMd": 8927.166,
+      "outerDiameter": null,
+      "innerDiameter": 2.875,
+      "topMdM": null,
+      "bottomMdM": 2721.0,
+      "weight": 6.4,
+      "grade": "13Cr",
+      "estimated": true,
+      "estimatedFields": [
+        "innerDiameter",
+        "bottomMd"
+      ],
+      "estimationNote": "innerDiameter: header size has no ID/OD designation -> recorded as ID (user-defined rule); DERIVED: bottom = row marked as the end of the string in the transcription '3.22\" Self Aligning Muleshoe Inner String' (mule-shoe-2); inner top not printed -> empty",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png header name '2-7/8\" 13Cr 6.4 PPF Inner String' (visual transcription of the pictures (x3 upscale), OCR cross-check); bottomMd '3.22\" Self Aligning Muleshoe Inner String' = 2721.0 m -> 8927.166 ft (m MD RKB (column headers 'DEPTH MD m RKB'); depth of '3.22\" Self Aligning Muleshoe Inner String' (mule-shoe-2)); innerDiameter '2-7/8\" 13Cr 6.4 PPF Inner String' (USER-DEFINED RULE: header size without ID/OD designation -> innerDiameter)"
+    },
+    {
+      "id": "zone-e10-11-1",
+      "type": "perforation",
+      "name": "E10-11 2660-2665 m MDDF",
+      "topMd": 8727.034,
+      "bottomMd": 8743.439,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2660.0,
+      "bottomMdM": 2665.0,
+      "zone": "E10-11",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type; DATUM: interval printed in MDDF; equipment datum m MD RKB (column headers 'DEPTH MD m RKB'); not shifted",
+      "actualType": "E10-11 2660-2665 m MDDF",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b1 name 'E10-11 2660-2665 m MDDF' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd 'E10-11 MD: 2660-2665 m MDDF TVD: 1364 - 1365 mRKB' = 2660.0 m -> 8727.034 ft (m MDDF as printed); bottomMd 'E10-11 MD: 2660-2665 m MDDF TVD: 1364 - 1365 mRKB' = 2665.0 m -> 8743.439 ft (m MDDF as printed); original text: E10-11 MD: 2660-2665 m MDDF TVD: 1364 - 1365 mRKB"
+    },
+    {
+      "id": "zone-e12-13a-1",
+      "type": "perforation",
+      "name": "E12-13A 2717-2725 m MDDF",
+      "topMd": 8914.042,
+      "bottomMd": 8940.289,
+      "outerDiameter": null,
+      "innerDiameter": null,
+      "topMdM": 2717.0,
+      "bottomMdM": 2725.0,
+      "zone": "E12-13A",
+      "estimated": true,
+      "estimatedFields": [
+        "type",
+        "topMd",
+        "bottomMd"
+      ],
+      "estimationNote": "type: reservoir interval printed without the word perforation (interval opposite screens / sleeves); Perforation is the nearest interval type; DATUM: interval printed in MDDF; equipment datum m MD RKB (column headers 'DEPTH MD m RKB'); not shifted",
+      "actualType": "E12-13A 2717-2725 m MDDF",
+      "source": "Dulang D Well Schematic.pptx > slide 30 image74.png b2 name 'E12-13A 2717-2725 m MDDF' (visual transcription of the pictures (x3 upscale), OCR cross-check); topMd 'E12-13A MD: 2717-2725 m MDDF TVD: 1378 - 1383.4 mRKB' = 2717.0 m -> 8914.042 ft (m MDDF as printed); bottomMd 'E12-13A MD: 2717-2725 m MDDF TVD: 1378 - 1383.4 mRKB' = 2725.0 m -> 8940.289 ft (m MDDF as printed); original text: E12-13A MD: 2717-2725 m MDDF TVD: 1378 - 1383.4 mRKB"
+    }
+  ],
+  "cement": [],
+  "plugBackCement": [
+    {
+      "name": "TOC",
+      "topMd": 8940.289,
+      "bottomMd": null
+    }
+  ],
+  "centralizers": [],
+  "floatEquipment": [
+    {
+      "casingId": null,
+      "md": 8933.727,
+      "type": "float shoe",
+      "name": "Double Valve Float Shoe"
+    }
+  ],
+  "formations": [],
+  "formationTops": [],
+  "fluidContacts": []
+}

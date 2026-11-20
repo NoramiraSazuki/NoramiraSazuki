@@ -1,0 +1,77 @@
+WELL | D32 | 33,34 | image83.png (+ slide 34 image84/85/87.png) | WELL NAME: DULANG D-32 (LOCATION : DULANG)
+SRC | 33 | image83.png (picture rotated 90°) | visual transcription of the picture (x3 upscale), OCR cross-check
+DATUM | m MD RKB (column headers 'DEPTH MD m RKB')
+INFO | completionDate | 18-Jun-12
+INFO | rig | KM-1
+INFO | maxDeviation | 59.62 DEG @ 1059 Meter MD DF / 938 Meter TVD DF
+INFO | tubing | 3-1/2" 13Cr 9.2 PPF & 2-7/8" SC 13Cr 6.4 PPF Inner String; 9-5/8" Cased Hole wt 6-5/8" 125 Micron PGAM Screen + 8" Swell Packer
+INFO | xmas | Conventional Solar Alert 5K Wellhead & Single F-F Trim Christmas Tree
+INFO | completionFluid | (LOWER COMPLETION) 10.2 ppg Sodium Formate (treated with fluid loss); (UPPER COMPLETION) 8.5 ppg KCL
+INFO | packerFluid | 8.5 ppg Drill water + KCl based fluid + 0.1% vol. Bacteride + 2% vol. CONQOR 303A Corrosion Inhibitor + 1% vol. O2 scavenger
+INFO | completionType | PROPOSED COMPLETION SCHEMATIC — SHORT STRING (OIL PRODUCER) / LONG STRING (OIL PRODUCER) (Vinod / Nazar - June 2012)
+TUBING | 3-1/2" 13Cr 9.2 PPF | 3.5 | 9.2 | 13Cr | Short |
+TUBING | 3-1/2" 13Cr 9.2 PPF | 3.5 | 9.2 | 13Cr | Long |
+TUBING | 2-7/8" SC 13Cr 6.4 PPF Inner String | 2.875 | 6.4 | 13Cr | inner |
+ROW | S | 3-1/2" FLOW COUPLING | 237 |  |  |  |  | MIN ID / MAX OD columns empty | left
+ROW | S | 3-1/2" TRSSSV | 238 |  |  |  |  |  | left
+ROW | S | 3-1/2" FLOW COUPLING | 240 |  |  |  |  |  | left
+ROW | S | 3-1/2" SPM | 506 |  |  |  |  |  | left
+ROW | S | 3-1/2" SPM | 767 |  |  |  |  |  | left
+ROW | S | 3-1/2" SPM | 1061 |  |  |  |  |  | left
+ROW | S | 3-1/2" SPM | 1372 |  |  |  |  |  | left
+ROW | S | 3-1-2" Orifice | 1570 |  |  |  |  |  | left
+ROW | S | 3-1/2" X-NIPPLE | 1580 |  |  |  |  |  | left
+ROW | D | 9-5/8" x 3-1/2" x 3-1/2" DUAL RDH PACKER | 1589 |  |  |  |  | printed in the long-string column | left
+ROW | S | 3-1/2" SSD | 1619 |  |  |  | ?OPEN | status column position-matched (status column sits on the long-string side) | left
+ROW | S | 3-1/2" XN-NIPPLE | 1664 |  |  |  |  | end of the short string (XN nipple is the last item printed) | left
+ROW | L | 3-1/2" FLOW COUPLING | 246 |  |  |  |  |  | left
+ROW | L | 3-1/2" TRSSSV | 247 |  |  |  |  |  | left
+ROW | L | 3-1/2" FLOW COUPLING | 249 |  |  |  |  |  | left
+ROW | L | 3-1/2" SPM | 390 |  |  |  |  |  | left
+ROW | L | 3-1/2" SPM | 624 |  |  |  |  |  | left
+ROW | L | 3-1/2" SPM | 878 |  |  |  |  |  | left
+ROW | L | 3-1/2" SPM | 1228 |  |  |  |  |  | left
+ROW | L | 3-1-2" Orifice | 1550 |  |  |  |  |  | left
+ROW | L | 3-1/2" SSD | 1558 |  |  |  | CLOSE |  | left
+ROW | L | Y-Block Assy 4 Way 4-1/2",3-1/2",3-1/2",2-7/8" | 1666 |  |  |  |  |  | left
+ROW | D | 9-5/8" x 3-1/2" x 3-1/2" DUAL RDH PACKER | 1610 |  |  |  |  | second dual packer printed after the Y-block (1666) — out of sequence | left
+ROW | L | 4-1/2" Flush Joint |  |  |  |  |  | no depth printed | left
+ROW | L | 5 "Seal Bore wt No-Go Locator | 1715 |  |  |  |  |  | left
+ROW | Lw | 3 Meter Oil Swell Packer | 1717 | 1720 |  |  |  |  | right
+ROW | Lw | 3 Meter Oil Swell Packer | 1763 | 1766 |  |  |  |  | right
+ROW | L | 3.25" Seal Bore Ext | 1769 |  |  |  |  |  | right
+ROW | L | 3.22" Slim Line SSD | 1773 |  |  |  | CLOSE |  | right
+ROW | L | 3.22" Self Alingning Muleshoe | 1774 |  |  |  |  |  | right
+ROW | Lw | 6-5/8" x 6-5/8" x 2-7/8" 3 Way Sub | 1774 |  |  |  |  |  | right
+ROW | Lw | 3 Meter Oil Swell Packer | 1779 | 1782 |  |  |  |  | right
+ROW | L | 3.22" Slim Line SSD | 1792 |  |  |  | OPEN |  | right
+ROW | L | 3.25" Seal Bore Ext | 1802 |  |  |  |  |  | right
+ROW | Lw | 3 Meter Oil Swell Packer | 1805 | 1808 |  |  |  |  | right
+ROW | L | 3.22" Slim Line SSD | 1828 |  |  |  | OPEN |  | right
+ROW | L | 3.25" Seal Bore Ext | 1867 |  |  |  |  |  | right
+ROW | Lw | 3 Meter Oil Swell Packer | 1871 | 1874 |  |  |  |  | right
+ROW | L | 3.22" Slim Line SSD | 1877 |  |  |  | OPEN |  | right
+ROW | L | 3.22" XN-Nipple | 1891 |  |  |  |  |  | right
+ROW | L | 3.25" Self Aligning Muleshoe | 1892 |  |  |  |  | end of the long-string inner string | right
+FLOAT | Double Valve Float Shoe | 1900 | MD m RKB | Double Valve Float Shoe 1900
+ZONE | E2 | 1703 | 1710 | RKB | E2 MD: 1703-1710 mRKB | left | interval
+ZONE | E6 – E7 | 1723 | 1725 | MD | Reservoir E6 – E7 1) 1723 – 1725 Meter MD ( 2 meter) | right | interval
+ZONE | E6 – E7 | 1727 | 1735 | MD | 2) 1727 – 1735 Meter MD ( 8 meter) | right | interval
+ZONE | E6 – E7 | 1739 | 1741 | MD | 3) 1739 – 1741 Meter MD ( 2 meter) | right | interval
+ZONE | E6 – E7 | 1747 | 1751 | MD | 4) 1747 – 1751 Meter MD ( 4 meter) | right | interval
+ZONE | E6 – E7 | 1755 | 1760 | MD | 5) 1755 – 1760 Meter MD ( 5 meter) | right | interval
+ZONE | E10-11 | 1786 | 1790 | MD | Reservoir E10-11 1) 1786 – 1790 Meter MD (4 meter) | right | interval
+ZONE | E10-11 | 1793 | 1800 | MD | 2) 1793 – 1800 Meter MD (7 meter) | right | interval
+ZONE | E12-13 | 1820 | 1824 | MD | Reservoir E12-13 1) 1820 – 1824 Meter MD ( 4 meter) | right | interval
+ZONE | E12-13 | 1827 | 1832 | MD | 2) 1827 – 1832 Meter MD ( 5 meter) | right | interval
+ZONE | E12-13 | 1834 | 1840 | MD | 3) 1834 – 1840 Meter MD ( 6 meter) | right | interval
+ZONE | E12-13 | 1856 | 1860 | MD | 4) 1856 – 1860 Meter Md ( 4 meter) | right | interval
+ZONE | E14 | 1876 | 1879 | MD | Reservoir E14 1) 1876 – 1879 Meter MD ( 3 meter) | right | interval
+TD | 1941 | MD DF | TD : 1941 Meter MD DF (diagram 'TD 1941')
+NOTE | slide 34 image84/85.png | HALLIBURTON COMPLETION REPORT, WELL: DULANG D32, DATE 19-Jun-12 (RKB): CASING 9-5/8" 47# L80 VAM TOP 1941.00; TUBING LS 3 1/2" 9.2# L80-13CR JFE-FOX 1774.84; LS 2 7/8" 6.4# L80-13CR JFE-FOX 1893.13; SS 3 1/2" 9.2# L80-13CR JFE-FOX 1712.14; COMPLETION TYPE Dual Completion Oil Producer; COMPLETION FLUID 8.5ppg KCL; MAX DEVIATION = 59.62 DEG @ 1059m MDDF; PACKER RELEASE: BHD 72K LBS OVERPULL ON L/S TO RELEASE; 9-5/8" VGP PACKER USE HALLIBURTON RETRIEVING TOOL TO RELEASE; long-string tally: HANGER DUAL 13-5/8" NOM 3-3/4-4SA-2G LH X 3 1/2" 18.94 (2.992/13.480); Flow Cplg 246.96; 3 1/2" TRSV NE JFE Fox BxP 13cr 247.79 (2.813/5.030); Flow Cplg 249.28; SPM GLV 390.97 / 623.57 / 878.64 / 1228.60; SPM ORIFICE 1549.56; 3 1/2" SSD 1557.99 (2.813/4.550); Packer- 9 5/8" 43-47# BHD 1589.48 COE (2.880/8.475); Y-Block Assy 4Way 1666.10 (2.441/8.320); Seal Assy 3.250 1769.73 (2.350/3.290); SlimLine 2.313 1772.75 (2.313/3.220); SDG Self Align 3.250 1774.01 (2.360/3.220); End of Tubing 1774.84
+NOTE | slide 34 image87.png | same report, short-string tally (page 2): Flow Cplg 237.98; TRSV 238.82 (2.813/5.030); Flow Cplg 240.31; SPM GLV 506.43 / 766.80 / 1061.41 / 1372.19; SPM ORIFICE 1569.86; X Nipple 2.813" 1580.52; Packer BHD 1589.48; ADJ UNN 1592.80; 3 1/2" SSD 1619.22; XN Nipple 2.750" 1664.42 (2.690/3.960); Y-Block 1666.10; NO-GO Loc 4 1/2" 1715.52; Seal Unit MSN 4.50 1713.14; SDG Self Align 4.50 1712.14 End of Tubing; PERFORATION INTERVAL: SAND E2 (OIL) 1703.000 - 1710.000 m MDDF (7 m); SAND E6 - E7 (OIL) 1723 -1725, 1727 -1735, 1739 -1741, 1747 -1751, 1755 -1760 m MDDF; SAND E10 - 11 1786 -1790, 1793 -1800 m MDDF; SAND 12 - 13 1820 -1824, 1827 -1832, 1834 -1840, 1856 -1860 m MDDF (rest cropped)
+NOTE | slide 33 | slide boxes: 'OPENED – E2', 'OPENED – E6/7', 'OPENED – E12/13', 'CLOSED – E14', 'CLOSED – E10/11'; SPM table; Jul 15 zone change note (SSD-5 closed at 1866 m-wldthf, SSD-4 open 1818, SSD-3 open 1780)
+ISSUE | Conflict | slide 33 vs slide 34 | two revisions of D-32: slide 33 PROPOSED schematic (June 2012, whole-metre RKB depths) and slide 34 Halliburton completion report (19-Jun-12, RKB to 2 dp; one BHD packer at 1589.48 instead of two DUAL RDH packers; short string ends at 1712.14) — not merged; slide 33 mapped, slide 34 recorded in notes
+ISSUE | Conflict | picture | second 'DUAL RDH PACKER' printed at 1610 below the Y-block at 1666 — kept as printed
+ISSUE | Unclear | picture | short-string status 'OPEN' position-matched to the 3-1/2" SSD at 1619 (status column sits on the long-string side)
+ISSUE | Unclear | picture | PROPOSED COMPLETION SCHEMATIC; zones in 'Meter MD' (datum not stated) / mRKB; PBTD not printed

@@ -1,0 +1,47 @@
+WELL | A25 | 22 | image50.png + image51.png | WELL A-25 : SINGLE OIL PRODUCER (TYPE 1)
+SRC | 22 | image50.png + image51.png | visual transcription of the screenshot pictures (x3 upscale, upper part image50 / lower part image51)
+DATUM | m MDTHF (column headers 'DEPTH m MDTHF')
+INFO | completionDate | 15 OCTOBER 1993
+INFO | rig | TEKNIK BERKAT
+INFO | tubing | 2 7/8" 6.5 PPF N-80 TKC 40/40
+INFO | xmas | INGRAM CACTUS, SINGLE, 3M
+INFO | maxDeviation | 56.2 DEG
+INFO | rte | 14.65 m
+INFO | completionType | SINGLE OIL PRODUCER (TYPE 1)
+CASING | 18 5/8" X-56, COND 87.5 ppf @ 458.2 m MDDF | 18.625 | 87.5 | X-56 | 458.2 | MDDF
+CASING | 13 3/8" K-55, SURF. 54.5 ppf @ 1143.3 mMDDF | 13.375 | 54.5 | K-55 | 1143.3 | MDDF
+CASING | 9 5/8" K-55, N-80 @ 40 ppf @ 1933.6 m MDDF | 9.625 | 40 | K-55, N-80 | 1933.6 | MDDF
+TUBING | 2 7/8" 6.5 PPF N-80 TKC 40/40 | 2.875 | 6.5 | N-80 | - |
+ROW | X | FLOW COUPLING | 136.4 |  | 2.441 |  |  |  | p1
+ROW | X | TRDP-4A SCSSV | 137.2 |  | 2.312 |  |  |  | p1
+ROW | X | WP-1 NIPPLE | 289.1 |  | 2.312 |  |  |  | p1
+ROW | X | KBMG-M-SPM | 593.1 |  | 2.371 |  | GLV CAMCO BKF-6 ?/16, 535 Ptro (21/6/99); ?DV (May 2017) | printed status (port size low legibility); later status from slide text box obj #15 matched by position | p1
+ROW | X | KBMG-M-SPM | 1089.8 |  | 2.371 |  | ?DV (Feb 2018) | status from slide text box obj #34 matched by position | p1
+ROW | X | KBMG-M-SPM | 1372.0 |  | 2.371 |  | ?DV (Feb 2018) | status from slide text box obj #36 matched by position | p1
+ROW | X | KBMG-M-SPM | 1507.5 |  | 2.371 |  | ?DV | status from slide text box obj #38 matched by position | p1
+ROW | X | WP-2DE SSD | 1697.0 |  | 2.312 |  | CLOSED |  | p2
+ROW | X | CENTRALIZER | 1703.1 |  | 2.441 |  |  |  | p2
+ROW | X | LOC. SEAL ASSY. | 1704.1 |  | 2.441 |  |  |  | p2
+ROW | X | GUIB MAGNUM 'GT' PACKER | 1705.0 |  | 4.000 |  |  |  | p2
+ROW | X | SEAL BORE EXT | 1707.6 |  | 4.000 |  |  |  | p2
+ROW | X | 'D' NO-GO NIPPLE | 1711.7 |  | 2.250 |  | ?2.25" CA plug @1714m-MDTHF (Feb 18) | CA plug note (slide text box obj #4) placed beside this row | p2
+ROW | X | PERFT. PUP JOINT | 1712.2 |  | 2.441 |  |  |  | p2
+ROW | X | LONG SLOT DEBRIS SUB. | 1727.3 |  | 2.441 |  |  |  | p2
+ROW | X | TCP FIRING HEAD | 1737.4 |  | 1.550 |  |  |  | p2
+ROW | X | SAFETY SPACER | 1739.4 |  |  |  |  |  | p2
+ROW | X | 3 3/8" TCP GUN |  |  |  |  |  | depth not printed (gun spans the E-14 perforations) | p2
+ROW | X | BOTTOM NOSE | 1774.9 |  |  |  |  | end of string (bottom of the TCP gun assembly) | p2
+ZONE | E-14 | 1741.6 | 1774.6 | MDTHF | SAND: E-14 PERFORATION 1741.6 m 1774.6 m (datum not printed) | p2 | perf
+ZONE | E2A | 1610 | 1622 | MDTHF | slide text box obj #20 'E2A: 1610-1622mMDTHF' | slide obj #20 | perf
+PBTD | 1828.3 |  | PBTD 1828.3 (diagram, unit/datum not printed; header PBTD blank)
+CEMENT | Cement above the cement retainer (TOC) | 1449 |  | MDTHF | TOC:1449mMDTHF (slide 22 obj #8)
+INT | Cement retainer @ 1682m MDTHF (Sep 2018) | 1682 | MDTHF | 5
+INT | 2.25" CA plug @1714m-MDTHF (Feb 18) | 1714 | MDTHF | 4
+INT | CS Lock + Storm Choke (200psi). TR flapper locked open Feb 2018 |  |  | 12
+NOTE | picture p1 | 1/4" CONTROL LINE (to the SCSSV)
+NOTE | slide 22 obj #56 | Baker packoff assembly (52m – 58m WLTHF) to isolate leak at 55m (from ponytail run in Feb 2023) (wireline depths — not used as MD)
+NOTE | slide 22 obj #9 | Latest Update: Apr 2023
+ISSUE | Missing | header | PACKER FLUID and PBTD blank in the header; TD not printed
+ISSUE | Unclear | picture p2 | PBTD 1828.3 and the E-14 perforation 1741.6 – 1774.6 printed without datum; read as m MDTHF like the depth columns
+ISSUE | Unclear | picture p1 | GLV port size printed '?/16' (low legibility)
+ISSUE | Unclear | slide 22 | DV statuses are slide text boxes matched to SPM rows by vertical position

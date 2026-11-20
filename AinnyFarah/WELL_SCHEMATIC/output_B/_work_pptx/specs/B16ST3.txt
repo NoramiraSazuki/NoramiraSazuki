@@ -1,0 +1,47 @@
+WELL | B16ST3 | 16 | native slide shapes (non-table layout) | B-16ST3 WELL COMPLETION DIAGRAM (DULANG UNIT REVISIT I); Well No. : B-16ST3
+SRC | 16 | native slide text | native PowerPoint text boxes; depth / MIN ID / MAX OD columns are single multi-line text boxes, rows paired with labels by vertical position on the render (visual check)
+DATUM | m MDDF ('All Depth in : m-MDDF')
+INFO | completionDate | 15 January 2002
+INFO | wellhead | Cooper cameron, 3-1/8",3000 psi
+INFO | tubing | 2 7/8", 6.4ppf, L-80,  Vam Ace
+INFO | maxDeviation | 80.18 @ 1626m-MDDF
+INFO | completionType | SINGLE STRING (B-16ST3 WELL COMPLETION DIAGRAM)
+TUBING | 2 7/8", 6.4ppf, L-80,  Vam Ace | 2.875 | 6.4 | L-80 | - |
+CASING | 7" TOL / 7" Liner Shoe | 7 |  |  | 2852 | MDDF | 1645 | 7" TOL (label, depth 1645 printed beside it)
+CASING | 4-1/2" TOL / 4-1/2" Liner Shoe | 4.5 |  |  |  | MDDF
+ROW | X | FLOW COUPLING | 155 |  | 2.313 | 4.650 |  | one depth / ID / OD printed for the FLOW COUPLING – TR-SC-SSSV – FLOW COUPLING group, on the first label's line | #174/#297
+ROW | X | TR-SC-SSSV |  |  |  |  |  | no own depth (group depth 155 printed on the flow-coupling line) | #175
+ROW | X | FLOW COUPLING |  |  |  |  |  | no own depth | #207
+ROW | X | X NIPPLE | 289 |  | 2.313 | 4.650 |  |  | #205/#297
+ROW | X | SPM # 3 | 654 |  | 2.441 | 4.375 | (W / IPO 8/64 - 845 psi) |  | #176/#297
+ROW | X | SPM # 2 | 1127 |  | 2.441 | 4.375 | (W / IPO 12/64 - 885 psi) |  | #194/#297
+ROW | X | SPM # 1 |  |  |  |  | (W / GLOV 16/64) | depth 1629 is printed between the SPM # 1 and SSD#3 labels — not assigned | #195
+ROW | X | SSD#3 |  |  | ?2.441 | ?4.375 | CLOSED | depth 1629 ambiguous (SPM # 1 or SSD#3); ID/OD on that line | #286
+ROW | X | 9-5/8" BHR HYD PKR | 1637 |  | 2.441 | 4.375 |  |  | #287/#297
+ROW | X | SSD#2 |  |  |  |  | CLOSED | depth 1657 printed between the '9-5/8" Casing Shoe' and SSD#2 labels — taken as the casing shoe | #288
+ROW | Lw | 7" BWD PKR 4.5" x 3.88" Bore | ?1857 |  |  |  |  | first of three BWD packers; depth on its line | #264/#297
+ROW | Lw | 4-1/2" L-80 LCT B-P Blank | ?2703 |  | ?2.441 | ?4.175 |  | label printed left of the drawing; depth / ID / OD on the next line | #265
+ROW | Lw | 4" P110 NU B-P WWS 8 ga | ?2727 |  | ?3.880 | ?5.875 |  | depth / ID / OD on the line above the label (3.880 equals the BWD packer bore) | #266
+ROW | Lw | 3.25"  Seal Bore Assembly |  |  |  |  |  |  | #293
+ROW | Lw | 7" BWD PKR 4.5" x 3.88" Bore |  |  |  |  |  | second BWD packer, no depth | #267
+ROW | Lw | 4-1/2" L-80 LCT B-P Blank |  |  |  |  |  |  | #268
+ROW | X | SLIMLINE SSD#1 |  |  |  |  | STIFF OPEN 2023 |  | #177
+ROW | Lw | 4" J-55 NU B-P WWS 8 ga |  |  |  |  |  |  | #269
+ROW | Lw | 3.25"  Seal Bore Assembly |  |  |  |  |  |  | #292
+ROW | Lw | 7" BWD PKR 4.5" x 3.88" Bore |  |  |  |  |  | third BWD packer, no depth | #295
+ROW | X | XN NO GO NIPPLE | 2790 |  | ?3.250 | ?5.875 |  | ID/OD 3.250/5.875 printed on the same line (look like seal-bore values) | #206/#297
+ROW | X | EOT | 2795 |  | 2.313 | 3.210 |  | end of the tubing string | #298/#297
+SHOE | 9-5/8" Casing Shoe | 1657 | MDDF |  | 9-5/8" Casing Shoe (depth 1657 on the line below the label)
+ZONE | E 12/13 | 2760 | 2784 | MDDF | E 12/13 (2760-2784) (FB S3; WIR) | #197 | interval
+ZONE | E 14 | 2806 | 2846 | MDDF | E 14  (2806-2846) (FB S3; WIR) | #199 | interval
+ZONE | E 23 | 3060 | 3070 | MDDF | E 23 (FB S3; NDR) (3060-3070) | #283 | interval
+ZONE | E 23 | 3100 | 3110 | MDDF | (3100-3110) | #283 | interval
+ZONE | E 32 | 3160 | 3170 | MDDF | E 32 (FB S3; NDR) (3160-3170) | #204 | interval
+PBTD | 3001 | MDDF | PBTD (label; 3001 printed on its line)
+NOTE | slide 16 obj #297 | unassigned depths in the depth column: 1629 (SPM # 1 / SSD#3), 2860 and 2889 (next to the 7" liner shoe / PBTD labels, with ID/OD 2.250/3.175 and 2.441/3.175), 3121, 3189, 3223 (below the diagram frame; possibly 4-1/2" liner shoe / TD) — not mapped
+NOTE | slide 16 obj #160 | RKB : 37.3m (to sea level); RKB-THF : 21.19m
+NOTE | slide 16 obj #318 | Tubing full cut at 2857m MDDF (May 2023) due to unable to retrieve stiff PXN plug body at no-go nipple
+NOTE | slide 16 | zone status boxes: E 12/13 CLOSED; E 14 OPEN; E 23 OPEN; E 32 OPEN; LAST UPDATE: MAY 2023 BY PRAVIN NAIR
+ISSUE | Unclear | slide 16 obj #297/#163/#296 | depth, MIN ID and MAX OD columns are single multi-line text boxes whose lines do not align with the equipment labels; only rows with a clear vertical match were given depths, uncertain pairings are marked '?' and flagged; 9 equipment labels have no depth
+ISSUE | Conflict | slide 16 obj #318 | tubing was fully cut at 2857 m MDDF in May 2023 — the diagram below the cut (no-go nipple, EOT) is kept as printed with this flag
+ISSUE | Missing | slide 16 | TD not printed with a label (3121 / 3189 / 3223 printed below the frame without labels); 4-1/2" liner shoe depth not assignable

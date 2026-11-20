@@ -1,0 +1,56 @@
+WELL | A28 | 25 | image56.png + image57.png + image58.png | Completion Report — Field: DULANG A, Well No: DLA # 28 (Schlumberger / Petronas Carigali, 16-Jun-02)
+SRC | 25 | image56.png + image57.png + image58.png | visual transcription of the screenshot of the completion report tally (x3 upscale, three pictures)
+DATUM | m (tally column 'Depth Meter'; reference = rig RKB: 'Elevation 14.500', FMC tubing hanger at 12.807)
+INFO | completionDate | 16-Jun-02
+INFO | rig | GAIT # 1
+INFO | tubing | Tbg 2 7/8" 6.4# VA L-80
+INFO | completionFluid | 8.5 ppg Packer Fluid
+INFO | maxDeviation | MAX ANGLE 64.90@1283m-MDDF
+INFO | completionType | SGL (Comp. Type)
+CASING | Csg 9 5/8" 40# BUTT N-80 | 9.625 | 40 | N-80 |  |
+CASING | Liner 7" 23# BUTT N-80 | 7 | 23 | N-80 |  |
+TUBING | Tbg 2 7/8" 6.4# VA L-80 | 2.875 | 6.4 | L-80 | - |
+ROW | X | FMC Single Tubing Hanger | 12.807 |  |  |  |  | tally length 0.360 m | p1
+ROW | X | 2 7/8"Flow Coupling 3FT | 150.470 |  | 2.442 | 3.500 |  | tally length 0.840 m | p1
+ROW | X | 2 7/8"Camco TRM 4A - TRSV -HSS 297 | 151.310 |  | 2.313 | 4.670 |  | item 1; tally length 1.210 m | p1
+ROW | X | 2 7/8"Flow Coupling 3FT | 152.520 |  | 2.442 | 3.500 |  | tally length 0.750 m | p1
+ROW | X | 2 7/8"Camco CamX Nipples - HSN 171 | 304.364 |  | 2.313 | 3.670 |  | item 2; tally length 0.305 m | p1
+ROW | X | 2 7/8"Camco KBMG SPM - 835 PSI 8/64" - 324 HS 10 | 572.426 |  | 2.442 | 4.700 |  | item 3; tally length 2.100 m | p1
+ROW | X | 2 7/8"Camco KBMG SPM - 880 PSI 12/64" - 339 HS 10 | 1169.165 |  | 2.442 | 4.700 |  | item 4; tally length 2.110 m | p2
+ROW | X | 2 7/8"Camco KBMG SPM - 930 PSI 16/64" - 334 HS 10 | 1718.286 |  | 2.442 | 4.700 |  | item 5; tally length 2.100 m | p2
+ROW | X | 2 7/8"Camco KBMG SPM - GLOV 16/64" - 237 HS 3 | 2046.011 |  | 2.442 | 4.700 |  | item 6; tally length 2.090 m | p2
+ROW | X | 2 7/8"Camco CSX-1D SSD - HSO 372 | 2054.888 |  | 2.313 | 3.670 | ?SSD#1 CLOSED @ 2042m-WLTHF | item 7; tally length 0.965 m; status from slide text box obj #6 (wireline depth) matched by SSD order | p2
+ROW | X | No Go Locator | 2061.948 |  | 2.442 | 4.200 |  | tally length 0.390 m | p2
+ROW | X | 3.88" Seal Assy | 2062.338 |  | 3.000 | 3.880 |  | item 8; tally length 3.290 m (into the top 7" gravel-pack packer) | p2
+ROW | X | Adapter | 2065.628 |  | 2.442 | 3.860 |  | tally length 0.350 m | p2
+ROW | X | 2 7/8"XO Slimline SSD | 2081.258 |  | 2.313 | 3.220 | ?SSD#2 @ 2069m-WLTHF OPEN (NOV 17) | item 9; tally length 1.206 m; status from slide text box obj #5 (wireline depth) matched by SSD order | p2
+ROW | X | Adapter | 2142.269 |  | 2.442 | 3.220 |  | tally length 0.240 m | p2
+ROW | X | 3.25"Seal Assy | 2142.509 |  | 2.442 | 3.250 |  | item 10; tally length 3.055 m (into the mid 7" gravel-pack packer) | p2
+ROW | X | Adapter | 2145.564 |  | 2.442 | 3.220 |  | tally length 0.240 m | p2
+ROW | X | 2 7/8"XO Slimline SSD | 2149.644 |  | 2.313 | 3.220 | ?SSD#3 @ 2131m-WLTHF OPEN | item 11; tally length 1.195 m; status from slide text box obj #56 (wireline depth) matched by SSD order | p3
+ROW | X | 2 7/8"Camco CamXN No Go Nipple - HSN 892 | 2159.634 |  | 2.205 | 3.220 |  | item 12; tally length 0.305 m | p3
+ROW | X | 2 7/8"Camco Conical Nose | 2160.934 |  | 2.442 | 3.220 |  | item 13; tally length 0.300 m | p3
+ROW | X | END OF TUBING | 2161.234 |  |  |  |  | end of string | p3
+ROW | Lw | Top 7"Gravel Pack Packer | 2063.000 |  |  |  |  | item A (lower completion) | p3
+ROW | Lw | Mid 7"Gravel Pack Packer | 2143.970 |  |  |  |  | item B (lower completion) | p3
+ROW | Lw | Sump Packer 7"Gravel Pack Packer | 2194.000 |  |  |  |  | item C (lower completion) | p3
+ROW | Lw | 7"Bridge Plug | 2230.000 |  |  |  |  | item D | p3
+ZONE | E 10/11 | 2100.0 | 2106.0 | m (tally reference) | PERFORATIONS E E 10/11 2100.0 M - 2106.0 M | p3 | perf
+ZONE | E 12/13 | 2120.0 | 2126.0 | m (tally reference) | PERFORATIONS E E 12/13 2120.0 M - 2126.0 M | p3 | perf
+ZONE | E 12/13 | 2129.0 | 2140.0 | m (tally reference) | PERFORATIONS E 2129.0 M - 2140.0 M | p3 | perf
+ZONE | E14 | 2170.0 | 2186.0 | m (tally reference) | PERFORATIONS F E14 = 2170.0 M - 2186.0 M | p3 | perf
+ZONE | E20 | 2218.0 | 2226.0 | m (tally reference) | PERFORATIONS G E20 = 2218.0 M - 2226.0 M | p3 | perf
+INT | 2.2" slickplug set at 2119m MDTHF (Nov 2020) to isolate E14 & E20 | 2119 | MDTHF | 11
+NOTE | picture p1 | Company Rep. : NOOR AZIZI H. GHANI ; Completion Eng. : A. LATIEF SLAMET RIADI ; Job Ticket No 22262 ; Pkr Rel's P/U # 37 K, S/O # 13 K
+NOTE | picture p1 | tally corrections: Corrections 0.000 / -1.693 ; Elevation -1.693 / 14.500 (reference of the depth column)
+NOTE | picture p1-p3 | 2 7/8" VamAce pup joints and tubing joints listed between the equipment items (ID 2.442, OD 2.875 / 3.220 slim collars) — covered by the tubing component, not mapped individually
+NOTE | picture p3 | # CONTROLINE USED 17 EACH ; # 2 7/8" VAM ACE TUBING JOINT USED 205 JOINTS ; # 2 7/8" VAM ACE TUBING JOINT SLIM COLLARS 6 JOINTS
+NOTE | slide 25 image56.png | screenshot window title 'DULANG-A28 ST1_WELL COMPLETION REPORT (WORKOVER)__33.pdf - Adobe Reader' (page 6 / 47)
+NOTE | slide 25 obj #21 / #15 / #16 | slide text boxes repeating the perforations: E10/11 2100 – 2106, E12/13 2120 – 2126, 2129 – 2140, E14 2170 - 2186, E20 2218 - 2226
+NOTE | slide 25 obj #32 / #23 / #30 | zone status boxes: OPEN (E10/11 – E12/13), CLOSED (E14), CLOSED (E20)
+NOTE | slide 25 obj #4 | 2.29" Gauge Ring & 2.25" LIB HUD @ 2137m-WLTHF & recovered fine sand (Nov 2017)
+NOTE | slide 25 obj #24 | Latest Update: MAY 2023 BY PRAVIN NAIR
+ISSUE | Unclear | slide 25 | well identity: tally header 'Well No: DLA # 28'; the screenshot file name says 'DULANG-A28 ST1 ... (WORKOVER)' — eDafy lists A28 and A28S1; file named DULANG-A28 from the slide label
+ISSUE | Unclear | picture | depth reference of the tally ('Depth Meter') not named; elevation correction 14.500 m and the tubing hanger at 12.807 m indicate a rig (RKB) reference — recorded as printed, not shifted; the slickplug note (2119 m MDTHF) is on a different datum and its depth is not mapped
+ISSUE | Missing | picture | casing / liner setting depths, PBTD and TD not printed on the report; X-mas tree and packer fluid not stated
+ISSUE | Unclear | slide 25 | SSD statuses come from slide text boxes giving wireline depths (WLTHF); matched to the three SSDs by order
